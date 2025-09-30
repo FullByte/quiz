@@ -1,0 +1,64 @@
+---
+description: Centralized file structure rules - quiz.js and fontawesome.css are shared across all quizzes
+globs: ["**/index.html", "quiz.js", "fontawesome.css"]
+alwaysApply: false
+---
+
+# Centralized File Structure
+
+## Central Files
+
+This project uses **centralized files** to eliminate code duplication:
+
+### `quiz.js` (Root Directory)
+- **Universal JavaScript engine** for all quiz instances
+- Contains the `QuizApp` class with complete quiz functionality
+- **All quiz directories reference this file** via `../../quiz.js`
+- **Never create local `script.js` files** in quiz directories
+
+### `fontawesome.css` (Root Directory)
+- **Central FontAwesome icons** for all quiz instances
+- Contains all essential icons using Unicode symbols
+- **All quiz directories reference this file** via `../../fontawesome.css`
+- **Never create local `fontawesome.css` files** in quiz directories
+
+## File References
+
+**In Quiz Directories:**
+```html
+<!-- Correct references -->
+<script src="../../quiz.js"></script>
+<link rel="stylesheet" href="../../fontawesome.css">
+```
+
+**Quiz-Specific Files (Keep Local):**
+- `quiz.json` - Quiz data and questions
+- `index.html` - Quiz-specific HTML structure
+- `styles.css` - Quiz-specific styling
+- `banner.png` - Quiz-specific banner image
+- `[source].pdf` - Quiz-specific source documents
+
+## Benefits
+
+✅ **No Code Duplication**: Single source of truth for JavaScript and icons  
+✅ **Easy Maintenance**: Bug fixes apply to all quizzes automatically  
+✅ **Consistent Behavior**: All quizzes work identically  
+✅ **Reduced File Size**: No redundant files across directories  
+✅ **Better Caching**: Central files cached once for all quizzes  
+
+## Development Rules
+
+**When Creating New Quizzes:**
+- Use `_template/copyme/` which already references central files
+- Never copy `script.js` or `fontawesome.css` to quiz directories
+- Always use relative paths: `../../quiz.js` and `../../fontawesome.css`
+
+**When Modifying Quiz Logic:**
+- Edit `quiz.js` in root directory
+- Changes apply to ALL quizzes automatically
+- Test multiple quiz instances after changes
+
+**When Adding New Icons:**
+- Add to `fontawesome.css` in root directory
+- Available to ALL quizzes immediately
+- Use Unicode symbols for better compatibility

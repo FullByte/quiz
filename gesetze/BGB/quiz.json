@@ -1,0 +1,1314 @@
+{
+  "quiz": {
+    "title": "BGB-Quiz",
+    "description": "Komplettes Multiple-Choice-Quiz zum BGB mit allen Fragen (Batch 1-5).",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-09-26T09:45:08Z",
+      "notes": "Zusammenführung aller Batches (1-5)."
+    },
+    "sourceDocument": {
+      "title": "Bürgerliches Gesetzbuch (BGB)",
+      "version": "2025",
+      "year": 2025,
+      "pdfFilename": "BGB.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Wann beginnt nach dem BGB die Rechtsfähigkeit eines Menschen?",
+        "options": [
+          "Mit der Empfängnis",
+          "Mit der Vollendung der Geburt",
+          "Mit der Vollendung des 18. Lebensjahres",
+          "Mit der Vollendung des 21. Lebensjahres"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Rechtsfähigkeit beginnt mit der Vollendung der Geburt (§ 1 BGB). Empfängnis, Volljährigkeit oder 21. Lebensjahr sind unzutreffend.",
+        "source": {
+          "citation": "BGB § 1",
+          "pages": "S. 27",
+          "chapter": "Buch 1, Abschnitt 1, Titel 1"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Ab welchem Alter tritt nach dem BGB die Volljährigkeit ein?",
+        "options": [
+          "Mit 16 Jahren",
+          "Mit 18 Jahren",
+          "Mit 21 Jahren",
+          "Mit 25 Jahren"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Volljährigkeit tritt mit Vollendung des 18. Lebensjahres ein (§ 2 BGB).",
+        "source": {
+          "citation": "BGB § 2",
+          "pages": "S. 27",
+          "chapter": "Buch 1, Abschnitt 1, Titel 1"
+        },
+        "tags": [
+          "Definition",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Wer gilt nach § 13 BGB als Verbraucher?",
+        "options": [
+          "Jede natürliche Person, die ein Rechtsgeschäft zu privaten Zwecken abschließt",
+          "Jede juristische Person",
+          "Jeder Unternehmer",
+          "Jede Personengesellschaft"
+        ],
+        "correctIndex": 0,
+        "explanation": "Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu überwiegend privaten Zwecken tätigt (§ 13 BGB).",
+        "source": {
+          "citation": "BGB § 13",
+          "pages": "S. 27",
+          "chapter": "Buch 1, Abschnitt 1, Titel 1"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Wie definiert das BGB den Unternehmer (§ 14)?",
+        "options": [
+          "Nur juristische Personen",
+          "Nur natürliche Personen",
+          "Natürliche oder juristische Personen sowie rechtsfähige Personengesellschaften, die in Ausübung gewerblicher oder selbständiger beruflicher Tätigkeit handeln",
+          "Nur Kaufleute im Sinne des HGB"
+        ],
+        "correctIndex": 2,
+        "explanation": "Unternehmer ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts gewerblich oder beruflich handelt (§ 14 BGB).",
+        "source": {
+          "citation": "BGB § 14",
+          "pages": "S. 27",
+          "chapter": "Buch 1, Abschnitt 1, Titel 1"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Wo muss ein Verein eingetragen werden, um Rechtsfähigkeit zu erlangen?",
+        "options": [
+          "Beim Amtsgericht im Vereinsregister",
+          "Beim Notar",
+          "Beim Handelsregister",
+          "Beim Finanzamt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein nicht wirtschaftlicher Verein erlangt Rechtsfähigkeit durch Eintragung in das Vereinsregister beim zuständigen Amtsgericht (§ 21 BGB).",
+        "source": {
+          "citation": "BGB § 21",
+          "pages": "S. 28",
+          "chapter": "Buch 1, Abschnitt 1, Titel 2"
+        },
+        "tags": [
+          "Regel",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Welches Mindestalter ist für die Gründung eines eingetragenen Vereins erforderlich?",
+        "options": [
+          "3 Mitglieder",
+          "5 Mitglieder",
+          "7 Mitglieder",
+          "10 Mitglieder"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Eintragung in das Vereinsregister setzt voraus, dass der Verein mindestens sieben Mitglieder hat (§ 56 BGB).",
+        "source": {
+          "citation": "BGB § 56",
+          "pages": "S. 33",
+          "chapter": "Buch 1, Abschnitt 1, Titel 2"
+        },
+        "tags": [
+          "Regel",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Wann tritt Geschäftsunfähigkeit nach BGB ein?",
+        "options": [
+          "Vor Vollendung des 7. Lebensjahres",
+          "Vor Vollendung des 10. Lebensjahres",
+          "Vor Vollendung des 14. Lebensjahres",
+          "Ab Geburt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Geschäftsunfähig ist, wer das 7. Lebensjahr nicht vollendet hat oder sich in einem die freie Willensbestimmung ausschließenden Zustand krankhafter Störung befindet (§ 104 BGB).",
+        "source": {
+          "citation": "BGB § 104",
+          "pages": "S. 45",
+          "chapter": "Buch 1, Abschnitt 3, Titel 1"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Wie bezeichnet man das Rechtsgeschäft eines Minderjährigen ohne Einwilligung des gesetzlichen Vertreters, das lediglich rechtlich vorteilhaft ist?",
+        "options": [
+          "Nichtig",
+          "Schwebend unwirksam",
+          "Wirksam",
+          "Unwirksam"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Minderjähriger kann ohne Zustimmung seines Vertreters wirksame Rechtsgeschäfte abschließen, wenn sie ihm lediglich rechtliche Vorteile bringen (§ 107 BGB).",
+        "source": {
+          "citation": "BGB § 107",
+          "pages": "S. 46",
+          "chapter": "Buch 1, Abschnitt 3, Titel 1"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Wie lange beträgt die regelmäßige Verjährungsfrist nach § 195 BGB?",
+        "options": [
+          "1 Jahr",
+          "2 Jahre",
+          "3 Jahre",
+          "5 Jahre"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die regelmäßige Verjährungsfrist beträgt 3 Jahre (§ 195 BGB).",
+        "source": {
+          "citation": "BGB § 195",
+          "pages": "S. 57",
+          "chapter": "Buch 1, Abschnitt 5, Titel 1"
+        },
+        "tags": [
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "Wann beginnt die regelmäßige Verjährungsfrist nach § 199 BGB?",
+        "options": [
+          "Mit dem Tag der Anspruchsentstehung",
+          "Mit dem Ende des Jahres der Anspruchsentstehung und Kenntnis",
+          "Mit der Zustellung einer Mahnung",
+          "Mit Ablauf eines Monats nach Anspruchsentstehung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die regelmäßige Verjährung beginnt mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger Kenntnis hat oder hätte haben müssen (§ 199 BGB).",
+        "source": {
+          "citation": "BGB § 199",
+          "pages": "S. 58",
+          "chapter": "Buch 1, Abschnitt 5, Titel 1"
+        },
+        "tags": [
+          "Frist",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Wie hoch ist der gesetzliche Zinssatz nach § 246 BGB, wenn keine andere Vereinbarung getroffen wurde?",
+        "options": [
+          "2 % jährlich",
+          "3 % jährlich",
+          "4 % jährlich",
+          "5 % jährlich"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der gesetzliche Zinssatz beträgt 4 % jährlich (§ 246 BGB).",
+        "source": {
+          "citation": "BGB § 246",
+          "pages": "S. 66",
+          "chapter": "Buch 2, Abschnitt 1, Titel 1"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q12",
+        "text": "Was ist eine Gattungsschuld (§ 243 BGB)?",
+        "options": [
+          "Eine Schuld, die auf eine konkrete individuelle Sache gerichtet ist",
+          "Eine Schuld, die nur der Art nach bestimmt ist",
+          "Eine Schuld, die nicht erfüllbar ist",
+          "Eine Schuld, die nicht einklagbar ist"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gattungsschuld ist die Verpflichtung zur Leistung einer Sache, die nur nach der Gattung bestimmt ist (§ 243 BGB).",
+        "source": {
+          "citation": "BGB § 243",
+          "pages": "S. 66",
+          "chapter": "Buch 2, Abschnitt 1, Titel 1"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Welche Verjährungsfrist gilt für Rechte an einem Grundstück (§ 196 BGB)?",
+        "options": [
+          "3 Jahre",
+          "5 Jahre",
+          "10 Jahre",
+          "30 Jahre"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ansprüche auf Übertragung oder Änderung von Rechten an Grundstücken verjähren in 10 Jahren (§ 196 BGB).",
+        "source": {
+          "citation": "BGB § 196",
+          "pages": "S. 57",
+          "chapter": "Buch 1, Abschnitt 5, Titel 1"
+        },
+        "tags": [
+          "Frist"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Welche Frist gilt für Schadensersatzansprüche aus vorsätzlicher Körperverletzung (§ 197 BGB)?",
+        "options": [
+          "3 Jahre",
+          "10 Jahre",
+          "20 Jahre",
+          "30 Jahre"
+        ],
+        "correctIndex": 3,
+        "explanation": "Schadensersatzansprüche aus vorsätzlicher Verletzung von Leben, Körper, Gesundheit, Freiheit oder sexueller Selbstbestimmung verjähren in 30 Jahren (§ 197 BGB).",
+        "source": {
+          "citation": "BGB § 197",
+          "pages": "S. 57",
+          "chapter": "Buch 1, Abschnitt 5, Titel 1"
+        },
+        "tags": [
+          "Frist"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Was versteht man unter Notwehr nach § 227 BGB?",
+        "options": [
+          "Die Verteidigung durch staatliche Organe",
+          "Die Verteidigung gegen einen gegenwärtigen rechtswidrigen Angriff",
+          "Die Verteidigung nur durch die Polizei",
+          "Die Verteidigung gegen vergangene Angriffe"
+        ],
+        "correctIndex": 1,
+        "explanation": "Notwehr ist die erforderliche Verteidigung, um einen gegenwärtigen, rechtswidrigen Angriff abzuwehren (§ 227 BGB).",
+        "source": {
+          "citation": "BGB § 227",
+          "pages": "S. 63",
+          "chapter": "Buch 1, Abschnitt 6"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q16",
+        "text": "Wie hoch ist der Verzugszinssatz bei Rechtsgeschäften mit Verbrauchern nach § 288 BGB?",
+        "options": [
+          "3 Prozentpunkte über Basiszinssatz",
+          "4 Prozentpunkte über Basiszinssatz",
+          "5 Prozentpunkte über Basiszinssatz",
+          "9 Prozentpunkte über Basiszinssatz"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bei Verbrauchern beträgt der Verzugszinssatz 5 Prozentpunkte über dem Basiszinssatz (§ 288 Abs. 1 BGB).",
+        "source": {
+          "citation": "BGB § 288",
+          "pages": "S. 74",
+          "chapter": "Buch 2, Abschnitt 1, Titel 1"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist eine Willenserklärung (§ 116 ff. BGB)?",
+        "options": [
+          "Ein rein innerlicher Wille",
+          "Eine Erklärung, die auf die Herbeiführung einer Rechtsfolge gerichtet ist",
+          "Ein tatsächliches Handeln ohne Rechtsfolgewillen",
+          "Eine staatliche Anordnung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Willenserklärung ist eine Äußerung, die auf die Herbeiführung einer Rechtsfolge gerichtet ist (§§ 116 ff. BGB).",
+        "source": {
+          "citation": "BGB § 116-118",
+          "pages": "S. 47-48",
+          "chapter": "Buch 1, Abschnitt 3, Titel 2"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Was passiert, wenn eine Willenserklärung unter einem geheimen Vorbehalt abgegeben wird (§ 116 BGB)?",
+        "options": [
+          "Sie ist unwirksam",
+          "Sie ist anfechtbar",
+          "Sie ist nicht nichtig, es sei denn der andere kennt den Vorbehalt",
+          "Sie wird automatisch wirksam"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine Willenserklärung ist nicht nichtig, weil der Erklärende sich etwas anderes vorbehalten hat, außer der Empfänger kennt den Vorbehalt (§ 116 BGB).",
+        "source": {
+          "citation": "BGB § 116",
+          "pages": "S. 47",
+          "chapter": "Buch 1, Abschnitt 3, Titel 2"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Wie lange beträgt die Widerrufsfrist bei Verbraucherverträgen (§ 355 BGB)?",
+        "options": [
+          "7 Tage",
+          "10 Tage",
+          "14 Tage",
+          "30 Tage"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Widerrufsfrist beträgt 14 Tage (§ 355 Abs. 2 BGB).",
+        "source": {
+          "citation": "BGB § 355",
+          "pages": "S. 106",
+          "chapter": "Buch 2, Abschnitt 3, Titel 5"
+        },
+        "tags": [
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist die Rechtsfolge des Widerrufs nach § 355 BGB?",
+        "options": [
+          "Die Verträge bleiben bestehen",
+          "Nur der Verbraucher ist gebunden",
+          "Beide Parteien sind nicht mehr an den Vertrag gebunden",
+          "Es wird automatisch Schadensersatz geschuldet"
+        ],
+        "correctIndex": 2,
+        "explanation": "Nach einem Widerruf sind Verbraucher und Unternehmer nicht mehr an ihre Willenserklärungen gebunden (§ 355 Abs. 1 BGB).",
+        "source": {
+          "citation": "BGB § 355",
+          "pages": "S. 106",
+          "chapter": "Buch 2, Abschnitt 3, Titel 5"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Welche Hauptpflichten ergeben sich beim Kaufvertrag nach § 433 BGB?",
+        "options": [
+          "Übergabe der Sache und Zahlung des Kaufpreises",
+          "Nur Zahlung des Kaufpreises",
+          "Nur Übereignung des Geldes",
+          "Miete der Sache und Nutzung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Verkäufer muss die Sache übergeben und Eigentum verschaffen; der Käufer den Kaufpreis zahlen und die Sache abnehmen (§ 433 BGB).",
+        "source": {
+          "citation": "BGB § 433",
+          "pages": "S. 203–204",
+          "chapter": "Buch 2, Schuldrecht, Besonderer Teil, Kaufrecht"
+        },
+        "tags": [
+          "Definition",
+          "Verantwortlichkeit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q22",
+        "text": "Welche Rechte hat der Käufer bei Mängeln (§ 437 BGB)?",
+        "options": [
+          "Nur Rücktritt",
+          "Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Ersatz vergeblicher Aufwendungen",
+          "Nur Nacherfüllung oder Minderung",
+          "Nur Schadensersatz"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 437 BGB gewährt dem Käufer bei Mangel: Nacherfüllung sowie bei Vorliegen der Voraussetzungen Rücktritt, Minderung, Schadensersatz oder Ersatz vergeblicher Aufwendungen.",
+        "source": {
+          "citation": "BGB § 437",
+          "pages": "S. 210–211",
+          "chapter": "Buch 2, Schuldrecht, Besonderer Teil, Kaufrecht"
+        },
+        "tags": [
+          "Regel",
+          "Rechte"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q23",
+        "text": "Wann gerät der Schuldner in Verzug (§ 286 BGB)?",
+        "options": [
+          "Erst nach gerichtlicher Klageerhebung",
+          "Mit Fälligkeit automatisch",
+          "Nach Mahnung oder kalendermäßiger Bestimmung der Leistung",
+          "Nur bei Vorsatz"
+        ],
+        "correctIndex": 2,
+        "explanation": "Verzug tritt grundsätzlich nach Mahnung ein; er kann auch ohne Mahnung eintreten, wenn die Leistung kalendermäßig bestimmt ist oder besondere Voraussetzungen vorliegen (§ 286 BGB).",
+        "source": {
+          "citation": "BGB § 286",
+          "pages": "S. 189–190",
+          "chapter": "Buch 2, Allgemeines Schuldrecht"
+        },
+        "tags": [
+          "Regel",
+          "Frist"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Welche Rechtsfolge hat Unmöglichkeit der Leistung (§ 275 BGB)?",
+        "options": [
+          "Der Anspruch bleibt bestehen",
+          "Der Anspruch ist ausgeschlossen",
+          "Es entsteht immer Schadensersatzpflicht",
+          "Die Leistung wird gestundet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei Unmöglichkeit ist der Anspruch auf Leistung ausgeschlossen (§ 275 Abs. 1 BGB); Schadensersatz richtet sich nach §§ 280, 283 BGB.",
+        "source": {
+          "citation": "BGB § 275",
+          "pages": "S. 182–183",
+          "chapter": "Buch 2, Allgemeines Schuldrecht"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "Welche Voraussetzungen hat der Rücktritt wegen nicht oder nicht vertragsgemäß erbrachter Leistung (§ 323 BGB)?",
+        "options": [
+          "Keine Fristsetzung erforderlich",
+          "Fristsetzung oder Entbehrlichkeit der Frist in gesetzlich geregelten Fällen",
+          "Immer Zustimmung des Schuldners nötig",
+          "Nur bei Geldschulden möglich"
+        ],
+        "correctIndex": 1,
+        "explanation": "Grundsätzlich muss eine angemessene Frist zur Leistung oder Nacherfüllung bestimmt werden; sie ist in bestimmten Fällen entbehrlich (§ 323 BGB).",
+        "source": {
+          "citation": "BGB § 323",
+          "pages": "S. 197–198",
+          "chapter": "Buch 2, Allgemeines Schuldrecht"
+        },
+        "tags": [
+          "Verfahren",
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q26",
+        "text": "Welche Form ist für einen Grundstückskaufvertrag erforderlich (§ 311b BGB)?",
+        "options": [
+          "Einfache Schriftform",
+          "Textform",
+          "Notarielle Beurkundung",
+          "Elektronische Form mit qualifizierter Signatur"
+        ],
+        "correctIndex": 2,
+        "explanation": "Verträge, durch die man sich verpflichtet, Eigentum an einem Grundstück zu übertragen, bedürfen der notariellen Beurkundung (§ 311b Abs. 1 BGB).",
+        "source": {
+          "citation": "BGB § 311b",
+          "pages": "S. 176",
+          "chapter": "Buch 2, Allgemeines Schuldrecht"
+        },
+        "tags": [
+          "Form",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q27",
+        "text": "Was ist eine Schenkung im Sinne von § 516 BGB?",
+        "options": [
+          "Ein Austauschvertrag mit Gegenleistung",
+          "Eine unentgeltliche Zuwendung, wodurch der Beschenkte aus dem Vermögen des Schenkers bereichert wird",
+          "Eine Miete ohne Entgelt",
+          "Eine Leihe gegen Entgelt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Schenkung ist eine unentgeltliche Zuwendung, durch die der Beschenkte auf Kosten des Schenkers bereichert wird (§ 516 BGB).",
+        "source": {
+          "citation": "BGB § 516",
+          "pages": "S. 248",
+          "chapter": "Buch 2, Schuldrecht, Besonderer Teil, Schenkung"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q28",
+        "text": "Welche Pflichten hat der Vermieter aus § 535 BGB?",
+        "options": [
+          "Nur Zahlung der Miete",
+          "Überlassung der Mietsache zum Gebrauch und Erhaltung in vertragsgemäßem Zustand",
+          "Nur Instandhaltung",
+          "Nur Betriebskostenabrechnung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Vermieter muss die Mietsache zum Gebrauch überlassen und sie in vertragsgemäßem Zustand erhalten (§ 535 Abs. 1 BGB).",
+        "source": {
+          "citation": "BGB § 535",
+          "pages": "S. 259–260",
+          "chapter": "Buch 2, Schuldrecht, Besonderer Teil, Mietrecht"
+        },
+        "tags": [
+          "Verantwortlichkeit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Wann kann der Mieter die Miete mindern (§ 536 BGB)?",
+        "options": [
+          "Nur bei Zahlungsunfähigkeit",
+          "Bei Mängeln, die die Tauglichkeit zum vertragsgemäßen Gebrauch aufheben oder mindern",
+          "Nur mit Zustimmung des Vermieters",
+          "Nie"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tritt ein Mangel auf, der die Tauglichkeit zum vertragsgemäßen Gebrauch mindert oder aufhebt, ist die Miete kraft Gesetzes gemindert (§ 536 BGB).",
+        "source": {
+          "citation": "BGB § 536",
+          "pages": "S. 260–261",
+          "chapter": "Buch 2, Schuldrecht, Besonderer Teil, Mietrecht"
+        },
+        "tags": [
+          "Regel",
+          "Rechte"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Was kennzeichnet den Dienstvertrag (§ 611a BGB) im Unterschied zum Werkvertrag (§ 631 BGB)?",
+        "options": [
+          "Dienstvertrag schuldet Erfolg, Werkvertrag nur Tätigkeit",
+          "Beide schulden nur Tätigkeit",
+          "Dienstvertrag schuldet Tätigkeit, Werkvertrag schuldet Erfolg",
+          "Werkvertrag enthält kein Entgelt"
+        ],
+        "correctIndex": 2,
+        "explanation": "Beim Dienstvertrag wird eine Tätigkeit geschuldet, beim Werkvertrag der herbeizuführende Erfolg (§ 611a, § 631 BGB).",
+        "source": {
+          "citation": "BGB §§ 611a, 631",
+          "pages": "S. 236, 270",
+          "chapter": "Buch 2, Schuldrecht, Besonderer Teil"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q31",
+        "text": "Welche Voraussetzung hat ein wirksamer Abtretungsvertrag (§ 398 BGB)?",
+        "options": [
+          "Zustimmung des Schuldners ist erforderlich",
+          "Schriftform ist zwingend",
+          "Einigung zwischen Altgläubiger und Neugläubiger über Forderungsübergang",
+          "Gerichtliche Genehmigung"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Abtretung erfolgt durch Vertrag zwischen dem bisherigen Gläubiger und dem neuen Gläubiger; Zustimmung des Schuldners ist grundsätzlich nicht erforderlich (§ 398 BGB).",
+        "source": {
+          "citation": "BGB § 398",
+          "pages": "S. 171",
+          "chapter": "Buch 2, Allgemeines Schuldrecht"
+        },
+        "tags": [
+          "Verfahren",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q32",
+        "text": "Welche Voraussetzungen hat die Aufrechnung (§ 387 BGB)?",
+        "options": [
+          "Gleichartigkeit der Forderungen und Fälligkeit der Gegenforderung",
+          "Nur schriftliche Erklärung",
+          "Voraussetzung ist ein gerichtliches Urteil",
+          "Nur bei Geldforderungen möglich"
+        ],
+        "correctIndex": 0,
+        "explanation": "Erforderlich sind Gegenseitigkeit, Gleichartigkeit der Forderungen und Durchsetzbarkeit der Gegenforderung (insb. Fälligkeit) (§ 387 BGB).",
+        "source": {
+          "citation": "BGB § 387",
+          "pages": "S. 169–170",
+          "chapter": "Buch 2, Allgemeines Schuldrecht"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q33",
+        "text": "Welche Anspruchsgrundlage regelt den Schadensersatz wegen Pflichtverletzung (§ 280 BGB)?",
+        "options": [
+          "§ 241 BGB",
+          "§ 280 BGB",
+          "§ 311b BGB",
+          "§ 122 BGB"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 280 BGB regelt den Schadensersatz wegen Pflichtverletzung aus Schuldverhältnissen.",
+        "source": {
+          "citation": "BGB § 280",
+          "pages": "S. 185",
+          "chapter": "Buch 2, Allgemeines Schuldrecht"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q34",
+        "text": "Wann ist eine Anfechtung wegen Irrtums möglich (§ 119 BGB)?",
+        "options": [
+          "Bei jedem beliebigen Motivirrtum",
+          "Nur bei Erklärungs- oder Inhaltsirrtum sowie Eigenschaftsirrtum nach § 119 Abs. 2",
+          "Nur bei arglistiger Täuschung",
+          "Nur innerhalb von 14 Tagen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anfechtbar sind Erklärungs- und Inhaltsirrtum (§ 119 Abs. 1) sowie der Eigenschaftsirrtum (§ 119 Abs. 2). Motivirrtümer sind grundsätzlich irrelevant.",
+        "source": {
+          "citation": "BGB § 119",
+          "pages": "S. 50–51",
+          "chapter": "Buch 1, Allgemeiner Teil"
+        },
+        "tags": [
+          "Regel",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Welche Frist gilt für die Anfechtung wegen Irrtums (§ 121 BGB)?",
+        "options": [
+          "Unverzüglich nach Kenntnis",
+          "Ein Jahr",
+          "Drei Jahre",
+          "Zehn Jahre"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Anfechtung muss unverzüglich nach Kenntnis des Anfechtungsgrundes erfolgen (§ 121 BGB).",
+        "source": {
+          "citation": "BGB § 121",
+          "pages": "S. 52",
+          "chapter": "Buch 1, Allgemeiner Teil"
+        },
+        "tags": [
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q36",
+        "text": "Welche Wirkung hat die Anfechtung (§ 142 BGB)?",
+        "options": [
+          "Nichtigkeit ex nunc",
+          "Nichtigkeit ex tunc",
+          "Kündigung des Vertrags",
+          "Nur Minderung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wird eine anfechtbare Willenserklärung angefochten, ist sie von Anfang an (ex tunc) nichtig (§ 142 Abs. 1 BGB).",
+        "source": {
+          "citation": "BGB § 142",
+          "pages": "S. 55",
+          "chapter": "Buch 1, Allgemeiner Teil"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Welche besondere Verjährungsfrist gilt bei Mängelansprüchen beim Kauf beweglicher Sachen (§ 438 BGB)?",
+        "options": [
+          "6 Monate",
+          "1 Jahr",
+          "2 Jahre",
+          "3 Jahre"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die regelmäßige Gewährleistungsfrist beim Kauf beweglicher Sachen beträgt zwei Jahre (§ 438 Abs. 1 Nr. 3 BGB).",
+        "source": {
+          "citation": "BGB § 438",
+          "pages": "S. 213",
+          "chapter": "Buch 2, Kaufrecht"
+        },
+        "tags": [
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Wann ist der Schuldner zum Schadensersatz statt der Leistung verpflichtet (§§ 280, 281 BGB)?",
+        "options": [
+          "Immer bei Verspätung",
+          "Bei Pflichtverletzung und erfolgloser Fristsetzung zur Leistung oder Nacherfüllung",
+          "Nur bei Vorsatz",
+          "Nur wenn ein Rücktritt erklärt wurde"
+        ],
+        "correctIndex": 1,
+        "explanation": "Schadensersatz statt der Leistung setzt eine Pflichtverletzung und grundsätzlich eine erfolglos gesetzte angemessene Frist voraus (§§ 280, 281 BGB).",
+        "source": {
+          "citation": "BGB §§ 280, 281",
+          "pages": "S. 185–186, 192",
+          "chapter": "Buch 2, Allgemeines Schuldrecht"
+        },
+        "tags": [
+          "Verfahren",
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q39",
+        "text": "Welche Formvorschrift gilt für Bürgschaften von Verbrauchern (§ 766 BGB)?",
+        "options": [
+          "Mündliche Erklärung genügt",
+          "Einfache Textform",
+          "Schriftform (eigenhändige Unterschrift), soweit nicht notariell beurkundet",
+          "Notwendige notarielle Beurkundung in jedem Fall"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Verpflichtungserklärung des Bürgen bedarf der Schriftform, sofern sie nicht notariell beurkundet ist (§ 766 BGB).",
+        "source": {
+          "citation": "BGB § 766",
+          "pages": "S. 319",
+          "chapter": "Buch 2, Schuldrecht, Besonderer Teil, Bürgschaft"
+        },
+        "tags": [
+          "Form",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q40",
+        "text": "Was setzt der Annahmeverzug des Gläubigers voraus (§ 293 BGB)?",
+        "options": [
+          "Nur Fälligkeit",
+          "Angebot der Leistung durch den Schuldner und Nichtannahme durch den Gläubiger",
+          "Gerichtliche Feststellung",
+          "Schuldnerschuldnerspezifikation"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gläubigerverzug erfordert ein ordnungsgemäßes Angebot der Leistung durch den Schuldner und das Ausbleiben der Annahme (§ 293 BGB).",
+        "source": {
+          "citation": "BGB § 293",
+          "pages": "S. 191",
+          "chapter": "Buch 2, Allgemeines Schuldrecht"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q41",
+        "text": "Wann liegt ein gegenseitiger Vertrag im Sinne des BGB vor?",
+        "options": [
+          "Wenn beide Parteien unterschiedliche Leistungen schulden",
+          "Wenn nur eine Partei leistet",
+          "Wenn der Staat beteiligt ist",
+          "Wenn es um Arbeitsverträge geht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein gegenseitiger Vertrag liegt vor, wenn beide Parteien Leistungen schulden, die im Verhältnis zueinander stehen (§ 320 BGB).",
+        "source": {
+          "citation": "BGB § 320",
+          "pages": "S. 92",
+          "chapter": "Buch 2, Abschnitt 3, Titel 2"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q42",
+        "text": "Welche Folge hat der Rücktritt nach § 346 BGB?",
+        "options": [
+          "Nur der Käufer muss zurückgeben",
+          "Nur der Verkäufer muss zurückgeben",
+          "Die empfangenen Leistungen sind zurückzugewähren",
+          "Es tritt Schadensersatzpflicht ein"
+        ],
+        "correctIndex": 2,
+        "explanation": "Beim Rücktritt sind die empfangenen Leistungen zurückzugewähren (§ 346 BGB).",
+        "source": {
+          "citation": "BGB § 346",
+          "pages": "S. 105",
+          "chapter": "Buch 2, Abschnitt 3, Titel 5"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q43",
+        "text": "Wann kann ein Gläubiger Schadensersatz statt der Leistung verlangen (§ 281 BGB)?",
+        "options": [
+          "Immer",
+          "Nur wenn eine Pflichtverletzung vorliegt und eine Frist erfolglos gesetzt wurde",
+          "Nur bei arglistigem Verhalten",
+          "Nur bei Rücktritt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Schadensersatz statt der Leistung setzt eine Pflichtverletzung und erfolglose Fristsetzung zur Leistung voraus (§ 281 BGB).",
+        "source": {
+          "citation": "BGB § 281",
+          "pages": "S. 72",
+          "chapter": "Buch 2, Abschnitt 1, Titel 1"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Wann ist eine Schenkung nach § 518 BGB formwirksam?",
+        "options": [
+          "Mündlich",
+          "Immer formfrei",
+          "Durch notarielle Beurkundung",
+          "Durch einfache Schriftform"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Schenkungsversprechen bedarf der notariellen Beurkundung, außer die Leistung ist bereits vollzogen (§ 518 BGB).",
+        "source": {
+          "citation": "BGB § 518",
+          "pages": "S. 145",
+          "chapter": "Buch 2, Abschnitt 8, Titel 4"
+        },
+        "tags": [
+          "Regel",
+          "Form"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Welche Ansprüche gewährt das Eigentum nach § 903 BGB?",
+        "options": [
+          "Beliebige Nutzung, soweit Gesetz oder Rechte Dritter nicht entgegenstehen",
+          "Unbeschränkte Nutzung ohne Rücksicht auf andere",
+          "Nur Nutzungsrecht, kein Verfügungsrecht",
+          "Nur Besitzrecht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Eigentümer darf mit der Sache nach Belieben verfahren, soweit nicht Gesetze oder Rechte Dritter entgegenstehen (§ 903 BGB).",
+        "source": {
+          "citation": "BGB § 903",
+          "pages": "S. 165",
+          "chapter": "Buch 3, Abschnitt 3, Titel 1"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q61",
+        "text": "Wann ist eine Ehe nach § 1314 BGB aufhebbar?",
+        "options": [
+          "Bei schwerer Krankheit",
+          "Bei Geschäftsunfähigkeit eines Ehegatten",
+          "Wenn einer der Ehegatten minderjährig ist und keine Befreiung vorliegt",
+          "Bei Arbeitslosigkeit"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine Ehe ist aufhebbar, wenn ein Ehegatte bei der Eheschließung minderjährig war und keine Befreiung vorlag (§ 1314 BGB).",
+        "source": {
+          "citation": "BGB § 1314",
+          "pages": "S. 194",
+          "chapter": "Buch 4, Abschnitt 1, Titel 3"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q62",
+        "text": "Was regelt der gesetzliche Güterstand der Zugewinngemeinschaft (§ 1363 BGB)?",
+        "options": [
+          "Das Vermögen wird gemeinschaftlich Eigentum beider Ehegatten",
+          "Jeder Ehegatte bleibt Eigentümer seines Vermögens, Zugewinnausgleich erfolgt bei Beendigung",
+          "Es gilt automatisch Gütertrennung",
+          "Alles Vermögen gehört dem Staat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Beim gesetzlichen Güterstand bleibt das Vermögen getrennt, es findet aber ein Zugewinnausgleich im Falle der Beendigung der Ehe statt (§ 1363 BGB).",
+        "source": {
+          "citation": "BGB § 1363",
+          "pages": "S. 196",
+          "chapter": "Buch 4, Abschnitt 1, Titel 6"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q63",
+        "text": "Wann ist die Scheidung einer Ehe nach § 1565 BGB möglich?",
+        "options": [
+          "Immer sofort nach Antragstellung",
+          "Wenn die Ehe gescheitert ist",
+          "Nur bei Zustimmung beider Ehegatten",
+          "Nur nach 10 Jahren Trennung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Ehe kann geschieden werden, wenn sie gescheitert ist (§ 1565 BGB).",
+        "source": {
+          "citation": "BGB § 1565",
+          "pages": "S. 200",
+          "chapter": "Buch 4, Abschnitt 1, Titel 7"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q64",
+        "text": "Welche Rangfolge gilt im Unterhaltsrecht nach § 1609 BGB?",
+        "options": [
+          "Eltern zuerst",
+          "Geschiedene Ehegatten zuerst",
+          "Kinder und Ehegatten zuerst",
+          "Geschwister zuerst"
+        ],
+        "correctIndex": 2,
+        "explanation": "Nach § 1609 BGB haben minderjährige Kinder und Ehegatten Vorrang vor anderen Unterhaltsberechtigten.",
+        "source": {
+          "citation": "BGB § 1609",
+          "pages": "S. 205",
+          "chapter": "Buch 4, Abschnitt 2, Titel 3"
+        },
+        "tags": [
+          "Regel",
+          "Frist"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q65",
+        "text": "Wie kann ein Testament nach § 2247 BGB wirksam errichtet werden?",
+        "options": [
+          "Mündlich vor Zeugen",
+          "Durch einfache E-Mail",
+          "Eigenhändig geschrieben und unterschrieben",
+          "Durch notarielle Beurkundung zwingend"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein eigenhändiges Testament muss handschriftlich verfasst und unterschrieben sein (§ 2247 BGB).",
+        "source": {
+          "citation": "BGB § 2247",
+          "pages": "S. 266",
+          "chapter": "Buch 5, Abschnitt 3, Titel 7"
+        },
+        "tags": [
+          "Regel",
+          "Form"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q81",
+        "text": "Was ist nach § 929 BGB für die Übereignung einer beweglichen Sache erforderlich?",
+        "options": [
+          "Ein schriftlicher Vertrag",
+          "Einigung und Übergabe",
+          "Ein notarieller Vertrag",
+          "Nur die Zahlung des Kaufpreises"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zur Übertragung des Eigentums an einer beweglichen Sache ist Einigung und Übergabe erforderlich (§ 929 BGB).",
+        "source": {
+          "citation": "BGB § 929",
+          "pages": "S. 162",
+          "chapter": "Buch 3, Abschnitt 3, Titel 3"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q82",
+        "text": "Wann erwirbt man Eigentum durch Ersitzung (§ 937 BGB)?",
+        "options": [
+          "Nach 10 Jahren Eigenbesitz",
+          "Nach 20 Jahren Eigenbesitz",
+          "Nach 30 Jahren Eigenbesitz",
+          "Nie, Ersitzung gibt es nicht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Eigenbesitzer einer beweglichen Sache wird nach 10 Jahren Eigentümer, sofern er nicht unredlich war (§ 937 BGB).",
+        "source": {
+          "citation": "BGB § 937",
+          "pages": "S. 166",
+          "chapter": "Buch 3, Abschnitt 3, Titel 3"
+        },
+        "tags": [
+          "Definition",
+          "Frist"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q83",
+        "text": "Welche Form ist für einen Grundstückskaufvertrag nach § 311b BGB vorgeschrieben?",
+        "options": [
+          "Formfrei möglich",
+          "Schriftform",
+          "Notarielle Beurkundung",
+          "Beglaubigte E-Mail"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Grundstückskaufvertrag bedarf der notariellen Beurkundung (§ 311b BGB).",
+        "source": {
+          "citation": "BGB § 311b",
+          "pages": "S. 83",
+          "chapter": "Buch 2, Abschnitt 3, Titel 1"
+        },
+        "tags": [
+          "Form",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q84",
+        "text": "Welche Voraussetzung gilt für die Anfechtung einer Willenserklärung wegen Irrtums (§ 119 BGB)?",
+        "options": [
+          "Nur bei arglistigem Täuschungsversuch",
+          "Der Irrtum muss wesentlich sein",
+          "Immer möglich",
+          "Nur bei Zustimmung des Vertragspartners"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Willenserklärung kann wegen Irrtums angefochten werden, wenn der Irrtum wesentlich ist (§ 119 BGB).",
+        "source": {
+          "citation": "BGB § 119",
+          "pages": "S. 47",
+          "chapter": "Buch 1, Abschnitt 3, Titel 2"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q85",
+        "text": "Wie lange beträgt die Erbfolgefrist nach § 1944 BGB zur Ausschlagung einer Erbschaft?",
+        "options": [
+          "1 Woche",
+          "2 Wochen",
+          "6 Wochen",
+          "3 Monate"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Frist zur Ausschlagung einer Erbschaft beträgt 6 Wochen (§ 1944 BGB).",
+        "source": {
+          "citation": "BGB § 1944",
+          "pages": "S. 252",
+          "chapter": "Buch 5, Abschnitt 1, Titel 1"
+        },
+        "tags": [
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q86",
+        "text": "Welche Wirkung hat die Annahme eines Erbscheins (§ 1943 BGB)?",
+        "options": [
+          "Die Erbschaft ist bindend angenommen",
+          "Die Erbschaft kann jederzeit widerrufen werden",
+          "Die Erbschaft verfällt",
+          "Die Erbschaft ist formnichtig"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mit Annahme oder Ablauf der Ausschlagungsfrist ist die Erbschaft bindend angenommen (§ 1943 BGB).",
+        "source": {
+          "citation": "BGB § 1943",
+          "pages": "S. 252",
+          "chapter": "Buch 5, Abschnitt 1, Titel 1"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q87",
+        "text": "Was bedeutet Nießbrauch nach § 1030 BGB?",
+        "options": [
+          "Recht, Eigentum zu übertragen",
+          "Recht, Besitz dauerhaft zu erwerben",
+          "Recht, die Nutzungen einer Sache zu ziehen",
+          "Recht, eine Sache zu zerstören"
+        ],
+        "correctIndex": 2,
+        "explanation": "Nießbrauch ist das Recht, die Nutzungen einer Sache zu ziehen (§ 1030 BGB).",
+        "source": {
+          "citation": "BGB § 1030",
+          "pages": "S. 172",
+          "chapter": "Buch 3, Abschnitt 4, Titel 2"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q88",
+        "text": "Welche Kündigungsfrist gilt bei einem Mietverhältnis auf unbestimmte Zeit (§ 573c BGB)?",
+        "options": [
+          "1 Monat",
+          "3 Monate",
+          "6 Monate",
+          "12 Monate"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei einem Mietverhältnis auf unbestimmte Zeit beträgt die Kündigungsfrist für den Mieter 3 Monate (§ 573c BGB).",
+        "source": {
+          "citation": "BGB § 573c",
+          "pages": "S. 151",
+          "chapter": "Buch 2, Abschnitt 8, Titel 5"
+        },
+        "tags": [
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q89",
+        "text": "Wann tritt Verzug des Schuldners nach § 286 BGB ein?",
+        "options": [
+          "Erst nach gerichtlichem Urteil",
+          "Nach Mahnung oder spätestens 30 Tage nach Fälligkeit und Zugang der Rechnung",
+          "Sofort mit Vertragsschluss",
+          "Nach 6 Monaten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Schuldner gerät durch Mahnung oder spätestens 30 Tage nach Fälligkeit und Zugang der Rechnung in Verzug (§ 286 BGB).",
+        "source": {
+          "citation": "BGB § 286",
+          "pages": "S. 73",
+          "chapter": "Buch 2, Abschnitt 1, Titel 1"
+        },
+        "tags": [
+          "Regel",
+          "Frist"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q90",
+        "text": "Welche Voraussetzung gilt für die Entstehung einer Bürgschaft (§ 766 BGB)?",
+        "options": [
+          "Formfrei",
+          "Schriftform",
+          "Notariell",
+          "Mündlich vor Gericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Bürgschaftserklärung bedarf der Schriftform (§ 766 BGB).",
+        "source": {
+          "citation": "BGB § 766",
+          "pages": "S. 142",
+          "chapter": "Buch 2, Abschnitt 8, Titel 20"
+        },
+        "tags": [
+          "Form"
+        ],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

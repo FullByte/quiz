@@ -1,0 +1,2227 @@
+{
+  "quiz": {
+    "title": "Rugby Regeln",
+    "description": "Quiz mit Fragen zu den Rugby-Union Spielregeln 2025, basierend auf dem offiziellen World Rugby Regelwerk.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-09-26T08:55:25Z",
+      "notes": "basierend auf dem Rugby Union Laws of the Game 2025."
+    },
+    "sourceDocument": {
+      "title": "Laws of the Game Rugby Union",
+      "version": "2025",
+      "year": 2025,
+      "pdfFilename": "2507en-world-rugby-laws-july-update-compressed.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Welche maximale Länge darf das Spielfeld im Rugby Union laut den offiziellen Regeln haben?",
+        "options": [
+          "94 Meter",
+          "96 Meter",
+          "100 Meter",
+          "105 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Das Spielfeld darf maximal 100 Meter lang sein. 94 Meter ist die Mindestlänge, 96 und 105 Meter sind nicht vorgesehen.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 27",
+          "chapter": "Law 1 The ground"
+        },
+        "tags": [
+          "Spielfeld",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Wie viele Panels hat ein offizieller Rugby-Ball laut den Regeln?",
+        "options": [
+          "Zwei",
+          "Drei",
+          "Vier",
+          "Fünf"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Rugby-Ball besteht aus vier Panels. Zwei oder drei Panels sind falsch, fünf Panels gibt es nicht.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 30",
+          "chapter": "Law 2 The ball"
+        },
+        "tags": [
+          "Ball",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Wie viele Spieler dürfen maximal gleichzeitig für ein Rugby-Union-Team auf dem Feld stehen?",
+        "options": [
+          "13 Spieler",
+          "15 Spieler",
+          "17 Spieler",
+          "18 Spieler"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Team darf maximal 15 Spieler gleichzeitig auf dem Feld haben. Andere Zahlen sind nicht regelkonform.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 31",
+          "chapter": "Law 3 Team"
+        },
+        "tags": [
+          "Team",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Welche Mindestanzahl an Spielern muss ein Team im Scrum stellen können, wenn es 23 Spieler im Kader hat?",
+        "options": [
+          "4 Spieler",
+          "5 Spieler",
+          "6 Spieler",
+          "8 Spieler"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bei einem 23er-Kader müssen 6 Front-Row-Spieler (2 Props und 1 Hooker auf beiden Seiten) verfügbar sein.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 31",
+          "chapter": "Law 3 Team"
+        },
+        "tags": [
+          "Scrum",
+          "Team",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Welche maximale Breite darf ein Rugby-Spielfeld haben?",
+        "options": [
+          "66 Meter",
+          "68 Meter",
+          "70 Meter",
+          "72 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Spielfeldbreite beträgt maximal 70 Meter, minimal 68 Meter.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 27",
+          "chapter": "Law 1 The ground"
+        },
+        "tags": [
+          "Spielfeld",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q6",
+        "text": "Welche Eigenschaft muss die Spielfläche im Rugby zwingend haben?",
+        "options": [
+          "Sie muss grün sein",
+          "Sie muss sicher sein",
+          "Sie muss beleuchtet sein",
+          "Sie muss überdacht sein"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Regel schreibt vor, dass die Spielfläche sicher sein muss. Farbe oder Überdachung sind nicht vorgeschrieben.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 27",
+          "chapter": "Law 1 The ground"
+        },
+        "tags": [
+          "Spielfeld",
+          "Sicherheit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Wie hoch sind die Torstangen mindestens?",
+        "options": [
+          "2,8 Meter",
+          "3,0 Meter",
+          "3,4 Meter",
+          "4,0 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Torstangen müssen mindestens 3,4 Meter hoch sein. Kleinere Höhen sind nicht erlaubt.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 29",
+          "chapter": "Law 1 The ground"
+        },
+        "tags": [
+          "Spielfeld",
+          "Tore"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Wie viele Panels hat der Ball nach den offiziellen Regeln?",
+        "options": [
+          "Zwei",
+          "Drei",
+          "Vier",
+          "Fünf"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Ball ist oval und besteht aus vier Panels. Andere Angaben sind falsch.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 30",
+          "chapter": "Law 2 The ball"
+        },
+        "tags": [
+          "Ball",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q9",
+        "text": "Welches Gewicht darf ein offizieller Rugby-Ball maximal haben?",
+        "options": [
+          "400 g",
+          "420 g",
+          "460 g",
+          "500 g"
+        ],
+        "correctIndex": 2,
+        "explanation": "Das Gewicht des Balles darf zwischen 410 g und 460 g liegen.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 30",
+          "chapter": "Law 2 The ball"
+        },
+        "tags": [
+          "Ball",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "Wie hoch darf der Luftdruck im Rugby-Ball zu Spielbeginn maximal sein?",
+        "options": [
+          "0,65 kg/cm²",
+          "0,70 kg/cm²",
+          "0,75 kg/cm²",
+          "0,80 kg/cm²"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Luftdruck muss zwischen 0,67 und 0,70 kg/cm² liegen. 0,70 ist der obere Grenzwert.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 30",
+          "chapter": "Law 2 The ball"
+        },
+        "tags": [
+          "Ball",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Wie viele Spieler dürfen in internationalen Spielen als Ersatz nominiert werden?",
+        "options": [
+          "4",
+          "6",
+          "7",
+          "8"
+        ],
+        "correctIndex": 3,
+        "explanation": "Bei internationalen Spielen dürfen bis zu 8 Ersatzspieler nominiert werden.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 31",
+          "chapter": "Law 3 Team"
+        },
+        "tags": [
+          "Team",
+          "Ersatzspieler"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Wie viele Flaggenstangen mit Fahnen befinden sich am Spielfeldrand?",
+        "options": [
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
+        "correctIndex": 2,
+        "explanation": "Es gibt 14 Fahnenstangen, an den Spielfeld- und Torlinien positioniert.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 29",
+          "chapter": "Law 1 The ground"
+        },
+        "tags": [
+          "Spielfeld",
+          "Ausstattung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Wie lange dauert ein Standard-Rugbyspiel in Minuten?",
+        "options": [
+          "60 Minuten",
+          "70 Minuten",
+          "80 Minuten",
+          "90 Minuten"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Standardspiel dauert 80 Minuten, aufgeteilt in zwei Halbzeiten von je 40 Minuten.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 38",
+          "chapter": "Law 5 Time"
+        },
+        "tags": [
+          "Zeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q14",
+        "text": "Wie lange darf die Halbzeitpause maximal dauern?",
+        "options": [
+          "10 Minuten",
+          "12 Minuten",
+          "15 Minuten",
+          "20 Minuten"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Halbzeitpause darf höchstens 15 Minuten betragen.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 38",
+          "chapter": "Law 5 Time"
+        },
+        "tags": [
+          "Zeit",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q15",
+        "text": "Wie viele Punkte gibt ein Try im Rugby?",
+        "options": [
+          "3 Punkte",
+          "4 Punkte",
+          "5 Punkte",
+          "7 Punkte"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Try zählt 5 Punkte. 7 Punkte erhält man nur bei einem Penalty-Try.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 49",
+          "chapter": "Law 8 Scoring"
+        },
+        "tags": [
+          "Punkte",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q16",
+        "text": "Wie viele Punkte gibt ein Dropgoal?",
+        "options": [
+          "2 Punkte",
+          "3 Punkte",
+          "4 Punkte",
+          "5 Punkte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Dropgoal zählt 3 Punkte, nicht 2, 4 oder 5.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 49",
+          "chapter": "Law 8 Scoring"
+        },
+        "tags": [
+          "Punkte",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q17",
+        "text": "Was passiert, wenn ein Spieler den Ball absichtlich nach vorne wirft?",
+        "options": [
+          "Scrum",
+          "Lineout",
+          "Penalty",
+          "Drop-Out"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein absichtliches Vorwärtspassen oder -werfen wird mit Penalty bestraft. Unabsichtlich: Scrum.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 62",
+          "chapter": "Law 11 Knock forward or throw forward"
+        },
+        "tags": [
+          "Pass",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Wie lange hat ein Kicker Zeit, eine Conversion auszuführen?",
+        "options": [
+          "30 Sekunden",
+          "45 Sekunden",
+          "60 Sekunden",
+          "90 Sekunden"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine Conversion muss innerhalb von 60 Sekunden ausgeführt werden. 30 oder 45 Sekunden gelten im Sevens.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 51",
+          "chapter": "Law 8 Scoring"
+        },
+        "tags": [
+          "Frist",
+          "Kicking"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist die richtige Spielfortsetzung bei einem Knock-on?",
+        "options": [
+          "Scrum",
+          "Penalty",
+          "Lineout",
+          "Freistoß"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Knock-on wird mit einem Scrum fortgesetzt, es sei denn, es liegt ein Penalty-Grund vor.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 62",
+          "chapter": "Law 11 Knock forward or throw forward"
+        },
+        "tags": [
+          "Scrum",
+          "Fehler"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Wie viele Spieler müssen mindestens an einem Lineout teilnehmen?",
+        "options": [
+          "2 pro Team",
+          "3 pro Team",
+          "4 pro Team",
+          "5 pro Team"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Lineout benötigt mindestens 2 Spieler pro Team. Mehr Spieler sind erlaubt, weniger nicht.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 93",
+          "chapter": "Law 18 Touch, quick throw and lineout"
+        },
+        "tags": [
+          "Lineout",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Wann endet die Vorteilsregel im Rugby?",
+        "options": [
+          "Wenn der Schiedsrichter pfeift",
+          "Wenn die nicht fehlbare Mannschaft einen klaren Vorteil erzielt",
+          "Wenn die verteidigende Mannschaft den Ball erhält",
+          "Immer nach 5 Sekunden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Vorteilsregel endet, wenn der Schiedsrichter erkennt, dass ein klarer taktischer oder territorialer Vorteil erreicht wurde.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 47",
+          "chapter": "Law 7 Advantage"
+        },
+        "tags": [
+          "Vorteil",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q22",
+        "text": "Wie viele Punkte gibt ein Penalty-Try ohne anschließende Conversion?",
+        "options": [
+          "5 Punkte",
+          "6 Punkte",
+          "7 Punkte",
+          "8 Punkte"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Penalty-Try wird mit 7 Punkten bewertet, es gibt keine anschließende Conversion.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 50",
+          "chapter": "Law 8 Scoring"
+        },
+        "tags": [
+          "Punkte",
+          "Try"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Was passiert, wenn ein Spieler absichtlich die Zeit verschwendet?",
+        "options": [
+          "Scrum",
+          "Penalty",
+          "Lineout",
+          "Wiederholung der Situation"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zeitverschwendung wird mit einem Penalty bestraft.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 54",
+          "chapter": "Law 9 Foul play"
+        },
+        "tags": [
+          "Foul",
+          "Zeit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Was ist ein Knock-on im Rugby?",
+        "options": [
+          "Wenn der Ball nach hinten geworfen wird",
+          "Wenn der Ball nach vorne fällt oder geschlagen wird",
+          "Wenn der Ball ins Aus tritt",
+          "Wenn ein Spieler den Ball fallen lässt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Knock-on liegt vor, wenn der Ball nach vorne fällt oder gespielt wird und Bodenkontakt oder Kontakt mit einem Mitspieler hat.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 62",
+          "chapter": "Law 11 Knock forward or throw forward"
+        },
+        "tags": [
+          "Knock-on",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q25",
+        "text": "Was ist die Strafe für einen absichtlichen Knock-on?",
+        "options": [
+          "Scrum",
+          "Lineout",
+          "Penalty",
+          "Drop-Out"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein absichtlicher Knock-on wird härter bestraft als ein unabsichtlicher: Penalty statt Scrum.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 62",
+          "chapter": "Law 11 Knock forward or throw forward"
+        },
+        "tags": [
+          "Knock-on",
+          "Strafe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Was ist erforderlich, damit ein Tackle nach den Regeln gültig ist?",
+        "options": [
+          "Der Ballträger muss ins Aus gehen",
+          "Der Ballträger muss festgehalten und zu Boden gebracht werden",
+          "Der Ball muss losgelassen werden",
+          "Der Tackler muss stehen bleiben"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Tackle liegt vor, wenn der Ballträger von einem Gegner gehalten und zu Boden gebracht wird.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 68",
+          "chapter": "Law 14 Tackle"
+        },
+        "tags": [
+          "Tackle",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q27",
+        "text": "Was muss ein Tackler unmittelbar nach dem Tackle tun?",
+        "options": [
+          "Den Ball aufnehmen",
+          "Sich zurückziehen und den Ballträger freigeben",
+          "Am Boden bleiben",
+          "Einen Mitspieler blocken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Tackler muss Ball und Ballträger sofort loslassen und Abstand gewinnen, bevor er erneut eingreifen darf.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 69",
+          "chapter": "Law 14 Tackle"
+        },
+        "tags": [
+          "Tackle",
+          "Pflichten"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q28",
+        "text": "Was ist ein Ruck im Rugby?",
+        "options": [
+          "Ein Tackle mit mehreren Spielern",
+          "Ein Gedränge im offenen Spiel mit Ball am Boden",
+          "Eine Standardsituation nach einem Knock-on",
+          "Eine Form des Mauls"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Ruck entsteht, wenn sich mindestens ein Spieler pro Team über dem am Boden liegenden Ball zusammenschließen.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 74",
+          "chapter": "Law 15 Ruck"
+        },
+        "tags": [
+          "Ruck",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q29",
+        "text": "Was passiert, wenn ein Ruck endet, weil der Ball unspielbar ist?",
+        "options": [
+          "Lineout",
+          "Drop-Out",
+          "Scrum",
+          "Penalty"
+        ],
+        "correctIndex": 2,
+        "explanation": "Kann der Ball im Ruck nicht gespielt werden, ordnet der Schiedsrichter ein Scrum an.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 77",
+          "chapter": "Law 15 Ruck"
+        },
+        "tags": [
+          "Ruck",
+          "Fortsetzung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Was ist ein Maul im Rugby?",
+        "options": [
+          "Ein Ballträger mit mindestens einem Spieler pro Team, auf den Beinen gebunden",
+          "Ein Ballträger, der von zwei Gegnern zu Boden gebracht wird",
+          "Ein Gedränge mit Ball am Boden",
+          "Eine Variante des Lineouts"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Maul entsteht, wenn der Ballträger von mindestens einem Mitspieler und einem Gegenspieler auf den Beinen gebunden ist.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 78",
+          "chapter": "Law 16 Maul"
+        },
+        "tags": [
+          "Maul",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q31",
+        "text": "Wann endet ein Maul erfolglos?",
+        "options": [
+          "Wenn der Ball nach vorne gespielt wird",
+          "Wenn das Maul länger als 5 Sekunden steht ohne Vorwärtsbewegung",
+          "Wenn der Ball ins Aus geht",
+          "Wenn ein Spieler hinfällt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Maul gilt als erfolglos, wenn es länger als 5 Sekunden ohne Bewegung bleibt und der Ball nicht verfügbar wird.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 80",
+          "chapter": "Law 16 Maul"
+        },
+        "tags": [
+          "Maul",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q32",
+        "text": "Was ist ein Mark im Rugby?",
+        "options": [
+          "Ein Scrum in der eigenen Hälfte",
+          "Ein Freistoß nach einem direkten Fang im eigenen 22er-Bereich",
+          "Eine besondere Punktart",
+          "Ein Ersatzspieler"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Mark wird genommen, wenn ein Spieler innerhalb der eigenen 22 einen gegnerischen Kick direkt fängt und 'Mark' ruft.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 81",
+          "chapter": "Law 17 Mark"
+        },
+        "tags": [
+          "Mark",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q33",
+        "text": "Welche Bedingung gilt für einen Quick Throw?",
+        "options": [
+          "Der Ball muss mindestens 5 Meter weit fliegen",
+          "Der Ball muss parallel zur Seitenlinie geworfen werden",
+          "Der Ball muss aus der Hand eines Offiziellen kommen",
+          "Der Ball darf nur von einem Stürmer geworfen werden"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Quick Throw muss mindestens 5 Meter weit geworfen werden, bevor er gespielt werden darf.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 84",
+          "chapter": "Law 18 Touch, quick throw and lineout"
+        },
+        "tags": [
+          "Lineout",
+          "Quick Throw"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Was ist die Mindestanzahl an Spielern pro Team für ein Lineout?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jedes Team muss mindestens 2 Spieler im Lineout stellen.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 93",
+          "chapter": "Law 18 Touch, quick throw and lineout"
+        },
+        "tags": [
+          "Lineout",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q35",
+        "text": "Welche Aktion beim Einwurf ins Lineout ist verboten?",
+        "options": [
+          "Den Ball gerade einwerfen",
+          "Den Ball verzögert einwerfen",
+          "Einen Mitspieler hochheben",
+          "Vor dem Einwurf die Position wechseln"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Einwurf ins Lineout muss ohne Verzögerung erfolgen, sonst droht ein Freistoß.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 94",
+          "chapter": "Law 18 Touch, quick throw and lineout"
+        },
+        "tags": [
+          "Lineout",
+          "Fehler"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Wer wirft den Ball beim Scrum ein?",
+        "options": [
+          "Der Hooker",
+          "Der Scrum-Half",
+          "Der Kapitän",
+          "Ein beliebiger Spieler"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Scrum-Half entscheidet, von welcher Seite er den Ball ins Scrum einwirft.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 105",
+          "chapter": "Law 19 Scrum"
+        },
+        "tags": [
+          "Scrum",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q37",
+        "text": "Was passiert, wenn ein Scrum mehr als 90° gedreht wird?",
+        "options": [
+          "Es wird fortgesetzt",
+          "Der Ball wird eingeworfen",
+          "Der Schiedsrichter ordnet ein Reset-Scrum an",
+          "Es gibt einen Penalty"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Scrum darf nicht mehr als 90° gedreht werden. In diesem Fall ordnet der Schiedsrichter ein Reset an.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 111",
+          "chapter": "Law 19 Scrum"
+        },
+        "tags": [
+          "Scrum",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q38",
+        "text": "Welche Mindestanzahl an Spielern muss ein Scrum haben?",
+        "options": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Scrum darf niemals mit weniger als 5 Spielern pro Team gebildet werden.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 103",
+          "chapter": "Law 19 Scrum"
+        },
+        "tags": [
+          "Scrum",
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Wie lange hat ein Team Zeit, den Ball nach der Aufforderung 'use it' im Ruck zu spielen?",
+        "options": [
+          "3 Sekunden",
+          "4 Sekunden",
+          "5 Sekunden",
+          "10 Sekunden"
+        ],
+        "correctIndex": 2,
+        "explanation": "Nach dem 'use it'-Kommando muss der Ball innerhalb von 5 Sekunden gespielt werden.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 77",
+          "chapter": "Law 15 Ruck"
+        },
+        "tags": [
+          "Ruck",
+          "Zeit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q40",
+        "text": "Was passiert, wenn ein Kicker bei einem Penalty mehr als 60 Sekunden für den Versuch benötigt?",
+        "options": [
+          "Der Versuch wird wiederholt",
+          "Der Versuch wird aberkannt",
+          "Das gegnerische Team erhält 3 Punkte",
+          "Es gibt Scrum für die schießende Mannschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Penalty-Kick muss innerhalb von 60 Sekunden erfolgen, sonst wird er annulliert.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 54",
+          "chapter": "Law 8 Scoring"
+        },
+        "tags": [
+          "Kicking",
+          "Frist"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q41",
+        "text": "Welche Aktion ist bei einem Scrum ausdrücklich verboten?",
+        "options": [
+          "Den Ball mit den Füßen spielen",
+          "Den Ball gerade einwerfen",
+          "Das Scrum absichtlich zusammenbrechen lassen",
+          "Den Gegner seitlich binden"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein absichtliches Zusammenbrechen des Scrums gilt als gefährliches Spiel und wird mit Penalty bestraft.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 112",
+          "chapter": "Law 19 Scrum"
+        },
+        "tags": [
+          "Scrum",
+          "Foul"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q42",
+        "text": "Was ist die Mindestentfernung, die die verteidigende Mannschaft bei einem Penalty zurückweichen muss?",
+        "options": [
+          "5 Meter",
+          "7 Meter",
+          "10 Meter",
+          "15 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bei einem Penalty müssen die Verteidiger 10 Meter zurückweichen.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 114",
+          "chapter": "Law 20 Penalty and free-kick"
+        },
+        "tags": [
+          "Penalty",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q43",
+        "text": "Welche Kicks sind bei einem Penalty erlaubt?",
+        "options": [
+          "Nur Drop-Kick",
+          "Nur Place-Kick",
+          "Punt, Drop-Kick oder Place-Kick",
+          "Nur Punt"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bei einem Penalty darf der Ball als Punt, Drop-Kick oder Place-Kick gespielt werden.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 116",
+          "chapter": "Law 20 Penalty and free-kick"
+        },
+        "tags": [
+          "Kicking",
+          "Penalty"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Wie viele Punkte zählt ein erfolgreich verwandeltes Penalty Goal?",
+        "options": [
+          "2 Punkte",
+          "3 Punkte",
+          "4 Punkte",
+          "5 Punkte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Penalty Goal bringt der Mannschaft 3 Punkte.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 49",
+          "chapter": "Law 8 Scoring"
+        },
+        "tags": [
+          "Punkte",
+          "Penalty"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q45",
+        "text": "Welche Möglichkeiten gibt es, den Ball im In-Goal regelkonform zu grounden?",
+        "options": [
+          "Nur mit dem Fuß",
+          "Mit der Hand, dem Arm oder der Vorderseite des Körpers",
+          "Nur mit beiden Händen gleichzeitig",
+          "Nur durch Fallenlassen des Balls"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Ball darf mit Händen, Armen oder der Vorderseite des Körpers zwischen Taille und Hals auf den Boden gedrückt werden.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 116",
+          "chapter": "Law 21 In-goal"
+        },
+        "tags": [
+          "Try",
+          "In-Goal"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q46",
+        "text": "Was passiert, wenn ein Spieler den Ball im In-Goal fängt, während er gleichzeitig die Dead-Ball-Linie berührt?",
+        "options": [
+          "Es wird ein Try gegeben",
+          "Der Ball ist im Aus",
+          "Der Spieler darf weiterspielen",
+          "Der Ball wird ins Scrum gegeben"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wird der Ball im In-Goal gefangen und gleichzeitig die Dead-Ball-Linie berührt, ist der Ball aus.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 117",
+          "chapter": "Law 21 In-goal"
+        },
+        "tags": [
+          "In-Goal",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Welche Entscheidung trifft der Schiedsrichter, wenn unklar ist, welches Team den Ball im In-Goal zuerst geerdet hat?",
+        "options": [
+          "Penalty für die verteidigende Mannschaft",
+          "Drop-Out von der 22-Meter-Linie",
+          "Scrum 5 Meter vor der Try-Linie für die angreifende Mannschaft",
+          "Lineout an der 5-Meter-Linie"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bei Zweifel, welches Team den Ball zuerst im In-Goal geerdet hat, wird ein 5-Meter-Scrum für die angreifende Mannschaft gegeben.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 118",
+          "chapter": "Law 21 In-goal"
+        },
+        "tags": [
+          "Scrum",
+          "In-Goal"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q48",
+        "text": "Welche Spielzeit gilt bei einem Under-19 Rugby-Spiel?",
+        "options": [
+          "60 Minuten",
+          "70 Minuten",
+          "75 Minuten",
+          "80 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Under-19 Spiel dauert 70 Minuten, aufgeteilt in zwei Halbzeiten zu je 35 Minuten.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 120",
+          "chapter": "Law variations - Under-19"
+        },
+        "tags": [
+          "Zeit",
+          "U19"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q49",
+        "text": "Welche Formation hat ein Scrum mit 7 Spielern im Under-19 Rugby?",
+        "options": [
+          "3-3-1",
+          "3-4",
+          "2-3-2",
+          "4-2-1"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei 7 Spielern im Scrum gilt die Formation 3-4 ohne Nummer 8.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 121",
+          "chapter": "Law variations - Under-19"
+        },
+        "tags": [
+          "Scrum",
+          "U19"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q50",
+        "text": "Wie viele Spieler dürfen beim Rugby Sevens auf dem Feld stehen?",
+        "options": [
+          "7",
+          "10",
+          "12",
+          "15"
+        ],
+        "correctIndex": 0,
+        "explanation": "Im Rugby Sevens dürfen pro Team maximal 7 Spieler auf dem Spielfeld stehen.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 123",
+          "chapter": "Law variations - Sevens"
+        },
+        "tags": [
+          "Sevens",
+          "Team"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q51",
+        "text": "Wie lange dauert ein Rugby Sevens-Spiel in der Regel?",
+        "options": [
+          "7 Minuten pro Halbzeit",
+          "10 Minuten pro Halbzeit",
+          "15 Minuten pro Halbzeit",
+          "20 Minuten gesamt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Sevens-Spiel dauert 14 Minuten, aufgeteilt in zwei Halbzeiten von je 7 Minuten.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 126",
+          "chapter": "Law variations - Sevens"
+        },
+        "tags": [
+          "Sevens",
+          "Zeit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q52",
+        "text": "Wie lange dauert eine Gelb-Sperre im Rugby Sevens?",
+        "options": [
+          "1 Minute",
+          "2 Minuten",
+          "5 Minuten",
+          "10 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Gelb-Sperre im Sevens dauert nur 2 Minuten statt 10 Minuten wie im 15er-Rugby.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 129",
+          "chapter": "Law variations - Sevens"
+        },
+        "tags": [
+          "Sevens",
+          "Karten"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q53",
+        "text": "Wie viele Spieler stehen bei Rugby Tens auf dem Feld?",
+        "options": [
+          "7",
+          "10",
+          "12",
+          "15"
+        ],
+        "correctIndex": 1,
+        "explanation": "Beim Rugby Tens stehen jeweils 10 Spieler pro Team auf dem Spielfeld.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 133",
+          "chapter": "Variations - 10s"
+        },
+        "tags": [
+          "Tens",
+          "Team"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q54",
+        "text": "Welche maximale Spielzeit hat ein Rugby Tens-Spiel?",
+        "options": [
+          "10 Minuten pro Halbzeit",
+          "15 Minuten pro Halbzeit",
+          "20 Minuten pro Halbzeit",
+          "2x25 Minuten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Tens-Spiel dauert 20 Minuten, aufgeteilt in zwei Halbzeiten von je 10 Minuten.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 136",
+          "chapter": "Variations - 10s"
+        },
+        "tags": [
+          "Tens",
+          "Zeit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q55",
+        "text": "Wo muss ein Conversion-Kick bei Game-On-Varianten platziert werden, falls vom Organisator vorgeschrieben?",
+        "options": [
+          "Am Ort des Versuchs",
+          "Vor den Pfosten",
+          "An der 22-Meter-Linie",
+          "Am Mittelpunkt"
+        ],
+        "correctIndex": 1,
+        "explanation": "In den Game-On-Varianten kann der Organisator vorschreiben, dass Conversion-Kicks vor den Pfosten ausgeführt werden.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 144",
+          "chapter": "Variations - Game-on"
+        },
+        "tags": [
+          "Game-On",
+          "Kicking"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q56",
+        "text": "Welche Tackelhöhe kann bei Game-On-Varianten festgelegt werden?",
+        "options": [
+          "Schulterhöhe",
+          "Brusthöhe",
+          "Nippellinie oder Taille",
+          "Kniehöhe"
+        ],
+        "correctIndex": 2,
+        "explanation": "In den Game-On-Varianten kann die Tackle-Höhe auf Schulter, Nippellinie oder Taille festgelegt werden.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 143",
+          "chapter": "Variations - Game-on"
+        },
+        "tags": [
+          "Game-On",
+          "Tackle"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q57",
+        "text": "Welches Signal zeigt der Schiedsrichter bei einem Scrum an?",
+        "options": [
+          "Arme gekreuzt",
+          "Handbewegung nach unten",
+          "Arme parallel zur Seitenlinie, ein Arm zeigt auf das einwerfende Team",
+          "Fahne hochhalten"
+        ],
+        "correctIndex": 2,
+        "explanation": "Das Signal für ein Scrum ist: Arme parallel zur Seitenlinie, ein Arm zeigt auf die einwerfende Mannschaft.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 146",
+          "chapter": "Match official signals"
+        },
+        "tags": [
+          "Signal",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q58",
+        "text": "Wie signalisiert der Schiedsrichter einen Vorteil (Advantage)?",
+        "options": [
+          "Arm nach oben",
+          "Arm ausgestreckt, Taille hoch, ca. 5 Sekunden",
+          "Arme gekreuzt",
+          "Zeigefinger hebt die Fahne"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Schiedsrichter signalisiert Vorteil, indem er den Arm ausgestreckt und Taille hoch für ca. 5 Sekunden hält.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 146",
+          "chapter": "Match official signals"
+        },
+        "tags": [
+          "Signal",
+          "Vorteil"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q59",
+        "text": "Wie signalisiert ein Schiedsrichter ein 'Knock forward'?",
+        "options": [
+          "Arme kreuzen",
+          "Arm ausgestreckt über Kopf, Bewegung vor/zurück",
+          "Faust nach unten",
+          "Finger im Kreis drehen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Signal für ein Knock forward: Arm ausgestreckt über Kopf und Bewegung nach vorne/hinten.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 147",
+          "chapter": "Match official signals"
+        },
+        "tags": [
+          "Signal",
+          "Knock-on"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q60",
+        "text": "Welches Signal zeigt der Schiedsrichter bei 'Nicht Loslassen des Balls im Tackle'?",
+        "options": [
+          "Arme an die Brust legen, als hielte man einen Ball",
+          "Fingerkreis",
+          "Fahne waagrecht halten",
+          "Arme nach oben strecken"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Signal für 'Nicht Loslassen des Balls' ist: Hände nah an der Brust, als hielte man einen Ball.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 150",
+          "chapter": "Match official signals"
+        },
+        "tags": [
+          "Signal",
+          "Tackle"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q61",
+        "text": "Welche Spieler dürfen bei einem Scrum den Ball mit den Füßen spielen?",
+        "options": [
+          "Nur die Props",
+          "Nur die Hooker",
+          "Alle Spieler im Scrum",
+          "Nur der Scrum-Half"
+        ],
+        "correctIndex": 2,
+        "explanation": "Alle Spieler im Scrum dürfen den Ball mit den Füßen spielen, sobald er im Scrum ist.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 108",
+          "chapter": "Law 19 Scrum"
+        },
+        "tags": [
+          "Scrum",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q62",
+        "text": "Was passiert, wenn der Ball im Scrum drei bis fünf Sekunden ungenutzt am Ende liegt?",
+        "options": [
+          "Scrum wird neu angesetzt",
+          "Der Schiedsrichter ruft 'use it'",
+          "Die verteidigende Mannschaft erhält Penalty",
+          "Der Ball wird als tot erklärt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wenn der Ball 3–5 Sekunden verfügbar ist, muss er nach dem Kommando 'use it' sofort gespielt werden.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 106",
+          "chapter": "Law 19 Scrum"
+        },
+        "tags": [
+          "Scrum",
+          "Zeit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q63",
+        "text": "Was ist die Hauptaufgabe des Schiedsrichters im Spiel?",
+        "options": [
+          "Den Ball ins Spiel bringen",
+          "Alle Regeln konsequent anwenden",
+          "Die Punkte zählen",
+          "Traineranweisungen überprüfen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Schiedsrichter ist der alleinige Richter über Regelanwendung und Spielfakten.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 40",
+          "chapter": "Law 6 Match officials"
+        },
+        "tags": [
+          "Schiedsrichter",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q64",
+        "text": "Welche Mindestbreite muss ein Rugby-Spielfeld haben?",
+        "options": [
+          "64 Meter",
+          "66 Meter",
+          "68 Meter",
+          "70 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Breite des Spielfelds muss mindestens 68 Meter betragen.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 27",
+          "chapter": "Law 1 The ground"
+        },
+        "tags": [
+          "Spielfeld",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q65",
+        "text": "Wie viele Flaggenpfosten stehen insgesamt am Spielfeldrand?",
+        "options": [
+          "12",
+          "14",
+          "16",
+          "18"
+        ],
+        "correctIndex": 1,
+        "explanation": "Insgesamt gibt es 14 Flaggenpfosten an den Spielfeldrändern.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 29",
+          "chapter": "Law 1 The ground"
+        },
+        "tags": [
+          "Spielfeld",
+          "Ausstattung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q66",
+        "text": "Wie lange darf eine Halbzeitpause in internationalen Spielen maximal dauern?",
+        "options": [
+          "10 Minuten",
+          "12 Minuten",
+          "15 Minuten",
+          "20 Minuten"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Halbzeitpause darf nicht länger als 15 Minuten dauern.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 38",
+          "chapter": "Law 5 Time"
+        },
+        "tags": [
+          "Zeit",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q67",
+        "text": "Was passiert, wenn ein Spieler im Tackle den Ball nicht sofort loslässt?",
+        "options": [
+          "Scrum",
+          "Penalty",
+          "Drop-Out",
+          "Lineout"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wird der Ball im Tackle nicht sofort freigegeben, erhält die gegnerische Mannschaft einen Penalty.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 71",
+          "chapter": "Law 14 Tackle"
+        },
+        "tags": [
+          "Tackle",
+          "Fehler"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q68",
+        "text": "Was passiert, wenn ein Maul zusammenbricht, ohne dass Foul Play vorliegt?",
+        "options": [
+          "Scrum",
+          "Penalty",
+          "Lineout",
+          "Drop-Out"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein kollabiertes Maul ohne Foulspiel führt zu einem Scrum.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 82",
+          "chapter": "Law 16 Maul"
+        },
+        "tags": [
+          "Maul",
+          "Fortsetzung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q69",
+        "text": "Wie signalisiert der Schiedsrichter einen High Tackle?",
+        "options": [
+          "Arm ausgestreckt über Kopf",
+          "Hand horizontal vor den Hals bewegen",
+          "Finger kreisen",
+          "Arme überkreuzt an der Brust"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein High Tackle wird angezeigt, indem die Hand horizontal vor den Hals bewegt wird.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 155",
+          "chapter": "Match official signals"
+        },
+        "tags": [
+          "Signal",
+          "Tackle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q70",
+        "text": "Was bedeutet ein gelbes Kartensignal des Schiedsrichters?",
+        "options": [
+          "Verwarnung ohne Konsequenzen",
+          "10 Minuten Zeitstrafe",
+          "Endgültiger Ausschluss",
+          "Wiederholung der Situation"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine gelbe Karte bedeutet eine 10-minütige Zeitstrafe (außer im Sevens: 2 Minuten).",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 158",
+          "chapter": "Match official signals"
+        },
+        "tags": [
+          "Karte",
+          "Strafe"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q71",
+        "text": "Was bedeutet ein rotes Kartensignal im Rugby?",
+        "options": [
+          "5 Minuten Sperre",
+          "Endgültiger Ausschluss ohne Ersatz",
+          "Endgültiger Ausschluss, Ersatz nach 10 Minuten erlaubt",
+          "Verwarnung ohne Folgen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein rotes Kartensignal bedeutet, dass der Spieler endgültig ausgeschlossen wird und nicht ersetzt werden darf (außer Sonderregelungen im Elite-Rugby).",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 158",
+          "chapter": "Match official signals"
+        },
+        "tags": [
+          "Karte",
+          "Strafe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q72",
+        "text": "Wie zeigt der Schiedsrichter einen Scrum an, der wegen 'Nicht-geradem Einwurf' vergeben wird?",
+        "options": [
+          "Arme parallel zur Seitenlinie, ein Arm weist auf das einwerfende Team",
+          "Arm über den Kopf gestreckt",
+          "Arme verschränkt",
+          "Faust nach unten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Scrum-Signal: Arme parallel zur Seitenlinie, ein Arm zeigt auf das Team, das einwerfen darf.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 147",
+          "chapter": "Match official signals"
+        },
+        "tags": [
+          "Scrum",
+          "Signal"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q73",
+        "text": "Welche maximale Länge darf die In-Goal-Zone haben?",
+        "options": [
+          "12 Meter",
+          "18 Meter",
+          "22 Meter",
+          "25 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die In-Goal-Zone darf maximal 22 Meter lang sein.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 27",
+          "chapter": "Law 1 The ground"
+        },
+        "tags": [
+          "In-Goal",
+          "Spielfeld"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q74",
+        "text": "Welcher Wert gilt für ein erfolgreiches Drop-Goal?",
+        "options": [
+          "2 Punkte",
+          "3 Punkte",
+          "4 Punkte",
+          "5 Punkte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Drop-Goal zählt 3 Punkte.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 49",
+          "chapter": "Law 8 Scoring"
+        },
+        "tags": [
+          "Drop-Goal",
+          "Punkte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q75",
+        "text": "Welche Pflicht haben Spieler nach einem Tackle?",
+        "options": [
+          "Den Ball sofort freigeben",
+          "Den Ball in Richtung Auslinie kicken",
+          "Sich in einen Ruck einbinden",
+          "Die gegnerische Mannschaft blocken"
+        ],
+        "correctIndex": 0,
+        "explanation": "Spieler müssen nach einem Tackle den Ball sofort freigeben, um den Spielfluss zu gewährleisten.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 69",
+          "chapter": "Law 14 Tackle"
+        },
+        "tags": [
+          "Tackle",
+          "Pflichten"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q76",
+        "text": "Welche Spieler dürfen bei einem Lineout vor dem Einwurf die Position wechseln?",
+        "options": [
+          "Alle Spieler",
+          "Nur die Werfer",
+          "Nur die Teilnehmer am Lineout",
+          "Niemand"
+        ],
+        "correctIndex": 2,
+        "explanation": "Nur die am Lineout teilnehmenden Spieler dürfen ihre Position vor dem Einwurf wechseln.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 93",
+          "chapter": "Law 18 Touch, quick throw and lineout"
+        },
+        "tags": [
+          "Lineout",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q77",
+        "text": "Wie signalisiert der Schiedsrichter 'Nicht Loslassen des Tacklers'?",
+        "options": [
+          "Arme zusammen und dann öffnen",
+          "Handbewegung an den Hals",
+          "Faust nach unten",
+          "Arme über Kreuz an der Brust"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Signal: Arme zusammen wie beim Umklammern, dann öffnen, zeigt 'Nicht Loslassen des Tacklers' an.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 150",
+          "chapter": "Match official signals"
+        },
+        "tags": [
+          "Signal",
+          "Tackle"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q78",
+        "text": "Was ist die Mindestlänge eines Rugby-Spielfelds?",
+        "options": [
+          "90 Meter",
+          "92 Meter",
+          "94 Meter",
+          "96 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Spielfeldlänge muss mindestens 94 Meter betragen.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 27",
+          "chapter": "Law 1 The ground"
+        },
+        "tags": [
+          "Spielfeld",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q79",
+        "text": "Welche Pflicht hat ein Spieler, der bei einem Maul den Ball trägt und zu Boden geht?",
+        "options": [
+          "Den Ball sofort freigeben",
+          "Den Ball halten, bis Unterstützung kommt",
+          "Den Ball in Richtung Auslinie kicken",
+          "Den Ball dem Schiedsrichter übergeben"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Ballträger im Maul muss den Ball sofort verfügbar machen, wenn er zu Boden geht.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 80",
+          "chapter": "Law 16 Maul"
+        },
+        "tags": [
+          "Maul",
+          "Pflichten"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q80",
+        "text": "Welche Strafe droht, wenn ein Spieler absichtlich im Maul zusammenbricht?",
+        "options": [
+          "Scrum",
+          "Penalty",
+          "Lineout",
+          "Freistoß"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein absichtliches Zusammenbrechen des Mauls wird mit einem Penalty bestraft.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 81",
+          "chapter": "Law 16 Maul"
+        },
+        "tags": [
+          "Maul",
+          "Foul"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q81",
+        "text": "Wie viele Punkte zählt ein erfolgreicher Conversion-Kick?",
+        "options": [
+          "1 Punkt",
+          "2 Punkte",
+          "3 Punkte",
+          "4 Punkte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine erfolgreiche Conversion nach einem Try zählt 2 Punkte.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 49",
+          "chapter": "Law 8 Scoring"
+        },
+        "tags": [
+          "Conversion",
+          "Punkte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q82",
+        "text": "Wann darf ein Spieler im Offside durch die Aktion eines Gegners wieder ins Spiel gebracht werden?",
+        "options": [
+          "Wenn der Gegner den Ball kickt",
+          "Wenn der Gegner den Ball absichtlich berührt",
+          "Wenn der Gegner einen Pass spielt",
+          "Wenn der Gegner ein Foul begeht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein im Offside stehender Spieler wird durch eine absichtliche Ballberührung des Gegners wieder ins Spiel gebracht.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 60",
+          "chapter": "Law 10 Offside and onside in open play"
+        },
+        "tags": [
+          "Offside",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q83",
+        "text": "Wie lange darf die Spielunterbrechung für eine Wasserpause bei extremer Hitze dauern?",
+        "options": [
+          "1 Minute",
+          "2 Minuten",
+          "3 Minuten",
+          "5 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei extremen Wetterbedingungen darf der Schiedsrichter eine 2-minütige Wasserpause anordnen.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 39",
+          "chapter": "Law 5 Time"
+        },
+        "tags": [
+          "Zeit",
+          "Pause"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q84",
+        "text": "Was passiert, wenn der Ball nach einem Drop-Kick bei Anstoß die 10-Meter-Linie nicht erreicht?",
+        "options": [
+          "Scrum oder Wiederholung des Kicks",
+          "Penalty",
+          "Lineout",
+          "Drop-Out"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Gegner darf entscheiden: Wiederholung des Kicks oder Scrum an der Mitte.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 65",
+          "chapter": "Law 12 Kick-off and restart kicks"
+        },
+        "tags": [
+          "Kick-off",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q85",
+        "text": "Welche Voraussetzung gilt für einen gültigen Quick-Throw?",
+        "options": [
+          "Der Ball darf durch einen anderen Spieler berührt sein",
+          "Es muss derselbe Ball verwendet werden, der ins Aus ging",
+          "Es muss ein neuer Ball bereitgestellt werden",
+          "Der Ball darf beliebig geworfen werden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Für einen gültigen Quick-Throw muss derselbe Ball verwendet werden, der ins Aus ging.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 84",
+          "chapter": "Law 18 Touch, quick throw and lineout"
+        },
+        "tags": [
+          "Quick Throw",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q86",
+        "text": "Was ist die Spielfortsetzung, wenn ein Spieler absichtlich einen Gegner ohne Ball tackelt?",
+        "options": [
+          "Scrum",
+          "Penalty",
+          "Lineout",
+          "Drop-Out"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Tackle ohne Ball wird als Foulspiel gewertet und mit Penalty bestraft.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 55",
+          "chapter": "Law 9 Foul play"
+        },
+        "tags": [
+          "Tackle",
+          "Foul"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q87",
+        "text": "Welche Mindesthöhe müssen Flaggenpfosten am Spielfeldrand haben?",
+        "options": [
+          "0,8 m",
+          "1,0 m",
+          "1,2 m",
+          "1,5 m"
+        ],
+        "correctIndex": 2,
+        "explanation": "Flaggenpfosten müssen mindestens 1,2 m hoch sein.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 29",
+          "chapter": "Law 1 The ground"
+        },
+        "tags": [
+          "Spielfeld",
+          "Ausstattung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q88",
+        "text": "Welches Signal nutzt der Schiedsrichter für 'Ball im Ruck nicht freigegeben'?",
+        "options": [
+          "Arme kreuzen",
+          "Kreisbewegung mit Arm und Finger vom Körper weg",
+          "Hand an die Brust legen",
+          "Arm über Kopf heben"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Signal: Kreisbewegung mit Arm und Finger vom Körper weg.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 152",
+          "chapter": "Match official signals"
+        },
+        "tags": [
+          "Signal",
+          "Ruck"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q89",
+        "text": "Wie viele Ersatzspieler darf ein Team bei einem Rugby-Tens-Spiel nominieren?",
+        "options": [
+          "3",
+          "5",
+          "7",
+          "8"
+        ],
+        "correctIndex": 1,
+        "explanation": "Beim Rugby Tens dürfen bis zu 5 Ersatzspieler nominiert werden.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 135",
+          "chapter": "Variations - 10s"
+        },
+        "tags": [
+          "Tens",
+          "Team"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q90",
+        "text": "Welche maximale Spielzeit gilt für ein Rugby-Sevens-Finale?",
+        "options": [
+          "14 Minuten",
+          "16 Minuten",
+          "18 Minuten",
+          "20 Minuten"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ein Sevens-Finale darf bis zu 20 Minuten dauern (2x10 Minuten).",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 126",
+          "chapter": "Law variations - Sevens"
+        },
+        "tags": [
+          "Sevens",
+          "Zeit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q91",
+        "text": "Was passiert, wenn ein Spieler beim Lineout den Ball blockiert, bevor er 5 Meter geflogen ist?",
+        "options": [
+          "Scrum",
+          "Freistoß",
+          "Penalty",
+          "Wiederholung des Einwurfs"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Blockieren des Balles vor Erreichen der 5-Meter-Linie wird mit einem Freistoß geahndet.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 96",
+          "chapter": "Law 18 Touch, quick throw and lineout"
+        },
+        "tags": [
+          "Lineout",
+          "Fehler"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q92",
+        "text": "Welche Spielfortsetzung erfolgt, wenn ein Ball im Maul unspielbar wird?",
+        "options": [
+          "Scrum",
+          "Penalty",
+          "Lineout",
+          "Drop-Out"
+        ],
+        "correctIndex": 0,
+        "explanation": "Wird der Ball im Maul unspielbar, wird ein Scrum angesetzt.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 82",
+          "chapter": "Law 16 Maul"
+        },
+        "tags": [
+          "Maul",
+          "Fortsetzung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q93",
+        "text": "Was signalisiert der Schiedsrichter, wenn er die Arme zu einem T formt?",
+        "options": [
+          "Scrum",
+          "Vorteil",
+          "Time off",
+          "Penalty"
+        ],
+        "correctIndex": 2,
+        "explanation": "Das T-Signal zeigt an, dass die Zeit angehalten wurde (Time off).",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 157",
+          "chapter": "Match official signals"
+        },
+        "tags": [
+          "Signal",
+          "Zeit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q94",
+        "text": "Welches Spielsignal macht der Schiedsrichter bei 'Punching'?",
+        "options": [
+          "Stampfbewegung",
+          "Faust in offene Hand schlagen",
+          "Arm über Kopf kreisen",
+          "Hand vor den Hals bewegen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Beim Signal 'Punching' schlägt der Schiedsrichter mit der Faust in die offene Hand.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 155",
+          "chapter": "Match official signals"
+        },
+        "tags": [
+          "Signal",
+          "Foul"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q95",
+        "text": "Was geschieht, wenn ein Spieler nach einem Try 'No Kick' zum Schiedsrichter sagt?",
+        "options": [
+          "Der Conversion-Kick entfällt",
+          "Es gibt einen Penalty",
+          "Der Try wird nicht gewertet",
+          "Der Kick wird auf die 22 verlegt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Spieler darf nach einem Try die Conversion verweigern, indem er 'No Kick' sagt.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 41",
+          "chapter": "Law 5 Time"
+        },
+        "tags": [
+          "Conversion",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q96",
+        "text": "Welche Position nimmt der Schiedsrichter beim Anpfiff ein?",
+        "options": [
+          "Hinter der kickernden Mannschaft",
+          "In der Mitte des Spielfeldes",
+          "Seitlich am Spielfeldrand",
+          "Neben den Assistenten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Beim Anpfiff positioniert sich der Schiedsrichter in der Spielfeldmitte.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 40",
+          "chapter": "Law 6 Match officials"
+        },
+        "tags": [
+          "Schiedsrichter",
+          "Kick-off"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q97",
+        "text": "Welche Spielfortsetzung erfolgt, wenn der Ball im Scrum absichtlich mit der Hand gespielt wird?",
+        "options": [
+          "Scrum",
+          "Penalty",
+          "Drop-Out",
+          "Lineout"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das absichtliche Spielen des Balles mit der Hand im Scrum wird mit Penalty bestraft.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 108",
+          "chapter": "Law 19 Scrum"
+        },
+        "tags": [
+          "Scrum",
+          "Foul"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q98",
+        "text": "Was passiert, wenn der Ball nach einem Penalty-Kick ins Aus geht?",
+        "options": [
+          "Scrum",
+          "Lineout für die kickernde Mannschaft",
+          "Lineout für die Verteidigung",
+          "Drop-Out"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach einem Penalty ins Aus erhält die kickernde Mannschaft den Einwurf im Lineout.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 90",
+          "chapter": "Law 18 Touch, quick throw and lineout"
+        },
+        "tags": [
+          "Penalty",
+          "Lineout"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q99",
+        "text": "Was zeigt der Schiedsrichter an, wenn er mit beiden Armen über dem Kopf ein Rechteck formt?",
+        "options": [
+          "Time off",
+          "TMO-Überprüfung",
+          "Scrum",
+          "Knock-on"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Rechtecksignal bedeutet, dass der Schiedsrichter eine TMO-Überprüfung einleitet.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 157",
+          "chapter": "Match official signals"
+        },
+        "tags": [
+          "Signal",
+          "TMO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q100",
+        "text": "Was passiert, wenn ein Spieler beim Kicking Tee eine nicht erlaubte Hilfe benutzt?",
+        "options": [
+          "Der Kick wird wiederholt",
+          "Der Kick wird aberkannt",
+          "Es gibt einen Penalty",
+          "Das Spiel wird mit Scrum fortgesetzt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wird ein unzulässiges Hilfsmittel für den Kicking Tee genutzt, wird der Kick annulliert.",
+        "source": {
+          "citation": "World Rugby – Laws of the Game Rugby Union 2025",
+          "pages": "S. 53",
+          "chapter": "Law 8 Scoring"
+        },
+        "tags": [
+          "Kicking",
+          "Fehler"
+        ],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

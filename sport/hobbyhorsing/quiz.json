@@ -1,0 +1,908 @@
+{
+  "quiz": {
+    "title": "Hobby Horsing",
+    "description": "Multiple-Choice-Quiz auf Basis des DtHHV-Regelwerks für Dressur & Springen, Version 1.0 vom 30.06.2024. Jede Frage hat genau eine richtige Antwort; mit Erklärungen und Seitenangaben.",
+    "language": "de",
+    "version": "1.0.0",
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "sourceDocument": {
+      "title": "DtHHV Regelwerk – Dressur | Springen",
+      "version": "1.0",
+      "year": 2024,
+      "pdfFilename": "DtHHV-Regelwerk-V1.0-Dressur-Springen-l8hstg.pdf"
+    },
+    "questions": [
+      {
+        "id": "q001",
+        "text": "Was gilt laut Regelwerk zur Teilnahme bei Krankheit oder Verletzung?",
+        "options": [
+          "Die Teilnahme ist nicht gestattet.",
+          "Die Teilnahme ist mit ärztlichem Attest erlaubt.",
+          "Die Teilnahme ist bei leichten Symptomen erlaubt.",
+          "Die Teilnahme ist erlaubt, wenn ein Trainer begleitet."
+        ],
+        "correctIndex": 0,
+        "explanation": "Teilnehmende müssen körperlich fit sein; bei Krankheit oder Verletzung ist eine Teilnahme untersagt.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 6",
+          "chapter": "1.1 Gesundheit des Teilnehmers"
+        },
+        "tags": [
+          "Regel",
+          "Teilnahme",
+          "Sicherheit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q002",
+        "text": "Welche mentale Anforderung stellt das Regelwerk an Teilnehmende?",
+        "options": [
+          "Sie sollen mental in der Lage sein, die Herausforderungen der Prüfungen und den Wettbewerbsdruck zu bewältigen.",
+          "Sie müssen ein psychologisches Gutachten vorlegen.",
+          "Mentale Anforderungen spielen keine Rolle.",
+          "Nur Minderjährige müssen mentale Anforderungen erfüllen."
+        ],
+        "correctIndex": 0,
+        "explanation": "Es wird ausdrücklich gefordert, dass Teilnehmende mental in der Lage sind, die Herausforderungen zu bewältigen; ein Gutachten ist nicht gefordert.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 6",
+          "chapter": "1.1 Gesundheit des Teilnehmers"
+        },
+        "tags": [
+          "Anforderung",
+          "Sicherheit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q003",
+        "text": "Wie wird über notwendige Ausgleiche im Rahmen der Inklusion entschieden?",
+        "options": [
+          "In einem Gespräch zwischen Teilnehmendem, Betreuer, Veranstalter und den Vor-Ort-Richtern.",
+          "Allein durch den Medizinischen Dienst des Verbandes.",
+          "Durch eine pauschale Festlegung in der Ausschreibung, ohne Einzelfallprüfung.",
+          "Durch eine Online-Abstimmung vor dem Turnier."
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Regelwerk sieht eine individuelle Bewertung in einem Gespräch mit Teilnehmendem, Betreuer, Veranstalter und Vor-Ort-Richtern vor.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 7",
+          "chapter": "1.2 Inklusion"
+        },
+        "tags": [
+          "Inklusion",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q004",
+        "text": "Die Zuordnung zu einer inklusiven Prüfungsform erfolgt laut Regelwerk …",
+        "options": [
+          "unabhängig von der allgemeinen Altersklasse der Prüfung.",
+          "nur innerhalb der allgemeinen Altersklasse U15.",
+          "ausschließlich in eigenen Inklusionsklassen außerhalb des Turniers.",
+          "nur nach Vorlage eines Behindertenausweises."
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Inklusion in eine entsprechende Prüfung erfolgt unabhängig von der allgemeinen Altersklasse; ein Behindertenausweis ist nicht gefordert.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 7",
+          "chapter": "1.2 Inklusion"
+        },
+        "tags": [
+          "Inklusion",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q005",
+        "text": "Welche Aussage zur Kleidung ist korrekt?",
+        "options": [
+          "Sie soll sportlich, flexibel, leicht und eher eng anliegend sein.",
+          "Sie muss in Vereinsfarben gehalten sein.",
+          "Weite Kleidung ist vorgeschrieben, um Bewegungsfreiheit zu gewährleisten.",
+          "Die Farbe Schwarz ist untersagt."
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Regelwerk empfiehlt sportliche, flexible, leichte und eher eng anliegende Kleidung; Farbzwang gibt es nicht.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 7",
+          "chapter": "1.3 Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Bekleidung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q006",
+        "text": "Was ist in Bezug auf kurze Hosen/Röcke untersagt?",
+        "options": [
+          "Bekleidung, durch die das Gesäß sichtbar wird.",
+          "Kurze Hosen sind generell verboten.",
+          "Röcke sind nur in der Dressur verboten.",
+          "Kurze Hosen sind nur in Kombination mit Leggings erlaubt."
+        ],
+        "correctIndex": 0,
+        "explanation": "Zu kurze Hosen/Röcke, durch die das Gesäß sichtbar wird, sind nicht gestattet; normale kurze Hosen sind erlaubt.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 7",
+          "chapter": "1.3 Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Bekleidung",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q007",
+        "text": "Welche Kennzeichnung auf der Kleidung ist untersagt?",
+        "options": [
+          "Symbole politisch-extremistischer Gesinnung.",
+          "Herstellerlogos über 5 cm.",
+          "Startnummern auf dem Shirt.",
+          "Länderflaggen."
+        ],
+        "correctIndex": 0,
+        "explanation": "Alle Farben sind grundsätzlich erlaubt; verboten sind jedoch Symbole politisch-extremistischer Gesinnung.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 7",
+          "chapter": "1.3 Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Verbot"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q008",
+        "text": "Welche Regel gilt für Bauchfreiheit bei Jugendlichen ab 14 Jahren?",
+        "options": [
+          "Eine Handbreit Bauchfreiheit ab dem Hosenbund ist zulässig.",
+          "Bauchfreiheit ist generell verboten.",
+          "Es gibt keine besonderen Vorgaben für Bauchfreiheit.",
+          "Bauchfreiheit ist ab 12 Jahren uneingeschränkt erlaubt."
+        ],
+        "correctIndex": 0,
+        "explanation": "Für Jugendliche ab 14 Jahren ist eine Handbreit Bauchfreiheit ab dem Hosenbund erlaubt; ansonsten gelten die allgemeinen Bekleidungsregeln.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 7–8",
+          "chapter": "1.3 Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Bekleidung",
+          "Altersregel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q009",
+        "text": "Welche Schuhe werden in Sporthallen bevorzugt, und welche sind ungeeignet?",
+        "options": [
+          "Bevorzugt werden Sportschuhe mit abriebfester Sohle; Reitschuhe und Reitstiefel sind ungeeignet.",
+          "Bevorzugt werden Barfußschuhe; Turnschuhe sind ungeeignet.",
+          "Reitstiefel sind vorgeschrieben; Sportschuhe sind nur draußen erlaubt.",
+          "Stollen- oder Spikeschuhe sind bevorzugt."
+        ],
+        "correctIndex": 0,
+        "explanation": "In Sporthallen werden Sportschuhe mit abriebfester Sohle bevorzugt; Reitschuhe und Reitstiefel sind auf allen Untergründen ungeeignet.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 8",
+          "chapter": "1.3 Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Sicherheit",
+          "Schuhe"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q010",
+        "text": "Welche Aussage zu Socken und Barfuß ist korrekt?",
+        "options": [
+          "Rutsch-Socken mit ausreichendem Grip sind erlaubt; normale Socken oder barfuß sind grundsätzlich nicht gestattet (Ausnahme: gesundheitliche Gründe, Entscheidung Vor-Ort-Richter).",
+          "Normale Socken sind erlaubt, Barfuß ist verboten.",
+          "Barfuß ist erlaubt, wenn die Halle warm ist.",
+          "Socken sind generell verboten."
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Regelwerk erlaubt rutschfeste Socken, verbietet normale Socken und Barfuß grundsätzlich; Ausnahmen aus gesundheitlichen Gründen entscheiden Vor-Ort-Richter.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 8",
+          "chapter": "1.3 Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Schuhe",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q011",
+        "text": "Wie ist mit langen Haaren und Schmuck während der Prüfung umzugehen?",
+        "options": [
+          "Haare ab Schulterlänge müssen geflochten, gebunden oder hochgesteckt sein; Ketten, Armbänder, Ringe und lange Ohrringe sind nicht erlaubt.",
+          "Haare ab Schulterlänge müssen offen getragen werden; Schmuck ist erlaubt.",
+          "Nur Ringe sind verboten; alle anderen Schmuckstücke sind erlaubt.",
+          "Es gibt keine Vorgaben für Haare und Schmuck."
+        ],
+        "correctIndex": 0,
+        "explanation": "Aus Sicherheitsgründen müssen lange Haare fixiert werden; hängender Schmuck ist verboten, um Verletzungen durch Hängenbleiben zu vermeiden.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 8",
+          "chapter": "1.3 Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Sicherheit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q012",
+        "text": "Welche Accessoires sind laut Regelwerk zulässig?",
+        "options": [
+          "Fest sitzende Bandagen, weiche Gamaschen oder Western-Chaps (nur beim Western) an den Beinen sowie Handschuhe.",
+          "Metallische Schienbeinschoner und harte Ellbogenschützer.",
+          "Spikes an den Schuhen zur besseren Traktion.",
+          "Lange Ketten als Teil der Kostümierung."
+        ],
+        "correctIndex": 0,
+        "explanation": "Es sind fest sitzende Bandagen, weiche Gamaschen oder Western-Chaps (nur Western) sowie Handschuhe erlaubt; harte Schützer und Spikes sind untersagt.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 8",
+          "chapter": "1.3 Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q013",
+        "text": "Welche Kopfbedeckungen sind laut Regelwerk zulässig bzw. unzulässig?",
+        "options": [
+          "Zylinder (nur Dressur) und Westernhüte (nur Western) sind erlaubt; harte Reit- oder Fahrradhelme sind grundsätzlich unzulässig (Ausnahme bei entsprechender körperlicher Einschränkung).",
+          "Harte Reithelme sind vorgeschrieben; Zylinder sind verboten.",
+          "Nur Caps sind erlaubt; alle anderen Kopfbedeckungen sind verboten.",
+          "Es gibt keine Regelung zu Kopfbedeckungen."
+        ],
+        "correctIndex": 0,
+        "explanation": "Zylinder sind in der Dressur, Westernhüte nur im Western erlaubt; harte Helme sind grundsätzlich nicht erlaubt, außer bei entsprechender körperlicher Einschränkung.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 8–9",
+          "chapter": "1.3 Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Kopfbedeckung",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q014",
+        "text": "Dürfen Kopfhörer während einer Prüfung getragen werden?",
+        "options": [
+          "Nein, außer es liegt ein ärztliches Attest vor.",
+          "Ja, wenn sie kabellos sind.",
+          "Ja, aber nur auf einem Ohr.",
+          "Ja, wenn die Musik zur Kür gehört."
+        ],
+        "correctIndex": 0,
+        "explanation": "Während einer Prüfung ist das Tragen jeglicher Art von Kopfhörern nicht gestattet; eine Ausnahme besteht nur mit ärztlichem Attest.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 9",
+          "chapter": "1.3 Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Sicherheit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q015",
+        "text": "Welche Ausrüstung ist grundsätzlich untersagt, und was kann in bestimmten Prüfungen zugelassen werden?",
+        "options": [
+          "Sporn, Stollen und Spikes sind untersagt; Noppensohlen und Gerte können in bestimmten Prüfungen zugelassen werden.",
+          "Sporn sind erlaubt; Stollen und Spikes sind untersagt.",
+          "Stollen sind vorgeschrieben; Noppensohlen sind verboten.",
+          "Gerte ist generell verboten."
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Regelwerk verbietet Sporen, Stollen und Spikes; Noppensohlen (Schuhe mit flächigen Erhöhungen) und Gerte können je nach Prüfung erlaubt sein.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 9",
+          "chapter": "1.3 Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Verbot",
+          "Ausnahme"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q016",
+        "text": "Wie ist der Gruß in Prüfungen mit Wertnoten geregelt?",
+        "options": [
+          "Zu Beginn und am Ende wird gegrüßt; das Unterlassen kann Maßnahmen bis zur Disqualifikation nach sich ziehen.",
+          "Es wird nur am Anfang gegrüßt; am Ende ist der Gruß optional.",
+          "Es wird nur am Ende gegrüßt.",
+          "Ein Gruß ist nicht vorgesehen."
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Regelwerk verlangt zu Beginn und in Wertnoten-Prüfungen auch am Ende einen Gruß; das Unterlassen kann sanktioniert werden.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 16",
+          "chapter": "1.5.3 Grüßen"
+        },
+        "tags": [
+          "Regel",
+          "Ablauf"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q017",
+        "text": "Nach welcher Logik erfolgt die Einteilung in Altersklassen im laufenden Sportjahr?",
+        "options": [
+          "Maßgeblich ist das Alter, das im laufenden Kalenderjahr erreicht wird; die Einstufung gilt für das gesamte Sportjahr (01.01.–31.12.).",
+          "Maßgeblich ist das Alter am Tag der Prüfung.",
+          "Maßgeblich ist das Alter am 01.01.; spätere Geburtstage bleiben unberücksichtigt.",
+          "Maßgeblich ist das Durchschnittsalter der Trainingsgruppe."
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Einstufung richtet sich nach dem im laufenden Jahr erreichten Alter und gilt für das gesamte Sportjahr vom 01.01. bis 31.12.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 16",
+          "chapter": "1.6 Altersklassen"
+        },
+        "tags": [
+          "Altersklasse",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q018",
+        "text": "Welcher Altersklasse wird ein Teilnehmender zugeordnet, der im laufenden Jahr 12 Jahre alt wird?",
+        "options": [
+          "U15 (12–14 Jahre).",
+          "U12 (10–12 Jahre).",
+          "U13 (11–13 Jahre).",
+          "U18 (12–17 Jahre)."
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Beispiel im Regelwerk ordnet einen im Jahr 12-Jährigen der U15 (12–14 Jahre) zu.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 16",
+          "chapter": "1.6 Altersklassen"
+        },
+        "tags": [
+          "Altersklasse",
+          "Beispiel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q019",
+        "text": "Wer darf während einer Prüfung die Bahn/den Dressur- oder Springplatz betreten?",
+        "options": [
+          "Nur der/die Teilnehmende; Ausnahmen nur bei körperlicher Einschränkung mit notwendiger Begleitung.",
+          "Teilnehmende und Trainer:innen.",
+          "Teilnehmende, Helfer:innen und Publikum, sofern leise.",
+          "Alle, sofern die Prüfung dadurch nicht gestört wird."
+        ],
+        "correctIndex": 0,
+        "explanation": "Während der Prüfung darf nur der/die Teilnehmende die Fläche betreten; bei körperlicher Einschränkung ist eine notwendige Begleitung erlaubt.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 17",
+          "chapter": "1.7.1 Bahnregeln / Prüfungsregeln"
+        },
+        "tags": [
+          "Regel",
+          "Sicherheit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q020",
+        "text": "Dürfen Parcourshelfer sich während einer Prüfung auf dem Springplatz aufhalten?",
+        "options": [
+          "Grundsätzlich nein; nur aus Sicherheitsgründen in begründeten Ausnahmefällen.",
+          "Ja, sie sollen jede Passage eng begleiten.",
+          "Ja, wenn sie die Stangen tragen.",
+          "Nur, wenn der/die Teilnehmende dies wünscht."
+        ],
+        "correctIndex": 0,
+        "explanation": "Parcourshelfer sollen sich aus Sicherheitsgründen grundsätzlich nicht auf dem Springplatz aufhalten; Ausnahmen sind eng begrenzt.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 17",
+          "chapter": "1.7.4 Springplatz"
+        },
+        "tags": [
+          "Sicherheit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q021",
+        "text": "Welche Vorgabe gilt in Sporthallen hinsichtlich des Schuhwerks?",
+        "options": [
+          "Sportschuhe mit abriebfester Sohle werden bevorzugt.",
+          "Barfußlaufen wird bevorzugt.",
+          "Fußballschuhe mit Stollen sind bevorzugt.",
+          "Reitstiefel sind vorgeschrieben."
+        ],
+        "correctIndex": 0,
+        "explanation": "In Hallen sollen abriebfeste Sportschuhe getragen werden, um die Flächen zu schonen und die Sicherheit zu erhöhen.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 8",
+          "chapter": "1.3 Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Schuhe"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q022",
+        "text": "Was kennzeichnet den Schritt laut Regelwerk?",
+        "options": [
+          "Eine schreitende Fortbewegung in verschiedenen Tempi (Mittelschritt, versammelter Schritt, starker Schritt).",
+          "Eine sprungbetonte Fortbewegung mit Flugphase.",
+          "Eine diagonal-taktige Gangart ohne Tempi-Unterscheidung.",
+          "Eine rein ästhetische Pose ohne Fortbewegung."
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Schritt ist eine schreitende Fortbewegung mit den Tempi Mittelschritt, versammelter Schritt und starker Schritt.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 13",
+          "chapter": "1.5.2.1 Schritt"
+        },
+        "tags": [
+          "Definition",
+          "Gangart"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q023",
+        "text": "Welche Aussage trifft auf den Mittelschritt zu?",
+        "options": [
+          "Er repräsentiert das übliche Grundtempo; ruhiges Tempo, gleichmäßiger Rhythmus, entspannter Kopf in mittlerer Position.",
+          "Er ist der schnellste Schritt mit stark erhöhter Körperspannung.",
+          "Er verlangt eine deutlich erhöhte Kopfposition und kurze, hohe Schritte.",
+          "Er ist ausschließlich im Western zugelassen."
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Mittelschritt ist das normale Grundtempo mit ruhigem Tempo und gleichmäßigem Rhythmus; der Hobby-Horse-Kopf wird entspannt in mittlerer Position gehalten.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 13–14",
+          "chapter": "1.5.2.1 Schritt"
+        },
+        "tags": [
+          "Definition",
+          "Gangart"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q024",
+        "text": "Wie unterscheidet sich der versammelte Schritt vom Mittelschritt?",
+        "options": [
+          "Kürzere, langsamere und etwas höhere Schritte; erhöhte Kopfposition und mehr Körperspannung.",
+          "Längere, schnellere Schritte bei gesenkter Kopfposition.",
+          "Gleiche Schrittlänge, aber schnellerer Rhythmus.",
+          "Es gibt keinen Unterschied; die Begriffe sind synonym."
+        ],
+        "correctIndex": 0,
+        "explanation": "Im versammelten Schritt sind die Schritte kürzer, langsamer und höher; der Kopf wird höher getragen, die Körperspannung ist erhöht.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 14",
+          "chapter": "1.5.2.1 Schritt"
+        },
+        "tags": [
+          "Definition",
+          "Gangart"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q025",
+        "text": "Wie erfolgt der Gruß zu Beginn einer Prüfung regelkonform?",
+        "options": [
+          "Anhalten, Hobby Horse und Zügel in einer Hand vor die Körpermitte, freie Hand entgegengesetzt am Körper, Kopfnicken nach unten.",
+          "Anhalten, Hobby Horse über den Kopf heben, mit beiden Händen winken.",
+          "Ohne Anhalten kurz nicken.",
+          "Nur verbal „Guten Tag“ sagen."
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Gruß erfolgt mit Anhalten, Positionierung von Hobby Horse und Zügeln in einer Hand vor der Körpermitte, die freie Hand am Körper, dazu ein Kopfnicken.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 16",
+          "chapter": "1.5.3 Grüßen"
+        },
+        "tags": [
+          "Ablauf",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q026",
+        "text": "Welche Konsequenz hat es, wenn der Parcours durchgehend in der falschen Gangart absolviert wird (z. B. Springen im Trab)?",
+        "options": [
+          "Dies kann zur Disqualifikation führen, sofern die Ausschreibung keine Ausnahme vorsieht.",
+          "Es führt lediglich zu Zeitstrafen.",
+          "Es hat keine Folgen, solange keine Hindernisse berührt werden.",
+          "Es wird mit einem Punktabzug von 1,0 bewertet."
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Regelwerk nennt als Disqualifikationsgrund das Absolvieren des Parcours durchgehend in der falschen Gangart, sofern nicht abweichend ausgeschrieben.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 79",
+          "chapter": "Springen – Disqualifikationsgründe"
+        },
+        "tags": [
+          "Regel",
+          "Disqualifikation"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q027",
+        "text": "Wie werden Gangartfehler im Springen (Zeitwertung) gewertet?",
+        "options": [
+          "Je Gangartfehler werden 0,5 Strafsekunden zur Endzeit addiert.",
+          "Je Gangartfehler werden 2 Strafpunkte abgezogen.",
+          "Es erfolgt ein sofortiger Ausschluss.",
+          "Sie bleiben ohne Wertung."
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhaft wird beschrieben, dass pro Gangartfehler 0,5 Sekunden zur Endzeit addiert werden.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 70",
+          "chapter": "Springen – Zeitwertung"
+        },
+        "tags": [
+          "Bewertung",
+          "Zeitstrafe"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q028",
+        "text": "Was passiert, wenn zwischen zwei Hindernissen mehrfach kein klarer Galopp erkennbar ist?",
+        "options": [
+          "Für jeden weiteren Fehler werden jeweils 0,5 s addiert; die Zeitstrafe summiert sich.",
+          "Es bleibt bei einmalig 0,5 s, unabhängig von der Zahl der Fehler.",
+          "Es erfolgt Disqualifikation.",
+          "Die Wertung erfolgt mit Punktabzug statt Zeitstrafe."
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Regelwerk erläutert, dass sich die Strafsekunden pro weiterem Gangartfehler addieren (z. B. insgesamt 1,0 s für zwei Fehler).",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 79",
+          "chapter": "Springen – Zeitwertung"
+        },
+        "tags": [
+          "Bewertung",
+          "Zeitstrafe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q029",
+        "text": "Wie wirkt sich der Joker-Sprung am Ende eines Parcours auf die Punktewertung aus?",
+        "options": [
+          "Gelingt er, gibt es Zusatzpunkte; misslingt er, werden diese Punkte vom bisherigen Ergebnis abgezogen.",
+          "Gelingt er, verdoppelt sich die Gesamtpunktzahl.",
+          "Misslingt er, führt dies zur Disqualifikation.",
+          "Der Joker hat keinen Einfluss auf die Wertung."
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Joker ist ein anspruchsvoller Sprung: bei Erfolg Zusatzpunkte, bei Fehler werden diese vom bisherigen Ergebnis abgezogen.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 66",
+          "chapter": "Springen – Punktewertung"
+        },
+        "tags": [
+          "Bewertung",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q030",
+        "text": "Wie wird ein Fehler an einem Sprung in einer Punktewertung gewertet?",
+        "options": [
+          "Für den betreffenden Sprung werden keine Punkte vergeben.",
+          "Es werden halbe Punkte vergeben.",
+          "Es wird 1 Strafpunkt abgezogen, die Grundpunkte bleiben.",
+          "Der Sprung darf wiederholt werden, um Punkte zu erhalten."
+        ],
+        "correctIndex": 0,
+        "explanation": "Bei einem Fehler werden für den betreffenden Sprung keine Punkte vergeben.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 25",
+          "chapter": "Springen – Punktewertung"
+        },
+        "tags": [
+          "Bewertung",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q031",
+        "text": "Welche Bewertungsvariante im Springen wird genannt?",
+        "options": [
+          "Springen nach A- und B-Note (Stil und Ausführung).",
+          "Springen ausschließlich nach Zeit ohne Stilnote.",
+          "Bewertung nur nach Publikumsapplaus.",
+          "Bewertung nach Gewichtsklassen."
+        ],
+        "correctIndex": 0,
+        "explanation": "Als Variante wird ein Springen nach A- und B-Note erwähnt.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 90–91",
+          "chapter": "Springen – Bewertungsvarianten"
+        },
+        "tags": [
+          "Bewertung",
+          "Variante"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q032",
+        "text": "Welche Aussage zum Doping ist korrekt?",
+        "options": [
+          "Die Richtlinien von NADA und WADA sind strikt zu beachten; Verstöße können u. a. zu sofortiger Disqualifikation, Sperre und Geldstrafe führen.",
+          "Dopingregeln gelten nur bei Meisterschaften.",
+          "Dopingverstöße werden ausschließlich mit Verwarnungen geahndet.",
+          "Die Einhaltung der Dopingregeln ist freiwillig."
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Regelwerk verweist auf NADA/WADA; Verstöße haben harte Sanktionen wie Disqualifikation, Sperre und Geldstrafe.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 94",
+          "chapter": "6. Doping"
+        },
+        "tags": [
+          "Regel",
+          "Sanktion"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q033",
+        "text": "Welche witterungsbedingten Kopfbedeckungen sind erlaubt?",
+        "options": [
+          "Z. B. Stirnband, Mütze oder Caps.",
+          "Nur Caps ohne Logo.",
+          "Nur Stirnband, keine Mützen.",
+          "Witterungsbedingte Kopfbedeckungen sind verboten."
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Regelwerk erlaubt witterungsbedingte Kopfbedeckungen wie Stirnband, Mütze oder Caps.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 9",
+          "chapter": "1.3 Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Kopfbedeckung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q034",
+        "text": "Sind Handschuhe erlaubt?",
+        "options": [
+          "Ja, Handschuhe sind zulässig.",
+          "Nein, Handschuhe sind verboten.",
+          "Nur Fingerlose Handschuhe sind erlaubt.",
+          "Nur Winterhandschuhe sind erlaubt."
+        ],
+        "correctIndex": 0,
+        "explanation": "Im Abschnitt zu Accessoires werden Handschuhe als zulässig genannt.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 8",
+          "chapter": "1.3 Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q035",
+        "text": "Welcher Haarschmuck ist erlaubt?",
+        "options": [
+          "Fest sitzender Haarschmuck.",
+          "Lange, herabhängende Ketten im Haar.",
+          "Große, lose Haarspangen, die sich leicht lösen.",
+          "Metallische Haarreifen mit scharfen Kanten."
+        ],
+        "correctIndex": 0,
+        "explanation": "Erlaubt ist fest sitzender Haarschmuck; lose oder gefährliche Accessoires sind aus Sicherheitsgründen nicht zulässig.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 8",
+          "chapter": "1.3 Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Sicherheit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q036",
+        "text": "Welche Folge hat das Verlassen des Prüfungsplatzes während der Prüfung?",
+        "options": [
+          "Es kann zur Disqualifikation führen.",
+          "Es führt zu 5 Strafsekunden.",
+          "Es führt zu einem Punktabzug von 2 Punkten.",
+          "Es hat keine Konsequenzen, wenn man zurückkehrt."
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Verlassen des Prüfungsplatzes während der Prüfung wird als Disqualifikationsgrund genannt.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 79",
+          "chapter": "Prüfungsregeln – Disqualifikationsgründe"
+        },
+        "tags": [
+          "Regel",
+          "Disqualifikation"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q037",
+        "text": "Welche Aspekte sind bei der stilistischen Bewertung im Springen wichtig?",
+        "options": [
+          "Orientierung halten, großzügige Wege ohne Abkürzen, gerade Linien vor und nach dem Sprung, mittiges Überwinden.",
+          "Möglichst enge Wendungen und riskante Abkürzungen.",
+          "Sprünge nur aus dem Stand, um Präzision zu zeigen.",
+          "Ausschließlich die absolute Geschwindigkeit über den Parcours."
+        ],
+        "correctIndex": 0,
+        "explanation": "Bei der Stilbewertung zählen Orientierung, Linienführung und mittiges Überwinden der Hindernisse, nicht riskante Abkürzungen.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 90–91",
+          "chapter": "Springen – Stilbewertung"
+        },
+        "tags": [
+          "Bewertung",
+          "Springen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q038",
+        "text": "Zu welcher Art von Bewegung zählt das Schulterherein?",
+        "options": [
+          "Zu den Seitengängen.",
+          "Zu den Sprüngen.",
+          "Zu den Schritt-Varianten.",
+          "Zu den Pirouetten."
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Schulterherein wird im Regelwerk als Seitengang aufgeführt.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 2–3",
+          "chapter": "Dressur – Bewegungen"
+        },
+        "tags": [
+          "Definition",
+          "Dressur"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q039",
+        "text": "Welche Aussage trifft auf die Pirouette zu?",
+        "options": [
+          "Sie gehört zu den dressurspezifischen Bewegungen und wird separat bewertet.",
+          "Sie ist ein Sprungelement im Parcours.",
+          "Sie ist eine Variante des Trabes.",
+          "Sie ist eine Altersklasse."
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Pirouette wird unter den Dressurbewegungen gelistet.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 2–3",
+          "chapter": "Dressur – Bewegungen"
+        },
+        "tags": [
+          "Definition",
+          "Dressur"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q040",
+        "text": "Was beschreibt die Passage im Kontext des Regelwerks?",
+        "options": [
+          "Eine besondere Dressurbewegung, die als schwerer Bewegungsablauf aufgeführt ist.",
+          "Eine Geschwindigkeitssteigerung im Galopp.",
+          "Eine Parcoursvariante mit Joker.",
+          "Eine Regel zur Platzierung."
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Passage wird als spezielle Dressurbewegung genannt.",
+        "source": {
+          "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
+          "pages": "S. 2–3",
+          "chapter": "Dressur – Bewegungen"
+        },
+        "tags": [
+          "Definition",
+          "Dressur"
+        ],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

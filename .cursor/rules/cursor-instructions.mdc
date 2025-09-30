@@ -1,0 +1,44 @@
+---
+description: Quiz Center main development rules and overview
+globs: ["**/*"]
+alwaysApply: true
+---
+
+# Quiz Center Development Rules
+
+## Overview
+
+This is a **static web-based quiz platform** with Python management tools. The architecture uses a hub-and-spoke model with specialized rules for different aspects of development.
+
+## Rule Organization
+
+This project uses multiple specialized Cursor rules:
+
+- **`project-architecture.mdc`**: Core architecture and file management (always applied)
+- **`centralized-files.mdc`**: Centralized file structure rules (auto-attached to HTML files)
+- **`quiz-creation-workflow.mdc`**: Four-step quiz creation process (auto-attached to quiz files)
+- **`quiz-json-schema.mdc`**: JSON schema validation requirements (auto-attached to quiz.json files)
+
+## Quick Reference
+
+**Critical Commands:**
+```bash
+# After creating/renaming quiz folders
+python update_config.py
+
+# Validate quiz.json
+npx ajv validate -s _template/schema.json -d [category]/[quiz_name]/quiz.json
+```
+
+**Key Files:**
+- `config.json`: Auto-generated, never edit manually
+- `update_config.py`: Run after folder structure changes
+- `_template/copyme/`: Template for new quizzes
+- `_template/schema.json`: Quiz JSON validation schema
+
+**Naming Conventions:**
+- Quiz folders: lowercase, underscores (e.g., `machine_learning`, `basketball`)
+- Categories: `ai/`, `sport/`, `gesetze/`
+- Always use German UI text
+
+For detailed workflows and requirements, refer to the specialized rule files in `.cursor/rules/`.

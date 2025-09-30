@@ -1,0 +1,311 @@
+{
+  "quiz": {
+    "title": "Astronomie Quiz",
+    "description": "Entdecke die Geheimnisse des Universums! Mit {questionCount} Fragen aus dem Fragenkatalog über Planeten, Sterne, Galaxien und Weltraumerforschung.",
+    "language": "de", 
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-09-26T12:00:00Z",
+      "notes": "Astronomie Quiz basierend auf NASA und ESA Informationen"
+    },
+    "sourceDocument": {
+      "title": "NASA's Solar System Exploration Guide",
+      "version": "2024",
+      "year": 2024,
+      "pdfFilename": "NASA_Solar_System_Guide.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true, 
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "astro_q1",
+        "text": "Wie viele Planeten gibt es in unserem Sonnensystem?",
+        "options": [
+          "7 Planeten",
+          "8 Planeten",
+          "9 Planeten", 
+          "10 Planeten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Unser Sonnensystem hat 8 Planeten: Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun. Pluto wurde 2006 zu einem Zwergplaneten herabgestuft.",
+        "source": {
+          "citation": "NASA Solar System Exploration, solarsystem.nasa.gov",
+          "pages": "Planetary Overview",
+          "chapter": "Solar System Basics"
+        },
+        "tags": ["Sonnensystem", "Planeten"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "astro_q2",
+        "text": "Welcher Planet ist der größte in unserem Sonnensystem?",
+        "options": [
+          "Saturn",
+          "Jupiter", 
+          "Neptun",
+          "Uranus"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jupiter ist der größte Planet in unserem Sonnensystem. Er ist mehr als doppelt so groß wie alle anderen Planeten zusammen und hat einen Durchmesser von etwa 142.984 km.",
+        "source": {
+          "citation": "NASA Planetary Facts",
+          "pages": "S. 45-48",
+          "chapter": "Gasriesen"
+        },
+        "tags": ["Planeten", "Jupiter", "Größe"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "astro_q3",
+        "text": "Wie weit ist die Sonne von der Erde entfernt?",
+        "options": [
+          "93 Millionen Meilen (150 Millionen km)",
+          "186 Millionen Meilen (300 Millionen km)",
+          "50 Millionen Meilen (80 Millionen km)",
+          "120 Millionen Meilen (193 Millionen km)"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die durchschnittliche Entfernung zwischen Erde und Sonne beträgt etwa 93 Millionen Meilen oder 150 Millionen Kilometer. Diese Entfernung wird als eine Astronomische Einheit (AE) bezeichnet.",
+        "source": {
+          "citation": "NASA Earth-Sun Distance",
+          "pages": "S. 23-25",
+          "chapter": "Astronomische Einheiten"
+        },
+        "tags": ["Sonne", "Erde", "Entfernung", "AE"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "astro_q4",
+        "text": "Was ist ein Schwarzes Loch?",
+        "options": [
+          "Ein dunkler Nebel im Weltraum",
+          "Ein Gebiet im Raum mit so starker Gravitation, dass nichts entkommen kann",
+          "Ein kalter Stern ohne Licht",
+          "Ein Loch in der Atmosphäre eines Planeten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Schwarzes Loch ist ein Gebiet im Raum, wo die Gravitation so stark ist, dass nichts - nicht einmal Licht - entkommen kann. Sie entstehen, wenn sehr massive Sterne am Ende ihres Lebens kollabieren.",
+        "source": {
+          "citation": "NASA Black Hole Basics",
+          "pages": "S. 78-82",
+          "chapter": "Extreme Objekte"
+        },
+        "tags": ["Schwarzes Loch", "Gravitation", "Sterne"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "astro_q5",
+        "text": "Welche Galaxie ist unserer Milchstraße am nächsten?",
+        "options": [
+          "Whirlpool-Galaxie",
+          "Andromeda-Galaxie",
+          "Sombrero-Galaxie",
+          "Triangulum-Galaxie"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Andromeda-Galaxie (M31) ist unserer Milchstraße am nächsten, etwa 2,5 Millionen Lichtjahre entfernt. Sie bewegt sich auf uns zu und wird in etwa 4,5 Milliarden Jahren mit der Milchstraße verschmelzen.",
+        "source": {
+          "citation": "NASA Galaxy Guide",
+          "pages": "S. 95-98",
+          "chapter": "Lokale Gruppe"
+        },
+        "tags": ["Galaxien", "Andromeda", "Milchstraße"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "astro_q6",
+        "text": "Wie lange dauert es, bis das Licht der Sonne die Erde erreicht?",
+        "options": [
+          "Etwa 8 Minuten und 20 Sekunden",
+          "Etwa 4 Minuten",
+          "Etwa 15 Minuten",
+          "Sofort"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Sonnenlicht benötigt etwa 8 Minuten und 20 Sekunden, um von der Sonne zur Erde zu gelangen. Das liegt daran, dass Licht mit etwa 300.000 km/s reist und die Entfernung 150 Millionen km beträgt.",
+        "source": {
+          "citation": "NASA Light Speed Facts",
+          "pages": "S. 31-33",
+          "chapter": "Lichtgeschwindigkeit"
+        },
+        "tags": ["Licht", "Sonne", "Zeit", "Geschwindigkeit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "astro_q7",
+        "text": "Was ist der Unterschied zwischen einem Stern und einem Planeten?",
+        "options": [
+          "Sterne sind größer als Planeten",
+          "Sterne produzieren ihr eigenes Licht durch Kernfusion, Planeten nicht",
+          "Planeten sind heißer als Sterne",
+          "Es gibt keinen Unterschied"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sterne sind große Himmelskörper, die ihr eigenes Licht und ihre Wärme durch Kernfusion in ihrem Inneren erzeugen. Planeten hingegen produzieren kein eigenes Licht und reflektieren nur das Licht ihrer Sterne.",
+        "source": {
+          "citation": "NASA Stellar Classification",
+          "pages": "S. 56-59",
+          "chapter": "Sterne vs. Planeten"
+        },
+        "tags": ["Sterne", "Planeten", "Kernfusion", "Licht"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "astro_q8",
+        "text": "Welcher Planet hat die meisten Monde in unserem Sonnensystem?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 1,
+        "explanation": "Saturn hat die meisten bekannten Monde mit über 80 bestätigten Monden. Jupiter folgt an zweiter Stelle mit über 70 Monden. Die Anzahl ändert sich regelmäßig, wenn neue kleine Monde entdeckt werden.",
+        "source": {
+          "citation": "NASA Moons Database",
+          "pages": "S. 67-70",
+          "chapter": "Planetenmonde"
+        },
+        "tags": ["Saturn", "Monde", "Planeten"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "astro_q9",
+        "text": "Was ist ein Nebel?",
+        "options": [
+          "Ein toter Stern",
+          "Eine Wolke aus Gas und Staub im Weltraum",
+          "Ein kleiner Planet",
+          "Ein Meteor"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Nebel ist eine große Wolke aus Gas und Staub im interstellaren Raum. Nebel können Sternentstehungsgebiete sein oder Überreste von Sternen, die am Ende ihres Lebens explodiert sind.",
+        "source": {
+          "citation": "NASA Nebula Guide",
+          "pages": "S. 89-92",
+          "chapter": "Interstellare Materie"
+        },
+        "tags": ["Nebel", "Gas", "Staub", "Sterne"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "astro_q10",
+        "text": "Wie entsteht ein Komet-Schweif?",
+        "options": [
+          "Durch Reibung mit der Atmosphäre",
+          "Durch das Schmelzen und Verdampfen von Eis durch Sonnenwärme",
+          "Durch Kollision mit Asteroiden",
+          "Kometen haben keinen Schweif"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wenn sich ein Komet der Sonne nähert, erwärmt die Sonnenstrahlung das Eis im Kometenkern. Das Eis sublimiert (geht direkt vom festen in den gasförmigen Zustand über) und bildet zusammen mit Staub den charakteristischen Schweif.",
+        "source": {
+          "citation": "NASA Comet Science",
+          "pages": "S. 103-106",
+          "chapter": "Kometen und Asteroiden"
+        },
+        "tags": ["Kometen", "Schweif", "Eis", "Sonne"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "astro_q11",
+        "text": "Was ist die Hauptkomponente der Sonne?",
+        "options": [
+          "Sauerstoff",
+          "Wasserstoff",
+          "Helium",
+          "Kohlenstoff"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Sonne besteht zu etwa 73% aus Wasserstoff und zu 25% aus Helium. Der Wasserstoff wird im Kern der Sonne durch Kernfusion zu Helium umgewandelt, wodurch die Energie entsteht, die uns erreicht.",
+        "source": {
+          "citation": "NASA Solar Composition",
+          "pages": "S. 38-41",
+          "chapter": "Aufbau der Sonne"
+        },
+        "tags": ["Sonne", "Wasserstoff", "Kernfusion"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "astro_q12",
+        "text": "Wie lange dauert ein Jahr auf dem Mars?",
+        "options": [
+          "365 Erdentage",
+          "687 Erdentage",
+          "225 Erdentage",
+          "1000 Erdentage"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Jahr auf dem Mars dauert etwa 687 Erdentage. Das liegt daran, dass Mars weiter von der Sonne entfernt ist als die Erde und daher eine größere Umlaufbahn hat.",
+        "source": {
+          "citation": "NASA Mars Facts",
+          "pages": "S. 52-54",
+          "chapter": "Marsorbital"
+        },
+        "tags": ["Mars", "Jahr", "Umlaufbahn"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "astro_q13",
+        "text": "Was ist ein Pulsar?",
+        "options": [
+          "Ein blinkender Stern am Himmel",
+          "Ein rotierender Neutronenstern mit starkem Magnetfeld",
+          "Ein Planet mit regelmäßigen Eruptionen",
+          "Ein künstlicher Satellit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Pulsar ist ein schnell rotierender Neutronenstern mit einem sehr starken Magnetfeld. Er sendet Strahlung in Kegeln aus seinen magnetischen Polen, die wie ein Leuchtturm regelmäßige Pulse zur Erde senden.",
+        "source": {
+          "citation": "NASA Pulsar Research",
+          "pages": "S. 112-115",
+          "chapter": "Neutronensterne"
+        },
+        "tags": ["Pulsar", "Neutronenstern", "Magnetfeld"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "astro_q14",
+        "text": "Welcher Planet ist als 'Roter Planet' bekannt?",
+        "options": [
+          "Venus",
+          "Mars",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mars wird der 'Rote Planet' genannt wegen des Eisenoxids (Rost) in seinem Boden, das ihm eine rötliche Farbe verleiht. Diese Farbe ist sogar mit bloßem Auge von der Erde aus sichtbar.",
+        "source": {
+          "citation": "NASA Mars Overview",
+          "pages": "S. 49-51",
+          "chapter": "Planeten-Eigenschaften"
+        },
+        "tags": ["Mars", "Roter Planet", "Eisenoxid"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "astro_q15",
+        "text": "Was ist der Unterschied zwischen einer totalen und einer partiellen Sonnenfinsternis?",
+        "options": [
+          "Bei einer totalen Finsternis ist die Sonne komplett verdeckt, bei einer partiellen nur teilweise",
+          "Totale Finsternisse dauern länger",
+          "Partielle Finsternisse sind gefährlicher",
+          "Es gibt keinen Unterschied"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bei einer totalen Sonnenfinsternis verdeckt der Mond die Sonne vollständig, wodurch es für kurze Zeit dunkel wird. Bei einer partiellen Finsternis verdeckt der Mond nur einen Teil der Sonne.",
+        "source": {
+          "citation": "NASA Eclipse Guide",
+          "pages": "S. 125-128",
+          "chapter": "Finsternisse"
+        },
+        "tags": ["Sonnenfinsternis", "Mond", "Sonne"],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

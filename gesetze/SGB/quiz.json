@@ -1,0 +1,1676 @@
+{
+  "quiz": {
+    "title": "Quiz zum Sozialgesetzbuch I (Allgemeiner Teil)",
+    "description": "Multiple-Choice-Fragen zum SGB I (Allgemeiner Teil), basierend auf dem Gesetzestext.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-09-26T11:53:11Z",
+      "notes": "Fragen aus dem SGB I."
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "sourceDocument": {
+      "title": "Sozialgesetzbuch I - Allgemeiner Teil",
+      "version": "2024",
+      "year": 2024,
+      "pdfFilename": "SGB_1.pdf"
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Welches Ziel verfolgt das Sozialgesetzbuch laut § 1 Abs. 1 SGB I?",
+        "options": [
+          "Es soll die freie Marktwirtschaft fördern.",
+          "Es soll soziale Gerechtigkeit und soziale Sicherheit verwirklichen.",
+          "Es soll die europäische Integration sicherstellen.",
+          "Es soll ausschließlich den Arbeitsmarkt regulieren."
+        ],
+        "correctIndex": 1,
+        "explanation": "Richtig ist Antwort 2: Nach § 1 Abs. 1 SGB I soll das Sozialgesetzbuch zur Verwirklichung sozialer Gerechtigkeit und sozialer Sicherheit beitragen. Die anderen Optionen sind nicht Bestandteil der Zielsetzung.",
+        "source": {
+          "citation": "SGB I, BGBl. I 1975 S. 3015, zuletzt geändert 2024",
+          "pages": "S. 4",
+          "chapter": "§ 1 Aufgaben des Sozialgesetzbuches"
+        },
+        "tags": [
+          "Definition",
+          "Ziel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche sozialen Rechte werden nach § 2 Abs. 2 SGB I besonders hervorgehoben?",
+        "options": [
+          "Sie sind bei der Auslegung der Vorschriften und bei der Ausübung von Ermessen zu beachten.",
+          "Sie gelten nur im Rahmen internationaler Abkommen.",
+          "Sie können jederzeit frei ausgehandelt werden.",
+          "Sie sind lediglich politische Empfehlungen ohne Rechtswirkung."
+        ],
+        "correctIndex": 0,
+        "explanation": "Richtig ist Antwort 1: Nach § 2 Abs. 2 SGB I sind soziale Rechte bei der Auslegung und der Ermessensausübung zu berücksichtigen. Die übrigen Antworten widersprechen dem Gesetzestext.",
+        "source": {
+          "citation": "SGB I, BGBl. I 1975 S. 3015, zuletzt geändert 2024",
+          "pages": "S. 4",
+          "chapter": "§ 2 Soziale Rechte"
+        },
+        "tags": [
+          "Rechte",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Welches Recht steht nach § 3 Abs. 1 SGB I Auszubildenden zu, wenn ihnen die erforderlichen Mittel fehlen?",
+        "options": [
+          "Ein Recht auf individuelle Förderung ihrer Ausbildung.",
+          "Ein Recht auf sofortige Arbeitsvermittlung.",
+          "Ein Recht auf bedingungsloses Grundeinkommen.",
+          "Ein Recht auf kostenfreie Unterkunft in einer Ausbildungsstätte."
+        ],
+        "correctIndex": 0,
+        "explanation": "Richtig ist Antwort 1: Nach § 3 Abs. 1 SGB I haben Auszubildende ein Recht auf individuelle Förderung ihrer Ausbildung, wenn die Mittel fehlen. Die anderen Optionen finden sich nicht im Gesetz.",
+        "source": {
+          "citation": "SGB I, BGBl. I 1975 S. 3015, zuletzt geändert 2024",
+          "pages": "S. 4",
+          "chapter": "§ 3 Bildungs- und Arbeitsförderung"
+        },
+        "tags": [
+          "Definition",
+          "Recht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Wer ist nach § 61 SGB I verpflichtet, auf Verlangen des Leistungsträgers persönlich zu erscheinen?",
+        "options": [
+          "Nur die gesetzlichen Vertreter",
+          "Wer Sozialleistungen beantragt oder erhält",
+          "Nur Personen unter 18 Jahren",
+          "Nur Arbeitgeber der Antragsteller"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 61 SGB I verpflichtet Antragsteller oder Leistungsberechtigte, auf Verlangen persönlich zu erscheinen. Die anderen Optionen sind nicht korrekt.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 21",
+          "chapter": "§ 61 Persönliches Erscheinen"
+        },
+        "tags": [
+          "Mitwirkung",
+          "Pflicht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Welche Untersuchungen können nach § 65 Abs. 2 SGB I abgelehnt werden?",
+        "options": [
+          "Untersuchungen ohne Terminabsprache",
+          "Untersuchungen mit hohen Kosten",
+          "Untersuchungen mit erheblichen Schmerzen oder Gefahren",
+          "Untersuchungen, die im Ausland stattfinden"
+        ],
+        "correctIndex": 2,
+        "explanation": "§ 65 Abs. 2 SGB I erlaubt die Ablehnung von Untersuchungen, wenn erhebliche Schmerzen, Gefahren für Leben/Gesundheit oder erhebliche Eingriffe drohen.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 22",
+          "chapter": "§ 65 Grenzen der Mitwirkung"
+        },
+        "tags": [
+          "Grenze",
+          "Mitwirkung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Was passiert nach § 67 SGB I, wenn die Mitwirkung nachgeholt wird?",
+        "options": [
+          "Die Leistungen können nachträglich erbracht werden.",
+          "Der Antrag gilt automatisch als abgelehnt.",
+          "Es erfolgt ein Bußgeldbescheid.",
+          "Die Verjährungsfrist wird verlängert."
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 67 SGB I ermöglicht es, versagte oder entzogene Leistungen nachträglich zu erbringen, wenn die Mitwirkung nachgeholt wird.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 23",
+          "chapter": "§ 67 Nachholung der Mitwirkung"
+        },
+        "tags": [
+          "Mitwirkung",
+          "Nachholung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Welche Gesetze gelten nach § 68 SGB I bis zu ihrer Einordnung als besondere Teile?",
+        "options": [
+          "Nur das Grundgesetz",
+          "Zum Beispiel das Bundesausbildungsförderungsgesetz, das Wohngeldgesetz und das Soldatenentschädigungsgesetz",
+          "Alle Landesgesetze",
+          "Nur das Einkommensteuergesetz"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 68 SGB I listet verschiedene Gesetze (z. B. BAföG, Wohngeldgesetz, Soldatenentschädigungsgesetz) als besondere Teile, bis sie in das SGB eingeordnet sind.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 23",
+          "chapter": "§ 68 Besondere Teile"
+        },
+        "tags": [
+          "Gesetze",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Welche Länder können nach § 69 SGB I ihre Zuständigkeitsvorschriften anpassen?",
+        "options": [
+          "Alle Bundesländer",
+          "Nur Bayern und Sachsen",
+          "Nur die Stadtstaaten Berlin, Bremen und Hamburg",
+          "Kein Bundesland"
+        ],
+        "correctIndex": 2,
+        "explanation": "§ 69 SGB I ermächtigt ausschließlich die Stadtstaaten Berlin, Bremen und Hamburg zur Anpassung ihrer Zuständigkeitsregelungen.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 23",
+          "chapter": "§ 69 Stadtstaaten-Klausel"
+        },
+        "tags": [
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q9",
+        "text": "Welche Frist bestimmt § 70 SGB I für die Anwendung des Verjährungsrechts?",
+        "options": [
+          "Artikel 229 § 6 EGBGB gilt entsprechend",
+          "Eine Frist von 2 Jahren",
+          "Eine Frist von 6 Monaten",
+          "Keine spezielle Regelung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 70 SGB I verweist auf Artikel 229 § 6 Abs. 1 und 2 EGBGB für die Anwendung des Verjährungsrechts.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 23",
+          "chapter": "§ 70 Überleitungsvorschrift zum Verjährungsrecht"
+        },
+        "tags": [
+          "Verjährung",
+          "Frist"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Was bestimmt § 71 SGB I zur Anwendbarkeit der §§ 53 und 54?",
+        "options": [
+          "Sie gelten nur für Sozialhilfeleistungen",
+          "Sie sind auf Geldleistungen nach dem 30. März 2005 anwendbar",
+          "Sie gelten rückwirkend seit 1975",
+          "Sie sind ersatzlos gestrichen"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 71 SGB I beschränkt die Anwendung von § 53 Abs. 6 und § 54 Abs. 6 auf Geldleistungen, die nach dem 30. März 2005 erbracht werden.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 23",
+          "chapter": "§ 71 Überleitungsvorschrift"
+        },
+        "tags": [
+          "Überleitung",
+          "Frist"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q11",
+        "text": "Welche Leistungen nennt § 18 SGB I für die Ausbildungsförderung?",
+        "options": [
+          "Zuschüsse und Darlehen für Lebensunterhalt und Ausbildung",
+          "Nur kostenfreie Schulbücher",
+          "Nur Stipendien privater Träger",
+          "Nur Wohngeld für Studenten"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 18 Abs. 1 SGB I sieht Zuschüsse und Darlehen für Lebensunterhalt und Ausbildung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 7",
+          "chapter": "§ 18 Ausbildungsförderung"
+        },
+        "tags": [
+          "Leistungen",
+          "Ausbildung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q12",
+        "text": "Welche Institution ist nach § 19 Abs. 2 SGB I für Arbeitsförderung zuständig?",
+        "options": [
+          "Die Krankenkassen",
+          "Die Bundesagentur für Arbeit und ihre Dienststellen",
+          "Das Bundesverfassungsgericht",
+          "Die Industrie- und Handelskammern"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 19 Abs. 2 SGB I bestimmt die Bundesagentur für Arbeit und ihre Dienststellen als zuständig.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 7",
+          "chapter": "§ 19 Arbeitsförderung"
+        },
+        "tags": [
+          "Zuständigkeit",
+          "Leistungen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q13",
+        "text": "Welche zwei Hauptarten von Leistungen nennt § 19a SGB I in der Grundsicherung für Arbeitsuchende?",
+        "options": [
+          "Leistungen zur Eingliederung in Arbeit und Leistungen zur Sicherung des Lebensunterhalts",
+          "Nur Leistungen zur Altersvorsorge",
+          "Nur Leistungen für Wohnen",
+          "Nur medizinische Leistungen"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 19a SGB I nennt Leistungen zur Eingliederung in Arbeit und Leistungen zur Sicherung des Lebensunterhalts.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 7",
+          "chapter": "§ 19a Grundsicherung"
+        },
+        "tags": [
+          "Grundsicherung",
+          "Leistungen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Welche Träger sind nach § 21a Abs. 2 SGB I für Pflegeleistungen zuständig?",
+        "options": [
+          "Die Rentenversicherungsträger",
+          "Die Pflegekassen bei den Krankenkassen",
+          "Die Kommunen",
+          "Das Familienministerium"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 21a Abs. 2 SGB I nennt die Pflegekassen bei den Krankenkassen als zuständig.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 8",
+          "chapter": "§ 21a Pflegeversicherung"
+        },
+        "tags": [
+          "Zuständigkeit",
+          "Pflege"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q15",
+        "text": "Welche Leistungen enthält § 23 SGB I in der gesetzlichen Rentenversicherung u. a.?",
+        "options": [
+          "Prävention, medizinische Rehabilitation und Renten",
+          "Nur einmalige Sozialhilfe",
+          "Nur Bildungsdarlehen",
+          "Nur Kindergeld"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 23 SGB I listet u. a. Leistungen zur Prävention, medizinische Rehabilitation und Rentenarten.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 9",
+          "chapter": "§ 23 Rentenversicherung"
+        },
+        "tags": [
+          "Rente",
+          "Leistungen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Welches Ziel haben nach § 29 SGB I Leistungen zur Rehabilitation und Teilhabe?",
+        "options": [
+          "Nur die medizinische Versorgung",
+          "Die Förderung von Selbstbestimmung und gleichberechtigter Teilhabe behinderter Menschen",
+          "Die Senkung der Staatsausgaben",
+          "Die Förderung ausschließlich junger Menschen"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 29 SGB I enthält umfassende Leistungen zur Rehabilitation und Teilhabe, die der Förderung von Selbstbestimmung und gleichberechtigter Teilhabe dienen.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 11-12",
+          "chapter": "§ 29 Rehabilitation und Teilhabe"
+        },
+        "tags": [
+          "Teilhabe",
+          "Rehabilitation"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Welches Grundprinzip regelt § 38 SGB I?",
+        "options": [
+          "Es besteht ein Rechtsanspruch auf Sozialleistungen, soweit keine Ermessensregelung besteht.",
+          "Sozialleistungen sind immer freiwillig.",
+          "Es gibt nur Ermessensleistungen.",
+          "Leistungen hängen nur von der Haushaltslage ab."
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 38 SGB I legt fest, dass ein Anspruch auf Sozialleistungen besteht, soweit keine Ermessensentscheidung vorgesehen ist.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 16",
+          "chapter": "§ 38 Rechtsanspruch"
+        },
+        "tags": [
+          "Anspruch",
+          "Grundsatz"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Was bestimmt § 39 Abs. 1 SGB I für Ermessensleistungen?",
+        "options": [
+          "Sie können beliebig gewährt oder versagt werden.",
+          "Sie müssen entsprechend dem Zweck der Ermächtigung ausgeübt werden.",
+          "Sie sind automatisch zu bewilligen.",
+          "Sie entfallen bei Haushaltsdefiziten."
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 39 Abs. 1 SGB I verlangt eine zweckentsprechende und pflichtgemäße Ausübung des Ermessens.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 16",
+          "chapter": "§ 39 Ermessensleistungen"
+        },
+        "tags": [
+          "Ermessen",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Wann werden Ansprüche nach § 41 SGB I fällig, wenn keine Spezialregelung besteht?",
+        "options": [
+          "Mit ihrem Entstehen",
+          "Nach drei Monaten",
+          "Erst nach schriftlichem Antrag",
+          "Erst nach gerichtlicher Entscheidung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 41 SGB I bestimmt die Fälligkeit mit dem Entstehen, soweit keine besonderen Regelungen bestehen.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 16",
+          "chapter": "§ 41 Fälligkeit"
+        },
+        "tags": [
+          "Frist",
+          "Fälligkeit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Welche Voraussetzungen nennt § 42 SGB I für Vorschüsse?",
+        "options": [
+          "Ein Anspruch dem Grunde nach besteht, die Höhe aber noch unklar ist.",
+          "Immer auf Antrag, unabhängig von Anspruch.",
+          "Nur bei gerichtlicher Anordnung.",
+          "Nur bei Arbeitslosigkeit."
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 42 Abs. 1 SGB I erlaubt Vorschüsse, wenn der Anspruch dem Grunde nach besteht, die Höhe aber noch nicht feststeht.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 16-17",
+          "chapter": "§ 42 Vorschüsse"
+        },
+        "tags": [
+          "Zahlung",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Wann verjähren nach § 45 Abs. 1 SGB I Ansprüche auf Sozialleistungen?",
+        "options": [
+          "Nach 2 Jahren",
+          "Nach 4 Jahren nach Ablauf des Kalenderjahres, in dem sie entstanden sind",
+          "Nach 10 Jahren",
+          "Sie verjähren nicht"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 45 Abs. 1 SGB I legt eine regelmäßige Verjährungsfrist von 4 Jahren nach Ablauf des Kalenderjahres fest.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 17",
+          "chapter": "§ 45 Verjährung"
+        },
+        "tags": [
+          "Verjährung",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q22",
+        "text": "Was besagt § 46 Abs. 1 SGB I zum Verzicht auf Ansprüche?",
+        "options": [
+          "Ein Verzicht ist immer unwiderruflich.",
+          "Ein Verzicht ist nur schriftlich möglich und jederzeit für die Zukunft widerrufbar.",
+          "Ein Verzicht ist mündlich gültig.",
+          "Ein Verzicht ist nur durch Gesetz möglich."
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 46 Abs. 1 SGB I erlaubt den schriftlichen Verzicht, dieser ist aber jederzeit mit Wirkung für die Zukunft widerrufbar.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 17",
+          "chapter": "§ 46 Verzicht"
+        },
+        "tags": [
+          "Anspruch",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q23",
+        "text": "Was regelt § 47 Abs. 1 SGB I zur Auszahlung von Geldleistungen?",
+        "options": [
+          "Sie sind stets bar auszuzahlen.",
+          "Sie werden kostenfrei auf ein angegebenes Konto überwiesen.",
+          "Sie dürfen nur in Sachleistungen umgewandelt werden.",
+          "Sie erfolgen ausschließlich über die Post."
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 47 Abs. 1 SGB I schreibt die kostenfreie Überweisung auf ein Konto vor, es sei denn, der Empfänger verlangt Übermittlung an seinen Wohnsitz.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 17-18",
+          "chapter": "§ 47 Auszahlung"
+        },
+        "tags": [
+          "Zahlung",
+          "Verfahren"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q24",
+        "text": "Wann können nach § 48 Abs. 1 SGB I Leistungen an Ehegatten oder Kinder ausgezahlt werden?",
+        "options": [
+          "Wenn der Berechtigte seiner Unterhaltspflicht nicht nachkommt",
+          "Immer auf Antrag",
+          "Nur bei Verjährung",
+          "Nur bei Arbeitslosigkeit"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 48 Abs. 1 SGB I erlaubt Auszahlung an Ehegatten oder Kinder, wenn der Berechtigte seiner gesetzlichen Unterhaltspflicht nicht nachkommt.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 18",
+          "chapter": "§ 48 Auszahlung bei Verletzung der Unterhaltspflicht"
+        },
+        "tags": [
+          "Unterhalt",
+          "Auszahlung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "Welche Leistung darf nach § 54 Abs. 3 Nr. 1 SGB I nicht gepfändet werden?",
+        "options": [
+          "Elterngeld bis zur anrechnungsfreien Höhe",
+          "Alle Rentenleistungen",
+          "Alle Arbeitslosenleistungen",
+          "Alle Kindergeldzahlungen"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 54 Abs. 3 Nr. 1 SGB I nennt Elterngeld bis zur anrechnungsfreien Höhe als unpfändbar.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 19",
+          "chapter": "§ 54 Pfändung"
+        },
+        "tags": [
+          "Pfändung",
+          "Leistungsschutz"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q26",
+        "text": "Wer tritt nach § 56 Abs. 1 SGB I in die Sonderrechtsnachfolge ein?",
+        "options": [
+          "Ehegatte, Lebenspartner, Kinder, Eltern und Haushaltsführer",
+          "Nur die Erben",
+          "Nur die Kinder",
+          "Nur der Staat"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 56 Abs. 1 SGB I nennt Ehegatte, Lebenspartner, Kinder, Eltern und Haushaltsführer als Sonderrechtsnachfolger.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 20",
+          "chapter": "§ 56 Sonderrechtsnachfolge"
+        },
+        "tags": [
+          "Nachfolge",
+          "Leistungen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Welche Pflicht enthält § 60 Abs. 1 SGB I für Antragsteller von Sozialleistungen?",
+        "options": [
+          "Alle erheblichen Tatsachen anzugeben und Änderungen mitzuteilen",
+          "Nur den Antrag auszufüllen",
+          "Keine Mitwirkungspflicht",
+          "Nur Angaben zum Einkommen zu machen"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 60 Abs. 1 SGB I verpflichtet, alle erheblichen Tatsachen anzugeben, Änderungen mitzuteilen und Beweismittel vorzulegen.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 21",
+          "chapter": "§ 60 Angabe von Tatsachen"
+        },
+        "tags": [
+          "Mitwirkung",
+          "Pflicht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q28",
+        "text": "Was regelt § 62 SGB I bezüglich Untersuchungen?",
+        "options": [
+          "Pflicht zur ärztlichen und psychologischen Untersuchung auf Verlangen des Trägers",
+          "Freiwillige Untersuchungen ohne Pflicht",
+          "Nur Pflicht zur Vorlage von Unterlagen",
+          "Nur Untersuchungen durch private Ärzte"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 62 SGB I verpflichtet Antragsteller oder Berechtigte zu ärztlichen oder psychologischen Untersuchungen, soweit erforderlich.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 21",
+          "chapter": "§ 62 Untersuchungen"
+        },
+        "tags": [
+          "Mitwirkung",
+          "Pflicht"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Welche Pflicht regelt § 63 SGB I bei Heilbehandlungen?",
+        "options": [
+          "Verpflichtung zur Heilbehandlung, wenn eine Besserung erwartet wird",
+          "Nur freiwillige Teilnahme",
+          "Keine Pflicht zur Behandlung",
+          "Verpflichtung zu stationärer Behandlung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 63 SGB I verpflichtet zur Heilbehandlung, wenn sie voraussichtlich den Gesundheitszustand verbessert oder Verschlechterung verhindert.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 21",
+          "chapter": "§ 63 Heilbehandlung"
+        },
+        "tags": [
+          "Mitwirkung",
+          "Gesundheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Welche Grenze sieht § 65 Abs. 1 SGB I für Mitwirkungspflichten vor?",
+        "options": [
+          "Wenn sie in keinem angemessenen Verhältnis zur Leistung stehen",
+          "Es gibt keine Grenze",
+          "Nur wenn der Arzt nicht verfügbar ist",
+          "Wenn die Leistung freiwillig ist"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 65 Abs. 1 SGB I setzt Grenzen, wenn Mitwirkungspflichten im Verhältnis zur Leistung unangemessen wären oder unzumutbar sind.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 22",
+          "chapter": "§ 65 Grenzen der Mitwirkung"
+        },
+        "tags": [
+          "Grenze",
+          "Mitwirkung"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q31",
+        "text": "Was regelt § 65a Abs. 1 SGB I für Mitwirkungspflichten?",
+        "options": [
+          "Anspruch auf Ersatz notwendiger Auslagen und Verdienstausfall",
+          "Keine Entschädigung",
+          "Nur Erstattung der Fahrtkosten",
+          "Nur Anspruch auf Urlaubstage"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 65a Abs. 1 SGB I gewährt Ersatz notwendiger Auslagen und Verdienstausfall bei Erfüllung von Mitwirkungspflichten.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 22",
+          "chapter": "§ 65a Aufwendungsersatz"
+        },
+        "tags": [
+          "Mitwirkung",
+          "Entschädigung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q32",
+        "text": "Unter welcher Voraussetzung dürfen nach § 66 Abs. 3 SGB I Leistungen wegen fehlender Mitwirkung entzogen werden?",
+        "options": [
+          "Nur nach schriftlichem Hinweis und Fristsetzung",
+          "Sofort ohne Hinweis",
+          "Nur durch Gerichtsbeschluss",
+          "Nur bei wiederholtem Verstoß nach drei Jahren"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 66 Abs. 3 SGB I verlangt schriftlichen Hinweis und Fristsetzung, bevor Leistungen entzogen werden.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 23",
+          "chapter": "§ 66 Folgen fehlender Mitwirkung"
+        },
+        "tags": [
+          "Mitwirkung",
+          "Sanktion"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q33",
+        "text": "Welche Gesetze nennt § 68 Nr. 9–10 SGB I als besondere Teile?",
+        "options": [
+          "Bundeskindergeldgesetz und Wohngeldgesetz",
+          "Grundgesetz und BGB",
+          "Steuerrecht und Handelsgesetzbuch",
+          "Nur das Arbeitsrecht"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 68 SGB I führt u. a. das Bundeskindergeldgesetz und das Wohngeldgesetz als besondere Teile auf.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 23",
+          "chapter": "§ 68 Besondere Teile"
+        },
+        "tags": [
+          "Gesetze",
+          "Leistung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Was regelt § 69 SGB I speziell für Stadtstaaten?",
+        "options": [
+          "Ermächtigung zur Anpassung von Zuständigkeiten",
+          "Einführung eigener Leistungen",
+          "Aufhebung der Sozialhilfe",
+          "Verbot kommunaler Träger"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 69 SGB I ermächtigt die Stadtstaaten Berlin, Bremen und Hamburg zur Anpassung der Zuständigkeit.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 23",
+          "chapter": "§ 69 Stadtstaaten-Klausel"
+        },
+        "tags": [
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q35",
+        "text": "Wann tritt das Erste Buch Sozialgesetzbuch in Kraft?",
+        "options": [
+          "Am 1. Januar 1976",
+          "Am 1. Januar 1980",
+          "Am 3. Oktober 1990",
+          "Am 11. Dezember 1975"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Gesetz trat gemäß Art. II § 23 Abs. 1 des Einführungsgesetzes zum SGB am 1.1.1976 in Kraft.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 1",
+          "chapter": "Inkrafttreten"
+        },
+        "tags": [
+          "Geschichte",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q36",
+        "text": "Welche Aufgabe hat das Sozialgesetzbuch nach § 1 Abs. 2 SGB I zusätzlich?",
+        "options": [
+          "Es soll auch sicherstellen, dass soziale Dienste und Einrichtungen rechtzeitig und ausreichend verfügbar sind.",
+          "Es soll nur die Verwaltungskosten senken.",
+          "Es soll die Steuergesetze vereinfachen.",
+          "Es soll nur europäische Vorgaben umsetzen."
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 1 Abs. 2 SGB I nennt die Bereitstellung sozialer Dienste und Einrichtungen als weitere Aufgabe.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 4",
+          "chapter": "§ 1 Aufgaben"
+        },
+        "tags": [
+          "Aufgabe",
+          "Struktur"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Welche Rechte nennt § 3 Abs. 2 SGB I für Personen im Arbeitsleben?",
+        "options": [
+          "Beratung, Weiterbildung, Arbeitsplatzsicherung, wirtschaftliche Sicherung",
+          "Nur Anspruch auf Arbeitslosengeld",
+          "Nur Anspruch auf kostenlose Ausbildung",
+          "Nur Anspruch auf Steuerfreiheit"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 3 Abs. 2 SGB I gewährt Rechte auf Beratung, Weiterbildung, Arbeitsplatzsicherung und wirtschaftliche Sicherung bei Arbeitslosigkeit.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 4",
+          "chapter": "§ 3 Arbeitsförderung"
+        },
+        "tags": [
+          "Rechte",
+          "Arbeit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Welche Leistungen nennt § 5 SGB I im Rahmen der sozialen Entschädigung?",
+        "options": [
+          "Gesundheitsmaßnahmen und angemessene wirtschaftliche Versorgung",
+          "Nur steuerliche Entlastungen",
+          "Nur Bildungsförderung",
+          "Nur Wohngeldzuschüsse"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 5 SGB I gewährt notwendige Maßnahmen zur Gesundheit sowie wirtschaftliche Versorgung.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 5",
+          "chapter": "§ 5 Soziale Entschädigung"
+        },
+        "tags": [
+          "Entschädigung",
+          "Leistungen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q39",
+        "text": "Welches Ziel verfolgt § 7 SGB I?",
+        "options": [
+          "Zuschuss zur Miete oder vergleichbare Aufwendungen, wenn diese unzumutbar sind",
+          "Nur Erhöhung des Kindergeldes",
+          "Nur kostenlose Energieversorgung",
+          "Einmalige Sonderzahlungen"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 7 SGB I regelt den Zuschuss zu Wohnkosten, wenn diese unzumutbar sind.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 5",
+          "chapter": "§ 7 Wohnung"
+        },
+        "tags": [
+          "Wohnung",
+          "Leistung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q40",
+        "text": "Welche Leistungen umfasst § 8 SGB I zur Kinder- und Jugendhilfe?",
+        "options": [
+          "Leistungen der öffentlichen Jugendhilfe zur Förderung der Entwicklung und Erziehung",
+          "Nur steuerliche Vergünstigungen",
+          "Nur einmalige Geldzahlungen",
+          "Nur medizinische Untersuchungen"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 8 SGB I gewährt junge Menschen und Sorgeberechtigten ein Recht auf Leistungen der Jugendhilfe.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 5",
+          "chapter": "§ 8 Kinder- und Jugendhilfe"
+        },
+        "tags": [
+          "Kinder",
+          "Jugend"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q41",
+        "text": "Welche Voraussetzung gilt nach § 9 SGB I für Sozialhilfe?",
+        "options": [
+          "Bedürftigkeit, wenn keine ausreichende Hilfe von anderer Seite erfolgt",
+          "Automatischer Anspruch für alle",
+          "Nur für Personen mit deutscher Staatsangehörigkeit",
+          "Nur für Erwerbstätige"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 9 SGB I gewährt Sozialhilfe, wenn der Lebensunterhalt nicht selbst bestritten werden kann und keine andere Hilfe erfolgt.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 5",
+          "chapter": "§ 9 Sozialhilfe"
+        },
+        "tags": [
+          "Sozialhilfe",
+          "Bedürftigkeit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q42",
+        "text": "Welche Personengruppe wird nach § 10 SGB I besonders berücksichtigt?",
+        "options": [
+          "Menschen mit Behinderungen",
+          "Nur Rentner",
+          "Nur Kinder unter 12 Jahren",
+          "Nur EU-Bürger"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 10 SGB I regelt Hilfen für Menschen mit Behinderungen zur Selbstbestimmung und Teilhabe.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 5",
+          "chapter": "§ 10 Teilhabe behinderter Menschen"
+        },
+        "tags": [
+          "Behinderung",
+          "Teilhabe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q43",
+        "text": "Welche Aufgabe haben die Träger nach § 13 SGB I?",
+        "options": [
+          "Aufklärung über Rechte und Pflichten",
+          "Nur Auszahlung der Leistungen",
+          "Nur Kontrolle von Einkommen",
+          "Nur Steuerprüfung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 13 SGB I verpflichtet Träger zur Aufklärung über Rechte und Pflichten.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 6",
+          "chapter": "§ 13 Aufklärung"
+        },
+        "tags": [
+          "Aufklärung",
+          "Pflicht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q44",
+        "text": "Welche Pflicht haben nach § 15 Abs. 1 SGB I die zuständigen Stellen?",
+        "options": [
+          "Erteilung von Auskünften über soziale Angelegenheiten",
+          "Nur gerichtliche Beratung",
+          "Nur Steuerbescheide erstellen",
+          "Nur polizeiliche Kontrollen"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 15 Abs. 1 SGB I verpflichtet die zuständigen Stellen, Auskünfte über soziale Angelegenheiten zu erteilen.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 6",
+          "chapter": "§ 15 Auskunft"
+        },
+        "tags": [
+          "Auskunft",
+          "Pflicht"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Was schreibt § 17 Abs. 2 SGB I für Menschen mit Hör- und Sprachbehinderungen vor?",
+        "options": [
+          "Das Recht auf Kommunikation in Gebärdensprache oder mit Hilfen",
+          "Nur schriftliche Kommunikation",
+          "Keine besonderen Rechte",
+          "Nur Anspruch auf Dolmetscher im Gericht"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 17 Abs. 2 SGB I gewährt Menschen mit Hör- und Sprachbehinderungen das Recht auf Kommunikation mit Gebärdensprache oder Hilfen.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 7",
+          "chapter": "§ 17 Ausführung"
+        },
+        "tags": [
+          "Barrierefreiheit",
+          "Kommunikation"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q46",
+        "text": "Was regelt § 19b SGB I für ältere Arbeitnehmer?",
+        "options": [
+          "Leistungen beim gleitenden Übergang in den Ruhestand",
+          "Nur zusätzliche Rentenpunkte",
+          "Nur steuerfreie Abfindungen",
+          "Nur Zuschüsse für Wohnungskosten"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 19b SGB I regelt Leistungen für ältere Arbeitnehmer beim gleitenden Übergang in den Ruhestand, wie Erstattung von Rentenbeiträgen.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 7",
+          "chapter": "§ 19b Übergang Ruhestand"
+        },
+        "tags": [
+          "Rente",
+          "Übergang"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Welche Leistungen können nach § 21b SGB I bei Schwangerschaftsabbrüchen beansprucht werden?",
+        "options": [
+          "Leistungen nach dem Schwangerschaftskonfliktgesetz",
+          "Nur steuerliche Vergünstigungen",
+          "Nur Wohngeld",
+          "Nur Ausbildungsförderung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 21b SGB I verweist auf Leistungen nach dem Schwangerschaftskonfliktgesetz.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 8",
+          "chapter": "§ 21b Schwangerschaftsabbruch"
+        },
+        "tags": [
+          "Gesundheit",
+          "Leistung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q48",
+        "text": "Welche Leistungen sieht § 24 SGB I in der sozialen Entschädigung vor?",
+        "options": [
+          "Krankenbehandlung, Teilhabe, Pflege, Blindengeld und Entschädigungszahlungen",
+          "Nur Wohngeld",
+          "Nur Kindergeld",
+          "Nur Steuerermäßigungen"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 24 SGB I listet verschiedene Leistungen wie Krankenbehandlung, Teilhabe und Entschädigungszahlungen.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 10",
+          "chapter": "§ 24 Soziale Entschädigung"
+        },
+        "tags": [
+          "Leistung",
+          "Entschädigung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q49",
+        "text": "Wer ist nach § 24a SGB I für die Durchführung der Soldatenentschädigung zuständig?",
+        "options": [
+          "Die Bundeswehrverwaltung",
+          "Die Bundesagentur für Arbeit",
+          "Die Krankenkassen",
+          "Die Kommunen"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 24a SGB I legt die Zuständigkeit für die Soldatenentschädigung bei der Bundeswehrverwaltung fest.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 10",
+          "chapter": "§ 24a Soldatenentschädigung"
+        },
+        "tags": [
+          "Zuständigkeit",
+          "Soldaten"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q50",
+        "text": "Welche Leistungen nennt § 25 SGB I im Bereich Familie?",
+        "options": [
+          "Kindergeld, Kinderzuschlag, Elterngeld und Leistungen für Bildung und Teilhabe",
+          "Nur Mietzuschuss",
+          "Nur Rente",
+          "Nur Krankenhilfe"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 25 SGB I umfasst Kindergeld, Kinderzuschlag, Elterngeld und Bildungs- und Teilhabeleistungen.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 10",
+          "chapter": "§ 25 Kindergeld, Elterngeld"
+        },
+        "tags": [
+          "Familie",
+          "Leistungen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q51",
+        "text": "Welche Leistungen regelt § 26 SGB I?",
+        "options": [
+          "Wohngeld als Zuschuss zur Miete oder zu Aufwendungen für Wohnraum",
+          "Nur Steuerermäßigung",
+          "Nur kostenlose Heizkosten",
+          "Nur Zuschuss zu Nahrungsmitteln"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 26 SGB I regelt Wohngeld als Zuschuss zu Miete oder eigengenutztem Wohnraum.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 10",
+          "chapter": "§ 26 Wohngeld"
+        },
+        "tags": [
+          "Wohnen",
+          "Leistung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q52",
+        "text": "Welche Aufgaben umfasst § 27 Abs. 1 SGB I zur Jugendhilfe?",
+        "options": [
+          "Jugendarbeit, Erziehungshilfe, Eingliederungshilfe, Förderung in Tageseinrichtungen",
+          "Nur Zahlung von Kindergeld",
+          "Nur Bereitstellung von Wohnraum",
+          "Nur ärztliche Untersuchungen"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 27 Abs. 1 SGB I nennt verschiedene Leistungen der Jugendhilfe wie Jugendarbeit, Erziehungshilfe und Förderung in Tageseinrichtungen.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 10",
+          "chapter": "§ 27 Kinder- und Jugendhilfe"
+        },
+        "tags": [
+          "Jugend",
+          "Hilfe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Welche Hilfearten nennt § 28 Abs. 1 SGB I im Bereich Sozialhilfe?",
+        "options": [
+          "Hilfe zum Lebensunterhalt, Grundsicherung, Hilfe zur Pflege, Hilfen zur Gesundheit u. a.",
+          "Nur Elterngeld",
+          "Nur Arbeitslosengeld",
+          "Nur Ausbildungsförderung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 28 Abs. 1 SGB I listet verschiedene Hilfen wie Lebensunterhalt, Grundsicherung, Gesundheit und Pflege.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 11",
+          "chapter": "§ 28 Sozialhilfe"
+        },
+        "tags": [
+          "Sozialhilfe",
+          "Leistungen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q54",
+        "text": "Welche Bereiche deckt § 28a SGB I in der Eingliederungshilfe ab?",
+        "options": [
+          "Medizinische Rehabilitation, Teilhabe am Arbeitsleben, Bildung und Soziale Teilhabe",
+          "Nur Steuererleichterungen",
+          "Nur Kindergeld",
+          "Nur Wohngeld"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 28a SGB I enthält Leistungen in den Bereichen medizinische Rehabilitation, Arbeitsleben, Bildung und Soziale Teilhabe.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 11",
+          "chapter": "§ 28a Eingliederungshilfe"
+        },
+        "tags": [
+          "Eingliederung",
+          "Rehabilitation"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q55",
+        "text": "Welche Bereiche regelt § 33c SGB I?",
+        "options": [
+          "Benachteiligungsverbot wegen Rasse, Herkunft oder Behinderung",
+          "Nur steuerliche Vorteile",
+          "Nur Ausgleich von Wohnkosten",
+          "Nur Rentenansprüche"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 33c SGB I verbietet Benachteiligung bei Inanspruchnahme sozialer Rechte aufgrund Rasse, Herkunft oder Behinderung.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 13",
+          "chapter": "§ 33c Benachteiligungsverbot"
+        },
+        "tags": [
+          "Gleichstellung",
+          "Recht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q56",
+        "text": "Welche Regelung enthält § 32 SGB I?",
+        "options": [
+          "Verbot nachteiliger privatrechtlicher Vereinbarungen",
+          "Pflicht zu Vertragsabschlüssen",
+          "Nur Geltung des Handelsgesetzbuchs",
+          "Nur Vorrang europäischer Vorschriften"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 32 SGB I erklärt privatrechtliche Vereinbarungen, die zum Nachteil des Sozialleistungsberechtigten von Vorschriften abweichen, für nichtig.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 13",
+          "chapter": "§ 32 Verbot nachteiliger Vereinbarungen"
+        },
+        "tags": [
+          "Regel",
+          "Schutz"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q57",
+        "text": "Welche Regelung enthält § 33 Abs. 1 SGB I?",
+        "options": [
+          "Persönliche Verhältnisse, Bedarf, Leistungsfähigkeit und örtliche Verhältnisse",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 33 Abs. 1 SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 13",
+          "chapter": "§ 33 Ausgestaltung"
+        },
+        "tags": [
+          "Rechte",
+          "Pflichten"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q58",
+        "text": "Welche Regelung enthält § 33a SGB I?",
+        "options": [
+          "Das Geburtsdatum",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 33a SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 13",
+          "chapter": "§ 33a Altersabhängigkeit"
+        },
+        "tags": [
+          "Alter",
+          "Rechte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q59",
+        "text": "Welche Regelung enthält § 35 SGB I?",
+        "options": [
+          "Sozialdaten der Betroffenen",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 35 SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 14",
+          "chapter": "§ 35 Sozialgeheimnis"
+        },
+        "tags": [
+          "Datenschutz",
+          "Recht"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q60",
+        "text": "Welche Regelung enthält § 36 SGB I?",
+        "options": [
+          "Ab 15 Jahren",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 36 SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 15",
+          "chapter": "§ 36 Handlungsfähigkeit"
+        },
+        "tags": [
+          "Handlungsfähigkeit",
+          "Alter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q61",
+        "text": "Welche Regelung enthält § 36a SGB I?",
+        "options": [
+          "Elektronische Kommunikation mit qualifizierter Signatur",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 36a SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 15",
+          "chapter": "§ 36a Elektronische Kommunikation"
+        },
+        "tags": [
+          "Digitalisierung",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q62",
+        "text": "Welche Regelung enthält § 37 SGB I?",
+        "options": [
+          "Das Erste und Zehnte Buch gelten grundsätzlich",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 37 SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 16",
+          "chapter": "§ 37 Abweichende Regelungen"
+        },
+        "tags": [
+          "Regel",
+          "Systematik"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q63",
+        "text": "Welche Regelung enthält § 49 SGB I?",
+        "options": [
+          "Bei richterlicher Unterbringung länger als ein Monat",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 49 SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 18",
+          "chapter": "§ 49 Unterbringung"
+        },
+        "tags": [
+          "Unterhalt",
+          "Auszahlung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q64",
+        "text": "Welche Regelung enthält § 50 SGB I?",
+        "options": [
+          "Ansprüche können durch schriftliche Anzeige übergeleitet werden",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 50 SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 18",
+          "chapter": "§ 50 Überleitung"
+        },
+        "tags": [
+          "Unterbringung",
+          "Kosten"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q65",
+        "text": "Welche Regelung enthält § 51 SGB I?",
+        "options": [
+          "Aufrechnung ist zulässig, soweit pfändbar",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 51 SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 18",
+          "chapter": "§ 51 Aufrechnung"
+        },
+        "tags": [
+          "Aufrechnung",
+          "Leistung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q66",
+        "text": "Welche Regelung enthält § 52 SGB I?",
+        "options": [
+          "Ansprüche anderer Träger können verrechnet werden",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 52 SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 18",
+          "chapter": "§ 52 Verrechnung"
+        },
+        "tags": [
+          "Verrechnung",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q67",
+        "text": "Welche Regelung enthält § 59 SGB I?",
+        "options": [
+          "Dienst- und Sachleistungen",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 59 SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 20",
+          "chapter": "§ 59 Rechtsnachfolge"
+        },
+        "tags": [
+          "Nachfolge",
+          "Leistung"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q68",
+        "text": "Welche Regelung enthält § 64 SGB I?",
+        "options": [
+          "Verpflichtung zur Teilnahme an Leistungen am Arbeitsleben",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 64 SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 21",
+          "chapter": "§ 64 Arbeitsleben"
+        },
+        "tags": [
+          "Teilhabe",
+          "Arbeit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q69",
+        "text": "Welche Regelung enthält § 65 Abs. 3 SGB I?",
+        "options": [
+          "Wenn Selbstbelastung droht",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 65 Abs. 3 SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 22",
+          "chapter": "§ 65 Mitwirkung"
+        },
+        "tags": [
+          "Mitwirkung",
+          "Grenze"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q70",
+        "text": "Welche Regelung enthält § 67 SGB I?",
+        "options": [
+          "Leistungen können nachträglich erbracht werden",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 67 SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 23",
+          "chapter": "§ 67 Nachholung"
+        },
+        "tags": [
+          "Mitwirkung",
+          "Nachholung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q71",
+        "text": "Welche Regelung enthält § 71 SGB I?",
+        "options": [
+          "Anwendung §§ 53/54 nur auf Geldleistungen nach 2005",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 71 SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 23",
+          "chapter": "§ 71 Übergang"
+        },
+        "tags": [
+          "Übergang",
+          "Frist"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q72",
+        "text": "Welche Regelung enthält § 68 SGB I?",
+        "options": [
+          "Das Bundesausbildungsförderungsgesetz",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 68 SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 23",
+          "chapter": "§ 68 Besondere Teile"
+        },
+        "tags": [
+          "Gesetz",
+          "Bildung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q73",
+        "text": "Welche Regelung enthält Inkrafttreten?",
+        "options": [
+          "Am 1. Januar 1976",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "Inkrafttreten sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 1",
+          "chapter": "Inkrafttreten"
+        },
+        "tags": [
+          "Geschichte",
+          "Datum"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q74",
+        "text": "Welche Regelung enthält § 33b SGB I?",
+        "options": [
+          "Lebenspartnerschaften nach Lebenspartnerschaftsgesetz",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 33b SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 13",
+          "chapter": "§ 33b Lebenspartnerschaften"
+        },
+        "tags": [
+          "Definition",
+          "Partnerschaft"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q75",
+        "text": "Welche Regelung enthält § 34 Abs. 2 SGB I?",
+        "options": [
+          "Ansprüche mehrerer Ehegatten werden anteilig verteilt",
+          "Keine Regelung",
+          "Nur freiwillige Anwendung",
+          "Nur steuerliche Vorschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 34 Abs. 2 SGB I sieht genau diese Regelung vor.",
+        "source": {
+          "citation": "SGB I – Allgemeiner Teil",
+          "pages": "S. 13-14",
+          "chapter": "§ 34 Begrenzung"
+        },
+        "tags": [
+          "Rente",
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}

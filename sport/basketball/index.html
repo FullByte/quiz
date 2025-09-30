@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="mobile-web-app-capable" content="yes">
+    <title>Basketball Quiz</title>
+    <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏀</text></svg>">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="../../fontawesome.css">
+    <script defer src="https://umami.0xfab1.net/script.js" data-website-id="ef56215c-05e2-4eed-8ec2-671b2d77e181"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Start Screen -->
+        <div id="start-screen" class="screen active">
+            <div class="start-content">
+                <div class="logo-container">
+                    <img src="banner.png" alt="Basketball Quiz Logo" class="logo-image">
+                    <h1 id="quiz-title" class="quiz-title"></h1>
+                    <p id="quiz-description" class="logo-subtitle">Teste dein Wissen zu den FIBA 2024-Regeln und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus <span id="question-pool-count">...</span> Fragen.</p>                    
+                </div>
+                <div class="action-buttons">
+                    <button id="start-quiz-btn" class="btn btn-primary">
+                        <i class="fas fa-play"></i>
+                        Quiz starten
+                    </button>
+                    <button id="view-pdf-btn" class="btn btn-secondary">
+                        <i class="fas fa-eye"></i>
+                        Regelwerk
+                    </button>
+                </div>
+                <div class="keyboard-hints">
+                    <small>Drücke <strong>Enter</strong> zum Starten</small>
+                </div>                
+            </div>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quiz-screen" class="screen">
+            <div class="quiz-header">
+                <div class="progress-container">
+                    <div class="progress-text">
+                        <span>Frage <span id="current-question">1</span> von <span id="total-questions">10</span></span>
+                    </div>
+                    <div class="progress-bar">
+                        <div id="progress-fill" class="progress-fill"></div>
+                    </div>
+                </div>
+                <div class="score-container">
+                    <i class="fas fa-star"></i>
+                    <span id="current-score">0</span> / <span id="max-score">10</span>
+                </div>
+            </div>
+
+            <div class="quiz-content">
+                <div class="question-container">
+                    <h2 id="question-text" class="question-text"></h2>
+                    <div class="keyboard-hints">
+                        <small>Tastatur-Shortcuts: <strong>1/A</strong> = erste Antwort, <strong>2/B</strong> = zweite Antwort usw... <strong>Enter/N</strong> = nächste Frage</small>
+                    </div>
+                </div>
+
+                <div id="options-container" class="options-container">
+                    <!-- Options will be dynamically generated -->
+                </div>
+
+                <div id="feedback-container" class="feedback-container hidden">
+                    <div id="feedback-content" class="feedback-content">
+                        <div id="feedback-icon" class="feedback-icon"></div>
+                        <div id="feedback-text" class="feedback-text"></div>
+                        <div id="explanation-text" class="explanation-text"></div>
+                    </div>
+                    <button id="next-question-btn" class="btn btn-secondary">
+                        <span id="next-btn-text">Nächste Frage</span>
+                        <i class="fas fa-arrow-right"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="results-screen" class="screen">
+            <div class="results-header">
+                <div class="results-score">
+                    <i class="fas fa-trophy"></i>
+                    <h2>Quiz beendet!</h2>
+                    <div class="final-score">
+                        <span id="final-score">0</span> / <span id="final-total">10</span>
+                    </div>
+                    <div id="score-percentage" class="score-percentage"></div>
+                    <div id="score-message" class="score-message"></div>
+                </div>
+            </div>
+
+            <div class="results-content">
+                <h3>Detaillierte Auswertung</h3>
+                <div id="results-list" class="results-list">
+                    <!-- Detailed results will be dynamically generated -->
+                </div>
+            </div>
+
+            <div class="results-actions">
+                <button id="restart-quiz-btn" class="btn btn-primary">
+                    <i class="fas fa-redo"></i>
+                    Quiz wiederholen
+                </button>
+                <div class="keyboard-hints">
+                    <small>Drücke <strong>Enter</strong> zum Wiederholen</small>
+                </div>
+            </div>
+        </div>
+
+        <!-- PDF Viewer Screen -->
+        <div id="pdf-screen" class="screen">
+            <div class="pdf-header">
+                <button id="close-pdf-btn" class="btn btn-secondary">
+                    <i class="fas fa-arrow-left"></i>
+                    Zurück zum Quiz
+                </button>
+                <h2>Basketball-Regelwerk (FIBA 2024)</h2>
+                <a href="#" download class="btn btn-outline">
+                    <i class="fas fa-download"></i>
+                    PDF herunterladen
+                </a>
+            </div>
+            <div class="pdf-container">
+                <iframe id="pdf-frame" title="Basketball Regelwerk PDF">
+                    <p>Ihr Browser unterstützt keine PDF-Anzeige. 
+                       <a href="#" download>
+                           Laden Sie das PDF herunter
+                       </a>
+                    </p>
+                </iframe>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading indicator -->
+    <div id="loading" class="loading hidden">
+        <div class="loading-spinner">
+            🏀
+        </div>
+        <p>Basketball Quiz wird geladen...</p>
+    </div>
+
+    <script src="../../quiz.js"></script>
+</body>
+</html>

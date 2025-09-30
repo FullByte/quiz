@@ -1,0 +1,93 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Quiz JSON Schema",
+  "type": "object",
+  "required": ["quiz"],
+  "properties": {
+    "quiz": {
+      "type": "object",
+      "required": ["title", "description", "language", "version", "settings", "sourceDocument", "questions"],
+      "properties": {
+        "title": { "type": "string", "minLength": 3 },
+        "description": { "type": "string", "minLength": 10 },
+        "language": { "type": "string", "enum": ["de"] },
+        "version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+(\\.[0-9]+)?$" },
+        "metadata": {
+          "type": "object",
+          "required": ["createdAt"],
+          "properties": {
+            "createdAt": { "type": "string", "format": "date-time" },
+            "notes": { "type": "string" }
+          },
+          "additionalProperties": false
+        },
+        "settings": {
+          "type": "object",
+          "required": ["shuffleQuestions", "shuffleOptions", "showExplanations", "timePerQuestionSec"],
+          "properties": {
+            "shuffleQuestions": { "type": "boolean" },
+            "shuffleOptions": { "type": "boolean" },
+            "showExplanations": { "type": "boolean" },
+            "timePerQuestionSec": { "type": "integer", "minimum": 0 }
+          },
+          "additionalProperties": false
+        },
+        "sourceDocument": {
+          "type": "object",
+          "required": ["title", "version", "year", "pdfFilename"],
+          "properties": {
+            "title": { "type": "string" },
+            "version": { "type": "string" },
+            "year": { "type": "integer", "minimum": 1900, "maximum": 2100 },
+            "pdfFilename": { "type": "string" }
+          },
+          "additionalProperties": false
+        },
+        "questions": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["id", "text", "options", "correctIndex", "explanation", "source", "tags", "difficulty"],
+            "properties": {
+              "id": { "type": "string", "pattern": "^q[0-9]+$" },
+              "text": { "type": "string", "minLength": 8 },
+              "options": {
+                "type": "array",
+                "items": { "type": "string", "minLength": 1 },
+                "minItems": 4,
+                "maxItems": 4,
+                "uniqueItems": true
+              },
+              "correctIndex": { "type": "integer", "minimum": 0, "maximum": 3 },
+              "explanation": { "type": "string", "minLength": 12 },
+              "source": {
+                "type": "object",
+                "required": ["citation", "pages", "chapter"],
+                "properties": {
+                  "citation": { "type": "string", "minLength": 5 },
+                  "pages": {
+                    "type": "string",
+                    "pattern": "^S\\.\\s*[0-9]+(\\s*[-–]\\s*[0-9]+)?$"
+                  },
+                  "chapter": { "type": "string", "minLength": 1 },
+                  "articleOrSection": { "type": "string" }
+                },
+                "additionalProperties": false
+              },
+              "tags": {
+                "type": "array",
+                "items": { "type": "string" },
+                "minItems": 1
+              },
+              "difficulty": { "type": "string", "enum": ["leicht", "mittel", "schwer"] }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

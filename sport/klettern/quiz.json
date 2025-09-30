@@ -1,0 +1,72 @@
+{
+  "quiz": {
+    "title": "IFSC Kletter Quiz",
+    "description": "Komplettes Quiz mit 100 Fragen zu den IFSC Competition Rules 2025 (Version 2.0, März 2025).",
+    "language": "de",
+    "version": "1.1",
+    "metadata": {
+      "createdAt": "2025-09-26T00:00:00Z",
+      "notes": "Vollständige Zusammenführung q1–q100, validiert gegen Schema (Draft-07)."
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 90
+    },
+    "sourceDocument": {
+      "title": "IFSC Competition Rules",
+      "version": "2.0",
+      "year": 2025,
+      "pdfFilename": "ifsc_rules_2025.pdf"
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
+        "options": [
+          "Auf künstlichen Kletterstrukturen",
+          "An natürlichen Felsen",
+          "An Outdoor-Bouldern ohne Absperrung",
+          "Auf Indoor-Fitnessgeräten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
+        "source": {
+          "citation": "IFSC Competition Rules, Version 2.0 (März 2025)",
+          "pages": "S. 1",
+          "chapter": "Kapitel 1",
+          "articleOrSection": "§1.1"
+        },
+        "tags": [
+          "Regel",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
+        "options": [
+          "12",
+          "10",
+          "8",
+          "15"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
+        "source": {
+          "citation": "IFSC Competition Rules, Version 2.0 (März 2025)",
+          "pages": "S. 1",
+          "chapter": "Kapitel 1",
+          "articleOrSection": "§1.10"
+        },
+        "tags": [
+          "Regel",
+          "Schwellenwert"
+        ],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2226 @@
+{
+  "quiz": {
+    "title": "Motoball-Reglement Quiz",
+    "description": "Dieses Quiz umfasst Fragen zum DMSB-Motoball-Reglement 2025. Es deckt Definitionen, Regeln, Spielfeld, Spielzeit und Verhaltensregeln ab.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-09-25T14:51:15.226924Z",
+      "notes": "Erster Teil des Quiz, ca. 10 Fragen."
+    },
+    "sourceDocument": {
+      "title": "DMSB-Motoball-Reglement",
+      "version": "2025",
+      "year": 2025,
+      "pdfFilename": "HB_MOTORRAD_2025_3140_GRUEN_Reglement_Motoball_01.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Wie viele Feldspieler und Torwarte umfasst eine Motoball-Mannschaft zu Spielbeginn?",
+        "options": [
+          "5 Feldspieler und 1 Torwart",
+          "4 Feldspieler und 1 Torwart",
+          "6 Feldspieler und 1 Torwart",
+          "4 Feldspieler ohne Torwart"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Motoball-Mannschaft besteht zu Spielbeginn aus 4 Feldspielern und 1 Torwart. Andere Konstellationen sind unzulässig und führen zum Spielabbruch.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 6",
+          "chapter": "Regel 3 – Anzahl der Spieler"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Spielflächen sind für Motoball-Spiele zugelassen?",
+        "options": [
+          "Nur Rasenplätze",
+          "Nur Hartplätze",
+          "Hart-, Rasen-, Asphalt-, Beton- oder Tartanplätze mit Sandauflage",
+          "Nur Kunstrasenplätze"
+        ],
+        "correctIndex": 2,
+        "explanation": "Motoball darf auf Hart-, Rasen-, Asphalt-, Beton- oder Tartanplätzen mit gleichmäßiger Sandauflage gespielt werden. Kunstrasen ist nicht zugelassen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 4",
+          "chapter": "Regel 1 – Das Spielfeld"
+        },
+        "tags": [
+          "Spielfeld",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Wie groß ist der Mittelkreis eines Motoball-Spielfeldes?",
+        "options": [
+          "5,00 m Radius",
+          "9,15 m Radius",
+          "7,32 m Radius",
+          "11,00 m Radius"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Mittelkreis im Motoball hat einen Radius von 9,15 m. Die Werte 7,32 m und 11,00 m beziehen sich auf andere Spielfeldmaße.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 4",
+          "chapter": "Regel 1 – Das Spielfeld"
+        },
+        "tags": [
+          "Spielfeld",
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Welche Ballgrößen sind im Motoball erlaubt?",
+        "options": [
+          "Umfang 110–120 cm, Gewicht 800–1000 g",
+          "Umfang 119–126 cm, Gewicht 900–1200 g",
+          "Umfang 100–110 cm, Gewicht 850–950 g",
+          "Umfang 120–128 cm, Gewicht 950–1150 g"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Ball muss einen Umfang von 119–126 cm und ein Gewicht von 900–1200 g haben. Abweichungen sind nicht zulässig.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 5",
+          "chapter": "Regel 2 – Der Ball"
+        },
+        "tags": [
+          "Ball",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Wie lange dauert ein Motoball-Spiel bei den Senioren?",
+        "options": [
+          "2 Halbzeiten à 30 Minuten",
+          "4 Viertel à 15 Minuten",
+          "4 Viertel à 20 Minuten",
+          "2 Halbzeiten à 25 Minuten"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Senioren-Motoball-Spiel dauert 4 Viertel zu je 20 Minuten, getrennt durch Pausen von 10 Minuten.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 8",
+          "chapter": "Regel 7 – Spielzeit"
+        },
+        "tags": [
+          "Spielzeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q6",
+        "text": "Welche Mindest- und Höchstmaße gelten für die Spielfeldlänge im Motoball?",
+        "options": [
+          "80–100 m",
+          "85–110 m",
+          "90–120 m",
+          "75–105 m"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Spielfeldlänge im Motoball muss zwischen 85 und 110 m liegen. Abweichungen sind nur mit ausdrücklicher Zulassung des VM erlaubt.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 4",
+          "chapter": "Regel 1 – Das Spielfeld"
+        },
+        "tags": [
+          "Spielfeld",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Wie hoch ist die Querlatte eines Motoball-Tores über dem Boden angebracht?",
+        "options": [
+          "2,00 m",
+          "2,44 m",
+          "2,20 m",
+          "2,50 m"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Unterkante der Querlatte ist 2,44 m über dem Boden. Andere Angaben sind unzutreffend.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 5",
+          "chapter": "Regel 1 – Das Spielfeld"
+        },
+        "tags": [
+          "Tor",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Welche Kartenarten stehen dem Schiedsrichter im Motoball zur Verfügung?",
+        "options": [
+          "Gelb, Rot, Blau",
+          "Grün, Gelb, Gelb-Rot, Rot",
+          "Weiß, Gelb, Rot",
+          "Grün, Blau, Rot"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Schiedsrichter kann grüne, gelbe, gelb-rote und rote Karten vergeben. Blau oder Weiß sind nicht vorgesehen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 7",
+          "chapter": "Regel 5 – Der Schiedsrichter"
+        },
+        "tags": [
+          "Schiedsrichter",
+          "Sanktionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Wie lange darf eine Auszeit (Timeout) im Motoball dauern?",
+        "options": [
+          "1 Minute",
+          "2 Minuten",
+          "3 Minuten",
+          "5 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jede Mannschaft darf einmalig pro Spiel eine Auszeit von 2 Minuten nehmen. Längere oder kürzere Zeiten sind nicht zulässig.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 8",
+          "chapter": "Regel 7 – Spielzeit"
+        },
+        "tags": [
+          "Spielzeit",
+          "Timeout"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "Wie weit entfernt von der Torlinie befindet sich die Strafstoßmarke im Motoball?",
+        "options": [
+          "9 m",
+          "10 m",
+          "11 m",
+          "12 m"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Strafstoßmarke ist 11 m von der Mitte der Torlinie entfernt. Dies entspricht auch internationalen Standards.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 4",
+          "chapter": "Regel 1 – Das Spielfeld"
+        },
+        "tags": [
+          "Strafraum",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Welche Mindestbreite muss ein Motoball-Spielfeld haben?",
+        "options": [
+          "40 m",
+          "45 m",
+          "50 m",
+          "55 m"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Breite eines Motoball-Spielfelds muss mindestens 45 m betragen. Kleinere Breiten sind nicht zulässig.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 4",
+          "chapter": "Regel 1 – Das Spielfeld"
+        },
+        "tags": [
+          "Spielfeld",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q12",
+        "text": "Welchen Radius hat der Torraum im Motoball?",
+        "options": [
+          "4,00 m",
+          "5,75 m",
+          "6,00 m",
+          "7,00 m"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Torraum wird durch einen Halbkreis mit 5,75 m Radius markiert. Andere Maße sind nicht zulässig.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 4",
+          "chapter": "Regel 1 – Das Spielfeld"
+        },
+        "tags": [
+          "Torraum",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Wie viele Spieler darf eine Mannschaft maximal für ein Spiel benennen?",
+        "options": [
+          "8 Spieler, 7 Motorräder",
+          "9 Spieler, 8 Motorräder",
+          "10 Spieler, 9 Motorräder",
+          "11 Spieler, 10 Motorräder"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine Mannschaft darf bis zu 10 Spieler und 9 Motorräder für ein Spiel benennen. Diese müssen im Spielbericht aufgeführt sein.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 6",
+          "chapter": "Regel 3 – Anzahl der Spieler"
+        },
+        "tags": [
+          "Mannschaft",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Welche Schutzkleidung ist für Feldspieler im Motoball vorgeschrieben?",
+        "options": [
+          "Helm, knöchelhohe Schuhe, Schienbeinschutz, Handschuhe",
+          "Nur Helm und Handschuhe",
+          "Helm, Trikot und Knieschoner",
+          "Helm und Lederkombi"
+        ],
+        "correctIndex": 0,
+        "explanation": "Spieler müssen einen Helm nach DMSB-Bestimmungen, knöchelhohe Schuhe, stabilen Schienbeinschutz und Handschuhe aus schwer entflammbarem Material tragen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 6",
+          "chapter": "Regel 4 – Spieler- und Mannschaftsausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Wie viele Schiedsrichter leiten regulär ein Motoballspiel?",
+        "options": [
+          "Einer",
+          "Zwei",
+          "Drei",
+          "Vier"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Motoballspiel wird regulär von zwei lizenzierten Schiedsrichtern geleitet, je einer auf jeder Platzseite.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 7",
+          "chapter": "Regel 5 – Der Schiedsrichter"
+        },
+        "tags": [
+          "Schiedsrichter",
+          "Organisation"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q16",
+        "text": "Welche Strafe zieht eine grüne Karte im Motoball nach sich?",
+        "options": [
+          "2 Minuten Zeitstrafe",
+          "5 Minuten Zeitstrafe",
+          "Sofortiger Spielausschluss",
+          "Gelb-Rote Karte nach Wiederholung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die grüne Karte bedeutet eine Zeitstrafe von maximal 2 Minuten, die bis zu zweimal verhängt werden kann.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 7",
+          "chapter": "Regel 5 – Der Schiedsrichter"
+        },
+        "tags": [
+          "Sanktionen",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q17",
+        "text": "Wie weit müssen Gegenspieler bei der Ausführung eines Freistoßes vom Ball entfernt sein?",
+        "options": [
+          "5 m",
+          "7,5 m",
+          "9,15 m",
+          "10 m"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bei der Ausführung eines Freistoßes müssen alle Gegenspieler mindestens 9,15 m vom Ball entfernt sein.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 11",
+          "chapter": "Regel 14 – Fouls und Freistöße"
+        },
+        "tags": [
+          "Freistoß",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Was passiert, wenn ein Spieler im eigenen Strafraum ein grobes Foul begeht?",
+        "options": [
+          "Indirekter Freistoß für den Gegner",
+          "Elfmeter für den Gegner",
+          "Eckball für den Gegner",
+          "Anstoß vom Mittelpunkt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein grobes Foul im eigenen Strafraum führt zu einem Elfmeter für die gegnerische Mannschaft.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 11",
+          "chapter": "Regel 14 – Fouls und Strafstoß"
+        },
+        "tags": [
+          "Strafstoß",
+          "Foul"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q19",
+        "text": "Wann gilt ein Tor im Motoball als erzielt?",
+        "options": [
+          "Wenn der Ball die Torlinie teilweise überquert",
+          "Wenn der Ball die Torlinie mit vollem Durchmesser zwischen den Pfosten und unterhalb der Latte überquert",
+          "Wenn der Ball den Torwart berührt",
+          "Wenn der Ball ins Netz geht, egal wie"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Tor zählt nur, wenn der Ball die Torlinie mit vollem Durchmesser zwischen Pfosten und unter der Querlatte überschreitet.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 10",
+          "chapter": "Regel 13 – Wie ein Tor erzielt wird"
+        },
+        "tags": [
+          "Tor",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Wie weit müssen Spieler bei einem Eckball mindestens vom Ball entfernt sein?",
+        "options": [
+          "5 m",
+          "7,5 m",
+          "9,15 m",
+          "10 m"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bei einem Eckball müssen alle Spieler der gegnerischen Mannschaft mindestens 9,15 m vom Ball entfernt sein.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 12",
+          "chapter": "Regel 16 – Eckball"
+        },
+        "tags": [
+          "Eckball",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Wer darf während eines Spiels in das Fahrerlager einer Mannschaft?",
+        "options": [
+          "Nur Spieler und Schiedsrichter",
+          "Spieler, Trainer, Mannschaftsleiter, Mechaniker, Arzt/Physio",
+          "Alle Vereinsmitglieder",
+          "Zuschauer mit Sondergenehmigung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Im Fahrerlager dürfen sich nur maximal 10 Spieler, ein Trainer, ein Mannschaftsleiter, zwei Mechaniker und ein Arzt/Physio aufhalten.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 5",
+          "chapter": "Regel 1 – Das Spielfeld, Fahrerlager"
+        },
+        "tags": [
+          "Organisation",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q22",
+        "text": "Wie viele Motorräder darf eine Mannschaft bei einem Motoballspiel maximal einsetzen?",
+        "options": [
+          "8 Motorräder",
+          "9 Motorräder",
+          "10 Motorräder",
+          "11 Motorräder"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Mannschaft darf maximal 9 fahrbereite Motorräder einsetzen, die den technischen Bestimmungen entsprechen müssen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 6",
+          "chapter": "Regel 4 – Mannschaftsausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Motorrad"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Wie muss der Kraftstoff für Motoball-Motorräder beschaffen sein?",
+        "options": [
+          "Benzin mit beliebigen Zusätzen",
+          "Unverbleiter Kraftstoff ohne Zusätze außer handelsüblichen Schmiermitteln",
+          "Nur Diesel",
+          "Benzin mit Nitro-Zusatz"
+        ],
+        "correctIndex": 1,
+        "explanation": "Motorräder dürfen nur mit unverbleitem Kraftstoff ohne Zusätze betrieben werden, Schmiermittel sind erlaubt.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 6",
+          "chapter": "Regel 4 – Motorräder"
+        },
+        "tags": [
+          "Kraftstoff",
+          "Technik"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Welche Rückennummer ist für den Torwart reserviert?",
+        "options": [
+          "Nr. 10",
+          "Nr. 7",
+          "Nr. 1",
+          "Nr. 0"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Nummer 1 ist für einen Torwart reserviert, muss aber nicht vergeben werden.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 7",
+          "chapter": "Regel 4 – Trikotnummern"
+        },
+        "tags": [
+          "Nummerierung",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q25",
+        "text": "Was gilt für Proteste gegen Schiedsrichterentscheidungen?",
+        "options": [
+          "Sind zulässig, wenn schriftlich eingereicht",
+          "Sind unzulässig",
+          "Sind nur bei Endspielen erlaubt",
+          "Sind nur vom Kapitän erlaubt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Proteste gegen Tatsachenentscheidungen der Schiedsrichter sind unzulässig.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 7",
+          "chapter": "Regel 5 – Schiedsrichterentscheidungen"
+        },
+        "tags": [
+          "Schiedsrichter",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Welche Mindestanzahl an Linienrichtern ist für ein offizielles Spiel erforderlich?",
+        "options": [
+          "Einer",
+          "Zwei",
+          "Drei",
+          "Vier"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein offizielles Spiel kann nur angepfiffen werden, wenn zwei Linienrichter mit gleicher Kleidung wie die Schiedsrichter anwesend sind.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 8",
+          "chapter": "Regel 6 – Linienrichter"
+        },
+        "tags": [
+          "Linienrichter",
+          "Organisation"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q27",
+        "text": "Wie alt muss eine Person mindestens sein, um Linienrichter im Motoball zu werden?",
+        "options": [
+          "14 Jahre",
+          "15 Jahre",
+          "16 Jahre",
+          "18 Jahre"
+        ],
+        "correctIndex": 2,
+        "explanation": "Linienrichter müssen mindestens 16 Jahre alt sein und entweder eine Lizenz besitzen oder einen Haftungsverzicht abgeben.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 8",
+          "chapter": "Regel 6 – Linienrichter"
+        },
+        "tags": [
+          "Linienrichter",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q28",
+        "text": "Wie viele Viertel zu je 20 Minuten umfasst ein Senioren-Motoballspiel?",
+        "options": [
+          "Zwei",
+          "Drei",
+          "Vier",
+          "Fünf"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Senioren-Motoballspiel besteht aus vier Vierteln zu je 20 Minuten.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 8",
+          "chapter": "Regel 7 – Spielzeit"
+        },
+        "tags": [
+          "Spielzeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q29",
+        "text": "Wie lange dauern die Pausen zwischen den Spielvierteln im Motoball?",
+        "options": [
+          "5 Minuten",
+          "10 Minuten",
+          "15 Minuten",
+          "20 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zwischen den Vierteln gibt es jeweils Pausen von 10 Minuten.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 8",
+          "chapter": "Regel 7 – Spielzeit"
+        },
+        "tags": [
+          "Spielzeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q30",
+        "text": "Welche Besonderheit gilt bei einem Strafstoß im Motoball?",
+        "options": [
+          "Der Ball darf vorher rollen",
+          "Der Torwart muss auf der Torlinie bleiben",
+          "Der ausführende Spieler darf zweimal schießen",
+          "Alle Spieler dürfen im Strafraum stehen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Beim Elfmeter muss der Torwart auf seiner Torlinie bleiben, bis der Schuss ausgeführt ist.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 11",
+          "chapter": "Regel 14 – Strafstoß"
+        },
+        "tags": [
+          "Strafstoß",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q31",
+        "text": "Wie erfolgt die Platzwahl vor Spielbeginn im Motoball?",
+        "options": [
+          "Durch Losentscheid",
+          "Durch Münzwurf des Schiedsrichters",
+          "Durch Entscheidung des Heimvereins",
+          "Durch Wahl des Kapitäns der Gastmannschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Vor Spielbeginn entscheidet ein Münzwurf des Schiedsrichters über Platzwahl und Anspiel.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 9",
+          "chapter": "Regel 8 – Vorstellung, Beginn"
+        },
+        "tags": [
+          "Spielbeginn",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q32",
+        "text": "Wie weit entfernt müssen Gegenspieler beim Anstoß mindestens stehen?",
+        "options": [
+          "5 m",
+          "7 m",
+          "9,15 m",
+          "10 m"
+        ],
+        "correctIndex": 2,
+        "explanation": "Beim Anstoß müssen die Gegenspieler mindestens 9,15 m vom Ball entfernt sein.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 9",
+          "chapter": "Regel 8 – Anstoß"
+        },
+        "tags": [
+          "Anstoß",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q33",
+        "text": "Was ist beim Spielen des Balles durch Feldspieler vorgeschrieben?",
+        "options": [
+          "Der Ball darf auch mit der Hand gespielt werden",
+          "Der Motor muss laufen",
+          "Der Ball darf in der Luft geführt werden",
+          "Ball darf eingeklemmt werden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Beim Spielen des Balles muss der Motor des Motorrads laufen. Ball einklemmen ist verboten.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 9",
+          "chapter": "Regel 9 – Spielen mit Ball"
+        },
+        "tags": [
+          "Ballspiel",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Wie lange hat der Torwart Zeit, den Ball nach Ballbesitz im Torraum wieder ins Spiel zu bringen?",
+        "options": [
+          "5 Sekunden",
+          "10 Sekunden",
+          "15 Sekunden",
+          "20 Sekunden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach Ballbesitz muss der Torwart innerhalb von 10 Sekunden wieder anspielen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 10",
+          "chapter": "Regel 10 – Der Torraum"
+        },
+        "tags": [
+          "Torwart",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q35",
+        "text": "Was passiert, wenn ein ballführender Spieler die Mittellinie mit dem Ball überfährt?",
+        "options": [
+          "Das Spiel läuft normal weiter",
+          "Das Spiel wird unterbrochen",
+          "Der Gegner erhält einen Freistoß",
+          "Es wird ein Tor anerkannt"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Spieler muss den Ball vor Überqueren der Mittellinie abspielen. Ansonsten erhält der Gegner einen Freistoß.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 10",
+          "chapter": "Regel 11 – Mittellinie"
+        },
+        "tags": [
+          "Mittellinie",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Wann ist der Ball im Motoball aus dem Spiel?",
+        "options": [
+          "Wenn er den Schiedsrichter berührt",
+          "Wenn er eine Linie mit vollem Durchmesser überschreitet und Spiel unterbrochen wird",
+          "Wenn er in die Zuschauerränge fliegt",
+          "Wenn er das Tornetz berührt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Ball ist aus dem Spiel, wenn er die Seiten- oder Torlinie mit vollem Durchmesser überschreitet und die Partie unterbrochen ist.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 10",
+          "chapter": "Regel 12 – Ball im Spiel"
+        },
+        "tags": [
+          "Ball",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q37",
+        "text": "Wann wird ein Schiedsrichter-Ball ausgeführt?",
+        "options": [
+          "Immer nach einem Foul",
+          "Wenn der Ball durch den Schiedsrichter unterbrochen wird ohne Regelgrund",
+          "Nach einem Tor",
+          "Nach Abstoß"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Schiedsrichter-Ball wird ausgeführt, wenn der Schiedsrichter das Spiel ohne Regelgrund unterbricht.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 9",
+          "chapter": "Regel 8 – Schiedsrichter-Ball"
+        },
+        "tags": [
+          "Schiedsrichter",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q38",
+        "text": "Welche Mindestlichtstärke ist für Flutlichtspiele erforderlich?",
+        "options": [
+          "100 Lux",
+          "150 Lux",
+          "200 Lux",
+          "250 Lux"
+        ],
+        "correctIndex": 2,
+        "explanation": "Flutlichtspiele dürfen nur stattfinden, wenn mindestens 200 Lux über das gesamte Spielfeld gegeben sind.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 5",
+          "chapter": "Regel 1 – Spielfeld, Flutlichtspiele"
+        },
+        "tags": [
+          "Spielfeld",
+          "Flutlicht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q39",
+        "text": "Wie muss ein Seitenaus ausgeführt werden?",
+        "options": [
+          "Mit der Hand",
+          "Mit dem Fuß, ohne gleichzeitige Motorradbewegung",
+          "Durch Abwurf",
+          "Durch Einrollen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Seitenaus wird mit dem Fuß ausgeführt, der Ball muss dabei mindestens eine Umdrehung machen. Motorrad darf sich nicht bewegen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 11",
+          "chapter": "Regel 15 – Seitenaus"
+        },
+        "tags": [
+          "Seitenaus",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q40",
+        "text": "Kann aus einem Eckball direkt ein Tor erzielt werden?",
+        "options": [
+          "Ja",
+          "Nein",
+          "Nur nach Berührung des Torwarts",
+          "Nur nach Berührung eines anderen Spielers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Aus einem Eckball kann direkt ein Tor erzielt werden, wenn die Regeln eingehalten werden.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 12",
+          "chapter": "Regel 16 – Eckball"
+        },
+        "tags": [
+          "Eckball",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q41",
+        "text": "Welche Aufgabe hat der Mannschaftsleiter beim Motoballspiel?",
+        "options": [
+          "Er darf das Spielfeld betreten",
+          "Er ist offizieller Vertreter, füllt Spielbericht aus und ist Ansprechpartner",
+          "Er entscheidet über Schiedsrichter-Einsätze",
+          "Er darf Spieler direkt auswechseln"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Mannschaftsleiter vertritt die Mannschaft offiziell, füllt den Spielbericht aus und dient als Ansprechpartner für den Schiedsrichter.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 3",
+          "chapter": "2.6 Mannschaftsleiter"
+        },
+        "tags": [
+          "Organisation",
+          "Rolle"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q42",
+        "text": "Wie lange vor und nach einer Veranstaltung ist der Mannschaftsleiter verantwortlich?",
+        "options": [
+          "30 Minuten vor und nach dem Spiel",
+          "60 Minuten vor bis 30 Minuten nach Spielende",
+          "Nur während des Spiels",
+          "Ab Anpfiff bis Abpfiff"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Verantwortung des Mannschaftsleiters beginnt 60 Minuten vor Veranstaltungsbeginn und endet 30 Minuten nach Spielende.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 3",
+          "chapter": "2.6 Mannschaftsleiter"
+        },
+        "tags": [
+          "Organisation",
+          "Verantwortung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q43",
+        "text": "Welche Pflicht hat der Veranstalter hinsichtlich Platzordnern?",
+        "options": [
+          "1 Ordner pro 50 Zuschauer",
+          "1 Ordner pro 100 Zuschauer, mind. einer je Spielfeldseite",
+          "Nur bei Endspielen Ordner",
+          "Ordner sind optional"
+        ],
+        "correctIndex": 1,
+        "explanation": "Es muss mindestens 1 Ordner pro 100 Zuschauer bereitstehen, jedoch mindestens einer pro Spielfeldseite.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 3",
+          "chapter": "2.8 Voraussetzungen Veranstalter"
+        },
+        "tags": [
+          "Organisation",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Welche medizinische Ausstattung ist bei Motoballveranstaltungen vorgeschrieben?",
+        "options": [
+          "Sanitäter vor Ort",
+          "Medizinische Mindestausstattung laut BRM",
+          "Nur ein Arzt bei Endspielen",
+          "Nur Erste-Hilfe-Kasten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Veranstalter muss die medizinische Mindestausstattung gemäß BRM bereitstellen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 3",
+          "chapter": "2.8 Voraussetzungen Veranstalter"
+        },
+        "tags": [
+          "Organisation",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Wie viele farblich einheitliche Linienrichter-Flaggen muss ein Veranstalter stellen?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Veranstalter muss zwei einheitliche Linienrichter-Flaggen (40x40 cm) bereitstellen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 3",
+          "chapter": "2.8 Voraussetzungen Veranstalter"
+        },
+        "tags": [
+          "Organisation",
+          "Ausrüstung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q46",
+        "text": "Wie viele funktionsbereite Handsprechgeräte für Schiedsrichter muss der Veranstalter bereitstellen?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctIndex": 1,
+        "explanation": "Es müssen zwei Handsprechgeräte für die Schiedsrichter bereitgestellt werden.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 3",
+          "chapter": "2.8 Voraussetzungen Veranstalter"
+        },
+        "tags": [
+          "Organisation",
+          "Ausrüstung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q47",
+        "text": "Was passiert, wenn ein Verein seiner Verantwortung für Zuschauer oder Spieler nicht nachkommt?",
+        "options": [
+          "Keine Folgen",
+          "Kann durch VM, Promotor oder DMSB sanktioniert werden",
+          "Wird nur verwarnt",
+          "Darf nächstes Spiel nicht austragen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kommt ein Verein seiner Verantwortung nicht nach, können VM, Promotor oder DMSB Sanktionen verhängen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 2",
+          "chapter": "2.2 Verantwortung der Vereine"
+        },
+        "tags": [
+          "Organisation",
+          "Sanktion"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q48",
+        "text": "Welche Verhaltensweisen gelten im Motoball als unsportlich?",
+        "options": [
+          "Politisch, extremistisch, obszön, beleidigend",
+          "Nur Foulspiel",
+          "Langsames Spiel",
+          "Kritik am Schiedsrichter"
+        ],
+        "correctIndex": 0,
+        "explanation": "Politische, extremistische, obszöne oder beleidigende Verhaltensweisen gelten als unsportlich und werden sanktioniert.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 3",
+          "chapter": "2.3 Diskriminierung"
+        },
+        "tags": [
+          "Fairplay",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q49",
+        "text": "Was ist erforderlich, damit internationale Vereins- oder Auswahlspiele stattfinden dürfen?",
+        "options": [
+          "Nur Zustimmung des Heimvereins",
+          "Genehmigung der zuständigen FMN",
+          "Keine Genehmigung nötig",
+          "Zustimmung aller Spieler"
+        ],
+        "correctIndex": 1,
+        "explanation": "Internationale Spiele müssen von der zuständigen FMN genehmigt werden.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 2",
+          "chapter": "1.2.2 Internationale Spiele"
+        },
+        "tags": [
+          "Organisation",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q50",
+        "text": "Welche Spiele benötigen keine Genehmigung des DMSB?",
+        "options": [
+          "Länderspiele",
+          "Nationale Spiele",
+          "Freundschaftsspiele",
+          "Internationale Spiele"
+        ],
+        "correctIndex": 2,
+        "explanation": "Freundschaftsspiele werden von den Vereinen selbst organisiert und benötigen keine Genehmigung.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 2",
+          "chapter": "1.2.4 Freundschaftsspiele"
+        },
+        "tags": [
+          "Organisation",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q51",
+        "text": "Wann gilt ein Ball im Motoball als im Spiel?",
+        "options": [
+          "Immer, wenn er rollt",
+          "Wenn er die Linie nicht vollständig überschritten hat",
+          "Nur nach Freigabe des Schiedsrichters",
+          "Nur innerhalb des Strafraums"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Ball ist im Spiel, solange er die Linie nicht vollständig überschritten hat.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 10",
+          "chapter": "Regel 12 – Ball im Spiel"
+        },
+        "tags": [
+          "Ball",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q52",
+        "text": "Wann darf ein Spieler nach einem Anstoß den Ball erneut berühren?",
+        "options": [
+          "Sofort nach dem Anstoß",
+          "Erst nachdem ein anderer Spieler den Ball berührt hat",
+          "Er darf immer zweimal schießen",
+          "Nur nach einem Tor"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der ausführende Spieler darf den Ball nach dem Anstoß erst wieder berühren, wenn ein anderer Spieler ihn gespielt hat.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 9",
+          "chapter": "Regel 8 – Anstoß"
+        },
+        "tags": [
+          "Anstoß",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Welche Strafe erhält ein Spieler mindestens für ein grobes Foul im Strafraum?",
+        "options": [
+          "Grüne Karte",
+          "Gelbe Karte",
+          "Rote Karte",
+          "Keine Strafe"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bei einem groben Foul im Strafraum erhält der Spieler mindestens eine Grüne Karte und es gibt Elfmeter.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 11",
+          "chapter": "Regel 14 – Strafstoß"
+        },
+        "tags": [
+          "Foul",
+          "Strafe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q54",
+        "text": "Wie weit müssen Spieler bei einem Freistoß mindestens von der direkten Anfahrtslinie entfernt sein?",
+        "options": [
+          "1 m",
+          "2 m",
+          "3 m",
+          "5 m"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei einem Freistoß müssen die Gegenspieler mindestens 9,15 m vom Ball und zusätzlich 2 m von der Anfahrtslinie entfernt sein.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 11",
+          "chapter": "Regel 14 – Freistoß"
+        },
+        "tags": [
+          "Freistoß",
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q55",
+        "text": "Was passiert, wenn ein Spieler mit gelb-roter Karte bestraft wird?",
+        "options": [
+          "Sofortiger Ausschluss ohne Ersatz",
+          "5 Minuten Strafe, danach darf ein anderer Spieler rein",
+          "2 Minuten Strafe, danach Rückkehr",
+          "Spiel wird abgebrochen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei Gelb-Rot muss der Spieler sofort raus, darf aber nach 5 Minuten durch einen anderen ersetzt werden.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 7",
+          "chapter": "Regel 5 – Sanktionen"
+        },
+        "tags": [
+          "Sanktionen",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q56",
+        "text": "Was gilt für den Torwart beim Elfmeter?",
+        "options": [
+          "Darf frei im Strafraum stehen",
+          "Muss auf der Torlinie bleiben",
+          "Muss mindestens 2 m vor der Torlinie stehen",
+          "Darf im Torraum herumlaufen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Torwart muss beim Elfmeter auf seiner Torlinie bleiben, bis der Ball gespielt wird.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 11",
+          "chapter": "Regel 14 – Elfmeter"
+        },
+        "tags": [
+          "Torwart",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q57",
+        "text": "Was ist beim Angriff auf einen ballführenden Spieler verboten?",
+        "options": [
+          "Nur von vorne attackieren",
+          "Gefährliches Schneiden, plötzliche Richtungsänderung",
+          "Seitlich angreifen",
+          "Ball mit Fuß spielen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Es ist verboten, durch Schneiden oder plötzliche Richtungsänderung den Gegenspieler zu gefährden.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 9",
+          "chapter": "Regel 9 – Angriff"
+        },
+        "tags": [
+          "Angriff",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q58",
+        "text": "Was gilt, wenn eine Mannschaft zu Spielbeginn nicht die vorgeschriebene Spielerzahl stellt?",
+        "options": [
+          "Das Spiel beginnt mit weniger Spielern",
+          "Das Spiel wird abgebrochen",
+          "Die Mannschaft darf unbegrenzt nachmelden",
+          "Es gibt eine Geldstrafe"
+        ],
+        "correctIndex": 1,
+        "explanation": "Beginnt eine Mannschaft nicht mit 4 Feldspielern und 1 Torwart, führt das zum Spielabbruch.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 6",
+          "chapter": "Regel 3 – Spieleranzahl"
+        },
+        "tags": [
+          "Spieleranzahl",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q59",
+        "text": "Wer darf beim Anspiel nach Toraus den Ball ins Spiel bringen?",
+        "options": [
+          "Der Torwart",
+          "Ein beliebiger Feldspieler",
+          "Der Mannschaftsleiter",
+          "Ein Mechaniker"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach Toraus bringt der Torwart der verteidigenden Mannschaft den Ball wieder ins Spiel.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 12",
+          "chapter": "Regel 15 – Toraus"
+        },
+        "tags": [
+          "Toraus",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q60",
+        "text": "Wie lange hat der Torwart Zeit, den Ball nach Toraus wieder ins Spiel zu bringen?",
+        "options": [
+          "5 Sekunden",
+          "10 Sekunden",
+          "15 Sekunden",
+          "20 Sekunden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Torwart muss den Ball nach Toraus innerhalb von 10 Sekunden wieder ins Spiel bringen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 12",
+          "chapter": "Regel 15 – Toraus"
+        },
+        "tags": [
+          "Torwart",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q61",
+        "text": "Was passiert, wenn der Torwart die Torraumlinie überschreitet?",
+        "options": [
+          "Das Spiel läuft normal weiter",
+          "Es liegt ein Regelverstoß vor",
+          "Es wird Eckball gegeben",
+          "Der Gegner erhält einen Einwurf"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Torwart darf die Torraumlinie nicht überschreiten. Ein Überschreiten gilt als Regelverstoß.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 10",
+          "chapter": "Regel 10 – Torraum"
+        },
+        "tags": [
+          "Torraum",
+          "Torwart"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q62",
+        "text": "Wie viele Spieler dürfen sich gleichzeitig beim Einwechseln auf dem Spielfeld befinden?",
+        "options": [
+          "Maximal 2",
+          "Nur einer",
+          "Beliebig viele",
+          "Abhängig von Schiedsrichterentscheid"
+        ],
+        "correctIndex": 1,
+        "explanation": "Beim Ein- und Auswechseln dürfen sich nicht gleichzeitig beide Spieler auf dem Spielfeld befinden.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 6",
+          "chapter": "Regel 3 – Einwechseln"
+        },
+        "tags": [
+          "Spielerwechsel",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q63",
+        "text": "Wo dürfen Feldspieler beim Einwechseln ins Spielfeld einfahren?",
+        "options": [
+          "An der Seitenauslinie",
+          "Nur auf Höhe der Mittellinie",
+          "Am Strafraum",
+          "Am Torraum"
+        ],
+        "correctIndex": 1,
+        "explanation": "Spieler dürfen nur auf Höhe der Mittellinie ins Spielfeld einfahren. Seitliches Einfahren ist verboten.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 6",
+          "chapter": "Regel 3 – Einwechseln"
+        },
+        "tags": [
+          "Spielerwechsel",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q64",
+        "text": "Wie darf der Ball beim Anspiel nach Seitenaus ins Spiel gebracht werden?",
+        "options": [
+          "Mit Handwurf",
+          "Mit Fußstoß, Ball muss eine Umdrehung machen",
+          "Mit Kopfstoß",
+          "Mit Motorradstoß"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach Seitenaus wird der Ball mit dem Fuß ins Spiel gebracht, er muss dabei mindestens eine Umdrehung machen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 11",
+          "chapter": "Regel 15 – Seitenaus"
+        },
+        "tags": [
+          "Seitenaus",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q65",
+        "text": "Wie viele Auszeiten hat jede Mannschaft pro Spiel?",
+        "options": [
+          "Keine",
+          "Eine Auszeit von 2 Minuten",
+          "Zwei Auszeiten à 2 Minuten",
+          "Eine Auszeit von 5 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jede Mannschaft darf einmal pro Spiel eine Auszeit von 2 Minuten nehmen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 8",
+          "chapter": "Regel 7 – Auszeit"
+        },
+        "tags": [
+          "Auszeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q66",
+        "text": "Wann darf ein Torwart im Motoball den Ball mit den Händen spielen?",
+        "options": [
+          "Nur im Strafraum",
+          "Nur im Torraum",
+          "Überall auf dem Feld",
+          "Nie"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Torwart darf den Ball nur im Torraum mit den Händen spielen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 9",
+          "chapter": "Regel 9 – Torwartspiel"
+        },
+        "tags": [
+          "Torwart",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q67",
+        "text": "Welche Bedingungen gelten für die Ausrüstung von Helmen im Motoball?",
+        "options": [
+          "Sie müssen DMSB-Schutzhelmbestimmungen entsprechen",
+          "Sie müssen nur bunt sein",
+          "Sie dürfen selbstgebaut sein",
+          "Helme sind optional"
+        ],
+        "correctIndex": 0,
+        "explanation": "Helme müssen den DMSB-Schutzhelmbestimmungen entsprechen und bei der technischen Abnahme vorgeführt werden.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 6",
+          "chapter": "Regel 4 – Helme"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Helm"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q68",
+        "text": "Welche Mindesthöhe müssen Rückennummern im Motoball haben?",
+        "options": [
+          "100 mm",
+          "120 mm",
+          "140 mm",
+          "160 mm"
+        ],
+        "correctIndex": 2,
+        "explanation": "Rückennummern müssen mindestens 140 mm hoch und 90 mm breit sein.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 7",
+          "chapter": "Regel 4 – Trikotnummern"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Nummerierung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q69",
+        "text": "Wann darf ein ausgewechselter Torwart wieder eingewechselt werden, wenn er eine Zeitstrafe erhalten hat?",
+        "options": [
+          "Sofort nach Strafe",
+          "Erst bei nächster Spielunterbrechung nach Ablauf",
+          "Nie",
+          "Nur bei Verlängerung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Torwart darf nach Zeitstrafe erst bei der nächsten Spielunterbrechung nach Ablauf wieder eingewechselt werden.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 6",
+          "chapter": "Regel 3 – Einwechseln Torwart"
+        },
+        "tags": [
+          "Torwart",
+          "Spielerwechsel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q70",
+        "text": "Welche Maße müssen Fahnenstangen an den Ecken des Spielfeldes mindestens haben?",
+        "options": [
+          "1,20 m hoch",
+          "1,50 m hoch, nicht spitz",
+          "2,00 m hoch",
+          "1,00 m hoch"
+        ],
+        "correctIndex": 1,
+        "explanation": "Fahnenstangen müssen mindestens 1,50 m hoch und dürfen oben nicht spitz sein.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 4",
+          "chapter": "Regel 1 – Fahnenstangen"
+        },
+        "tags": [
+          "Spielfeld",
+          "Ausrüstung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q71",
+        "text": "Welche maximale Breite dürfen Torpfosten im Motoball haben?",
+        "options": [
+          "10 cm",
+          "12 cm",
+          "14 cm",
+          "15 cm"
+        ],
+        "correctIndex": 1,
+        "explanation": "Torp Pfosten und Querlatte dürfen höchstens 12 cm breit und tief sein.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 5",
+          "chapter": "Regel 1 – Tore"
+        },
+        "tags": [
+          "Tor",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q72",
+        "text": "Was gilt für Trikots von Feldspielern im Motoball?",
+        "options": [
+          "Müssen unterschiedliche Farben haben",
+          "Müssen gleichfarbig sein",
+          "Sind optional",
+          "Müssen schwarz sein"
+        ],
+        "correctIndex": 1,
+        "explanation": "Alle Feldspieler einer Mannschaft müssen gleichfarbige Trikots tragen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 6",
+          "chapter": "Regel 4 – Trikots"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Trikot"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q73",
+        "text": "Welche Pflichtausstattung muss jede Mannschaft im Fahrerlager haben?",
+        "options": [
+          "Einen Feuerlöscher mit mindestens 2 kg",
+          "Einen Ersatzmotor",
+          "Einen Schiedsrichterstuhl",
+          "Eine Fahne"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jede Mannschaft muss im Fahrerlager einen Feuerlöscher mit mindestens 2 kg haben.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 6",
+          "chapter": "Regel 4 – Fahrerlager"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Sicherheit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q74",
+        "text": "Welche Aufgabe haben Linienrichter bei Ballüberschreiten der Seitenlinie?",
+        "options": [
+          "Nichts",
+          "Anzeige an Schiedsrichter",
+          "Selbst Anstoß ausführen",
+          "Spielzeit stoppen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Linienrichter zeigen den Schiedsrichtern an, wenn der Ball die Seitenlinie mit vollem Durchmesser überschritten hat.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 8",
+          "chapter": "Regel 6 – Linienrichter"
+        },
+        "tags": [
+          "Linienrichter",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q75",
+        "text": "Wie muss ein Eckball im Motoball ausgeführt werden?",
+        "options": [
+          "Von der Ecke des Strafraums",
+          "Vom Kreuzungspunkt der Torauslinie mit der Strafraumlinie",
+          "Von der Mitte der Torlinie",
+          "Vom Mittelpunkt des Feldes"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Eckball wird am Kreuzungspunkt von Torauslinie und Strafraumlinie ausgeführt.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 12",
+          "chapter": "Regel 16 – Eckball"
+        },
+        "tags": [
+          "Eckball",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q76",
+        "text": "Wie viele Schiedsrichter dürfen bei Play-Off-Endspielen zusätzlich eingesetzt werden?",
+        "options": [
+          "Keine",
+          "Zwei zusätzliche Linienrichter",
+          "Drei zusätzliche Schiedsrichter",
+          "Ein zusätzlicher Schiedsrichter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei Play-Off-Endspielen übernehmen zusätzlich lizenzierte Schiedsrichter die Aufgaben der Linienrichter.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 7",
+          "chapter": "Regel 5 – Schiedsrichter Play-Offs"
+        },
+        "tags": [
+          "Schiedsrichter",
+          "Organisation"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q77",
+        "text": "Wann darf ein Spieler nach einem Elfmeter den Ball erneut spielen?",
+        "options": [
+          "Sofort nach Schuss",
+          "Erst nach Kontakt mit anderem Spieler/Motorrad oder Pfosten/Latte",
+          "Immer sofort",
+          "Nur nach Tor"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Schütze darf den Ball nach einem Elfmeter erst wieder spielen, wenn ein anderer Spieler oder Pfosten/Latte Kontakt hatten.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 11",
+          "chapter": "Regel 14 – Elfmeter"
+        },
+        "tags": [
+          "Elfmeter",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q78",
+        "text": "Welche Mindestbreite muss die Mittellinie im Motoball haben?",
+        "options": [
+          "12 cm",
+          "18 cm",
+          "20 cm",
+          "24 cm"
+        ],
+        "correctIndex": 3,
+        "explanation": "Die Mittellinie muss 24 cm breit sein, alle anderen Linien 12 cm.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 4",
+          "chapter": "Regel 1 – Markierungen"
+        },
+        "tags": [
+          "Spielfeld",
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q79",
+        "text": "Wie viele Personen dürfen sich während eines Spiels im Fahrerlager aufhalten (exkl. Schiedsrichter)?",
+        "options": [
+          "10 Spieler, 1 Trainer, 1 Mannschaftsleiter, 2 Mechaniker, 1 Arzt/Physio",
+          "Beliebig viele",
+          "Nur 10 Spieler",
+          "Nur Spieler und Trainer"
+        ],
+        "correctIndex": 0,
+        "explanation": "Im Fahrerlager dürfen sich 10 Spieler, 1 Trainer, 1 Mannschaftsleiter, 2 Mechaniker und 1 Arzt/Physio aufhalten.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 5",
+          "chapter": "Regel 1 – Fahrerlager"
+        },
+        "tags": [
+          "Organisation",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q80",
+        "text": "Was gilt, wenn ein ballführender Spieler nicht innerhalb von 15 Sekunden die Mittellinie überquert?",
+        "options": [
+          "Nichts, Spiel läuft normal",
+          "Schiedsrichter unterbricht Spiel",
+          "Der Spieler wird verwarnt",
+          "Der Gegner bekommt Elfmeter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei Zeitspiel oder Nichtüberqueren der Mittellinie innerhalb von 15 Sekunden unterbricht der Schiedsrichter das Spiel.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 8",
+          "chapter": "Regel 7 – Zeitspiel"
+        },
+        "tags": [
+          "Zeitspiel",
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q81",
+        "text": "Wer entscheidet, ob ein Spiel wegen Wetterbedingungen zugelassen wird?",
+        "options": [
+          "Der Heimverein",
+          "Der Schiedsrichter",
+          "Der Mannschaftsleiter",
+          "Der Linienrichter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Schiedsrichter entscheidet, ob Wetter- oder Platzbedingungen ein Spiel zulassen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 7",
+          "chapter": "Regel 5 – Schiedsrichterentscheidungen"
+        },
+        "tags": [
+          "Schiedsrichter",
+          "Organisation"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q82",
+        "text": "Wann darf ein verletzter Spieler wieder ins Spiel zurückkehren?",
+        "options": [
+          "Sofort nach Behandlung",
+          "Nur nach Zustimmung des Schiedsrichters",
+          "Immer nach 5 Minuten",
+          "Erst nach Ende des Viertels"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein verletzter Spieler darf nur mit Zustimmung des Schiedsrichters ins Spiel zurückkehren.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 7",
+          "chapter": "Regel 5 – Schiedsrichterentscheidungen"
+        },
+        "tags": [
+          "Verletzung",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q83",
+        "text": "Welche Strafe zieht eine gelbe Karte im Motoball nach sich?",
+        "options": [
+          "2 Minuten Strafe",
+          "5 Minuten Strafe",
+          "Spielausschluss",
+          "Keine Strafe"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die gelbe Karte bedeutet eine 5-minütige Zeitstrafe.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 7",
+          "chapter": "Regel 5 – Sanktionen"
+        },
+        "tags": [
+          "Sanktionen",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q84",
+        "text": "Was passiert, wenn eine Mannschaft nach roter Karte in Unterzahl spielt und ein Tor kassiert?",
+        "options": [
+          "Spieler darf zurückkehren",
+          "Spieler mit geringster Zeitstrafe darf zurück",
+          "Keine Änderung, weiter Unterzahl",
+          "Spiel wird abgebrochen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wenn eine Mannschaft in Unterzahl (außer bei roter Karte) ein Tor kassiert, darf der Spieler mit der geringsten Zeitstrafe zurückkehren.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 7",
+          "chapter": "Regel 5 – Sanktionen"
+        },
+        "tags": [
+          "Sanktionen",
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q85",
+        "text": "Wo muss der Ball beim Strafstoß platziert werden?",
+        "options": [
+          "9 m von der Torlinie",
+          "10 m von der Torlinie",
+          "11 m von der Torlinie",
+          "12 m von der Torlinie"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Strafstoß wird von einem Punkt ausgeführt, der 11 m von der Torlinie entfernt ist.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 11",
+          "chapter": "Regel 14 – Elfmeter"
+        },
+        "tags": [
+          "Strafstoß",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q86",
+        "text": "Welche Pflicht hat der Schiedsrichter beim Zeitspiel?",
+        "options": [
+          "Er zeigt den Spielern die Uhr und unterbricht ggf. das Spiel",
+          "Er gibt sofort einen Elfmeter",
+          "Er gibt Verwarnung",
+          "Er beendet das Spiel"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Schiedsrichter muss den Spielern die Uhr zeigen und unterbricht das Spiel nach 15 Sekunden ohne Angriffsabsicht.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 8",
+          "chapter": "Regel 7 – Zeitspiel"
+        },
+        "tags": [
+          "Zeitspiel",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q87",
+        "text": "Wie groß muss der Abstand der Gegenspieler bei einem Eckball sein?",
+        "options": [
+          "5 m",
+          "7 m",
+          "9,15 m",
+          "10 m"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bei Eckbällen müssen Gegenspieler mindestens 9,15 m Abstand halten.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 12",
+          "chapter": "Regel 16 – Eckball"
+        },
+        "tags": [
+          "Eckball",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q88",
+        "text": "Welche Pflicht haben Vereine bei Diskriminierungsvorfällen?",
+        "options": [
+          "Sie müssen nichts tun",
+          "Sie haften und können sanktioniert werden",
+          "Sie dürfen nur ermahnen",
+          "Sie können Spielabbruch beantragen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Vereine haften bei Diskriminierungsvorfällen und können vom DMSB sanktioniert werden.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 3",
+          "chapter": "2.3 Diskriminierung"
+        },
+        "tags": [
+          "Fairplay",
+          "Organisation"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q89",
+        "text": "Wann darf ein Linienrichter eingesetzt werden, der keine Lizenz hat?",
+        "options": [
+          "Nie",
+          "Nur mit unterschriebenem Haftungsverzicht",
+          "Nur bei Freundschaftsspielen",
+          "Nur mit Vereinsgenehmigung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Linienrichter ohne Lizenz müssen einen unterschriebenen Haftungsverzicht vorlegen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 8",
+          "chapter": "Regel 6 – Linienrichter"
+        },
+        "tags": [
+          "Linienrichter",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q90",
+        "text": "Wer darf die Spielfläche im Fahrerlager betreten?",
+        "options": [
+          "Alle Zuschauer",
+          "Nur zugelassene Personen wie Spieler, Trainer, Mechaniker",
+          "Alle Vereinsmitglieder",
+          "Journalisten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Im Fahrerlager sind nur zugelassene Personen erlaubt, darunter Spieler, Trainer, Mannschaftsleiter, Mechaniker und Arzt/Physio.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 5",
+          "chapter": "Regel 1 – Fahrerlager"
+        },
+        "tags": [
+          "Organisation",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q91",
+        "text": "Wie groß ist der Abstand zwischen den Innenkanten der Torpfosten?",
+        "options": [
+          "7,00 m",
+          "7,32 m",
+          "7,50 m",
+          "8,00 m"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Abstand zwischen den Innenkanten der Torpfosten beträgt 7,32 m.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 5",
+          "chapter": "Regel 1 – Tore"
+        },
+        "tags": [
+          "Tor",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q92",
+        "text": "Wie hoch ist die Unterkante der Querlatte über dem Boden?",
+        "options": [
+          "2,20 m",
+          "2,40 m",
+          "2,44 m",
+          "2,50 m"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Querlatte ist 2,44 m über dem Boden angebracht.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 5",
+          "chapter": "Regel 1 – Tore"
+        },
+        "tags": [
+          "Tor",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q93",
+        "text": "Wie viele Viertel umfasst ein Motoballspiel der Senioren?",
+        "options": [
+          "2 Viertel",
+          "3 Viertel",
+          "4 Viertel",
+          "5 Viertel"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Senioren-Motoballspiel hat 4 Viertel zu je 20 Minuten.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 8",
+          "chapter": "Regel 7 – Spielzeit"
+        },
+        "tags": [
+          "Spielzeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q94",
+        "text": "Wer darf nach einem Toraus den Ball wieder ins Spiel bringen?",
+        "options": [
+          "Der Torwart",
+          "Ein Feldspieler",
+          "Der Linienrichter",
+          "Der Schiedsrichter"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach Toraus bringt der Torwart der verteidigenden Mannschaft den Ball ins Spiel.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 12",
+          "chapter": "Regel 15 – Toraus"
+        },
+        "tags": [
+          "Toraus",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q95",
+        "text": "Wie lange hat der Torwart nach einem Toraus Zeit für das Anspiel?",
+        "options": [
+          "5 Sekunden",
+          "10 Sekunden",
+          "15 Sekunden",
+          "20 Sekunden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Torwart muss den Ball innerhalb von 10 Sekunden wieder ins Spiel bringen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 12",
+          "chapter": "Regel 15 – Toraus"
+        },
+        "tags": [
+          "Torwart",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q96",
+        "text": "Was passiert, wenn ein Spieler den Ball bei Seitenaus nicht korrekt ins Spiel bringt?",
+        "options": [
+          "Wiederholung des Einwurfs",
+          "Freiwurf für die eigene Mannschaft",
+          "Anspiel für den Gegner",
+          "Keine Konsequenz"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein falsches Anspiel nach Seitenaus führt zu Anspiel für den Gegner.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 12",
+          "chapter": "Regel 15 – Seitenaus"
+        },
+        "tags": [
+          "Seitenaus",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q97",
+        "text": "Welche Spiele gelten bei einer Jahresmeldung automatisch als genehmigt?",
+        "options": [
+          "Länderspiele",
+          "Freundschaftsspiele",
+          "Deutsche Motoball Meisterschaft (DMM)",
+          "Internationale Spiele"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Spiele der Deutschen Motoball Meisterschaft gelten mit Jahresmeldung automatisch als genehmigt.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 3",
+          "chapter": "2.4 Spielgenehmigungen"
+        },
+        "tags": [
+          "Organisation",
+          "Genehmigung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q98",
+        "text": "Was passiert, wenn ein Spieler den Ball mit dem Motorrad einklemmt?",
+        "options": [
+          "Spiel läuft normal",
+          "Es ist verboten",
+          "Es gibt Elfmeter",
+          "Es ist nur im Torraum erlaubt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Einklemmen des Balls zwischen Spielern oder Motorrädern ist verboten.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 9",
+          "chapter": "Regel 9 – Spielen Ball"
+        },
+        "tags": [
+          "Ballspiel",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q99",
+        "text": "Wie viele Linienrichter muss jede Mannschaft stellen, wenn nichts anderes geregelt ist?",
+        "options": [
+          "Keinen",
+          "Einen pro Seite",
+          "Einen pro Spielfeldhälfte",
+          "Zwei pro Mannschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jede Mannschaft muss einen Linienrichter für eine Platzseite stellen.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 8",
+          "chapter": "Regel 6 – Linienrichter"
+        },
+        "tags": [
+          "Linienrichter",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q100",
+        "text": "Welcher Bereich ist nur für den Torwart im Motoball erlaubt?",
+        "options": [
+          "Strafraum",
+          "Torraum",
+          "Mittelfeld",
+          "Seitenausbereich"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nur der Torwart darf sich im Torraum aufhalten. Feldspielern ist der Zutritt verboten.",
+        "source": {
+          "citation": "DMSB-Handbuch 2025 – Grüner Teil: Motoball-Reglement",
+          "pages": "S. 10",
+          "chapter": "Regel 10 – Torraum"
+        },
+        "tags": [
+          "Torraum",
+          "Torwart"
+        ],
+        "difficulty": "leicht"
+      }
+    ]
+  }
+}

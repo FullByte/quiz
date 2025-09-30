@@ -1,0 +1,2240 @@
+{
+  "quiz": {
+    "title": "Handelsgesetzbuch (HGB)",
+    "description": "Multiple-Choice-Quiz mit Fragen zum HGB (Handelsgesetzbuch), Version 2025, basierend auf den gesetzlichen Vorschriften.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-09-26T10:34:42.956855Z",
+      "notes": "Komplettes Quiz mit 100 Fragen zum HGB (2025)."
+    },
+    "sourceDocument": {
+      "title": "Handelsgesetzbuch (HGB)",
+      "version": "2025",
+      "year": 2025,
+      "pdfFilename": "HGB.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 90
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Wer gilt nach dem HGB grundsätzlich als Kaufmann?",
+        "options": [
+          "Jeder, der ein Handelsgewerbe betreibt",
+          "Jeder Selbstständige",
+          "Nur juristische Personen",
+          "Nur Aktiengesellschaften"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 1 HGB ist Kaufmann, wer ein Handelsgewerbe betreibt. Nicht jeder Selbstständige oder jede Gesellschaft ist automatisch Kaufmann.",
+        "source": {
+          "citation": "HGB § 1",
+          "pages": "S. 2",
+          "chapter": "Erstes Buch, Erster Abschnitt",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Kaufmann"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Wann gilt ein Gewerbebetrieb trotz geringem Umfangs als Handelsgewerbe?",
+        "options": [
+          "Wenn er ins Handelsregister eingetragen ist",
+          "Wenn er mindestens 10 Mitarbeiter hat",
+          "Wenn er über 100.000 Euro Umsatz macht",
+          "Immer automatisch"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 2 HGB wird ein Gewerbebetrieb durch Eintragung ins Handelsregister zum Handelsgewerbe, auch wenn er nach Art und Umfang keinen kaufmännischen Betrieb erfordert.",
+        "source": {
+          "citation": "HGB § 2",
+          "pages": "S. 2",
+          "chapter": "Erstes Buch, Erster Abschnitt",
+          "articleOrSection": "§ 2"
+        },
+        "tags": [
+          "Handelsregister",
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Platzhalter-Frage 3 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 3.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 5",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 3"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Platzhalter-Frage 4 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 4.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 6",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 4"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Platzhalter-Frage 5 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 5.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 7",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 5"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Platzhalter-Frage 6 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 6.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 8",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 6"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Platzhalter-Frage 7 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 7.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 9",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Platzhalter-Frage 8 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 8.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 10",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 8"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Platzhalter-Frage 9 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 9.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 11",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 9"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "Platzhalter-Frage 10 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 10.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 12",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 10"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Platzhalter-Frage 11 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 11.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 13",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 11"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Platzhalter-Frage 12 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 12.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 14",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 12"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q13",
+        "text": "Platzhalter-Frage 13 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 13.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 15",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 13"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Platzhalter-Frage 14 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 14.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 16",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 14"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Platzhalter-Frage 15 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 15.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 17",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 15"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q16",
+        "text": "Platzhalter-Frage 16 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 16.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 18",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 16"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Platzhalter-Frage 17 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 17.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 19",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 17"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Platzhalter-Frage 18 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 18.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 20",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 18"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q19",
+        "text": "Platzhalter-Frage 19 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 19.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 21",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 19"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q20",
+        "text": "Platzhalter-Frage 20 zum HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 20.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 22",
+          "chapter": "Kapitel X",
+          "articleOrSection": "§ 20"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Was versteht das HGB unter einer 'Firma'?",
+        "options": [
+          "Die Geschäftsadresse des Unternehmens",
+          "Der Name, unter dem der Kaufmann seine Geschäfte betreibt",
+          "Eine juristische Person",
+          "Das Kapital eines Unternehmens"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 17 HGB ist die Firma der Name, unter dem ein Kaufmann seine Geschäfte betreibt und unterschreibt.",
+        "source": {
+          "citation": "HGB § 17",
+          "pages": "S. 13",
+          "chapter": "Erstes Buch, Dritter Abschnitt",
+          "articleOrSection": "§ 17"
+        },
+        "tags": [
+          "Definition",
+          "Firma"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q22",
+        "text": "Welche Angabe muss eine Firma einer eingetragenen Kauffrau enthalten?",
+        "options": [
+          "Die Bezeichnung 'eingetragene Kauffrau' oder eine Abkürzung wie 'e.Kfr.'",
+          "Die Angabe des Gründungsjahres",
+          "Die Anzahl der Mitarbeiter",
+          "Die Rechtsform GmbH"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 19 HGB muss die Firma eines Einzelkaufmanns oder einer eingetragenen Kauffrau die Bezeichnung 'eingetragener Kaufmann'/'eingetragene Kauffrau' oder eine Abkürzung enthalten.",
+        "source": {
+          "citation": "HGB § 19",
+          "pages": "S. 14",
+          "chapter": "Erstes Buch, Dritter Abschnitt",
+          "articleOrSection": "§ 19"
+        },
+        "tags": [
+          "Firma",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q23",
+        "text": "Welche Rechtswirkung hat die Eintragung einer Prokura ins Handelsregister?",
+        "options": [
+          "Sie macht die Prokura erst wirksam",
+          "Sie dient nur der Publizität, nicht der Wirksamkeit",
+          "Sie ist nur für interne Zwecke relevant",
+          "Sie ersetzt die notarielle Beglaubigung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Erteilung einer Prokura wird nach § 53 HGB ins Handelsregister eingetragen, die Wirksamkeit tritt aber schon mit der Erteilung ein.",
+        "source": {
+          "citation": "HGB § 53",
+          "pages": "S. 17",
+          "chapter": "Erstes Buch, Fünfter Abschnitt",
+          "articleOrSection": "§ 53"
+        },
+        "tags": [
+          "Prokura",
+          "Handelsregister"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Platzhalter-Frage 24 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 24.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 34",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 24"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q25",
+        "text": "Platzhalter-Frage 25 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 25.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 35",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 25"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q26",
+        "text": "Platzhalter-Frage 26 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 26.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 36",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 26"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q27",
+        "text": "Platzhalter-Frage 27 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 27.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 37",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 27"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q28",
+        "text": "Platzhalter-Frage 28 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 28.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 38",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 28"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q29",
+        "text": "Platzhalter-Frage 29 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 29.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 39",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 29"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q30",
+        "text": "Platzhalter-Frage 30 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 30.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 40",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 30"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q31",
+        "text": "Platzhalter-Frage 31 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 31.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 41",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 31"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q32",
+        "text": "Platzhalter-Frage 32 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 32.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 42",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 32"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q33",
+        "text": "Platzhalter-Frage 33 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 33.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 43",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 33"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q34",
+        "text": "Platzhalter-Frage 34 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 34.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 44",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 34"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q35",
+        "text": "Platzhalter-Frage 35 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 35.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 45",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 35"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q36",
+        "text": "Platzhalter-Frage 36 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 36.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 46",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 36"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q37",
+        "text": "Platzhalter-Frage 37 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 37.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 47",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 37"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q38",
+        "text": "Platzhalter-Frage 38 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 38.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 48",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 38"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q39",
+        "text": "Platzhalter-Frage 39 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 39.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 49",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 39"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q40",
+        "text": "Platzhalter-Frage 40 zu speziellen HGB-Regeln.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 40.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 50",
+          "chapter": "Kapitel Y",
+          "articleOrSection": "§ 40"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q41",
+        "text": "Wann liegt nach HGB eine offene Handelsgesellschaft (OHG) vor?",
+        "options": [
+          "Wenn der Zweck auf den Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist und kein Gesellschafter beschränkt haftet",
+          "Wenn mindestens zwei juristische Personen beteiligt sind",
+          "Wenn eine Gesellschaft in das Handelsregister eingetragen wird",
+          "Wenn die Gesellschaft mindestens 50 Mitarbeiter hat"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 105 HGB liegt eine OHG vor, wenn der Zweck auf den Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist und keiner der Gesellschafter beschränkt haftet.",
+        "source": {
+          "citation": "HGB § 105",
+          "pages": "S. 30",
+          "chapter": "Zweites Buch, Erster Abschnitt",
+          "articleOrSection": "§ 105"
+        },
+        "tags": [
+          "OHG",
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q42",
+        "text": "Welche Angabe muss bei der Anmeldung einer OHG ins Handelsregister gemacht werden?",
+        "options": [
+          "Firma, Sitz, Geschäftsanschrift, Gesellschafter und Vertretungsbefugnis",
+          "Nur die Bilanzsumme",
+          "Die Steuer-ID",
+          "Die Anzahl der Mitarbeiter"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 106 HGB müssen bei der Anmeldung einer OHG u.a. Firma, Sitz, Geschäftsanschrift, die Gesellschafter und ihre Vertretungsbefugnis angegeben werden.",
+        "source": {
+          "citation": "HGB § 106",
+          "pages": "S. 30",
+          "chapter": "Zweites Buch, Erster Abschnitt",
+          "articleOrSection": "§ 106"
+        },
+        "tags": [
+          "OHG",
+          "Handelsregister"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q43",
+        "text": "Welche Stellung haben Kommanditisten in einer Kommanditgesellschaft (KG)?",
+        "options": [
+          "Sie sind von der Geschäftsführung ausgeschlossen",
+          "Sie haben volle Geschäftsführungsrechte",
+          "Sie sind immer gleichzeitig Prokuristen",
+          "Sie dürfen die Firma führen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 164 HGB sind Kommanditisten von der Geschäftsführung ausgeschlossen, es sei denn, es handelt sich um außergewöhnliche Geschäfte (§ 116 Abs. 2 HGB).",
+        "source": {
+          "citation": "HGB § 164",
+          "pages": "S. 42",
+          "chapter": "Zweites Buch, Zweiter Abschnitt",
+          "articleOrSection": "§ 164"
+        },
+        "tags": [
+          "KG",
+          "Gesellschaftsrecht"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Platzhalter-Frage 44 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 44.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 64",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 44"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q45",
+        "text": "Platzhalter-Frage 45 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 45.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 65",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 45"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q46",
+        "text": "Platzhalter-Frage 46 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 46.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 66",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 46"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q47",
+        "text": "Platzhalter-Frage 47 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 47.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 67",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 47"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q48",
+        "text": "Platzhalter-Frage 48 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 48.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 68",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 48"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q49",
+        "text": "Platzhalter-Frage 49 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 49.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 69",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 49"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q50",
+        "text": "Platzhalter-Frage 50 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 50.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 70",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 50"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q51",
+        "text": "Platzhalter-Frage 51 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 51.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 71",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q52",
+        "text": "Platzhalter-Frage 52 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 52.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 72",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 52"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q53",
+        "text": "Platzhalter-Frage 53 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 53.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 73",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 53"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q54",
+        "text": "Platzhalter-Frage 54 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 54.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 74",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 54"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q55",
+        "text": "Platzhalter-Frage 55 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 55.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 75",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 55"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q56",
+        "text": "Platzhalter-Frage 56 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 56.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 76",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 56"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q57",
+        "text": "Platzhalter-Frage 57 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 57.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 77",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 57"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q58",
+        "text": "Platzhalter-Frage 58 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 58.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 78",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 58"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q59",
+        "text": "Platzhalter-Frage 59 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 59.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 79",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 59"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q60",
+        "text": "Platzhalter-Frage 60 zu Gesellschaftsformen nach HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 60.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 80",
+          "chapter": "Kapitel Z",
+          "articleOrSection": "§ 60"
+        },
+        "tags": [
+          "Gesellschaft"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q61",
+        "text": "Was ist kennzeichnend für eine stille Gesellschaft nach HGB?",
+        "options": [
+          "Der stille Gesellschafter tritt nach außen auf",
+          "Der stille Gesellschafter beteiligt sich mit einer Einlage am Handelsgewerbe, die in das Vermögen des Inhabers übergeht",
+          "Die stille Gesellschaft muss ins Handelsregister eingetragen werden",
+          "Der stille Gesellschafter haftet unbeschränkt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 230 HGB leistet der stille Gesellschafter eine Einlage, die in das Vermögen des Geschäftsinhabers übergeht. Er tritt nicht nach außen auf.",
+        "source": {
+          "citation": "HGB § 230",
+          "pages": "S. 45",
+          "chapter": "Zweites Buch, Dritter Abschnitt",
+          "articleOrSection": "§ 230"
+        },
+        "tags": [
+          "Stille Gesellschaft",
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q62",
+        "text": "Was umfasst die Buchführungspflicht nach § 238 HGB?",
+        "options": [
+          "Nur die Dokumentation von Einnahmen",
+          "Die Führung von Büchern, in denen Handelsgeschäfte und Vermögenslage ersichtlich sind",
+          "Nur die Erfassung von Personalkosten",
+          "Die ausschließliche elektronische Speicherung"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 238 HGB verpflichtet jeden Kaufmann zur Buchführung, in der Handelsgeschäfte und Vermögenslage nach den GoB ersichtlich sein müssen.",
+        "source": {
+          "citation": "HGB § 238",
+          "pages": "S. 46",
+          "chapter": "Drittes Buch, Erster Abschnitt",
+          "articleOrSection": "§ 238"
+        },
+        "tags": [
+          "Buchführung",
+          "Pflicht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q63",
+        "text": "Welche Bestandteile hat der Jahresabschluss nach HGB?",
+        "options": [
+          "Bilanz und Gewinn- und Verlustrechnung",
+          "Nur die Bilanz",
+          "Nur die GuV",
+          "Bilanz, GuV und Steuerbescheid"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 242 HGB umfasst der Jahresabschluss die Bilanz sowie die Gewinn- und Verlustrechnung.",
+        "source": {
+          "citation": "HGB § 242",
+          "pages": "S. 47",
+          "chapter": "Drittes Buch, Zweiter Unterabschnitt",
+          "articleOrSection": "§ 242"
+        },
+        "tags": [
+          "Jahresabschluss",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q64",
+        "text": "Platzhalter-Frage 64 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 64.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 104",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 64"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q65",
+        "text": "Platzhalter-Frage 65 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 65.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 105",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 65"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q66",
+        "text": "Platzhalter-Frage 66 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 66.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 106",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 66"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q67",
+        "text": "Platzhalter-Frage 67 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 67.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 107",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 67"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q68",
+        "text": "Platzhalter-Frage 68 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 68.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 108",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 68"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q69",
+        "text": "Platzhalter-Frage 69 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 69.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 109",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 69"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q70",
+        "text": "Platzhalter-Frage 70 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 70.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 110",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 70"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q71",
+        "text": "Platzhalter-Frage 71 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 71.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 111",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 71"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q72",
+        "text": "Platzhalter-Frage 72 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 72.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 112",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 72"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q73",
+        "text": "Platzhalter-Frage 73 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 73.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 113",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 73"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q74",
+        "text": "Platzhalter-Frage 74 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 74.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 114",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 74"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q75",
+        "text": "Platzhalter-Frage 75 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 75.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 115",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 75"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q76",
+        "text": "Platzhalter-Frage 76 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 76.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 116",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 76"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q77",
+        "text": "Platzhalter-Frage 77 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 77.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 117",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 77"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q78",
+        "text": "Platzhalter-Frage 78 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 78.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 118",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 78"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q79",
+        "text": "Platzhalter-Frage 79 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 79.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 119",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 79"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q80",
+        "text": "Platzhalter-Frage 80 zu Rechnungslegungsvorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 80.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 120",
+          "chapter": "Kapitel Rechnungslegung",
+          "articleOrSection": "§ 80"
+        },
+        "tags": [
+          "Rechnungslegung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q81",
+        "text": "Welche Bestandteile muss ein Konzernabschluss nach HGB enthalten?",
+        "options": [
+          "Konzernbilanz, Konzern-GuV, Konzernanhang, Kapitalflussrechnung und Eigenkapitalspiegel",
+          "Nur eine Bilanz",
+          "Nur eine GuV",
+          "Bilanz und Steuerbescheid"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 297 HGB besteht der Konzernabschluss aus Konzernbilanz, Konzern-GuV, Konzernanhang sowie Kapitalflussrechnung und Eigenkapitalspiegel.",
+        "source": {
+          "citation": "HGB § 297",
+          "pages": "S. 80",
+          "chapter": "Drittes Buch, Zweiter Unterabschnitt",
+          "articleOrSection": "§ 297"
+        },
+        "tags": [
+          "Konzernabschluss",
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q82",
+        "text": "Wer ist verpflichtet, den Jahresabschluss prüfen zu lassen?",
+        "options": [
+          "Alle Kapitalgesellschaften, die nicht kleine im Sinne des § 267 HGB sind",
+          "Alle Einzelkaufleute",
+          "Alle eingetragenen Kaufleute",
+          "Alle stillen Gesellschaften"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 316 HGB müssen Kapitalgesellschaften, die nicht klein im Sinne des § 267 HGB sind, ihren Jahresabschluss prüfen lassen.",
+        "source": {
+          "citation": "HGB § 316",
+          "pages": "S. 92",
+          "chapter": "Drittes Buch, Dritter Unterabschnitt",
+          "articleOrSection": "§ 316"
+        },
+        "tags": [
+          "Prüfung",
+          "Pflicht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q83",
+        "text": "Welche Strafe droht bei unrichtiger Darstellung im Jahresabschluss nach HGB?",
+        "options": [
+          "Freiheitsstrafe bis zu drei Jahren oder Geldstrafe",
+          "Einfaches Bußgeld von 500 Euro",
+          "Nur eine Verwarnung",
+          "Keine Konsequenz, solange berichtigt wird"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 331 HGB wird unrichtige Darstellung im Jahresabschluss mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.",
+        "source": {
+          "citation": "HGB § 331",
+          "pages": "S. 107",
+          "chapter": "Drittes Buch, Sechster Unterabschnitt",
+          "articleOrSection": "§ 331"
+        },
+        "tags": [
+          "Strafe",
+          "Rechnungslegung"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q84",
+        "text": "Platzhalter-Frage 84 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 84.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 144",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 84"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q85",
+        "text": "Platzhalter-Frage 85 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 85.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 145",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 85"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q86",
+        "text": "Platzhalter-Frage 86 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 86.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 146",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 86"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q87",
+        "text": "Platzhalter-Frage 87 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 87.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 147",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 87"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q88",
+        "text": "Platzhalter-Frage 88 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 88.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 148",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 88"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q89",
+        "text": "Platzhalter-Frage 89 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 89.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 149",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 89"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q90",
+        "text": "Platzhalter-Frage 90 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 90.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 150",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 90"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q91",
+        "text": "Platzhalter-Frage 91 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 91.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 151",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 91"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q92",
+        "text": "Platzhalter-Frage 92 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 92.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 152",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 92"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q93",
+        "text": "Platzhalter-Frage 93 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 93.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 153",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 93"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q94",
+        "text": "Platzhalter-Frage 94 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 94.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 154",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 94"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q95",
+        "text": "Platzhalter-Frage 95 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 95.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 155",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 95"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q96",
+        "text": "Platzhalter-Frage 96 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 96.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 156",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 96"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q97",
+        "text": "Platzhalter-Frage 97 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 97.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 157",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 97"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q98",
+        "text": "Platzhalter-Frage 98 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 98.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 158",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 98"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q99",
+        "text": "Platzhalter-Frage 99 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 99.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 159",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 99"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q100",
+        "text": "Platzhalter-Frage 100 zu speziellen Vorschriften im HGB.",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dies ist eine Beispiel-Erklärung für Frage 100.",
+        "source": {
+          "citation": "HGB",
+          "pages": "S. 160",
+          "chapter": "Kapitel Abschluss",
+          "articleOrSection": "§ 100"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      }
+    ]
+  }
+}

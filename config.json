@@ -1,0 +1,116 @@
+{
+  "app": {
+    "title": "Raffdas.net Quiz Center",
+    "description": "Entdecke und teste dein Wissen in verschiedenen Kategorien",
+    "version": "1.1.3",
+    "author": "Raffdas.net",
+    "language": "de"
+  },
+  "settings": {
+    "autoDiscovery": false,
+    "defaultQuizSettings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    }
+  },
+  "categories": {
+    "ai": {
+      "name": "Künstliche Intelligenz",
+      "icon": "fa-robot",
+      "description": "Quiz rund um KI, Machine Learning und so",
+      "quiz": [
+        "LLM-Engineer"
+      ]
+    },
+    "sport": {
+      "name": "Sport",
+      "icon": "fa-football",
+      "description": "Quiz zu Sportregeln und Wissenswertes aus der Welt des Sports",
+      "quiz": [
+        "basketball",
+        "downhill",
+        "eishockey",
+        "fussball",
+        "handball",
+        "hobbyhorsing",
+        "klettern",
+        "motoball",
+        "rugby",
+        "tennis",
+        "wakeboard",
+        "wasserball"
+      ]
+    },
+    "gesetze": {
+      "name": "Gesetze",
+      "icon": "fa-question-circle",
+      "description": "Quiz und Wissen rund um Gesetze",
+      "quiz": [
+        "BGB",
+        "BauGB",
+        "GG",
+        "HGB",
+        "SGB",
+        "StGB",
+        "StPO",
+        "StVG",
+        "ZPO"
+      ]
+    },
+    "science": {
+      "name": "Astronomie",
+      "icon": "fa-microscope",
+      "description": "Quiz rund um Astronomie, Sterne und Weltraum",
+      "quiz": [
+        "astronomie"
+      ]
+    }
+  },
+  "categoryIcons": {
+    "ai": "fa-robot",
+    "sport": "fa-football",
+    "science": "fa-microscope",
+    "history": "fa-landmark",
+    "geography": "fa-globe",
+    "math": "fa-calculator",
+    "literature": "fa-book",
+    "music": "fa-music",
+    "art": "fa-palette",
+    "technology": "fa-laptop-code",
+    "movies": "fa-film",
+    "games": "fa-gamepad",
+    "food": "fa-utensils",
+    "nature": "fa-leaf",
+    "default": "fa-question-circle",
+    "languages": "fa-language",
+    "business": "fa-briefcase",
+    "medicine": "fa-stethoscope",
+    "chemistry": "fa-flask",
+    "physics": "fa-atom",
+    "biology": "fa-dna"
+  },
+  "categoryNames": {
+    "ai": "Künstliche Intelligenz",
+    "sport": "Sport",
+    "science": "Wissenschaft",
+    "history": "Geschichte",
+    "geography": "Geographie",
+    "math": "Mathematik",
+    "literature": "Literatur",
+    "music": "Musik",
+    "art": "Kunst",
+    "technology": "Technologie",
+    "movies": "Film & TV",
+    "games": "Spiele",
+    "food": "Kulinarik",
+    "nature": "Natur",
+    "languages": "Sprachen",
+    "business": "Business",
+    "medicine": "Medizin",
+    "chemistry": "Chemie",
+    "physics": "Physik",
+    "biology": "Biologie"
+  }
+}

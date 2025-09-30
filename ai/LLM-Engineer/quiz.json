@@ -1,0 +1,1926 @@
+{
+  "quiz": {
+    "title": "LLM Engineer's Quiz",
+    "description": "Dieses Quiz testet Wissen zu Grundlagen, Konzepten und Verfahren aus dem LLM Engineer's Handbook.",
+    "language": "de",
+    "version": "1.0.0",
+    "metadata": {
+      "createdAt": "2025-09-24T10:00:00Z",
+      "notes": "Fragen zu allen Kapiteln des LLM Engineer's Handbook"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 90
+    },
+    "sourceDocument": {
+      "title": "LLM Engineer's Handbook",
+      "version": "1.0",
+      "year": 2024,
+      "pdfFilename": "LLM_Engineers_Handbook.pdf"
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist das Hauptziel von LLM Engineering laut dem Handbook?",
+        "options": [
+          "Effektive Implementierung, Optimierung und Deployment von LLMs in der Praxis",
+          "Nur die Entwicklung von Trainingsdaten für LLMs",
+          "Primär die Forschung an neuen Sprachmodell-Architekturen",
+          "Die ausschließliche Nutzung von Open-Source-LLMs"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Handbook beschreibt LLM Engineering als die Praxis, LLMs effizient in realen Szenarien einzusetzen. Forschung und Open-Source sind wichtig, aber nicht der Hauptfokus.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Preface",
+          "pages": "S. 22",
+          "chapter": "Preface"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Rolle spielt MLOps im Zusammenhang mit LLMs?",
+        "options": [
+          "Es erweitert DevOps-Prinzipien auf den gesamten ML-Lebenszyklus",
+          "Es ersetzt klassische Datenbanken vollständig",
+          "Es wird nur beim Training kleiner Modelle benötigt",
+          "Es dient primär der Hardware-Beschaffung"
+        ],
+        "correctIndex": 0,
+        "explanation": "MLOps sorgt für Automatisierung und Reproduzierbarkeit im ML-Lifecycle. Es hat nichts mit Hardware-Beschaffung zu tun.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Preface",
+          "pages": "S. 23",
+          "chapter": "Preface"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Welche Herausforderung adressiert MLOps besonders bei LLMs?",
+        "options": [
+          "Umgang mit großen Datensätzen und Modellversionierung",
+          "Reduktion der Energiepreise",
+          "Berechnung der optimalen Lernrate",
+          "Entwicklung von UI-Komponenten"
+        ],
+        "correctIndex": 0,
+        "explanation": "MLOps löst Probleme wie Datenmengen, Versionierung und Reproduzierbarkeit. UI und Energiepreise sind nicht das Hauptthema.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Preface",
+          "pages": "S. 23-24",
+          "chapter": "Preface"
+        },
+        "tags": ["Regel", "Definition"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Welches Werkzeug wird im Handbook für Python-Dependency-Management empfohlen?",
+        "options": [
+          "Poetry",
+          "Pipenv",
+          "Conda",
+          "Virtualenv"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Handbook setzt auf Poetry, um Abhängigkeiten konsistent zu verwalten. Andere Tools werden nicht primär verwendet.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 2",
+          "pages": "S. 55",
+          "chapter": "Tooling and Installation"
+        },
+        "tags": ["Tool", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Wozu dient Docker laut Kapitel 2 des Handbooks?",
+        "options": [
+          "Zum Bereitstellen konsistenter Entwicklungs- und Produktionsumgebungen",
+          "Zur Erstellung neuronaler Netze ohne Code",
+          "Als Ersatz für Poetry",
+          "Zur direkten Optimierung von Trainingsdaten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Docker schafft reproduzierbare Umgebungen. Es ist kein Trainingsdaten-Tool und ersetzt nicht Poetry.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 2",
+          "pages": "S. 55",
+          "chapter": "Tooling and Installation"
+        },
+        "tags": ["Definition", "Tool"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q6",
+        "text": "Welche Cloud-Plattform wird im Handbook besonders für Training und Deployment genutzt?",
+        "options": [
+          "AWS SageMaker",
+          "Google Colab",
+          "Microsoft Azure Notebooks",
+          "IBM Watson Studio"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Handbook setzt auf AWS SageMaker für Training und Deployment. Andere Plattformen werden erwähnt, aber nicht priorisiert.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 2",
+          "pages": "S. 55",
+          "chapter": "Tooling and Installation"
+        },
+        "tags": ["Tool", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Welche Aufgabe übernimmt ZenML im Projektkontext?",
+        "options": [
+          "Orchestrierung von ML-Pipelines",
+          "Erstellung von Visualisierungen",
+          "Schreiben von Prompts",
+          "Direktes Training von LLMs"
+        ],
+        "correctIndex": 0,
+        "explanation": "ZenML dient als Orchestrator für ML-Pipelines. Prompts und Visualisierung sind andere Tools.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 2",
+          "pages": "S. 55",
+          "chapter": "Tooling and Installation"
+        },
+        "tags": ["Tool", "Definition"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Welches Problem soll mit Dockerfile-Optimierung vermieden werden?",
+        "options": [
+          "Lange Build-Zeiten durch unnötiges Neuladen aller Layer",
+          "Falsche Prompt-Inhalte",
+          "Fehler bei der Modellquantisierung",
+          "Verlust von Trainingsdaten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein optimiertes Dockerfile reduziert Build-Zeiten. Prompt- oder Trainingsdaten-Themen sind hier irrelevant.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 2",
+          "pages": "S. 455",
+          "chapter": "MLOps and LLMOps"
+        },
+        "tags": ["Regel", "Tool"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Welche Aufgabe übernimmt Poetry laut Handbook im Projektsetup?",
+        "options": [
+          "Installation und Verwaltung von Projektabhängigkeiten",
+          "Versionierung von Trainingsdaten",
+          "Erstellung von GPU-Clustern",
+          "Deployment von REST-APIs"
+        ],
+        "correctIndex": 0,
+        "explanation": "Poetry ist ein Dependency-Manager. Es ist nicht für Cluster oder API-Deployment gedacht.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 2",
+          "pages": "S. 54",
+          "chapter": "Tooling and Installation"
+        },
+        "tags": ["Tool", "Definition"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "Welche zusätzliche Komponente wird in Kapitel 2 für Cloud-Zugriff konfiguriert?",
+        "options": [
+          "AWS CLI",
+          "Docker Swarm",
+          "Kubernetes Dashboard",
+          "TensorFlow Serving"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Handbook beschreibt die Einrichtung der AWS CLI zur Cloud-Interaktion. Andere Tools sind nicht Kernbestandteil.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 2",
+          "pages": "S. 55",
+          "chapter": "Tooling and Installation"
+        },
+        "tags": ["Tool", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Welche Aufgabe hat das Data Engineering im LLM Twin-Projekt laut Handbook?",
+        "options": [
+          "Sammeln, Bereinigen und Strukturieren von Rohdaten für nachfolgende Pipelines",
+          "Direktes Trainieren von LLMs ohne Datenvorbereitung",
+          "Visualisierung von Prompt-Antworten",
+          "Entwicklung neuer Transformer-Architekturen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Data Engineering stellt die Datenbasis her, indem Rohdaten gesammelt, bereinigt und strukturiert werden. Es trainiert keine Modelle direkt.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 3",
+          "pages": "S. 91",
+          "chapter": "Data Engineering"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q12",
+        "text": "Welcher Vorteil entsteht laut Handbook durch die Verwendung von ZenML-Artefakten im Data Engineering?",
+        "options": [
+          "Nachvollziehbarkeit und Debugging einzelner Pipeline-Runs",
+          "Automatisches Feintuning von Sprachmodellen",
+          "Reduktion der Rechenleistung im Training",
+          "Optimierung von Docker-Images"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artefakte dokumentieren Ergebnisse und Metadaten jeder Pipeline, was Debugging erleichtert. Feintuning oder Docker sind andere Themen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 3",
+          "pages": "S. 91-92",
+          "chapter": "Data Engineering"
+        },
+        "tags": ["Definition", "Verfahren"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Welche Dokumentklassen werden im Data Engineering für NoSQL-Strukturen eingeführt?",
+        "options": [
+          "ArticleDocument, PostDocument, RepositoryDocument",
+          "UserDocument, PromptDocument, AnswerDocument",
+          "VectorDocument, ModelDocument, ConfigDocument",
+          "TrainingDocument, ValidationDocument, TestDocument"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die drei Klassen ArticleDocument, PostDocument und RepositoryDocument strukturieren Daten in MongoDB. Die anderen genannten gibt es hier nicht.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 3",
+          "pages": "S. 80",
+          "chapter": "Data Engineering"
+        },
+        "tags": ["Definition", "Tool"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Welches Softwaremuster wird für die Implementierung der Dokumentklassen verwendet?",
+        "options": [
+          "Object-Document Mapping (ODM)",
+          "Model-View-Controller (MVC)",
+          "Event Sourcing",
+          "Observer Pattern"
+        ],
+        "correctIndex": 0,
+        "explanation": "ODM wird verwendet, um Klassen mit der NoSQL-Datenbank zu verbinden. MVC oder Event Sourcing sind hier nicht relevant.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 3",
+          "pages": "S. 80",
+          "chapter": "Data Engineering"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Wozu dient der Einsatz von Pydantic im Data Engineering?",
+        "options": [
+          "Validierung und Konsistenzprüfung der Datensätze",
+          "Optimierung der GPU-Nutzung beim Training",
+          "Automatische Generierung von Dockerfiles",
+          "Berechnung der Modellgenauigkeit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Pydantic wird genutzt, um Typvalidierung und Konsistenz sicherzustellen. GPU-Optimierung oder Modellgenauigkeit gehören nicht dazu.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 3",
+          "pages": "S. 80",
+          "chapter": "Data Engineering"
+        },
+        "tags": ["Tool", "Definition"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q16",
+        "text": "Welche Funktion übernimmt die Klasse UserDocument?",
+        "options": [
+          "Speichern und Abrufen von Benutzerinformationen in der Datenbank",
+          "Training von Embeddings",
+          "Verwaltung von API-Endpunkten",
+          "Berechnung von Metriken für das Monitoring"
+        ],
+        "correctIndex": 0,
+        "explanation": "UserDocument dient der Verwaltung von Benutzerinformationen in MongoDB. Es trainiert keine Embeddings.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 3",
+          "pages": "S. 93",
+          "chapter": "Data Engineering"
+        },
+        "tags": ["Definition", "Tool"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q17",
+        "text": "Welchen Zweck erfüllen die Output-Artefakte wie crawled_links im Data Engineering?",
+        "options": [
+          "Sie dokumentieren die Quellen und Ergebnisse eines Crawl-Laufs",
+          "Sie speichern Zwischenergebnisse der Modellquantisierung",
+          "Sie enthalten Hyperparameter für Trainingsläufe",
+          "Sie speichern die komplette Modellarchitektur"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artefakte wie crawled_links zeigen, welche Links erfolgreich verarbeitet wurden. Sie haben nichts mit Modellarchitektur oder Quantisierung zu tun.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 3",
+          "pages": "S. 91",
+          "chapter": "Data Engineering"
+        },
+        "tags": ["Definition", "Verfahren"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Welche drei Arten von Crawlern werden im Handbook vorgestellt?",
+        "options": [
+          "GitHub, LangChain-HTML, Selenium-basierte Crawler",
+          "Twitter, Facebook, Instagram Crawler",
+          "HDFS, Spark, Hadoop Crawler",
+          "GPU, CPU, TPU Crawler"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Handbook zeigt GitHub-, LangChain- und Selenium-basierte Crawler. Social-Media- oder Hardware-Crawler sind nicht Teil davon.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 3",
+          "pages": "S. 109",
+          "chapter": "Data Engineering"
+        },
+        "tags": ["Tool", "Definition"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Welcher Vorteil ergibt sich laut Handbook aus der Nutzung von Klassen statt Dictionaries zur Datenstrukturierung?",
+        "options": [
+          "Reduzierte Laufzeitfehler durch explizite Attribute",
+          "Schnellere GPU-Auslastung",
+          "Automatisches Fine-Tuning",
+          "Verbesserte Cosine Similarity"
+        ],
+        "correctIndex": 0,
+        "explanation": "Klassen mit Attributen verhindern Fehler, da sie eindeutiger sind als Dictionaries. GPU oder Similarity spielen hier keine Rolle.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 3",
+          "pages": "S. 80",
+          "chapter": "Data Engineering"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Welche Abfrage wird im Beispiel genutzt, um Artikel eines bestimmten Autors aus MongoDB zu laden?",
+        "options": [
+          "ArticleDocument.bulk_find(author_id=...)",
+          "ArticleDocument.get_all()",
+          "MongoClient.find_by_name()",
+          "ArticleRepository.load_all()"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Handbook zeigt bulk_find mit author_id. Die anderen Methoden kommen dort nicht vor.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 3",
+          "pages": "S. 123",
+          "chapter": "Data Engineering"
+        },
+        "tags": ["Tool", "Verfahren"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q21",
+        "text": "Welche drei Hauptmodule umfasst das Vanilla-RAG-Framework?",
+        "options": [
+          "Ingestion, Retrieval, Generation",
+          "Training, Evaluation, Deployment",
+          "Logging, Monitoring, Alerting",
+          "Parsing, Tokenisierung, Übersetzung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Vanilla-RAG-Framework besteht aus Ingestion-, Retrieval- und Generation-Modulen. Training oder Monitoring gehören nicht zu diesem Kern.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 4",
+          "pages": "S. 131-132",
+          "chapter": "RAG Feature Pipeline"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q22",
+        "text": "Was geschieht im Ingestion-Pipeline-Schritt von RAG?",
+        "options": [
+          "Extraktion, Bereinigung, Chunking, Embedding und Laden in die Vektor-Datenbank",
+          "Direktes Generieren von Antworten ohne Kontext",
+          "Training neuer Modelle",
+          "Kompression von Prompts vor der Ausgabe"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Ingestion-Pipeline kümmert sich um Datenaufbereitung und Einspielen in die Vektor-DB. Antwortgenerierung oder Training passieren später.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 4",
+          "pages": "S. 133-134",
+          "chapter": "RAG Feature Pipeline"
+        },
+        "tags": ["Verfahren", "Definition"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Welche drei Optimierungsstufen kennt das erweiterte RAG-Design?",
+        "options": [
+          "Pre-retrieval, Retrieval, Post-retrieval",
+          "Training, Deployment, Monitoring",
+          "Datenbank, Netzwerk, Speicher",
+          "Tokenisierung, Normalisierung, Übersetzung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Optimierungen finden vor, während und nach dem Retrieval statt. Training oder Übersetzung sind keine Stufen von RAG.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 4",
+          "pages": "S. 147-148",
+          "chapter": "RAG Feature Pipeline"
+        },
+        "tags": ["Regel", "Verfahren"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Was bewirkt die Sliding-Window-Technik im RAG-Kontext?",
+        "options": [
+          "Sie überlappt Chunks, um Kontext an den Rändern zu bewahren",
+          "Sie erhöht die Batchgröße beim Training",
+          "Sie reduziert die Anzahl der Tokens im Prompt",
+          "Sie entfernt automatisch irrelevante Dokumente"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sliding-Window schafft Überlappungen zwischen Chunks und verbessert so die Retrieval-Qualität. Es hat nichts mit Training oder Batchgrößen zu tun.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 4",
+          "pages": "S. 148",
+          "chapter": "RAG Feature Pipeline"
+        },
+        "tags": ["Verfahren", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "Wann ist laut Handbook Fine-Tuning statt Prompt-Engineering sinnvoll?",
+        "options": [
+          "Wenn ein ausreichendes Instruction-Dataset vorliegt",
+          "Immer, da Prompt-Engineering überflüssig ist",
+          "Nur bei geschlossenen LLMs",
+          "Nie, da Fine-Tuning instabil ist"
+        ],
+        "correctIndex": 0,
+        "explanation": "Fine-Tuning lohnt sich, wenn genug Instruction-Daten vorhanden sind. Prompt-Engineering ist meist der erste Schritt.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 5",
+          "pages": "S. 236",
+          "chapter": "Supervised Fine-Tuning"
+        },
+        "tags": ["Regel", "Definition"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q26",
+        "text": "Welche drei Methoden für Supervised Fine-Tuning werden vorgestellt?",
+        "options": [
+          "Full Fine-Tuning, LoRA, QLoRA",
+          "Batch Processing, Few-Shot, Zero-Shot",
+          "Pruning, Quantisierung, Distillation",
+          "Gradient Descent, Momentum, AdamW"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Handbook stellt Full Fine-Tuning, LoRA und QLoRA als SFT-Methoden vor. Die anderen Optionen betreffen andere ML-Themen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 5",
+          "pages": "S. 236-237",
+          "chapter": "Supervised Fine-Tuning"
+        },
+        "tags": ["Definition", "Verfahren"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Welches Risiko besteht beim Fine-Tuning, wenn neues Wissen eingebracht wird?",
+        "options": [
+          "Erhöhte Halluzinationsrate",
+          "Geringerer Energieverbrauch",
+          "Schnellere Inferenz",
+          "Automatische Reduktion der Parameterzahl"
+        ],
+        "correctIndex": 0,
+        "explanation": "Fehlanpassungen durch neues Wissen können Halluzinationen verstärken. Energie oder Parameter sind nicht der Punkt.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 5",
+          "pages": "S. 236",
+          "chapter": "Supervised Fine-Tuning"
+        },
+        "tags": ["Regel", "Definition"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q28",
+        "text": "Was ist der Kernansatz von QLoRA?",
+        "options": [
+          "Quantisierung der Modellparameter auf 4-Bit und Training kleiner Adapter",
+          "Komplettes Training aller Modellgewichte",
+          "Ersetzen der Transformer-Architektur",
+          "Training nur auf synthetischen Daten"
+        ],
+        "correctIndex": 0,
+        "explanation": "QLoRA quantisiert die Basismodelle und nutzt kleine Adapter für das Fine-Tuning. Komplettes Training entfällt.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 5",
+          "pages": "S. 245",
+          "chapter": "Supervised Fine-Tuning"
+        },
+        "tags": ["Definition", "Verfahren"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Welche typischen Batchgrößen werden beim Fine-Tuning von LLMs verwendet?",
+        "options": [
+          "1 bis 32",
+          "128 bis 512",
+          "500 bis 1000",
+          "Über 10.000"
+        ],
+        "correctIndex": 0,
+        "explanation": "Im Handbook werden Batchgrößen zwischen 1 und 32 als üblich beschrieben. Sehr große Werte sind hier nicht realistisch.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 5",
+          "pages": "S. 246",
+          "chapter": "Supervised Fine-Tuning"
+        },
+        "tags": ["Regel", "Parameter"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q30",
+        "text": "Welche Technik erlaubt größere effektive Batchgrößen trotz kleiner GPU-Speicher?",
+        "options": [
+          "Gradient Accumulation",
+          "Dropout",
+          "Weight Decay",
+          "AdamW"
+        ],
+        "correctIndex": 0,
+        "explanation": "Durch Gradient Accumulation können kleine Mini-Batches schrittweise summiert werden. Dropout oder Weight Decay haben andere Funktionen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 5",
+          "pages": "S. 246",
+          "chapter": "Supervised Fine-Tuning"
+        },
+        "tags": ["Verfahren", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q31",
+        "text": "Was ist das Hauptziel von Preference Alignment?",
+        "options": [
+          "Ausrichtung von Modellen auf menschliche Präferenzen durch Feedback",
+          "Kompression von Vektor-Embeddings",
+          "Automatische Optimierung von Batchgrößen",
+          "Ersetzung von Prompt Engineering"
+        ],
+        "correctIndex": 0,
+        "explanation": "Preference Alignment sorgt dafür, dass Modelle menschliche Präferenzen berücksichtigen. Es ersetzt nicht Prompt Engineering oder Optimierungstechniken.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 6",
+          "pages": "S. 258-259",
+          "chapter": "Fine-Tuning with Preference Alignment"
+        },
+        "tags": ["Definition", "Verfahren"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q32",
+        "text": "Welcher Ansatz wird im Handbook als zentrale Methode für Preference Alignment hervorgehoben?",
+        "options": [
+          "Direct Preference Optimization (DPO)",
+          "Weight Decay",
+          "Speculative Decoding",
+          "Gradient Accumulation"
+        ],
+        "correctIndex": 0,
+        "explanation": "DPO wird als zentrale, effiziente Methode zur Umsetzung von Preference Alignment genannt. Weight Decay und Gradient Accumulation gehören ins Training, nicht Alignment.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 6",
+          "pages": "S. 259",
+          "chapter": "Fine-Tuning with Preference Alignment"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q33",
+        "text": "Welche Stufen umfasst die Erstellung hochwertiger Preference-Datasets?",
+        "options": [
+          "Kuratierung, Deduplication, Decontamination, Qualitätsevaluation, Exploration, Generierung, Augmentation",
+          "Nur Sammlung und Speicherung",
+          "Hyperparameter-Tuning und Optimierung",
+          "Embedding und Chunking"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Handbook beschreibt mehrere Schritte wie Kuratierung und Decontamination, nicht nur Sammlung. Training und Embeddings gehören zu anderen Phasen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 6",
+          "pages": "S. 230",
+          "chapter": "Fine-Tuning with Preference Alignment"
+        },
+        "tags": ["Verfahren", "Definition"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Welches Risiko wird bei Fine-Tuning mit menschlichen Präferenzen besonders hervorgehoben?",
+        "options": [
+          "Biases wie Position- oder Längen-Bias bei LLM-Evaluierungen",
+          "Verlust von GPU-Speicher",
+          "Zu große Batchgrößen",
+          "Overfitting durch Sliding-Window"
+        ],
+        "correctIndex": 0,
+        "explanation": "LLM-Evaluierungen können durch Bias wie Längen-Bias verzerrt sein. Speicher- oder Chunking-Probleme sind andere Themen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 6",
+          "pages": "S. 265-266",
+          "chapter": "Fine-Tuning with Preference Alignment"
+        },
+        "tags": ["Regel", "Bias"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q35",
+        "text": "Was ist der Kern von Reinforcement Learning from Human Feedback (RLHF)?",
+        "options": [
+          "Kombination von RL mit menschlichem Feedback zur Belohnungsmodellierung",
+          "Automatisches Generieren von Vektor-Embeddings",
+          "Kompression der Modellparameter auf 4 Bit",
+          "Training ausschließlich mit synthetischen Daten"
+        ],
+        "correctIndex": 0,
+        "explanation": "RLHF kombiniert menschliches Feedback mit RL zur besseren Belohnungsmodellierung. Es hat nichts mit Embeddings oder Quantisierung zu tun.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 6",
+          "pages": "S. 274-275",
+          "chapter": "Fine-Tuning with Preference Alignment"
+        },
+        "tags": ["Definition", "Verfahren"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Was ist ein Vorteil von Pairwise Ranking gegenüber absolutem Scoring in Preference-Datasets?",
+        "options": [
+          "Es entspricht stärker menschlichem Bewertungsverhalten",
+          "Es benötigt keine menschlichen Bewertungen",
+          "Es reduziert automatisch die Modellgröße",
+          "Es eliminiert alle Bias-Effekte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Pairwise Ranking ahmt menschliches Vergleichen nach und ist oft präziser. Es beseitigt aber nicht alle Bias-Effekte.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 6",
+          "pages": "S. 266",
+          "chapter": "Fine-Tuning with Preference Alignment"
+        },
+        "tags": ["Verfahren", "Definition"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Wofür wird die LLM-as-a-judge Methode im Evaluationskontext genutzt?",
+        "options": [
+          "Bewertung der Qualität von Antworten durch ein Modell selbst",
+          "Direktes Fine-Tuning auf kleinen Datensätzen",
+          "Quantisierung von Gewichten",
+          "Erstellung von Embeddings"
+        ],
+        "correctIndex": 0,
+        "explanation": "LLM-as-a-judge nutzt ein Modell zur Bewertung von Antworten. Quantisierung und Embeddings sind andere Verfahren.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 7",
+          "pages": "S. 299-300",
+          "chapter": "Evaluating LLMs"
+        },
+        "tags": ["Verfahren", "Evaluation"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Welcher Nachteil kann bei LLM-as-a-judge auftreten?",
+        "options": [
+          "Bias zugunsten längerer oder selbstbewusster Antworten",
+          "Reduzierter GPU-Speicherbedarf",
+          "Automatisches Entfernen fehlerhafter Daten",
+          "Geringere Modellgenauigkeit durch Quantisierung"
+        ],
+        "correctIndex": 0,
+        "explanation": "LLM-as-a-judge kann längere Antworten bevorzugen, auch wenn sie qualitativ nicht besser sind. Speicher oder Quantisierung sind andere Themen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 7",
+          "pages": "S. 300",
+          "chapter": "Evaluating LLMs"
+        },
+        "tags": ["Bias", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Wodurch unterscheidet sich ML-Evaluation grundsätzlich von LLM-Evaluation?",
+        "options": [
+          "ML-Evaluation ist stärker auf strukturierte Daten fokussiert, LLM-Evaluation auf Sprachgenerierung",
+          "LLM-Evaluation ist ausschließlich numerisch, ML-Evaluation nicht",
+          "ML-Evaluation ist nur qualitativ, LLM-Evaluation nur quantitativ",
+          "Es gibt keine Unterschiede"
+        ],
+        "correctIndex": 0,
+        "explanation": "ML-Evaluation arbeitet oft mit strukturierten Daten. LLMs hingegen erfordern Sprachbewertung und qualitative Ansätze.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 7",
+          "pages": "S. 291-292",
+          "chapter": "Evaluating LLMs"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q40",
+        "text": "Warum erfordert die Evaluation von RAG-Systemen eine Erweiterung klassischer LLM-Evaluierungen?",
+        "options": [
+          "Weil sowohl Generationsfähigkeit als auch Interaktion mit externen Informationsquellen bewertet werden muss",
+          "Weil RAG-Systeme keine Prompts verwenden",
+          "Weil RAG-Systeme nur Zahlen als Output liefern",
+          "Weil klassische Benchmarks wie MMLU nicht mehr existieren"
+        ],
+        "correctIndex": 0,
+        "explanation": "RAG-Evaluation muss zusätzlich die Interaktion mit externen Datenquellen berücksichtigen. Prompts und Benchmarks bleiben bestehen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 7",
+          "pages": "S. 299-300",
+          "chapter": "Evaluating LLMs"
+        },
+        "tags": ["Evaluation", "Verfahren"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q41",
+        "text": "Welches Ziel verfolgt die Inferenzoptimierung in Kapitel 8 besonders?",
+        "options": [
+          "Reduktion von Latenz, Steigerung des Durchsatzes und Minimierung des Speicherbedarfs",
+          "Erhöhung der Anzahl der Trainingsdatensätze",
+          "Automatische Generierung von Embeddings",
+          "Erstellung von Cloud-Berechtigungen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Inference Optimization zielt darauf ab, Latenz zu senken, Durchsatz zu steigern und Speicherbedarf zu reduzieren. Datensätze oder Cloud-Rechte gehören nicht dazu.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 8",
+          "pages": "S. 318-319",
+          "chapter": "Inference Optimization"
+        },
+        "tags": ["Definition", "Verfahren"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q42",
+        "text": "Welche Methoden gehören laut Handbook zu den wichtigsten Inferenzoptimierungen?",
+        "options": [
+          "Speculative Decoding, Model Parallelism, Weight Quantization",
+          "Batch Normalization, Gradient Clipping, Dropout",
+          "Transfer Learning, Data Augmentation, Early Stopping",
+          "Indexierung, Query Expansion, Prompt Engineering"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die drei explizit genannten Methoden sind Speculative Decoding, Model Parallelism und Quantisierung. Die anderen gehören in Training oder RAG.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 8",
+          "pages": "S. 318-319",
+          "chapter": "Inference Optimization"
+        },
+        "tags": ["Verfahren", "Tool"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q43",
+        "text": "Welche Rolle spielt Query Expansion in der RAG Inference Pipeline?",
+        "options": [
+          "Sie erweitert die ursprüngliche Nutzeranfrage in mehrere Varianten für bessere Retrieval-Ergebnisse",
+          "Sie reduziert die Modellparameter",
+          "Sie generiert Prompts ohne Kontext",
+          "Sie ersetzt die Vektor-Datenbank"
+        ],
+        "correctIndex": 0,
+        "explanation": "Query Expansion erzeugt Varianten einer Anfrage, um mehr Facetten relevanter Dokumente zu erfassen. Parameterreduktion ist nicht ihr Ziel.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 9",
+          "pages": "S. 349-350",
+          "chapter": "RAG Inference Pipeline"
+        },
+        "tags": ["Verfahren", "Definition"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q44",
+        "text": "Welches Problem löst Self-Querying im RAG-Retrieval?",
+        "options": [
+          "Es extrahiert Metadaten wie Autorennamen und nutzt diese als Filter",
+          "Es ersetzt die Embedding-Berechnung",
+          "Es führt automatisch Quantisierung durch",
+          "Es beschleunigt GPU-Berechnungen ohne Filter"
+        ],
+        "correctIndex": 0,
+        "explanation": "Self-Querying extrahiert Metadaten aus der Anfrage, die als Filter bei der Vektor-Suche dienen. Quantisierung oder GPU-Beschleunigung sind nicht die Aufgabe.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 9",
+          "pages": "S. 358-359",
+          "chapter": "RAG Inference Pipeline"
+        },
+        "tags": ["Definition", "Verfahren"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Was geschieht beim Reranking-Schritt in der RAG Inference Pipeline?",
+        "options": [
+          "Die Ergebnisse werden nach Relevanz sortiert und Top-K ausgewählt",
+          "Alle Embeddings werden neu berechnet",
+          "Das Modell wird erneut trainiert",
+          "Die Vektor-Datenbank wird neu indexiert"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beim Reranking werden die Ergebnisse mit einem Cross-Encoder neu bewertet und Top-K ausgewählt. Training oder Reindexing sind andere Prozesse.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 9",
+          "pages": "S. 364-365",
+          "chapter": "RAG Inference Pipeline"
+        },
+        "tags": ["Verfahren", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q46",
+        "text": "Warum wird die Retrieval-Logik im RAG-System auf ein separates Modul ausgelagert?",
+        "options": [
+          "Um die Verantwortung zu trennen und die Suche unabhängig optimieren zu können",
+          "Um Trainingsdaten automatisch zu generieren",
+          "Um Monitoring und Logging zu ersetzen",
+          "Um die Kosten von GPU-Instanzen zu reduzieren"
+        ],
+        "correctIndex": 0,
+        "explanation": "Durch Trennung bleibt die Feature-Pipeline unabhängig und Retrieval kann separat optimiert werden. Trainingsdaten oder Monitoring sind nicht das Ziel.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 9",
+          "pages": "S. 348-349",
+          "chapter": "RAG Inference Pipeline"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Was versteht man unter einem Filtered Vector Search?",
+        "options": [
+          "Eine Vektorsuche, die durch extrahierte Metadaten wie Tags eingeschränkt wird",
+          "Eine Suche ohne Embeddings",
+          "Eine Suche, die nur numerische IDs berücksichtigt",
+          "Eine Suchmethode für GPUs"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beim Filtered Vector Search werden zusätzliche Metadatenfilter eingesetzt. IDs oder GPU-Spezifika sind nicht das Thema.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 9",
+          "pages": "S. 349-350",
+          "chapter": "RAG Inference Pipeline"
+        },
+        "tags": ["Definition", "Verfahren"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q48",
+        "text": "Welche Kombination von Methoden verbessert die Qualität der Ergebnisse im RAG-System besonders?",
+        "options": [
+          "Query Expansion und Reranking",
+          "Dropout und Weight Decay",
+          "Batch Normalization und Early Stopping",
+          "Prompt Engineering und Quantisierung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Query Expansion erweitert die Anfrage, Reranking filtert die besten Ergebnisse. So steigt die Genauigkeit. Dropout oder Quantisierung sind andere Themen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 9",
+          "pages": "S. 364",
+          "chapter": "RAG Inference Pipeline"
+        },
+        "tags": ["Verfahren", "Regel"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q49",
+        "text": "Was ist die Hauptaufgabe der Klasse ContextRetriever?",
+        "options": [
+          "Sie orchestriert Query Expansion, Self-Query und Reranking zur kontextbasierten Suche",
+          "Sie trainiert Modelle von Grund auf neu",
+          "Sie erstellt Cloud-Deployments",
+          "Sie ersetzt Prompt Engineering"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der ContextRetriever verbindet mehrere Optimierungsschritte und liefert die kontextuell besten Dokumente zurück. Training oder Deployment sind nicht seine Aufgabe.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 9",
+          "pages": "S. 341-342",
+          "chapter": "RAG Inference Pipeline"
+        },
+        "tags": ["Tool", "Verfahren"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q50",
+        "text": "Welche Optimierungstechnik wird im Handbook als pre-retrieval Step hervorgehoben?",
+        "options": [
+          "Query Expansion",
+          "Speculative Decoding",
+          "Model Parallelism",
+          "Weight Quantization"
+        ],
+        "correctIndex": 0,
+        "explanation": "Query Expansion ist ein pre-retrieval Schritt, während Quantisierung und Speculative Decoding zur Inferenzoptimierung gehören.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 9",
+          "pages": "S. 349",
+          "chapter": "RAG Inference Pipeline"
+        },
+        "tags": ["Definition", "Verfahren"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q51",
+        "text": "Welche drei Deployment-Typen werden im Handbook für Inferenz beschrieben?",
+        "options": [
+          "Online Real-Time, Asynchronous, Offline Batch",
+          "GPU-only, CPU-only, TPU-only",
+          "Streaming, Micro-Batching, Quantized",
+          "Manual, Semi-Automated, Automated"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Handbook unterscheidet zwischen Online Real-Time, Asynchronous und Offline Batch Deployment. Hardwaretypen oder Automatisierungsgrade sind nicht die Kategorisierung.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 10",
+          "pages": "S. 385-386",
+          "chapter": "Inference Pipeline Deployment"
+        },
+        "tags": ["Definition", "Verfahren"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q52",
+        "text": "Was ist der Hauptunterschied zwischen Monolith- und Microservices-Architektur beim LLM Deployment?",
+        "options": [
+          "Monolithen sind einfacher zu warten, Microservices skalierbarer",
+          "Monolithen sind immer günstiger, Microservices immer teurer",
+          "Monolithen erlauben keine REST-APIs",
+          "Microservices erfordern keine Infrastruktur"
+        ],
+        "correctIndex": 0,
+        "explanation": "Monolithen bieten Einfachheit, während Microservices Flexibilität und Skalierbarkeit erlauben. REST-APIs oder Kostenfragen sind nicht der Kernunterschied.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 10",
+          "pages": "S. 398-399",
+          "chapter": "Inference Pipeline Deployment"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Welche vier Metriken werden für Latenz im LLM Deployment empfohlen?",
+        "options": [
+          "TTFT, TBT, TPS, TPOT",
+          "GPU-Auslastung, Speicherkosten, Energieverbrauch, Netzwerk-IO",
+          "BLEU, ROUGE, Accuracy, F1",
+          "RPS, FLOPS, Epochs, Steps"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Handbook nennt Time to First Token, Time Between Tokens, Tokens per Second und Time per Output Token als relevante Latenzmetriken.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 11",
+          "pages": "S. 443",
+          "chapter": "MLOps and LLMOps"
+        },
+        "tags": ["Metrik", "Regel"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q54",
+        "text": "Was ist LLMOps im Unterschied zu MLOps?",
+        "options": [
+          "LLMOps erweitert MLOps um die speziellen Herausforderungen großer Sprachmodelle",
+          "LLMOps ersetzt MLOps vollständig",
+          "LLMOps beschränkt sich auf UI-Design",
+          "LLMOps ignoriert Infrastrukturthemen"
+        ],
+        "correctIndex": 0,
+        "explanation": "LLMOps ist eine Spezialisierung von MLOps und befasst sich mit den besonderen Anforderungen von LLMs wie Größe, Komplexität und Prompt Management.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 11",
+          "pages": "S. 411",
+          "chapter": "MLOps and LLMOps"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q55",
+        "text": "Welches Beispiel für Trainingskosten wird im Handbook genannt?",
+        "options": [
+          "Training von GPT-4 ca. 100 Millionen US-Dollar",
+          "Fein-Tuning eines 7B-Modells ca. 1 Million US-Dollar",
+          "Deployment eines Modells in AWS kostenlos",
+          "Alle LLM-Trainings kosten unter 10.000 US-Dollar"
+        ],
+        "correctIndex": 0,
+        "explanation": "Es wird GPT-4 als Beispiel genannt, dessen Training etwa 100 Mio. US-Dollar gekostet haben soll. Kleinere Summen sind nicht realistisch.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 11",
+          "pages": "S. 440",
+          "chapter": "MLOps and LLMOps"
+        },
+        "tags": ["Regel", "Kosten"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q56",
+        "text": "Welche Kernkomponenten gehören zu einer LLMOps-Strategie?",
+        "options": [
+          "CI/CD, Continuous Training, Monitoring",
+          "Nur Hardware-Tuning",
+          "Nur Prompt-Engineering",
+          "Nur Cloud-Speicher"
+        ],
+        "correctIndex": 0,
+        "explanation": "LLMOps umfasst CI/CD, CT und Monitoring als Kernelemente. Nur Hardware oder Prompts decken den Umfang nicht ab.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 11",
+          "pages": "S. 432-434",
+          "chapter": "MLOps and LLMOps"
+        },
+        "tags": ["Definition", "Verfahren"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q57",
+        "text": "Welche Rolle spielt Prompt Monitoring in LLMOps?",
+        "options": [
+          "Es zeichnet Eingaben, Vorlagen, Tokens und Latenzen zur Analyse auf",
+          "Es ersetzt Versionierung",
+          "Es optimiert automatisch die Embeddings",
+          "Es reduziert die Modellgröße"
+        ],
+        "correctIndex": 0,
+        "explanation": "Prompt Monitoring trackt Inputs, Templates, Tokens und Performance-Metriken. Versionierung und Embeddings sind nicht seine Kernaufgabe.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 11",
+          "pages": "S. 443-444",
+          "chapter": "MLOps and LLMOps"
+        },
+        "tags": ["Verfahren", "Metrik"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q58",
+        "text": "Welche Cloud-Komponenten werden laut Handbook beim ZenML-Stack für LLMOps erstellt?",
+        "options": [
+          "IAM-Rollen, S3, ECR, SageMaker",
+          "GitHub Actions, Docker Hub, Slack",
+          "Redis, Kafka, Spark",
+          "Excel, Google Sheets, Tableau"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beim ZenML-Stack werden IAM-Rollen, S3-Speicher, ECR und SageMaker eingerichtet. Tools wie Excel oder Kafka gehören nicht dazu.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 11",
+          "pages": "S. 452",
+          "chapter": "MLOps and LLMOps"
+        },
+        "tags": ["Tool", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q59",
+        "text": "Welches Ziel verfolgt die CI/CD-Pipeline im Kontext von LLMOps?",
+        "options": [
+          "Automatisierung von Tests und Deployments",
+          "Visualisierung von Prompt-Antworten",
+          "Reduktion der Modellparameter",
+          "Training neuer Sprachmodelle ohne Daten"
+        ],
+        "correctIndex": 0,
+        "explanation": "CI/CD automatisiert Tests und Deployments. Training und Visualisierung sind andere Aufgaben.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 11",
+          "pages": "S. 434",
+          "chapter": "MLOps and LLMOps"
+        },
+        "tags": ["Regel", "Verfahren"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q60",
+        "text": "Welche Monitoring- und Alerting-Tools werden im Handbook genannt?",
+        "options": [
+          "Opik von Comet ML und ZenML Alerting",
+          "Excel und E-Mail",
+          "TensorFlow Serving",
+          "GitHub Pages"
+        ],
+        "correctIndex": 0,
+        "explanation": "Es werden Opik (Comet ML) und ZenML für Monitoring und Alerts genannt. Excel oder GitHub Pages spielen hier keine Rolle.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 11",
+          "pages": "S. 459",
+          "chapter": "MLOps and LLMOps"
+        },
+        "tags": ["Tool", "Monitoring"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q61",
+        "text": "Welche Testarten unterscheidet das Handbook im Kontext von ML- und LLM-Systemen?",
+        "options": [
+          "Unit, Integration, System, Acceptance, Stress",
+          "Nur Unit- und Regressionstests",
+          "Nur Smoke-Tests und UI-Tests",
+          "Keine, da ML-Modelle nicht getestet werden müssen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Handbook listet Unit-, Integrations-, System-, Akzeptanz- und Stresstests als Kategorien. Regressionstests laufen quer über alle Ebenen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 465",
+          "chapter": "Testing"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q62",
+        "text": "Was wird bei Datenvalidierungstests im ML-Kontext überprüft?",
+        "options": [
+          "Formate, Wertebereiche, Sonderzeichen und Sprachkonsistenz",
+          "GPU-Auslastung pro Sekunde",
+          "Tokenisierungsgeschwindigkeit",
+          "Anzahl der Trainings-Epochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Datenvalidierung umfasst z. B. Prüfung auf Nullwerte, erlaubte Kategorien oder Zeichencodierung. GPU- oder Token-Themen gehören nicht dazu.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 496",
+          "chapter": "Testing"
+        },
+        "tags": ["Verfahren", "Test"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q63",
+        "text": "Welche drei Kategorien umfasst das Behavior Testing nach dem CheckList-Ansatz?",
+        "options": [
+          "Invariance, Directional, Minimum Functionality",
+          "Precision, Recall, F1",
+          "Unit, Integration, System",
+          "Latency, Throughput, Cost"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der CheckList-Ansatz sieht Invariance-, Directional- und Minimum-Functionality-Tests vor. Klassische Metriken wie Precision/F1 sind andere Methoden.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 496",
+          "chapter": "Testing"
+        },
+        "tags": ["Verfahren", "Test"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q64",
+        "text": "Welche beiden Hauptkategorien von Monitoring werden im Handbook beschrieben?",
+        "options": [
+          "Systemmetriken und Modellmetriken",
+          "Nur GPU-Auslastung",
+          "Nur Nutzerfeedback",
+          "Nur Anzahl an Prompts"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Handbook unterscheidet System- und Modellmetriken, z. B. CPU/GPU-Verbrauch versus Genauigkeit. Andere Einzelaspekte greifen zu kurz.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 469",
+          "chapter": "Monitoring"
+        },
+        "tags": ["Monitoring", "Metrik"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q65",
+        "text": "Was versteht man unter Drift-Monitoring bei LLMs?",
+        "options": [
+          "Erkennung von Änderungen in Daten oder Modellverhalten über die Zeit",
+          "Automatische Erhöhung der Batchgröße",
+          "Kompression der Modellgewichte",
+          "Abschalten ungenutzter GPUs"
+        ],
+        "correctIndex": 0,
+        "explanation": "Drift-Monitoring dient dazu, Veränderungen im Datenstrom oder Modelloutput frühzeitig zu erkennen. Batchgröße oder GPU-Abschaltung sind andere Themen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 469",
+          "chapter": "Monitoring"
+        },
+        "tags": ["Definition", "Monitoring"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q66",
+        "text": "Was ist der Unterschied zwischen Monitoring und Observability laut Handbook?",
+        "options": [
+          "Monitoring zeigt bekannte Metriken, Observability erlaubt Ursachenanalyse unbekannter Probleme",
+          "Beides ist identisch",
+          "Observability ist nur für Hardware gedacht",
+          "Monitoring betrifft nur Kosten, Observability nur Geschwindigkeit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Monitoring trackt vordefinierte Metriken, Observability hilft bei der Ursachenanalyse von unerwarteten Problemen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 472",
+          "chapter": "Monitoring"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q67",
+        "text": "Welcher Aspekt ist zentral für Reproduzierbarkeit in ML-Systemen?",
+        "options": [
+          "Tracking von Code-, Daten- und Modellversionen",
+          "Einsatz zufälliger Seeds bei jedem Run",
+          "Ignorieren von Hyperparametern",
+          "Nutzung ausschließlich synthetischer Daten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Reproduzierbarkeit verlangt die Nachvollziehbarkeit aller Variablen wie Code, Daten und Hyperparameter. Zufälligkeit oder Ignorieren ist kontraproduktiv.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q68",
+        "text": "Welche Rolle spielen Seeds in reproduzierbaren ML-Experimenten?",
+        "options": [
+          "Sie reduzieren Zufälligkeit und machen Ergebnisse konsistenter",
+          "Sie beschleunigen GPU-Berechnungen",
+          "Sie verkleinern Datensätze",
+          "Sie dienen nur zur Kostenkontrolle"
+        ],
+        "correctIndex": 0,
+        "explanation": "Seeds dienen der Kontrolle pseudozufälliger Prozesse, damit Ergebnisse konsistent bleiben. GPU-Beschleunigung oder Datensätze sind andere Themen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Verfahren", "Definition"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q69",
+        "text": "Welche Tools helfen bei der Sicherstellung von Reproduzierbarkeit laut Handbook?",
+        "options": [
+          "DVC oder Artefaktmanagement für Datenversionierung",
+          "Excel-Makros",
+          "Nur Dockerfiles ohne Versionierung",
+          "Screenshots von Trainingsläufen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Handbook empfiehlt Tools wie DVC oder Artefaktmanager zur Nachverfolgbarkeit von Datenversionen. Excel oder Screenshots sind unzureichend.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Tool", "Regel"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q70",
+        "text": "Warum ist Reproduzierbarkeit in LLM-Experimenten besonders wichtig?",
+        "options": [
+          "Um Ergebnisse bei gleichem Input jederzeit wiederherstellen zu können",
+          "Um Energieverbrauch zu reduzieren",
+          "Um nur die schnellsten Modelle zu trainieren",
+          "Um Monitoring zu vermeiden"
+        ],
+        "correctIndex": 0,
+        "explanation": "Reproduzierbarkeit stellt sicher, dass bei gleichen Eingaben identische Ergebnisse entstehen, was für Validierung und Debugging entscheidend ist.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q71",
+        "text": "Welche Zielsetzung verfolgt das Testen von LLM-Systemen im Unterschied zu klassischer Software?",
+        "options": [
+          "Die Validierung, dass Modelle trotz nicht-deterministischem Verhalten korrekte Ergebnisse liefern",
+          "Das Sicherstellen, dass alle Codezeilen abgedeckt sind",
+          "Das Prüfen von GUI-Elementen in Benutzeroberflächen",
+          "Das Messen der Stromkosten pro Trainingslauf"
+        ],
+        "correctIndex": 0,
+        "explanation": "LLM-Tests fokussieren auf die Korrektheit und Stabilität von Ergebnissen trotz stochastischer Natur. GUI- oder Stromkostenanalysen sind nicht der Fokus.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 464-465",
+          "chapter": "Testing"
+        },
+        "tags": ["Definition", "Test"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q72",
+        "text": "Was wird als besonderes Risiko bei Modelltests hervorgehoben?",
+        "options": [
+          "Dass Modelle fehlerhafte Ergebnisse ohne Fehlermeldung liefern",
+          "Dass Unit-Tests zu lange dauern",
+          "Dass Datenbanken nicht erreichbar sind",
+          "Dass Tokenisierung zu viele Sonderzeichen produziert"
+        ],
+        "correctIndex": 0,
+        "explanation": "Modelle können fehlerhafte Outputs erzeugen, obwohl kein technischer Fehler auftritt. Das unterscheidet sie von klassischer Software.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 496",
+          "chapter": "Testing"
+        },
+        "tags": ["Regel", "Test"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q73",
+        "text": "Welche Systemmetriken sollten im Monitoring typischerweise verfolgt werden?",
+        "options": [
+          "CPU-, GPU- und Speicherauslastung",
+          "Nur Anzahl der API-Keys",
+          "Design der Benutzeroberfläche",
+          "Farbwerte der Visualisierung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Systemmetriken umfassen Hardware-Ressourcen wie CPU, GPU und Speicher. UI-Design oder Farben sind irrelevant.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 469",
+          "chapter": "Monitoring"
+        },
+        "tags": ["Monitoring", "Metrik"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q74",
+        "text": "Welche Modellmetriken werden als kritisch für LLM-Monitoring genannt?",
+        "options": [
+          "Genauigkeit, Halluzinationsrate, Relevanz des Kontexts",
+          "Nur Anzahl der gespeicherten Docker-Images",
+          "Länge des Codes in Zeilen",
+          "Zeitaufwand für Meetings"
+        ],
+        "correctIndex": 0,
+        "explanation": "Im Monitoring werden Qualitätsmetriken wie Accuracy, Hallucination Rate und Kontextrelevanz getrackt. Docker- oder Meetingdaten sind irrelevant.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 469",
+          "chapter": "Monitoring"
+        },
+        "tags": ["Definition", "Monitoring"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q75",
+        "text": "Was ist ein Beispiel für ein Alerting-Szenario in ZenML?",
+        "options": [
+          "Benachrichtigung bei Pipeline-Fehlschlag oder -Abschluss",
+          "Automatische Erstellung neuer Embeddings",
+          "Grafische UI-Optimierung",
+          "Kompression aller Vektordatenbanken"
+        ],
+        "correctIndex": 0,
+        "explanation": "ZenML kann Alerts bei Pipeline-Failure oder -Success senden. Embeddings oder Datenbanken sind nicht betroffen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 487",
+          "chapter": "Monitoring"
+        },
+        "tags": ["Tool", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q76",
+        "text": "Warum ist Observability für komplexe RAG-Pipelines wichtig?",
+        "options": [
+          "Weil sie Ursachen für fehlerhafte oder unerwartete Antworten sichtbar macht",
+          "Weil sie die GPU-Temperatur reduziert",
+          "Weil sie automatisch Trainingsdaten generiert",
+          "Weil sie Dockerfiles validiert"
+        ],
+        "correctIndex": 0,
+        "explanation": "Observability hilft, Probleme in komplexen Pipelines zu lokalisieren, wenn Monitoring allein nicht reicht. GPU-Temperatur oder Dockerfiles sind nicht der Kern.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 472",
+          "chapter": "Monitoring"
+        },
+        "tags": ["Verfahren", "Definition"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q77",
+        "text": "Was wird als Beispiel für deterministische Reproduzierbarkeit genannt?",
+        "options": [
+          "Setzen von Seeds für pseudozufällige Prozesse",
+          "Verwendung von immer neuen Daten",
+          "Änderung von Hyperparametern bei jedem Run",
+          "Ignorieren von Codeversionierung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Seeds sorgen für deterministische Ergebnisse bei wiederholten Runs. Neue Daten oder ignorierte Versionen gefährden Reproduzierbarkeit.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Definition", "Verfahren"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q78",
+        "text": "Welche drei Variablen müssen laut Handbook zur Sicherstellung der Reproduzierbarkeit versioniert werden?",
+        "options": [
+          "Code, Daten, Modelle",
+          "Nur Benutzeroberflächen",
+          "Nur Kostenberichte",
+          "Nur API-Zugänge"
+        ],
+        "correctIndex": 0,
+        "explanation": "Code-, Daten- und Modellversionierung sind zentral für Reproduzierbarkeit. UI oder Kosten sind nicht Teil davon.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Regel", "Definition"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q79",
+        "text": "Welches Problem tritt auf, wenn Reproduzierbarkeit fehlt?",
+        "options": [
+          "Fehler können nicht verlässlich reproduziert und behoben werden",
+          "Alle Modelle werden automatisch besser",
+          "Das Monitoring entfällt",
+          "Docker-Images werden kleiner"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ohne Reproduzierbarkeit können Fehler nicht stabil nachvollzogen werden, was Debugging erschwert. Automatische Verbesserungen gibt es nicht.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Regel", "Verfahren"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q80",
+        "text": "Welche Hilfsmittel nennt das Handbook zur Versionskontrolle von Daten?",
+        "options": [
+          "DVC oder Artefaktmanagement-Systeme",
+          "Nur GitHub Issues",
+          "Nur Excel-Sheets",
+          "Nur manuelle Logs"
+        ],
+        "correctIndex": 0,
+        "explanation": "Für Datenversionierung werden Tools wie DVC oder Artefaktmanagement empfohlen. Manuelle Logs sind nicht ausreichend.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Tool", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q81",
+        "text": "Warum ist es bei LLM-Systemen besonders wichtig, Regressionstests regelmäßig durchzuführen?",
+        "options": [
+          "Um sicherzustellen, dass neue Änderungen keine alten Fehler wieder einführen",
+          "Um die GPU-Temperatur konstant zu halten",
+          "Um die Anzahl der Trainingsdaten automatisch zu erhöhen",
+          "Um die Stromkosten zu senken"
+        ],
+        "correctIndex": 0,
+        "explanation": "Regressionstests prüfen, ob bekannte Fehler nach Änderungen wieder auftreten. GPU-Temperatur oder Stromkosten sind nicht das Ziel solcher Tests.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 465-466",
+          "chapter": "Testing"
+        },
+        "tags": ["Test", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q82",
+        "text": "Welches Beispiel für einen Invarianztest wird im Handbook genannt?",
+        "options": [
+          "Synonym-Ersatz im Input darf das Ergebnis nicht verändern",
+          "Ändern der Batchgröße muss die Antwort ändern",
+          "Ändern der GPU sollte den Output ändern",
+          "Verwendung von Random Seeds erzeugt immer andere Ergebnisse"
+        ],
+        "correctIndex": 0,
+        "explanation": "Invarianztests prüfen, dass kleine Änderungen im Input (z. B. Synonyme) den Output nicht verändern. Hardwareänderungen sind kein Invarianztest.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 496",
+          "chapter": "Testing"
+        },
+        "tags": ["Test", "Verfahren"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q83",
+        "text": "Welche Funktion erfüllen Akzeptanztests in ML/LLM-Systemen?",
+        "options": [
+          "Sie validieren, dass das Gesamtsystem die Geschäftsanforderungen erfüllt",
+          "Sie messen die GPU-Auslastung pro Sekunde",
+          "Sie optimieren die Tokenisierung",
+          "Sie ersetzen Unit- und Integrationstests"
+        ],
+        "correctIndex": 0,
+        "explanation": "Akzeptanztests prüfen, ob ein System den definierten Anforderungen entspricht. GPU oder Tokenisierung sind hier nicht relevant.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 465",
+          "chapter": "Testing"
+        },
+        "tags": ["Definition", "Test"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q84",
+        "text": "Welche Art von Drift kann im Monitoring auftreten?",
+        "options": [
+          "Daten-Drift und Modell-Drift",
+          "Nur Stromkosten-Drift",
+          "Nur Hardware-Drift",
+          "Nur User-Interface-Drift"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Handbook unterscheidet zwischen Daten-Drift (Änderung in den Eingabedaten) und Modell-Drift (Leistungsänderungen). UI oder Stromkosten sind keine Drifts.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 469",
+          "chapter": "Monitoring"
+        },
+        "tags": ["Monitoring", "Definition"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q85",
+        "text": "Welche Rolle spielen Alerts im Produktionsbetrieb von LLMs?",
+        "options": [
+          "Frühzeitiges Erkennen und Melden von Fehlern oder ungewöhnlichen Mustern",
+          "Sie erhöhen die Batchgröße",
+          "Sie reduzieren automatisch die Anzahl der Parameter",
+          "Sie deaktivieren Monitoring"
+        ],
+        "correctIndex": 0,
+        "explanation": "Alerts helfen, Probleme frühzeitig zu erkennen und gegenzusteuern. Batchgröße oder Parameterreduktion sind keine direkten Funktionen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 473",
+          "chapter": "Monitoring"
+        },
+        "tags": ["Monitoring", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q86",
+        "text": "Welche Bedeutung hat die Versionierung von Daten im Kontext der Reproduzierbarkeit?",
+        "options": [
+          "Nur so lassen sich Ergebnisse bei späteren Experimenten nachvollziehen",
+          "Versionierung ist für Daten nicht notwendig",
+          "Sie dient nur der Reduktion von Hardwarekosten",
+          "Sie wird durch Dockerfiles automatisch erledigt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ohne Datenversionierung können Ergebnisse nicht reproduziert werden. Hardwarekosten oder Dockerfiles allein decken dies nicht ab.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q87",
+        "text": "Warum ist es problematisch, wenn Hyperparameter nicht dokumentiert werden?",
+        "options": [
+          "Weil Experimente dann nicht mehr reproduzierbar sind",
+          "Weil dadurch automatisch Overfitting entsteht",
+          "Weil dann kein Monitoring mehr möglich ist",
+          "Weil die Modellgröße sofort zunimmt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ohne dokumentierte Hyperparameter lassen sich Ergebnisse nicht reproduzieren. Overfitting oder Monitoring hängen nicht direkt davon ab.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Regel", "Definition"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q88",
+        "text": "Welche klassische Methode unterstützt die Sicherstellung von Reproduzierbarkeit im Training?",
+        "options": [
+          "Setzen deterministischer Seeds",
+          "Ignorieren von Datenanomalien",
+          "Erhöhen der Batchgröße",
+          "Nutzung von zufälligen API-Keys"
+        ],
+        "correctIndex": 0,
+        "explanation": "Seeds reduzieren die Zufälligkeit in Prozessen und ermöglichen reproduzierbare Ergebnisse. Zufällige Keys oder ignorierte Daten sind kontraproduktiv.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Verfahren", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q89",
+        "text": "Was ist ein zentrales Risiko nicht-reproduzierbarer ML-Prozesse?",
+        "options": [
+          "Bugs lassen sich schwer nachvollziehen und beheben",
+          "Die Trainingszeit verkürzt sich automatisch",
+          "Modelle werden präziser",
+          "Die Anzahl der Parameter sinkt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ohne Reproduzierbarkeit ist Debugging kaum möglich. Es entstehen keine automatischen Vorteile für Präzision oder Parameteranzahl.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q90",
+        "text": "Welche Tools nennt das Handbook für die Nachvollziehbarkeit von Experimenten?",
+        "options": [
+          "Comet ML, W&B, MLflow, Neptune",
+          "Excel, PowerPoint",
+          "Slack, Discord",
+          "Random Seed Generator"
+        ],
+        "correctIndex": 0,
+        "explanation": "Comet ML, W&B, MLflow und Neptune werden als gängige Tools für Experiment-Tracking genannt. Office-Programme oder Messenger sind ungeeignet.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Tool", "Verfahren"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q91",
+        "text": "Welche Rolle spielen Logs im Monitoring von LLM-Systemen?",
+        "options": [
+          "Sie zeichnen Eingaben, Ausgaben und Zwischenschritte auf",
+          "Sie optimieren automatisch die GPU-Leistung",
+          "Sie reduzieren die Batchgröße",
+          "Sie komprimieren Trainingsdaten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Logs sind essenziell, um den Ablauf von Eingaben, Ausgaben und internen Schritten nachvollziehbar zu machen. Sie haben nichts mit GPU-Optimierung oder Datenkompression zu tun.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 468",
+          "chapter": "Monitoring"
+        },
+        "tags": ["Monitoring", "Definition"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q92",
+        "text": "Welches Ziel verfolgt Stress-Testing bei ML/LLM-Systemen?",
+        "options": [
+          "Prüfen der Stabilität unter extremen Bedingungen wie hoher Last",
+          "Automatische Reduktion der Modellparameter",
+          "Generierung neuer Embeddings",
+          "Einsparung von Cloud-Kosten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Stress-Tests prüfen, ob Systeme unter Last stabil bleiben. Parameterreduktion oder Kosteneinsparung sind nicht der Zweck.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 465",
+          "chapter": "Testing"
+        },
+        "tags": ["Test", "Verfahren"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q93",
+        "text": "Warum reichen klassische Unit-Tests allein nicht für ML-Systeme aus?",
+        "options": [
+          "Weil ML-Modelle nicht-deterministisch sind und fehlerhafte Ergebnisse ohne Fehlercode liefern können",
+          "Weil Unit-Tests immer GPU-Speicher benötigen",
+          "Weil Unit-Tests ausschließlich für Python geeignet sind",
+          "Weil Unit-Tests nur in Cloud-Umgebungen funktionieren"
+        ],
+        "correctIndex": 0,
+        "explanation": "Unit-Tests decken deterministische Software gut ab, aber ML-Modelle können falsche Ergebnisse liefern, ohne Fehler zu werfen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 496",
+          "chapter": "Testing"
+        },
+        "tags": ["Test", "Definition"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q94",
+        "text": "Welche Kennzahl ist ein Beispiel für eine Systemmetrik im LLM-Monitoring?",
+        "options": [
+          "GPU-Auslastung",
+          "Halluzinationsrate",
+          "Antwortgenauigkeit",
+          "Relevanz von Kontextdokumenten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Systemmetriken beziehen sich auf Hardware-Ressourcen wie GPU-Auslastung. Genauigkeit und Kontextrelevanz sind Modellmetriken.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 469",
+          "chapter": "Monitoring"
+        },
+        "tags": ["Monitoring", "Metrik"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q95",
+        "text": "Was ist ein Beispiel für eine Modellmetrik, die im Monitoring wichtig ist?",
+        "options": [
+          "Genauigkeit oder Halluzinationsrate",
+          "CPU-Auslastung",
+          "RAM-Verbrauch",
+          "Festplatten-I/O"
+        ],
+        "correctIndex": 0,
+        "explanation": "Modellmetriken beziehen sich auf die Leistung des Modells wie Genauigkeit oder Halluzinationen, während CPU und RAM Systemmetriken sind.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 469",
+          "chapter": "Monitoring"
+        },
+        "tags": ["Definition", "Monitoring"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q96",
+        "text": "Warum ist Observability komplexer als reines Monitoring?",
+        "options": [
+          "Weil Observability Ursachen unbekannter Probleme analysieren kann",
+          "Weil Observability keine Logs erlaubt",
+          "Weil Observability ausschließlich GPU-bezogen ist",
+          "Weil Observability nur für Finetuning genutzt wird"
+        ],
+        "correctIndex": 0,
+        "explanation": "Observability ermöglicht tiefergehende Ursachenanalysen und geht über reines Messen hinaus. GPU oder Finetuning spielen dabei keine Hauptrolle.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 12",
+          "pages": "S. 472",
+          "chapter": "Monitoring"
+        },
+        "tags": ["Definition", "Verfahren"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q97",
+        "text": "Welche Maßnahmen erhöhen die Reproduzierbarkeit von ML-Experimenten?",
+        "options": [
+          "Versionierung von Daten, Modellen und Code",
+          "Ignorieren von Hyperparametern",
+          "Zufällige Initialisierung ohne Seed",
+          "Manuelles Kopieren von Daten in Excel"
+        ],
+        "correctIndex": 0,
+        "explanation": "Reproduzierbarkeit erfordert systematische Versionierung. Zufälligkeit oder manuelle Methoden reichen nicht aus.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Regel", "Definition"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q98",
+        "text": "Welches Risiko besteht bei fehlender Reproduzierbarkeit in der Forschung?",
+        "options": [
+          "Ergebnisse können nicht überprüft oder nachgestellt werden",
+          "Modelle laufen automatisch schneller",
+          "Alle Fehler werden automatisch behoben",
+          "Die Infrastruktur wird billiger"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ohne Reproduzierbarkeit sind wissenschaftliche Ergebnisse nicht überprüfbar. Automatische Vorteile entstehen dadurch nicht.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Definition", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q99",
+        "text": "Welche Art von Tools helfen beim Nachvollziehen von Experimenten?",
+        "options": [
+          "Experiment-Tracker wie Comet ML oder MLflow",
+          "Bildbearbeitungssoftware",
+          "Videokonferenz-Tools",
+          "Webbrowser"
+        ],
+        "correctIndex": 0,
+        "explanation": "Comet ML, W&B, MLflow und Neptune sind für das Tracken von Experimenten gedacht. Browser oder Bildbearbeitung gehören nicht dazu.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Tool", "Verfahren"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q100",
+        "text": "Welcher Vorteil ergibt sich, wenn Seeds konsequent gesetzt werden?",
+        "options": [
+          "Konsistente und nachvollziehbare Ergebnisse",
+          "Geringere Energiekosten",
+          "Automatische Modellkompression",
+          "Wegfall von Monitoring"
+        ],
+        "correctIndex": 0,
+        "explanation": "Seeds reduzieren zufällige Varianz und sorgen für reproduzierbare Ergebnisse. Kosten oder Kompression sind nicht direkt betroffen.",
+        "source": {
+          "citation": "LLM Engineer's Handbook, Chapter 13",
+          "pages": "S. 473",
+          "chapter": "Reproducibility"
+        },
+        "tags": ["Regel", "Definition"],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

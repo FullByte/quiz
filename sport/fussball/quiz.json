@@ -1,0 +1,1926 @@
+{
+  "quiz": {
+    "title": "Fußball-Regeln 2025/2026",
+    "description": "Dieses Quiz umfasst Fragen zu Definitionen, Regeln, Fristen und Verfahren aus dem offiziellen Fußball-Regelwerk 2025/2026. Es enthält {questionCount} Fragen, die über mehrere Kapitel verteilt sind.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-09-25T12:00:00Z",
+      "notes": ""
+    },
+    "sourceDocument": {
+      "title": "Fußball-Regeln",
+      "version": "2025/2026",
+      "year": 2025,
+      "pdfFilename": "Fussball_Regelheft_2025_2026.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Welche Mindestanzahl an Spielern muss ein Team haben, damit ein Spiel begonnen oder fortgesetzt werden darf?",
+        "options": [
+          "6 Spieler",
+          "7 Spieler",
+          "8 Spieler",
+          "9 Spieler"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Spiel darf nicht begonnen oder fortgesetzt werden, wenn ein Team weniger als sieben Spieler hat. 6 Spieler reichen nicht aus, 8 oder 9 sind zwar erlaubt, aber keine Mindestvorgabe.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 17",
+          "chapter": "Regel 3 – Spieler"
+        },
+        "tags": ["Regel", "Definition"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Wie weit beträgt der Abstand zwischen Elfmeterpunkt und Torlinie?",
+        "options": [
+          "9,15 Meter",
+          "10,5 Meter",
+          "11 Meter",
+          "12 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Elfmeterpunkt ist genau 11 Meter von der Torlinie entfernt. Die 9,15 Meter gelten für Abstände bei Freistößen oder den Anstoßkreis.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 8",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Maße"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Welche maximale Anzahl an Auswechslungen ist bei offiziellen Wettbewerben zulässig?",
+        "options": [
+          "Drei",
+          "Fünf",
+          "Sechs",
+          "Unbegrenzt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei offiziellen Wettbewerben sind maximal fünf Auswechslungen erlaubt. Mehr Auswechslungen sind nur im Amateur- oder Jugendbereich möglich.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 17–18",
+          "chapter": "Regel 3 – Spieler"
+        },
+        "tags": ["Regel", "Spieler"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Wie lang darf die Halbzeitpause maximal sein?",
+        "options": [
+          "10 Minuten",
+          "12 Minuten",
+          "15 Minuten",
+          "20 Minuten"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Halbzeitpause darf maximal 15 Minuten betragen. Kürzere Pausen sind erlaubt, wenn beide Teams und der Schiedsrichter zustimmen.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 53",
+          "chapter": "Regel 7 – Dauer des Spiels"
+        },
+        "tags": ["Frist", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Wann gilt ein Tor als erzielt?",
+        "options": [
+          "Wenn der Ball die Torlinie teilweise überquert hat",
+          "Wenn der Ball die Torlinie zwischen den Pfosten vollständig überquert hat",
+          "Wenn der Ball den Torhüter berührt und ins Tor rollt",
+          "Wenn der Schiedsrichter ein Tor anzeigt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Tor ist nur dann gültig, wenn der Ball die Torlinie vollständig zwischen Pfosten und unterhalb der Latte überquert hat. Eine Teilüberschreitung reicht nicht.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 60",
+          "chapter": "Regel 10 – Bestimmung des Spielausgangs"
+        },
+        "tags": ["Definition", "Tor"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q6",
+        "text": "Was ist die maximale Breite der Spielfeldlinien?",
+        "options": [
+          "10 cm",
+          "12 cm",
+          "15 cm",
+          "20 cm"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Linien auf dem Spielfeld dürfen höchstens 12 cm breit sein. Damit soll eine klare Sichtbarkeit gewährleistet werden.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 7",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Maße"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Welche Eigenschaft muss ein Ball gemäß Regelwerk aufweisen?",
+        "options": [
+          "Er muss eiförmig sein",
+          "Er muss kugelförmig sein",
+          "Er muss viereckig sein",
+          "Er darf keine Nähte haben"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Ball muss kugelförmig sein. Andere Formen sind nicht zulässig, da sie das Spiel verfälschen würden.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 15",
+          "chapter": "Regel 2 – Ball"
+        },
+        "tags": ["Definition", "Ausrüstung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Was passiert, wenn ein Team weniger als sieben Spieler während des Spiels hat?",
+        "options": [
+          "Das Spiel wird sofort abgebrochen",
+          "Das Spiel darf nicht fortgesetzt werden",
+          "Der Schiedsrichter entscheidet nach eigenem Ermessen",
+          "Das Team darf weiterspielen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Spiel darf nicht fortgesetzt werden, wenn ein Team weniger als sieben Spieler hat. Diese Regel dient der Fairness und Sicherheit.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 17",
+          "chapter": "Regel 3 – Spieler"
+        },
+        "tags": ["Regel", "Spielerzahl"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q9",
+        "text": "Welcher Abstand muss bei einem Freistoß mindestens eingehalten werden?",
+        "options": [
+          "7,5 Meter",
+          "8 Meter",
+          "9,15 Meter",
+          "10 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Mauer und alle Gegenspieler müssen bei einem Freistoß mindestens 9,15 Meter entfernt sein. Dieser Abstand ist international einheitlich.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 87–89",
+          "chapter": "Regel 13 – Freistöße"
+        },
+        "tags": ["Spielfortsetzung", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q10",
+        "text": "Was ist bei einem Einwurf verboten?",
+        "options": [
+          "Mit beiden Händen werfen",
+          "Über den Kopf werfen",
+          "Mit den Füßen auf der Linie stehen",
+          "Seitlich einwerfen"
+        ],
+        "correctIndex": 3,
+        "explanation": "Der Ball muss von hinten über den Kopf ins Spielfeld geworfen werden. Ein seitlicher Wurf ist nicht erlaubt.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 97",
+          "chapter": "Regel 15 – Einwurf"
+        },
+        "tags": ["Spielfortsetzung", "Technik"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q11",
+        "text": "Welche Mindesthöhe muss eine Eckfahnenstange haben?",
+        "options": [
+          "1,0 Meter",
+          "1,2 Meter",
+          "1,5 Meter",
+          "2,0 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eckfahnenstangen müssen mindestens 1,5 Meter hoch sein. Niedrigere Höhen sind nicht erlaubt.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 9",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Maße"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q12",
+        "text": "Wie schwer muss ein Ball zu Spielbeginn mindestens wiegen?",
+        "options": [
+          "350 g",
+          "370 g",
+          "410 g",
+          "450 g"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Ball muss zu Spielbeginn mindestens 410 g und höchstens 450 g wiegen. Ein Gewicht von 350 g oder 370 g wäre zu leicht.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 15",
+          "chapter": "Regel 2 – Ball"
+        },
+        "tags": ["Ball", "Ausrüstung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Welche Spieler dürfen beim Elfmeterschießen teilnehmen?",
+        "options": [
+          "Alle Spieler, auch Ausgewechselte",
+          "Nur die Spieler, die am Ende des Spiels auf dem Feld stehen",
+          "Nur die Auswechselspieler",
+          "Alle Spieler und Trainer"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nur Spieler, die am Ende des Spiels auf dem Feld stehen (einschließlich kurzzeitig wegen Verletzung draußen), dürfen am Elfmeterschießen teilnehmen. Ausgewechselte sind ausgeschlossen.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 62",
+          "chapter": "Regel 10 – Bestimmung des Spielausgangs"
+        },
+        "tags": ["Elfmeterschießen", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Welcher Abstand muss beim Eckstoß mindestens eingehalten werden?",
+        "options": [
+          "5 Meter",
+          "7,5 Meter",
+          "9,15 Meter",
+          "10 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Gegenspieler müssen beim Eckstoß mindestens 9,15 Meter vom Eckviertelkreis entfernt sein.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 101",
+          "chapter": "Regel 17 – Eckstoß"
+        },
+        "tags": ["Spielfortsetzung", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q15",
+        "text": "Was geschieht, wenn der Ball bei einem Einwurf nicht korrekt ausgeführt wird?",
+        "options": [
+          "Der Einwurf wird wiederholt",
+          "Es gibt Freistoß",
+          "Das gegnerische Team führt den Einwurf aus",
+          "Es gibt Schiedsrichterball"
+        ],
+        "correctIndex": 2,
+        "explanation": "Wird ein Einwurf nicht korrekt ausgeführt, erhält das gegnerische Team den Einwurf. Ein Wiederholen ist nicht vorgesehen.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 97",
+          "chapter": "Regel 15 – Einwurf"
+        },
+        "tags": ["Spielfortsetzung", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q16",
+        "text": "Welche maximale Nachspielzeit darf der Schiedsrichter verkürzen?",
+        "options": [
+          "Er darf sie verkürzen",
+          "Er darf sie verlängern, aber nicht verkürzen",
+          "Er darf sie frei anpassen",
+          "Er darf sie nur in der Verlängerung ändern"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Schiedsrichter darf die Nachspielzeit verlängern, jedoch nicht verkürzen. So soll ein Ausgleich für verlorene Zeit geschaffen werden.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 54",
+          "chapter": "Regel 7 – Dauer des Spiels"
+        },
+        "tags": ["Frist", "Zeit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Wann darf ein Torhüter den Ball mit den Händen aufnehmen?",
+        "options": [
+          "Immer im eigenen Strafraum",
+          "Nach einem absichtlichen Rückpass",
+          "Nach einem Einwurf des Mitspielers",
+          "Wenn er außerhalb des Strafraums steht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Torhüter darf den Ball nur innerhalb des eigenen Strafraums mit den Händen aufnehmen. Rückpässe oder Einwürfe vom Mitspieler sind ausgeschlossen.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 73–74",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Torhüter", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Wie viele Halbzeiten umfasst die reguläre Spielzeit?",
+        "options": [
+          "Eine Halbzeit zu 90 Minuten",
+          "Zwei Halbzeiten zu 45 Minuten",
+          "Vier Viertel zu 22,5 Minuten",
+          "Drei Drittel zu 30 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Spiel besteht aus zwei Halbzeiten zu jeweils 45 Minuten. Varianten gelten nur in Jugend- oder Sonderwettbewerben.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 53",
+          "chapter": "Regel 7 – Dauer des Spiels"
+        },
+        "tags": ["Regel", "Definition"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q19",
+        "text": "Welche Pflichtausrüstung gehört nicht dazu?",
+        "options": [
+          "Trikot mit Ärmeln",
+          "Kurze Hose",
+          "Schienbeinschoner",
+          "Handschuhe"
+        ],
+        "correctIndex": 3,
+        "explanation": "Handschuhe sind erlaubt, aber keine Pflichtausrüstung. Pflicht sind Trikot, Hose, Stutzen, Schienbeinschoner und Schuhe.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 26",
+          "chapter": "Regel 4 – Ausrüstung der Spieler"
+        },
+        "tags": ["Ausrüstung", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Welche Strafe droht einem Spieler, der den Schiedsrichter beleidigt?",
+        "options": [
+          "Keine Strafe",
+          "Verwarnung (Gelb)",
+          "Feldverweis (Rot)",
+          "5-Minuten-Zeitstrafe"
+        ],
+        "correctIndex": 2,
+        "explanation": "Beleidigungen gegenüber Schiedsrichtern sind feldverweiswürdig und führen zur roten Karte.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 80–82",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Disziplin", "Strafe"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Welches Signal zeigt der Schiedsrichter bei einem indirekten Freistoß?",
+        "options": [
+          "Er hebt beide Arme",
+          "Er hebt einen Arm über den Kopf",
+          "Er zeigt auf den Punkt",
+          "Er zeigt mit beiden Händen nach unten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein indirekter Freistoß wird durch Heben eines Arms über den Kopf angezeigt, das Signal bleibt bis zur Ausführung bestehen.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 87",
+          "chapter": "Regel 13 – Freistöße"
+        },
+        "tags": ["Schiedsrichter", "Zeichen"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q22",
+        "text": "Wann gilt ein Ball als aus dem Spiel?",
+        "options": [
+          "Wenn er die Linie nur teilweise überquert",
+          "Wenn er die Tor- oder Seitenlinie vollständig überquert",
+          "Wenn er den Schiedsrichter berührt",
+          "Wenn er die Latte trifft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Ball ist aus dem Spiel, wenn er die Tor- oder Seitenlinie vollständig überschreitet. Teilweise Überschreitung reicht nicht aus.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 59",
+          "chapter": "Regel 9 – Ball im und aus dem Spiel"
+        },
+        "tags": ["Ball", "Definition"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Welche Karte zeigt der Schiedsrichter bei einem Feldverweis?",
+        "options": [
+          "Gelbe Karte",
+          "Gelb-Rote Karte",
+          "Rote Karte",
+          "Keine Karte"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Feldverweis wird immer durch die rote Karte angezeigt. Die Gelb-Rote Karte bedeutet ebenfalls Platzverweis, aber aus zwei Verwarnungen.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 75–82",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Strafe", "Disziplin"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q24",
+        "text": "Wann darf ein Auswechselspieler das Spielfeld betreten?",
+        "options": [
+          "Zu jeder Zeit",
+          "Nur nach Zeichen des Schiedsrichters",
+          "Wenn er möchte",
+          "Nur in der Halbzeit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Auswechselspieler darf das Spielfeld nur bei einer Unterbrechung und nach Zeichen des Schiedsrichters betreten.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 21",
+          "chapter": "Regel 3 – Spieler"
+        },
+        "tags": ["Spieler", "Auswechslung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q25",
+        "text": "Welche Entscheidung fällt der Schiedsrichter, wenn ein Spieler absichtlich den Ball mit der Hand spielt?",
+        "options": [
+          "Indirekter Freistoß",
+          "Direkter Freistoß",
+          "Abstoß",
+          "Eckstoß"
+        ],
+        "correctIndex": 1,
+        "explanation": "Absichtliches Handspiel wird mit einem direkten Freistoß geahndet. Im Strafraum führt dies zu einem Strafstoß.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 71–73",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Handspiel", "Strafe"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Wann ist eine Torverhinderungsaktion zulässig?",
+        "options": [
+          "Nur mit den Händen außerhalb des Strafraums",
+          "Mit jedem Körperteil außer Hand/Arm",
+          "Nur mit den Füßen",
+          "Nie"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Torverhinderungsaktion liegt vor, wenn ein Spieler den Ball, der aufs Tor geht, mit einem Körperteil außer Hand/Arm abwehrt. Nur der Torhüter im Strafraum darf die Hände benutzen.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 67",
+          "chapter": "Regel 11 – Abseits"
+        },
+        "tags": ["Regel", "Tor"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Wie viele Spieler darf ein Team maximal auf dem Feld haben?",
+        "options": [
+          "10",
+          "11",
+          "12",
+          "Unbegrenzt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Team darf mit höchstens 11 Spielern spielen, davon einer als Torhüter. Mehr Spieler auf dem Feld sind nicht erlaubt.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 17",
+          "chapter": "Regel 3 – Spieler"
+        },
+        "tags": ["Regel", "Spielerzahl"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q28",
+        "text": "Was passiert, wenn die Querlatte während des Spiels bricht?",
+        "options": [
+          "Das Spiel wird sofort abgebrochen",
+          "Das Spiel läuft weiter",
+          "Der Schiedsrichterball entscheidet",
+          "Es wird ein Ersatztor aufgebaut, bevor es weitergeht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kann die Querlatte nicht sofort repariert werden, muss das Spiel abgebrochen werden. Ein Seil oder Ersatzmaterial ist nicht zulässig.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 12",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Sicherheit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q29",
+        "text": "Welche Spielfortsetzung erfolgt, wenn der Ball den Schiedsrichter berührt und ein Team dadurch einen aussichtsreichen Angriff startet?",
+        "options": [
+          "Weiterspielen",
+          "Indirekter Freistoß",
+          "Schiedsrichterball",
+          "Eckstoß"
+        ],
+        "correctIndex": 2,
+        "explanation": "Wenn der Ball den Schiedsrichter berührt und daraus ein aussichtsreicher Angriff entsteht, wird das Spiel mit Schiedsrichterball fortgesetzt.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 59",
+          "chapter": "Regel 9 – Ball im und aus dem Spiel"
+        },
+        "tags": ["Schiedsrichter", "Spielfortsetzung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Wie lange darf ein Torhüter den Ball mit den Händen kontrollieren?",
+        "options": [
+          "5 Sekunden",
+          "6 Sekunden",
+          "8 Sekunden",
+          "Unbegrenzt"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Torhüter darf den Ball maximal 8 Sekunden mit den Händen kontrollieren. Längere Kontrolle führt zu einem indirekten Freistoß.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 75",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Torhüter", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q31",
+        "text": "Wie hoch ist die Unterkante der Querlatte über dem Boden?",
+        "options": [
+          "2,00 Meter",
+          "2,24 Meter",
+          "2,44 Meter",
+          "2,50 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Unterkante der Querlatte muss 2,44 Meter über dem Boden liegen. Dies ist international einheitlich vorgeschrieben.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 12",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Maße"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q32",
+        "text": "Wie viele Auswechselgelegenheiten stehen einem Team bei fünf erlaubten Auswechslungen während der regulären Spielzeit zu?",
+        "options": [
+          "Zwei",
+          "Drei",
+          "Vier",
+          "Fünf"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Team hat bei fünf erlaubten Auswechslungen maximal drei Gelegenheiten während des Spiels sowie eine zusätzliche in der Halbzeitpause.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 17–18",
+          "chapter": "Regel 3 – Spieler"
+        },
+        "tags": ["Auswechslung", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q33",
+        "text": "Welche Mindestbreite muss die Torlinie haben?",
+        "options": [
+          "Sie darf keine Mindestbreite haben",
+          "Gleich der Breite der Torpfosten",
+          "Mindestens 10 cm",
+          "Mindestens 15 cm"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Torlinie muss gleich breit sein wie die Torpfosten und Querlatte. Eine feste Mindestbreite in cm ist nicht vorgeschrieben.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 7",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Maße"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Wann wird ein direkter Freistoß verhängt?",
+        "options": [
+          "Bei gefährlichem Spiel ohne Kontakt",
+          "Bei absichtlichem Handspiel",
+          "Bei Behinderung des Torwarts ohne Kontakt",
+          "Bei Abseitsstellung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein direkter Freistoß wird u. a. bei absichtlichem Handspiel oder Foul mit Körperkontakt verhängt. Gefährliches Spiel ohne Kontakt führt hingegen zu einem indirekten Freistoß.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 70–71",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Foul", "Strafe"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q35",
+        "text": "Welche Spieler dürfen eine Mauer beim Freistoß bilden?",
+        "options": [
+          "Nur das verteidigende Team",
+          "Beide Teams gemeinsam",
+          "Nur das angreifende Team",
+          "Alle Spieler, aber ohne Mindestabstand"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nur Spieler des verteidigenden Teams dürfen eine Mauer bilden. Angreifer müssen mindestens 1 m Abstand halten, wenn drei oder mehr Spieler in der Mauer stehen.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 88–89",
+          "chapter": "Regel 13 – Freistöße"
+        },
+        "tags": ["Freistoß", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Was passiert, wenn der Torhüter den Ball mehr als acht Sekunden kontrolliert?",
+        "options": [
+          "Das Spiel läuft weiter",
+          "Es gibt indirekten Freistoß",
+          "Es gibt direkten Freistoß",
+          "Es gibt Strafstoß"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hält der Torhüter den Ball länger als 8 Sekunden unter Kontrolle, entscheidet der Schiedsrichter auf indirekten Freistoß für das gegnerische Team.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 75",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Torhüter", "Zeit"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q37",
+        "text": "Welche Spielfortsetzung erfolgt, wenn ein Spieler beim Anstoß den Ball zweimal hintereinander berührt?",
+        "options": [
+          "Abstoß",
+          "Eckstoß",
+          "Indirekter Freistoß",
+          "Wiederholung des Anstoßes"
+        ],
+        "correctIndex": 2,
+        "explanation": "Wenn der ausführende Spieler den Ball beim Anstoß zweimal berührt, bevor ein anderer Spieler ihn spielt, gibt es einen indirekten Freistoß.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 57",
+          "chapter": "Regel 8 – Beginn und Fortsetzung des Spiels"
+        },
+        "tags": ["Anstoß", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Wann darf der Schiedsrichter eine Entscheidung nach Halbzeitende ändern?",
+        "options": [
+          "Gar nicht",
+          "Wenn er das Spielfeld verlassen hat",
+          "Wenn er sich in die Review Area begibt",
+          "Nur auf Hinweis der Spieler"
+        ],
+        "correctIndex": 2,
+        "explanation": "Nach Halbzeitende darf der Schiedsrichter eine Entscheidung ändern, wenn er sich in die Review Area begibt oder die Spieler zurückruft. Ansonsten sind Entscheidungen endgültig.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 32",
+          "chapter": "Regel 5 – Schiedsrichter"
+        },
+        "tags": ["Schiedsrichter", "VAR"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q39",
+        "text": "Welche Linie teilt das Spielfeld in zwei Hälften?",
+        "options": [
+          "Torlinie",
+          "Seitenlinie",
+          "Mittellinie",
+          "Strafraumlinie"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Mittellinie teilt das Spielfeld in zwei Hälften. Sie verbindet die Mittelpunkte der beiden Seitenlinien.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 7",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Definition"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q40",
+        "text": "Was geschieht, wenn ein Einwurf den Boden berührt, bevor er im Spielfeld ist?",
+        "options": [
+          "Der Einwurf wird wiederholt",
+          "Es gibt Freistoß",
+          "Der Einwurf wird dem Gegner zugesprochen",
+          "Es gibt Schiedsrichterball"
+        ],
+        "correctIndex": 0,
+        "explanation": "Wenn der Ball beim Einwurf den Boden berührt, bevor er im Spielfeld ist, wird der Einwurf vom gleichen Team wiederholt.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 97",
+          "chapter": "Regel 15 – Einwurf"
+        },
+        "tags": ["Spielfortsetzung", "Technik"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q41",
+        "text": "Was passiert, wenn der Ball bei einem Strafstoß nicht nach vorne geschossen wird?",
+        "options": [
+          "Tor zählt, wenn er ins Netz geht",
+          "Indirekter Freistoß für das gegnerische Team",
+          "Wiederholung des Strafstoßes",
+          "Abstoß"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Strafstoß muss nach vorne gespielt werden. Andernfalls gibt es einen indirekten Freistoß für das verteidigende Team.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 94",
+          "chapter": "Regel 14 – Strafstoß"
+        },
+        "tags": ["Strafstoß", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q42",
+        "text": "Welche Spielfortsetzung erfolgt, wenn der Ball ins eigene Tor aus einem direkten Freistoß geht?",
+        "options": [
+          "Tor für die ausführende Mannschaft",
+          "Eckstoß für das gegnerische Team",
+          "Abstoß",
+          "Schiedsrichterball"
+        ],
+        "correctIndex": 1,
+        "explanation": "Geht ein direkter Freistoß ins eigene Tor, wird auf Eckstoß für das gegnerische Team entschieden.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 87–89",
+          "chapter": "Regel 13 – Freistöße"
+        },
+        "tags": ["Freistoß", "Tor"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q43",
+        "text": "Wann darf der Schiedsrichter eine Spielfortsetzung nicht mehr ändern?",
+        "options": [
+          "Wenn der Ball im Spiel ist",
+          "Wenn er das Spielfeld nach Halbzeit verlassen hat",
+          "Wenn er eine Entscheidung schon angekündigt hat",
+          "Nie"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Schiedsrichter darf eine Spielfortsetzung nicht mehr ändern, wenn er das Spielfeld nach Halbzeitende verlassen hat, außer er betritt die Review Area.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 32",
+          "chapter": "Regel 5 – Schiedsrichter"
+        },
+        "tags": ["Schiedsrichter", "Regel"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q44",
+        "text": "Welches Mindestmaß gilt für die Länge der Seitenlinie bei internationalen Spielen?",
+        "options": [
+          "90 m",
+          "95 m",
+          "100 m",
+          "105 m"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bei internationalen Spielen muss die Seitenlinie mindestens 100 m lang sein. In normalen Spielen sind auch 90 m zulässig.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 9",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Maße"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Welche Spieler dürfen am Elfmeterschießen teilnehmen, wenn ein Torhüter verletzt ausscheidet?",
+        "options": [
+          "Nur Feldspieler, die auf dem Feld stehen",
+          "Ein gemeldeter Einwechselspieler",
+          "Ein Zuschauer als Ersatz",
+          "Kein Ersatz ist erlaubt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein verletzter Torhüter darf im Elfmeterschießen durch einen gemeldeten Einwechselspieler ersetzt werden, wenn noch nicht alle Auswechslungen genutzt sind.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 62–64",
+          "chapter": "Regel 10 – Bestimmung des Spielausgangs"
+        },
+        "tags": ["Elfmeterschießen", "Torhüter"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q46",
+        "text": "Wie viele Spieler dürfen sich beim Strafstoß innerhalb des Strafraums befinden?",
+        "options": [
+          "Nur der Schütze",
+          "Nur der Torhüter und der Schütze",
+          "Alle Angreifer",
+          "Alle Verteidiger"
+        ],
+        "correctIndex": 1,
+        "explanation": "Beim Strafstoß dürfen sich nur der Torhüter und der Schütze im Strafraum befinden, alle anderen Spieler müssen außerhalb sein.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 91–93",
+          "chapter": "Regel 14 – Strafstoß"
+        },
+        "tags": ["Strafstoß", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q47",
+        "text": "Wie groß ist der Radius des Anstoßkreises?",
+        "options": [
+          "7,32 m",
+          "8 m",
+          "9,15 m",
+          "10 m"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Anstoßkreis hat einen Radius von 9,15 m. Dieser Abstand sorgt für genügend Platz beim Anstoß.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 8",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Maße"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q48",
+        "text": "Was passiert, wenn beim Elfmeterschießen der Schütze und Torhüter gleichzeitig ein Vergehen begehen?",
+        "options": [
+          "Das Tor zählt",
+          "Wiederholung des Elfmeters",
+          "Indirekter Freistoß für das verteidigende Team",
+          "Schiedsrichterball"
+        ],
+        "correctIndex": 2,
+        "explanation": "Begehen Schütze und Torhüter gleichzeitig ein Vergehen, gibt es einen indirekten Freistoß für das verteidigende Team und der Schütze wird verwarnt.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 95",
+          "chapter": "Regel 14 – Strafstoß"
+        },
+        "tags": ["Strafstoß", "Disziplin"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q49",
+        "text": "Welche Linie gehört nicht zu den Spielfeldbegrenzungen?",
+        "options": [
+          "Seitenlinie",
+          "Torlinie",
+          "Mittellinie",
+          "Strafraumlinie"
+        ],
+        "correctIndex": 3,
+        "explanation": "Die Strafraumlinie ist eine Markierung innerhalb des Spielfelds, aber keine Begrenzung. Begrenzungen sind nur Seiten- und Torlinien.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 7",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Definition"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q50",
+        "text": "Was geschieht, wenn der Ball bei einem Abstoß direkt ins gegnerische Tor geht?",
+        "options": [
+          "Tor zählt",
+          "Eckstoß",
+          "Abstoß wiederholen",
+          "Indirekter Freistoß"
+        ],
+        "correctIndex": 0,
+        "explanation": "Aus einem Abstoß kann direkt ein Tor erzielt werden, wenn der Ball ins gegnerische Tor geht. Ins eigene Tor hingegen nicht.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 99",
+          "chapter": "Regel 16 – Abstoß"
+        },
+        "tags": ["Abstoß", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q51",
+        "text": "Welche Distanz muss der Elfmeterpunkt zur Torlinie haben?",
+        "options": [
+          "10 Meter",
+          "11 Meter",
+          "12 Meter",
+          "9,15 Meter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Elfmeterpunkt befindet sich 11 Meter von der Torlinie entfernt. Dies ist international vorgeschrieben.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 10",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Strafraum", "Maße"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q52",
+        "text": "Welche Spielfortsetzung erfolgt, wenn ein Torhüter den Ball nach einem Einwurf eines Mitspielers mit der Hand berührt?",
+        "options": [
+          "Direkter Freistoß",
+          "Indirekter Freistoß",
+          "Strafstoß",
+          "Weiterspielen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wenn der Torhüter einen Einwurf seines Mitspielers mit der Hand aufnimmt, gibt es einen indirekten Freistoß für das gegnerische Team.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 74",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Torhüter", "Einwurf"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Welche Spieler gelten als Drittpersonen?",
+        "options": [
+          "Alle Ersatzspieler",
+          "Spieler ohne Anmeldung auf der Teamliste",
+          "Ausgewechselte Spieler",
+          "Schiedsrichter-Assistenten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Spieler, die nicht auf der offiziellen Teamliste stehen, gelten als Drittpersonen. Ausgewechselte und Assistenten sind regulär registriert.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 22–23",
+          "chapter": "Regel 3 – Spieler"
+        },
+        "tags": ["Definition", "Spieler"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q54",
+        "text": "Welche maximale Höhe darf die Querlatte vom Boden haben?",
+        "options": [
+          "2,24 m",
+          "2,44 m",
+          "2,50 m",
+          "2,60 m"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Querlatte muss 2,44 m über dem Boden angebracht sein. Abweichungen sind nicht zulässig.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 12",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Maße"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q55",
+        "text": "Welche Spielfortsetzung erfolgt, wenn ein Torhüter den Ball nach einem absichtlichen Rückpass mit der Hand berührt?",
+        "options": [
+          "Indirekter Freistoß",
+          "Direkter Freistoß",
+          "Abstoß",
+          "Schiedsrichterball"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein absichtlicher Rückpass zum Torhüter darf nicht mit der Hand aufgenommen werden. Bei Verstoß erfolgt ein indirekter Freistoß.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 74",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Torhüter", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q56",
+        "text": "Welche Pflicht hat der Spielführer (Kapitän) auf dem Spielfeld?",
+        "options": [
+          "Er hat keine besonderen Privilegien",
+          "Er darf Entscheidungen des Schiedsrichters anfechten",
+          "Er darf Auswechslungen bestimmen",
+          "Er darf Regelverstöße ignorieren"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Kapitän hat keine Sonderrechte, sondern lediglich Verantwortung für das Verhalten seines Teams.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 25",
+          "chapter": "Regel 3 – Spieler"
+        },
+        "tags": ["Kapitän", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q57",
+        "text": "Welche Spielunterlage ist für Pflichtspiele international vorgeschrieben, falls kein Naturrasen vorhanden ist?",
+        "options": [
+          "Roter Kunststoffbelag",
+          "Kunstrasen mit FIFA-Zertifikat",
+          "Ascheplatz",
+          "Holzboden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kunstrasenplätze müssen das FIFA-Qualitätsprogramm erfüllen, um für internationale Pflichtspiele zugelassen zu sein.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 5",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Vorschrift"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q58",
+        "text": "Welche Form dürfen die Torpfosten haben?",
+        "options": [
+          "Nur quadratisch",
+          "Nur rund",
+          "Quadratisch, rechteckig, rund, elliptisch oder Mischform",
+          "Beliebige Form"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Torpfosten dürfen quadratisch, rechteckig, rund, elliptisch oder Mischformen aufweisen, solange sie ungefährlich sind.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 12",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Ausrüstung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q59",
+        "text": "Was passiert, wenn ein Spieler die Spielfeldmarkierungen unerlaubt verändert?",
+        "options": [
+          "Nichts",
+          "Verwarnung wegen unsportlichen Verhaltens",
+          "Direkter Freistoß",
+          "Spielabbruch"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das unerlaubte Anbringen von Markierungen wird als unsportliches Verhalten gewertet und mit einer Verwarnung geahndet.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 7",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Disziplin", "Spielfeld"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q60",
+        "text": "Welche Nachspielzeit darf der Schiedsrichter nicht kürzen?",
+        "options": [
+          "Die durch Verletzungen verlorene Zeit",
+          "Die vom vierten Offiziellen angezeigte Zeit",
+          "Die von den Teams gewünschte Zeit",
+          "Keine, er darf immer kürzen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die vom vierten Offiziellen angezeigte Nachspielzeit darf nicht verkürzt werden. Der Schiedsrichter kann sie nur verlängern.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 54",
+          "chapter": "Regel 7 – Dauer des Spiels"
+        },
+        "tags": ["Zeit", "Nachspielzeit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q61",
+        "text": "Welche Distanz muss beim Schiedsrichterball eingehalten werden?",
+        "options": [
+          "2 m",
+          "3 m",
+          "4 m",
+          "5 m"
+        ],
+        "correctIndex": 2,
+        "explanation": "Alle Spieler müssen mindestens 4 Meter Abstand halten, bis der Ball beim Schiedsrichterball den Boden berührt hat.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 58",
+          "chapter": "Regel 8 – Beginn und Fortsetzung des Spiels"
+        },
+        "tags": ["Schiedsrichterball", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q62",
+        "text": "Wie viele Halbzeiten gibt es in einer Verlängerung?",
+        "options": [
+          "Eine Halbzeit von 30 Minuten",
+          "Zwei Halbzeiten von 15 Minuten",
+          "Vier Viertel von 7,5 Minuten",
+          "Keine Verlängerung im Fußball"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Verlängerung besteht aus zwei Halbzeiten von je 15 Minuten. Dies gilt, wenn die Wettbewerbsbestimmungen Verlängerung vorsehen.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 55",
+          "chapter": "Regel 7 – Dauer des Spiels"
+        },
+        "tags": ["Verlängerung", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q63",
+        "text": "Welche Entscheidung trifft der Schiedsrichter, wenn ein Ball die Torlinie vollständig überschreitet, ohne dass ein Tor erzielt wird?",
+        "options": [
+          "Abstoß oder Eckstoß",
+          "Immer Abstoß",
+          "Immer Eckstoß",
+          "Schiedsrichterball"
+        ],
+        "correctIndex": 0,
+        "explanation": "Wenn der Ball die Torlinie überschreitet, gibt es je nach letzter Berührung entweder Abstoß oder Eckstoß.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 59",
+          "chapter": "Regel 9 – Ball im und aus dem Spiel"
+        },
+        "tags": ["Torlinie", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q64",
+        "text": "Welcher Mindestdurchmesser gilt für den Eckbereich?",
+        "options": [
+          "0,5 m",
+          "1 m",
+          "1,5 m",
+          "2 m"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Eckbereich wird durch einen Viertelkreis mit einem Radius von 1 m markiert. Das ist der vorgeschriebene Standard.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 10",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Maße"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q65",
+        "text": "Welche Handlung ist beim Torjubel ausdrücklich untersagt?",
+        "options": [
+          "Trikot ausziehen",
+          "Jubel mit Mitspielern",
+          "Hochspringen",
+          "Kurzer Tanz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Ausziehen des Trikots beim Torjubel ist untersagt und führt zu einer Verwarnung. Andere Jubelarten sind erlaubt, solange sie nicht provozierend sind.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 79",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Torjubel", "Disziplin"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q66",
+        "text": "Welche Spielfortsetzung gibt es, wenn der Ball aus einem Abstoß direkt ins eigene Tor geht?",
+        "options": [
+          "Tor zählt",
+          "Eckstoß für den Gegner",
+          "Abstoß wiederholen",
+          "Indirekter Freistoß"
+        ],
+        "correctIndex": 1,
+        "explanation": "Geht der Ball aus einem Abstoß direkt ins eigene Tor, wird auf Eckstoß für das gegnerische Team entschieden.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 99",
+          "chapter": "Regel 16 – Abstoß"
+        },
+        "tags": ["Abstoß", "Tor"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q67",
+        "text": "Welche Pflicht hat der Schiedsrichter vor Spielbeginn in Bezug auf das Spielfeld?",
+        "options": [
+          "Keine Kontrolle notwendig",
+          "Er muss das Spielfeld prüfen",
+          "Er darf nur die Tore kontrollieren",
+          "Er verlässt die Prüfung den Assistenten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Schiedsrichter muss das Spielfeld vor Spielbeginn kontrollieren, um die ordnungsgemäße Durchführung zu gewährleisten.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 16",
+          "chapter": "Regel 1 – Spielfeld (Zusätzliche Erläuterungen DFB)"
+        },
+        "tags": ["Schiedsrichter", "Pflicht"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q68",
+        "text": "Welche maximale Anzahl an Einwechselspielern darf ein A-Nationalteam melden?",
+        "options": [
+          "12",
+          "13",
+          "15",
+          "18"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein A-Nationalteam darf bis zu 15 Einwechselspieler melden. Das ist die Höchstgrenze laut Regelwerk.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 18",
+          "chapter": "Regel 3 – Spieler"
+        },
+        "tags": ["Spieler", "Regel"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q69",
+        "text": "Welche maximale Breite dürfen die Torpfosten haben?",
+        "options": [
+          "10 cm",
+          "12 cm",
+          "15 cm",
+          "20 cm"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Torpfosten dürfen höchstens 12 cm breit sein. Das gilt auch für die Querlatte.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 12",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Tor", "Spielfeld"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q70",
+        "text": "Welche Spielfortsetzung erfolgt, wenn der Ball ins Tor geworfen wird?",
+        "options": [
+          "Tor zählt",
+          "Abstoß",
+          "Schiedsrichterball",
+          "Eckstoß"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wirft der Torhüter den Ball direkt ins gegnerische Tor, zählt das Tor nicht – es gibt Abstoß für den Gegner.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 60",
+          "chapter": "Regel 10 – Bestimmung des Spielausgangs"
+        },
+        "tags": ["Tor", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q71",
+        "text": "Welche Spielfortsetzung erfolgt, wenn ein Spieler beim Einwurf den Ball erneut berührt, bevor ein anderer Spieler ihn gespielt hat?",
+        "options": [
+          "Direkter Freistoß",
+          "Indirekter Freistoß",
+          "Eckstoß",
+          "Abstoß"
+        ],
+        "correctIndex": 1,
+        "explanation": "Berührt der Einwerfende den Ball erneut, bevor ein anderer Spieler ihn spielt, gibt es einen indirekten Freistoß für den Gegner.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 100",
+          "chapter": "Regel 15 – Einwurf"
+        },
+        "tags": ["Einwurf", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q72",
+        "text": "Wie weit ist der Torraum in das Spielfeld hinein gezogen?",
+        "options": [
+          "3,5 m",
+          "5,5 m",
+          "6 m",
+          "7,32 m"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Torraum ist 5,5 Meter tief, gemessen von der Torlinie in das Spielfeld hinein.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 8",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Maße"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q73",
+        "text": "Wann darf ein Torhüter den Ball im Strafraum nicht mit der Hand aufnehmen?",
+        "options": [
+          "Nach Abpraller vom Gegner",
+          "Nach absichtlichem Rückpass mit dem Fuß",
+          "Nach Parade eines Schusses",
+          "Nach Abwehr eines Kopfballs"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein absichtlicher Rückpass vom Mitspieler mit dem Fuß darf nicht mit der Hand aufgenommen werden.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 74",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Torhüter", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q74",
+        "text": "Was passiert, wenn ein Spieler beim Abstoß den Ball zweimal hintereinander berührt?",
+        "options": [
+          "Abstoß wiederholen",
+          "Indirekter Freistoß",
+          "Direkter Freistoß",
+          "Schiedsrichterball"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei einer Doppelberührung nach einem Abstoß gibt es einen indirekten Freistoß für das gegnerische Team.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 99",
+          "chapter": "Regel 16 – Abstoß"
+        },
+        "tags": ["Abstoß", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q75",
+        "text": "Wie groß ist der Abstand zwischen den Innenkanten der Torpfosten?",
+        "options": [
+          "7,00 m",
+          "7,15 m",
+          "7,32 m",
+          "7,50 m"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Abstand beträgt 7,32 Meter zwischen den Innenkanten der Torpfosten. Dies ist weltweit einheitlich vorgeschrieben.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 12",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Tor", "Maße"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q76",
+        "text": "Welche Spielfortsetzung erfolgt, wenn ein Spieler bei einem Freistoß den Ball absichtlich auf einen Gegner schießt, um ihn erneut zu spielen?",
+        "options": [
+          "Direkter Freistoß",
+          "Indirekter Freistoß",
+          "Weiterspielen",
+          "Eckstoß"
+        ],
+        "correctIndex": 2,
+        "explanation": "Wenn der Ball nicht rücksichtslos oder übermäßig hart geschossen wird, lässt der Schiedsrichter weiterspielen.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 88",
+          "chapter": "Regel 13 – Freistöße"
+        },
+        "tags": ["Freistoß", "Technik"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q77",
+        "text": "Wann darf ein Spieler ohne Erlaubnis des Schiedsrichters das Spielfeld betreten?",
+        "options": [
+          "Nie",
+          "Nur nach Torerzielung",
+          "Während einer Unterbrechung",
+          "Während des Torjubels"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Spieler darf das Spielfeld nur mit Erlaubnis des Schiedsrichters betreten. Ein unerlaubtes Betreten wird mit Verwarnung geahndet.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 24",
+          "chapter": "Regel 3 – Spieler"
+        },
+        "tags": ["Spieler", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q78",
+        "text": "Welche Spielfortsetzung erfolgt, wenn ein Strafstoß nach Ende der regulären Spielzeit noch auszuführen ist?",
+        "options": [
+          "Das Spiel ist beendet",
+          "Der Strafstoß wird ausgeführt",
+          "Schiedsrichter entscheidet",
+          "Es gibt Verlängerung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Strafstoß muss auch nach Ablauf der regulären Spielzeit noch ausgeführt werden. Die Halbzeit oder das Spiel endet erst nach Abschluss des Strafstoßes.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 93",
+          "chapter": "Regel 14 – Strafstoß"
+        },
+        "tags": ["Strafstoß", "Zeit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q79",
+        "text": "Wie viele Meter beträgt der Abstand vom Elfmeterpunkt zum Teilkreis außerhalb des Strafraums?",
+        "options": [
+          "8 m",
+          "9,15 m",
+          "10 m",
+          "11 m"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Teilkreis außerhalb des Strafraums hat einen Radius von 9,15 m um den Elfmeterpunkt.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 10",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Strafraum", "Maße"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q80",
+        "text": "Welche Spielfortsetzung erfolgt, wenn ein Spieler absichtlich einen Trick nutzt, um dem Torhüter ein Handspiel zu ermöglichen?",
+        "options": [
+          "Direkter Freistoß",
+          "Indirekter Freistoß",
+          "Schiedsrichterball",
+          "Weiterspielen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Absichtliche Tricks, wie Hochspielen mit Kopf oder Knie zum Torhüter, führen zu einem indirekten Freistoß.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 74",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Torhüter", "Trick"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q81",
+        "text": "Welche Mindestzahl an Schiedsrichterassistenten ist bei einem Spiel vorgesehen?",
+        "options": [
+          "Keine",
+          "Einer",
+          "Zwei",
+          "Drei"
+        ],
+        "correctIndex": 2,
+        "explanation": "Normalerweise gibt es zwei Schiedsrichterassistenten, die den Hauptschiedsrichter unterstützen.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 44",
+          "chapter": "Regel 6 – Weitere Spieloffizielle"
+        },
+        "tags": ["Schiedsrichter", "Organisation"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q82",
+        "text": "Welche Spielfortsetzung erfolgt, wenn ein Ball im Spiel einen Schiedsrichter berührt und ins Tor geht?",
+        "options": [
+          "Tor zählt",
+          "Schiedsrichterball",
+          "Abstoß",
+          "Eckstoß"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wenn der Ball den Schiedsrichter berührt und direkt ins Tor geht, wird das Spiel mit Schiedsrichterball fortgesetzt.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 59",
+          "chapter": "Regel 9 – Ball im und aus dem Spiel"
+        },
+        "tags": ["Schiedsrichter", "Ball"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q83",
+        "text": "Welche Strafe erhält ein Spieler für grobes Foulspiel?",
+        "options": [
+          "Verwarnung (Gelb)",
+          "Feldverweis (Rot)",
+          "Indirekter Freistoß",
+          "Abstoß"
+        ],
+        "correctIndex": 1,
+        "explanation": "Grobes Foulspiel wird mit Feldverweis (Rot) bestraft. Die Spielfortsetzung ist ein direkter Freistoß oder Strafstoß.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 80",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Foul", "Disziplin"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q84",
+        "text": "Was passiert, wenn ein Spieler das Spielfeld verlässt, um eine Abseitsstellung zu vermeiden?",
+        "options": [
+          "Verwarnung",
+          "Tor zählt nicht",
+          "Er darf wieder zurückkehren",
+          "Spielabbruch"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Spieler darf das Spielfeld verlassen, um nicht aktiv ins Spiel einzugreifen. Er darf danach wieder ins Spiel zurückkehren.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 68–70",
+          "chapter": "Regel 11 – Abseits"
+        },
+        "tags": ["Abseits", "Regel"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q85",
+        "text": "Welche Handlung führt beim Strafstoß zu einer Verwarnung des Schützen?",
+        "options": [
+          "Antäuschen beim Anlauf",
+          "Schuss mit der Hacke",
+          "Unzulässiges Antäuschen nach Anlauf",
+          "Ball ins Tor schießen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein unzulässiges Antäuschen nach dem Anlauf führt zu einer Verwarnung und indirektem Freistoß.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 94",
+          "chapter": "Regel 14 – Strafstoß"
+        },
+        "tags": ["Strafstoß", "Disziplin"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q86",
+        "text": "Welche Spieler dürfen beim Abseits nicht berücksichtigt werden?",
+        "options": [
+          "Torhüter",
+          "Feldspieler",
+          "Spielerarme und Hände",
+          "Kopf und Beine"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bei der Abseitsbewertung werden Arme und Hände nicht berücksichtigt. Kopf, Rumpf und Beine zählen.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 65",
+          "chapter": "Regel 11 – Abseits"
+        },
+        "tags": ["Abseits", "Definition"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q87",
+        "text": "Welche Spielfortsetzung erfolgt, wenn ein Spieler bei einem Eckstoß den Ball zweimal hintereinander berührt?",
+        "options": [
+          "Direkter Freistoß",
+          "Indirekter Freistoß",
+          "Eckstoß wiederholen",
+          "Schiedsrichterball"
+        ],
+        "correctIndex": 1,
+        "explanation": "Berührt der ausführende Spieler beim Eckstoß den Ball zweimal, gibt es einen indirekten Freistoß.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 103",
+          "chapter": "Regel 17 – Eckstoß"
+        },
+        "tags": ["Eckstoß", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q88",
+        "text": "Welche maximale Länge darf die Seitenlinie im internationalen Spiel haben?",
+        "options": [
+          "110 m",
+          "115 m",
+          "120 m",
+          "125 m"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bei internationalen Spielen beträgt die maximale Länge der Seitenlinie 110 m.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 9",
+          "chapter": "Regel 1 – Spielfeld"
+        },
+        "tags": ["Spielfeld", "Maße"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q89",
+        "text": "Welche Handlung des Torhüters beim Strafstoß führt zur Wiederholung?",
+        "options": [
+          "Er bewegt sich auf der Linie",
+          "Er bleibt stehen",
+          "Er verlässt die Linie zu früh und beeinträchtigt den Schützen",
+          "Er hebt die Hände"
+        ],
+        "correctIndex": 2,
+        "explanation": "Verlässt der Torhüter zu früh die Linie und beeinflusst den Schützen, wird der Strafstoß wiederholt.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 94",
+          "chapter": "Regel 14 – Strafstoß"
+        },
+        "tags": ["Torhüter", "Strafstoß"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q90",
+        "text": "Welche Spielfortsetzung erfolgt, wenn ein Spieler außerhalb des Spielfelds ein Foul gegen einen Gegenspieler begeht?",
+        "options": [
+          "Abstoß",
+          "Schiedsrichterball",
+          "Freistoß auf der Begrenzungslinie",
+          "Eckstoß"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Foul außerhalb des Spielfelds wird mit Freistoß auf der Begrenzungslinie an der nächstgelegenen Stelle ausgeführt.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 85",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Foul", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q91",
+        "text": "Was passiert, wenn beim Anstoß der Ball direkt ins eigene Tor gespielt wird?",
+        "options": [
+          "Tor zählt",
+          "Eckstoß für den Gegner",
+          "Abstoß",
+          "Schiedsrichterball"
+        ],
+        "correctIndex": 1,
+        "explanation": "Geht der Ball beim Anstoß direkt ins eigene Tor, gibt es Eckstoß für das gegnerische Team.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 57",
+          "chapter": "Regel 8 – Beginn und Fortsetzung des Spiels"
+        },
+        "tags": ["Anstoß", "Tor"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q92",
+        "text": "Welche Strafe erhält ein Teamoffizieller, der die technische Zone aggressiv verlässt?",
+        "options": [
+          "Keine Strafe",
+          "Ermahnung",
+          "Verwarnung (Gelb)",
+          "Feldverweis (Rot)"
+        ],
+        "correctIndex": 3,
+        "explanation": "Aggressives Verlassen der technischen Zone wird mit Feldverweis (Rot) bestraft.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 83",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Teamoffizieller", "Disziplin"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q93",
+        "text": "Was gilt, wenn ein Torhüter den Ball im Strafraum nach einer Spielfortsetzung ein zweites Mal mit der Hand berührt?",
+        "options": [
+          "Indirekter Freistoß",
+          "Direkter Freistoß",
+          "Abstoß",
+          "Wiederholung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Wenn der Torhüter nach einer Spielfortsetzung den Ball ein zweites Mal mit der Hand berührt, gibt es einen indirekten Freistoß.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 73",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Torhüter", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q94",
+        "text": "Wie lange darf ein Spieler für ein Junioren-Spiel in der Altersklasse U13 auflaufen?",
+        "options": [
+          "2×25 Minuten",
+          "2×30 Minuten",
+          "2×35 Minuten",
+          "2×40 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Für D-Junioren (U13/U12) beträgt die Spieldauer 2×30 Minuten.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 57",
+          "chapter": "Regel 7 – Dauer des Spiels (DFB-Erläuterungen)"
+        },
+        "tags": ["Junioren", "Zeit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q95",
+        "text": "Welche Spielfortsetzung erfolgt, wenn ein Spieler bei laufendem Spiel einen Gegenstand auf einen Gegner wirft?",
+        "options": [
+          "Indirekter Freistoß",
+          "Direkter Freistoß oder Strafstoß",
+          "Abstoß",
+          "Schiedsrichterball"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wird ein Gegenstand auf einen Gegner geworfen, erfolgt ein direkter Freistoß oder Strafstoß, je nach Ort des Vergehens.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 85",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Foul", "Sanktion"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q96",
+        "text": "Welche Spieler dürfen beim Elfmeterschießen die Reihenfolge der Schützen bestimmen?",
+        "options": [
+          "Nur der Kapitän",
+          "Der Schiedsrichter",
+          "Das Team selbst",
+          "Der Trainer"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Teams bestimmen selbst die Reihenfolge ihrer Schützen. Der Schiedsrichter wird nicht informiert.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 62",
+          "chapter": "Regel 10 – Bestimmung des Spielausgangs"
+        },
+        "tags": ["Elfmeterschießen", "Regel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q97",
+        "text": "Welche Spielfortsetzung erfolgt, wenn ein Spieler beim Eckstoß den Ball direkt ins eigene Tor schießt?",
+        "options": [
+          "Tor zählt",
+          "Eckstoß für den Gegner",
+          "Abstoß",
+          "Wiederholung"
+        ],
+        "correctIndex": 2,
+        "explanation": "Geht der Ball aus einem Eckstoß direkt ins eigene Tor, wird auf Abstoß entschieden.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 101–103",
+          "chapter": "Regel 17 – Eckstoß"
+        },
+        "tags": ["Eckstoß", "Tor"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q98",
+        "text": "Welche Strafe erhält ein Spieler, der versucht, den Schiedsrichter zu täuschen (Schwalbe)?",
+        "options": [
+          "Keine Strafe",
+          "Verwarnung (Gelb)",
+          "Feldverweis (Rot)",
+          "Schiedsrichterball"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Vortäuschen einer Verletzung oder eines Fouls wird mit einer Verwarnung (Gelb) geahndet.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 78",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Disziplin", "Täuschung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q99",
+        "text": "Welche maximale Dauer darf eine Kühlpause haben?",
+        "options": [
+          "Eine Minute",
+          "90 Sekunden bis 3 Minuten",
+          "5 Minuten",
+          "10 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Kühlpause darf zwischen 90 Sekunden und 3 Minuten dauern und dient dem Schutz der Spieler.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 118",
+          "chapter": "Glossar – Kühlpause"
+        },
+        "tags": ["Pause", "Spielzeit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q100",
+        "text": "Welche Strafe erhält ein Spieler, der einen offensichtlichen Angriff durch Handspiel unterbindet, ohne dass ein Tor erzielt worden wäre?",
+        "options": [
+          "Keine Strafe",
+          "Indirekter Freistoß",
+          "Verwarnung (Gelb)",
+          "Feldverweis (Rot)"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Handspiel zur Unterbindung eines aussichtsreichen Angriffs wird mit Verwarnung (Gelb) bestraft, außer es handelt sich um eine klare Torchance.",
+        "source": {
+          "citation": "Fußball-Regeln 2025/2026",
+          "pages": "S. 78",
+          "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
+        },
+        "tags": ["Handspiel", "Disziplin"],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}

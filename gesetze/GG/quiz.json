@@ -1,0 +1,2146 @@
+{
+  "quiz": {
+    "title": "Deutsches Grundgesetz",
+    "description": "Dieses Quiz umfasst 20 Fragen zu den Grundrechten, Staatsorganen und Regelungen des Grundgesetzes (GG) in der Fassung 2025.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-09-26T10:34:36.330238Z",
+      "notes": "Fragen zum Grundgesetz"
+    },
+    "sourceDocument": {
+      "title": "Grundgesetz für die Bundesrepublik Deutschland",
+      "version": "2025",
+      "year": 2025,
+      "pdfFilename": "GG.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Welcher Artikel des Grundgesetzes schützt die Menschenwürde als unantastbar?",
+        "options": [
+          "Artikel 1",
+          "Artikel 2",
+          "Artikel 3",
+          "Artikel 20"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 1 Absatz 1 GG erklärt die Würde des Menschen für unantastbar. Andere Artikel behandeln allgemeine Persönlichkeitsrechte, Gleichheit und Staatsstruktur.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 1",
+          "chapter": "Art. 1 GG"
+        },
+        "tags": [
+          "Definition",
+          "Grundrechte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Was garantiert Artikel 2 Absatz 2 GG jedem Menschen?",
+        "options": [
+          "Das Recht auf freie Berufswahl",
+          "Das Recht auf Leben und körperliche Unversehrtheit",
+          "Das Recht auf Asyl",
+          "Das Recht auf Eigentum"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 2 Abs. 2 GG schützt das Leben und die körperliche Unversehrtheit. Freie Berufswahl steht in Art. 12, Asyl in Art. 16a, Eigentum in Art. 14.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 2",
+          "chapter": "Art. 2 GG"
+        },
+        "tags": [
+          "Grundrechte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Was besagt Artikel 3 Absatz 1 GG?",
+        "options": [
+          "Alle Menschen sind vor dem Gesetz gleich.",
+          "Männer und Frauen sind gleichberechtigt.",
+          "Niemand darf wegen einer Behinderung benachteiligt werden.",
+          "Die Würde des Menschen ist unantastbar."
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 3 Abs. 1 GG stellt die allgemeine Gleichheit vor dem Gesetz sicher. Absatz 2 und 3 konkretisieren weitere Gleichheitsrechte.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 2",
+          "chapter": "Art. 3 GG"
+        },
+        "tags": [
+          "Regel",
+          "Grundrechte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Welche Freiheit wird in Artikel 4 Absatz 1 GG garantiert?",
+        "options": [
+          "Meinungsfreiheit",
+          "Freiheit des Glaubens und des Gewissens",
+          "Pressefreiheit",
+          "Versammlungsfreiheit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 4 Abs. 1 GG schützt Glaubens- und Gewissensfreiheit. Meinungsfreiheit steht in Art. 5, Pressefreiheit in Art. 5, Versammlungsfreiheit in Art. 8.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 2",
+          "chapter": "Art. 4 GG"
+        },
+        "tags": [
+          "Grundrechte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Welche Schranken gelten laut Artikel 5 Absatz 2 GG für die Meinungsfreiheit?",
+        "options": [
+          "Nur das Hausrecht des Bundestages",
+          "Die Vorschriften der allgemeinen Gesetze, Jugendschutz und persönliche Ehre",
+          "Die Interessen der Bundesregierung",
+          "Das Veto des Bundesrates"
+        ],
+        "correctIndex": 1,
+        "explanation": "Art. 5 Abs. 2 GG nennt als Schranken allgemeine Gesetze, Jugendschutz und persönliche Ehre. Andere Optionen sind nicht im Grundgesetz verankert.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 2",
+          "chapter": "Art. 5 GG"
+        },
+        "tags": [
+          "Regel",
+          "Grundrechte"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Was steht unter dem besonderen Schutz der staatlichen Ordnung laut Artikel 6 GG?",
+        "options": [
+          "Das Eigentum",
+          "Die Familie und Ehe",
+          "Das Briefgeheimnis",
+          "Die Wissenschaftsfreiheit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 6 GG schützt Ehe und Familie. Eigentum (Art. 14), Briefgeheimnis (Art. 10), Wissenschaft (Art. 5 Abs. 3) sind andere Grundrechte.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 2-3",
+          "chapter": "Art. 6 GG"
+        },
+        "tags": [
+          "Regel",
+          "Grundrechte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Welches Grundrecht wird in Artikel 8 GG garantiert?",
+        "options": [
+          "Das Recht, Eigentum zu erwerben",
+          "Die Versammlungsfreiheit",
+          "Die Freizügigkeit",
+          "Die Religionsfreiheit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 8 GG schützt das Recht, sich friedlich und ohne Waffen zu versammeln. Eigentum (Art. 14), Freizügigkeit (Art. 11) und Religion (Art. 4) sind separat geregelt.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 3",
+          "chapter": "Art. 8 GG"
+        },
+        "tags": [
+          "Grundrechte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Was regelt Artikel 9 Absatz 2 GG?",
+        "options": [
+          "Verbot verfassungsfeindlicher Vereinigungen",
+          "Das Petitionsrecht",
+          "Die Schulpflicht",
+          "Die Pressefreiheit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 9 Abs. 2 GG verbietet Vereinigungen gegen verfassungsmäßige Ordnung oder Völkerverständigung. Petitionen stehen in Art. 17, Schule in Art. 7, Presse in Art. 5.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 3",
+          "chapter": "Art. 9 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Welches Grundrecht ist in Artikel 10 GG geregelt?",
+        "options": [
+          "Das Asylrecht",
+          "Das Brief-, Post- und Fernmeldegeheimnis",
+          "Die Wissenschaftsfreiheit",
+          "Die Berufsfreiheit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 10 GG schützt das Brief-, Post- und Fernmeldegeheimnis. Asyl (Art. 16a), Wissenschaft (Art. 5), Beruf (Art. 12) sind anderswo geregelt.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 3",
+          "chapter": "Art. 10 GG"
+        },
+        "tags": [
+          "Definition",
+          "Grundrechte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "In welchem Artikel ist die Freizügigkeit im Bundesgebiet garantiert?",
+        "options": [
+          "Artikel 11",
+          "Artikel 14",
+          "Artikel 16",
+          "Artikel 20"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 11 GG garantiert die Freizügigkeit. Eigentum (Art. 14), Staatsangehörigkeit (Art. 16), Widerstandsrecht (Art. 20 Abs. 4) stehen woanders.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 3",
+          "chapter": "Art. 11 GG"
+        },
+        "tags": [
+          "Grundrechte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q11",
+        "text": "Welches Grundrecht behandelt Artikel 12 GG?",
+        "options": [
+          "Die freie Berufswahl",
+          "Das Recht auf Eigentum",
+          "Die Gleichheit vor dem Gesetz",
+          "Das Asylrecht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 12 GG schützt die freie Wahl von Beruf, Arbeitsplatz und Ausbildungsstätte. Eigentum (Art. 14), Gleichheit (Art. 3), Asyl (Art. 16a) sind woanders.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 3-4",
+          "chapter": "Art. 12 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q12",
+        "text": "Welche Beschränkung erlaubt Artikel 13 GG bei Wohnungsdurchsuchungen?",
+        "options": [
+          "Nur durch richterlichen Beschluss oder bei Gefahr im Verzug",
+          "Jederzeit durch die Polizei",
+          "Nur mit Zustimmung des Vermieters",
+          "Durch Beschluss des Bundespräsidenten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 13 Abs. 2 GG erlaubt Durchsuchungen durch Richter, bei Gefahr im Verzug auch durch gesetzlich vorgesehene Organe. Andere Antworten sind unzutreffend.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 4",
+          "chapter": "Art. 13 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Was besagt Artikel 14 Absatz 2 GG?",
+        "options": [
+          "Eigentum verpflichtet und soll dem Wohle der Allgemeinheit dienen.",
+          "Eigentum darf beliebig genutzt werden.",
+          "Eigentum darf nicht enteignet werden.",
+          "Eigentum steht nur Deutschen zu."
+        ],
+        "correctIndex": 0,
+        "explanation": "Art. 14 Abs. 2 GG bestimmt die Sozialbindung des Eigentums. Nutzung ist also nicht grenzenlos; Enteignung ist in Abs. 3 geregelt, Nationalitätsbeschränkung existiert nicht.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 5",
+          "chapter": "Art. 14 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Welches Grundrecht garantiert Artikel 16a GG?",
+        "options": [
+          "Das Wahlrecht",
+          "Das Asylrecht",
+          "Die Meinungsfreiheit",
+          "Die Freizügigkeit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 16a GG garantiert Asyl für politisch Verfolgte. Wahlrecht (Art. 38), Meinungsfreiheit (Art. 5), Freizügigkeit (Art. 11) stehen anderswo.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 5",
+          "chapter": "Art. 16a GG"
+        },
+        "tags": [
+          "Definition",
+          "Grundrechte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q15",
+        "text": "Welcher Artikel enthält das Widerstandsrecht gegen die Beseitigung der Ordnung?",
+        "options": [
+          "Artikel 1",
+          "Artikel 20 Absatz 4",
+          "Artikel 79 Absatz 3",
+          "Artikel 146"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 20 Abs. 4 GG garantiert allen Deutschen das Recht zum Widerstand gegen jeden, der die Ordnung beseitigen will, wenn andere Abhilfe nicht möglich ist.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 7",
+          "chapter": "Art. 20 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Welche Staatsstrukturprinzipien nennt Artikel 20 Absatz 1 GG?",
+        "options": [
+          "Monarchie und Föderalismus",
+          "Demokratie und Sozialstaatlichkeit",
+          "Neutralität und Gewaltenteilung",
+          "Föderalismus und Gottesstaat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 20 Abs. 1 GG beschreibt die Bundesrepublik als demokratischen und sozialen Bundesstaat. Monarchie, Gottesstaat oder Neutralität sind nicht vorgesehen.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 7",
+          "chapter": "Art. 20 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q17",
+        "text": "Wer entscheidet laut Artikel 21 GG über das Verbot verfassungswidriger Parteien?",
+        "options": [
+          "Der Bundestag",
+          "Das Bundesverfassungsgericht",
+          "Die Bundesregierung",
+          "Der Bundespräsident"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 21 Abs. 2 und 4 GG ordnen, dass das Bundesverfassungsgericht über die Verfassungswidrigkeit und Finanzierungsausschlüsse entscheidet.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 7",
+          "chapter": "Art. 21 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q18",
+        "text": "Welcher Artikel bestimmt Berlin als Hauptstadt und Schwarz-Rot-Gold als Bundesflagge?",
+        "options": [
+          "Artikel 22",
+          "Artikel 23",
+          "Artikel 24",
+          "Artikel 26"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 22 GG legt Berlin als Hauptstadt und Schwarz-Rot-Gold als Bundesflagge fest. Andere Artikel betreffen EU-Mitwirkung, Hoheitsrechte und Kriegsverbot.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 7",
+          "chapter": "Art. 22 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q19",
+        "text": "Welches Organ wählt den Bundespräsidenten laut Artikel 54 GG?",
+        "options": [
+          "Der Bundestag allein",
+          "Die Bundesversammlung",
+          "Das Bundesverfassungsgericht",
+          "Der Bundesrat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 54 GG schreibt die Wahl des Bundespräsidenten durch die Bundesversammlung vor. Bundestag und Bundesrat wählen jeweils Teile der Mitglieder.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 14",
+          "chapter": "Art. 54 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q20",
+        "text": "Wer bestimmt die Richtlinien der Politik nach Artikel 65 GG?",
+        "options": [
+          "Der Bundespräsident",
+          "Der Bundestag",
+          "Der Bundeskanzler",
+          "Das Bundesverfassungsgericht"
+        ],
+        "correctIndex": 2,
+        "explanation": "Artikel 65 GG gibt dem Bundeskanzler die Richtlinienkompetenz. Bundestag beschließt Gesetze, Präsident repräsentiert, Verfassungsgericht kontrolliert Normen.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 16",
+          "chapter": "Art. 65 GG"
+        },
+        "tags": [
+          "Verantwortung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Welche Wahlrechtsgrundsätze nennt Artikel 38 Absatz 1 GG für Bundestagswahlen?",
+        "options": [
+          "Allgemein, unmittelbar, frei, gleich und geheim",
+          "Frei, geheim, indirekt und offen",
+          "Nur für Männer über 21 Jahre",
+          "Verpflichtend für alle Bürger"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 38 Abs. 1 GG legt fest, dass Abgeordnete in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt werden.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 11",
+          "chapter": "Art. 38 GG"
+        },
+        "tags": [
+          "Definition",
+          "Wahlen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q22",
+        "text": "Wer wählt laut Artikel 40 GG den Präsidenten des Bundestages?",
+        "options": [
+          "Der Bundespräsident",
+          "Der Bundestag",
+          "Der Bundesrat",
+          "Die Bundesregierung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 40 Abs. 1 GG bestimmt, dass der Bundestag seinen Präsidenten selbst wählt.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 11",
+          "chapter": "Art. 40 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Welche Mehrheit ist für die Beschlussfassung des Bundestages in der Regel erforderlich?",
+        "options": [
+          "Zweidrittelmehrheit",
+          "Einfache Mehrheit der abgegebenen Stimmen",
+          "Absolute Mehrheit aller Mitglieder",
+          "Einstimmigkeit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach Artikel 42 Abs. 2 GG genügt die Mehrheit der abgegebenen Stimmen, sofern das Grundgesetz nichts anderes bestimmt.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 12",
+          "chapter": "Art. 42 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q24",
+        "text": "Welcher Artikel garantiert das Zeugnisverweigerungsrecht der Abgeordneten?",
+        "options": [
+          "Artikel 47",
+          "Artikel 48",
+          "Artikel 49",
+          "Artikel 50"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 47 GG gibt Abgeordneten das Recht, über Personen oder Tatsachen im Zusammenhang mit ihrem Mandat das Zeugnis zu verweigern.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 13",
+          "chapter": "Art. 47 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "Wie viele Stimmen hat jedes Land mindestens im Bundesrat?",
+        "options": [
+          "Eine Stimme",
+          "Drei Stimmen",
+          "Fünf Stimmen",
+          "Sechs Stimmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 51 Abs. 2 GG garantiert jedem Land mindestens drei Stimmen im Bundesrat.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 13",
+          "chapter": "Art. 51 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q26",
+        "text": "Welches Organ wählt den Präsidenten des Bundesrates?",
+        "options": [
+          "Die Bundesregierung",
+          "Der Bundestag",
+          "Der Bundesrat",
+          "Das Bundesverfassungsgericht"
+        ],
+        "correctIndex": 2,
+        "explanation": "Artikel 52 Abs. 1 GG bestimmt, dass der Bundesrat seinen Präsidenten selbst auf ein Jahr wählt.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 13",
+          "chapter": "Art. 52 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q27",
+        "text": "Wer wählt den Bundeskanzler gemäß Artikel 63 GG?",
+        "options": [
+          "Der Bundespräsident",
+          "Der Bundestag",
+          "Der Bundesrat",
+          "Die Bundesversammlung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 63 Abs. 1 GG legt fest, dass der Bundestag den Bundeskanzler wählt, auf Vorschlag des Bundespräsidenten.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 16",
+          "chapter": "Art. 63 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q28",
+        "text": "Welche Kompetenz hat der Bundeskanzler nach Artikel 65 GG?",
+        "options": [
+          "Er ist Oberbefehlshaber der Streitkräfte",
+          "Er bestimmt die Richtlinien der Politik",
+          "Er ernennt Bundesrichter",
+          "Er leitet den Bundesrat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 65 GG gibt dem Bundeskanzler die Richtlinienkompetenz. Oberbefehl (Art. 65a, Verteidigungsminister), Richterernennung (Art. 60, Präsident), Bundesrat (Art. 52).",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 16",
+          "chapter": "Art. 65 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Wie kann der Bundestag dem Bundeskanzler das Misstrauen aussprechen?",
+        "options": [
+          "Durch Misstrauensvotum ohne Nachfolger",
+          "Nur durch konstruktives Misstrauensvotum mit Wahl eines Nachfolgers",
+          "Durch Abstimmung im Bundesrat",
+          "Durch Entscheidung des Bundespräsidenten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 67 GG erlaubt nur ein konstruktives Misstrauensvotum, bei dem gleichzeitig ein neuer Kanzler gewählt wird.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 16-17",
+          "chapter": "Art. 67 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q30",
+        "text": "Was regelt Artikel 70 GG grundsätzlich?",
+        "options": [
+          "Die Haushaltsplanung des Bundes",
+          "Die Gesetzgebungskompetenzen von Bund und Ländern",
+          "Die Wahl des Bundespräsidenten",
+          "Die Streitkräfte des Bundes"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 70 GG bestimmt, dass die Länder die Gesetzgebungskompetenz haben, soweit das Grundgesetz nicht dem Bund Befugnisse verleiht.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 17",
+          "chapter": "Art. 70 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q31",
+        "text": "Welche Bereiche umfasst die ausschließliche Gesetzgebung des Bundes nach Artikel 73 GG?",
+        "options": [
+          "Nur das Steuerrecht",
+          "Nur die Bildungspolitik",
+          "Auswärtige Angelegenheiten, Verteidigung, Staatsangehörigkeit u. a.",
+          "Kultur und Medien"
+        ],
+        "correctIndex": 2,
+        "explanation": "Artikel 73 GG listet zahlreiche Bereiche der ausschließlichen Gesetzgebung wie Verteidigung, Außenpolitik und Staatsangehörigkeit.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 18",
+          "chapter": "Art. 73 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q32",
+        "text": "Was ist in Artikel 79 Absatz 3 GG als unantastbar festgelegt?",
+        "options": [
+          "Das Wahlalter",
+          "Die Ewigkeitsklausel (Art. 1 und 20 GG)",
+          "Die Amtszeit des Bundespräsidenten",
+          "Die Bundeswehr"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 79 Abs. 3 GG schützt die in Art. 1 und 20 niedergelegten Grundsätze vor Änderung.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 20",
+          "chapter": "Art. 79 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q33",
+        "text": "Was bedeutet Artikel 83 GG?",
+        "options": [
+          "Die Länder führen Bundesgesetze grundsätzlich als eigene Angelegenheit aus.",
+          "Der Bund verwaltet alle Gesetze.",
+          "Nur der Bundestag führt Gesetze aus.",
+          "Die Verwaltung wird nur vom Bundespräsidenten geregelt."
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 83 GG legt fest, dass die Länder Bundesgesetze in eigener Verantwortung ausführen, sofern nichts anderes geregelt ist.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 22",
+          "chapter": "Art. 83 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Welcher Artikel bestimmt, dass Bundesrecht Landesrecht bricht?",
+        "options": [
+          "Artikel 30",
+          "Artikel 31",
+          "Artikel 32",
+          "Artikel 33"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 31 GG besagt: Bundesrecht bricht Landesrecht. Dies ist eine zentrale Kollisionsregel.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 10",
+          "chapter": "Art. 31 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q35",
+        "text": "Welche Institution wird in Artikel 92 GG als Träger der rechtsprechenden Gewalt genannt?",
+        "options": [
+          "Der Bundespräsident",
+          "Die Richter",
+          "Die Bundesregierung",
+          "Der Bundestag"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 92 GG bestimmt, dass die rechtsprechende Gewalt den Richtern anvertraut ist.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 27",
+          "chapter": "Art. 92 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q36",
+        "text": "Welche Aufgabe hat das Bundesverfassungsgericht laut Artikel 93 GG?",
+        "options": [
+          "Es überprüft nur Landesgesetze",
+          "Es entscheidet über Verfassungsstreitigkeiten und Grundrechtsverletzungen",
+          "Es erlässt Gesetze",
+          "Es ernennt Richter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 93 GG weist dem Bundesverfassungsgericht die Aufgabe zu, über Verfassungsstreitigkeiten und Grundrechtsverletzungen zu entscheiden.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 27",
+          "chapter": "Art. 93 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Was garantiert Artikel 97 Absatz 1 GG?",
+        "options": [
+          "Die Unabhängigkeit der Richter",
+          "Die Ernennung durch den Bundestag",
+          "Die Wahl durch den Bundesrat",
+          "Die Befristung aller Richterstellen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 97 Abs. 1 GG garantiert, dass Richter unabhängig und nur dem Gesetz unterworfen sind.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 29",
+          "chapter": "Art. 97 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Welche Strafe ist laut Artikel 102 GG abgeschafft?",
+        "options": [
+          "Die lebenslange Freiheitsstrafe",
+          "Die Todesstrafe",
+          "Die Geldstrafe",
+          "Die Zwangsarbeit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 102 GG hebt die Todesstrafe ausdrücklich auf.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 30",
+          "chapter": "Art. 102 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q39",
+        "text": "Was regelt Artikel 103 Absatz 2 GG?",
+        "options": [
+          "Eine Tat kann nur bestraft werden, wenn sie gesetzlich bestimmt war.",
+          "Alle Gesetze müssen veröffentlicht werden.",
+          "Alle Bürger müssen wählen.",
+          "Kein Deutscher darf ausgeliefert werden."
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 103 Abs. 2 GG bestimmt den Grundsatz nullum crimen sine lege – keine Strafe ohne Gesetz.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 30",
+          "chapter": "Art. 103 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q40",
+        "text": "Welcher Artikel bestimmt, dass die Todesstrafe abgeschafft ist?",
+        "options": [
+          "Artikel 100",
+          "Artikel 101",
+          "Artikel 102",
+          "Artikel 103"
+        ],
+        "correctIndex": 2,
+        "explanation": "Artikel 102 GG bestimmt klar die Abschaffung der Todesstrafe.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 30",
+          "chapter": "Art. 102 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q41",
+        "text": "Welche Einnahmen stehen laut Artikel 106 Absatz 1 GG ausschließlich dem Bund zu?",
+        "options": [
+          "Die Zölle und Verbrauchsteuern",
+          "Die Einkommensteuer",
+          "Die Grundsteuer",
+          "Die Gewerbesteuer"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 106 Abs. 1 GG nennt Zölle und Verbrauchsteuern als Einnahmen, die ausschließlich dem Bund zufließen.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 32",
+          "chapter": "Art. 106 GG"
+        },
+        "tags": [
+          "Definition",
+          "Finanzwesen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q42",
+        "text": "Was regelt Artikel 107 Absatz 2 GG?",
+        "options": [
+          "Die Auflösung des Bundestages",
+          "Den Länderfinanzausgleich",
+          "Die Wahl des Bundespräsidenten",
+          "Die Schuldenbremse"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 107 Abs. 2 GG verpflichtet den Bund zu einem Ausgleich der unterschiedlichen Finanzkraft der Länder.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 33",
+          "chapter": "Art. 107 GG"
+        },
+        "tags": [
+          "Regel",
+          "Finanzwesen"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q43",
+        "text": "Wer ist laut Artikel 109 GG in der Haushaltswirtschaft selbständig?",
+        "options": [
+          "Nur der Bund",
+          "Nur die Länder",
+          "Bund und Länder jeweils",
+          "Die Gemeinden allein"
+        ],
+        "correctIndex": 2,
+        "explanation": "Artikel 109 Abs. 1 GG bestimmt, dass Bund und Länder jeweils eigenständig und unabhängig in ihrer Haushaltswirtschaft sind.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 35",
+          "chapter": "Art. 109 GG"
+        },
+        "tags": [
+          "Regel",
+          "Finanzwesen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Welche Kreditobergrenze sieht Artikel 109 Absatz 3 GG vor?",
+        "options": [
+          "0,35 % des nominalen BIP",
+          "1 % des nominalen BIP",
+          "3 % des nominalen BIP",
+          "5 % des nominalen BIP"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 109 Abs. 3 GG legt fest, dass die Kreditaufnahme 0,35 % des nominalen BIP nicht überschreiten darf.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 35",
+          "chapter": "Art. 109 GG"
+        },
+        "tags": [
+          "Regel",
+          "Finanzwesen"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q45",
+        "text": "Welche Kontrolle übt der Bundesrechnungshof gemäß Artikel 114 GG aus?",
+        "options": [
+          "Er prüft die Haushalts- und Wirtschaftsführung des Bundes.",
+          "Er prüft die Gesetzgebung der Länder.",
+          "Er kontrolliert die Bundeswehr.",
+          "Er genehmigt die Ausgaben des Bundespräsidenten."
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 114 GG bestimmt, dass der Bundesrechnungshof die Ordnungsmäßigkeit und Wirtschaftlichkeit der Bundesfinanzen prüft.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 36",
+          "chapter": "Art. 114 GG"
+        },
+        "tags": [
+          "Verantwortung",
+          "Finanzwesen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q46",
+        "text": "Was stellt Artikel 115a GG fest?",
+        "options": [
+          "Den Verteidigungsfall",
+          "Den Haushaltsnotstand",
+          "Die Auflösung des Bundestages",
+          "Den Rücktritt des Bundespräsidenten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 115a GG regelt die Feststellung des Verteidigungsfalles durch Bundestag und Bundesrat.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 38",
+          "chapter": "Art. 115a GG"
+        },
+        "tags": [
+          "Definition",
+          "Verteidigungsfall"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q47",
+        "text": "Wer erhält laut Artikel 115b GG im Verteidigungsfall die Befehls- und Kommandogewalt über die Streitkräfte?",
+        "options": [
+          "Der Bundespräsident",
+          "Der Bundeskanzler",
+          "Der Verteidigungsminister",
+          "Der Bundestag"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 115b GG überträgt im Verteidigungsfall die Befehls- und Kommandogewalt auf den Bundeskanzler.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 38",
+          "chapter": "Art. 115b GG"
+        },
+        "tags": [
+          "Regel",
+          "Verteidigungsfall"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q48",
+        "text": "Welche Maßnahme erlaubt Artikel 115c Absatz 2 Nr. 2 GG im Verteidigungsfall?",
+        "options": [
+          "Unbegrenzte Steuererhöhungen",
+          "Verlängerung von Fristen für Freiheitsentziehungen bis zu vier Tagen",
+          "Abschaffung des Bundesrates",
+          "Wahlverschiebungen ohne Frist"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 115c Abs. 2 Nr. 2 GG erlaubt abweichende Fristen für Freiheitsentziehungen im Verteidigungsfall, maximal vier Tage.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 38",
+          "chapter": "Art. 115c GG"
+        },
+        "tags": [
+          "Regel",
+          "Verteidigungsfall"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q49",
+        "text": "Welche Personengruppe wird in Artikel 116 GG als 'Deutsche' definiert?",
+        "options": [
+          "Nur Staatsbürger, die in Deutschland geboren sind",
+          "Alle Inhaber der deutschen Staatsangehörigkeit sowie Vertriebene deutscher Volkszugehörigkeit",
+          "Nur deutsche Staatsbürger ohne doppelte Staatsangehörigkeit",
+          "Nur Personen mit Wohnsitz in Deutschland"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 116 GG definiert Deutsche als Staatsangehörige und Vertriebene deutscher Volkszugehörigkeit (inklusive deren Ehegatten und Abkömmlinge).",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 40",
+          "chapter": "Art. 116 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q50",
+        "text": "Welcher Artikel des Grundgesetzes hebt die Todesstrafe auf?",
+        "options": [
+          "Artikel 101",
+          "Artikel 102",
+          "Artikel 103",
+          "Artikel 104"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 102 GG erklärt eindeutig: Die Todesstrafe ist abgeschafft.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 30",
+          "chapter": "Art. 102 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q51",
+        "text": "Was regelt Artikel 117 Absatz 1 GG im Übergangsrecht?",
+        "options": [
+          "Das Fortbestehen entgegenstehender Regelungen zum Gleichberechtigungsgebot bis 1953",
+          "Das Ende der alliierten Besatzung",
+          "Die Aufhebung der Wehrpflicht",
+          "Das Wahlalter"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 117 Abs. 1 GG erlaubt entgegenstehendes Recht zu Art. 3 Abs. 2 GG bis spätestens 31. März 1953.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 40",
+          "chapter": "Art. 117 GG"
+        },
+        "tags": [
+          "Regel",
+          "Übergangsrecht"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q52",
+        "text": "Welcher Artikel überträgt dem Bund das Eigentum an Reichswasserstraßen?",
+        "options": [
+          "Artikel 87",
+          "Artikel 88",
+          "Artikel 89",
+          "Artikel 90"
+        ],
+        "correctIndex": 2,
+        "explanation": "Artikel 89 GG bestimmt, dass der Bund Eigentümer der bisherigen Reichswasserstraßen ist.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 25",
+          "chapter": "Art. 89 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Welche Institution entscheidet laut Artikel 100 GG über die Verfassungswidrigkeit von Gesetzen?",
+        "options": [
+          "Der Bundestag",
+          "Das Bundesverfassungsgericht",
+          "Der Bundespräsident",
+          "Der Bundesrat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 100 GG verpflichtet Gerichte, bei Zweifeln über die Verfassungsmäßigkeit das Bundesverfassungsgericht anzurufen.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 30",
+          "chapter": "Art. 100 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q54",
+        "text": "Was garantiert Artikel 103 Absatz 1 GG jedem vor Gericht?",
+        "options": [
+          "Das Recht auf rechtliches Gehör",
+          "Das Recht auf Berufung",
+          "Das Recht auf anwaltliche Vertretung",
+          "Das Recht auf Entschädigung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 103 Abs. 1 GG garantiert das rechtliche Gehör. Berufung, Vertretung oder Entschädigung sind gesondert geregelt.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 30",
+          "chapter": "Art. 103 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q55",
+        "text": "Welcher Artikel bestimmt die Mehrheitserfordernisse im Bundestag und der Bundesversammlung?",
+        "options": [
+          "Artikel 120",
+          "Artikel 121",
+          "Artikel 122",
+          "Artikel 123"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 121 GG definiert die Mehrheit als Mehrheit der gesetzlichen Mitgliederzahl.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 41",
+          "chapter": "Art. 121 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q56",
+        "text": "Was regelt Artikel 125a Absatz 1 GG?",
+        "options": [
+          "Fortgeltung bestimmter Bundesgesetze, auch wenn die Gesetzgebungskompetenz entfällt",
+          "Die Auflösung des Bundestages",
+          "Die Rechte des Bundespräsidenten",
+          "Das Wahlrecht für EU-Bürger"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 125a Abs. 1 GG bestimmt, dass Bundesrecht fortgilt, auch wenn die Kompetenz entfallen ist, bis es durch Landesrecht ersetzt wird.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 41-42",
+          "chapter": "Art. 125a GG"
+        },
+        "tags": [
+          "Übergangsrecht"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q57",
+        "text": "Welcher Artikel des Grundgesetzes stellt klar: Die Todesstrafe ist abgeschafft?",
+        "options": [
+          "Artikel 102",
+          "Artikel 103",
+          "Artikel 104",
+          "Artikel 105"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 102 GG bestimmt eindeutig: Die Todesstrafe ist abgeschafft.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 30",
+          "chapter": "Art. 102 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q58",
+        "text": "Welche Regelung enthält Artikel 140 GG?",
+        "options": [
+          "Übernahme von Bestimmungen der Weimarer Reichsverfassung",
+          "Einführung des Wahlrechts ab 16 Jahren",
+          "Regelung des Verteidigungsfalls",
+          "Bestimmungen zur Finanzverfassung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 140 GG übernimmt die Artikel 136, 137, 138, 139 und 141 der Weimarer Reichsverfassung in das Grundgesetz.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 46",
+          "chapter": "Art. 140 GG"
+        },
+        "tags": [
+          "Übergangsrecht"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q59",
+        "text": "Welcher Artikel regelt das Ende der Gültigkeit des Grundgesetzes im Falle einer neuen Verfassung?",
+        "options": [
+          "Artikel 144",
+          "Artikel 145",
+          "Artikel 146",
+          "Artikel 147"
+        ],
+        "correctIndex": 2,
+        "explanation": "Artikel 146 GG bestimmt, dass das Grundgesetz seine Gültigkeit verliert, sobald eine vom Volk beschlossene Verfassung in Kraft tritt.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 50",
+          "chapter": "Art. 146 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q60",
+        "text": "Wann trat das Grundgesetz gemäß Artikel 145 Absatz 2 GG in Kraft?",
+        "options": [
+          "Am 1. Januar 1949",
+          "Am 23. Mai 1949",
+          "Am 22. März 1949",
+          "Am 3. Oktober 1990"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 145 Abs. 2 GG bestimmt, dass das Grundgesetz mit Ablauf des 23. Mai 1949 in Kraft trat.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 50",
+          "chapter": "Art. 145 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q61",
+        "text": "Was garantiert Artikel 33 Absatz 2 GG?",
+        "options": [
+          "Gleicher Zugang zu öffentlichen Ämtern nach Eignung, Befähigung und Leistung",
+          "Das Recht auf Eigentum",
+          "Das Recht auf Bildung",
+          "Das Wahlrecht ab 16 Jahren"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 33 Abs. 2 GG sichert den gleichen Zugang zu öffentlichen Ämtern nach Eignung, Befähigung und fachlicher Leistung.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 10",
+          "chapter": "Art. 33 GG"
+        },
+        "tags": [
+          "Definition",
+          "Rechte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q62",
+        "text": "Welches Organ kann nach Artikel 61 GG den Bundespräsidenten anklagen?",
+        "options": [
+          "Bundestag oder Bundesrat",
+          "Nur der Bundestag",
+          "Nur der Bundesrat",
+          "Das Bundesverfassungsgericht von Amts wegen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 61 GG bestimmt, dass Bundestag oder Bundesrat den Bundespräsidenten wegen vorsätzlicher Gesetzesverletzungen anklagen können.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 15-16",
+          "chapter": "Art. 61 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q63",
+        "text": "Wer ernennt die Bundesminister laut Artikel 64 GG?",
+        "options": [
+          "Der Bundeskanzler",
+          "Der Bundestag",
+          "Der Bundespräsident",
+          "Der Bundesrat"
+        ],
+        "correctIndex": 2,
+        "explanation": "Artikel 64 GG legt fest, dass die Bundesminister auf Vorschlag des Bundeskanzlers vom Bundespräsidenten ernannt und entlassen werden.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 16",
+          "chapter": "Art. 64 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q64",
+        "text": "Welches Organ entscheidet über die Zustimmung oder den Einspruch des Bundesrates zu Gesetzen?",
+        "options": [
+          "Der Bundespräsident",
+          "Der Bundestag",
+          "Der Bundesrat",
+          "Das Bundesverfassungsgericht"
+        ],
+        "correctIndex": 2,
+        "explanation": "Artikel 77 GG regelt das Gesetzgebungsverfahren und die Beteiligung des Bundesrates mit Zustimmung oder Einspruch.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 20",
+          "chapter": "Art. 77 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q65",
+        "text": "Was legt Artikel 82 Absatz 1 GG fest?",
+        "options": [
+          "Gesetze werden vom Bundespräsidenten ausgefertigt und im Bundesgesetzblatt verkündet.",
+          "Gesetze werden nur vom Bundestag verkündet.",
+          "Der Bundeskanzler erlässt Gesetze allein.",
+          "Der Bundesrat veröffentlicht Gesetze."
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 82 Abs. 1 GG regelt die Ausfertigung durch den Bundespräsidenten und die Verkündung im Bundesgesetzblatt.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 21",
+          "chapter": "Art. 82 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q66",
+        "text": "Welche Aufgabe hat der Bundespräsident gemäß Artikel 59 GG?",
+        "options": [
+          "Er vertritt den Bund völkerrechtlich und schließt Verträge.",
+          "Er leitet die Bundesregierung.",
+          "Er erlässt Gesetze.",
+          "Er bestimmt die Bundesrichter."
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 59 Abs. 1 GG verpflichtet den Bundespräsidenten, den Bund völkerrechtlich zu vertreten und Verträge zu schließen.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 15",
+          "chapter": "Art. 59 GG"
+        },
+        "tags": [
+          "Verantwortung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q67",
+        "text": "Welcher Artikel verankert das Recht auf Petitionen?",
+        "options": [
+          "Artikel 16a",
+          "Artikel 17",
+          "Artikel 19",
+          "Artikel 21"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 17 GG gibt jedermann das Recht, sich mit Bitten oder Beschwerden schriftlich an die zuständigen Stellen zu wenden.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 5",
+          "chapter": "Art. 17 GG"
+        },
+        "tags": [
+          "Definition",
+          "Grundrechte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q68",
+        "text": "Welche Einschränkungen können laut Artikel 17a GG für Grundrechte im Wehrdienst bestehen?",
+        "options": [
+          "Meinungsfreiheit, Versammlungsfreiheit, Petitionsrecht",
+          "Eigentumsfreiheit",
+          "Religionsfreiheit",
+          "Freizügigkeit nur für Ausländer"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 17a GG erlaubt Einschränkungen der Meinungsfreiheit, Versammlungsfreiheit und des Petitionsrechts für Wehr- und Ersatzdienstleistende.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 5-6",
+          "chapter": "Art. 17a GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q69",
+        "text": "Welche Aufgabe hat der Gemeinsame Ausschuss nach Artikel 53a GG?",
+        "options": [
+          "Er vertritt Bundestag und Bundesrat im Verteidigungsfall",
+          "Er wählt den Bundespräsidenten",
+          "Er bestimmt die Gesetze über Steuern",
+          "Er entscheidet über die Schulpflicht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 53a GG beschreibt den Gemeinsamen Ausschuss als Ersatzorgan im Verteidigungsfall, zusammengesetzt aus Abgeordneten und Ländervertretern.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 13",
+          "chapter": "Art. 53a GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q70",
+        "text": "Welche Aufgabe hat der Wehrbeauftragte laut Artikel 45b GG?",
+        "options": [
+          "Schutz der Grundrechte und Kontrolle der Bundeswehr",
+          "Verwaltung der Justiz",
+          "Ernennung der Richter",
+          "Erarbeitung von Haushaltsplänen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 45b GG bestimmt den Wehrbeauftragten als Hilfsorgan des Bundestages zum Schutz der Grundrechte und zur Kontrolle der Bundeswehr.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 12",
+          "chapter": "Art. 45b GG"
+        },
+        "tags": [
+          "Verantwortung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q71",
+        "text": "Welches Gremium entscheidet laut Artikel 41 GG über die Gültigkeit von Wahlen?",
+        "options": [
+          "Der Bundesrat",
+          "Der Bundestag",
+          "Das Bundesverfassungsgericht",
+          "Der Bundespräsident"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 41 GG legt fest, dass der Bundestag über die Wahlprüfung und den Verlust der Mitgliedschaft entscheidet.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 11",
+          "chapter": "Art. 41 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q72",
+        "text": "Welches Grundrecht kann nach Artikel 18 GG verwirkt werden?",
+        "options": [
+          "Meinungsfreiheit, Eigentum, Asylrecht u. a.",
+          "Das Wahlrecht",
+          "Die Religionsfreiheit",
+          "Das Erbrecht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 18 GG erlaubt die Verwirkung bestimmter Grundrechte, wenn sie zum Kampf gegen die freiheitliche demokratische Grundordnung missbraucht werden.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 6",
+          "chapter": "Art. 18 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q73",
+        "text": "Welche Verfahrensregel stellt Artikel 19 Absatz 1 GG auf?",
+        "options": [
+          "Einschränkungen von Grundrechten müssen allgemein und unter Angabe des Artikels erfolgen.",
+          "Grundrechte können im Einzelfall beliebig aufgehoben werden.",
+          "Nur der Bundestag darf Grundrechte beschränken.",
+          "Grundrechte gelten nur für Deutsche."
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 19 Abs. 1 GG schreibt vor, dass Einschränkungen nur allgemein und mit Angabe des betroffenen Grundrechts erfolgen dürfen.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 6",
+          "chapter": "Art. 19 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q74",
+        "text": "Welche Parteien sind nach Artikel 21 GG verfassungswidrig?",
+        "options": [
+          "Parteien, die die freiheitliche demokratische Grundordnung beeinträchtigen oder beseitigen wollen",
+          "Parteien mit zu wenig Mitgliedern",
+          "Parteien ohne Programm",
+          "Parteien mit fehlender Finanzierung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 21 Abs. 2 GG erklärt Parteien für verfassungswidrig, wenn sie die freiheitliche demokratische Grundordnung beeinträchtigen oder beseitigen wollen.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 7",
+          "chapter": "Art. 21 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q75",
+        "text": "Welche Hauptstadt bestimmt Artikel 22 GG für Deutschland?",
+        "options": [
+          "Bonn",
+          "Berlin",
+          "Frankfurt am Main",
+          "Hamburg"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 22 Abs. 1 GG bestimmt Berlin als Hauptstadt der Bundesrepublik Deutschland.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 7",
+          "chapter": "Art. 22 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q76",
+        "text": "Was verbietet Artikel 26 Absatz 1 GG?",
+        "options": [
+          "Die Vorbereitung eines Angriffskrieges",
+          "Die Todesstrafe",
+          "Den Bau von Autobahnen",
+          "Das Streikrecht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 26 Abs. 1 GG verbietet die Vorbereitung eines Angriffskrieges als verfassungswidrig und unter Strafe zu stellen.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 8",
+          "chapter": "Art. 26 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q77",
+        "text": "Welche Regel enthält Artikel 29 GG?",
+        "options": [
+          "Die Möglichkeit zur Neugliederung des Bundesgebiets",
+          "Die Einführung des Wahlrechts ab 16 Jahren",
+          "Die Finanzierung der Länder",
+          "Die Auflösung des Bundestages"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 29 GG erlaubt die Neugliederung des Bundesgebiets zur besseren Erfüllung der Länderaufgaben.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 9",
+          "chapter": "Art. 29 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q78",
+        "text": "Was regelt Artikel 30 GG?",
+        "options": [
+          "Die staatlichen Befugnisse und Aufgaben sind Sache der Länder, soweit das Grundgesetz nichts anderes bestimmt.",
+          "Der Bundeskanzler ernennt Richter.",
+          "Die Bundeswehr wird vom Bundespräsidenten geführt.",
+          "Der Bundestag ist oberstes Verwaltungsorgan."
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 30 GG bestimmt die originäre Zuständigkeit der Länder, solange das Grundgesetz keine abweichende Regel vorsieht.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 9-10",
+          "chapter": "Art. 30 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q79",
+        "text": "Welcher Artikel regelt die Amtshilfe zwischen Behörden?",
+        "options": [
+          "Artikel 34",
+          "Artikel 35",
+          "Artikel 36",
+          "Artikel 37"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 35 GG verpflichtet alle Behörden von Bund und Ländern zur gegenseitigen Rechts- und Amtshilfe.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 10",
+          "chapter": "Art. 35 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q80",
+        "text": "Was bestimmt Artikel 37 GG?",
+        "options": [
+          "Der Bundeszwang bei Pflichtverletzungen eines Landes",
+          "Die Auflösung des Bundestages",
+          "Die Ernennung des Bundeskanzlers",
+          "Die Regelung der Grundrechte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 37 GG erlaubt der Bundesregierung mit Zustimmung des Bundesrates Maßnahmen des Bundeszwangs, wenn ein Land seine Pflichten verletzt.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 11",
+          "chapter": "Art. 37 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q81",
+        "text": "Welcher Artikel bestimmt das Wahlalter für den Bundestag?",
+        "options": [
+          "Artikel 38 Absatz 2",
+          "Artikel 39 Absatz 1",
+          "Artikel 40 Absatz 1",
+          "Artikel 41 Absatz 1"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 38 Abs. 2 GG legt fest, dass das Wahlrecht ab dem vollendeten 18. Lebensjahr besteht.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 11",
+          "chapter": "Art. 38 GG"
+        },
+        "tags": [
+          "Definition",
+          "Wahlen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q82",
+        "text": "Welcher Artikel regelt die Sitzungsperiode des Bundestages?",
+        "options": [
+          "Artikel 39",
+          "Artikel 40",
+          "Artikel 41",
+          "Artikel 42"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 39 GG regelt die Wahlperiode, Zusammentritt und Dauer des Bundestages.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 11",
+          "chapter": "Art. 39 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q83",
+        "text": "Was legt Artikel 56 GG für den Bundespräsidenten fest?",
+        "options": [
+          "Den Amtseid",
+          "Die Wahlperiode",
+          "Die Absetzung",
+          "Die Wiederwahlmöglichkeiten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 56 GG enthält den Eid des Bundespräsidenten bei Amtsantritt.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 15",
+          "chapter": "Art. 56 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q84",
+        "text": "Wer bestimmt laut Artikel 69 GG den Stellvertreter des Bundeskanzlers?",
+        "options": [
+          "Der Bundestag",
+          "Der Bundespräsident",
+          "Der Bundeskanzler",
+          "Der Bundesrat"
+        ],
+        "correctIndex": 2,
+        "explanation": "Artikel 69 Abs. 1 GG verpflichtet den Bundeskanzler, einen Bundesminister zu seinem Stellvertreter zu ernennen.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 17",
+          "chapter": "Art. 69 GG"
+        },
+        "tags": [
+          "Verantwortung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q85",
+        "text": "Was ist laut Artikel 91 GG bei einer drohenden Gefahr für die freiheitliche demokratische Grundordnung möglich?",
+        "options": [
+          "Ein Land kann Polizeikräfte anderer Länder und Bundesgrenzschutz anfordern.",
+          "Der Bundestag wird automatisch aufgelöst.",
+          "Die Todesstrafe wird eingeführt.",
+          "Die Bundesregierung verliert ihre Befugnisse."
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 91 GG erlaubt im Gefahrenfall die Anforderung von Kräften anderer Länder oder des Bundesgrenzschutzes.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 26",
+          "chapter": "Art. 91 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q86",
+        "text": "Welche Aufgabe hat die Bundesbank gemäß Artikel 88 GG?",
+        "options": [
+          "Sie sichert die Preisstabilität.",
+          "Sie bestimmt die Löhne.",
+          "Sie wählt den Bundespräsidenten.",
+          "Sie erlässt Gesetze."
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 88 GG legt fest, dass die Bundesbank das Ziel der Preisstabilität verfolgt, ihre Aufgaben können der EZB übertragen werden.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 25",
+          "chapter": "Art. 88 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q87",
+        "text": "Welche Institutionen sind laut Artikel 95 GG die obersten Gerichtshöfe des Bundes?",
+        "options": [
+          "Bundesgerichtshof, Bundesverwaltungsgericht, Bundesfinanzhof, Bundesarbeitsgericht, Bundessozialgericht",
+          "Nur das Bundesverfassungsgericht",
+          "Bundestag und Bundesrat",
+          "Die Landesgerichte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 95 Abs. 1 GG benennt die fünf obersten Gerichtshöfe des Bundes.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 28",
+          "chapter": "Art. 95 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q88",
+        "text": "Welcher Artikel schreibt die Unabhängigkeit der Richter fest?",
+        "options": [
+          "Artikel 96",
+          "Artikel 97",
+          "Artikel 98",
+          "Artikel 99"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 97 GG garantiert die Unabhängigkeit der Richter, die nur dem Gesetz unterworfen sind.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 29",
+          "chapter": "Art. 97 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q89",
+        "text": "Welches Grundrecht ist in Artikel 104 Absatz 1 GG geschützt?",
+        "options": [
+          "Die Freiheit der Person",
+          "Die Eigentumsfreiheit",
+          "Die Wissenschaftsfreiheit",
+          "Die Pressefreiheit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 104 Abs. 1 GG schützt die Freiheit der Person; Einschränkungen sind nur per Gesetz und unter Einhaltung der Form zulässig.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 30",
+          "chapter": "Art. 104 GG"
+        },
+        "tags": [
+          "Definition",
+          "Grundrechte"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q90",
+        "text": "Welcher Artikel regelt die Zuständigkeit bei völkerrechtlichen Verträgen?",
+        "options": [
+          "Artikel 58",
+          "Artikel 59",
+          "Artikel 60",
+          "Artikel 61"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 59 GG gibt dem Bundespräsidenten die Kompetenz, den Bund völkerrechtlich zu vertreten und Verträge abzuschließen.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 15",
+          "chapter": "Art. 59 GG"
+        },
+        "tags": [
+          "Verantwortung"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q91",
+        "text": "Was bestimmt Artikel 140 GG im Zusammenhang mit der Weimarer Reichsverfassung?",
+        "options": [
+          "Die Übernahme bestimmter Artikel der WRV ins Grundgesetz",
+          "Die Einführung der Schulpflicht",
+          "Die Einrichtung der Bundeswehr",
+          "Die Festlegung der Bundesländer"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 140 GG übernimmt die Artikel 136–139 und 141 der Weimarer Reichsverfassung ins Grundgesetz.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 46",
+          "chapter": "Art. 140 GG"
+        },
+        "tags": [
+          "Übergangsrecht"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q92",
+        "text": "Welche Aufgabe hat der Stabilitätsrat laut Artikel 109a GG?",
+        "options": [
+          "Überwachung der Haushaltswirtschaft von Bund und Ländern",
+          "Wahl des Bundespräsidenten",
+          "Gesetzgebungskompetenz",
+          "Bestimmung des Wahlalters"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 109a GG regelt den Stabilitätsrat, der Haushaltsnotlagen überwachen und Sanierungsprogramme aufstellen soll.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 36",
+          "chapter": "Art. 109a GG"
+        },
+        "tags": [
+          "Finanzwesen"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q93",
+        "text": "Welche Institution entscheidet über Verfassungsbeschwerden laut Artikel 93 GG?",
+        "options": [
+          "Der Bundestag",
+          "Der Bundesrat",
+          "Das Bundesverfassungsgericht",
+          "Der Bundespräsident"
+        ],
+        "correctIndex": 2,
+        "explanation": "Artikel 93 Abs. 1 Nr. 4a GG weist dem Bundesverfassungsgericht die Entscheidung über Verfassungsbeschwerden zu.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 27",
+          "chapter": "Art. 93 GG"
+        },
+        "tags": [
+          "Verfahren"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q94",
+        "text": "Was ist laut Artikel 23 GG Ziel der Mitwirkung Deutschlands?",
+        "options": [
+          "Die Stärkung der NATO",
+          "Die Entwicklung der Europäischen Union",
+          "Die Bildung eines einheitlichen Staates",
+          "Die Unterstützung der UNO"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 23 GG regelt die Mitwirkung an der Europäischen Union als vereintes Europa.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 7-8",
+          "chapter": "Art. 23 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q95",
+        "text": "Welcher Artikel regelt die Bundeswehr?",
+        "options": [
+          "Artikel 87a",
+          "Artikel 88",
+          "Artikel 89",
+          "Artikel 90"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 87a GG bestimmt die Aufstellung und den Einsatz der Streitkräfte.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 23",
+          "chapter": "Art. 87a GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q96",
+        "text": "Was bestimmt Artikel 24 GG?",
+        "options": [
+          "Übertragung von Hoheitsrechten auf zwischenstaatliche Einrichtungen",
+          "Die Währungsordnung",
+          "Die Bundeswehr",
+          "Die Staatsangehörigkeit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 24 GG erlaubt die Übertragung von Hoheitsrechten auf internationale Einrichtungen.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 8",
+          "chapter": "Art. 24 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q97",
+        "text": "Welcher Artikel enthält die Sozialbindung des Eigentums?",
+        "options": [
+          "Artikel 13",
+          "Artikel 14",
+          "Artikel 15",
+          "Artikel 16"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artikel 14 Abs. 2 GG bestimmt: Eigentum verpflichtet, sein Gebrauch soll zugleich dem Wohle der Allgemeinheit dienen.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 5",
+          "chapter": "Art. 14 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q98",
+        "text": "Was regelt Artikel 25 GG?",
+        "options": [
+          "Die allgemeinen Regeln des Völkerrechts sind Bestandteil des Bundesrechts.",
+          "Die allgemeine Schulpflicht",
+          "Die Todesstrafe",
+          "Die Regelung der Grundsteuer"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 25 GG macht allgemeine Regeln des Völkerrechts zu Bundesrecht mit Vorrang vor Gesetzen.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 8",
+          "chapter": "Art. 25 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q99",
+        "text": "Welcher Artikel regelt die Staatsangehörigkeit im Bund?",
+        "options": [
+          "Artikel 73 Nr. 2",
+          "Artikel 74 Nr. 1",
+          "Artikel 75",
+          "Artikel 76"
+        ],
+        "correctIndex": 0,
+        "explanation": "Artikel 73 Nr. 2 GG legt die ausschließliche Gesetzgebungskompetenz des Bundes für die Staatsangehörigkeit fest.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 18",
+          "chapter": "Art. 73 GG"
+        },
+        "tags": [
+          "Definition"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q100",
+        "text": "Welcher Artikel bestimmt, dass das Grundgesetz seine Gültigkeit verliert, sobald eine neue Verfassung in Kraft tritt?",
+        "options": [
+          "Artikel 144",
+          "Artikel 145",
+          "Artikel 146",
+          "Artikel 147"
+        ],
+        "correctIndex": 2,
+        "explanation": "Artikel 146 GG bestimmt, dass das Grundgesetz durch eine vom Volk beschlossene Verfassung ersetzt werden kann.",
+        "source": {
+          "citation": "Grundgesetz, BGBl. 2025 I Nr. 94",
+          "pages": "S. 50",
+          "chapter": "Art. 146 GG"
+        },
+        "tags": [
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

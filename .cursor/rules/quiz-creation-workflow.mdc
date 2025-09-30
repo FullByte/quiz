@@ -1,0 +1,72 @@
+---
+description: Quiz creation workflow - Four-step process for creating new quizzes
+globs: ["**/quiz.json", "**/index.html", "_template/**"]
+alwaysApply: false
+---
+
+# Quiz Creation Workflow
+
+When creating a new quiz, follow this exact four-step process:
+
+## Step 1: File Structure Setup
+
+**Category and Naming:**
+- Place quiz in relevant category folder (`sport/`, `gesetze/`, `ai/`) or create new category
+- Use URL-friendly names: lowercase, short, underscores for multi-word names (e.g., `machine_learning`, `basketball`)
+
+**Template Setup:**
+```bash
+# Create directory and copy template files
+mkdir [category]/[quiz_name]
+cp -r _template/copyme/* [category]/[quiz_name]/
+
+# Update configuration
+python update_config.py
+```
+
+## Step 2: Generate quiz.json
+
+**Requirements:**
+- Use provided source document (PDF) to generate questions
+- Generate approximately 100 questions
+- Structure must strictly adhere to `_template/schema.json`
+- Each question must include:
+  - 4 options (1 correct, 3 plausible distractors)
+  - Brief explanation
+  - Precise source citation (page, chapter)
+  - Difficulty tag (`leicht`, `mittel`, or `schwer`)
+
+**Validation:**
+```bash
+npx ajv validate -s _template/schema.json -d [category]/[quiz_name]/quiz.json
+```
+
+## Step 3: Create banner.png
+
+**Design Requirements:**
+- Dimensions: 1200x300px (4:1 ratio)
+- Style: Modern, professional, align with app's primary color (`#546de5`)
+- Content: Thematic illustration without text
+- Location: Save as `banner.png` inside quiz directory
+
+## Step 4: Customize index.html
+
+**Required Changes:**
+
+**Page Title:**
+```html
+<title>[Quiz Name] Quiz</title>
+```
+
+**Favicon:**
+```html
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>[EMOJI]</text></svg>">
+```
+
+**Loading Animation:**
+```html
+<div id="loading">
+  <div class="loading-spinner">[EMOJI]</div>
+  <p>[Quiz Name] Quiz wird geladen...</p>
+</div>
+```

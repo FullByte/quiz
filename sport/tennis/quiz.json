@@ -1,0 +1,2226 @@
+{
+  "quiz": {
+    "title": "Quiz zu den ITF Tennisregeln",
+    "description": "Ein Multiple-Choice-Quiz mit Fragen zu Definitionen, Regeln, Ausnahmen und Verantwortlichkeiten aus den Tennisregeln der ITF.",
+    "language": "de",
+    "version": "1.0.0",
+    "metadata": {
+      "createdAt": "2025-09-25T14:34:29.538552Z",
+      "notes": "Erster Teil des Fragenkatalogs, ca. 15 Fragen. Weitere folgen in zusätzlichen Teilen."
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "sourceDocument": {
+      "title": "Tennisregeln der ITF",
+      "version": "10.11.2024",
+      "year": 2024,
+      "pdfFilename": "Tennisregeln_der_ITF.pdf"
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Wie lang ist das Spielfeld für Einzelspiele laut Regel 1 der ITF-Tennisregeln?",
+        "options": [
+          "23,77 m",
+          "20,00 m",
+          "25,00 m",
+          "18,50 m"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Spielfeld für Einzelspiele ist 23,77 m lang. Andere Längen sind nicht in den offiziellen Regeln vorgesehen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 217",
+          "chapter": "Regel 1: Spielfeld"
+        },
+        "tags": [
+          "Definition",
+          "Spielfeld"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Höhe hat das Netz in der Mitte des Spielfelds?",
+        "options": [
+          "91,4 cm",
+          "100 cm",
+          "80 cm",
+          "107 cm"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Netz ist in der Mitte 91,4 cm hoch. 107 cm ist die Höhe an den Netzpfosten.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 217",
+          "chapter": "Regel 1: Spielfeld"
+        },
+        "tags": [
+          "Definition",
+          "Netz"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Welche Breite darf die Aufschlagmittellinie haben?",
+        "options": [
+          "5 cm",
+          "10 cm",
+          "2 cm",
+          "7,5 cm"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Aufschlagmittellinie sowie das Mittelzeichen müssen 5 cm breit sein.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 218",
+          "chapter": "Regel 1: Spielfeld"
+        },
+        "tags": [
+          "Spielfeld",
+          "Linien"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Was gilt, wenn ein Ball eine Spielfeldlinie berührt?",
+        "options": [
+          "Der Ball gilt als im Spielfeld.",
+          "Der Ball gilt als im Aus.",
+          "Der Punkt wird wiederholt.",
+          "Der Spieler verliert den Punkt."
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Ball, der eine Linie berührt, gilt als innerhalb des Spielfeldes.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 225",
+          "chapter": "Regel 12: Ball berührt eine Linie"
+        },
+        "tags": [
+          "Regel",
+          "Linie"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Wann verliert ein Spieler den Punkt laut Regel 24?",
+        "options": [
+          "Wenn der Ball den Spieler selbst berührt.",
+          "Wenn er zwei Aufschlagfehler macht.",
+          "Wenn er das Netz während des Spiels berührt.",
+          "Alle genannten Fälle."
+        ],
+        "correctIndex": 3,
+        "explanation": "Regel 24 listet verschiedene Situationen auf, in denen ein Punkt verloren geht, z. B. bei zwei Aufschlagfehlern, wenn der Ball den Spieler berührt oder das Netz berührt wird.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 229-230",
+          "chapter": "Regel 24: Punktverlust"
+        },
+        "tags": [
+          "Regel",
+          "Punktverlust"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Wie wird ein Standard-Spiel gezählt?",
+        "options": [
+          "0-15-30-40-Spiel",
+          "0-10-20-30-Spiel",
+          "0-5-10-15-Spiel",
+          "1-2-3-4-Spiel"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Standard-Spiel wird in der Reihenfolge 0, 15, 30, 40 und Spiel gezählt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 221",
+          "chapter": "Regel 5: Zählweise in einem Spiel"
+        },
+        "tags": [
+          "Zählweise",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Wie viele Punkte muss ein Spieler im Tie-Break mindestens erreichen, um zu gewinnen?",
+        "options": [
+          "7 Punkte mit 2 Punkten Vorsprung",
+          "5 Punkte ohne Vorsprung",
+          "10 Punkte egal wie",
+          "6 Punkte mit 1 Punkt Vorsprung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Tie-Break wird gewonnen, wenn ein Spieler mindestens 7 Punkte erreicht und dabei mit 2 Punkten führt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 222",
+          "chapter": "Regel 5b: Tie-Break-Spiel"
+        },
+        "tags": [
+          "Zählweise",
+          "Tie-Break"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Wann müssen die Spieler die Spielfeldseiten wechseln?",
+        "options": [
+          "Nach jedem ungeraden Spiel",
+          "Nach jedem Spiel",
+          "Nur nach einem Satz",
+          "Immer nach zwei Spielen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Seiten werden nach dem 1., 3. und jedem weiteren ungeraden Spiel sowie nach jedem Satz gewechselt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 224",
+          "chapter": "Regel 10: Wechsel der Spielfeldseiten"
+        },
+        "tags": [
+          "Spielfeld",
+          "Wechsel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q9",
+        "text": "Wann liegt ein Fußfehler vor?",
+        "options": [
+          "Wenn der Aufschläger die Grundlinie mit dem Fuß berührt",
+          "Wenn der Aufschläger springt",
+          "Wenn der Aufschläger den Ball ins Netz schlägt",
+          "Wenn der Aufschläger zu lange wartet"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Fußfehler liegt vor, wenn der Aufschläger die Grundlinie, das Spielfeld oder die seitliche Begrenzungslinie mit dem Fuß berührt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 226-227",
+          "chapter": "Regel 18: Fußfehler"
+        },
+        "tags": [
+          "Aufschlag",
+          "Fehler"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q10",
+        "text": "Was geschieht, wenn ein Aufschlag das Netz berührt und danach ins richtige Feld fällt?",
+        "options": [
+          "Der Aufschlag wird wiederholt",
+          "Der Aufschläger verliert den Punkt",
+          "Der Rückschläger gewinnt den Punkt",
+          "Der Ball gilt als Aus"
+        ],
+        "correctIndex": 0,
+        "explanation": "Berührt der Ball beim Aufschlag das Netz, fällt aber ins richtige Feld, so wird der Aufschlag wiederholt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 228",
+          "chapter": "Regel 22: Wiederholung des Aufschlags"
+        },
+        "tags": [
+          "Aufschlag",
+          "Wiederholung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q11",
+        "text": "Wann verliert ein Spieler sofort den Punkt?",
+        "options": [
+          "Wenn er den Ball trägt oder fängt",
+          "Wenn er zwei Aufschlagfehler macht",
+          "Wenn er das Netz während des Balls berührt",
+          "Alle genannten Fälle"
+        ],
+        "correctIndex": 3,
+        "explanation": "Alle genannten Fälle führen zu Punktverlust gemäß Regel 24.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 229-230",
+          "chapter": "Regel 24: Punktverlust"
+        },
+        "tags": [
+          "Punktverlust",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Wie viele Sekunden sind zwischen den Punkten erlaubt?",
+        "options": [
+          "25 Sekunden",
+          "20 Sekunden",
+          "30 Sekunden",
+          "15 Sekunden"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zwischen den Punkten sind maximal 25 Sekunden erlaubt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 235",
+          "chapter": "Regel 29: Kontinuierliches Spiel"
+        },
+        "tags": [
+          "Zeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q13",
+        "text": "Wie lange darf eine Satzpause dauern?",
+        "options": [
+          "120 Sekunden",
+          "90 Sekunden",
+          "60 Sekunden",
+          "150 Sekunden"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Satzpause darf maximal 120 Sekunden dauern.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 235",
+          "chapter": "Regel 29: Kontinuierliches Spiel"
+        },
+        "tags": [
+          "Zeit",
+          "Pause"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q14",
+        "text": "Was gilt für Beratung während eines normalen Wettspiels (kein Mannschaftswettkampf)?",
+        "options": [
+          "Sie ist nicht erlaubt",
+          "Sie ist jederzeit erlaubt",
+          "Nur in Satzpausen erlaubt",
+          "Nur durch Handzeichen erlaubt"
+        ],
+        "correctIndex": 0,
+        "explanation": "In Einzelwettspielen ist Beratung grundsätzlich nicht erlaubt, außer es gibt eine spezielle Genehmigung durch die ITF.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 236",
+          "chapter": "Regel 30: Beratung"
+        },
+        "tags": [
+          "Beratung",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Wie viele Aufsprünge des Balls sind im Rollstuhltennis erlaubt?",
+        "options": [
+          "Zwei",
+          "Einer",
+          "Drei",
+          "Beliebig viele"
+        ],
+        "correctIndex": 0,
+        "explanation": "Im Rollstuhltennis ist die Zwei-Aufsprung-Regel erlaubt: Der Ball darf zweimal aufspringen, bevor er zurückgespielt werden muss.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 238",
+          "chapter": "Regeln für Rollstuhltennis"
+        },
+        "tags": [
+          "Rollstuhltennis",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Wo muss der Aufschläger bei Beginn eines Spiels stehen?",
+        "options": [
+          "Hinter der rechten Hälfte des Spielfelds",
+          "Hinter der linken Hälfte des Spielfelds",
+          "Beliebig hinter der Grundlinie",
+          "In der Mitte hinter der Grundlinie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Aufschläger beginnt jedes Spiel hinter der rechten Hälfte des Spielfelds.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 226",
+          "chapter": "Regel 17: Ausführung des Aufschlags"
+        },
+        "tags": [
+          "Aufschlag",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q17",
+        "text": "Wann gilt ein Aufschlag als Fehler?",
+        "options": [
+          "Wenn der Ball eine Einzelstütze trifft",
+          "Wenn der Ball ins richtige Feld fällt",
+          "Wenn der Rückschläger nicht bereit ist",
+          "Wenn der Ball die Netzkante berührt, aber ins Feld fällt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Aufschlag, der eine Einzelstütze berührt, ist ein Fehler, auch wenn der Ball anschließend ins richtige Feld fällt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 227",
+          "chapter": "Regel 19: Aufschlagfehler"
+        },
+        "tags": [
+          "Fehler",
+          "Aufschlag"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Wann ist der gesamte Punkt zu wiederholen?",
+        "options": [
+          "Wenn ein Ball während des Spiels aufs Feld rollt",
+          "Wenn der Rückschläger den Ball nicht trifft",
+          "Wenn der Ball die Linie berührt",
+          "Wenn der Aufschlag ein Fehler ist"
+        ],
+        "correctIndex": 0,
+        "explanation": "Rollt während des Spiels ein anderer Ball aufs Feld, ist der gesamte Punkt zu wiederholen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 229",
+          "chapter": "Regel 23: Wiederholungen"
+        },
+        "tags": [
+          "Wiederholung",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Wann gilt ein Rückschlag als gut?",
+        "options": [
+          "Wenn der Ball das Netz berührt und ins richtige Feld fällt",
+          "Wenn der Ball zweimal aufspringt",
+          "Wenn der Ball auf den Körper des Gegners trifft",
+          "Wenn der Ball ins Aus geht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Rückschlag ist gut, wenn der Ball das Netz berührt, dieses überfliegt und im richtigen Feld landet.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 231",
+          "chapter": "Regel 25: Guter Rückschlag"
+        },
+        "tags": [
+          "Rückschlag",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Wie wird bei absichtlicher Behinderung durch den Gegner entschieden?",
+        "options": [
+          "Der Spieler erhält den Punkt",
+          "Der Punkt wird wiederholt",
+          "Der Gegner erhält den Punkt",
+          "Das Spiel wird abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bei absichtlicher Behinderung durch den Gegner erhält der Spieler den Punkt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 232",
+          "chapter": "Regel 26: Behinderung"
+        },
+        "tags": [
+          "Behinderung",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Was geschieht, wenn ein Spieler beim Aufschlag hinter der falschen Hälfte steht?",
+        "options": [
+          "Der Irrtum wird berichtigt und das Spiel fortgesetzt",
+          "Der Punkt wird wiederholt",
+          "Der Spieler verliert den Punkt",
+          "Der Satz wird neu begonnen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Steht ein Spieler beim Aufschlag auf der falschen Seite, wird der Irrtum berichtigt, ohne dass vorherige Punkte verloren gehen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 233",
+          "chapter": "Regel 27: Berichtigung von Irrtümern"
+        },
+        "tags": [
+          "Irrtum",
+          "Aufschlag"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q22",
+        "text": "Wer ist die letzte Instanz für Regelfragen?",
+        "options": [
+          "Der Oberschiedsrichter",
+          "Der Linienrichter",
+          "Der Netzrichter",
+          "Der Spieler selbst"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Oberschiedsrichter ist die letzte Instanz für alle Regelfragen und seine Entscheidung ist endgültig.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 250",
+          "chapter": "Anhang VI: Verantwortlichkeiten der Platz-Offiziellen"
+        },
+        "tags": [
+          "Offizielle",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Wie lange darf die Einschlagzeit vor einem Spiel dauern?",
+        "options": [
+          "5 Minuten",
+          "10 Minuten",
+          "15 Minuten",
+          "20 Minuten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Einschlagzeit darf maximal 5 Minuten dauern, außer die Veranstalter legen etwas anderes fest.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 235",
+          "chapter": "Regel 29: Kontinuierliches Spiel"
+        },
+        "tags": [
+          "Einschlagzeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q24",
+        "text": "Wann darf ein Linienrichter seine Entscheidung ändern?",
+        "options": [
+          "Wenn er seinen Fehler sofort bemerkt",
+          "Nur auf Protest eines Spielers",
+          "Nie",
+          "Nur nach dem Match"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Linienrichter darf seine Entscheidung ändern, wenn er selbst einen Fehler feststellt, nicht aber aufgrund eines Protests.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 252",
+          "chapter": "Anhang VI: Verantwortlichkeiten der Platz-Offiziellen"
+        },
+        "tags": [
+          "Linienrichter",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "Was geschieht, wenn ein Spieler den Ballabdruck auf Sand wegwischt, bevor der Schiedsrichter entscheidet?",
+        "options": [
+          "Der Gegner erhält den Punkt",
+          "Der Punkt wird wiederholt",
+          "Das Spiel wird unterbrochen",
+          "Der Schiedsrichter entscheidet für den Spieler"
+        ],
+        "correctIndex": 0,
+        "explanation": "Wischt ein Spieler den Ballabdruck weg, erkennt er damit an, dass der Gegner den Punkt erhält.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 253",
+          "chapter": "Handlungsanleitungen zu Anhang VI"
+        },
+        "tags": [
+          "Ballabdruck",
+          "Sandplatz"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Welche Besonderheit gilt im Rollstuhltennis beim Aufschlag?",
+        "options": [
+          "Der Spieler darf vor dem Schlag einen Anschub ausführen",
+          "Der Spieler darf im Sitzen keinen Aufschlag machen",
+          "Der Ball muss direkt nach dem Loslassen geschlagen werden",
+          "Es gibt keinen zweiten Aufschlag"
+        ],
+        "correctIndex": 0,
+        "explanation": "Im Rollstuhltennis darf der Aufschläger vor dem Schlag einen Anschub mit dem Rollstuhl ausführen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 238",
+          "chapter": "Regeln für Rollstuhltennis"
+        },
+        "tags": [
+          "Rollstuhltennis",
+          "Aufschlag"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Welche Farbe dürfen Tennisbälle haben?",
+        "options": [
+          "Weiß oder Gelb",
+          "Rot oder Blau",
+          "Nur Gelb",
+          "Grün"
+        ],
+        "correctIndex": 0,
+        "explanation": "Laut ITF sind nur weiße oder gelbe Bälle zugelassen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 241",
+          "chapter": "Anhang I: Bälle"
+        },
+        "tags": [
+          "Bälle",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q28",
+        "text": "Welche maximale Masse darf ein Tennisball haben?",
+        "options": [
+          "59,4 g",
+          "60 g",
+          "55 g",
+          "58 g"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Masse eines Balls muss zwischen 56,0 g und 59,4 g liegen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 241",
+          "chapter": "Anhang I: Bälle"
+        },
+        "tags": [
+          "Bälle",
+          "Technische Daten"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Welcher Balltyp ist für das Spiel auf schnellen Belägen vorgesehen?",
+        "options": [
+          "Balltyp 3 (langsam)",
+          "Balltyp 1 (schnell)",
+          "Balltyp 2 (mittel)",
+          "Alle Balltypen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Balltyp 3 (langsame Beschleunigung) ist für schnelle Beläge vorgesehen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 243",
+          "chapter": "Anhang I: Klassifizierung Ballarten"
+        },
+        "tags": [
+          "Bälle",
+          "Platzbelag"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Wie lang darf ein Schläger einschließlich Griff höchstens sein?",
+        "options": [
+          "73,7 cm",
+          "80 cm",
+          "70 cm",
+          "65 cm"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die maximale Länge eines Schlägers beträgt 73,7 cm.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 244",
+          "chapter": "Anhang II: Schläger"
+        },
+        "tags": [
+          "Schläger",
+          "Technische Daten"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q31",
+        "text": "Welche maximale Breite darf die Schlagfläche eines Schlägers haben?",
+        "options": [
+          "29,2 cm",
+          "30 cm",
+          "28 cm",
+          "31,7 cm"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Schlagfläche darf höchstens 29,2 cm breit sein.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 244",
+          "chapter": "Anhang II: Schläger"
+        },
+        "tags": [
+          "Schläger",
+          "Technische Daten"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q32",
+        "text": "Welche Art von Werbung ist auf dem Netz erlaubt?",
+        "options": [
+          "Nur im Bereich von 91,4 cm von der Netzpfostenmitte",
+          "Beliebige Werbung",
+          "Gar keine Werbung",
+          "Nur Sponsorenlogos in jeder Größe"
+        ],
+        "correctIndex": 0,
+        "explanation": "Werbung ist erlaubt, wenn sie im Bereich von 0,914 m von der Netzpfostenmitte angebracht ist und das Spiel nicht beeinträchtigt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 246",
+          "chapter": "Anhang IV: Werbung"
+        },
+        "tags": [
+          "Werbung",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q33",
+        "text": "Wie wird ein ‚No-Ad-Spiel‘ entschieden?",
+        "options": [
+          "Durch einen entscheidenden Punkt bei Einstand",
+          "Durch zwei Punkte Vorsprung",
+          "Durch drei Punkte in Folge",
+          "Durch einen Tie-Break bei 40 beide"
+        ],
+        "correctIndex": 0,
+        "explanation": "Im ‚No-Ad-Spiel‘ entscheidet ein einzelner Punkt bei Einstand über den Gewinn des Spiels.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 247",
+          "chapter": "Anhang V: No-Ad scoring"
+        },
+        "tags": [
+          "Zählweise",
+          "Alternative"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Wie viele Spiele braucht man, um einen Kurzsatz zu gewinnen?",
+        "options": [
+          "4 Spiele mit 2 Spielen Vorsprung",
+          "6 Spiele",
+          "3 Spiele",
+          "5 Spiele"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Kurzsatz ist gewonnen, sobald ein Spieler 4 Spiele erreicht und 2 Spiele Vorsprung hat.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 247",
+          "chapter": "Anhang V: Kurzsätze"
+        },
+        "tags": [
+          "Kurzsatz",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Wie viele Punkte sind in einem entscheidenden Match-Tie-Break bis zehn nötig?",
+        "options": [
+          "10 Punkte mit 2 Punkten Vorsprung",
+          "7 Punkte egal wie",
+          "12 Punkte ohne Vorsprung",
+          "15 Punkte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein entscheidender Match-Tie-Break bis zehn wird gewonnen, wenn 10 Punkte mit mindestens 2 Punkten Vorsprung erreicht sind.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 248",
+          "chapter": "Anhang V: Match-Tie-Break"
+        },
+        "tags": [
+          "Tie-Break",
+          "Alternative"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Wer ist die letzte Instanz für Tatsachenentscheidungen während eines Wettspiels?",
+        "options": [
+          "Der Schiedsrichter",
+          "Der Oberschiedsrichter",
+          "Der Linienrichter",
+          "Der Spieler selbst"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Schiedsrichter ist die letzte Instanz für Tatsachenentscheidungen im laufenden Match.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 250",
+          "chapter": "Anhang VI: Verantwortlichkeiten der Platz-Offiziellen"
+        },
+        "tags": [
+          "Offizielle",
+          "Entscheidung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Wie groß ist das Spielfeld für U10-Spieler auf einem roten Feld?",
+        "options": [
+          "10,97–12,80 m Länge und 4,27–6,10 m Breite",
+          "23,77 m Länge und 8,23 m Breite",
+          "17,68–18,29 m Länge und 6,10–8,23 m Breite",
+          "20 m Länge und 10 m Breite"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein rotes U10-Spielfeld ist 10,97–12,80 m lang und 4,27–6,10 m breit.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 255",
+          "chapter": "Anhang VII: Wettkämpfe U10"
+        },
+        "tags": [
+          "U10",
+          "Spielfeld"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Welche Netzhöhe gilt in der Mitte für ein oranges U10-Feld?",
+        "options": [
+          "80–91,4 cm",
+          "100 cm",
+          "70 cm",
+          "107 cm"
+        ],
+        "correctIndex": 0,
+        "explanation": "Für orange U10-Spielfelder beträgt die Netzhöhe in der Mitte 80–91,4 cm.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 255",
+          "chapter": "Anhang VII: Wettkämpfe U10"
+        },
+        "tags": [
+          "U10",
+          "Netz"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q39",
+        "text": "Welche Ballkategorie wird für Spieler bis 8 Jahre im U10-Wettkampf verwendet?",
+        "options": [
+          "Kategorie 3 (rot)",
+          "Kategorie 2 (orange)",
+          "Kategorie 1 (grün)",
+          "Kategorie 4 (blau)"
+        ],
+        "correctIndex": 0,
+        "explanation": "Für Spieler bis 8 Jahre ist ein Ball der Kategorie 3 (rot) vorgesehen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 255",
+          "chapter": "Anhang VII: U10 Bälle"
+        },
+        "tags": [
+          "U10",
+          "Bälle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q40",
+        "text": "Welche Ballkategorie ist für 8- bis 10-jährige Spieler vorgesehen, die ein oranges Feld nutzen?",
+        "options": [
+          "Kategorie 2 (orange)",
+          "Kategorie 1 (grün)",
+          "Kategorie 3 (rot)",
+          "Kategorie 5 (gelb)"
+        ],
+        "correctIndex": 0,
+        "explanation": "Spieler von 8–10 Jahren spielen mit Kategorie 2 (orange) auf einem orange markierten Feld.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 255",
+          "chapter": "Anhang VII: U10 Bälle"
+        },
+        "tags": [
+          "U10",
+          "Bälle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q41",
+        "text": "Welche Ballkategorie ist für fortgeschrittene 9- bis 10-jährige Spieler auf Standardfeldern erlaubt?",
+        "options": [
+          "Kategorie 1 (grün)",
+          "Kategorie 2 (orange)",
+          "Kategorie 3 (rot)",
+          "Normale gelbe Bälle"
+        ],
+        "correctIndex": 0,
+        "explanation": "Fortgeschrittene 9–10-jährige Spieler verwenden Bälle der Kategorie 1 (grün) auf Standardfeldern.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 255",
+          "chapter": "Anhang VII: U10 Bälle"
+        },
+        "tags": [
+          "U10",
+          "Bälle"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q42",
+        "text": "Wie lange darf ein Match im U10-Bereich maximal dauern, wenn ein Zeitlimit eingeführt wurde?",
+        "options": [
+          "Das wird vom Turnierausschuss festgelegt",
+          "60 Minuten",
+          "90 Minuten",
+          "120 Minuten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Für U10-Matches kann der Turnierausschuss ein Zeitlimit festlegen, das die Spieldauer bestimmt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 256",
+          "chapter": "Anhang VII: Wettspiele mit Zeitlimit"
+        },
+        "tags": [
+          "U10",
+          "Zeitlimit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q43",
+        "text": "Welche maximale Masse darf ein Ball der Kategorie 3 (rot, Standard) haben?",
+        "options": [
+          "46,9 g",
+          "51,5 g",
+          "43 g",
+          "36 g"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Ball der Kategorie 3 (rot, Standard) darf maximal 46,9 g wiegen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 256",
+          "chapter": "Anhang VII: U10 Ballkategorien"
+        },
+        "tags": [
+          "U10",
+          "Bälle"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Welche Sprunghöhe ist für grüne Bälle (Kategorie 1) vorgesehen?",
+        "options": [
+          "118–132 cm",
+          "85–105 cm",
+          "102–115 cm",
+          "135–147 cm"
+        ],
+        "correctIndex": 0,
+        "explanation": "Grüne Bälle (Kategorie 1) sollen eine Sprunghöhe von 118–132 cm haben.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 256",
+          "chapter": "Anhang VII: U10 Ballkategorien"
+        },
+        "tags": [
+          "U10",
+          "Bälle"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Welche Mindestdeckenhöhe wird für Hallenplätze empfohlen?",
+        "options": [
+          "9,0 m",
+          "7,5 m",
+          "10 m",
+          "8,0 m"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die empfohlene Mindestdeckenhöhe beträgt 9,0 m, gemessen am Netz.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 257",
+          "chapter": "Anhang IX: Richtlinien Platzbau"
+        },
+        "tags": [
+          "Platzbau",
+          "Richtlinie"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q46",
+        "text": "Wie breit dürfen die Grundlinien maximal sein?",
+        "options": [
+          "10 cm",
+          "5 cm",
+          "7,5 cm",
+          "12 cm"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Grundlinien dürfen bis zu 10 cm breit sein, andere Linien 2,5–5 cm.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 218",
+          "chapter": "Regel 1: Spielfeld"
+        },
+        "tags": [
+          "Spielfeld",
+          "Linien"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q47",
+        "text": "Wie weit außerhalb des Doppelfelds müssen die Netzpfosten im Doppel stehen?",
+        "options": [
+          "91,4 cm",
+          "100 cm",
+          "50 cm",
+          "120 cm"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Netzpfosten im Doppel stehen 91,4 cm außerhalb des Doppelfelds.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 217",
+          "chapter": "Regel 1: Spielfeld"
+        },
+        "tags": [
+          "Netz",
+          "Spielfeld"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q48",
+        "text": "Wann darf ein Spieler beim Rückschlag stehen, wo er möchte?",
+        "options": [
+          "Jederzeit, auch außerhalb der Linien",
+          "Nur innerhalb des Feldes",
+          "Nur hinter der Grundlinie",
+          "Nur in der Mitte des Feldes"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Rückschläger darf jede Position innerhalb oder außerhalb des Spielfelds einnehmen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 223",
+          "chapter": "Regel 8: Aufschläger und Rückschläger"
+        },
+        "tags": [
+          "Rückschlag",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q49",
+        "text": "Wann wechselt im Doppel die Reihenfolge der Aufschläger?",
+        "options": [
+          "Nach jedem Spiel",
+          "Nach jedem Satz",
+          "Nach jedem Punkt",
+          "Gar nicht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Im Doppel wechselt die Reihenfolge der Aufschläger nach jedem Spiel und bleibt bis Satzende bestehen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 225",
+          "chapter": "Regel 14: Reihenfolge beim Aufschlag"
+        },
+        "tags": [
+          "Doppel",
+          "Aufschlag"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q50",
+        "text": "Was geschieht, wenn der Aufschläger den Ball beim Wurf fängt, anstatt ihn zu schlagen?",
+        "options": [
+          "Kein Fehler, der Ball darf gefangen werden",
+          "Aufschlagfehler",
+          "Punktverlust",
+          "Wiederholung des gesamten Spiels"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Ball darf gefangen oder aufkommen gelassen werden, ohne dass es ein Fehler ist.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 227",
+          "chapter": "Regel 19: Aufschlagfehler"
+        },
+        "tags": [
+          "Aufschlag",
+          "Fehler"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q51",
+        "text": "Wie viele Bälle dürfen zu Beginn eines Wettspiels bekannt gegeben werden?",
+        "options": [
+          "2, 3, 4 oder 6",
+          "Nur 2 oder 4",
+          "Nur 3",
+          "6 bis 8"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Anzahl der Bälle pro Match muss vorab festgelegt werden, zulässig sind 2, 3, 4 oder 6 Bälle.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 220",
+          "chapter": "Regel 3: Bälle"
+        },
+        "tags": [
+          "Bälle",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q52",
+        "text": "Wann wird ein Punkt sofort verloren, auch wenn der Ball im Spiel ist?",
+        "options": [
+          "Wenn der Spieler das Netz berührt",
+          "Wenn der Spieler springt",
+          "Wenn der Spieler den Ball ins Netz schlägt",
+          "Wenn der Ball auf der Linie landet"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Berühren des Netzes während eines Ballwechsels führt zum sofortigen Punktverlust.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 229",
+          "chapter": "Regel 24: Punktverlust"
+        },
+        "tags": [
+          "Punktverlust",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q53",
+        "text": "Wann ist ein Rückschlag trotzdem gültig, obwohl der Ball die Netzpfosten berührt?",
+        "options": [
+          "Wenn er ins richtige Feld fällt",
+          "Nie",
+          "Nur bei Doppeln",
+          "Nur im Tie-Break"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Rückschlag ist gültig, wenn der Ball die Netzpfosten berührt, solange er danach ins richtige Feld fällt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 231",
+          "chapter": "Regel 25: Guter Rückschlag"
+        },
+        "tags": [
+          "Rückschlag",
+          "Netz"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q54",
+        "text": "Wann ist ein unabsichtlicher Doppelschlag keine Behinderung?",
+        "options": [
+          "Immer, solange er unabsichtlich ist",
+          "Nie",
+          "Nur im Doppel",
+          "Nur bei Aufschlägen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein unabsichtlicher Doppelschlag wird nicht als Behinderung gewertet.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 232",
+          "chapter": "Regel 26: Behinderung"
+        },
+        "tags": [
+          "Behinderung",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q55",
+        "text": "Was passiert, wenn ein Satz irrtümlich als Tie-Break-Satz begonnen wird, obwohl ein Vorteil-Satz vereinbart war?",
+        "options": [
+          "Wenn nur 1 Punkt gespielt wurde, sofortige Korrektur",
+          "Der Satz wird vollständig wiederholt",
+          "Der Satz wird abgebrochen",
+          "Keine Korrektur möglich"
+        ],
+        "correctIndex": 0,
+        "explanation": "Wird der Irrtum nach nur einem Punkt bemerkt, wird er sofort korrigiert. Nach mehr Punkten bleibt die Zählweise bestehen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 233",
+          "chapter": "Regel 27: Berichtigung von Irrtümern"
+        },
+        "tags": [
+          "Irrtum",
+          "Zählweise"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q56",
+        "text": "Was muss ein Aufschläger tun, wenn sein erster Aufschlag ein Fehler war?",
+        "options": [
+          "Er hat einen zweiten Aufschlag von derselben Seite",
+          "Er verliert den Punkt sofort",
+          "Der Punkt wird wiederholt",
+          "Der Gegner erhält automatisch den Punkt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach einem ersten Fehler darf der Aufschläger einen zweiten Aufschlag von derselben Seite ausführen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 228",
+          "chapter": "Regel 20: Zweiter Aufschlag"
+        },
+        "tags": [
+          "Aufschlag",
+          "Fehler"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q57",
+        "text": "Wann gilt ein Aufschläger als regelwidrig, wenn der Rückschläger nicht bereit ist?",
+        "options": [
+          "Nie, der Aufschlag ist dann keine Fehlerwertung",
+          "Immer, egal ob der Rückschläger bereit ist oder nicht",
+          "Nur im Doppel",
+          "Nur im Tie-Break"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Aufschlag zählt nicht als Fehler, wenn der Rückschläger erkennbar nicht bereit war.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 228",
+          "chapter": "Regel 21: Spielbereitschaft"
+        },
+        "tags": [
+          "Aufschlag",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q58",
+        "text": "Wann ist der gesamte Punkt zu wiederholen?",
+        "options": [
+          "Wenn ein Ball während des Spiels einen Vogel trifft",
+          "Wenn der Spieler springt",
+          "Wenn der Aufschläger den Ball ins Netz schlägt",
+          "Wenn der Rückschläger den Ball ins Aus spielt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Trifft der Ball während des Spiels einen Vogel, wird der gesamte Punkt wiederholt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 232",
+          "chapter": "Regel 26: Behinderung"
+        },
+        "tags": [
+          "Wiederholung",
+          "Behinderung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q59",
+        "text": "Wann verliert ein Spieler den Punkt beim Rückschlag eines Aufschlags?",
+        "options": [
+          "Wenn er den Ball annimmt, bevor er den Boden berührt",
+          "Wenn er den Ball korrekt annimmt",
+          "Wenn der Ball das Netz berührt und ins Feld fällt",
+          "Wenn er innerhalb der Linien steht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nimmt der Rückschläger den Ball an, bevor er den Boden berührt, verliert er den Punkt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 229",
+          "chapter": "Regel 24: Punktverlust"
+        },
+        "tags": [
+          "Aufschlag",
+          "Punktverlust"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q60",
+        "text": "Wann ist ein Rückschlag gültig, obwohl der Ball außerhalb der Netzpfosten gespielt wird?",
+        "options": [
+          "Wenn er ins richtige Spielfeld trifft",
+          "Niemals",
+          "Nur im Doppel",
+          "Nur wenn er die Netzkante berührt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Rückschlag ist gültig, wenn der Ball außerhalb der Netzpfosten gespielt wird und das richtige Feld trifft.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 231",
+          "chapter": "Regel 25: Guter Rückschlag"
+        },
+        "tags": [
+          "Rückschlag",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q61",
+        "text": "Wann verliert ein Spieler den Punkt, auch wenn er den Ball korrekt zurückschlägt?",
+        "options": [
+          "Wenn er oder sein Schläger das Netz berührt",
+          "Wenn er hinter der Grundlinie steht",
+          "Wenn er den Ball mit der Vorhand spielt",
+          "Wenn er zu lange wartet"
+        ],
+        "correctIndex": 0,
+        "explanation": "Berührt ein Spieler oder sein Schläger das Netz, verliert er den Punkt, auch wenn der Ball korrekt zurückgespielt wurde.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 229-230",
+          "chapter": "Regel 24: Punktverlust"
+        },
+        "tags": [
+          "Punktverlust",
+          "Netz"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q62",
+        "text": "Wann darf ein Spieler über das Netz greifen, um den Ball zu spielen?",
+        "options": [
+          "Wenn der Ball nach dem Aufprall zurückspringt oder geweht wird",
+          "Nie",
+          "Immer, auch vor dem Schlag",
+          "Nur beim Aufschlag"
+        ],
+        "correctIndex": 0,
+        "explanation": "Wenn der Ball im Feld aufspringt und zurückspringt, darf der Spieler über das Netz greifen, um ihn zurückzuspielen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 231",
+          "chapter": "Regel 25: Guter Rückschlag"
+        },
+        "tags": [
+          "Rückschlag",
+          "Netz"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q63",
+        "text": "Wann darf der Oberschiedsrichter das Spiel unterbrechen?",
+        "options": [
+          "Bei Dunkelheit, Wetter oder schlechter Platzbeschaffenheit",
+          "Nur wenn ein Spieler es verlangt",
+          "Gar nicht",
+          "Nur in Satzpausen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Oberschiedsrichter darf das Spiel u. a. wegen Dunkelheit, Wetter oder Platzproblemen unterbrechen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 250",
+          "chapter": "Anhang VI: Verantwortlichkeiten der Platz-Offiziellen"
+        },
+        "tags": [
+          "Offizielle",
+          "Unterbrechung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q64",
+        "text": "Wie breit darf die Netzeinfassung sein?",
+        "options": [
+          "5–6,35 cm",
+          "2,5 cm",
+          "10 cm",
+          "7,5 cm"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Netzeinfassung muss auf jeder Seite zwischen 5 cm und 6,35 cm breit sein.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 217",
+          "chapter": "Regel 1: Spielfeld"
+        },
+        "tags": [
+          "Netz",
+          "Spielfeld"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q65",
+        "text": "Wann gilt ein Ball als im Spielfeld?",
+        "options": [
+          "Wenn er eine Linie berührt",
+          "Nur wenn er innerhalb der Linien aufkommt",
+          "Wenn der Spieler es akzeptiert",
+          "Wenn der Schiedsrichter es sagt, unabhängig von den Linien"
+        ],
+        "correctIndex": 0,
+        "explanation": "Berührt der Ball eine Linie, gilt er als im Spielfeld.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 225",
+          "chapter": "Regel 12: Ball berührt eine Linie"
+        },
+        "tags": [
+          "Linien",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q66",
+        "text": "Wie hoch dürfen Netzpfosten maximal sein?",
+        "options": [
+          "1,07 m",
+          "1,20 m",
+          "0,91 m",
+          "1,50 m"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Netzpfosten dürfen nicht höher als 1,07 m sein, das entspricht der Netzhöhe an den Pfosten.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 217",
+          "chapter": "Regel 1: Spielfeld"
+        },
+        "tags": [
+          "Netz",
+          "Spielfeld"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q67",
+        "text": "Wie groß darf der Durchmesser der Netzpfosten maximal sein?",
+        "options": [
+          "15 cm",
+          "10 cm",
+          "20 cm",
+          "12 cm"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Netzpfosten dürfen maximal 15 cm im Durchmesser haben.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 218",
+          "chapter": "Regel 1: Spielfeld"
+        },
+        "tags": [
+          "Netz",
+          "Spielfeld"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q68",
+        "text": "Welche maximale Länge darf die Schlagfläche eines Schlägers haben?",
+        "options": [
+          "39,4 cm",
+          "40 cm",
+          "38 cm",
+          "35 cm"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Schlagfläche darf höchstens 39,4 cm lang sein.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 244",
+          "chapter": "Anhang II: Schläger"
+        },
+        "tags": [
+          "Schläger",
+          "Technische Daten"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q69",
+        "text": "Wann ist ein Schläger mit Batterie verboten?",
+        "options": [
+          "Immer, da Batterien als Energiequelle gelten",
+          "Nur wenn er im Wettkampf benutzt wird",
+          "Nur wenn er Solarzellen enthält",
+          "Nie, Batterien sind erlaubt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Schläger mit Batterien oder ähnlichen Energiequellen sind verboten, da sie die Spieleigenschaften beeinflussen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 221",
+          "chapter": "Regel 4: Schläger"
+        },
+        "tags": [
+          "Schläger",
+          "Verbot"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q70",
+        "text": "Welche Eigenschaften müssen alle Tennisbälle laut ITF erfüllen?",
+        "options": [
+          "Sie müssen auf der offiziellen Liste der zugelassenen Bälle stehen",
+          "Sie müssen immer aus Schaumstoff bestehen",
+          "Sie müssen rot oder blau gefärbt sein",
+          "Sie dürfen beliebige Größen haben"
+        ],
+        "correctIndex": 0,
+        "explanation": "Alle Turnierbälle müssen auf der offiziellen Liste der ITF zugelassenen Bälle stehen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 220",
+          "chapter": "Regel 3: Bälle"
+        },
+        "tags": [
+          "Bälle",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q71",
+        "text": "Wann darf ein Doppelpaar seine Rückschlagreihenfolge ändern?",
+        "options": [
+          "Nur zu Beginn eines Satzes",
+          "Nach jedem Spiel",
+          "Nach jedem Punkt",
+          "Jederzeit während des Spiels"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Rückschlagreihenfolge darf nur zu Beginn eines Satzes festgelegt und dann nicht mehr geändert werden.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 225",
+          "chapter": "Regel 15: Reihenfolge beim Rückschlag im Doppel"
+        },
+        "tags": [
+          "Doppel",
+          "Rückschlag"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q72",
+        "text": "Wann gilt ein Ball, der eine ständige Einrichtung berührt, als Punktverlust für den Schlagenden?",
+        "options": [
+          "Wenn er die Einrichtung berührt, bevor er den Boden trifft",
+          "Wenn er danach den Boden im Feld trifft",
+          "Wenn er ins Netz geht",
+          "Wenn er außerhalb der Linien landet"
+        ],
+        "correctIndex": 0,
+        "explanation": "Berührt der Ball eine ständige Einrichtung, bevor er den Boden trifft, verliert der Schlagende den Punkt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 225",
+          "chapter": "Regel 13: Ball berührt eine ständige Einrichtung"
+        },
+        "tags": [
+          "Punktverlust",
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q73",
+        "text": "Wann darf ein Schiedsrichter eine Entscheidung eines Linienrichters ändern?",
+        "options": [
+          "Nur sofort nach einer klaren Fehlentscheidung",
+          "Immer, auch später",
+          "Nur auf Wunsch des Spielers",
+          "Nie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Schiedsrichter darf eine Linienrichterentscheidung nur unverzüglich ändern, wenn sie eindeutig falsch war.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 251",
+          "chapter": "Anhang VI: Verantwortlichkeiten der Platz-Offiziellen"
+        },
+        "tags": [
+          "Linienrichter",
+          "Schiedsrichter"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q74",
+        "text": "Wann darf ein Spieler beim U10-Wettkampf mit grünem Ball antreten?",
+        "options": [
+          "Mit 9–10 Jahren auf Standardfeld",
+          "Mit 7 Jahren auf rotem Feld",
+          "Mit 8 Jahren auf orangem Feld",
+          "Mit 6 Jahren in jedem Feld"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der grüne Ball ist für fortgeschrittene Spieler von 9–10 Jahren auf dem Standardfeld vorgesehen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 255",
+          "chapter": "Anhang VII: Wettkämpfe U10"
+        },
+        "tags": [
+          "U10",
+          "Bälle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q75",
+        "text": "Wann ist Beratung eines Spielers durch Handzeichen erlaubt?",
+        "options": [
+          "Nie, Handzeichen gelten auch als unerlaubte Beratung",
+          "Immer",
+          "Nur im Doppel",
+          "Nur bei Unterbrechungen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Handzeichen gelten als Beratung und sind daher im Einzelspiel nicht erlaubt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 236",
+          "chapter": "Regel 30: Beratung"
+        },
+        "tags": [
+          "Beratung",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q76",
+        "text": "Wie lang ist ein Doppelspielfeld laut ITF-Regeln?",
+        "options": [
+          "23,77 m",
+          "20 m",
+          "25 m",
+          "18 m"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Spielfeld ist für Einzel und Doppel gleich lang: 23,77 m.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 217",
+          "chapter": "Regel 1: Spielfeld"
+        },
+        "tags": [
+          "Spielfeld",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q77",
+        "text": "Welche Breite hat ein Doppelspielfeld?",
+        "options": [
+          "10,97 m",
+          "8,23 m",
+          "9,50 m",
+          "12 m"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Doppelspielfeld ist 10,97 m breit.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 217",
+          "chapter": "Regel 1: Spielfeld"
+        },
+        "tags": [
+          "Spielfeld",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q78",
+        "text": "Wann gilt ein Fußfehler beim Aufschlag?",
+        "options": [
+          "Wenn der Spieler die Grundlinie mit dem Fuß berührt",
+          "Wenn der Spieler beide Füße vom Boden hebt",
+          "Wenn der Spieler den Ball ins Netz schlägt",
+          "Wenn der Spieler die Seitenlinie anschaut"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Fußfehler liegt vor, wenn der Spieler beim Aufschlag die Grundlinie oder Spielfeldbegrenzung mit dem Fuß berührt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 226-227",
+          "chapter": "Regel 18: Fußfehler"
+        },
+        "tags": [
+          "Aufschlag",
+          "Fehler"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q79",
+        "text": "Wann wird ein Punkt wiederholt, wenn der Ball das Netz berührt?",
+        "options": [
+          "Wenn er danach ins richtige Aufschlagfeld fällt",
+          "Immer",
+          "Nie",
+          "Nur im Doppel"
+        ],
+        "correctIndex": 0,
+        "explanation": "Berührt der Ball beim Aufschlag das Netz, fällt aber ins richtige Feld, wird der Aufschlag wiederholt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 228",
+          "chapter": "Regel 22: Wiederholung des Aufschlags"
+        },
+        "tags": [
+          "Aufschlag",
+          "Wiederholung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q80",
+        "text": "Wann ist ein Spieler beim Spielen behindert?",
+        "options": [
+          "Wenn der Gegner ihn absichtlich stört",
+          "Immer wenn er einen Punkt verliert",
+          "Wenn er das Netz berührt",
+          "Wenn er außerhalb des Feldes steht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Eine Behinderung liegt vor, wenn der Gegner den Spieler absichtlich stört.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 232",
+          "chapter": "Regel 26: Behinderung"
+        },
+        "tags": [
+          "Behinderung",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q81",
+        "text": "Wie viele Aufsprünge darf ein Ball im Rollstuhltennis haben?",
+        "options": [
+          "Zwei",
+          "Einer",
+          "Drei",
+          "Beliebig viele"
+        ],
+        "correctIndex": 0,
+        "explanation": "Im Rollstuhltennis ist die Zwei-Aufsprung-Regel gültig.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 238",
+          "chapter": "Regeln für Rollstuhltennis"
+        },
+        "tags": [
+          "Rollstuhltennis",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q82",
+        "text": "Welche Regel gilt für den Rollstuhl selbst im Rollstuhltennis?",
+        "options": [
+          "Er wird als Teil des Körpers betrachtet",
+          "Er darf nicht die Spielfeldlinien berühren",
+          "Er zählt nicht als Körperteil",
+          "Er darf nur aus Holz bestehen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Rollstuhl gilt als Teil des Körpers und unterliegt denselben Regeln.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 238",
+          "chapter": "Regeln für Rollstuhltennis"
+        },
+        "tags": [
+          "Rollstuhltennis",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q83",
+        "text": "Welche Farben dürfen auf Netzen nicht für Werbung verwendet werden?",
+        "options": [
+          "Weiß oder Gelb",
+          "Schwarz",
+          "Blau",
+          "Grün"
+        ],
+        "correctIndex": 0,
+        "explanation": "Werbung auf Netzen darf nicht weiß oder gelb sein, da diese Farben die Sicht beeinträchtigen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 246",
+          "chapter": "Anhang IV: Werbung"
+        },
+        "tags": [
+          "Werbung",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q84",
+        "text": "Wie viel Zeit darf maximal zwischen Punkten liegen?",
+        "options": [
+          "25 Sekunden",
+          "20 Sekunden",
+          "30 Sekunden",
+          "15 Sekunden"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zwischen Punkten sind maximal 25 Sekunden erlaubt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 235",
+          "chapter": "Regel 29: Kontinuierliches Spiel"
+        },
+        "tags": [
+          "Zeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q85",
+        "text": "Wie lang darf eine Satzpause höchstens sein?",
+        "options": [
+          "120 Sekunden",
+          "90 Sekunden",
+          "150 Sekunden",
+          "60 Sekunden"
+        ],
+        "correctIndex": 0,
+        "explanation": "Eine Satzpause darf maximal 120 Sekunden dauern.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 235",
+          "chapter": "Regel 29: Kontinuierliches Spiel"
+        },
+        "tags": [
+          "Pause",
+          "Zeit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q86",
+        "text": "Wie breit darf das Mittelzeichen an der Grundlinie sein?",
+        "options": [
+          "5 cm",
+          "10 cm",
+          "2,5 cm",
+          "7 cm"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Mittelzeichen muss 5 cm breit sein, genau wie die Aufschlagmittellinie.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 218",
+          "chapter": "Regel 1: Spielfeld"
+        },
+        "tags": [
+          "Spielfeld",
+          "Linien"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q87",
+        "text": "Wie lang ist ein Einzelspielfeld laut ITF-Regeln?",
+        "options": [
+          "23,77 m",
+          "20 m",
+          "25 m",
+          "22 m"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Einzelspielfeld ist 23,77 m lang – gleich wie das Doppelfeld.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 217",
+          "chapter": "Regel 1: Spielfeld"
+        },
+        "tags": [
+          "Spielfeld",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q88",
+        "text": "Wie breit ist ein Einzelspielfeld?",
+        "options": [
+          "8,23 m",
+          "10,97 m",
+          "9,5 m",
+          "7,8 m"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Einzelspielfeld ist 8,23 m breit.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 217",
+          "chapter": "Regel 1: Spielfeld"
+        },
+        "tags": [
+          "Spielfeld",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q89",
+        "text": "Wann darf ein Aufschläger mit einem Fuß außerhalb der gedachten Seitenlinie stehen?",
+        "options": [
+          "Nie, das gilt als Fußfehler",
+          "Immer",
+          "Nur im Doppel",
+          "Nur im Tie-Break"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Aufschläger darf die gedachte Verlängerung der Seitenlinien nicht mit dem Fuß berühren.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 226",
+          "chapter": "Regel 18: Fußfehler"
+        },
+        "tags": [
+          "Aufschlag",
+          "Fehler"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q90",
+        "text": "Wann wird ein zweiter Aufschlag ausgeführt?",
+        "options": [
+          "Wenn der erste Aufschlag ein Fehler war",
+          "Immer zweimal",
+          "Nur im Doppel",
+          "Nur bei Einstand"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein zweiter Aufschlag ist nur nötig, wenn der erste ein Fehler war.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 228",
+          "chapter": "Regel 20: Zweiter Aufschlag"
+        },
+        "tags": [
+          "Aufschlag",
+          "Fehler"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q91",
+        "text": "Wann verliert ein Spieler den Punkt, auch wenn der Ball korrekt gespielt wurde?",
+        "options": [
+          "Wenn er den Ball absichtlich trägt oder fängt",
+          "Wenn er hinter der Grundlinie steht",
+          "Wenn er im Doppel aufschlägt",
+          "Wenn er zu lange wartet"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das absichtliche Tragen oder Fangen des Balls führt zum sofortigen Punktverlust.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 229",
+          "chapter": "Regel 24: Punktverlust"
+        },
+        "tags": [
+          "Punktverlust",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q92",
+        "text": "Wann ist ein Rückschlag trotz Netzberührung gültig?",
+        "options": [
+          "Wenn er danach ins richtige Feld fällt",
+          "Nie",
+          "Nur im Doppel",
+          "Nur im Tie-Break"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Rückschlag ist gültig, wenn der Ball das Netz berührt, es überfliegt und ins richtige Feld fällt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 231",
+          "chapter": "Regel 25: Guter Rückschlag"
+        },
+        "tags": [
+          "Rückschlag",
+          "Netz"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q93",
+        "text": "Wann darf ein Linienrichter seine Entscheidung ändern?",
+        "options": [
+          "Wenn er seinen Fehler selbst erkennt",
+          "Nur auf Wunsch des Spielers",
+          "Nie",
+          "Nur nach dem Match"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Linienrichter darf seine Entscheidung ändern, wenn er selbst erkennt, dass sie falsch war.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 252",
+          "chapter": "Anhang VI: Verantwortlichkeiten der Platz-Offiziellen"
+        },
+        "tags": [
+          "Linienrichter",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q94",
+        "text": "Wann darf ein Rollstuhlspieler den Ball ein drittes Mal aufspringen lassen?",
+        "options": [
+          "Nie, spätestens nach dem zweiten Aufsprung muss er gespielt werden",
+          "Immer",
+          "Nur im Doppel",
+          "Nur bei Aufschlägen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Im Rollstuhltennis muss der Ball vor dem dritten Aufsprung gespielt werden.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 238",
+          "chapter": "Regeln für Rollstuhltennis"
+        },
+        "tags": [
+          "Rollstuhltennis",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q95",
+        "text": "Wann darf ein Spieler über das Netz springen, um auf die Gegnerseite zu gelangen?",
+        "options": [
+          "Nie, er verliert sonst den Punkt",
+          "Immer, solange er den Ball trifft",
+          "Nur im Doppel",
+          "Nur im Tie-Break"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Spieler darf nicht über das Netz springen – er verliert den Punkt, wenn er es tut.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 230",
+          "chapter": "Regel 24: Punktverlust"
+        },
+        "tags": [
+          "Punktverlust",
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q96",
+        "text": "Wie hoch darf das Netz an den Pfosten sein?",
+        "options": [
+          "1,07 m",
+          "91,4 cm",
+          "1,20 m",
+          "1,00 m"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Netz ist an den Pfosten 1,07 m hoch, in der Mitte 91,4 cm.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 217",
+          "chapter": "Regel 1: Spielfeld"
+        },
+        "tags": [
+          "Netz",
+          "Spielfeld"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q97",
+        "text": "Wann darf ein Spieler beim Aufschlag den Ball mit dem Schläger aufwerfen?",
+        "options": [
+          "Wenn er nur einen Arm nutzen kann",
+          "Immer",
+          "Nie",
+          "Nur im Doppel"
+        ],
+        "correctIndex": 0,
+        "explanation": "Spieler, die nur einen Arm nutzen können, dürfen den Ball mit dem Schläger aufwerfen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 226",
+          "chapter": "Regel 16: Aufschlag"
+        },
+        "tags": [
+          "Aufschlag",
+          "Ausnahme"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q98",
+        "text": "Wann darf ein Trainer einen Spieler beraten?",
+        "options": [
+          "Nur in Mannschaftswettkämpfen in Satzpausen und Seitenwechseln",
+          "Immer",
+          "Nie",
+          "Nur im Einzel"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beratung ist nur in Mannschaftswettkämpfen während Satzpausen und Seitenwechseln erlaubt.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 236",
+          "chapter": "Regel 30: Beratung"
+        },
+        "tags": [
+          "Beratung",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q99",
+        "text": "Wer entscheidet endgültig über Regelfragen, wenn der Schiedsrichter angezweifelt wird?",
+        "options": [
+          "Der Oberschiedsrichter",
+          "Der Linienrichter",
+          "Der Spieler",
+          "Das Publikum"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Oberschiedsrichter ist die letzte Instanz bei Regelfragen.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 250",
+          "chapter": "Anhang VI: Verantwortlichkeiten der Platz-Offiziellen"
+        },
+        "tags": [
+          "Offizielle",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q100",
+        "text": "Welche Farben dürfen Tennisbälle laut ITF haben?",
+        "options": [
+          "Weiß oder Gelb",
+          "Rot oder Blau",
+          "Nur Gelb",
+          "Grün"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tennisbälle dürfen nur weiß oder gelb sein.",
+        "source": {
+          "citation": "Tennisregeln der ITF, 10.11.2024",
+          "pages": "S. 241",
+          "chapter": "Anhang I: Bälle"
+        },
+        "tags": [
+          "Bälle",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      }
+    ]
+  }
+}

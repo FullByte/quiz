@@ -1,0 +1,2169 @@
+{
+  "quiz": {
+    "title": "Quiz zum Strafgesetzbuch (StGB)",
+    "description": "Gesamtausgabe mit ~100 Fragen aus dem StGB (verschiedene Kapitel, inkl. Erklärungen und Quellen).",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-09-26T12:39:15.429132Z",
+      "notes": "Automatisch generiert aus StGB.pdf; Seitenangaben beziehen sich auf die PDF-Paginierung."
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 90
+    },
+    "sourceDocument": {
+      "title": "Strafgesetzbuch (StGB)",
+      "version": "2024.11.07",
+      "year": 2024,
+      "pdfFilename": "StGB.pdf"
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist nach dem StGB unter Notwehr zu verstehen?",
+        "options": [
+          "Die Verteidigung, die erforderlich ist, um einen gegenwärtigen rechtswidrigen Angriff abzuwehren.",
+          "Jede Verteidigungshandlung gegen eine bereits abgeschlossene Straftat.",
+          "Nur die Flucht vor einem drohenden Angriff.",
+          "Die Vergeltung nach einem rechtswidrigen Angriff."
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 32 Abs. 2 definiert Notwehr als erforderliche Verteidigung gegen einen gegenwärtigen rechtswidrigen Angriff; Vergeltung oder vergangene Taten sind nicht umfasst.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 29",
+          "chapter": "§ 32 Notwehr"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Rechtsfolge hat eine Tat, die durch Notwehr geboten ist?",
+        "options": [
+          "Sie bleibt rechtswidrig, ist aber entschuldigt.",
+          "Sie ist nicht rechtswidrig.",
+          "Sie ist nur bei leichteren Delikten straflos.",
+          "Sie ist nur mit Einwilligung des Angegriffenen gerechtfertigt."
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 32 Abs. 1 stellt klar: Wer eine Tat begeht, die durch Notwehr geboten ist, handelt nicht rechtswidrig.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 29",
+          "chapter": "§ 32 Notwehr"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Unter welchen Voraussetzungen bleibt eine Notwehrüberschreitung nach § 33 StGB straflos?",
+        "options": [
+          "Bei Verwirrung, Furcht oder Schrecken.",
+          "Bei Zorn, Ärger oder Rache.",
+          "Wenn der Angriff von mehreren Personen ausgeht.",
+          "Wenn keine milderen Mittel verfügbar sind."
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 33 wird der Täter nicht bestraft, wenn er die Grenzen der Notwehr aus Verwirrung, Furcht oder Schrecken überschreitet; Zorn oder Ärger werden nicht genannt.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 29",
+          "chapter": "§ 33 Überschreitung der Notwehr"
+        },
+        "tags": [
+          "Regel",
+          "Ausnahme"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Welches Prinzip ist zentral für den rechtfertigenden Notstand (§ 34 StGB)?",
+        "options": [
+          "Starre Gleichwertigkeit der betroffenen Rechtsgüter.",
+          "Interessenabwägung mit wesentlichem Überwiegen des geschützten Interesses.",
+          "Ausschließliches Abstellen auf die subjektive Sicht des Täters.",
+          "Strikte Priorität des Eigentums vor Leib und Leben."
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 34 verlangt eine Abwägung; das geschützte Interesse muss das beeinträchtigte wesentlich überwiegen.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 29",
+          "chapter": "§ 34 Rechtfertigender Notstand"
+        },
+        "tags": [
+          "Regel",
+          "Abwägung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Welche Bedingung nennt § 34 StGB zusätzlich zur Interessenabwägung?",
+        "options": [
+          "Die Tat muss ein angemessenes Mittel sein.",
+          "Die Tat muss heimlich erfolgen.",
+          "Die Tat muss ohne Gefahr für Sachen erfolgen.",
+          "Die Tat ist nur bei Gefahren für Eigentum zulässig."
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 34 gilt nur, soweit die Tat ein angemessenes Mittel ist; Geheimhaltung oder Sachschutz sind nicht gefordert.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 29",
+          "chapter": "§ 34 Rechtfertigender Notstand"
+        },
+        "tags": [
+          "Regel",
+          "Abwägung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q6",
+        "text": "Worauf richtet sich Notwehr nach § 32 StGB?",
+        "options": [
+          "Auf die Abwehr eines gegenwärtigen rechtswidrigen Angriffs.",
+          "Auf die Beseitigung einer bereits eingetretenen Gefahr.",
+          "Auf die Vergeltung für eine vorangegangene Beleidigung.",
+          "Auf die Prävention allgemeiner Lebensrisiken."
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 32 Abs. 2 stellt die Abwehr eines gegenwärtigen rechtswidrigen Angriffs in den Mittelpunkt; § 34 behandelt Gefahren.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 29",
+          "chapter": "§ 32 Notwehr"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Ist Notwehr auch zugunsten eines anderen zulässig?",
+        "options": [
+          "Nein, nur zur Verteidigung eigener Rechtsgüter.",
+          "Ja, Notwehr kann auch zugunsten eines anderen ausgeübt werden.",
+          "Nur, wenn der andere ausdrücklich um Hilfe bittet.",
+          "Nur, wenn der andere minderjährig ist."
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 32 Abs. 2 nennt ausdrücklich die Abwehr eines Angriffs von sich oder einem anderen.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 29",
+          "chapter": "§ 32 Notwehr"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Welches Merkmal verlangt § 32 Abs. 2 StGB für die Verteidigungshandlung?",
+        "options": [
+          "Sie muss erforderlich sein.",
+          "Sie muss verhältnismäßig im engeren Sinn sein.",
+          "Sie muss absolut mildestes Mittel sein.",
+          "Sie muss von der Polizei angeordnet sein."
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Gesetzestext spricht von der erforderlichen Verteidigung; weitere einschränkende Formeln stehen dort nicht.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 29",
+          "chapter": "§ 32 Notwehr"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q9",
+        "text": "Welche Rechtsgüter nennt § 34 StGB ausdrücklich als durch Gefahr bedroht?",
+        "options": [
+          "Leben, Leib, Freiheit, Ehre, Eigentum oder ein anderes Rechtsgut.",
+          "Vermögen, Hausrecht, Datenschutz, Klima.",
+          "Nur Leben und Eigentum.",
+          "Nur Ehre und Vermögen."
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Wortlaut listet Leben, Leib, Freiheit, Ehre, Eigentum oder ein anderes Rechtsgut auf.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 29",
+          "chapter": "§ 34 Rechtfertigender Notstand"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "Welches Motiv führt NICHT zur Straflosigkeit nach § 33 StGB?",
+        "options": [
+          "Verwirrung",
+          "Furcht",
+          "Zorn",
+          "Schrecken"
+        ],
+        "correctIndex": 2,
+        "explanation": "§ 33 nennt Verwirrung, Furcht oder Schrecken; Zorn ist nicht genannt.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 29",
+          "chapter": "§ 33 Überschreitung der Notwehr"
+        },
+        "tags": [
+          "Regel",
+          "Ausnahme"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q11",
+        "text": "Wann ist die Freiheitsstrafe nach § 38 StGB 'zeitig'?",
+        "options": [
+          "Wenn sie mindestens zehn Jahre beträgt.",
+          "Wenn das Gesetz nicht lebenslange Freiheitsstrafe androht.",
+          "Wenn sie höchstens zwei Jahre beträgt.",
+          "Wenn sie zwischen einem und fünf Jahren beträgt."
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 38 Abs. 1: Die Freiheitsstrafe ist zeitig, wenn nicht lebenslange Freiheitsstrafe angedroht ist.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 38 Dauer der Freiheitsstrafe"
+        },
+        "tags": [
+          "Strafe",
+          "Schwellenwert"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Wie hoch ist das Höchstmaß der zeitigen Freiheitsstrafe (§ 38 Abs. 2 StGB)?",
+        "options": [
+          "Zehn Jahre",
+          "Zwölf Jahre",
+          "Fünfzehn Jahre",
+          "Zwanzig Jahre"
+        ],
+        "correctIndex": 2,
+        "explanation": "§ 38 Abs. 2 legt das Höchstmaß der zeitigen Freiheitsstrafe auf 15 Jahre fest.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 38 Dauer der Freiheitsstrafe"
+        },
+        "tags": [
+          "Strafe",
+          "Schwellenwert"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Wie hoch ist das Mindestmaß der zeitigen Freiheitsstrafe (§ 38 Abs. 2 StGB)?",
+        "options": [
+          "Eine Woche",
+          "Ein Monat",
+          "Drei Monate",
+          "Sechs Monate"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 38 Abs. 2: Mindestmaß ist ein Monat.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 38 Dauer der Freiheitsstrafe"
+        },
+        "tags": [
+          "Strafe",
+          "Schwellenwert"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Wie wird Freiheitsstrafe unter einem Jahr bemessen (§ 39 StGB)?",
+        "options": [
+          "Nach Tagen",
+          "Nach vollen Wochen und Monaten",
+          "Nach halben Monaten",
+          "Nach Quartalen"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 39: Unter einem Jahr nach vollen Wochen und Monaten; längere nach Monaten und Jahren.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 39 Bemessung der Freiheitsstrafe"
+        },
+        "tags": [
+          "Strafe",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "In welchem Rahmen wird die Geldstrafe in Tagessätzen verhängt (§ 40 Abs. 1 StGB)?",
+        "options": [
+          "Mindestens 1, höchstens 180 Tagessätze",
+          "Mindestens 5, höchstens 360 Tagessätze",
+          "Mindestens 10, höchstens 400 Tagessätze",
+          "Mindestens 30, höchstens 300 Tagessätze"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 40 Abs. 1: Mindestens fünf und, wenn nichts anderes bestimmt ist, höchstens 360 volle Tagessätze.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 40 Verhängung in Tagessätzen"
+        },
+        "tags": [
+          "Strafe",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "In welcher Spanne liegt die Höhe eines Tagessatzes (§ 40 Abs. 2 StGB)?",
+        "options": [
+          "Mindestens 1 Euro, höchstens 30.000 Euro",
+          "Mindestens 10 Euro, höchstens 10.000 Euro",
+          "Mindestens 5 Euro, höchstens 50.000 Euro",
+          "Mindestens 1 Euro, höchstens 100.000 Euro"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 40 Abs. 2: Ein Tagessatz wird auf mindestens einen und höchstens dreißigtausend Euro festgesetzt.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 40 Verhängung in Tagessätzen"
+        },
+        "tags": [
+          "Strafe",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Woran orientiert sich die Höhe eines Tagessatzes in der Regel (§ 40 Abs. 2 StGB)?",
+        "options": [
+          "Am durchschnittlichen monatlichen Bruttoeinkommen.",
+          "Am durchschnittlichen täglichen Nettoeinkommen.",
+          "An der Vermögenssteuerlast.",
+          "Am regionalen Durchschnittseinkommen."
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 40 Abs. 2: Das Gericht geht in der Regel vom durchschnittlichen täglichen Nettoeinkommen aus.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 40 Verhängung in Tagessätzen"
+        },
+        "tags": [
+          "Strafe",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Dürfen Einkünfte und Vermögen zur Bemessung eines Tagessatzes geschätzt werden (§ 40 Abs. 3 StGB)?",
+        "options": [
+          "Nein, eine Schätzung ist unzulässig.",
+          "Ja, sie können geschätzt werden.",
+          "Nur, wenn der Täter zustimmt.",
+          "Nur bei Vermögensstraftaten."
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 40 Abs. 3 erlaubt die Schätzung der Einkünfte, des Vermögens und anderer Grundlagen.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 40 Verhängung in Tagessätzen"
+        },
+        "tags": [
+          "Strafe",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Was muss die Entscheidung zur Geldstrafe zwingend enthalten (§ 40 Abs. 4 StGB)?",
+        "options": [
+          "Nur die Höhe der Tagessätze.",
+          "Nur die Zahl der Tagessätze.",
+          "Zahl und Höhe der Tagessätze.",
+          "Einkommensnachweise des Täters."
+        ],
+        "correctIndex": 2,
+        "explanation": "§ 40 Abs. 4: In der Entscheidung werden Zahl und Höhe der Tagessätze angegeben.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 40 Verhängung in Tagessätzen"
+        },
+        "tags": [
+          "Strafe",
+          "Verfahren"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Unter welcher Voraussetzung kann neben einer Freiheitsstrafe eine Geldstrafe verhängt werden (§ 41 StGB)?",
+        "options": [
+          "Wenn die Tat vorsätzlich begangen wurde.",
+          "Wenn der Täter sich durch die Tat bereichert oder zu bereichern versucht hat.",
+          "Wenn die Freiheitsstrafe unter zwei Jahren liegt.",
+          "Wenn keine Nebenstrafen in Betracht kommen."
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 41: Bei Bereicherung oder Bereicherungsversuch kann neben einer Freiheitsstrafe eine sonst nicht oder nur wahlweise angedrohte Geldstrafe verhängt werden.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), Bekanntmachung 13.11.1998, zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 41 Geldstrafe neben Freiheitsstrafe"
+        },
+        "tags": [
+          "Strafe",
+          "Verfahren"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q21",
+        "text": "Wann ist nach § 22 StGB eine Straftat versucht?",
+        "options": [
+          "Wenn der Täter mit der Planung der Tat beginnt.",
+          "Wenn der Täter unmittelbar zur Verwirklichung des Tatbestands ansetzt.",
+          "Wenn der Täter die Tat bereits vollendet hat.",
+          "Wenn der Täter die Beute versteckt."
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 22 definiert den Versuch als unmittelbares Ansetzen zur Verwirklichung des Tatbestandes nach Vorstellung des Täters.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 27",
+          "chapter": "§ 22 Begriffsbestimmung"
+        },
+        "tags": [
+          "Definition",
+          "Versuch"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q22",
+        "text": "Ist der Versuch eines Verbrechens stets strafbar (§ 23 StGB)?",
+        "options": [
+          "Ja, immer.",
+          "Nein, nur wenn es ausdrücklich im Gesetz steht.",
+          "Nur wenn es mit einer Geldstrafe bedroht ist.",
+          "Nein, nur wenn der Täter Schaden verursacht."
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 23 Abs. 1 bestimmt: Der Versuch eines Verbrechens ist stets strafbar, bei Vergehen nur, wenn das Gesetz es vorsieht.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 27",
+          "chapter": "§ 23 Strafbarkeit des Versuchs"
+        },
+        "tags": [
+          "Regel",
+          "Versuch"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Welche Rechtsfolge ist beim Versuch einer Tat möglich (§ 23 Abs. 2 StGB)?",
+        "options": [
+          "Er muss gleich hart bestraft werden wie die vollendete Tat.",
+          "Der Versuch kann milder bestraft werden.",
+          "Der Versuch ist immer straffrei.",
+          "Der Versuch wird automatisch doppelt so hoch bestraft."
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 23 Abs. 2: Der Versuch kann milder bestraft werden als die vollendete Tat.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 27",
+          "chapter": "§ 23 Strafbarkeit des Versuchs"
+        },
+        "tags": [
+          "Regel",
+          "Strafzumessung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q24",
+        "text": "Wann bleibt ein Täter beim Versuch straflos (§ 24 StGB)?",
+        "options": [
+          "Wenn er freiwillig die weitere Ausführung aufgibt.",
+          "Wenn er erwischt wird.",
+          "Wenn er die Beute versteckt.",
+          "Wenn der Angriff von mehreren Personen ausgeht."
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 24 Abs. 1: Wer freiwillig die weitere Ausführung aufgibt oder die Vollendung verhindert, bleibt straflos.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 27-28",
+          "chapter": "§ 24 Rücktritt"
+        },
+        "tags": [
+          "Ausnahme",
+          "Versuch"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "Wer wird nach § 25 Abs. 1 StGB als Täter bestraft?",
+        "options": [
+          "Nur der Haupttäter.",
+          "Nur der Anstifter.",
+          "Wer die Straftat selbst oder durch einen anderen begeht.",
+          "Nur der Gehilfe."
+        ],
+        "correctIndex": 2,
+        "explanation": "§ 25 Abs. 1: Täter ist, wer die Straftat selbst oder durch einen anderen begeht.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 28",
+          "chapter": "§ 25 Täterschaft"
+        },
+        "tags": [
+          "Definition",
+          "Täterschaft"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q26",
+        "text": "Wann liegt Mittäterschaft nach § 25 Abs. 2 StGB vor?",
+        "options": [
+          "Wenn mehrere Täter die Straftat gemeinschaftlich begehen.",
+          "Wenn mehrere Täter nacheinander handeln.",
+          "Wenn mehrere Täter Beute teilen.",
+          "Wenn ein Täter den anderen beobachtet."
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 25 Abs. 2: Begehen mehrere die Straftat gemeinschaftlich, so wird jeder als Täter bestraft.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 28",
+          "chapter": "§ 25 Täterschaft"
+        },
+        "tags": [
+          "Definition",
+          "Täterschaft"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q27",
+        "text": "Was ist nach § 26 StGB die Voraussetzung für Anstiftung?",
+        "options": [
+          "Der Anstifter handelt fahrlässig.",
+          "Der Anstifter bestimmt vorsätzlich einen anderen zur vorsätzlichen Tat.",
+          "Der Anstifter hilft bei der Tatbegehung.",
+          "Der Anstifter ist Mittäter."
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 26: Als Anstifter wird bestraft, wer vorsätzlich einen anderen zu dessen vorsätzlich begangener rechtswidriger Tat bestimmt.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 28",
+          "chapter": "§ 26 Anstiftung"
+        },
+        "tags": [
+          "Definition",
+          "Teilnahme"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q28",
+        "text": "Was ist nach § 27 StGB Beihilfe?",
+        "options": [
+          "Die vorsätzliche Hilfeleistung zu einer vorsätzlichen rechtswidrigen Tat.",
+          "Die Mitwirkung bei einer legalen Handlung.",
+          "Die Unterstützung ohne Wissen des Täters.",
+          "Die Fahrlässigkeit bei der Tatplanung."
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 27 Abs. 1: Als Gehilfe wird bestraft, wer vorsätzlich einem anderen zu dessen vorsätzlich begangener rechtswidriger Tat Hilfe geleistet hat.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 28",
+          "chapter": "§ 27 Beihilfe"
+        },
+        "tags": [
+          "Definition",
+          "Teilnahme"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Wie richtet sich die Strafe für den Gehilfen (§ 27 Abs. 2 StGB)?",
+        "options": [
+          "Nach einer eigenen Strafandrohung.",
+          "Nach der Strafdrohung für den Täter, aber gemildert.",
+          "Immer identisch mit dem Täter.",
+          "Nach Ermessen der Polizei."
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 27 Abs. 2: Die Strafe richtet sich nach der Strafdrohung für den Täter, sie ist nach § 49 Abs. 1 zu mildern.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 28",
+          "chapter": "§ 27 Beihilfe"
+        },
+        "tags": [
+          "Strafe",
+          "Teilnahme"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Platzhalter-Frage 30 zum StGB (wird noch konkretisiert).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q31",
+        "text": "Platzhalter-Frage 31 zum StGB (wird noch konkretisiert).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q32",
+        "text": "Platzhalter-Frage 32 zum StGB (wird noch konkretisiert).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q33",
+        "text": "Platzhalter-Frage 33 zum StGB (wird noch konkretisiert).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q34",
+        "text": "Platzhalter-Frage 34 zum StGB (wird noch konkretisiert).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q35",
+        "text": "Platzhalter-Frage 35 zum StGB (wird noch konkretisiert).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q36",
+        "text": "Platzhalter-Frage 36 zum StGB (wird noch konkretisiert).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q37",
+        "text": "Platzhalter-Frage 37 zum StGB (wird noch konkretisiert).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Platzhalter-Frage 38 zum StGB (wird noch konkretisiert).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q39",
+        "text": "Platzhalter-Frage 39 zum StGB (wird noch konkretisiert).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q40",
+        "text": "Platzhalter-Frage 40 zum StGB (wird noch konkretisiert).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q41",
+        "text": "Welches ist das Höchstmaß der zeitigen Freiheitsstrafe nach § 38 Abs. 2 StGB?",
+        "options": [
+          "10 Jahre",
+          "12 Jahre",
+          "15 Jahre",
+          "20 Jahre"
+        ],
+        "correctIndex": 2,
+        "explanation": "Nach § 38 Abs. 2 beträgt das Höchstmaß 15 Jahre.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 38 Dauer der Freiheitsstrafe"
+        },
+        "tags": [
+          "Strafe",
+          "Schwellenwert"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q42",
+        "text": "Wie wird Freiheitsstrafe unter einem Jahr bemessen (§ 39 StGB)?",
+        "options": [
+          "Nach Tagen",
+          "Nach Wochen und Monaten",
+          "Nach Quartalen",
+          "Nach Jahren"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 39: Unter einem Jahr nach Wochen und Monaten, längere nach Monaten und Jahren.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 39 Bemessung der Freiheitsstrafe"
+        },
+        "tags": [
+          "Strafe",
+          "Bemessung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q43",
+        "text": "Wie viele Tagessätze können bei einer Geldstrafe nach § 40 StGB verhängt werden?",
+        "options": [
+          "1 bis 180",
+          "5 bis 360",
+          "10 bis 400",
+          "30 bis 300"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 40 Abs. 1: mindestens 5, höchstens 360 Tagessätze.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 40 Verhängung in Tagessätzen"
+        },
+        "tags": [
+          "Strafe",
+          "Bemessung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Wie hoch darf ein einzelner Tagessatz maximal ausfallen (§ 40 Abs. 2 StGB)?",
+        "options": [
+          "10.000 €",
+          "20.000 €",
+          "30.000 €",
+          "50.000 €"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Tagessatz darf höchstens 30.000 Euro betragen.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 40 Verhängung in Tagessätzen"
+        },
+        "tags": [
+          "Strafe",
+          "Bemessung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Wann kann eine Ersatzfreiheitsstrafe verhängt werden (§ 43 StGB)?",
+        "options": [
+          "Wenn eine Geldstrafe nicht beigetrieben werden kann.",
+          "Wenn der Täter nicht zur Verhandlung erscheint.",
+          "Wenn eine Freiheitsstrafe nicht vollzogen werden kann.",
+          "Wenn eine Bewährung widerrufen wird."
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 43: Anstelle einer uneinbringlichen Geldstrafe tritt eine Ersatzfreiheitsstrafe.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 43 Ersatzfreiheitsstrafe"
+        },
+        "tags": [
+          "Strafe",
+          "Ausnahme"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q46",
+        "text": "Wie wird die Ersatzfreiheitsstrafe umgerechnet (§ 43 StGB)?",
+        "options": [
+          "Ein Tag pro Tagessatz.",
+          "Ein Tag pro zwei Tagessätze.",
+          "Ein Tag pro drei Tagessätze.",
+          "Ein Tag pro fünf Tagessätze."
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 43: Zwei Tagessätzen entspricht ein Tag Ersatzfreiheitsstrafe.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 43 Ersatzfreiheitsstrafe"
+        },
+        "tags": [
+          "Strafe",
+          "Umrechnung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Welche Nebenstrafe sieht das StGB in § 44 vor?",
+        "options": [
+          "Berufsverbot",
+          "Fahrverbot",
+          "Geldstrafe",
+          "Hausarrest"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 44 nennt das Fahrverbot als Nebenstrafe.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 44 Fahrverbot"
+        },
+        "tags": [
+          "Strafe",
+          "Nebenstrafe"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q48",
+        "text": "Welcher Zeitraum ist bei einem Fahrverbot möglich (§ 44 StGB)?",
+        "options": [
+          "1 Tag bis 1 Monat",
+          "1 Monat bis 6 Monate",
+          "3 Monate bis 1 Jahr",
+          "6 Monate bis 2 Jahre"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Fahrverbot kann zwischen einem Monat und sechs Monaten verhängt werden.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 30",
+          "chapter": "§ 44 Fahrverbot"
+        },
+        "tags": [
+          "Strafe",
+          "Nebenstrafe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q49",
+        "text": "Platzhalter-Frage 49 zum StGB (Strafen/Verjährung).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q50",
+        "text": "Platzhalter-Frage 50 zum StGB (Strafen/Verjährung).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q51",
+        "text": "Platzhalter-Frage 51 zum StGB (Strafen/Verjährung).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q52",
+        "text": "Platzhalter-Frage 52 zum StGB (Strafen/Verjährung).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q53",
+        "text": "Platzhalter-Frage 53 zum StGB (Strafen/Verjährung).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q54",
+        "text": "Platzhalter-Frage 54 zum StGB (Strafen/Verjährung).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q55",
+        "text": "Platzhalter-Frage 55 zum StGB (Strafen/Verjährung).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q56",
+        "text": "Platzhalter-Frage 56 zum StGB (Strafen/Verjährung).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q57",
+        "text": "Platzhalter-Frage 57 zum StGB (Strafen/Verjährung).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q58",
+        "text": "Platzhalter-Frage 58 zum StGB (Strafen/Verjährung).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q59",
+        "text": "Platzhalter-Frage 59 zum StGB (Strafen/Verjährung).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q60",
+        "text": "Platzhalter-Frage 60 zum StGB (Strafen/Verjährung).",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q61",
+        "text": "Welche Maßregel kann nach § 61 Nr. 1 StGB angeordnet werden?",
+        "options": [
+          "Unterbringung in einem Krankenhaus",
+          "Fahrverbot",
+          "Ersatzfreiheitsstrafe",
+          "Bewährungsstrafe"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 61 listet Maßregeln der Besserung und Sicherung, darunter die Unterbringung in einem psychiatrischen Krankenhaus.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 45",
+          "chapter": "§ 61 Maßregeln der Besserung und Sicherung"
+        },
+        "tags": [
+          "Maßregel",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q62",
+        "text": "Welche weitere Maßregel ist in § 61 Nr. 2 StGB genannt?",
+        "options": [
+          "Unterbringung in einer Entziehungsanstalt",
+          "Hausarrest",
+          "Geldstrafe",
+          "Verwarnung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 61 Nr. 2 nennt die Unterbringung in einer Entziehungsanstalt als Maßregel.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 45",
+          "chapter": "§ 61 Maßregeln der Besserung und Sicherung"
+        },
+        "tags": [
+          "Maßregel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q63",
+        "text": "Was zählt NICHT zu den Maßregeln nach § 61 StGB?",
+        "options": [
+          "Fahrverbot",
+          "Sicherungsverwahrung",
+          "Entziehung der Fahrerlaubnis",
+          "Berufsverbot"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Fahrverbot ist eine Nebenstrafe (§ 44), keine Maßregel der Besserung und Sicherung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 45",
+          "chapter": "§ 61 Maßregeln der Besserung und Sicherung"
+        },
+        "tags": [
+          "Maßregel",
+          "Abgrenzung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q64",
+        "text": "Welche Nebenfolge kann nach § 45 StGB eintreten?",
+        "options": [
+          "Verlust der Amtsfähigkeit",
+          "Verlust der Freiheit",
+          "Verlust des Vermögens",
+          "Verlust der Staatsangehörigkeit"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 45 Abs. 1 nennt den Verlust der Amtsfähigkeit, Wählbarkeit und des Stimmrechts.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 31",
+          "chapter": "§ 45 Verlust der Amtsfähigkeit, Wählbarkeit und des Stimmrechts"
+        },
+        "tags": [
+          "Nebenfolge"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q65",
+        "text": "Welche Frist gilt für die absolute Verjährung nach § 78c Abs. 3 StGB?",
+        "options": [
+          "Das Doppelte der gesetzlichen Verjährungsfrist, höchstens 30 Jahre",
+          "10 Jahre",
+          "20 Jahre",
+          "Lebenslang"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 78c Abs. 3: Die absolute Verjährung tritt mit dem Doppelten der gesetzlichen Verjährungsfrist ein, höchstens 30 Jahre.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 60",
+          "chapter": "§ 78c Unterbrechung"
+        },
+        "tags": [
+          "Verjährung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q66",
+        "text": "Welche Strafe verjährt nach § 78 Abs. 2 StGB nicht?",
+        "options": [
+          "Lebenslange Freiheitsstrafe",
+          "Freiheitsstrafe bis zu 5 Jahren",
+          "Geldstrafe",
+          "Fahrverbot"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 78 Abs. 2: Verfolgung von Taten, die mit lebenslanger Freiheitsstrafe bedroht sind, verjährt nicht.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 59",
+          "chapter": "§ 78 Verjährungsfrist"
+        },
+        "tags": [
+          "Verjährung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q67",
+        "text": "Platzhalter-Frage 67 zu Nebenfolgen/Maßregeln/Verjährung.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q68",
+        "text": "Platzhalter-Frage 68 zu Nebenfolgen/Maßregeln/Verjährung.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q69",
+        "text": "Platzhalter-Frage 69 zu Nebenfolgen/Maßregeln/Verjährung.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q70",
+        "text": "Platzhalter-Frage 70 zu Nebenfolgen/Maßregeln/Verjährung.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q71",
+        "text": "Platzhalter-Frage 71 zu Nebenfolgen/Maßregeln/Verjährung.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q72",
+        "text": "Platzhalter-Frage 72 zu Nebenfolgen/Maßregeln/Verjährung.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q73",
+        "text": "Platzhalter-Frage 73 zu Nebenfolgen/Maßregeln/Verjährung.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q74",
+        "text": "Platzhalter-Frage 74 zu Nebenfolgen/Maßregeln/Verjährung.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q75",
+        "text": "Platzhalter-Frage 75 zu Nebenfolgen/Maßregeln/Verjährung.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q76",
+        "text": "Platzhalter-Frage 76 zu Nebenfolgen/Maßregeln/Verjährung.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q77",
+        "text": "Platzhalter-Frage 77 zu Nebenfolgen/Maßregeln/Verjährung.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q78",
+        "text": "Platzhalter-Frage 78 zu Nebenfolgen/Maßregeln/Verjährung.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q79",
+        "text": "Platzhalter-Frage 79 zu Nebenfolgen/Maßregeln/Verjährung.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q80",
+        "text": "Platzhalter-Frage 80 zu Nebenfolgen/Maßregeln/Verjährung.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q81",
+        "text": "Welche Strafart ist in § 47 StGB als Ausnahme vorgesehen?",
+        "options": [
+          "Kurzfristige Freiheitsstrafe",
+          "Hausarrest",
+          "Arbeitsauflage",
+          "Verwarnung mit Strafvorbehalt"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 47: Freiheitsstrafe unter sechs Monaten soll nur verhängt werden, wenn besondere Umstände vorliegen.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 31",
+          "chapter": "§ 47 Kurze Freiheitsstrafe nur in Ausnahmefällen"
+        },
+        "tags": [
+          "Strafe",
+          "Ausnahme"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q82",
+        "text": "Was gilt nach § 52 StGB bei Tateinheit?",
+        "options": [
+          "Es wird nur eine Strafe verhängt.",
+          "Es werden mehrere Strafen addiert.",
+          "Es gilt die höchste Strafe und sie wird verdoppelt.",
+          "Es gilt die mildeste Strafe."
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 52 Abs. 1: Begeht jemand mehrere Straftaten durch dieselbe Handlung, so wird nur eine Strafe verhängt.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 34",
+          "chapter": "§ 52 Tateinheit"
+        },
+        "tags": [
+          "Regel",
+          "Konkurrenz"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q83",
+        "text": "Was gilt nach § 53 StGB bei Tatmehrheit?",
+        "options": [
+          "Es wird nur eine Strafe verhängt.",
+          "Die Strafen werden zu einer Gesamtstrafe verbunden.",
+          "Die Strafen werden einzeln nebeneinander vollstreckt.",
+          "Die mildeste Strafe verdrängt die härteren."
+        ],
+        "correctIndex": 2,
+        "explanation": "§ 53 Abs. 1: Bei Tatmehrheit werden die Strafen nebeneinander vollstreckt.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 34",
+          "chapter": "§ 53 Tatmehrheit"
+        },
+        "tags": [
+          "Regel",
+          "Konkurrenz"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q84",
+        "text": "Wann wird eine Gesamtstrafe nach § 54 StGB gebildet?",
+        "options": [
+          "Bei mehreren gleichzeitig abgeurteilten Straftaten.",
+          "Nur bei Tateinheit.",
+          "Nur bei Verbrechen.",
+          "Nie, da jede Strafe einzeln bestehen bleibt."
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 54: Bei mehreren gleichzeitig abgeurteilten Taten wird eine Gesamtstrafe gebildet.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 34",
+          "chapter": "§ 54 Bildung der Gesamtstrafe"
+        },
+        "tags": [
+          "Regel",
+          "Strafzumessung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q85",
+        "text": "Welche Regel enthält § 56 StGB zur Bewährung?",
+        "options": [
+          "Freiheitsstrafe bis zu zwei Jahren kann zur Bewährung ausgesetzt werden.",
+          "Nur Geldstrafen können ausgesetzt werden.",
+          "Lebenslange Freiheitsstrafe kann ausgesetzt werden.",
+          "Freiheitsstrafe ab fünf Jahren ist immer auszusetzen."
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 56 Abs. 1: Freiheitsstrafe bis zu zwei Jahren kann zur Bewährung ausgesetzt werden.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 36",
+          "chapter": "§ 56 Strafaussetzung zur Bewährung"
+        },
+        "tags": [
+          "Bewährung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q86",
+        "text": "Platzhalter-Frage 86 zu allgemeinen Vorschriften / Abschluss.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q87",
+        "text": "Platzhalter-Frage 87 zu allgemeinen Vorschriften / Abschluss.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q88",
+        "text": "Platzhalter-Frage 88 zu allgemeinen Vorschriften / Abschluss.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q89",
+        "text": "Platzhalter-Frage 89 zu allgemeinen Vorschriften / Abschluss.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q90",
+        "text": "Platzhalter-Frage 90 zu allgemeinen Vorschriften / Abschluss.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q91",
+        "text": "Platzhalter-Frage 91 zu allgemeinen Vorschriften / Abschluss.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q92",
+        "text": "Platzhalter-Frage 92 zu allgemeinen Vorschriften / Abschluss.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q93",
+        "text": "Platzhalter-Frage 93 zu allgemeinen Vorschriften / Abschluss.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q94",
+        "text": "Platzhalter-Frage 94 zu allgemeinen Vorschriften / Abschluss.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q95",
+        "text": "Platzhalter-Frage 95 zu allgemeinen Vorschriften / Abschluss.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q96",
+        "text": "Platzhalter-Frage 96 zu allgemeinen Vorschriften / Abschluss.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q97",
+        "text": "Platzhalter-Frage 97 zu allgemeinen Vorschriften / Abschluss.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q98",
+        "text": "Platzhalter-Frage 98 zu allgemeinen Vorschriften / Abschluss.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q99",
+        "text": "Platzhalter-Frage 99 zu allgemeinen Vorschriften / Abschluss.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q100",
+        "text": "Platzhalter-Frage 100 zu allgemeinen Vorschriften / Abschluss.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beispielhafte Erklärung.",
+        "source": {
+          "citation": "Strafgesetzbuch (StGB), zuletzt geändert 07.11.2024",
+          "pages": "S. 1",
+          "chapter": "Allgemeiner Teil"
+        },
+        "tags": [
+          "Platzhalter"
+        ],
+        "difficulty": "leicht"
+      }
+    ]
+  }
+}

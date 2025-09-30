@@ -1,0 +1,53 @@
+---
+description: Quiz JSON schema validation and structure requirements
+globs: ["**/quiz.json", "_template/schema.json"]
+alwaysApply: false
+---
+
+# Quiz JSON Schema Requirements
+
+## Schema Structure
+
+All `quiz.json` files must strictly adhere to `_template/schema.json`.
+
+## Required Fields
+
+**Quiz Metadata:**
+- `title`: Quiz name
+- `description`: Description with `{questionCount}` placeholder
+- `language`: "de" for German
+- `version`: "1.0"
+- `sourceDocument`: Object with title, version, year, pdfFilename
+
+**Settings:**
+- `shuffleQuestions`: true
+- `shuffleOptions`: true
+- `showExplanations`: true
+- `timePerQuestionSec`: 60
+
+**Questions Array:**
+Each question must include:
+- `id`: Unique identifier (e.g., "q1", "q2")
+- `text`: Question text
+- `options`: Array of 4 strings
+- `correctIndex`: Integer (0-3) for correct answer
+- `explanation`: Brief explanation
+- `source`: Object with citation, pages, chapter
+- `tags`: Array of strings (e.g., ["Definition", "Regel"])
+- `difficulty`: "leicht", "mittel", or "schwer"
+
+## Validation
+
+Always validate quiz.json against schema:
+```bash
+npx ajv validate -s _template/schema.json -d [category]/[quiz_name]/quiz.json
+```
+
+## Quality Requirements
+
+- Generate approximately 100 questions
+- Use factual information from source documents only
+- Include precise source citations (page, chapter)
+- Create plausible distractors for wrong answers
+- Distribute difficulty levels appropriately
+- Use German language throughout

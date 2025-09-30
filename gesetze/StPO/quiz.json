@@ -1,0 +1,2426 @@
+{
+  "quiz": {
+    "title": "Strafprozessordnung (StPO)",
+    "description": "Komplettes Quiz zur deutschen Strafprozessordnung (StPO) mit 100 Fragen.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-09-26T13:26:01.030932Z",
+      "notes": "100 Fragen."
+    },
+    "sourceDocument": {
+      "title": "Strafprozessordnung (StPO)",
+      "version": "2025",
+      "year": 2025,
+      "pdfFilename": "StPO.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Beispielfrage 1: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Beispielfrage 2: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Beispielfrage 3: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Beispielfrage 4: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Beispielfrage 5: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q6",
+        "text": "Beispielfrage 6: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Beispielfrage 7: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Beispielfrage 8: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q9",
+        "text": "Beispielfrage 9: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "Beispielfrage 10: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q11",
+        "text": "Beispielfrage 11: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q12",
+        "text": "Beispielfrage 12: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q13",
+        "text": "Beispielfrage 13: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q14",
+        "text": "Beispielfrage 14: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q15",
+        "text": "Beispielfrage 15: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q16",
+        "text": "Beispielfrage 16: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q17",
+        "text": "Beispielfrage 17: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Beispielfrage 18: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q19",
+        "text": "Beispielfrage 19: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Beispielfrage 20: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
+        "options": [
+          "Das Bundesministerium der Justiz",
+          "Das Gericht selbst",
+          "Die Polizei",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 20",
+          "chapter": "§ 1 Anwendbarkeit des Gerichtsverfassungsgesetzes",
+          "articleOrSection": "§ 1"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q21",
+        "text": "Beispielfrage 21: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q22",
+        "text": "Beispielfrage 22: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q23",
+        "text": "Beispielfrage 23: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Beispielfrage 24: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "Beispielfrage 25: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Beispielfrage 26: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Beispielfrage 27: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q28",
+        "text": "Beispielfrage 28: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Beispielfrage 29: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Beispielfrage 30: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q31",
+        "text": "Beispielfrage 31: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q32",
+        "text": "Beispielfrage 32: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q33",
+        "text": "Beispielfrage 33: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Beispielfrage 34: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Beispielfrage 35: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Beispielfrage 36: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Beispielfrage 37: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q38",
+        "text": "Beispielfrage 38: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Beispielfrage 39: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q40",
+        "text": "Beispielfrage 40: Welcher Gerichtsstand gilt primär bei einer Straftat?",
+        "options": [
+          "Gerichtsstand des Wohnsitzes",
+          "Gerichtsstand des Tatortes",
+          "Gerichtsstand des Ergreifungsortes",
+          "Gerichtsstand des letzten Aufenthalts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 7 StPO ist der Gerichtsstand in erster Linie am Tatort begründet.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 21",
+          "chapter": "§ 7 Gerichtsstand des Tatortes",
+          "articleOrSection": "§ 7"
+        },
+        "tags": [
+          "Gerichtsstand",
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q41",
+        "text": "Beispielfrage 41: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q42",
+        "text": "Beispielfrage 42: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q43",
+        "text": "Beispielfrage 43: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Beispielfrage 44: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Beispielfrage 45: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q46",
+        "text": "Beispielfrage 46: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Beispielfrage 47: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q48",
+        "text": "Beispielfrage 48: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q49",
+        "text": "Beispielfrage 49: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q50",
+        "text": "Beispielfrage 50: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q51",
+        "text": "Beispielfrage 51: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q52",
+        "text": "Beispielfrage 52: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Beispielfrage 53: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q54",
+        "text": "Beispielfrage 54: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q55",
+        "text": "Beispielfrage 55: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q56",
+        "text": "Beispielfrage 56: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q57",
+        "text": "Beispielfrage 57: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q58",
+        "text": "Beispielfrage 58: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q59",
+        "text": "Beispielfrage 59: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q60",
+        "text": "Beispielfrage 60: Unter welchen Voraussetzungen darf ein Richter von der Ausübung des Richteramtes ausgeschlossen werden?",
+        "options": [
+          "Wenn er zu viele Verfahren gleichzeitig führt",
+          "Wenn er in der Sache als Zeuge oder Sachverständiger beteiligt war",
+          "Wenn er jünger als 30 Jahre alt ist",
+          "Wenn er in der gleichen Stadt wohnt wie der Beschuldigte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 22 StPO ist ein Richter u.a. ausgeschlossen, wenn er in der Sache als Zeuge oder Sachverständiger tätig war.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 23",
+          "chapter": "§ 22 Ausschließung von der Ausübung des Richteramtes",
+          "articleOrSection": "§ 22"
+        },
+        "tags": [
+          "Richter",
+          "Zuständigkeit",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q61",
+        "text": "Beispielfrage 61: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q62",
+        "text": "Beispielfrage 62: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q63",
+        "text": "Beispielfrage 63: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q64",
+        "text": "Beispielfrage 64: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q65",
+        "text": "Beispielfrage 65: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q66",
+        "text": "Beispielfrage 66: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q67",
+        "text": "Beispielfrage 67: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q68",
+        "text": "Beispielfrage 68: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q69",
+        "text": "Beispielfrage 69: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q70",
+        "text": "Beispielfrage 70: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q71",
+        "text": "Beispielfrage 71: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q72",
+        "text": "Beispielfrage 72: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q73",
+        "text": "Beispielfrage 73: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q74",
+        "text": "Beispielfrage 74: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q75",
+        "text": "Beispielfrage 75: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q76",
+        "text": "Beispielfrage 76: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q77",
+        "text": "Beispielfrage 77: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q78",
+        "text": "Beispielfrage 78: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q79",
+        "text": "Beispielfrage 79: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q80",
+        "text": "Beispielfrage 80: Was passiert, wenn ein ordnungsgemäß geladener Zeuge unentschuldigt nicht erscheint?",
+        "options": [
+          "Er erhält eine Geldstrafe und muss die Kosten tragen",
+          "Es passiert nichts, da Zeugen freiwillig erscheinen",
+          "Der Zeuge verliert automatisch seine Glaubwürdigkeit",
+          "Der Prozess wird sofort abgebrochen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 51 StPO können Kosten auferlegt und Ordnungsgeld oder Ordnungshaft verhängt werden, wenn ein Zeuge unentschuldigt fehlt.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 32",
+          "chapter": "§ 51 Folgen des Ausbleibens eines Zeugen",
+          "articleOrSection": "§ 51"
+        },
+        "tags": [
+          "Zeuge",
+          "Pflicht",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q81",
+        "text": "Beispielfrage 81: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q82",
+        "text": "Beispielfrage 82: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q83",
+        "text": "Beispielfrage 83: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q84",
+        "text": "Beispielfrage 84: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q85",
+        "text": "Beispielfrage 85: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q86",
+        "text": "Beispielfrage 86: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q87",
+        "text": "Beispielfrage 87: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q88",
+        "text": "Beispielfrage 88: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q89",
+        "text": "Beispielfrage 89: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q90",
+        "text": "Beispielfrage 90: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q91",
+        "text": "Beispielfrage 91: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q92",
+        "text": "Beispielfrage 92: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q93",
+        "text": "Beispielfrage 93: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q94",
+        "text": "Beispielfrage 94: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q95",
+        "text": "Beispielfrage 95: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q96",
+        "text": "Beispielfrage 96: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q97",
+        "text": "Beispielfrage 97: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q98",
+        "text": "Beispielfrage 98: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q99",
+        "text": "Beispielfrage 99: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q100",
+        "text": "Beispielfrage 100: Wer ist verpflichtet, eine Straftat unverzüglich anzuzeigen, wenn eine Leiche gefunden wird?",
+        "options": [
+          "Nur Angehörige des Verstorbenen",
+          "Polizei- und Gemeindebehörden",
+          "Jeder Bürger ab 18 Jahren",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach § 159 StPO müssen Polizei- und Gemeindebehörden bei Verdacht auf einen unnatürlichen Tod sofort Anzeige erstatten.",
+        "source": {
+          "citation": "StPO, Stand 2025",
+          "pages": "S. 100",
+          "chapter": "§ 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod",
+          "articleOrSection": "§ 159"
+        },
+        "tags": [
+          "Anzeige",
+          "Pflicht",
+          "Verfahren"
+        ],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

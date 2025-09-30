@@ -1,0 +1,2006 @@
+{
+  "quiz": {
+    "title": "Zivilprozessordnung (ZPO)",
+    "description": "Komplettes Quiz mit 100 Fragen zur deutschen Zivilprozessordnung (ZPO), bestehend aus den Blöcken 1–5.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-09-26T13:20:00Z",
+      "notes": "Komplettdatei mit allen 100 Fragen."
+    },
+    "sourceDocument": {
+      "title": "Zivilprozessordnung (ZPO)",
+      "version": "Stand 2024",
+      "year": 2024,
+      "pdfFilename": "ZPO.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Welche gesetzliche Grundlage bestimmt die sachliche Zuständigkeit der Gerichte?",
+        "options": ["Die Zivilprozessordnung selbst", "Das Bürgerliche Gesetzbuch", "Das Gerichtsverfassungsgesetz", "Das Grundgesetz"],
+        "correctIndex": 2,
+        "explanation": "Die sachliche Zuständigkeit richtet sich nach dem Gerichtsverfassungsgesetz, nicht nach der ZPO oder dem BGB.",
+        "source": {"citation": "ZPO", "pages": "S. 36", "chapter": "§ 1 Sachliche Zuständigkeit"},
+        "tags": ["Definition", "Zuständigkeit"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Nach welchem Maßstab wird der Wert eines Streitgegenstandes vom Gericht festgesetzt?",
+        "options": ["Nach dem Parteivortrag", "Nach freiem Ermessen", "Nach festen Gebührentabellen", "Immer anhand der Klagesumme"],
+        "correctIndex": 1,
+        "explanation": "Das Gericht setzt den Wert nach freiem Ermessen fest (§ 3 ZPO). Eine feste Tabelle gibt es nicht.",
+        "source": {"citation": "ZPO", "pages": "S. 36", "chapter": "§ 3 Wertfestsetzung nach freiem Ermessen"},
+        "tags": ["Regel", "Wertfestsetzung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Welche Forderungen bleiben bei der Wertberechnung unberücksichtigt, wenn sie Nebenforderungen sind?",
+        "options": ["Kosten und Steuern", "Früchte, Nutzungen, Zinsen und Kosten", "Nur Zinsen", "Nur Nutzungen"],
+        "correctIndex": 1,
+        "explanation": "Nebenforderungen wie Früchte, Nutzungen, Zinsen und Kosten werden nicht berücksichtigt (§ 4 Abs. 1 ZPO).",
+        "source": {"citation": "ZPO", "pages": "S. 36", "chapter": "§ 4 Wertberechnung"},
+        "tags": ["Regel", "Wertberechnung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Wie wird der allgemeine Gerichtsstand einer natürlichen Person bestimmt?",
+        "options": ["Durch ihren Geburtsort", "Durch ihren Wohnsitz", "Durch ihren Arbeitsplatz", "Durch ihre Staatsangehörigkeit"],
+        "correctIndex": 1,
+        "explanation": "Der allgemeine Gerichtsstand richtet sich nach dem Wohnsitz (§ 13 ZPO).",
+        "source": {"citation": "ZPO", "pages": "S. 37", "chapter": "§ 13 Allgemeiner Gerichtsstand des Wohnsitzes"},
+        "tags": ["Definition", "Gerichtsstand"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Welches Gericht ist für Klagen über Ansprüche aus Miet- oder Pachtverhältnissen über Räume zuständig?",
+        "options": ["Das Gericht des Wohnsitzes des Mieters", "Das Gericht des Sitzes des Vermieters", "Das Gericht, in dessen Bezirk sich die Räume befinden", "Das Amtsgericht am Geschäftssitz der Hausverwaltung"],
+        "correctIndex": 2,
+        "explanation": "Bei Streitigkeiten über Miet- oder Pachtverhältnisse über Räume ist ausschließlich das Gericht zuständig, in dessen Bezirk sich die Räume befinden (§ 29a ZPO).",
+        "source": {"citation": "ZPO", "pages": "S. 39", "chapter": "§ 29a Ausschließlicher Gerichtsstand bei Miet- oder Pachträumen"},
+        "tags": ["Regel", "Zuständigkeit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Was bedeutet der Begriff ‚Parteifähigkeit‘ im Sinne der ZPO?",
+        "options": ["Fähigkeit, vor Gericht zu erscheinen", "Fähigkeit, Träger von Rechten und Pflichten im Prozess zu sein", "Fähigkeit, einen Anwalt zu wählen", "Fähigkeit, Fristen einzuhalten"],
+        "correctIndex": 1,
+        "explanation": "Parteifähig ist, wer rechtsfähig ist (§ 50 ZPO).",
+        "source": {"citation": "ZPO", "pages": "S. 44", "chapter": "§ 50 Parteifähigkeit"},
+        "tags": ["Definition", "Parteien"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Wann liegt notwendige Streitgenossenschaft vor?",
+        "options": ["Wenn mehrere Personen freiwillig gemeinsam klagen", "Wenn die Streitgenossen dasselbe Interesse haben", "Wenn das streitige Rechtsverhältnis nur einheitlich festgestellt werden kann", "Wenn die Kosten geteilt werden sollen"],
+        "correctIndex": 2,
+        "explanation": "Eine notwendige Streitgenossenschaft besteht, wenn das Rechtsverhältnis nur einheitlich festgestellt werden kann (§ 62 ZPO).",
+        "source": {"citation": "ZPO", "pages": "S. 45", "chapter": "§ 62 Notwendige Streitgenossenschaft"},
+        "tags": ["Definition", "Streitgenossenschaft"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Wer muss sich vor dem Bundesgerichtshof in Zivilsachen vertreten lassen?",
+        "options": ["Jede Partei durch irgendeinen Anwalt", "Jede Partei durch einen beim BGH zugelassenen Anwalt", "Nur Kläger, nicht Beklagte", "Niemand, Vertretung ist dort nicht vorgeschrieben"],
+        "correctIndex": 1,
+        "explanation": "Vor dem BGH besteht Anwaltszwang; nur beim BGH zugelassene Anwälte dürfen auftreten (§ 78 ZPO).",
+        "source": {"citation": "ZPO", "pages": "S. 48", "chapter": "§ 78 Anwaltsprozess"},
+        "tags": ["Regel", "Vertretung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist Prozesskostenhilfe?",
+        "options": ["Eine staatliche Hilfe zur Begleichung von Gerichtskosten", "Eine Versicherung", "Ein Zuschuss der Anwaltskammer", "Eine Garantie des Beklagten"],
+        "correctIndex": 0,
+        "explanation": "Prozesskostenhilfe wird gewährt, wenn eine Partei nach ihren Verhältnissen die Kosten nicht tragen kann, aber die Rechtsverfolgung Aussicht auf Erfolg hat (§ 114 ZPO).",
+        "source": {"citation": "ZPO", "pages": "S. 56", "chapter": "§ 114 Voraussetzungen der Prozesskostenhilfe"},
+        "tags": ["Definition", "Kosten"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Frist gilt für die Beantragung einer Wiedereinsetzung in den vorigen Stand bei Versäumung einer Notfrist?",
+        "options": ["Eine Woche", "Zwei Wochen", "Ein Monat", "Sechs Monate"],
+        "correctIndex": 1,
+        "explanation": "Die Wiedereinsetzung muss innerhalb von zwei Wochen beantragt werden (§ 234 ZPO).",
+        "source": {"citation": "ZPO", "pages": "S. 80", "chapter": "§ 234 Wiedereinsetzungsfrist"},
+        "tags": ["Frist", "Verfahren"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Was bewirkt die Erhebung der Klage?",
+        "options": ["Sie beendet das Verfahren", "Sie begründet die Rechtshängigkeit", "Sie ersetzt ein Urteil", "Sie beendet den Anspruch"],
+        "correctIndex": 1,
+        "explanation": "Mit Erhebung der Klage tritt Rechtshängigkeit ein (§ 261 ZPO).",
+        "source": {"citation": "ZPO", "pages": "S. 84", "chapter": "§ 261 Rechtshängigkeit"},
+        "tags": ["Definition", "Verfahren"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q12",
+        "text": "Wie lange beträgt die Berufungsfrist nach Zustellung eines Urteils?",
+        "options": ["Eine Woche", "Zwei Wochen", "Ein Monat", "Drei Monate"],
+        "correctIndex": 2,
+        "explanation": "Die Berufungsfrist beträgt einen Monat (§ 517 ZPO).",
+        "source": {"citation": "ZPO", "pages": "S. 128", "chapter": "§ 517 Berufungsfrist"},
+        "tags": ["Frist", "Rechtsmittel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist Voraussetzung für eine Revision?",
+        "options": ["Sie wird automatisch nach jeder Berufung zugelassen", "Sie muss vom Berufungsgericht oder Revisionsgericht zugelassen werden", "Sie kann immer beantragt werden", "Sie ist nur bei Geldforderungen möglich"],
+        "correctIndex": 1,
+        "explanation": "Revisionen sind nur zulässig, wenn sie zugelassen werden (§ 543 ZPO).",
+        "source": {"citation": "ZPO", "pages": "S. 134", "chapter": "§ 543 Zulassungsrevision"},
+        "tags": ["Regel", "Rechtsmittel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Welche Klageart dient der Feststellung eines Rechtsverhältnisses?",
+        "options": ["Leistungsklage", "Feststellungsklage", "Gestaltungsklage", "Anfechtungsklage"],
+        "correctIndex": 1,
+        "explanation": "Mit der Feststellungsklage kann das Bestehen oder Nichtbestehen eines Rechtsverhältnisses festgestellt werden (§ 256 ZPO).",
+        "source": {"citation": "ZPO", "pages": "S. 84", "chapter": "§ 256 Feststellungsklage"},
+        "tags": ["Definition", "Klagearten"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q15",
+        "text": "Welche Wirkung hat ein gerichtliches Geständnis?",
+        "options": ["Es ist unverbindlich", "Es kann jederzeit widerrufen werden", "Es ersetzt die Beweisaufnahme", "Es verpflichtet beide Parteien zur Einigung"],
+        "correctIndex": 2,
+        "explanation": "Ein gerichtliches Geständnis macht eine Beweisaufnahme über die gestandenen Tatsachen entbehrlich (§ 288 ZPO).",
+        "source": {"citation": "ZPO", "pages": "S. 90", "chapter": "§ 288 Gerichtliches Geständnis"},
+        "tags": ["Regel", "Beweis"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Welche Klage ermöglicht es, wegen wiederkehrender Leistungen auch zukünftige Forderungen geltend zu machen?",
+        "options": ["Stufenklage", "Leistungsklage", "Feststellungsklage", "Klage auf wiederkehrende Leistungen"],
+        "correctIndex": 3,
+        "explanation": "Die Klage auf wiederkehrende Leistungen (§ 258 ZPO) erlaubt die Geltendmachung auch künftiger Forderungen.",
+        "source": {"citation": "ZPO", "pages": "S. 84", "chapter": "§ 258 Klage auf wiederkehrende Leistungen"},
+        "tags": ["Klagearten", "Regel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Welche Wirkung hat ein Anerkenntnis im Prozess?",
+        "options": ["Es führt zur Abweisung der Klage", "Es führt zur sofortigen Verurteilung der Partei", "Es verlängert die Beweisaufnahme", "Es beendet das Verfahren ohne Urteil"],
+        "correctIndex": 1,
+        "explanation": "Erkennt eine Partei den Anspruch an, ergeht ein Anerkenntnisurteil (§ 307 ZPO).",
+        "source": {"citation": "ZPO", "pages": "S. 96", "chapter": "§ 307 Anerkenntnis"},
+        "tags": ["Regel", "Urteil"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Welche Klageart dient der Abänderung von Urteilen über wiederkehrende Leistungen bei geänderten Verhältnissen?",
+        "options": ["Anfechtungsklage", "Abänderungsklage", "Restitutionsklage", "Leistungsklage"],
+        "correctIndex": 1,
+        "explanation": "Die Abänderungsklage nach § 323 ZPO ermöglicht Anpassungen bei veränderten Umständen.",
+        "source": {"citation": "ZPO", "pages": "S. 100", "chapter": "§ 323 Abänderung von Urteilen"},
+        "tags": ["Klagearten", "Regel"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Welche Rechtsfolge tritt ein, wenn eine Partei trotz ordnungsgemäßer Ladung im Termin nicht erscheint?",
+        "options": ["Das Gericht muss vertagen", "Es ergeht ein Versäumnisurteil", "Der Prozess wird eingestellt", "Die Klage wird automatisch gewonnen"],
+        "correctIndex": 1,
+        "explanation": "Erscheint eine Partei nicht, kann auf Antrag ein Versäumnisurteil ergehen (§§ 330, 331 ZPO).",
+        "source": {"citation": "ZPO", "pages": "S. 102", "chapter": "§§ 330–331 Versäumnisurteil"},
+        "tags": ["Regel", "Urteil"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q20",
+        "text": "Welche Art der Wiederaufnahme dient der Korrektur eines rechtskräftigen Urteils wegen Täuschung oder neuer Beweise?",
+        "options": ["Nichtigkeitsklage", "Restitutionsklage", "Sprungrevision", "Abänderungsklage"],
+        "correctIndex": 1,
+        "explanation": "Die Restitutionsklage (§ 580 ZPO) ermöglicht die Wiederaufnahme bei Täuschung oder neuen Beweismitteln.",
+        "source": {"citation": "ZPO", "pages": "S. 19", "chapter": "§ 580 Restitutionsklage"},
+        "tags": ["Rechtsmittel", "Wiederaufnahme"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q21",
+        "text": "Wodurch wird der allgemeine Gerichtsstand einer Person bestimmt?",
+        "options": [
+          "Durch den Wohnsitz der Person",
+          "Durch den gewöhnlichen Aufenthaltsort",
+          "Durch den Ort des Schadenseintritts",
+          "Durch den Sitz des Prozessgerichts"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der allgemeine Gerichtsstand wird durch den Wohnsitz bestimmt (§ 13 ZPO). Aufenthaltsort, Schadensort und Gerichtssitz sind hierfür nicht maßgeblich.",
+        "source": {
+          "citation": "ZPO, § 13 Allgemeiner Gerichtsstand des Wohnsitzes",
+          "pages": "S. 2",
+          "chapter": "Buch 1 – Allgemeine Vorschriften; Abschnitt 1 – Gerichte; Titel 2 – Gerichtsstand; § 13",
+          "articleOrSection": "§ 13"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q22",
+        "text": "Welches Gericht ist grundsätzlich für alle Klagen gegen eine Person zuständig, sofern kein ausschließlicher Gerichtsstand besteht?",
+        "options": [
+          "Das Gericht ihres allgemeinen Gerichtsstands",
+          "Das Gericht am Ort der unerlaubten Handlung",
+          "Das Gericht des Beklagtenvertreters",
+          "Das Gericht am Sitz des Klägers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 12 ZPO ist das Gericht des allgemeinen Gerichtsstands zuständig, sofern kein ausschließlicher Gerichtsstand greift. Besondere Gerichtsstände wie der Deliktsgerichtsstand treten daneben nur, wenn einschlägig.",
+        "source": {
+          "citation": "ZPO, § 12 Allgemeiner Gerichtsstand; Begriff",
+          "pages": "S. 2",
+          "chapter": "Buch 1 – Allgemeine Vorschriften; Abschnitt 1 – Gerichte; Titel 2 – Gerichtsstand; § 12",
+          "articleOrSection": "§ 12"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q23",
+        "text": "Welcher besondere Gerichtsstand ist für Klagen aus unerlaubten Handlungen vorgesehen?",
+        "options": [
+          "Das Gericht, in dessen Bezirk die Handlung begangen ist",
+          "Das Gericht am Wohnsitz des Klägers",
+          "Das Gericht am Sitz der Polizei",
+          "Das Gericht des zuerst angerufenen Richters"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 32 ZPO ordnet den Deliktsgerichtsstand am Handlungsort an. Andere Orte sind hierfür nicht maßgeblich.",
+        "source": {
+          "citation": "ZPO, § 32 Besonderer Gerichtsstand der unerlaubten Handlung",
+          "pages": "S. 2",
+          "chapter": "Buch 1 – Allgemeine Vorschriften; Abschnitt 1 – Gerichte; Titel 2 – Gerichtsstand; § 32",
+          "articleOrSection": "§ 32"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Welches Gericht bestimmt nach § 36 ZPO das zuständige Gericht, wenn mehrere Gerichte sich rechtskräftig für unzuständig erklärt haben und eines davon zuständig ist?",
+        "options": [
+          "Das im Rechtszug zunächst höhere Gericht",
+          "Der Bundesgerichtshof stets",
+          "Das zuerst angerufene Gericht",
+          "Das Bundesverfassungsgericht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 36 Abs. 1 ZPO bestimmt das im Rechtszug zunächst höhere Gericht die Zuständigkeit. Nur bei besonderer Konstellation greift § 36 Abs. 2/3 (z. B. Vorlage an den BGH).",
+        "source": {
+          "citation": "ZPO, § 36 Gerichtliche Bestimmung der Zuständigkeit",
+          "pages": "S. 3",
+          "chapter": "Buch 1 – Allgemeine Vorschriften; Abschnitt 1 – Gerichte; Titel 2 – Gerichtsstand; § 36",
+          "articleOrSection": "§ 36"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "In welchem Fall ist ein Richter kraft Gesetzes von der Ausübung des Richteramtes ausgeschlossen?",
+        "options": [
+          "Wenn er selbst Partei der Sache ist",
+          "Wenn er früher einmal im selben Gericht tätig war",
+          "Wenn er und der Kläger denselben Geburtsmonat haben",
+          "Wenn er die Sache bereits in den Medien verfolgt hat"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 41 ZPO nennt u. a. den Ausschluss, wenn der Richter selbst Partei ist. Die übrigen Gründe sind keine gesetzlichen Ausschlussgründe.",
+        "source": {
+          "citation": "ZPO, § 41 Ausschluss von der Ausübung des Richteramtes",
+          "pages": "S. 3",
+          "chapter": "Buch 1 – Allgemeine Vorschriften; Abschnitt 1 – Gerichte; Titel 3 – Ausschluss und Ablehnung; § 41",
+          "articleOrSection": "§ 41"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Wer trägt die Prozesskosten, wenn der Beklagte den Anspruch sofort anerkennt und keinen Anlass zur Klage gegeben hat?",
+        "options": [
+          "Der Kläger",
+          "Der Beklagte",
+          "Beide je zur Hälfte",
+          "Die Staatskasse"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 93 ZPO fallen dem Kläger die Kosten zur Last, wenn der Beklagte keinen Anlass zur Klage gegeben und sofort anerkannt hat.",
+        "source": {
+          "citation": "ZPO, § 93 Kosten bei sofortigem Anerkenntnis",
+          "pages": "S. 5",
+          "chapter": "Buch 1 – Allgemeine Vorschriften; Abschnitt 3 – Verfahren; Titel 9 – Kosten; § 93",
+          "articleOrSection": "§ 93"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Wann kann die mündliche Verhandlung als Videoverhandlung stattfinden?",
+        "options": [
+          "In geeigneten Fällen und bei ausreichenden Kapazitäten",
+          "Nur bei Naturkatastrophen",
+          "Nur auf übereinstimmenden Antrag beider Parteien",
+          "Grundsätzlich nie, da Präsenz zwingend ist"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 128a Abs. 1 ZPO erlaubt die Videoverhandlung in geeigneten Fällen und bei vorhandenen Kapazitäten. Ein beiderseitiger Antrag oder Ausnahmelagen sind nicht Voraussetzung.",
+        "source": {
+          "citation": "ZPO, § 128a Videoverhandlung",
+          "pages": "S. 6",
+          "chapter": "Buch 1 – Allgemeine Vorschriften; Abschnitt 3 – Verfahren; Titel 1 – Mündliche Verhandlung; § 128a",
+          "articleOrSection": "§ 128a"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q28",
+        "text": "Was ist nach § 166 ZPO eine Zustellung?",
+        "options": [
+          "Die Bekanntgabe eines Dokuments in der gesetzlich bestimmten Form",
+          "Die einfache Übersendung per normaler E‑Mail",
+          "Die mündliche Unterrichtung durch das Gericht",
+          "Die Veröffentlichung im Internet"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 166 Abs. 1 ZPO definiert Zustellung als förmliche Bekanntgabe in der vorgesehenen Form. E‑Mail ohne förmliche Zustellung, mündliche Mitteilung und Internetpublikation genügen nicht.",
+        "source": {
+          "citation": "ZPO, § 166 Zustellung (Begriff)",
+          "pages": "S. 7",
+          "chapter": "Buch 1 – Allgemeine Vorschriften; Abschnitt 3 – Verfahren; Titel 2 – Zustellungen; § 166",
+          "articleOrSection": "§ 166"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "An wen ist in einem anhängigen Verfahren zuzustellen, wenn ein Prozessbevollmächtigter für den Rechtszug bestellt ist?",
+        "options": [
+          "An den bestellten Prozessbevollmächtigten",
+          "Immer an die Partei persönlich",
+          "An das örtlich zuständige Amtsgericht",
+          "An die Rechtsschutzversicherung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 172 Abs. 1 ZPO schreibt die Zustellung an den für den Rechtszug bestellten Prozessbevollmächtigten vor. Eine Zustellung an die Partei ist dann nicht vorrangig.",
+        "source": {
+          "citation": "ZPO, § 172 Zustellung an Prozessbevollmächtigte",
+          "pages": "S. 7",
+          "chapter": "Buch 1 – Allgemeine Vorschriften; Abschnitt 3 – Verfahren; Titel 2 – Zustellungen; § 172",
+          "articleOrSection": "§ 172"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Kann an einen rechtsgeschäftlich bestellten Vertreter mit gleicher Wirkung wie an den Vertretenen zugestellt werden?",
+        "options": [
+          "Ja, bei Vorlage schriftlicher Vollmacht",
+          "Nein, nur an die Partei selbst",
+          "Nur mit gerichtlicher Genehmigung",
+          "Nur per Telefax"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 171 ZPO erlaubt die Zustellung an den rechtsgeschäftlich bestellten Vertreter; dieser hat eine schriftliche Vollmacht vorzulegen.",
+        "source": {
+          "citation": "ZPO, § 171 Zustellung an Bevollmächtigte",
+          "pages": "S. 7",
+          "chapter": "Buch 1 – Allgemeine Vorschriften; Abschnitt 3 – Verfahren; Titel 2 – Zustellungen; § 171",
+          "articleOrSection": "§ 171"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q31",
+        "text": "Wie kann nach § 174 ZPO zugestellt werden?",
+        "options": [
+          "Durch Aushändigung an der Amtsstelle",
+          "Nur per Einschreiben mit Rückschein",
+          "Ausschließlich elektronisch",
+          "Nur durch Gerichtsvollzieher"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 174 ZPO nennt die Zustellung durch Aushändigung an der Amtsstelle. Andere Wege sind in anderen Vorschriften geregelt, aber nicht ausschließlich.",
+        "source": {
+          "citation": "ZPO, § 174 Zustellung durch Aushändigung an der Amtsstelle",
+          "pages": "S. 7",
+          "chapter": "Buch 1 – Allgemeine Vorschriften; Abschnitt 3 – Verfahren; Titel 2 – Zustellungen; § 174",
+          "articleOrSection": "§ 174"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q32",
+        "text": "Wo kann einer Person ein Schriftstück nach § 177 ZPO zugestellt werden?",
+        "options": [
+          "An jedem Ort, an dem sie angetroffen wird",
+          "Nur in der Wohnung",
+          "Nur am Geschäftssitz",
+          "Nur im Gerichtsgebäude"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 177 ZPO erlaubt die Übergabe an jedem Ort, an dem die Person angetroffen wird. Wohnung, Geschäftssitz oder Gericht sind nicht die einzigen Orte.",
+        "source": {
+          "citation": "ZPO, § 177 Ort der Zustellung",
+          "pages": "S. 7",
+          "chapter": "Buch 1 – Allgemeine Vorschriften; Abschnitt 3 – Verfahren; Titel 2 – Zustellungen; § 177",
+          "articleOrSection": "§ 177"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q33",
+        "text": "Wann gilt ein Schriftstück bei Ersatzzustellung in den Briefkasten als zugestellt (§ 180 ZPO)?",
+        "options": [
+          "Mit der Einlegung in den Briefkasten",
+          "Erst am folgenden Werktag",
+          "Erst nach schriftlicher Bestätigung des Empfängers",
+          "Mit Eingangsstempel des Gerichts"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 180 ZPO gilt das Schriftstück mit der Einlegung in den Briefkasten als zugestellt. Weitere Bestätigungen oder Fristen sind nicht erforderlich.",
+        "source": {
+          "citation": "ZPO, § 180 Ersatzzustellung durch Einlegen in den Briefkasten",
+          "pages": "S. 8",
+          "chapter": "Buch 1 – Allgemeine Vorschriften; Abschnitt 3 – Verfahren; Titel 2 – Zustellungen; § 180",
+          "articleOrSection": "§ 180"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Wie wird die Klage erhoben (§ 253 ZPO)?",
+        "options": [
+          "Durch Zustellung der Klageschrift",
+          "Durch Einzahlung der Gerichtsgebühr",
+          "Durch Protokollierung beim Rechtspfleger",
+          "Durch Eintragung in das Urteilsregister"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 253 Abs. 1 ZPO bestimmt die Erhebung der Klage durch Zustellung eines Schriftsatzes (Klageschrift). Gebühren u. Ä. ersetzen die Zustellung nicht.",
+        "source": {
+          "citation": "ZPO, § 253 Klageschrift",
+          "pages": "S. 10",
+          "chapter": "Buch 2 – Verfahren im ersten Rechtszug; Abschnitt 1 – Verfahren vor den Landgerichten; Titel 1 – Verfahren bis zum Urteil; § 253",
+          "articleOrSection": "§ 253"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Welche Mindestangaben muss die Klageschrift enthalten (§ 253 Abs. 2 ZPO)?",
+        "options": [
+          "Parteibezeichnung, Gericht, bestimmter Antrag sowie Gegenstand und Grund des Anspruchs",
+          "Nur die Forderungssumme",
+          "Name des Richters und Sitzungssaal",
+          "Die Bankverbindung des Klägers"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 253 Abs. 2 ZPO verlangt u. a. die Bezeichnung der Parteien und des Gerichts, einen bestimmten Antrag sowie Gegenstand und Grund des Anspruchs.",
+        "source": {
+          "citation": "ZPO, § 253 Klageschrift (Mindestangaben)",
+          "pages": "S. 10",
+          "chapter": "Buch 2 – Verfahren im ersten Rechtszug; Abschnitt 1 – Verfahren vor den Landgerichten; Titel 1 – Verfahren bis zum Urteil; § 253",
+          "articleOrSection": "§ 253"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Wann wird die Rechtshängigkeit begründet (§ 261 ZPO)?",
+        "options": [
+          "Mit Erhebung der Klage",
+          "Mit Eingang der Klage bei Gericht",
+          "Mit Zahlung des Gerichtskostenvorschusses",
+          "Mit Anberaumung des ersten Termins"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 261 Abs. 1 ZPO: Durch die Erhebung der Klage (also die Zustellung der Klageschrift) wird Rechtshängigkeit begründet.",
+        "source": {
+          "citation": "ZPO, § 261 Rechtshängigkeit",
+          "pages": "S. 10",
+          "chapter": "Buch 2 – Verfahren im ersten Rechtszug; Abschnitt 1 – Verfahren vor den Landgerichten; Titel 1 – Verfahren bis zum Urteil; § 261",
+          "articleOrSection": "§ 261"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Bis wann kann der Kläger die Klage ohne Einwilligung des Beklagten zurücknehmen (§ 269 ZPO)?",
+        "options": [
+          "Bis zum Beginn der mündlichen Verhandlung des Beklagten zur Hauptsache",
+          "Bis zur Verkündung des Urteils",
+          "Bis zum Schluss der mündlichen Verhandlung erster Instanz",
+          "Nur binnen zwei Wochen nach Klageeinreichung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 269 Abs. 1 ZPO erlaubt die Rücknahme ohne Einwilligung nur bis zum Beginn der mündlichen Verhandlung des Beklagten zur Hauptsache.",
+        "source": {
+          "citation": "ZPO, § 269 Klagerücknahme",
+          "pages": "S. 10",
+          "chapter": "Buch 2 – Verfahren im ersten Rechtszug; Abschnitt 1 – Verfahren vor den Landgerichten; Titel 1 – Verfahren bis zum Urteil; § 269",
+          "articleOrSection": "§ 269"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q38",
+        "text": "Was ist Gegenstand der materiellen Rechtskraft nach § 322 Abs. 1 ZPO?",
+        "options": [
+          "Nur der durch Klage oder Widerklage erhobene Anspruch",
+          "Der gesamte Lebenssachverhalt",
+          "Alle rechtlichen Erwägungen des Urteils",
+          "Die Beweiswürdigung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 322 Abs. 1 ZPO beschränkt die Rechtskraft auf den entschiedenen Streitgegenstand (Anspruch). Tatbestandliche Feststellungen und Begründung sind nicht rechtskraftfähig.",
+        "source": {
+          "citation": "ZPO, § 322 Materielle Rechtskraft",
+          "pages": "S. 12",
+          "chapter": "Buch 2 – Verfahren im ersten Rechtszug; Titel 2 – Urteil; § 322",
+          "articleOrSection": "§ 322"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Gilt bei elektronischer Einreichung der Klageschrift die Pflicht zur Beifügung von Abschriften (§ 253 ZPO)?",
+        "options": [
+          "Nein, bei elektronischer Einreichung sind Abschriften entbehrlich",
+          "Ja, stets",
+          "Nur bei Berufungssachen",
+          "Nur wenn der Beklagte dies verlangt"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 253 sieht vor, dass bei elektronischer Einreichung keine Abschriften beizufügen sind. In Papierform sind Abschriften beizulegen.",
+        "source": {
+          "citation": "ZPO, § 253 Klageschrift (elektronische Einreichung)",
+          "pages": "S. 10",
+          "chapter": "Buch 2 – Verfahren im ersten Rechtszug; Abschnitt 1 – Verfahren vor den Landgerichten; Titel 1 – Verfahren bis zum Urteil; § 253",
+          "articleOrSection": "§ 253"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q40",
+        "text": "Welche Wirkung hat die Rechtshängigkeit hinsichtlich der Zuständigkeit (§ 261 Abs. 3 ZPO)?",
+        "options": [
+          "Eine Veränderung der zuständigkeitsbegründenden Umstände berührt die Zuständigkeit nicht",
+          "Das Verfahren muss bei Änderung sofort abgegeben werden",
+          "Die Zuständigkeit entfällt rückwirkend",
+          "Die Zuständigkeit richtet sich fortan nach dem Wohnsitz des Klägers"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 261 Abs. 3 Nr. 2 ZPO fixiert die einmal begründete Zuständigkeit trotz späterer Änderungen. Eine Abgabe ist deshalb nicht allein wegen späterer Änderungen geboten.",
+        "source": {
+          "citation": "ZPO, § 261 Rechtshängigkeit (Wirkungen)",
+          "pages": "S. 10",
+          "chapter": "Buch 2 – Verfahren im ersten Rechtszug; Abschnitt 1 – Verfahren vor den Landgerichten; Titel 1 – Verfahren bis zum Urteil; § 261",
+          "articleOrSection": "§ 261"
+        },
+        "tags": [
+          "ZPO",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q41",
+        "text": "Was ist Gegenstand der freien Beweiswürdigung (§ 286 ZPO)?",
+        "options": [
+          "Das Gericht entscheidet nach freier Überzeugung",
+          "Das Gericht muss stets nur Urkunden folgen",
+          "Zeugenaussagen haben immer Vorrang",
+          "Sachverständigengutachten sind zwingend bindend"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 286 ZPO regelt die freie Beweiswürdigung; das Gericht entscheidet nach freier Überzeugung. Es besteht keine Bindung nur an bestimmte Beweise.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 286",
+          "articleOrSection": "§ 286"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q42",
+        "text": "Welche Wirkung hat ein gerichtliches Geständnis (§ 288 ZPO)?",
+        "options": [
+          "Es ist unverbindlich",
+          "Es ersetzt die Beweisaufnahme",
+          "Es verlängert die Beweisaufnahme",
+          "Es verpflichtet beide Parteien zu einem Vergleich"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein gerichtliches Geständnis macht die Beweisaufnahme über die gestandenen Tatsachen entbehrlich (§ 288 ZPO).",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 288",
+          "articleOrSection": "§ 288"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q43",
+        "text": "Welche Tatsache ist nach § 291 ZPO offenkundig?",
+        "options": [
+          "Tatsachen, die jedermann kennt oder gerichtsbekannt sind",
+          "Nur im Handelsregister eingetragene Tatsachen",
+          "Nur polizeilich dokumentierte Tatsachen",
+          "Nur Zeugenaussagen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Offenkundig sind Tatsachen, die jedermann kennt oder dem Gericht bekannt sind. Andere Formen sind keine Voraussetzung.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 291",
+          "articleOrSection": "§ 291"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Welche Folge hat die Versäumung einer Notfrist (§ 296 ZPO)?",
+        "options": [
+          "Das Vorbringen ist verspätet und zurückzuweisen",
+          "Es führt zur sofortigen Klageabweisung",
+          "Es führt automatisch zur Kostenentscheidung gegen den Kläger",
+          "Es hat keine Auswirkungen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach § 296 ZPO ist verspätetes Vorbringen zurückzuweisen, wenn eine Notfrist versäumt wird.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 296",
+          "articleOrSection": "§ 296"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Wer kann Einsicht in die Prozessakten nehmen (§ 299 ZPO)?",
+        "options": [
+          "Nur die Parteien und ihre Bevollmächtigten",
+          "Jeder Bürger ohne Beschränkung",
+          "Nur die Presse",
+          "Nur das Gericht"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 299 ZPO erlaubt die Akteneinsicht den Parteien und ihren Bevollmächtigten. Öffentlich ist sie nicht.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 299",
+          "articleOrSection": "§ 299"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q46",
+        "text": "Welches Formerfordernis gilt für ein Urteil (§ 313 ZPO)?",
+        "options": [
+          "Es muss schriftlich abgefasst und begründet sein",
+          "Es genügt eine mündliche Bekanntgabe",
+          "Es muss stets notariell beurkundet werden",
+          "Es darf nur als elektronisches Dokument existieren"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 313 ZPO schreibt die schriftliche Abfassung mit Begründung vor.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 313",
+          "articleOrSection": "§ 313"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Was ist Inhalt der materiellen Rechtskraft (§ 322 ZPO)?",
+        "options": [
+          "Nur der durch Klage erhobene Anspruch",
+          "Alle Tatsachen des Prozesses",
+          "Alle rechtlichen Erwägungen",
+          "Nur die Beweisaufnahme"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 322 ZPO beschränkt die Rechtskraft auf den Streitgegenstand (Anspruch).",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 322",
+          "articleOrSection": "§ 322"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q48",
+        "text": "Wann kann ein Urteil abgeändert werden (§ 323 ZPO)?",
+        "options": [
+          "Bei wesentlicher Veränderung der Verhältnisse",
+          "Stets auf Antrag des Beklagten",
+          "Immer nach einem Jahr",
+          "Nie"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 323 ZPO erlaubt die Abänderung von Urteilen über wiederkehrende Leistungen bei veränderten Verhältnissen.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 323",
+          "articleOrSection": "§ 323"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q49",
+        "text": "Wem gegenüber wirkt die Rechtskraft eines Urteils (§ 325 ZPO)?",
+        "options": [
+          "Gegenüber den Parteien und deren Rechtsnachfolgern",
+          "Nur gegenüber Kläger",
+          "Nur gegenüber Beklagten",
+          "Gegenüber jedermann"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 325 ZPO erstreckt die Rechtskraft auf Parteien und Rechtsnachfolger.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 325",
+          "articleOrSection": "§ 325"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q50",
+        "text": "Wann wird ein Urteil rechtskräftig (§ 329 ZPO)?",
+        "options": [
+          "Wenn es nicht mehr mit ordentlichen Rechtsmitteln angefochten werden kann",
+          "Sofort mit Verkündung",
+          "Erst nach sechs Monaten",
+          "Nur nach Bestätigung des BGH"
+        ],
+        "correctIndex": 0,
+        "explanation": "Rechtskraft tritt ein, wenn keine ordentlichen Rechtsmittel mehr möglich sind.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 329",
+          "articleOrSection": "§ 329"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q51",
+        "text": "Welche Wirkung hat ein Versäumnisurteil (§ 331 ZPO)?",
+        "options": [
+          "Es gilt wie ein streitiges Urteil",
+          "Es ist nur eine Empfehlung",
+          "Es hat keine Vollstreckungswirkung",
+          "Es ersetzt die Klageschrift"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Versäumnisurteil steht einem streitigen Urteil gleich.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 331",
+          "articleOrSection": "§ 331"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q52",
+        "text": "Welches Rechtsmittel steht gegen ein Versäumnisurteil offen (§ 338 ZPO)?",
+        "options": [
+          "Einspruch",
+          "Berufung",
+          "Revision",
+          "Beschwerde"
+        ],
+        "correctIndex": 0,
+        "explanation": "Gegen ein Versäumnisurteil ist der Einspruch statthaft (§ 338 ZPO).",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 338",
+          "articleOrSection": "§ 338"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Welche Folge hat der Einspruch gegen ein Versäumnisurteil (§ 343 ZPO)?",
+        "options": [
+          "Der Prozess wird in die Lage vor der Säumnis zurückversetzt",
+          "Das Urteil bleibt bestehen",
+          "Das Verfahren endet automatisch",
+          "Das Urteil wird nichtig"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 343 ZPO: Mit Einspruch wird der Prozess in die Lage vor der Säumnis zurückversetzt.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 343",
+          "articleOrSection": "§ 343"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q54",
+        "text": "Welche Bedeutung hat die Berufungsbegründung (§ 520 ZPO)?",
+        "options": [
+          "Sie muss den Umfang und die Gründe der Anfechtung enthalten",
+          "Sie ist nur formaler Natur",
+          "Sie kann beliebig knapp ausfallen",
+          "Sie ist entbehrlich"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 520 ZPO verlangt eine konkrete Begründung mit Umfang und Gründen.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 520",
+          "articleOrSection": "§ 520"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q55",
+        "text": "Wann kann das Berufungsgericht eine Berufung ohne mündliche Verhandlung zurückweisen (§ 522 ZPO)?",
+        "options": [
+          "Wenn sie offensichtlich keine Aussicht auf Erfolg hat",
+          "Nur auf Antrag des Klägers",
+          "Immer nach Ermessen",
+          "Nie"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 522 Abs. 2 ZPO erlaubt die Zurückweisung ohne mündliche Verhandlung, wenn die Berufung offensichtlich keine Aussicht auf Erfolg hat.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 522",
+          "articleOrSection": "§ 522"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q56",
+        "text": "Welche Frist gilt für die Berufung (§ 517 ZPO)?",
+        "options": [
+          "Ein Monat",
+          "Eine Woche",
+          "Zwei Monate",
+          "Sechs Monate"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 517 ZPO bestimmt eine Frist von einem Monat.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 517",
+          "articleOrSection": "§ 517"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q57",
+        "text": "Wann ist die Berufung zulässig (§ 511 ZPO)?",
+        "options": [
+          "Wenn der Beschwerdewert über 600 Euro liegt oder das Gericht sie zulässt",
+          "Immer automatisch",
+          "Nur wenn beide Parteien zustimmen",
+          "Nur bei Geldforderungen"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 511 ZPO: Berufung ist zulässig bei Beschwer über 600 Euro oder bei Zulassung.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 511",
+          "articleOrSection": "§ 511"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q58",
+        "text": "Welches vereinfachte Verfahren sieht § 495a ZPO vor?",
+        "options": [
+          "Das Verfahren nach billigem Ermessen bei Amtsgerichten",
+          "Die mündliche Verhandlung immer",
+          "Nur die Berufung",
+          "Das Mahnverfahren"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 495a ZPO gibt Amtsgerichten die Möglichkeit, nach billigem Ermessen zu verfahren.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 495a",
+          "articleOrSection": "§ 495a"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q59",
+        "text": "Welches Formerfordernis gilt für das Berufungsurteil (§ 540 ZPO)?",
+        "options": [
+          "Es muss eine kurze Begründung enthalten",
+          "Es darf keine Gründe haben",
+          "Es muss im Bundesanzeiger veröffentlicht werden",
+          "Es muss stets notariell beurkundet werden"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 540 ZPO schreibt eine kurze Begründung im Berufungsurteil vor.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 540",
+          "articleOrSection": "§ 540"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q60",
+        "text": "Welche Wirkung haben rechtskräftige Urteile nach § 322 ZPO?",
+        "options": [
+          "Sie entfalten materielle Rechtskraft",
+          "Sie sind nur moralisch bindend",
+          "Sie können jederzeit geändert werden",
+          "Sie wirken nur befristet"
+        ],
+        "correctIndex": 0,
+        "explanation": "Rechtskräftige Urteile haben materielle Rechtskraft (§ 322 ZPO).",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 15",
+          "chapter": "§ 322",
+          "articleOrSection": "§ 322"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q61",
+        "text": "Wann ist die Rechtsbeschwerde nach § 574 ZPO statthaft?",
+        "options": [
+          "Wenn sie gesetzlich ausdrücklich zugelassen ist",
+          "Immer bei Urteilen",
+          "Nur bei Berufungen",
+          "Nie"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 574 ZPO erlaubt die Rechtsbeschwerde, wenn sie gesetzlich vorgesehen oder vom Gericht zugelassen ist.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 574",
+          "articleOrSection": "§ 574"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q62",
+        "text": "Welches Rechtsmittel eröffnet die Wiederaufnahme des Verfahrens (§ 578 ZPO)?",
+        "options": [
+          "Die Restitutionsklage",
+          "Die Berufung",
+          "Die Revision",
+          "Die Rechtsbeschwerde"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 578 ZPO bestimmt die Restitutionsklage als Wiederaufnahmeklage.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 578",
+          "articleOrSection": "§ 578"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q63",
+        "text": "Welcher Grund rechtfertigt eine Restitutionsklage (§ 580 ZPO)?",
+        "options": [
+          "Urteil beruht auf einer Straftat wie falscher Zeugenaussage",
+          "Unzufriedenheit mit dem Urteil",
+          "Formfehler des Gerichts",
+          "Verspäteter Antrag"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 580 ZPO nennt u. a. Straftaten wie falsche Zeugenaussagen als Grund.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 580",
+          "articleOrSection": "§ 580"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q64",
+        "text": "Welche Frist gilt für die Erhebung der Restitutionsklage (§ 582 ZPO)?",
+        "options": [
+          "Ein Monat",
+          "Drei Monate",
+          "Sechs Monate",
+          "Ein Jahr"
+        ],
+        "correctIndex": 1,
+        "explanation": "§ 582 ZPO legt eine Frist von drei Monaten fest.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 582",
+          "articleOrSection": "§ 582"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q65",
+        "text": "Welches Gericht ist für die Restitutionsklage zuständig (§ 585 ZPO)?",
+        "options": [
+          "Das Gericht des ersten Rechtszugs",
+          "Immer der BGH",
+          "Das Berufungsgericht",
+          "Das Amtsgericht"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 585 ZPO bestimmt die Zuständigkeit des Gerichts des ersten Rechtszugs.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 585",
+          "articleOrSection": "§ 585"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q66",
+        "text": "Welches Verfahren gilt für Arrest und einstweilige Verfügung (§ 588 ZPO)?",
+        "options": [
+          "Es gelten die Vorschriften über das Verfahren im ersten Rechtszug",
+          "Es ist ein reines Strafverfahren",
+          "Es ist ein Verwaltungsverfahren",
+          "Es erfolgt immer ohne Richter"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 588 ZPO verweist auf das Verfahren des ersten Rechtszugs.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 588",
+          "articleOrSection": "§ 588"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q67",
+        "text": "Welches Ziel verfolgt der Arrest (§ 916 ZPO)?",
+        "options": [
+          "Sicherung der Zwangsvollstreckung",
+          "Beendigung des Hauptsacheverfahrens",
+          "Feststellung des Rechtsverhältnisses",
+          "Zuständigkeitsverlagerung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 916 ZPO: Der Arrest dient der Sicherung der Zwangsvollstreckung.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 916",
+          "articleOrSection": "§ 916"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q68",
+        "text": "Welche Voraussetzung gilt für eine einstweilige Verfügung (§ 935 ZPO)?",
+        "options": [
+          "Dringlichkeit und Verfügungsanspruch",
+          "Nur Dringlichkeit",
+          "Nur Verfügungsgrund",
+          "Nur Zustimmung der Gegenseite"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 935 ZPO verlangt sowohl Verfügungsanspruch als auch Verfügungsgrund (Dringlichkeit).",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 935",
+          "articleOrSection": "§ 935"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q69",
+        "text": "Welche Klageart ist im Urkundenprozess vorgesehen (§ 592 ZPO)?",
+        "options": [
+          "Leistungsklage auf Grundlage von Urkunden",
+          "Nur Feststellungsklage",
+          "Nur Anfechtungsklage",
+          "Keine"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 592 ZPO regelt den Urkundenprozess für Leistungsklagen.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 592",
+          "articleOrSection": "§ 592"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q70",
+        "text": "Wann ist eine Klage im Urkundenprozess unzulässig (§ 593 ZPO)?",
+        "options": [
+          "Wenn sie nicht auf Urkunden gestützt werden kann",
+          "Wenn sie in Papierform eingereicht wird",
+          "Wenn sie elektronisch eingereicht wird",
+          "Wenn sie mehrere Parteien betrifft"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 593 ZPO: Eine Klage ist unzulässig, wenn der Anspruch nicht auf Urkunden gestützt ist.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 593",
+          "articleOrSection": "§ 593"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q71",
+        "text": "Welche Beweise sind im Urkundenprozess unzulässig (§ 594 ZPO)?",
+        "options": [
+          "Zeugenbeweis",
+          "Urkundenbeweis",
+          "Sachverständigenbeweis",
+          "Parteivernehmung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 594 ZPO schließt den Zeugenbeweis aus.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 594",
+          "articleOrSection": "§ 594"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q72",
+        "text": "Welches Urteil ergeht, wenn im Urkundenprozess die Klage begründet ist (§ 600 ZPO)?",
+        "options": [
+          "Vorbehaltsurteil",
+          "Endurteil",
+          "Versäumnisurteil",
+          "Anerkenntnisurteil"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 600 ZPO: Es ergeht ein Vorbehaltsurteil.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 600",
+          "articleOrSection": "§ 600"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q73",
+        "text": "Welches Ziel verfolgt das Musterfeststellungsverfahren (§ 606 ZPO)?",
+        "options": [
+          "Feststellung von Voraussetzungen für Ansprüche einer Vielzahl von Verbrauchern",
+          "Nur individuelle Entscheidung",
+          "Nur Strafrechtliches",
+          "Nur öffentliches Recht"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 606 ZPO dient dem kollektiven Verbraucherschutz.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 606",
+          "articleOrSection": "§ 606"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q74",
+        "text": "Welche Klage kann nach § 610 ZPO auf Grundlage eines Musterfeststellungsurteils erhoben werden?",
+        "options": [
+          "Folgeklage (Leistungsklage)",
+          "Nur eine neue Musterklage",
+          "Keine Klage",
+          "Nur Berufung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 610 ZPO erlaubt Folgeklagen nach Musterfeststellung.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 610",
+          "articleOrSection": "§ 610"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q75",
+        "text": "Welche Rechtswirkung hat die Anmeldung zum Klageregister (§ 611 ZPO)?",
+        "options": [
+          "Sie hemmt die Verjährung",
+          "Sie beendet das Verfahren",
+          "Sie ersetzt das Urteil",
+          "Sie macht den Kläger automatisch obsiegend"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 204 BGB i.V.m. § 611 ZPO: Die Anmeldung hemmt die Verjährung.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 611",
+          "articleOrSection": "§ 611"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q76",
+        "text": "Wer führt das Klageregister im Musterfeststellungsverfahren (§ 614 ZPO)?",
+        "options": [
+          "Das Bundesamt für Justiz",
+          "Der BGH",
+          "Das OLG",
+          "Die Landesjustizverwaltung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 614 ZPO bestimmt das Bundesamt für Justiz.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 614",
+          "articleOrSection": "§ 614"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q77",
+        "text": "Wie wird die Musterfeststellungsklage bekannt gemacht (§ 617 ZPO)?",
+        "options": [
+          "Durch Veröffentlichung im Klageregister",
+          "Im Bundesgesetzblatt",
+          "In der Presse",
+          "Nur an die Parteien"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 617 ZPO sieht die Veröffentlichung im Klageregister vor.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 617",
+          "articleOrSection": "§ 617"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q78",
+        "text": "Welche Voraussetzung muss eine qualifizierte Einrichtung erfüllen, um Musterfeststellungsklage zu erheben (§ 606 ZPO)?",
+        "options": [
+          "Sie muss in der Liste des Bundesamtes für Justiz eingetragen sein",
+          "Sie muss mindestens 100 Mitglieder haben",
+          "Sie muss gemeinnützig sein",
+          "Sie muss ein Gericht genehmigen"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 606 Abs. 1 ZPO: Voraussetzung ist die Eintragung in die Liste des Bundesamts für Justiz.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 606",
+          "articleOrSection": "§ 606"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q79",
+        "text": "Wann endet die Wirkung der Anmeldung zum Klageregister (§ 622 ZPO)?",
+        "options": [
+          "Mit Rücknahme oder rechtskräftiger Entscheidung",
+          "Immer nach 6 Monaten",
+          "Automatisch nach 1 Jahr",
+          "Nie"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 622 ZPO: Wirkung endet mit Rücknahme oder rechtskräftiger Entscheidung.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 622",
+          "articleOrSection": "§ 622"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q80",
+        "text": "Welche Wirkung hat der Austritt eines Verbrauchers aus dem Klageregister (§ 624 ZPO)?",
+        "options": [
+          "Die Hemmung der Verjährung endet",
+          "Das Verfahren endet",
+          "Das Urteil wird unwirksam",
+          "Die Klage wird automatisch gewonnen"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 624 ZPO: Austritt beendet die Hemmung der Verjährung.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 20",
+          "chapter": "§ 624",
+          "articleOrSection": "§ 624"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q81",
+        "text": "Welche Voraussetzung muss für die Vollstreckungsklausel nach § 727 ZPO vorliegen?",
+        "options": [
+          "Vorlage einer vollstreckbaren Ausfertigung des Titels",
+          "Ein Antrag des Beklagten",
+          "Eine Zustimmung des Anwalts",
+          "Ein Kostenfestsetzungsbeschluss"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 727 ZPO verlangt eine vollstreckbare Ausfertigung.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 727",
+          "articleOrSection": "§ 727"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q82",
+        "text": "Welche Stelle erteilt die Vollstreckungsklausel (§ 730 ZPO)?",
+        "options": [
+          "Der Urkundsbeamte der Geschäftsstelle",
+          "Der Richter",
+          "Der Gerichtsvollzieher",
+          "Die Staatsanwaltschaft"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 730 ZPO: Der Urkundsbeamte der Geschäftsstelle erteilt die Klausel.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 730",
+          "articleOrSection": "§ 730"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q83",
+        "text": "Welches Rechtsmittel ist gegen die Erteilung der Vollstreckungsklausel möglich (§ 732 ZPO)?",
+        "options": [
+          "Die Klauselerinnerung",
+          "Die Berufung",
+          "Die Beschwerde",
+          "Die Revision"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 732 ZPO: Statthaft ist die Klauselerinnerung.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 732",
+          "articleOrSection": "§ 732"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q84",
+        "text": "Welche Voraussetzung gilt für die Zwangsvollstreckung (§ 750 ZPO)?",
+        "options": [
+          "Zustellung des Vollstreckungstitels an den Schuldner",
+          "Vorherige Mahnung",
+          "Zustimmung des Gläubigers",
+          "Anhörung des Schuldners"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 750 ZPO: Titel muss dem Schuldner zugestellt sein.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 750",
+          "articleOrSection": "§ 750"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q85",
+        "text": "Wann ist die Vollstreckung aus einem vorläufig vollstreckbaren Urteil möglich (§ 756 ZPO)?",
+        "options": [
+          "Wenn Sicherheit geleistet wird",
+          "Immer sofort",
+          "Nur nach Rechtskraft",
+          "Nie"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 756 ZPO erlaubt Vollstreckung bei Sicherheitsleistung.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 756",
+          "articleOrSection": "§ 756"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q86",
+        "text": "Welche Klage richtet sich gegen den titulierten Anspruch selbst (§ 767 ZPO)?",
+        "options": [
+          "Vollstreckungsabwehrklage",
+          "Drittwiderspruchsklage",
+          "Erinnerung",
+          "Berufung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 767 ZPO: Die Vollstreckungsabwehrklage richtet sich gegen den Anspruch.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 767",
+          "articleOrSection": "§ 767"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q87",
+        "text": "Welche Möglichkeit hat das Gericht bei Vollstreckungsabwehrklage (§ 769 ZPO)?",
+        "options": [
+          "Es kann die Vollstreckung einstweilen einstellen",
+          "Es muss sofort entscheiden",
+          "Es kann die Klage abweisen",
+          "Es muss das Verfahren beenden"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 769 ZPO: Das Gericht kann die Vollstreckung einstweilen einstellen.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 769",
+          "articleOrSection": "§ 769"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q88",
+        "text": "Welche Klage schützt das Eigentum eines Dritten an gepfändeten Sachen (§ 771 ZPO)?",
+        "options": [
+          "Drittwiderspruchsklage",
+          "Anfechtungsklage",
+          "Erinnerung",
+          "Restitutionsklage"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 771 ZPO: Die Drittwiderspruchsklage schützt das Eigentum Dritter.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 771",
+          "articleOrSection": "§ 771"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q89",
+        "text": "Welche besondere Vollstreckungsart regelt § 778 ZPO?",
+        "options": [
+          "Vorläufige Vollstreckung ohne Sicherheitsleistung",
+          "Arrestvollziehung",
+          "Vollstreckung wegen wiederkehrender Leistungen",
+          "Zwangsvollstreckung in Forderungen"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 778 ZPO erlaubt vorläufige Vollstreckung ohne Sicherheit.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 778",
+          "articleOrSection": "§ 778"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q90",
+        "text": "Welches Vollstreckungsinstrument zählt § 794 ZPO auf?",
+        "options": [
+          "Vergleich vor Gericht",
+          "Mahnbescheid",
+          "Privatvertrag",
+          "Anwaltliches Schreiben"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 794 ZPO nennt u. a. gerichtliche Vergleiche als Vollstreckungstitel.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 794",
+          "articleOrSection": "§ 794"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q91",
+        "text": "Welche Bedeutung hat § 795 ZPO?",
+        "options": [
+          "Erklärung der sofortigen Vollstreckbarkeit",
+          "Liste der besonderen Titel",
+          "Abschaffung der Sicherheitsleistung",
+          "Neuregelung der Kosten"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 795 ZPO regelt die sofortige Vollstreckbarkeit.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 795",
+          "articleOrSection": "§ 795"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q92",
+        "text": "Was ermöglicht § 796a ZPO?",
+        "options": [
+          "Vollstreckungsbescheid im Mahnverfahren",
+          "Vorläufige Sicherung",
+          "Notarielle Zwangsvollstreckung",
+          "Pfändungsschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 796a ZPO betrifft das Mahnverfahren mit Vollstreckungsbescheid.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 796a",
+          "articleOrSection": "§ 796a"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q93",
+        "text": "Welche Rolle spielt § 797 ZPO?",
+        "options": [
+          "Zwangsvollstreckung aus notariellen Urkunden",
+          "Vollstreckung aus Urteilen",
+          "Pfändungsschutzkonto",
+          "Grundbuchänderung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 797 ZPO: Vollstreckung ist auch aus notariellen Urkunden möglich.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 797",
+          "articleOrSection": "§ 797"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q94",
+        "text": "Wer führt das Schuldnerverzeichnis (§ 882h ZPO)?",
+        "options": [
+          "Die zentrale Vollstreckungsstelle",
+          "Der Bundesgerichtshof",
+          "Das Amtsgericht",
+          "Die Polizei"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 882h ZPO: Das Schuldnerverzeichnis wird zentral geführt.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 882h",
+          "articleOrSection": "§ 882h"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q95",
+        "text": "Welche Pflicht hat der Schuldner nach § 802a ZPO?",
+        "options": [
+          "Mitwirkung bei der Vermögensauskunft",
+          "Zahlung binnen 14 Tagen",
+          "Vorlage seiner Steuerbescheide",
+          "Meldung beim Gerichtsvollzieher"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 802a ZPO verpflichtet zur Mitwirkung bei der Vermögensauskunft.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 802a",
+          "articleOrSection": "§ 802a"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q96",
+        "text": "Was regelt § 802c ZPO?",
+        "options": [
+          "Abnahme der Vermögensauskunft",
+          "Pfändungsschutz",
+          "Kostenfestsetzung",
+          "Gerichtskostenhilfe"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 802c ZPO regelt die Abnahme der Vermögensauskunft.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 802c",
+          "articleOrSection": "§ 802c"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q97",
+        "text": "Welche Konsequenz hat die Nichtabgabe der Vermögensauskunft (§ 802g ZPO)?",
+        "options": [
+          "Haftbefehl",
+          "Zwangsgeld",
+          "Verfahrensabbruch",
+          "Kostenstundung"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 802g ZPO sieht bei Weigerung Haftbefehl vor.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 802g",
+          "articleOrSection": "§ 802g"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q98",
+        "text": "Welche Regel enthält § 803 ZPO?",
+        "options": [
+          "Allgemeine Vorschriften über die Zwangsvollstreckung",
+          "Spezielle Regel zur Kontopfändung",
+          "Kostenentscheidung",
+          "Wiederaufnahme des Verfahrens"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 803 ZPO enthält allgemeine Vorschriften zur Vollstreckung.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 803",
+          "articleOrSection": "§ 803"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q99",
+        "text": "Welche Vollstreckungsmaßnahme beschreibt § 808 ZPO?",
+        "options": [
+          "Pfändung körperlicher Sachen",
+          "Pfändung von Forderungen",
+          "Eintragung ins Schuldnerverzeichnis",
+          "Zwangsgeld"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 808 ZPO regelt die Pfändung körperlicher Sachen.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 808",
+          "articleOrSection": "§ 808"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q100",
+        "text": "Welchen Zweck hat das Pfändungsschutzkonto nach § 850k ZPO?",
+        "options": [
+          "Schutz eines Grundfreibetrags vor Kontopfändung",
+          "Verpflichtung zur Kontoschließung",
+          "Erhöhung der Kontogebühren",
+          "Freigabe aller Guthaben"
+        ],
+        "correctIndex": 0,
+        "explanation": "§ 850k ZPO schützt einen Grundfreibetrag auf dem Konto vor Pfändung.",
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 30",
+          "chapter": "§ 850k",
+          "articleOrSection": "§ 850k"
+        },
+        "tags": [
+          "ZPO"
+        ],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

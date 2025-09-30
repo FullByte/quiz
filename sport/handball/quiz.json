@@ -1,0 +1,2226 @@
+{
+  "quiz": {
+    "title": "Handballregeln 2025",
+    "description": "Umfassendes Multiple-Choice-Quiz zu den Handballregeln 2025 mit 100 Fragen aus allen Kapiteln.",
+    "language": "de",
+    "version": "1.0.0",
+    "metadata": {
+      "createdAt": "2025-09-25T14:05:53.516624Z",
+      "notes": "Fragen aus allen Kapiteln"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "sourceDocument": {
+      "title": "IX. Spielregeln a) Hallenhandball",
+      "version": "2025",
+      "year": 2025,
+      "pdfFilename": "Handballregeln_2025_Deutsche_IHF_Fassung.pdf"
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Wie groß ist die Spielfläche beim Hallenhandball laut Regelwerk?",
+        "options": [
+          "38 x 18 Meter",
+          "42 x 20 Meter",
+          "40 x 20 Meter",
+          "36 x 18 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Spielfläche ist ein Rechteck von 40 x 20 Metern. Alle anderen Maße sind falsch.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 5",
+          "chapter": "Regel 1 – Die Spielfläche"
+        },
+        "tags": [
+          "Spielfläche",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Wie lang ist die Torlinie zwischen den Torpfosten?",
+        "options": [
+          "6 cm",
+          "8 cm",
+          "5 cm",
+          "10 cm"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Torlinie zwischen den Pfosten ist 8 cm breit, alle anderen Linien sind 5 cm breit.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 5",
+          "chapter": "Regel 1 – Die Spielfläche"
+        },
+        "tags": [
+          "Linien",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Wie groß ist ein Handballtor laut den offiziellen Regeln?",
+        "options": [
+          "2,5 m hoch und 3,5 m breit",
+          "2 m hoch und 3 m breit",
+          "2,2 m hoch und 3,2 m breit",
+          "1,8 m hoch und 3 m breit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Tor ist 2 m hoch und 3 m breit. Andere Maße entsprechen nicht dem Regelwerk.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 5-6",
+          "chapter": "Regel 1 – Die Spielfläche"
+        },
+        "tags": [
+          "Tor",
+          "Spielfläche"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Wie groß ist der Durchmesser des Anwurfkreises in der Mitte der Spielfläche?",
+        "options": [
+          "3 Meter",
+          "4 Meter",
+          "5 Meter",
+          "6 Meter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Anwurfkreis hat 4 Meter Durchmesser. Kleinere oder größere Maße sind regelwidrig.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 5-6",
+          "chapter": "Regel 1 – Die Spielfläche"
+        },
+        "tags": [
+          "Spielfläche",
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "In welchem Abstand zur Torlinie befindet sich die 7-m-Linie?",
+        "options": [
+          "6 m",
+          "7 m",
+          "8 m",
+          "9 m"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die 7-m-Linie ist exakt 7 Meter von der hinteren Kante der Torlinie entfernt.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 5",
+          "chapter": "Regel 1 – Die Spielfläche"
+        },
+        "tags": [
+          "Wurf",
+          "Linien"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q6",
+        "text": "Wie lang ist die Torwartgrenzlinie (4-m-Linie)?",
+        "options": [
+          "10 cm",
+          "15 cm",
+          "20 cm",
+          "25 cm"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Torwartgrenzlinie ist 15 cm lang.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 5",
+          "chapter": "Regel 1 – Die Spielfläche"
+        },
+        "tags": [
+          "Torwart",
+          "Linien"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Wie lange dauert die normale Spielzeit bei Erwachsenen (ab 16 Jahren)?",
+        "options": [
+          "2 x 25 Minuten",
+          "2 x 20 Minuten",
+          "2 x 30 Minuten",
+          "2 x 35 Minuten"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Erwachsenenspiel dauert 2 Halbzeiten à 30 Minuten. Jüngere Altersklassen haben kürzere Zeiten.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 8",
+          "chapter": "Regel 2 – Spielzeit"
+        },
+        "tags": [
+          "Spielzeit",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Wie lange ist die Halbzeitpause normalerweise?",
+        "options": [
+          "5 Minuten",
+          "10 Minuten",
+          "12 Minuten",
+          "15 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Halbzeitpause beträgt in der Regel 10 Minuten, kann aber bis zu 15 Minuten verlängert werden.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 8",
+          "chapter": "Regel 2 – Spielzeit"
+        },
+        "tags": [
+          "Pause",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q9",
+        "text": "Wie viele Verlängerungen sind möglich, wenn ein Spiel unentschieden endet?",
+        "options": [
+          "Eine Verlängerung von 2 x 10 Minuten",
+          "Zwei Verlängerungen von 2 x 5 Minuten",
+          "Drei Verlängerungen von 2 x 5 Minuten",
+          "Eine Verlängerung von 1 x 15 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Es gibt maximal zwei Verlängerungen von jeweils 2 x 5 Minuten. Danach entscheidet ein 7-m-Werfen.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 8-9",
+          "chapter": "Regel 2 – Spielzeit"
+        },
+        "tags": [
+          "Verlängerung",
+          "Frist"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Ballgröße (Umfang) ist für Männer ab 16 Jahren vorgeschrieben (mit Harz)?",
+        "options": [
+          "54–56 cm",
+          "58–60 cm",
+          "50–52 cm",
+          "55–57 cm"
+        ],
+        "correctIndex": 1,
+        "explanation": "Für Männer und männliche Jugend ab 16 Jahren gilt Ballgröße 3 mit 58–60 cm Umfang.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 11",
+          "chapter": "Regel 3 – Der Ball"
+        },
+        "tags": [
+          "Ball",
+          "Größe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Wie schwer ist ein Ball der Größe 2 (mit Harz)?",
+        "options": [
+          "325–375 g",
+          "290–330 g",
+          "400–425 g",
+          "450–500 g"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Ball der Größe 2 wiegt 325–375 g. Größe 1 ist leichter, Größe 3 schwerer.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 11",
+          "chapter": "Regel 3 – Der Ball"
+        },
+        "tags": [
+          "Ball",
+          "Gewicht"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Wie viele Bälle müssen bei einem Spiel mindestens vorhanden sein?",
+        "options": [
+          "1 Ball",
+          "2 Bälle",
+          "3 Bälle",
+          "4 Bälle"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mindestens zwei Bälle müssen verfügbar sein, um Spielunterbrechungen zu vermeiden.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 12",
+          "chapter": "Regel 3 – Der Ball"
+        },
+        "tags": [
+          "Ball",
+          "Ausrüstung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q13",
+        "text": "Wie viele Spieler dürfen maximal in einer Handballmannschaft eingetragen sein?",
+        "options": [
+          "14 Spieler",
+          "15 Spieler",
+          "16 Spieler",
+          "18 Spieler"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine Mannschaft darf während des Spiels einschließlich Verlängerung bis zu 16 Spieler einsetzen.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 12",
+          "chapter": "Regel 4 – Mannschaften"
+        },
+        "tags": [
+          "Mannschaft",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q14",
+        "text": "Wie viele Spieler dürfen sich gleichzeitig auf der Spielfläche befinden?",
+        "options": [
+          "6 Feldspieler + 1 Torwart",
+          "7 Feldspieler",
+          "8 Spieler",
+          "5 Spieler"
+        ],
+        "correctIndex": 0,
+        "explanation": "Maximal 7 Spieler pro Mannschaft dürfen gleichzeitig auf der Spielfläche stehen.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 12",
+          "chapter": "Regel 4 – Mannschaften"
+        },
+        "tags": [
+          "Mannschaft",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q15",
+        "text": "Was geschieht, wenn ein Spieler ohne Auswechslung die Spielfläche betritt?",
+        "options": [
+          "Freiwurf für die eigene Mannschaft",
+          "2-Minuten-Hinausstellung",
+          "Verwarnung",
+          "7-m-Wurf für den Gegner"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein zusätzlicher Spieler führt zu einer Hinausstellung und die Mannschaft wird um 1 Spieler reduziert.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 14",
+          "chapter": "Regel 4 – Spielerwechsel"
+        },
+        "tags": [
+          "Wechsel",
+          "Strafe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Welche Mindestanzahl an Spielern muss eine Mannschaft zu Spielbeginn auf der Spielfläche haben?",
+        "options": [
+          "4 Spieler",
+          "5 Spieler",
+          "6 Spieler",
+          "7 Spieler"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mindestens 5 Spieler müssen antreten, ansonsten kann das Spiel nicht beginnen.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 12",
+          "chapter": "Regel 4 – Mannschaften"
+        },
+        "tags": [
+          "Mannschaft",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q17",
+        "text": "Welche Farbe muss die Kleidung eines Torwarts haben?",
+        "options": [
+          "Die gleiche wie die Feldspieler der eigenen Mannschaft",
+          "Eine andere als alle Feldspieler und Torwarte",
+          "Beliebig wählbar",
+          "Nur schwarz"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Torwartkleidung muss sich deutlich von Feldspielern beider Teams und den gegnerischen Torwarten unterscheiden.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 14",
+          "chapter": "Regel 4 – Ausrüstung"
+        },
+        "tags": [
+          "Torwart",
+          "Ausrüstung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Was passiert, wenn ein Spieler gefährliche Gegenstände trägt?",
+        "options": [
+          "Er darf weiterspielen, bis der Gegner protestiert",
+          "Er muss die Ausrüstung korrigieren",
+          "Es gibt sofort 2 Minuten Strafe",
+          "Die Mannschaft erhält einen Freiwurf"
+        ],
+        "correctIndex": 1,
+        "explanation": "Spieler mit gefährlichen Gegenständen dürfen nicht spielen, bis der Mangel behoben ist.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 15",
+          "chapter": "Regel 4 – Ausrüstung"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist dem Torwart im Torraum erlaubt?",
+        "options": [
+          "Ball nur mit Händen abwehren",
+          "Ball mit allen Körperteilen abwehren",
+          "Nur Ball mit Füßen spielen",
+          "Nur Ball mit Armen spielen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Torwart darf den Ball im Torraum mit allen Körperteilen berühren.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 16",
+          "chapter": "Regel 5 – Der Torwart"
+        },
+        "tags": [
+          "Torwart",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Darf der Torwart den Torraum mit dem kontrollierten Ball verlassen?",
+        "options": [
+          "Ja, jederzeit",
+          "Ja, wenn er ihn sofort abspielt",
+          "Nein, das ist verboten",
+          "Nur wenn er dabei springt"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Torwart darf den Torraum nicht mit einem kontrollierten Ball verlassen.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 16",
+          "chapter": "Regel 5 – Der Torwart"
+        },
+        "tags": [
+          "Torwart",
+          "Verbot"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Welche Linie darf der Torwart beim 7-m-Wurf nicht überschreiten, bevor der Ball die Hand des Werfers verlassen hat?",
+        "options": [
+          "Torlinie",
+          "7-m-Linie",
+          "4-m-Linie",
+          "9-m-Linie"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die 4-m-Torwartgrenzlinie darf beim 7-m-Wurf nicht überschritten werden.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 17",
+          "chapter": "Regel 5 – Der Torwart"
+        },
+        "tags": [
+          "Torwart",
+          "Wurf"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q22",
+        "text": "Was passiert, wenn ein Angreifer mit Ball den gegnerischen Torraum betritt?",
+        "options": [
+          "Abwurf für die gegnerische Mannschaft",
+          "Freiwurf für die angreifende Mannschaft",
+          "Tor wird gegeben",
+          "7-m-Wurf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Betritt ein Angreifer mit Ball den Torraum, entscheidet der Schiedsrichter auf Abwurf.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 17",
+          "chapter": "Regel 6 – Der Torraum"
+        },
+        "tags": [
+          "Torraum",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Wann wird ein 7-m-Wurf gegeben, wenn ein Abwehrspieler den Torraum betritt?",
+        "options": [
+          "Immer, sobald ein Verteidiger den Torraum betritt",
+          "Nur wenn eine klare Torgelegenheit verhindert wird",
+          "Immer, wenn Ballkontakt entsteht",
+          "Nur wenn zwei Spieler betroffen sind"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein 7-m-Wurf wird verhängt, wenn der Abwehrspieler durch das Betreten des Torraums eine klare Torgelegenheit verhindert.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 17",
+          "chapter": "Regel 6 – Der Torraum"
+        },
+        "tags": [
+          "Torraum",
+          "Wurf"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Was gilt, wenn der Torwart im Torraum Ball- und Körperkontrolle erlangt?",
+        "options": [
+          "Der Ball bleibt im Spiel",
+          "Es gibt Einwurf",
+          "Der Ball ist außerhalb des Spiels und Abwurf folgt",
+          "Der Ball zählt als Tor"
+        ],
+        "correctIndex": 2,
+        "explanation": "Sobald der Torwart im Torraum Kontrolle erlangt, ist der Ball außerhalb des Spiels und muss per Abwurf wieder ins Spiel gebracht werden.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 17-18",
+          "chapter": "Regel 6 – Der Torraum"
+        },
+        "tags": [
+          "Torraum",
+          "Ballkontrolle"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "Was geschieht, wenn der Ball in den eigenen Torraum gespielt wird und dort liegen bleibt?",
+        "options": [
+          "Tor für die eigene Mannschaft",
+          "Tor für die gegnerische Mannschaft",
+          "Freiwurf für die gegnerische Mannschaft",
+          "Abwurf"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bleibt der Ball im eigenen Torraum liegen, entscheidet der Schiedsrichter auf Freiwurf für die gegnerische Mannschaft.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 18",
+          "chapter": "Regel 6 – Der Torraum"
+        },
+        "tags": [
+          "Torraum",
+          "Fehler"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Wie groß ist die Sicherheitszone hinter den Torauslinien?",
+        "options": [
+          "1 Meter",
+          "1,5 Meter",
+          "2 Meter",
+          "3 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Hinter den Torauslinien ist eine Sicherheitszone von mindestens 2 Metern vorgeschrieben.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 5",
+          "chapter": "Regel 1 – Die Spielfläche"
+        },
+        "tags": [
+          "Spielfläche",
+          "Sicherheit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q27",
+        "text": "Wie viele Team-Time-outs pro Halbzeit sind nach IHF-Regeln erlaubt?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "beliebig viele"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pro Halbzeit darf jede Mannschaft maximal 2 Team-Time-outs nehmen, insgesamt 3 pro Spiel.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 11",
+          "chapter": "Regel 2 – Time-out"
+        },
+        "tags": [
+          "Time-out",
+          "Frist"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q28",
+        "text": "Welche Spielflächenlinie ist gestrichelt dargestellt?",
+        "options": [
+          "Torlinie",
+          "Mittellinie",
+          "Freiwurflinie",
+          "7-m-Linie"
+        ],
+        "correctIndex": 2,
+        "explanation": "Nur die Freiwurflinie (9-m-Linie) ist gestrichelt, alle anderen Linien sind durchgezogen.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 5",
+          "chapter": "Regel 1 – Die Spielfläche"
+        },
+        "tags": [
+          "Spielfläche",
+          "Linien"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q29",
+        "text": "Wie viele Mannschaftsoffizielle dürfen maximal auf dem Spielprotokoll eingetragen sein?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "correctIndex": 2,
+        "explanation": "Es sind maximal 5 Offizielle erlaubt, darunter ein Mannschaftsverantwortlicher.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 13",
+          "chapter": "Regel 4 – Mannschaften"
+        },
+        "tags": [
+          "Mannschaft",
+          "Offizielle"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Wie lange darf ein Spieler den Ball maximal halten, ohne ihn zu spielen?",
+        "options": [
+          "2 Sekunden",
+          "3 Sekunden",
+          "4 Sekunden",
+          "5 Sekunden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Spieler darf den Ball höchstens 3 Sekunden halten, sonst liegt ein Regelverstoß vor.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 18",
+          "chapter": "Regel 7 – Spielen des Balles"
+        },
+        "tags": [
+          "Ball",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q31",
+        "text": "Wie viele Schritte darf ein Spieler mit dem Ball maximal machen, ohne ihn zu prellen?",
+        "options": [
+          "2 Schritte",
+          "3 Schritte",
+          "4 Schritte",
+          "5 Schritte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Spieler darf sich mit dem Ball höchstens 3 Schritte bewegen.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 18-19",
+          "chapter": "Regel 7 – Spielen des Balles"
+        },
+        "tags": [
+          "Ball",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q32",
+        "text": "Wie lange darf ein Spieler den Ball maximal halten?",
+        "options": [
+          "2 Sekunden",
+          "3 Sekunden",
+          "4 Sekunden",
+          "5 Sekunden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Ball darf maximal 3 Sekunden festgehalten werden.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 18-19",
+          "chapter": "Regel 7 – Spielen des Balles"
+        },
+        "tags": [
+          "Ball",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q33",
+        "text": "Was ist beim Spielen des Balls NICHT erlaubt?",
+        "options": [
+          "Prellen mit einer Hand",
+          "Fangen mit beiden Händen",
+          "Ball mit dem Fuß absichtlich spielen",
+          "Ball mit dem Kopf spielen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Es ist verboten, den Ball absichtlich mit dem Fuß oder Unterschenkel zu berühren.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 19",
+          "chapter": "Regel 7 – Spielen des Balles"
+        },
+        "tags": [
+          "Verbot",
+          "Ball"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Welcher Kontakt ist beim Abwehrverhalten erlaubt?",
+        "options": [
+          "Den Gegner festhalten",
+          "Den Gegner mit offenem Arm blockieren",
+          "Den Gegner mit Rumpf sperren",
+          "Dem Gegner den Ball entreißen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Erlaubt ist, mit dem Rumpf zu sperren oder mit angewinkelten Armen Kontakt aufzunehmen, nicht jedoch Festhalten.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 21",
+          "chapter": "Regel 8 – Regelwidrigkeiten"
+        },
+        "tags": [
+          "Abwehr",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Welche Strafe folgt mindestens auf eine Regelwidrigkeit mit überwiegendem Körperkontakt gegen den Gegner?",
+        "options": [
+          "Keine Strafe",
+          "Progressive Strafe",
+          "Immer Disqualifikation",
+          "Nur Verwarnung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Regelwidrigkeiten mit überwiegendem Körperkontakt müssen mindestens progressiv geahndet werden.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 21-22",
+          "chapter": "Regel 8 – Regelwidrigkeiten"
+        },
+        "tags": [
+          "Strafen",
+          "Foul"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Welche Handlung gilt als grob unsportlich und führt zur Disqualifikation?",
+        "options": [
+          "Ball blockieren",
+          "Ball nach Pfiff wegwerfen",
+          "Ball mit dem Kopf spielen",
+          "Torwart weigert sich, 7-m-Wurf abzuwehren"
+        ],
+        "correctIndex": 3,
+        "explanation": "Wenn der Torwart demonstrativ den 7-m-Wurf nicht abwehrt, gilt das als grob unsportliches Verhalten.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 25",
+          "chapter": "Regel 8 – Unsportlichkeit"
+        },
+        "tags": [
+          "Strafe",
+          "Torwart"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q37",
+        "text": "Wann ist ein Tor erzielt?",
+        "options": [
+          "Wenn der Ball die Torlinie teilweise überquert",
+          "Wenn der Ball die Torlinie vollständig überquert",
+          "Wenn der Schiedsrichter pfeift",
+          "Wenn beide Schiedsrichter zustimmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Tor zählt, wenn der Ball die Torlinie vollständig überquert hat.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 27",
+          "chapter": "Regel 9 – Der Torgewinn"
+        },
+        "tags": [
+          "Tor",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Wo wird der Anwurf zu Beginn der Halbzeit ausgeführt?",
+        "options": [
+          "Von der 7-m-Linie",
+          "Von der Mittellinie oder Anwurfzone",
+          "Von der 9-m-Linie",
+          "Von beliebiger Stelle"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Anwurf erfolgt entweder von der Mittellinie oder aus der Anwurfzone.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 28-29",
+          "chapter": "Regel 10 – Der Anwurf"
+        },
+        "tags": [
+          "Anwurf",
+          "Spielbeginn"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q39",
+        "text": "Wann wird auf Einwurf entschieden?",
+        "options": [
+          "Wenn der Ball die Seitenlinie vollständig überquert",
+          "Wenn der Ball die Torlinie überquert",
+          "Wenn der Torwart den Ball hält",
+          "Immer nach einem Tor"
+        ],
+        "correctIndex": 0,
+        "explanation": "Einwurf erfolgt, wenn der Ball die Seitenlinie überschreitet oder die Decke berührt.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 30",
+          "chapter": "Regel 11 – Der Einwurf"
+        },
+        "tags": [
+          "Einwurf",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q40",
+        "text": "Wer führt den Abwurf aus?",
+        "options": [
+          "Ein Feldspieler",
+          "Der Torwart",
+          "Der Schiedsrichter",
+          "Beliebiger Spieler"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nur der Torwart darf den Abwurf ausführen.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 30-31",
+          "chapter": "Regel 12 – Der Abwurf"
+        },
+        "tags": [
+          "Torwart",
+          "Abwurf"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q41",
+        "text": "Wo wird der Freiwurf in der Regel ausgeführt?",
+        "options": [
+          "Immer an der Mittellinie",
+          "An der Stelle des Vergehens",
+          "Immer an der 9-m-Linie",
+          "Im eigenen Torraum"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Freiwurf wird an der Stelle ausgeführt, an der das Vergehen stattfand.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 32",
+          "chapter": "Regel 13 – Der Freiwurf"
+        },
+        "tags": [
+          "Freiwurf",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q42",
+        "text": "Wann wird auf 7-m-Wurf entschieden?",
+        "options": [
+          "Immer bei Torraum-Betreten",
+          "Nur wenn eine klare Torgelegenheit vereitelt wird",
+          "Wenn ein Spieler foult",
+          "Immer bei Abwurf"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der 7-m-Wurf wird gegeben, wenn eine klare Torgelegenheit regelwidrig vereitelt wird.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 34",
+          "chapter": "Regel 14 – Der 7-m-Wurf"
+        },
+        "tags": [
+          "Wurf",
+          "Strafe"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q43",
+        "text": "Wie lange hat der Werfer Zeit, den 7-m-Wurf nach Pfiff auszuführen?",
+        "options": [
+          "2 Sekunden",
+          "3 Sekunden",
+          "5 Sekunden",
+          "unbegrenzt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach Pfiff muss der 7-m-Wurf innerhalb von 3 Sekunden ausgeführt werden.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 35",
+          "chapter": "Regel 14 – Der 7-m-Wurf"
+        },
+        "tags": [
+          "7m",
+          "Frist"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Welche maximale Anzahl an Pässen ist nach Anzeige des Vorwarnzeichens für passives Spiel erlaubt?",
+        "options": [
+          "3 Pässe",
+          "4 Pässe",
+          "5 Pässe",
+          "6 Pässe"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach Anzeige des Vorwarnzeichens darf die Mannschaft maximal 4 Pässe machen.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 20",
+          "chapter": "Regel 7 – Passives Spiel"
+        },
+        "tags": [
+          "Passives Spiel",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Was passiert, wenn ein Spieler absichtlich den Ball mit dem Fuß spielt?",
+        "options": [
+          "Nichts, das Spiel läuft weiter",
+          "Es gibt Freiwurf für den Gegner",
+          "Es gibt Abwurf",
+          "Es gibt 7-m-Wurf"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das absichtliche Spielen mit dem Fuß wird mit Freiwurf für den Gegner geahndet.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 19",
+          "chapter": "Regel 7 – Spielen des Balles"
+        },
+        "tags": [
+          "Ball",
+          "Verbot"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q46",
+        "text": "Was gilt als besonders gefährliches Foul und führt direkt zur Disqualifikation?",
+        "options": [
+          "Leichtes Festhalten",
+          "Stoßen im Lauf",
+          "Vergehen gegen Kopf/Hals/Nacken",
+          "Ballwegschlagen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Vergehen gegen Kopf, Hals oder Nacken gelten als besonders gefährlich und führen zur Disqualifikation.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 22-23",
+          "chapter": "Regel 8 – Regelwidrigkeiten"
+        },
+        "tags": [
+          "Foul",
+          "Strafen"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q47",
+        "text": "Was passiert, wenn ein Spieler in den letzten 30 Sekunden einen Freiwurf absichtlich verzögert?",
+        "options": [
+          "Verwarnung",
+          "Freiwurf wiederholen",
+          "Disqualifikation und 7-m-Wurf für den Gegner",
+          "Nur Hinweis vom Schiedsrichter"
+        ],
+        "correctIndex": 2,
+        "explanation": "In den letzten 30 Sekunden führt eine absichtliche Verzögerung zu Disqualifikation und 7-m-Wurf für den Gegner.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 26",
+          "chapter": "Regel 8 – Unsportlichkeit"
+        },
+        "tags": [
+          "Strafen",
+          "Frist"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q48",
+        "text": "Was passiert, wenn der Ball die Decke berührt?",
+        "options": [
+          "Schiedsrichterball",
+          "Einwurf",
+          "Abwurf",
+          "Freiwurf"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wenn der Ball die Decke berührt, wird auf Einwurf für die gegnerische Mannschaft entschieden.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 30",
+          "chapter": "Regel 11 – Der Einwurf"
+        },
+        "tags": [
+          "Ball",
+          "Einwurf"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q49",
+        "text": "Wie viele Sekunden hat der Werfer nach Anpfiff Zeit, einen Anwurf auszuführen?",
+        "options": [
+          "2 Sekunden",
+          "3 Sekunden",
+          "4 Sekunden",
+          "5 Sekunden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Anwurf muss innerhalb von 3 Sekunden nach Anpfiff ausgeführt werden.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 28",
+          "chapter": "Regel 10 – Der Anwurf"
+        },
+        "tags": [
+          "Anwurf",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q50",
+        "text": "Wo müssen sich die Gegenspieler beim Anwurf von der Mittellinie aufhalten?",
+        "options": [
+          "Mindestens 3 m entfernt",
+          "An der 9-m-Linie",
+          "An der eigenen Torraumlinie",
+          "Innerhalb der Anwurfzone"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beim Anwurf von der Mittellinie müssen die Gegenspieler mindestens 3 m Abstand halten.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 29",
+          "chapter": "Regel 10 – Der Anwurf"
+        },
+        "tags": [
+          "Anwurf",
+          "Abstand"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q51",
+        "text": "Wann wird ein Freiwurf an der Stelle des Balls und nicht am Ort des Vergehens ausgeführt?",
+        "options": [
+          "Immer",
+          "Bei passivem Spiel",
+          "Bei Schiedsrichterunterbrechung",
+          "Bei Abwurf"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei passivem Spiel wird der Freiwurf an der Stelle des Balls ausgeführt.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 32-33",
+          "chapter": "Regel 13 – Der Freiwurf"
+        },
+        "tags": [
+          "Freiwurf",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q52",
+        "text": "Wann ist ein Tor nicht gültig, obwohl der Ball die Torlinie überquert hat?",
+        "options": [
+          "Wenn die abwehrende Mannschaft ein Foul begeht",
+          "Wenn der Werfer beim Wurf im Torraum stand",
+          "Wenn der Schiedsrichter es anerkennt",
+          "Wenn der Ball den Pfosten berührt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Tor zählt nicht, wenn der Werfer oder Mitspieler beim Torerfolg regelwidrig handelt.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 27",
+          "chapter": "Regel 9 – Der Torgewinn"
+        },
+        "tags": [
+          "Tor",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Welche Strafe folgt, wenn ein Torwart beim 7-m-Wurf die 4-m-Linie vorzeitig überschreitet?",
+        "options": [
+          "Disqualifikation",
+          "Verwarnung",
+          "Wiederholung des Wurfs",
+          "Tor zählt automatisch"
+        ],
+        "correctIndex": 2,
+        "explanation": "Überschreitet der Torwart die 4-m-Linie vorzeitig, wird der 7-m-Wurf wiederholt.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 35",
+          "chapter": "Regel 14 – Der 7-m-Wurf"
+        },
+        "tags": [
+          "Torwart",
+          "7m"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q54",
+        "text": "Wie wird auf passives Spiel entschieden, nachdem die maximalen Pässe überschritten wurden?",
+        "options": [
+          "Freiwurf für die verteidigende Mannschaft",
+          "Schiedsrichterball",
+          "7-m-Wurf",
+          "Abwurf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach dem fünften Pass (Verstoß) wird passives Spiel abgepfiffen und es gibt Freiwurf für die Abwehr.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 20",
+          "chapter": "Regel 7 – Passives Spiel"
+        },
+        "tags": [
+          "Passives Spiel",
+          "Freiwurf"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q55",
+        "text": "Wann ist ein Einwurf korrekt ausgeführt?",
+        "options": [
+          "Wenn der Werfer mit einem Fuß an der Seitenlinie steht",
+          "Wenn beide Füße im Spielfeld sind",
+          "Wenn der Werfer springt",
+          "Wenn die Gegner 1 m Abstand halten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Werfer muss mit einem Fuß auf der Linie stehen und den Ball von außerhalb ins Spielfeld werfen.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 30",
+          "chapter": "Regel 11 – Der Einwurf"
+        },
+        "tags": [
+          "Einwurf",
+          "Ausführung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q56",
+        "text": "Welche Mindestdistanz müssen Gegenspieler bei Freiwürfen außerhalb der 9-m-Linie einhalten?",
+        "options": [
+          "2 m",
+          "3 m",
+          "4 m",
+          "5 m"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gegenspieler müssen mindestens 3 m Abstand zum Werfer halten, sofern sie außerhalb der 9-m-Linie stehen.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 32-33",
+          "chapter": "Regel 13 – Der Freiwurf"
+        },
+        "tags": [
+          "Freiwurf",
+          "Abstand"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q57",
+        "text": "Welche Position muss der Werfer beim 7‑m‑Wurf einnehmen?",
+        "options": [
+          "Mindestens ein Fuß auf der 7‑m‑Linie",
+          "Mit beiden Füßen vor der 7‑m‑Linie",
+          "Mit keinem Fuß die 7‑m‑Linie berühren",
+          "Mit beiden Füßen auf der 7‑m‑Linie"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Werfer darf die 7‑m‑Linie nicht berühren oder überschreiten, bevor der Ball die Hand verlassen hat.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 34-35",
+          "chapter": "Regel 14 – Der 7‑m‑Wurf"
+        },
+        "tags": [
+          "7m",
+          "Ausführung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q58",
+        "text": "Wann ist ein Abwurf korrekt?",
+        "options": [
+          "Wenn der Ball die Torraumlinie vollständig überschritten hat",
+          "Wenn der Torwart den Ball von innerhalb des Torraums ins Spiel wirft",
+          "Wenn der Ball vor Ausführung ruht",
+          "Wenn alle Gegenspieler im Torraum sind"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Abwurf wird vom Torwart aus dem Torraum ausgeführt und ist korrekt, wenn der Ball das Spielfeld verlässt.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 30-31",
+          "chapter": "Regel 12 – Der Abwurf"
+        },
+        "tags": [
+          "Abwurf",
+          "Ausführung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q59",
+        "text": "Darf der Werfer beim Freiwurf den Ball tossen und im Sprung fangen, bevor er wirft?",
+        "options": [
+          "Ja, wenn er innerhalb 3 s abwirft",
+          "Nein, der Ball muss ohne Eigenpass gespielt werden",
+          "Nur, wenn die Abwehr 3 m Abstand hält",
+          "Nur innerhalb der Anwurfzone"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei Freiwürfen ist ein Eigenpass vor dem Abspiel nicht zulässig; der Ball muss direkt gespielt werden.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 36-37",
+          "chapter": "Regel 15 – Würfe"
+        },
+        "tags": [
+          "Wurf",
+          "Ausführung"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q60",
+        "text": "Wann wird ein Wurf wiederholt?",
+        "options": [
+          "Bei Pfiff beider Schiedsrichter",
+          "Bei Regelverstoß der ausführenden Mannschaft",
+          "Bei Regelverstoß der gegnerischen Mannschaft",
+          "Bei objektiver Störung (z. B. zweite Pfeife)"
+        ],
+        "correctIndex": 3,
+        "explanation": "Bei objektiven Störungen wird der Wurf wiederholt; bei Vergehen der Werferseite gibt es in der Regel Ballverlust/Freiwurf.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 37",
+          "chapter": "Regel 15 – Würfe"
+        },
+        "tags": [
+          "Wurf",
+          "Wiederholung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q61",
+        "text": "Welche maximale Anzahl an Verwarnungen ist pro Teamoffiziellen zulässig?",
+        "options": [
+          "Eine",
+          "Zwei",
+          "Drei",
+          "Unbegrenzt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jeder Teamoffizielle kann nur einmal verwarnt werden; danach folgen progressive Strafen.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 38",
+          "chapter": "Regel 16 – Strafen"
+        },
+        "tags": [
+          "Strafen",
+          "Verwarnung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q62",
+        "text": "Welche Konsequenz hat eine Disqualifikation ohne Bericht für die Mannschaftsstärke?",
+        "options": [
+          "Dauerhafte Unterzahl",
+          "2 Minuten Unterzahl, danach Auffüllen",
+          "Sofortige Auffüllung",
+          "Zusätzliche Verwarnung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach Disqualifikation spielt die Mannschaft 2 Minuten in Unterzahl; danach darf aufgefüllt werden.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 40-41",
+          "chapter": "Regel 16 – Disqualifikation"
+        },
+        "tags": [
+          "Strafen",
+          "Unterzahl"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q63",
+        "text": "Was bedeutet die Blaue Karte?",
+        "options": [
+          "Zeitstrafe",
+          "Disqualifikation mit Bericht",
+          "Verwarnung",
+          "Wiederholung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Blaue Karte signalisiert eine Disqualifikation mit schriftlichem Bericht.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 41",
+          "chapter": "Regel 16 – Blaue Karte"
+        },
+        "tags": [
+          "Strafen",
+          "Bericht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q64",
+        "text": "Wann wird ein Team-Time-out zwingend gewährt?",
+        "options": [
+          "Wenn der Trainer ruft",
+          "Bei grüner Karte am Sekretärstisch",
+          "Nach jedem Tor",
+          "Bei Ball im Aus"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Team-Time-out wird gewährt, wenn die Mannschaft die grüne Karte ordnungsgemäß legt und der Ballbesitz gegeben ist.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 56-57",
+          "chapter": "Erläuterungen – Team-Time-out"
+        },
+        "tags": [
+          "Time-out",
+          "Ablauf"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q65",
+        "text": "Wer darf das Vorwarnzeichen für passives Spiel anzeigen?",
+        "options": [
+          "Nur der Feldschiedsrichter",
+          "Nur der Torschiedsrichter",
+          "Beide Schiedsrichter",
+          "Nur der Zeitnehmer"
+        ],
+        "correctIndex": 2,
+        "explanation": "Beide Schiedsrichter können das Vorwarnzeichen anzeigen.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 20",
+          "chapter": "Regel 7 – Passives Spiel"
+        },
+        "tags": [
+          "Schiedsrichter",
+          "Passiv"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q66",
+        "text": "Wie lange darf ein Werfer den Ball nach Anpfiff maximal halten, bevor er ihn spielen muss?",
+        "options": [
+          "2 Sekunden",
+          "3 Sekunden",
+          "4 Sekunden",
+          "5 Sekunden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach Anpfiff muss der Ball innerhalb von 3 Sekunden gespielt werden.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 37",
+          "chapter": "Regel 15 – Würfe"
+        },
+        "tags": [
+          "Wurf",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q67",
+        "text": "Was muss der Werfer bei der Ausführung eines Wurfes mindestens mit einem Fuß tun?",
+        "options": [
+          "Einen Fuß in der Luft halten",
+          "Den Boden berühren",
+          "Über die Linie springen",
+          "Hinter der Mittellinie bleiben"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei allen Würfen außer Abwurf muss der Werfer mit einem Fuß Bodenkontakt halten.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 36",
+          "chapter": "Regel 15 – Würfe"
+        },
+        "tags": [
+          "Wurf",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q68",
+        "text": "Wie viele Verwarnungen darf eine Mannschaft insgesamt maximal erhalten?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "unbegrenzt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Mannschaft darf insgesamt höchstens 3 Verwarnungen erhalten.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 38",
+          "chapter": "Regel 16 – Strafen"
+        },
+        "tags": [
+          "Strafen",
+          "Verwarnung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q69",
+        "text": "Welche Karte zeigt der Schiedsrichter bei einer Disqualifikation?",
+        "options": [
+          "Gelb",
+          "Rot",
+          "Blau",
+          "Schwarz"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Disqualifikation wird mit der Roten Karte angezeigt.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 40",
+          "chapter": "Regel 16 – Strafen"
+        },
+        "tags": [
+          "Strafen",
+          "Disqualifikation"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q70",
+        "text": "Wie lange dauert eine Hinausstellung?",
+        "options": [
+          "1 Minute",
+          "2 Minuten",
+          "3 Minuten",
+          "4 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Hinausstellung dauert 2 Minuten.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 39",
+          "chapter": "Regel 16 – Strafen"
+        },
+        "tags": [
+          "Strafen",
+          "Zeitstrafe"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q71",
+        "text": "Welche Strafe folgt zwingend nach der dritten Hinausstellung eines Spielers?",
+        "options": [
+          "Nichts",
+          "Verwarnung",
+          "Disqualifikation",
+          "Schriftlicher Bericht"
+        ],
+        "correctIndex": 2,
+        "explanation": "Nach der dritten Hinausstellung wird der Spieler disqualifiziert.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 39",
+          "chapter": "Regel 16 – Strafen"
+        },
+        "tags": [
+          "Strafen",
+          "Disqualifikation"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q72",
+        "text": "Wie viele Schiedsrichter leiten ein Handballspiel?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Spiel wird von zwei gleichberechtigten Schiedsrichtern geleitet.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 42",
+          "chapter": "Regel 17 – Schiedsrichter"
+        },
+        "tags": [
+          "Schiedsrichter",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q73",
+        "text": "Wer hat Vorrang, wenn sich die beiden Schiedsrichter nicht einigen können, wer Ballbesitz erhält?",
+        "options": [
+          "Der Feldschiedsrichter",
+          "Der Torschiedsrichter",
+          "Der Zeitnehmer",
+          "Der Sekretär"
+        ],
+        "correctIndex": 0,
+        "explanation": "Wenn keine Einigung erzielt wird, gilt die Entscheidung des Feldschiedsrichters.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 43",
+          "chapter": "Regel 17 – Schiedsrichter"
+        },
+        "tags": [
+          "Schiedsrichter",
+          "Ballbesitz"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q74",
+        "text": "Wer ist hauptsächlich für die Spielzeit verantwortlich?",
+        "options": [
+          "Sekretär",
+          "Zeitnehmer",
+          "Schiedsrichter",
+          "Delegierter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Zeitnehmer hat die Hauptverantwortung für die Spielzeit.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 44",
+          "chapter": "Regel 18 – Zeitnehmer"
+        },
+        "tags": [
+          "Zeitnehmer",
+          "Aufgabe"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q75",
+        "text": "Welche Aufgabe hat der Sekretär hauptsächlich?",
+        "options": [
+          "Kontrolle der Zeit",
+          "Führen des Spielprotokolls",
+          "Strafen verhängen",
+          "Bälle bereitstellen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Sekretär ist für Spielerlisten und das Spielprotokoll verantwortlich.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 44",
+          "chapter": "Regel 18 – Sekretär"
+        },
+        "tags": [
+          "Sekretär",
+          "Aufgabe"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q76",
+        "text": "Wie viele Mannschaftsoffizielle dürfen sich maximal im Auswechselraum aufhalten?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "correctIndex": 2,
+        "explanation": "Maximal 5 Offizielle dürfen im Auswechselraum eingetragen sein.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 73",
+          "chapter": "Auswechselraum-Reglement"
+        },
+        "tags": [
+          "Auswechselraum",
+          "Offizielle"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q77",
+        "text": "Wo beginnt die Coachingzone?",
+        "options": [
+          "An der Torraumlinie",
+          "3,5 m von der Mittellinie entfernt",
+          "Direkt neben der Bank",
+          "An der 9-m-Linie"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Coachingzone beginnt 3,5 m von der Mittellinie entfernt und endet 8 m vor der Torauslinie.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 74",
+          "chapter": "Auswechselraum-Reglement"
+        },
+        "tags": [
+          "Coachingzone",
+          "Spielfläche"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q78",
+        "text": "Wie lange muss ein verletzter Spieler nach Behandlung die Spielfläche verlassen?",
+        "options": [
+          "1 Angriff",
+          "2 Angriffe",
+          "3 Angriffe",
+          "5 Angriffe"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein verletzter Spieler darf erst nach dem dritten Angriff seiner Mannschaft zurückkehren.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 72",
+          "chapter": "Regel 4 – Verletzung / Erläuterungen"
+        },
+        "tags": [
+          "Verletzung",
+          "Spielerwechsel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q79",
+        "text": "Wie viele Team-Time-outs darf eine Mannschaft pro Spiel maximal nehmen?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "beliebig viele"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pro Spiel sind maximal 3 Team-Time-outs erlaubt, pro Halbzeit jedoch nur 2.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 56",
+          "chapter": "Regel 2 – Time-out / Erläuterungen"
+        },
+        "tags": [
+          "Time-out",
+          "Frist"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q80",
+        "text": "Wer entscheidet im Zweifel über Spielerberechtigung und Wechselzone?",
+        "options": [
+          "Schiedsrichter",
+          "Zeitnehmer",
+          "Sekretär",
+          "Delegierter"
+        ],
+        "correctIndex": 3,
+        "explanation": "Der IHF-/Verbandsdelegierte hat Aufsicht über Auswechselraum und Spielerberechtigungen.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 73-74",
+          "chapter": "Auswechselraum-Reglement"
+        },
+        "tags": [
+          "Delegierter",
+          "Auswechselraum"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q81",
+        "text": "Wo dürfen sich auszuwechselnde Spieler bewegen?",
+        "options": [
+          "Überall entlang der Seitenlinie",
+          "Nur in der eigenen Auswechselzone",
+          "In der Coachingzone",
+          "Hinter der Torlinie"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wechsel sind ausschließlich in der eigenen Auswechselzone zulässig.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 73",
+          "chapter": "Auswechselraum-Reglement"
+        },
+        "tags": [
+          "Wechsel",
+          "Zone"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q82",
+        "text": "Welche Sanktion folgt, wenn ein Verteidiger in den letzten 30 Sekunden den Anwurf verhindert?",
+        "options": [
+          "Verwarnung",
+          "Freiwurf",
+          "Disqualifikation und 7‑m‑Wurf",
+          "Nur Hinweis"
+        ],
+        "correctIndex": 2,
+        "explanation": "Das Verhindern der Spielfortsetzung in den letzten 30 Sekunden wird mit Disqualifikation und 7‑m‑Wurf geahndet.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 26",
+          "chapter": "Regel 8 – Unsportlichkeit (letzte 30 s)"
+        },
+        "tags": [
+          "Letzte 30 Sekunden",
+          "Strafe"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q83",
+        "text": "Zusatzfrage 1: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q84",
+        "text": "Zusatzfrage 2: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q85",
+        "text": "Zusatzfrage 3: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q86",
+        "text": "Zusatzfrage 4: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q87",
+        "text": "Zusatzfrage 5: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q88",
+        "text": "Zusatzfrage 6: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q89",
+        "text": "Zusatzfrage 7: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q90",
+        "text": "Zusatzfrage 8: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q91",
+        "text": "Zusatzfrage 9: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q92",
+        "text": "Zusatzfrage 10: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q93",
+        "text": "Zusatzfrage 11: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q94",
+        "text": "Zusatzfrage 12: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q95",
+        "text": "Zusatzfrage 13: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q96",
+        "text": "Zusatzfrage 14: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q97",
+        "text": "Zusatzfrage 15: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q98",
+        "text": "Zusatzfrage 16: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q99",
+        "text": "Zusatzfrage 17: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q100",
+        "text": "Zusatzfrage 18: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
+        "options": [
+          "Das Zeichen für passives Spiel ist der erhobene Arm",
+          "Tor wird mit überkreuzten Armen angezeigt",
+          "Zeitstrafe mit gelber Karte angezeigt",
+          "Anwurfzeichen ist zwei Arme über dem Kopf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
+        "source": {
+          "citation": "IHF Handballregeln 2025",
+          "pages": "S. 46-53",
+          "chapter": "IHF‑Handzeichen"
+        },
+        "tags": [
+          "Handzeichen",
+          "Schiedsrichter"
+        ],
+        "difficulty": "leicht"
+      }
+    ]
+  }
+}

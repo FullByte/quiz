@@ -1,0 +1,2226 @@
+{
+  "quiz": {
+    "title": "Downhill Regeln 2025",
+    "description": "Dieses Quiz umfasst Fragen zu den wichtigsten Regeln, Verfahren und Anforderungen des Regelwerks Downhill Deutschland 2025.",
+    "language": "de",
+    "version": "1.0.0",
+    "metadata": {
+      "createdAt": "2025-09-25T17:32:26.483469Z",
+      "notes": ""
+    },
+    "sourceDocument": {
+      "title": "Regelwerk Downhill Deutschland",
+      "version": "2025",
+      "year": 2025,
+      "pdfFilename": "Regelwerk_Downhill-Deutschland-2025.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Ab welchem Mindestalter darf man grundsätzlich an Rennen von Downhill Deutschland teilnehmen?",
+        "options": [
+          "12 Jahre",
+          "14 Jahre",
+          "16 Jahre",
+          "18 Jahre"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Mindestalter beträgt 14 Jahre, Ausnahmen können nur in Absprache mit Rennleitung, Eventorganisation und Erziehungsberechtigten vereinbart werden. Jüngere dürfen nicht teilnehmen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 2",
+          "chapter": "2. Teilnahmebedingungen"
+        },
+        "tags": [
+          "Teilnahme",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche maximale Länge ist für ein Downhill-Skateboard zugelassen?",
+        "options": [
+          "110 cm",
+          "122 cm",
+          "135 cm",
+          "150 cm"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Skateboard darf maximal 122 cm lang sein. Andere Angaben wie 135 cm oder 150 cm überschreiten die zulässigen Maße.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "4. Ausrüstung und Sportgeräte"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Welche Aussage zur Schutzausrüstung ist korrekt?",
+        "options": [
+          "Ein Fahrradhelm ist ausreichend.",
+          "Ein Rückenprotektor ist nur empfohlen, aber nicht vorgeschrieben.",
+          "Ein funktionsfähiger Vollvisierhelm ist Pflicht.",
+          "Handschuhe sind optional."
+        ],
+        "correctIndex": 2,
+        "explanation": "Es muss ein funktionsfähiger Vollvisierhelm getragen werden. Handschuhe sind ebenfalls Pflicht, nicht optional. Rückenprotektoren sind bei bestimmten Rennen vorgeschrieben, nicht nur empfohlen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5-6",
+          "chapter": "4.2 Schutzausrüstung"
+        },
+        "tags": [
+          "Sicherheit",
+          "Pflicht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Wer ist während eines Rennens die offizielle Vertretung von Downhill Deutschland und Ansprechpartner*in für Proteste?",
+        "options": [
+          "Streckenchef*in",
+          "Rennleitung",
+          "Renndirektion",
+          "Starter*in"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Renndirektion ist die offizielle Vertretung von Downhill Deutschland während eines Rennens und fungiert als Schiedsgericht. Streckenchef*in und Starter*in haben andere Aufgaben.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 4",
+          "chapter": "3.7 Rennleitung"
+        },
+        "tags": [
+          "Verantwortung",
+          "Organisation"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was passiert, wenn eine Person beim Start vor dem Signal 'Go!' losfährt?",
+        "options": [
+          "Sie erhält sofort eine Disqualifikation.",
+          "Der Start wird abgebrochen und die Person erhält eine Verwarnung.",
+          "Der Start wird fortgesetzt, aber die Person verliert Punkte.",
+          "Es passiert nichts, solange niemand behindert wird."
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Frühstart nach dem 'Riders set'-Signal gilt als Fehlstart. Der Start wird abgebrochen, die Person verwarnt. Erst ein zweiter Fehlstart führt zur Disqualifikation.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 9-10",
+          "chapter": "5.5 Startverfahren, Startsignal, Fehlstartregelung"
+        },
+        "tags": [
+          "Start",
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q6",
+        "text": "Welche Bedingung muss erfüllt sein, damit eine Person im Rennen als führend gilt?",
+        "options": [
+          "Mindestens die Hälfte des Sportgeräts liegt vor einer anderen Person.",
+          "Mindestens 75% der Länge des Sportgeräts liegt vor einer anderen Person.",
+          "Die vorderste Rolle berührt zuerst die Ideallinie.",
+          "Die Person hat den letzten Heat gewonnen."
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Person gilt als führend, wenn mindestens 75% der Länge ihres Sportgeräts vor einer anderen Person liegt. Dies ist unabhängig von vorherigen Heats.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 11",
+          "chapter": "6.3 Situationen im Rennen"
+        },
+        "tags": [
+          "Definition",
+          "Rennregeln"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist nach einem Sturz beim Neustart zwingend vorgeschrieben?",
+        "options": [
+          "Man darf fremde Sportgeräte nutzen.",
+          "Der Neustart muss eigenständig erfolgen und den Startprinzipien entsprechen.",
+          "Die Rennleitung muss das Okay geben.",
+          "Man darf mit Hilfe von Zuschauern starten."
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach einem Sturz muss die Weiterfahrt selbstständig erfolgen und sich am regulären Startverfahren orientieren. Fremde Hilfe oder fremde Sportgeräte sind verboten.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 12",
+          "chapter": "6.4 Verhalten nach einem Sturz"
+        },
+        "tags": [
+          "Regel",
+          "Verhalten"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Was bedeutet die rote Flagge auf der Strecke?",
+        "options": [
+          "Vorsicht, riskante Manöver sind zu vermeiden.",
+          "Das Rennen ist sofort abzubrechen und alle müssen anhalten.",
+          "Überholen ist ab sofort erlaubt.",
+          "Die Strecke ist frei und es darf normal gefahren werden."
+        ],
+        "correctIndex": 1,
+        "explanation": "Die rote Flagge signalisiert akute Gefahr. Alle Fahrer*innen müssen sofort anhalten und sich in Sichtweite eines Streckenpostens an den Rand begeben.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 11",
+          "chapter": "5.9 Flaggen"
+        },
+        "tags": [
+          "Sicherheit",
+          "Signal"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q9",
+        "text": "Wie viele Punkte erhält der oder die Erstplatzierte in einem Hauptrennen?",
+        "options": [
+          "961 Punkte",
+          "1000 Punkte",
+          "943 Punkte",
+          "650 Punkte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der erste Platz in einem Hauptrennen wird mit 1000 Punkten bewertet. 961 Punkte gibt es für den zweiten Platz, 650 Punkte für den Sieg in einem Nebenrennen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 13",
+          "chapter": "7. Punkteverteilung"
+        },
+        "tags": [
+          "Punkte",
+          "Wertung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Strafe droht bei absichtlichem Körperkontakt im Rennen?",
+        "options": [
+          "Eine Verwarnung ohne weitere Folgen.",
+          "Punkteabzug, aber keine Disqualifikation.",
+          "Eine Strafe, da absichtlicher Kontakt verboten ist.",
+          "Keine Strafe, solange niemand stürzt."
+        ],
+        "correctIndex": 2,
+        "explanation": "Absichtlicher Körperkontakt ist verboten und wird bestraft. Nur versehentlicher Kontakt darf keinen Vorteil erzeugen, sonst droht ebenfalls eine Strafe.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 11",
+          "chapter": "6.2 Kontakt"
+        },
+        "tags": [
+          "Regel",
+          "Strafe"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q11",
+        "text": "Welche Position ist auf einem Skateboard während des Rennens verboten?",
+        "options": [
+          "Stehen mit beiden Füßen auf dem Brett",
+          "Sitzen auf dem Brett",
+          "Ein Fuß auf dem Brett, ein Fuß zum Pushen",
+          "Knieend mit beiden Beinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sitzen, Liegen oder Knien auf dem Skateboard ist verboten. Zulässig ist, dass sich mindestens ein Teil der Fußsohle auf dem Brett befindet.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 11",
+          "chapter": "6.1 Fahrposition"
+        },
+        "tags": [
+          "Regel",
+          "Position"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q12",
+        "text": "Wann verliert eine führende Person ihr Linienrecht im Rennen?",
+        "options": [
+          "Sobald die überholende Person mit mindestens 75% ihres Sportgeräts neben ihr ist.",
+          "Wenn sie ihre Geschwindigkeit verringert.",
+          "Wenn sie einen vorherigen Heat verloren hat.",
+          "Sobald eine rote Flagge gezeigt wird."
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Linienrecht geht verloren, sobald sich eine überholende Person mit mindestens 75% ihres Sportgeräts neben der führenden befindet.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 12",
+          "chapter": "6.3 Situationen im Rennen – Überholen"
+        },
+        "tags": [
+          "Linienrecht",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist beim Blockieren im Rennen untersagt?",
+        "options": [
+          "Abweichen von der Ideallinie, um ein Überholen zu verhindern.",
+          "Fahren auf der Ideallinie.",
+          "Überholen in einer Kurve.",
+          "Verteidigen der Führungsposition durch höhere Geschwindigkeit."
+        ],
+        "correctIndex": 0,
+        "explanation": "Blockieren liegt vor, wenn die führende Person abrupt von der Ideallinie abweicht, um Überholmanöver zu verhindern. Dies ist untersagt.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 12",
+          "chapter": "6.3 Situationen im Rennen – Blockieren"
+        },
+        "tags": [
+          "Regel",
+          "Strafe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Wie lang ist der geschützte Bereich vor der Ziellinie?",
+        "options": [
+          "100 m",
+          "150 m",
+          "200 m",
+          "250 m"
+        ],
+        "correctIndex": 3,
+        "explanation": "Der geschützte Bereich umfasst die letzten 250 m einer Strecke vor der Ziellinie.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 12",
+          "chapter": "6.5 Geschützter Bereich"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q15",
+        "text": "Was geschieht mit der Platzierung, wenn eine Person im geschützten Bereich einen Regelverstoß begeht?",
+        "options": [
+          "Die Platzierung bleibt bestehen, nur eine Verwarnung wird ausgesprochen.",
+          "Die verursachende Person verliert ihre Platzierung und alle anderen rücken auf.",
+          "Die Platzierung wird halbiert.",
+          "Die Person erhält einen Punktabzug, behält aber die Position."
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei einem Regelverstoß im geschützten Bereich verliert die verursachende Person ihre Platzierung. Alle anderen rücken eine Position auf.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 12",
+          "chapter": "6.5 Geschützter Bereich"
+        },
+        "tags": [
+          "Strafe",
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q16",
+        "text": "Welche Punktezahl erhält Platz 2 in einem Hauptrennen?",
+        "options": [
+          "961 Punkte",
+          "943 Punkte",
+          "926 Punkte",
+          "650 Punkte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Platz 2 in einem Hauptrennen wird mit 961 Punkten bewertet. 943 Punkte gibt es für Platz 3.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 13",
+          "chapter": "7. Punkteverteilung"
+        },
+        "tags": [
+          "Punkte",
+          "Wertung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q17",
+        "text": "Welche Punktezahl erhält Platz 1 in einem Nebenrennen?",
+        "options": [
+          "1000 Punkte",
+          "961 Punkte",
+          "650 Punkte",
+          "602 Punkte"
+        ],
+        "correctIndex": 2,
+        "explanation": "Platz 1 in einem Nebenrennen wird mit 650 Punkten bewertet. 1000 Punkte gelten nur für Platz 1 im Hauptrennen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 13",
+          "chapter": "7. Punkteverteilung"
+        },
+        "tags": [
+          "Punkte",
+          "Wertung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Welche Position wird für ein 'Did Not Finish' (DNF) im Heat gewertet?",
+        "options": [
+          "Platz 4",
+          "Platz 5",
+          "Platz 6",
+          "Platz 7"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein DNF wird als Platz 5 im Heat gewertet. DQ (Disqualified) gilt als Platz 6, DNS (Did Not Start) als Platz 7.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 10",
+          "chapter": "5.6 Ziel: Ziellinienübertritt, DQ, DNS, DNF"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Welche Pflicht haben alle Teilnehmenden in Bezug auf das Regelwerk?",
+        "options": [
+          "Nur die wichtigsten Regeln kennen.",
+          "Das Regelwerk gelesen und verstanden haben.",
+          "Nur den Haftungsausschluss unterschreiben.",
+          "Die Regeln nur während des Rennens beachten."
+        ],
+        "correctIndex": 1,
+        "explanation": "Alle Teilnehmenden müssen das gesamte Regelwerk gelesen und verstanden haben und sich entsprechend verhalten.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 3",
+          "chapter": "3.4 Pflichten der Teilnehmenden"
+        },
+        "tags": [
+          "Pflicht",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Welche Körperposition ist auf der Streetluge vorgeschrieben?",
+        "options": [
+          "Im Stehen",
+          "Im Liegen oder Sitzen mit den Füßen nach vorne",
+          "Auf dem Bauch liegend",
+          "Knieend nach vorne"
+        ],
+        "correctIndex": 1,
+        "explanation": "Streetluger*innen müssen in liegender oder sitzender Position mit den Füßen nach vorne fahren. Stehen, Knien oder Bauchlage sind verboten.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 11",
+          "chapter": "6.1 Fahrposition"
+        },
+        "tags": [
+          "Position",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q21",
+        "text": "Welche Konsequenz hat ein zweiter Fehlstart derselben Person?",
+        "options": [
+          "Eine Verwarnung",
+          "Eine Zeitstrafe",
+          "Die Disqualifikation vom Rennen",
+          "Eine Punktehalbierung"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein erster Fehlstart führt zu einer Verwarnung. Ein zweiter Fehlstart derselben Person bedeutet die Disqualifikation vom Rennen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 10",
+          "chapter": "5.5 Startverfahren, Startsignal, Fehlstartregelung"
+        },
+        "tags": [
+          "Start",
+          "Strafe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q22",
+        "text": "Welche Funktion hat der oder die Streckenchef*in?",
+        "options": [
+          "Gibt das Startsignal am Startbereich.",
+          "Koordiniert die Sicherheit der Strecke und entscheidet über Streckensperrungen.",
+          "Führt technische Inspektionen der Ausrüstung durch.",
+          "Vergibt die Punkteverteilung am Ende des Rennens."
+        ],
+        "correctIndex": 1,
+        "explanation": "Der oder die Streckenchef*in ist für die Sicherheit der Strecke verantwortlich und entscheidet über die Freigabe oder Sperrung (rot/grün).",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 4",
+          "chapter": "3.8 Posten und Funktionen"
+        },
+        "tags": [
+          "Verantwortung",
+          "Organisation"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Welche Aufgabe haben die Streckenposten?",
+        "options": [
+          "Sie berechnen die Punkteverteilung.",
+          "Sie überwachen die Sicherheit auf ihrem Streckenabschnitt und setzen Flaggen ein.",
+          "Sie bestimmen die Startreihenfolge.",
+          "Sie organisieren die Siegerehrung."
+        ],
+        "correctIndex": 1,
+        "explanation": "Streckenposten stellen die Sicherheit auf ihrem Abschnitt sicher und setzen Flaggen zur Gefahrenanzeige ein. Sie haben keine administrative Funktion wie Punktevergabe.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 4",
+          "chapter": "3.8 Posten und Funktionen"
+        },
+        "tags": [
+          "Sicherheit",
+          "Organisation"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q24",
+        "text": "Was ist die Aufgabe der Athlet*innenkoordination?",
+        "options": [
+          "Sie entscheidet über Strafen während des Rennens.",
+          "Sie sorgt für Ordnung am Startbereich und gibt organisatorische Hilfestellungen.",
+          "Sie legt die Startbahnreihenfolge fest.",
+          "Sie ist Teil des Schiedsgerichts."
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Athlet*innenkoordination unterstützt organisatorisch, indem sie den Startbereich frei hält und den Ablauf erleichtert, ohne offizielle Entscheidungsbefugnisse.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 4",
+          "chapter": "3.8 Posten und Funktionen"
+        },
+        "tags": [
+          "Organisation",
+          "Rolle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q25",
+        "text": "Was ist beim Einsatz einer gelben Flagge zu beachten?",
+        "options": [
+          "Das Rennen wird sofort abgebrochen.",
+          "Es gilt erhöhte Vorsicht, riskante Manöver und Überholungen sind zu vermeiden.",
+          "Die Strecke ist komplett frei.",
+          "Alle Fahrer*innen müssen sofort anhalten."
+        ],
+        "correctIndex": 1,
+        "explanation": "Gelbe Flagge bedeutet erhöhte Vorsicht. Überholmanöver und riskante Aktionen sind untersagt. Rote Flagge hingegen signalisiert Rennabbruch und Anhalten.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 11",
+          "chapter": "5.9 Flaggen"
+        },
+        "tags": [
+          "Signal",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q26",
+        "text": "Welche Pflicht haben Teilnehmende in Bezug auf ihre Ausrüstung?",
+        "options": [
+          "Nur das Skateboard muss den Regeln entsprechen.",
+          "Die Ausrüstung muss jederzeit regelkonform sein und kann überprüft werden.",
+          "Es reicht, wenn die Ausrüstung zu Beginn des Rennens geprüft wird.",
+          "Schutzausrüstung ist optional."
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Ausrüstung muss jederzeit den Regeln entsprechen. Downhill Deutschland darf jederzeit Kontrollen durchführen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 3",
+          "chapter": "3.5 Technische Inspektion"
+        },
+        "tags": [
+          "Pflicht",
+          "Ausrüstung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Welche Schutzausrüstung ist bei Kopf-an-Kopf-Rennen vorgeschrieben?",
+        "options": [
+          "Nur ein Helm",
+          "Ein Rückenprotektor",
+          "Knieschoner",
+          "Ein Speedsuit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Rückenprotektor ist bei Kopf-an-Kopf- und Hochgeschwindigkeitsrennen vorgeschrieben. Speedsuits sind dagegen ausdrücklich verboten.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5-6",
+          "chapter": "4.2 Schutzausrüstung"
+        },
+        "tags": [
+          "Sicherheit",
+          "Pflicht"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q28",
+        "text": "Was ist bezüglich zusätzlichem Gewicht am Körper erlaubt?",
+        "options": [
+          "Bis zu 5 kg",
+          "Nur bei Masters erlaubt",
+          "Gar kein zusätzliches Gewicht",
+          "Nur beim Zeitfahren erlaubt"
+        ],
+        "correctIndex": 2,
+        "explanation": "Zusätzliches Gewicht in Form von Ballast am Körper ist ausdrücklich verboten.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 6",
+          "chapter": "4.2 Schutzausrüstung"
+        },
+        "tags": [
+          "Sicherheit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q29",
+        "text": "Welche Startposition ist für Skateboarder*innen vorgeschrieben?",
+        "options": [
+          "Beide Füße auf dem Brett",
+          "Ein Fuß auf dem Brett, anderer am Boden, alle Rollen am Boden",
+          "Nur ein Fuß in der Luft",
+          "Im Sitzen mit Brett zwischen den Beinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Beim Start muss ein Fuß auf dem Brett stehen, der andere am Boden, und alle Rollen das Startgelände berühren.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 9",
+          "chapter": "5.5 Startverfahren, Startsignal, Fehlstartregelung"
+        },
+        "tags": [
+          "Start",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Wie wird ein 'Did Not Start' (DNS) im Heat gewertet?",
+        "options": [
+          "Platz 4",
+          "Platz 5",
+          "Platz 6",
+          "Platz 7"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ein DNS (Did Not Start) wird als Platz 7 gewertet. DNF (Did Not Finish) ist Platz 5, DQ (Disqualified) Platz 6.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 10",
+          "chapter": "5.6 Ziel: Ziellinienübertritt, DQ, DNS, DNF"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q31",
+        "text": "Welche Aufgabe hat die Rennleitung bei einem Event?",
+        "options": [
+          "Nur die Punktevergabe am Ende",
+          "Erstellung des Zeitplans, Regelung der Abläufe und Ansprechpartner für Teilnehmende",
+          "Die Durchführung der Siegerehrung",
+          "Nur die Kontrolle der Schutzausrüstung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Rennleitung erstellt Zeitpläne, regelt die Abläufe und ist zentrale Ansprechstelle für die Teilnehmenden. Sie übernimmt nicht nur die Punktevergabe.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 4",
+          "chapter": "3.7 Rennleitung"
+        },
+        "tags": [
+          "Organisation",
+          "Verantwortung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q32",
+        "text": "Wie groß darf die maximale Rollengröße bei Skateboards sein?",
+        "options": [
+          "100 mm",
+          "110 mm",
+          "120 mm",
+          "130 mm"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die maximale Rollengröße für Skateboards beträgt 110 mm. Für Streetluge liegt sie höher bei 130 mm.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "4.1 Gewicht und Abmessungen, Achsen und Rollen"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q33",
+        "text": "Welche Höchstlänge ist für eine Streetluge erlaubt?",
+        "options": [
+          "200 cm",
+          "250 cm",
+          "300 cm",
+          "350 cm"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine Streetluge darf maximal 300 cm lang sein. Werte wie 250 cm oder 350 cm sind nicht regelkonform.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "4.1 Gewicht und Abmessungen, Achsen und Rollen"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Welche Funktion hat der oder die Starter*in?",
+        "options": [
+          "Berechnung der Punkteverteilung",
+          "Erteilung des Startsignals und Durchsetzung der Fehlstartregeln",
+          "Organisation der Siegerehrung",
+          "Sicherung der Strecke mit Flaggen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der oder die Starter*in erteilt das Startsignal, überwacht den korrekten Ablauf des Starts und setzt die Fehlstartregeln durch.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 4",
+          "chapter": "3.8 Posten und Funktionen"
+        },
+        "tags": [
+          "Start",
+          "Organisation"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q35",
+        "text": "Welche Kleidung ist mindestens vorgeschrieben, wenn keine Lederkombi getragen wird?",
+        "options": [
+          "Kurze Hose und T-Shirt",
+          "Langärmliges Oberteil, lange Hose und Knieschoner",
+          "Nur Helm und Handschuhe",
+          "Regenjacke und Jogginghose"
+        ],
+        "correctIndex": 1,
+        "explanation": "Falls keine Lederkombi vorhanden ist, müssen mindestens ein langärmeliges Oberteil, eine lange Hose und Knieschoner getragen werden.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 6",
+          "chapter": "4.2 Schutzausrüstung"
+        },
+        "tags": [
+          "Sicherheit",
+          "Bekleidung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q36",
+        "text": "Welche Bedingung gilt für Helmkameras?",
+        "options": [
+          "Sie dürfen nicht mehr als 500 g wiegen.",
+          "Sie müssen so angebracht sein, dass sie nicht herunterfallen können.",
+          "Sie dürfen nur bei Trainingsläufen genutzt werden.",
+          "Sie sind generell verboten."
+        ],
+        "correctIndex": 1,
+        "explanation": "Helmkameras sind erlaubt, wenn sie sicher angebracht sind, kein zusätzliches Gewicht darstellen und keine Gefahr verursachen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 6",
+          "chapter": "4.3 Kameras"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Wann kann eine Beschwerde während des Rennens eingereicht werden?",
+        "options": [
+          "Beliebig nach dem Rennen",
+          "Nur innerhalb von 24 Stunden nach dem Heat",
+          "Unmittelbar nach dem Heat bei der Renndirektion",
+          "Nur vor Beginn des Rennens"
+        ],
+        "correctIndex": 2,
+        "explanation": "Beschwerden müssen unmittelbar nach dem Heat bei der Renndirektion eingereicht werden. Später eingereichte Beschwerden sind unzulässig.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 10",
+          "chapter": "5.8 Beschwerden"
+        },
+        "tags": [
+          "Beschwerde",
+          "Verfahren"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q38",
+        "text": "Welche Maßnahme erfolgt bei höherer Gewalt während des Rennens?",
+        "options": [
+          "Das Rennen wird annulliert und neu gestartet.",
+          "Alle bereits gefahrenen Runden werden gewertet.",
+          "Es wird sofort eine Ersatzstrecke gewählt.",
+          "Die Punkte werden halbiert."
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei Abbruch aufgrund höherer Gewalt werden alle bis dahin gefahrenen Runden gewertet, nicht annulliert.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 10",
+          "chapter": "5.7 Höhere Gewalt"
+        },
+        "tags": [
+          "Regel",
+          "Ausnahme"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Welche Strafe droht bei unsportlichem Verhalten wie Diskriminierung oder Aggression?",
+        "options": [
+          "Eine Zeitstrafe",
+          "Eine Verwarnung ohne Folgen",
+          "Der Ausschluss vom Rennen",
+          "Ein Punktabzug von 50 Punkten"
+        ],
+        "correctIndex": 2,
+        "explanation": "Aggressives oder diskriminierendes Verhalten wird nicht toleriert und kann zum Ausschluss vom Rennen führen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 3",
+          "chapter": "3.2 Verhaltenskodex"
+        },
+        "tags": [
+          "Verhalten",
+          "Strafe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q40",
+        "text": "Welche Höchstbreite ist für ein Buttboard zugelassen?",
+        "options": [
+          "31 cm",
+          "35 cm",
+          "40 cm",
+          "45 cm"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Buttboard darf maximal 35 cm breit sein. Eine größere Breite ist nicht regelkonform.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "4.1 Gewicht und Abmessungen, Achsen und Rollen"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q41",
+        "text": "Welche maximale Höhe darf der Stoßfänger einer Streetluge mindestens haben?",
+        "options": [
+          "26 mm",
+          "39 mm",
+          "77 mm",
+          "110 mm"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Stoßfänger einer Streetluge muss mindestens 26 mm hoch sein. Außerdem sind Mindestmaße für Breite und Dicke vorgeschrieben.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "4.1 Gewicht und Abmessungen, Achsen und Rollen"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q42",
+        "text": "Welche Aufgabe hat die Renndirektion?",
+        "options": [
+          "Sie erstellt das Regelwerk.",
+          "Sie fungiert als Schiedsgericht und offizielle Vertretung während des Rennens.",
+          "Sie vergibt Punkte an die Teilnehmenden.",
+          "Sie organisiert die Athlet*innenkoordination."
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Renndirektion vertritt Downhill Deutschland offiziell beim Rennen, ist Ansprechpartner für Proteste und entscheidet als Schiedsgericht.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 4",
+          "chapter": "3.7 Rennleitung"
+        },
+        "tags": [
+          "Organisation",
+          "Verantwortung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q43",
+        "text": "Was geschieht mit einer Person, die absichtlich aggressiv fährt?",
+        "options": [
+          "Sie erhält eine Verwarnung ohne Folgen.",
+          "Sie wird disqualifiziert oder sanktioniert.",
+          "Sie verliert automatisch 100 Punkte.",
+          "Es erfolgt eine Wiederholung des Heats."
+        ],
+        "correctIndex": 1,
+        "explanation": "Übermäßig aggressives, gefährliches oder rücksichtsloses Fahren wird nicht toleriert und führt zu Sanktionen oder Disqualifikation.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 12",
+          "chapter": "6.3 Situationen im Rennen – Aggressives Fahren"
+        },
+        "tags": [
+          "Strafe",
+          "Verhalten"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Welche Pflicht gilt nach einem Sturz?",
+        "options": [
+          "Die Weiterfahrt muss sofort aufgegeben werden.",
+          "Der Neustart muss eigenständig erfolgen und den Startregeln entsprechen.",
+          "Die Rennleitung muss die Wiederaufnahme der Fahrt genehmigen.",
+          "Es darf mit fremder Hilfe neu gestartet werden."
+        ],
+        "correctIndex": 1,
+        "explanation": "Nach einem Sturz darf nur eigenständig und nach den Prinzipien des Startverfahrens weitergefahren werden. Fremde Hilfe ist verboten.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 12",
+          "chapter": "6.4 Verhalten nach einem Sturz"
+        },
+        "tags": [
+          "Regel",
+          "Verhalten"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q45",
+        "text": "Welche Staatsangehörigkeit ist erforderlich, um in die Wertung der Deutschen Meisterschaft aufgenommen zu werden?",
+        "options": [
+          "Deutsche Staatsangehörigkeit",
+          "Ein Wohnsitz in Deutschland",
+          "EU-Staatsangehörigkeit",
+          "Eine internationale Lizenz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nur Personen mit deutschem Pass können in die Wertung der Deutschen Meisterschaft aufgenommen werden.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 3",
+          "chapter": "2.2 Staatsangehörigkeit"
+        },
+        "tags": [
+          "Teilnahme",
+          "Bedingung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q46",
+        "text": "Welche Altersgrenze gilt für die Kategorie Masters?",
+        "options": [
+          "Ab 30 Jahren",
+          "Ab 35 Jahren",
+          "Ab 40 Jahren",
+          "Ab 45 Jahren"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Kategorie Masters gilt für Personen, die am 1. Januar des laufenden Jahres mindestens 35 Jahre alt sind.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 2",
+          "chapter": "2.1 Kategorien mit Altersbeschränkungen"
+        },
+        "tags": [
+          "Definition",
+          "Teilnahme"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Welche Amtssprache gilt bei Downhill Deutschland?",
+        "options": [
+          "Englisch",
+          "Französisch",
+          "Deutsch",
+          "Spanisch"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Amtssprache ist ausdrücklich Deutsch. Andere Sprachen werden nicht als offizielle Amtssprache anerkannt.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 3",
+          "chapter": "2.3 Amtssprache"
+        },
+        "tags": [
+          "Definition",
+          "Sprache"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q48",
+        "text": "Welche Strafe kann bei Regelbrüchen verhängt werden?",
+        "options": [
+          "Nur eine Verwarnung",
+          "Nur Punktabzug",
+          "Verlust von Platzierungen, Disqualifikation vom Rennen oder weiteren Wettbewerben",
+          "Eine Geldstrafe"
+        ],
+        "correctIndex": 2,
+        "explanation": "Regelbrüche können den Verlust von Platzierungen, Disqualifikationen vom Rennen und sogar von nachfolgenden Wettbewerben nach sich ziehen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 4",
+          "chapter": "3.6 Disziplinarpolitik"
+        },
+        "tags": [
+          "Strafe",
+          "Regelbruch"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q49",
+        "text": "Welche Startweise gilt für Streetluger*innen?",
+        "options": [
+          "Mit beiden Füßen pushend",
+          "Mit den Händen paddelnd aus sitzender Position",
+          "Im Liegen mit den Füßen nach vorne stoßend",
+          "Durch Anschub von Helfer*innen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Streetluger*innen starten aus einer sitzenden Position und paddeln mit den Händen, nicht mit den Füßen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 9",
+          "chapter": "5.5 Startverfahren, Startsignal, Fehlstartregelung"
+        },
+        "tags": [
+          "Start",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q50",
+        "text": "Welche Punktezahl erhält Platz 3 in einem Hauptrennen?",
+        "options": [
+          "943 Punkte",
+          "926 Punkte",
+          "961 Punkte",
+          "650 Punkte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Platz 3 in einem Hauptrennen wird mit 943 Punkten bewertet. Platz 2 erhält 961 Punkte.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 13",
+          "chapter": "7. Punkteverteilung"
+        },
+        "tags": [
+          "Punkte",
+          "Wertung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q51",
+        "text": "Welches Mindestalter gilt grundsätzlich für die Teilnahme am Rennen?",
+        "options": [
+          "12 Jahre",
+          "14 Jahre",
+          "15 Jahre",
+          "16 Jahre"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Mindestalter zur Teilnahme beträgt 14 Jahre. Jüngere dürfen nur in Ausnahmefällen und mit Zustimmung teilnehmen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 2",
+          "chapter": "2.1 Kategorien mit Altersbeschränkungen"
+        },
+        "tags": [
+          "Teilnahme",
+          "Alter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q52",
+        "text": "Was passiert, wenn ein Heat vor den Finalrunden mit einem Unentschieden endet?",
+        "options": [
+          "Der Heat wird wiederholt.",
+          "Das Ergebnis wird durch die Qualifikationsergebnisse entschieden.",
+          "Beide Personen kommen weiter.",
+          "Ein Münzwurf entscheidet."
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei einem Unentschieden vor den Finalrunden werden die Platzierungen durch die Ergebnisse der Qualifikationsläufe entschieden.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 10",
+          "chapter": "5.6 Ziel: Ziellinienübertritt, Unentschieden"
+        },
+        "tags": [
+          "Regel",
+          "Unentschieden"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Welche Pflicht haben Minderjährige zwischen 16 und 18 Jahren, um teilnehmen zu dürfen?",
+        "options": [
+          "Sie müssen einen ärztlichen Attest vorlegen.",
+          "Sie brauchen die schriftliche Einverständniserklärung eines Erziehungsberechtigten.",
+          "Sie müssen Mitglied in einem Verein sein.",
+          "Sie brauchen keine besonderen Nachweise."
+        ],
+        "correctIndex": 1,
+        "explanation": "Minderjährige zwischen 16 und 18 Jahren benötigen die schriftliche Zustimmung eines Erziehungsberechtigten.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 2",
+          "chapter": "2.1 Kategorien mit Altersbeschränkungen"
+        },
+        "tags": [
+          "Teilnahme",
+          "Minderjährige"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q54",
+        "text": "Welche Länge darf ein Buttboard maximal haben?",
+        "options": [
+          "110 cm",
+          "122 cm",
+          "125 cm",
+          "130 cm"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Buttboard darf höchstens 125 cm lang sein. Kürzere Längen sind ebenfalls erlaubt, solange die Sicherheitsanforderungen erfüllt sind.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "4.1 Gewicht und Abmessungen, Achsen und Rollen"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Maße"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q55",
+        "text": "Welche Materialien dürfen für den Stoßfänger einer Streetluge verwendet werden?",
+        "options": [
+          "Holz oder Metall",
+          "Latex oder Baumwolle",
+          "Weicher Gummi, Schaum, Plastik oder andere Energie-absorbierende Materialien",
+          "Nur Aluminium"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Stoßfänger muss aus energieabsorbierendem Material bestehen, z. B. Gummi, Schaum oder Plastik. Harte Materialien wie Metall sind nicht erlaubt.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "4.1 Gewicht und Abmessungen, Achsen und Rollen"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q56",
+        "text": "Welche Startphase folgt nach dem Signal 'Riders ready'?",
+        "options": [
+          "'Riders set'",
+          "'Go!'",
+          "'Start frei'",
+          "Pfeifen-Signal"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach 'Riders ready' folgt das Signal 'Riders set', bevor nach 1–4 Sekunden das Startsignal 'Go!' oder ein akustisches Signal erfolgt.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 9",
+          "chapter": "5.5 Startverfahren, Startsignal"
+        },
+        "tags": [
+          "Start",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q57",
+        "text": "Welche maximale Breite ist für ein Skateboard erlaubt?",
+        "options": [
+          "28 cm",
+          "29 cm",
+          "30 cm",
+          "31 cm"
+        ],
+        "correctIndex": 3,
+        "explanation": "Die maximale Breite für ein Skateboard beträgt 31 cm. Eine größere Breite ist nicht erlaubt.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "4.1 Gewicht und Abmessungen, Achsen und Rollen"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Maße"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q58",
+        "text": "Welche Aufgabe haben die Streckenposten im Falle eines Unfalls?",
+        "options": [
+          "Sie müssen den Heat unterbrechen und selbst eingreifen.",
+          "Sie können einen Rettungswagen anfordern, falls erforderlich.",
+          "Sie müssen die Teilnehmenden ins Ziel begleiten.",
+          "Sie dürfen keine Maßnahmen ergreifen."
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei einem Unfall müssen die Streckenposten, falls erforderlich, einen Rettungswagen anfordern. Sie sorgen außerdem für Sicherheit auf ihrem Abschnitt.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 4",
+          "chapter": "3.8 Posten und Funktionen"
+        },
+        "tags": [
+          "Sicherheit",
+          "Organisation"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q59",
+        "text": "Wie wird ein DQ (Disqualified) im Heat gewertet?",
+        "options": [
+          "Platz 4",
+          "Platz 5",
+          "Platz 6",
+          "Platz 7"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein DQ wird als Platz 6 gewertet. DNF (Did Not Finish) ist Platz 5 und DNS (Did Not Start) ist Platz 7.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 10",
+          "chapter": "5.6 Ziel: Ziellinienübertritt, DQ, DNS, DNF"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q60",
+        "text": "Welche Rolle hat die Streckenpostenkoordination?",
+        "options": [
+          "Sie entscheidet über Strafen während des Rennens.",
+          "Sie sorgt dafür, dass alle Streckenpostenplätze besetzt sind und koordiniert deren Einsatz.",
+          "Sie gibt das Startsignal.",
+          "Sie bewertet die Punktevergabe."
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Streckenpostenkoordination stellt sicher, dass alle Posten besetzt sind und koordiniert deren Einsätze, ohne offizielle Entscheidungsbefugnis für das Rennen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "3.8 Posten und Funktionen"
+        },
+        "tags": [
+          "Organisation",
+          "Verantwortung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q61",
+        "text": "Welche maximale Rollengröße ist bei einer Streetluge erlaubt?",
+        "options": [
+          "110 mm",
+          "120 mm",
+          "125 mm",
+          "130 mm"
+        ],
+        "correctIndex": 3,
+        "explanation": "Bei Streetlugen ist eine maximale Rollengröße von 130 mm zugelassen. Skateboards sind auf 110 mm begrenzt.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "4.1 Gewicht und Abmessungen, Achsen und Rollen"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Maße"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q62",
+        "text": "Was bedeutet 'DNS' in der Ergebniswertung?",
+        "options": [
+          "Did Not Skate",
+          "Did Not Start",
+          "Did Not Score",
+          "Did Not Show"
+        ],
+        "correctIndex": 1,
+        "explanation": "DNS steht für 'Did Not Start' – eine Person, die nicht am Heat teilnimmt, wird als Platz 7 gewertet.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 10",
+          "chapter": "5.6 Ziel: Ziellinienübertritt, DQ, DNS, DNF"
+        },
+        "tags": [
+          "Definition",
+          "Ergebnis"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q63",
+        "text": "Welche Ethikpflicht gilt für alle Teilnehmenden?",
+        "options": [
+          "Nur sportliche Fairness zeigen",
+          "Respekt und Fairness gegenüber allen, unabhängig von Herkunft, Geschlecht oder Religion",
+          "Die Regeln nur im Finale einhalten",
+          "Doping ist unter bestimmten Umständen erlaubt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Ethikkodex verlangt Respekt und Fairness unabhängig von Herkunft, Geschlecht, Religion oder anderen persönlichen Merkmalen. Doping und Manipulation sind strikt verboten.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 3",
+          "chapter": "3.3 Ethikkodex"
+        },
+        "tags": [
+          "Ethik",
+          "Pflicht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q64",
+        "text": "Welche Strafe droht bei einem zweiten Fehlstart derselben Person?",
+        "options": [
+          "Eine Verwarnung",
+          "Eine Punktehalbierung",
+          "Die Disqualifikation",
+          "Eine Wiederholung des Heats"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein zweiter Fehlstart derselben Person führt zur Disqualifikation. Ein erster Fehlstart wird noch mit einer Verwarnung geahndet.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 10",
+          "chapter": "5.5 Startverfahren, Fehlstartregelung"
+        },
+        "tags": [
+          "Start",
+          "Strafe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q65",
+        "text": "Wie viele Personen umfasst die Rennleitung mindestens und maximal?",
+        "options": [
+          "2–3 Personen",
+          "3–5 Personen",
+          "4–6 Personen",
+          "5–7 Personen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Rennleitung besteht aus mindestens 3 und höchstens 5 Personen, die den Ablauf koordinieren und Regelverstöße beurteilen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 4",
+          "chapter": "3.7 Rennleitung"
+        },
+        "tags": [
+          "Organisation",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q66",
+        "text": "Was geschieht, wenn sich eine überholende Person nicht mit 75% ihres Sportgeräts neben die führende Person setzen kann?",
+        "options": [
+          "Die führende Person verliert ihr Linienrecht.",
+          "Die Situation muss von der überholenden Person aufgelöst werden.",
+          "Beide Fahrer*innen werden disqualifiziert.",
+          "Die Rennleitung entscheidet sofort über die Platzierung."
+        ],
+        "correctIndex": 1,
+        "explanation": "Kann die überholende Person sich nicht zu 75% neben die führende setzen, bleibt das Linienrecht bei der führenden Person und die überholende muss die Situation auflösen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 12",
+          "chapter": "6.3 Situationen im Rennen – Überholen"
+        },
+        "tags": [
+          "Überholen",
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q67",
+        "text": "Welche Körperposition ist auf einer Streetluge verboten?",
+        "options": [
+          "Im Sitzen mit Füßen nach vorne",
+          "Im Liegen mit Füßen nach vorne",
+          "Im Stehen oder Knien",
+          "Mit Rückenprotektor im Liegen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Streetluger*innen müssen liegend oder sitzend mit den Füßen nach vorne fahren. Stehen oder Knien auf der Streetluge ist verboten.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 11",
+          "chapter": "6.1 Fahrposition"
+        },
+        "tags": [
+          "Regel",
+          "Position"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q68",
+        "text": "Welche Punktezahl erhält Platz 4 in einem Hauptrennen?",
+        "options": [
+          "926 Punkte",
+          "911 Punkte",
+          "943 Punkte",
+          "650 Punkte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Platz 4 in einem Hauptrennen wird mit 926 Punkten bewertet. Platz 5 erhält 911 Punkte.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 13",
+          "chapter": "7. Punkteverteilung"
+        },
+        "tags": [
+          "Punkte",
+          "Wertung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q69",
+        "text": "Wann dürfen Speedsuits aus Latex oder ähnlichen Materialien getragen werden?",
+        "options": [
+          "Nur bei Zeitfahren",
+          "Nur bei Masters-Rennen",
+          "Bei keinem Kopf-an-Kopf-Rennen",
+          "Immer erlaubt"
+        ],
+        "correctIndex": 2,
+        "explanation": "Speedsuits sind bei Kopf-an-Kopf-Rennen verboten. Bei anderen Formaten können sie erlaubt sein, sofern keine Gefahr entsteht.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 6",
+          "chapter": "4.2 Schutzausrüstung"
+        },
+        "tags": [
+          "Bekleidung",
+          "Verbot"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q70",
+        "text": "Welche Pflicht haben Teilnehmende bezüglich des Haftungsausschlusses?",
+        "options": [
+          "Sie müssen keinen Haftungsausschluss unterzeichnen.",
+          "Nur Minderjährige müssen unterschreiben.",
+          "Alle Teilnehmenden müssen einen Haftungsausschluss unterzeichnen.",
+          "Nur die Rennleitung muss den Haftungsausschluss bestätigen."
+        ],
+        "correctIndex": 2,
+        "explanation": "Alle Teilnehmenden sind verpflichtet, einen Haftungsausschluss zu unterzeichnen. Ohne diesen ist keine Teilnahme möglich.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 3",
+          "chapter": "3.4 Pflichten der Teilnehmenden"
+        },
+        "tags": [
+          "Pflicht",
+          "Haftung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q71",
+        "text": "Welche Punktezahl erhält Platz 5 in einem Hauptrennen?",
+        "options": [
+          "911 Punkte",
+          "926 Punkte",
+          "896 Punkte",
+          "943 Punkte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Platz 5 in einem Hauptrennen wird mit 911 Punkten bewertet. Platz 4 hat 926 Punkte, Platz 6 896 Punkte.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 13",
+          "chapter": "7. Punkteverteilung"
+        },
+        "tags": [
+          "Punkte",
+          "Wertung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q72",
+        "text": "Welche Pflicht besteht in Bezug auf die Kenntnis des Regelwerks?",
+        "options": [
+          "Nur die wichtigsten Regeln müssen bekannt sein.",
+          "Alle Teilnehmenden müssen das gesamte Regelwerk gelesen und verstanden haben.",
+          "Nur die Rennleitung muss das Regelwerk kennen.",
+          "Die Regeln müssen nur während des Rennens beachtet werden."
+        ],
+        "correctIndex": 1,
+        "explanation": "Alle Teilnehmenden müssen das Regelwerk gelesen und verstanden haben und sich daran halten.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 3",
+          "chapter": "3.4 Pflichten der Teilnehmenden"
+        },
+        "tags": [
+          "Pflicht",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q73",
+        "text": "Welche Maximalbreite gilt für eine Streetluge?",
+        "options": [
+          "55 cm",
+          "61 cm",
+          "65 cm",
+          "70 cm"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Streetluge darf maximal 61 cm breit sein.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "4.1 Gewicht und Abmessungen, Achsen und Rollen"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Maße"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q74",
+        "text": "Welche Rolle übernehmen Streckenposten bei Protesten oder Regelbrüchen?",
+        "options": [
+          "Sie entscheiden über den Protest.",
+          "Sie geben ihre Sicht der Dinge wieder.",
+          "Sie vergeben Strafen.",
+          "Sie bestimmen die Startreihenfolge neu."
+        ],
+        "correctIndex": 1,
+        "explanation": "Streckenposten können bei Protesten oder Regelbrüchen ihre Sicht der Dinge äußern, entscheiden aber nicht selbst.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 4",
+          "chapter": "3.8 Posten und Funktionen"
+        },
+        "tags": [
+          "Organisation",
+          "Proteste"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q75",
+        "text": "Wie wird ein DNF (Did Not Finish) im Heat gewertet?",
+        "options": [
+          "Platz 4",
+          "Platz 5",
+          "Platz 6",
+          "Platz 7"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein DNF wird als Platz 5 im Heat gewertet.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 10",
+          "chapter": "5.6 Ziel: Ziellinienübertritt, DQ, DNS, DNF"
+        },
+        "tags": [
+          "Definition",
+          "Ergebnis"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q76",
+        "text": "Welche Mindestbreite muss der Stoßfänger einer Streetluge haben?",
+        "options": [
+          "26 mm",
+          "39 mm",
+          "50 mm",
+          "77 mm"
+        ],
+        "correctIndex": 3,
+        "explanation": "Der Stoßfänger einer Streetluge muss mindestens 77 mm breit sein.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "4.1 Gewicht und Abmessungen, Achsen und Rollen"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q77",
+        "text": "Welche Strafe droht, wenn absichtlicher Kontakt im Rennen zu einem Vorteil führt?",
+        "options": [
+          "Keine Strafe, solange niemand stürzt.",
+          "Eine Verwarnung",
+          "Eine Strafe, da absichtlicher Kontakt verboten ist.",
+          "Nur Punkteabzug ohne Disqualifikation"
+        ],
+        "correctIndex": 2,
+        "explanation": "Absichtlicher Kontakt ist verboten und wird sanktioniert, insbesondere wenn er zu einem Vorteil führt.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 11",
+          "chapter": "6.2 Kontakt"
+        },
+        "tags": [
+          "Kontakt",
+          "Strafe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q78",
+        "text": "Wie wird ein Gleichstand im Schweizer System aufgelöst?",
+        "options": [
+          "Durch Losentscheid",
+          "Durch zusätzliche Runden",
+          "Durch Tie Braker-Punkte basierend auf Gegnerleistungen",
+          "Durch Entscheidung der Rennleitung"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Gleichstand wird über Tie Braker-Punkte entschieden, die auf den Leistungen der Gegner basieren.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 7",
+          "chapter": "5.2 Schweizer System"
+        },
+        "tags": [
+          "System",
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q79",
+        "text": "Welche Aufgabe hat die Athlet*innenkoordination NICHT?",
+        "options": [
+          "Freihalten des Startbereichs",
+          "Sicherstellen der richtigen Reihenfolge der Startenden",
+          "Auskunft zur Linienwahl",
+          "Fällen offizieller Rennentscheidungen"
+        ],
+        "correctIndex": 3,
+        "explanation": "Die Athlet*innenkoordination unterstützt organisatorisch, hat aber keine offizielle Entscheidungsbefugnis für das Rennen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 4",
+          "chapter": "3.8 Posten und Funktionen"
+        },
+        "tags": [
+          "Organisation",
+          "Rolle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q80",
+        "text": "Welche maximale Masse darf ein Skateboard haben?",
+        "options": [
+          "5 kg",
+          "6 kg",
+          "7 kg",
+          "8 kg"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das maximale Gewicht für ein Skateboard beträgt 6 kg.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "4.1 Gewicht und Abmessungen, Achsen und Rollen"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Maße"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q81",
+        "text": "Welche Punktezahl erhält Platz 6 in einem Hauptrennen?",
+        "options": [
+          "896 Punkte",
+          "911 Punkte",
+          "870 Punkte",
+          "926 Punkte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Platz 6 in einem Hauptrennen wird mit 896 Punkten bewertet.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 13",
+          "chapter": "7. Punkteverteilung"
+        },
+        "tags": [
+          "Punkte",
+          "Wertung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q82",
+        "text": "Welche Pflicht gilt für Handschuhe bei Rennen?",
+        "options": [
+          "Handschuhe sind optional.",
+          "Es dürfen nur Fingerlose getragen werden.",
+          "Handschuhe aus Leder oder gleichwertigem Material sind Pflicht.",
+          "Nur Streetluger*innen müssen Handschuhe tragen."
+        ],
+        "correctIndex": 2,
+        "explanation": "Handschuhe aus Leder oder gleichwertigem Material sind Pflicht. Slidepucks sind zusätzlich empfohlen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5-6",
+          "chapter": "4.2 Schutzausrüstung"
+        },
+        "tags": [
+          "Sicherheit",
+          "Pflicht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q83",
+        "text": "Wann darf ein Startbahnwechsel eine Strafe nach sich ziehen?",
+        "options": [
+          "Immer, auch ohne Behinderung anderer",
+          "Nur wenn dadurch andere beim Start behindert werden",
+          "Nie, ein Wechsel ist immer erlaubt",
+          "Nur im Finale"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Überschreiten der Startbahn kann zur Strafe führen, wenn andere beim Start behindert werden.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 10",
+          "chapter": "5.5 Startverfahren, Fehlstartregelung"
+        },
+        "tags": [
+          "Start",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q84",
+        "text": "Welche maximale Masse darf eine Streetluge haben?",
+        "options": [
+          "20 kg",
+          "22 kg",
+          "25 kg",
+          "28 kg"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine Streetluge darf maximal 25 kg wiegen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "4.1 Gewicht und Abmessungen, Achsen und Rollen"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Maße"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q85",
+        "text": "Welche Aufgabe hat der oder die Starter*in bei Fehlstarts?",
+        "options": [
+          "Er oder sie kann Strafen vergeben.",
+          "Er oder sie muss den Heat sofort abbrechen und Start wiederholen lassen.",
+          "Er oder sie darf den Fehlstart ignorieren.",
+          "Er oder sie bestimmt die Ziellinie."
+        ],
+        "correctIndex": 1,
+        "explanation": "Der oder die Starter*in muss bei Fehlstarts den Start abbrechen und ggf. eine Wiederholung anordnen. Bei wiederholtem Fehlstart erfolgt die Disqualifikation.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 9-10",
+          "chapter": "5.5 Startverfahren, Fehlstartregelung"
+        },
+        "tags": [
+          "Start",
+          "Strafe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q86",
+        "text": "Welche Punktezahl erhält Platz 1 in einem Nebenrennen?",
+        "options": [
+          "650 Punkte",
+          "625 Punkte",
+          "602 Punkte",
+          "1000 Punkte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Platz 1 in einem Nebenrennen wird mit 650 Punkten bewertet. 1000 Punkte gelten nur für Hauptrennen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 13",
+          "chapter": "7. Punkteverteilung"
+        },
+        "tags": [
+          "Punkte",
+          "Wertung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q87",
+        "text": "Welche Pflicht gilt bezüglich zusätzlichem Ballast am Körper?",
+        "options": [
+          "Bis zu 2 kg sind erlaubt.",
+          "Bis zu 5 kg sind erlaubt.",
+          "Zusätzlicher Ballast ist verboten.",
+          "Nur Masters dürfen Ballast nutzen."
+        ],
+        "correctIndex": 2,
+        "explanation": "Zusätzliches Gewicht in Form von Ballast am Körper ist ausdrücklich verboten.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 6",
+          "chapter": "4.2 Schutzausrüstung"
+        },
+        "tags": [
+          "Regel",
+          "Verbot"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q88",
+        "text": "Welche Punktezahl erhält Platz 2 in einem Nebenrennen?",
+        "options": [
+          "650 Punkte",
+          "625 Punkte",
+          "602 Punkte",
+          "961 Punkte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Platz 2 in einem Nebenrennen wird mit 625 Punkten bewertet.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 13",
+          "chapter": "7. Punkteverteilung"
+        },
+        "tags": [
+          "Punkte",
+          "Wertung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q89",
+        "text": "Welche Rolle übernimmt die Rennleitung bei Beschwerden?",
+        "options": [
+          "Sie entscheidet direkt über Strafen.",
+          "Die Renndirektion innerhalb der Rennleitung entscheidet als Schiedsgericht.",
+          "Die Rennleitung gibt Beschwerden an die Streckenposten weiter.",
+          "Beschwerden werden von der Athlet*innenkoordination entschieden."
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Renndirektion innerhalb der Rennleitung fungiert als Schiedsgericht und entscheidet über Beschwerden.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 4",
+          "chapter": "3.7 Rennleitung"
+        },
+        "tags": [
+          "Organisation",
+          "Beschwerden"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q90",
+        "text": "Welche Punktezahl erhält Platz 3 in einem Nebenrennen?",
+        "options": [
+          "650 Punkte",
+          "625 Punkte",
+          "613 Punkte",
+          "602 Punkte"
+        ],
+        "correctIndex": 2,
+        "explanation": "Platz 3 in einem Nebenrennen wird mit 613 Punkten bewertet.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 13",
+          "chapter": "7. Punkteverteilung"
+        },
+        "tags": [
+          "Punkte",
+          "Wertung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q91",
+        "text": "Welche Punktezahl erhält Platz 7 in einem Hauptrennen?",
+        "options": [
+          "883 Punkte",
+          "870 Punkte",
+          "896 Punkte",
+          "911 Punkte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Platz 7 in einem Hauptrennen wird mit 883 Punkten bewertet.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 13",
+          "chapter": "7. Punkteverteilung"
+        },
+        "tags": [
+          "Punkte",
+          "Wertung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q92",
+        "text": "Welche Aufgabe hat die Rennleitung in Bezug auf den Zeitplan?",
+        "options": [
+          "Sie gibt den Zeitplan nur an die Medien weiter.",
+          "Sie erstellt und regelt den offiziellen Zeitplan des Rennens.",
+          "Die Athlet*innenkoordination erstellt den Zeitplan.",
+          "Der Zeitplan wird nur von den Streckenposten festgelegt."
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Rennleitung erstellt und regelt den Zeitplan für das Rennen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 4",
+          "chapter": "3.7 Rennleitung"
+        },
+        "tags": [
+          "Organisation",
+          "Zeitplan"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q93",
+        "text": "Welche Punktezahl erhält Platz 4 in einem Nebenrennen?",
+        "options": [
+          "602 Punkte",
+          "613 Punkte",
+          "625 Punkte",
+          "650 Punkte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Platz 4 in einem Nebenrennen wird mit 602 Punkten bewertet.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 13",
+          "chapter": "7. Punkteverteilung"
+        },
+        "tags": [
+          "Punkte",
+          "Wertung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q94",
+        "text": "Welche Pflicht gilt für das Tragen von Schuhen während des Rennens?",
+        "options": [
+          "Es dürfen nur offene Sandalen getragen werden.",
+          "Geschlossene Schuhe sind Pflicht.",
+          "Schuhe sind optional.",
+          "Es dürfen nur Sportschuhe getragen werden."
+        ],
+        "correctIndex": 1,
+        "explanation": "Geschlossene Schuhe sind Pflicht. Offene oder keine Schuhe sind nicht erlaubt.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "4.2 Schutzausrüstung"
+        },
+        "tags": [
+          "Sicherheit",
+          "Pflicht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q95",
+        "text": "Welche maximale Dicke muss der Stoßfänger einer Streetluge mindestens haben?",
+        "options": [
+          "26 mm",
+          "30 mm",
+          "39 mm",
+          "50 mm"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Stoßfänger einer Streetluge muss mindestens 39 mm dick sein.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 5",
+          "chapter": "4.1 Gewicht und Abmessungen, Achsen und Rollen"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q96",
+        "text": "Wie viele Punkte erhält Platz 8 in einem Hauptrennen?",
+        "options": [
+          "870 Punkte",
+          "883 Punkte",
+          "857 Punkte",
+          "896 Punkte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Platz 8 in einem Hauptrennen wird mit 870 Punkten bewertet.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 13",
+          "chapter": "7. Punkteverteilung"
+        },
+        "tags": [
+          "Punkte",
+          "Wertung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q97",
+        "text": "Welche Pflicht gilt für Streetluger*innen beim Start?",
+        "options": [
+          "Sie müssen im Stehen starten.",
+          "Sie starten in sitzender Position mit den Händen paddelnd.",
+          "Sie dürfen nur durch Anschieben starten.",
+          "Sie starten liegend mit den Füßen abstoßend."
+        ],
+        "correctIndex": 1,
+        "explanation": "Streetluger*innen starten in einer sitzenden Position und paddeln mit den Händen.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 9",
+          "chapter": "5.5 Startverfahren"
+        },
+        "tags": [
+          "Start",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q98",
+        "text": "Welche Punktezahl erhält Platz 5 in einem Nebenrennen?",
+        "options": [
+          "592 Punkte",
+          "602 Punkte",
+          "613 Punkte",
+          "625 Punkte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Platz 5 in einem Nebenrennen wird mit 592 Punkten bewertet.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 13",
+          "chapter": "7. Punkteverteilung"
+        },
+        "tags": [
+          "Punkte",
+          "Wertung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q99",
+        "text": "Welche Pflicht gilt für Skateboarder*innen beim Start?",
+        "options": [
+          "Beide Füße müssen auf dem Brett stehen.",
+          "Ein Fuß auf dem Brett, der andere am Boden, alle Rollen am Boden.",
+          "Sie müssen im Sitzen starten.",
+          "Der Start darf mit Hilfe von anderen erfolgen."
+        ],
+        "correctIndex": 1,
+        "explanation": "Skateboarder*innen müssen mit einem Fuß auf dem Brett stehen, während der andere Fuß den Boden berührt und alle Rollen Kontakt mit dem Boden haben.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 9",
+          "chapter": "5.5 Startverfahren"
+        },
+        "tags": [
+          "Start",
+          "Pflicht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q100",
+        "text": "Welche Punktezahl erhält Platz 6 in einem Nebenrennen?",
+        "options": [
+          "592 Punkte",
+          "583 Punkte",
+          "574 Punkte",
+          "565 Punkte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Platz 6 in einem Nebenrennen wird mit 583 Punkten bewertet.",
+        "source": {
+          "citation": "Regelwerk Downhill Deutschland 2025",
+          "pages": "S. 13",
+          "chapter": "7. Punkteverteilung"
+        },
+        "tags": [
+          "Punkte",
+          "Wertung"
+        ],
+        "difficulty": "leicht"
+      }
+    ]
+  }
+}

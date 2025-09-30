@@ -1,0 +1,1787 @@
+{
+  "quiz": {
+    "title": "Eishockey",
+    "description": "Multiple-Choice-Quiz mit Fragen zum IIHF-Regelbuch 2024/2025 (deutsche Übersetzung).",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-09-25T15:31:46Z",
+      "notes": "Fragen basierend auf dem IIHF-Regelbuch 2024/2025.",
+      "updatedAt": "2025-09-25T17:06:08Z"
+    },
+    "sourceDocument": {
+      "title": "IIHF Regelbuch (deutsche Übersetzung)",
+      "version": "2024/2025",
+      "year": 2024,
+      "pdfFilename": "2024_2025-IIHF-Regelbuch-deutsche-Uebersetzung_August_2024.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Wie viele Spieler dürfen maximal gleichzeitig pro Team auf dem Eis sein (einschließlich Torwart)?",
+        "options": [
+          "5 Spieler",
+          "6 Spieler",
+          "7 Spieler",
+          "4 Spieler"
+        ],
+        "correctIndex": 1,
+        "explanation": "Laut IIHF-Regelwerk dürfen maximal 6 Spieler (5 Feldspieler + 1 Torwart) gleichzeitig pro Team auf dem Eis sein.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 12",
+          "chapter": "Regel 3 – Anzahl der Spieler"
+        },
+        "tags": [
+          "Regel",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Was geschieht, wenn ein Spieler eine Spieldauer-Disziplinarstrafe erhält?",
+        "options": [
+          "Der Spieler darf nach 5 Minuten wieder mitspielen.",
+          "Der Spieler wird für den Rest des Spiels ausgeschlossen.",
+          "Der Spieler erhält zusätzlich eine Geldstrafe.",
+          "Der Spieler darf nach einer Pause wiederkommen."
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Spieldauer-Disziplinarstrafe führt zum Ausschluss des Spielers für den Rest des Spiels. Ersatz durch einen anderen Spieler ist erlaubt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 48",
+          "chapter": "Regel 28 – Strafen"
+        },
+        "tags": [
+          "Strafe",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Welche Form hat die Spielfläche laut IIHF-Regelwerk?",
+        "options": [
+          "Rechteckig mit abgerundeten Ecken",
+          "Oval",
+          "Quadratisch",
+          "Rund"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Eisfläche ist rechteckig und hat an allen vier Ecken eine Abrundung.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 7",
+          "chapter": "Regel 1 – Spielfläche"
+        },
+        "tags": [
+          "Definition",
+          "Spielfeld"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Wie hoch muss die Toröffnung nach IIHF-Regeln sein?",
+        "options": [
+          "1,22 m",
+          "1,50 m",
+          "1,80 m",
+          "2,00 m"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Torhöhe beträgt 1,22 Meter, die Breite 1,83 Meter.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 9",
+          "chapter": "Regel 2 – Tore"
+        },
+        "tags": [
+          "Definition",
+          "Spielfeld"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Wann wird ein Tor anerkannt?",
+        "options": [
+          "Wenn der Puck die Torlinie vollständig überquert hat",
+          "Wenn der Puck die Torlinie teilweise überquert hat",
+          "Wenn der Schiedsrichter es für wahrscheinlich hält",
+          "Wenn der Puck die Latte berührt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Tor zählt nur, wenn der Puck die Torlinie vollständig zwischen den Pfosten und unter der Querlatte überquert.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 25",
+          "chapter": "Regel 94 – Anerkennung von Toren"
+        },
+        "tags": [
+          "Tor",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Wie lange dauert ein reguläres Drittel im IIHF-Eishockey?",
+        "options": [
+          "15 Minuten",
+          "20 Minuten",
+          "25 Minuten",
+          "30 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Drittel dauert 20 Minuten effektive Spielzeit.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 15",
+          "chapter": "Regel 5 – Spielzeit"
+        },
+        "tags": [
+          "Zeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Wie viele Offizielle (Schiedsrichter + Linienrichter) leitet ein Spiel im Vier-Mann-System?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correctIndex": 2,
+        "explanation": "Im Vier-Mann-System gibt es zwei Schiedsrichter und zwei Linienrichter.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 19",
+          "chapter": "Regel 30 – Offizielle"
+        },
+        "tags": [
+          "Regel",
+          "Offizielle"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Was passiert, wenn ein Tor verschoben wird, bevor der Puck die Linie überquert?",
+        "options": [
+          "Das Tor wird trotzdem gegeben",
+          "Das Tor zählt nicht",
+          "Das Tor wird nur gegeben, wenn die Heimmannschaft getroffen hat",
+          "Das Tor wird automatisch annulliert, auch wenn es regulär war"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Tor wird nicht gegeben, wenn das Tor vorher verschoben wurde, außer in speziellen Ausnahmeregeln.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 27",
+          "chapter": "Regel 95 – Torverschiebung"
+        },
+        "tags": [
+          "Tor",
+          "Ausnahme"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist Abseits im Eishockey?",
+        "options": [
+          "Wenn ein Spieler die Mittellinie vor dem Puck überquert",
+          "Wenn ein Spieler die gegnerische blaue Linie vor dem Puck überquert",
+          "Wenn der Puck die rote Linie nicht erreicht",
+          "Wenn ein Spieler zu lange im Angriffsdrittel bleibt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Abseits liegt vor, wenn ein Spieler die gegnerische blaue Linie vor dem Puck überquert.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 32",
+          "chapter": "Regel 83 – Abseits"
+        },
+        "tags": [
+          "Regel",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "Wie lange dauert eine kleine Strafe im Eishockey?",
+        "options": [
+          "1 Minute",
+          "2 Minuten",
+          "3 Minuten",
+          "5 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine kleine Strafe dauert 2 Minuten.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 40",
+          "chapter": "Regel 17 – Strafen"
+        },
+        "tags": [
+          "Strafe",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q11",
+        "text": "Welche Maße hat ein offizieller Eishockey-Puck nach IIHF-Regeln?",
+        "options": [
+          "2,5 cm dick, 7,6 cm Durchmesser, 156–170 g",
+          "3 cm dick, 8 cm Durchmesser, 140–150 g",
+          "2 cm dick, 7 cm Durchmesser, 180–200 g",
+          "2,8 cm dick, 7,8 cm Durchmesser, 160–180 g"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Puck besteht aus vulkanisiertem Gummi, ist 2,5 cm dick, hat 7,6 cm Durchmesser und wiegt zwischen 156 und 170 g.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 56",
+          "chapter": "Regel 13 – Puck"
+        },
+        "tags": [
+          "Definition",
+          "Ausrüstung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Wie viele Spieler umfasst eine vollständige Mannschaftsliste laut IIHF-Regeln?",
+        "options": [
+          "15 Spieler",
+          "18 Spieler",
+          "20 Spieler + 2 Torhüter",
+          "25 Spieler"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine Mannschaft darf maximal 20 Feldspieler und 2 Torhüter auf der offiziellen Liste haben.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 39",
+          "chapter": "Regel 5 – Mannschaften"
+        },
+        "tags": [
+          "Regel",
+          "Mannschaften"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Welche Aufgabe hat der Kapitän einer Mannschaft auf dem Eis?",
+        "options": [
+          "Er darf alle taktischen Entscheidungen treffen",
+          "Er ist der einzige, der mit dem Schiedsrichter über Regelauslegungen sprechen darf",
+          "Er darf Strafen aufheben",
+          "Er entscheidet über Spielerwechsel"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Kapitän ist die einzige Person, die das Recht hat, mit dem Schiedsrichter über Regelauslegungen zu sprechen.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 41",
+          "chapter": "Regel 6 – Kapitän und Assistenzkapitän"
+        },
+        "tags": [
+          "Regel",
+          "Verantwortung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q14",
+        "text": "Welche Farbe muss die Kickleiste am unteren Ende der Bande haben?",
+        "options": [
+          "Rot",
+          "Blau",
+          "Gelb",
+          "Weiß"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Kickleiste am unteren Ende der Bande muss in einer hellgelben Farbe gestaltet sein.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 31",
+          "chapter": "Regel 1 – Stadion"
+        },
+        "tags": [
+          "Spielfeld",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q15",
+        "text": "Welche Strafe wird verhängt, wenn ein Spieler ohne Helm am Spiel teilnimmt?",
+        "options": [
+          "Keine Strafe",
+          "Kleine Strafe",
+          "Große Strafe",
+          "Matchstrafe"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Spieler ohne korrekt befestigten Helm wird mit einer kleinen Strafe belegt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 46",
+          "chapter": "Regel 9 – Helme"
+        },
+        "tags": [
+          "Strafe",
+          "Ausrüstung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Was geschieht, wenn ein Team weniger als 4 Spieler stellen kann?",
+        "options": [
+          "Das Spiel wird verschoben",
+          "Das Spiel wird für verloren erklärt",
+          "Das Spiel wird ohne Strafe fortgesetzt",
+          "Das Team darf weitere Spieler nachmelden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wenn ein Team nicht mindestens 4 Spieler (3 Feldspieler + 1 Torhüter) stellen kann, verliert es das Spiel.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 39",
+          "chapter": "Regel 5 – Mannschaften"
+        },
+        "tags": [
+          "Regel",
+          "Mannschaften"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q17",
+        "text": "Wie groß ist der Radius eines Anspielkreises in der Mitte des Spielfeldes?",
+        "options": [
+          "3,0 m",
+          "4,5 m",
+          "5,0 m",
+          "6,0 m"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Anspielkreis in der Mitte hat einen Radius von 4,5 Metern.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 34",
+          "chapter": "Regel 1 – Anspielpunkte und Kreise"
+        },
+        "tags": [
+          "Spielfeld",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Welche Mindesthöhe muss das Schutzglas hinter den Toren haben?",
+        "options": [
+          "1,8 m",
+          "2,4 m",
+          "3,0 m",
+          "3,5 m"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Schutzglas hinter den Toren muss mindestens 2,4 Meter hoch sein.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 32",
+          "chapter": "Regel 1 – Schutzglas"
+        },
+        "tags": [
+          "Spielfeld",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Welche Strafe wird beim Beinstellen typischerweise ausgesprochen?",
+        "options": [
+          "Kleine Strafe",
+          "Große Strafe",
+          "Matchstrafe",
+          "Keine Strafe"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beinstellen wird im Normalfall mit einer kleinen Strafe geahndet.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 118",
+          "chapter": "Regel 57 – Beinstellen"
+        },
+        "tags": [
+          "Strafe",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Wie lange dauert eine große Strafe im Eishockey?",
+        "options": [
+          "2 Minuten",
+          "3 Minuten",
+          "5 Minuten",
+          "10 Minuten"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine große Strafe dauert 5 Minuten, während der Spieler vom Eis bleibt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 63",
+          "chapter": "Regel 20 – Große Strafen"
+        },
+        "tags": [
+          "Strafe",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q21",
+        "text": "Welche maximale Länge darf ein Spielerstock nach IIHF-Regeln haben?",
+        "options": [
+          "1,50 m",
+          "1,63 m",
+          "1,70 m",
+          "1,80 m"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Spielerstock darf höchstens 1,63 m lang sein. Nur bei Ausnahmen für sehr große Spieler bis 2,0 m Körpergröße sind 1,65 m erlaubt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 49",
+          "chapter": "Regel 10 – Stöcke"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Definition"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q22",
+        "text": "Welche Farbe muss der Knauf eines Torhüterstocks haben?",
+        "options": [
+          "Rot",
+          "Gelb",
+          "Weiß",
+          "Schwarz"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Knauf am oberen Ende des Torhüterstocks muss mit weißem Klebeband oder einem genehmigten Material versehen sein.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 50",
+          "chapter": "Regel 10 – Stöcke"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Torhüter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Was passiert, wenn ein Spieler einen gebrochenen Stock weiter benutzt?",
+        "options": [
+          "Keine Konsequenz",
+          "Er muss sofort zur Bank wechseln",
+          "Er erhält eine kleine Strafe",
+          "Das Tor des Gegners zählt automatisch"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Spieler, der mit einem gebrochenen Stock weiterspielt, wird mit einer kleinen Strafe belegt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 50",
+          "chapter": "Regel 10 – Gebrochener Stock"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Strafe"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q24",
+        "text": "Welche Höchstbreite darf die Fanghand eines Torhüters haben?",
+        "options": [
+          "20 cm",
+          "25 cm",
+          "30 cm",
+          "45 cm"
+        ],
+        "correctIndex": 3,
+        "explanation": "Der maximal erlaubte Umfang der Fanghand beträgt 114,3 cm (45 Zoll).",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 54",
+          "chapter": "Regel 11 – Fanghandschuh"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Torhüter"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q25",
+        "text": "Wie lange dauert eine Disziplinarstrafe für Spieler (außer Torhüter)?",
+        "options": [
+          "2 Minuten",
+          "5 Minuten",
+          "10 Minuten",
+          "Bis zum Ende des Drittels"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine Disziplinarstrafe dauert 10 Minuten, ein Ersatzspieler darf den Strafplatz sofort einnehmen.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 66",
+          "chapter": "Regel 22 – Disziplinarstrafen"
+        },
+        "tags": [
+          "Strafe",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q26",
+        "text": "Was geschieht bei einer zweiten Disziplinarstrafe für denselben Spieler im Spiel?",
+        "options": [
+          "Es bleibt bei 10 Minuten",
+          "Er wird automatisch mit einer Spieldauer-Disziplinarstrafe belegt",
+          "Er darf ersetzt werden",
+          "Er wird für die nächsten zwei Spiele gesperrt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei einer zweiten Disziplinarstrafe im selben Spiel folgt automatisch eine Spieldauer-Disziplinarstrafe.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 66",
+          "chapter": "Regel 22 – Disziplinarstrafen"
+        },
+        "tags": [
+          "Strafe",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Wie viele Kategorien von Disziplinarmaßnahmen gibt es für Spieldauer-Disziplinarstrafen?",
+        "options": [
+          "2 Kategorien",
+          "3 Kategorien",
+          "4 Kategorien",
+          "5 Kategorien"
+        ],
+        "correctIndex": 2,
+        "explanation": "Es gibt vier Kategorien: Allgemeine, Beschimpfung von Offiziellen, Stockvergehen und körperliche Vergehen.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 67",
+          "chapter": "Regel 23 – Spieldauer-Disziplinarstrafen"
+        },
+        "tags": [
+          "Strafe",
+          "Definition"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q28",
+        "text": "Welche Bewegung ist bei einem Strafschuss nicht erlaubt?",
+        "options": [
+          "Schuss in den Winkel",
+          "Spin-o-rama-Bewegung",
+          "Lacrosse-ähnlicher Move",
+          "Schuss unter die Latte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Spin-o-rama-Bewegung ist ausdrücklich verboten, während der Lacrosse-Move erlaubt ist, solange der Puck nicht über Schulterhöhe geht.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 68",
+          "chapter": "Regel 24 – Strafschuss"
+        },
+        "tags": [
+          "Strafschuss",
+          "Ausnahme"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Wie viele Bedingungen müssen erfüllt sein, damit ein Strafschuss ausgesprochen wird?",
+        "options": [
+          "2 Bedingungen",
+          "3 Bedingungen",
+          "4 Bedingungen",
+          "5 Bedingungen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Es gibt vier Bedingungen: Vergehen in Neutral- oder Angriffszone, von hinten, Besitz des Pucks und keine Verteidiger zwischen Spieler und Torhüter.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 70",
+          "chapter": "Regel 24 – Strafschuss"
+        },
+        "tags": [
+          "Strafschuss",
+          "Definition"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q30",
+        "text": "Wie lange dauert eine große Strafe und darf sie verkürzt werden, wenn ein Tor fällt?",
+        "options": [
+          "5 Minuten, bleibt vollständig bestehen",
+          "5 Minuten, kann bei Tor verkürzt werden",
+          "10 Minuten, bleibt bestehen",
+          "2 Minuten, kann bei Tor verkürzt werden"
+        ],
+        "correctIndex": 0,
+        "explanation": "Eine große Strafe dauert 5 Minuten und läuft unabhängig von Toren vollständig ab.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 63",
+          "chapter": "Regel 20 – Große Strafen"
+        },
+        "tags": [
+          "Strafe",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q31",
+        "text": "Wann spricht der Schiedsrichter eine Strafe wegen Bandenchecks aus?",
+        "options": [
+          "Wenn ein wehrloser Spieler gefährlich gegen die Bande gecheckt wird",
+          "Wenn ein Spieler den Puck an der Bande spielt",
+          "Wenn ein Spieler in die Bande läuft",
+          "Wenn ein Spieler einen Schuss gegen die Bande abgibt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Bandencheck liegt vor, wenn ein wehrloser Gegenspieler so gecheckt wird, dass er gefährlich gegen die Bande prallt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 98",
+          "chapter": "Regel 41 – Bandencheck"
+        },
+        "tags": [
+          "Strafe",
+          "Körperliches Vergehen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q32",
+        "text": "Welche Strafe ist bei einem Check von hinten mindestens vorgesehen?",
+        "options": [
+          "Kleine Strafe",
+          "Große Strafe",
+          "Matchstrafe",
+          "Keine Strafe"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Check von hinten wird mindestens mit einer großen Strafe geahndet, da es ein besonders gefährliches Vergehen ist.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 100",
+          "chapter": "Regel 43 – Check von hinten"
+        },
+        "tags": [
+          "Strafe",
+          "Körperliches Vergehen"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q33",
+        "text": "Was versteht man unter einem Ellbogencheck?",
+        "options": [
+          "Die Benutzung des Ellbogens, um den Gegner zu treffen",
+          "Das Führen des Stocks mit dem Ellbogen",
+          "Das Abstützen des Ellbogens auf der Bande",
+          "Das Abblocken eines Schusses mit dem Ellbogen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Ellbogencheck bedeutet, dass ein Spieler seinen Ellbogen benutzt, um einen Gegner zu treffen.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 101",
+          "chapter": "Regel 45 – Ellbogencheck"
+        },
+        "tags": [
+          "Definition",
+          "Körperliches Vergehen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q34",
+        "text": "Welche Strafe droht bei einem Kopfstoß?",
+        "options": [
+          "Doppelte kleine Strafe oder mehr",
+          "Nur eine Verwarnung",
+          "Keine Strafe, wenn der Gegner geschützt ist",
+          "Nur bei Torhütern anwendbar"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Kopfstoß zieht mindestens eine doppelte kleine Strafe nach sich, kann aber auch mit einer großen oder Matchstrafe geahndet werden.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 105",
+          "chapter": "Regel 47 – Kopfstoß"
+        },
+        "tags": [
+          "Strafe",
+          "Körperliches Vergehen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Wann liegt ein illegaler Check gegen den Kopf vor?",
+        "options": [
+          "Wenn der Kopf der Hauptkontaktpunkt ist",
+          "Wenn der Körper zuerst getroffen wird",
+          "Wenn der Spieler den Kopf gesenkt hat",
+          "Wenn beide Spieler auf gleicher Höhe sind"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein illegaler Check gegen den Kopf liegt vor, wenn der Kopf der Hauptkontaktpunkt war und der Treffer vermeidbar gewesen wäre.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 106",
+          "chapter": "Regel 48 – Illegaler Check gegen Kopf und Nackenbereich"
+        },
+        "tags": [
+          "Strafe",
+          "Körperliches Vergehen"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q36",
+        "text": "Welche Strafe wird für Tritte gegen Spieler verhängt?",
+        "options": [
+          "Kleine Strafe",
+          "Große Strafe",
+          "Matchstrafe",
+          "Disziplinarstrafe"
+        ],
+        "correctIndex": 2,
+        "explanation": "Treten oder der Versuch des Tretens wird immer mit einer Matchstrafe belegt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 107",
+          "chapter": "Regel 49 – Treten"
+        },
+        "tags": [
+          "Strafe",
+          "Körperliches Vergehen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Was beschreibt der Begriff 'Slew-Footing'?",
+        "options": [
+          "Das Wegstoßen der Füße des Gegners mit gleichzeitiger Zugbewegung am Oberkörper",
+          "Ein Schuss mit dem Schlittschuh",
+          "Ein Check mit dem Knie",
+          "Das Abbremsen vor der Bande"
+        ],
+        "correctIndex": 0,
+        "explanation": "Slew-Footing beschreibt das gleichzeitige Ziehen am Oberkörper und Wegstoßen der Beine des Gegners, wodurch dieser stürzt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 109",
+          "chapter": "Regel 52 – Slew-Footing"
+        },
+        "tags": [
+          "Definition",
+          "Körperliches Vergehen"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q38",
+        "text": "Welche Strafe ist bei einem Stockendenstoß vorgesehen?",
+        "options": [
+          "Doppelte kleine Strafe oder mehr",
+          "Nur eine Verwarnung",
+          "Keine Strafe",
+          "Nur bei Torhütern anwendbar"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Stockendenstoß zieht mindestens eine doppelte kleine Strafe nach sich, kann aber auch mit großer oder Matchstrafe geahndet werden.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 121",
+          "chapter": "Regel 58 – Stockendenstoß"
+        },
+        "tags": [
+          "Strafe",
+          "Stockvergehen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Wann wird ein hoher Stock gepfiffen?",
+        "options": [
+          "Wenn der Stock oberhalb der Schulterhöhe geführt wird",
+          "Wenn der Stock tiefer als die Knie geführt wird",
+          "Wenn der Stock auf der Bank abgelegt wird",
+          "Wenn der Stock gebrochen ist"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein hoher Stock liegt vor, wenn der Stock oberhalb der Schulterhöhe des Gegenspielers geführt wird.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 122",
+          "chapter": "Regel 60 – Hoher Stock"
+        },
+        "tags": [
+          "Definition",
+          "Stockvergehen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q40",
+        "text": "Welche Strafe ist beim Stockstich mindestens vorgesehen?",
+        "options": [
+          "Doppelte kleine Strafe",
+          "Kleine Strafe",
+          "Große Strafe",
+          "Keine Strafe"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Stockstich zieht mindestens eine doppelte kleine Strafe nach sich.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 124",
+          "chapter": "Regel 62 – Stockstich"
+        },
+        "tags": [
+          "Strafe",
+          "Stockvergehen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q41",
+        "text": "Wann wird eine Strafe wegen Haltens ausgesprochen?",
+        "options": [
+          "Wenn ein Spieler den Gegner mit Händen, Armen oder Beinen festhält",
+          "Wenn ein Spieler länger als 3 Sekunden am Puck bleibt",
+          "Wenn ein Spieler die Bande berührt",
+          "Wenn ein Spieler in der Neutralzone stehen bleibt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Halten bedeutet, den Gegenspieler mit Armen, Händen oder Beinen am Weiterkommen zu hindern.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 113",
+          "chapter": "Regel 54 – Halten"
+        },
+        "tags": [
+          "Strafe",
+          "Destruktives Vergehen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q42",
+        "text": "Was ist die typische Strafe für Haken?",
+        "options": [
+          "Kleine Strafe",
+          "Große Strafe",
+          "Matchstrafe",
+          "Keine Strafe"
+        ],
+        "correctIndex": 0,
+        "explanation": "Haken wird in den meisten Fällen mit einer kleinen Strafe belegt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 114",
+          "chapter": "Regel 55 – Haken"
+        },
+        "tags": [
+          "Strafe",
+          "Destruktives Vergehen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q43",
+        "text": "Was gilt als Behinderung?",
+        "options": [
+          "Wenn ein Spieler einen Gegner ohne Puckbesitz am Laufen hindert",
+          "Wenn ein Spieler den Puck kontrolliert",
+          "Wenn ein Spieler im Torraum steht",
+          "Wenn ein Spieler ein Icing verursacht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Behinderung liegt vor, wenn ein Spieler einen Gegenspieler ohne Puckbesitz blockiert oder dessen Bewegung einschränkt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 115",
+          "chapter": "Regel 56 – Behinderung"
+        },
+        "tags": [
+          "Definition",
+          "Destruktives Vergehen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Was beschreibt Beinstellen?",
+        "options": [
+          "Das Benutzen von Stock oder Körper, um einen Gegner zum Fallen zu bringen",
+          "Das Schieben gegen die Bande",
+          "Das Verzögern beim Anspiel",
+          "Das Blockieren des Pucks mit dem Schlittschuh"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beinstellen liegt vor, wenn ein Spieler mit Stock oder Körper den Gegner absichtlich zum Stolpern bringt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 118",
+          "chapter": "Regel 57 – Beinstellen"
+        },
+        "tags": [
+          "Definition",
+          "Destruktives Vergehen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q45",
+        "text": "Wann wird eine Strafe wegen Spielverzögerung verhängt?",
+        "options": [
+          "Wenn der Puck absichtlich aus dem Spielfeld geschossen wird",
+          "Wenn ein Spieler den Schläger verliert",
+          "Wenn ein Spieler einen Wechsel durchführt",
+          "Wenn der Schiedsrichter das Spiel unterbricht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Spielverzögerung liegt vor, wenn der Puck absichtlich aus dem Spielfeld geschossen oder ein Tor absichtlich verschoben wird.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 126",
+          "chapter": "Regel 63 – Spielverzögerung"
+        },
+        "tags": [
+          "Strafe",
+          "Andere Vergehen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q46",
+        "text": "Was versteht man unter einer 'Schwalbe'?",
+        "options": [
+          "Das absichtliche Fallenlassen oder Vortäuschen einer Strafe",
+          "Ein Pass mit der Hand",
+          "Das Abwehren des Pucks mit dem Stock",
+          "Ein hoher Stock"
+        ],
+        "correctIndex": 0,
+        "explanation": "Eine Schwalbe liegt vor, wenn ein Spieler eine Strafe vortäuscht oder übertreibt, um den Schiedsrichter zu täuschen.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 129",
+          "chapter": "Regel 64 – Schwalbe"
+        },
+        "tags": [
+          "Definition",
+          "Unsportlich"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q47",
+        "text": "Welche Handlung eines Torhüters führt zu einer Strafe wegen Spielverzögerung?",
+        "options": [
+          "Den Puck länger als 3 Sekunden festhalten",
+          "Den Puck abwehren",
+          "Den Puck abgeben",
+          "Den Puck an den Pfosten lenken"
+        ],
+        "correctIndex": 0,
+        "explanation": "Wenn der Torhüter den Puck länger als 3 Sekunden festhält, ohne bedrängt zu sein, wird eine Strafe wegen Spielverzögerung verhängt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 131",
+          "chapter": "Regel 67 – Behandlung des Pucks"
+        },
+        "tags": [
+          "Torhüter",
+          "Strafe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q48",
+        "text": "Was passiert, wenn ein Team zu viele Spieler auf dem Eis hat?",
+        "options": [
+          "Kleine Bankstrafe",
+          "Große Strafe",
+          "Matchstrafe",
+          "Keine Strafe"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bei zu vielen Spielern auf dem Eis wird eine kleine Bankstrafe verhängt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 141",
+          "chapter": "Regel 74 – Zu viele Spieler auf dem Eis"
+        },
+        "tags": [
+          "Mannschaft",
+          "Strafe"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q49",
+        "text": "Welche Dauer hat eine Auszeit im IIHF-Regelwerk?",
+        "options": [
+          "30 Sekunden",
+          "45 Sekunden",
+          "1 Minute",
+          "2 Minuten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Eine Auszeit im IIHF-Regelwerk dauert 30 Sekunden.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 168",
+          "chapter": "Regel 87 – Time-out"
+        },
+        "tags": [
+          "Zeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q50",
+        "text": "Wann liegt Abseits vor?",
+        "options": [
+          "Wenn der Puck die gegnerische blaue Linie nach einem Spieler überquert",
+          "Wenn der Spieler vor dem Puck die blaue Linie betritt",
+          "Wenn der Torhüter das Tor verlässt",
+          "Wenn die Mittellinie überquert wird"
+        ],
+        "correctIndex": 1,
+        "explanation": "Abseits liegt vor, wenn ein Spieler die gegnerische blaue Linie betritt, bevor der Puck diese Linie überquert.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 159",
+          "chapter": "Regel 83 – Abseits"
+        },
+        "tags": [
+          "Definition",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q51",
+        "text": "Wann wird eine Strafe wegen unsportlichen Verhaltens ausgesprochen?",
+        "options": [
+          "Bei beleidigender Sprache oder Gesten",
+          "Wenn ein Spieler ein Tor erzielt",
+          "Wenn ein Spieler auf der Bank sitzt",
+          "Wenn der Puck ins Aus geht"
+        ],
+        "correctIndex": 0,
+        "explanation": "Unsportliches Verhalten umfasst u. a. beleidigende Sprache oder Gesten gegen Offizielle oder Gegenspieler.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 142",
+          "chapter": "Regel 75 – Unsportliches Verhalten"
+        },
+        "tags": [
+          "Strafe",
+          "Unsportlich"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q52",
+        "text": "Wie lange dauert die Drittelpause in einem IIHF-Spiel?",
+        "options": [
+          "10 Minuten",
+          "15 Minuten",
+          "20 Minuten",
+          "25 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Pausen zwischen den Dritteln dauern 15 Minuten, sofern nichts anderes festgelegt wird.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 151",
+          "chapter": "Regel 77 – Pausenzeiten"
+        },
+        "tags": [
+          "Zeit",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q53",
+        "text": "Wann liegt Icing vor?",
+        "options": [
+          "Wenn der Puck von der eigenen Hälfte über zwei Linien bis hinter die Torlinie geschossen wird",
+          "Wenn ein Spieler ohne Helm spielt",
+          "Wenn ein Spieler die blaue Linie überquert",
+          "Wenn der Torhüter den Puck hält"
+        ],
+        "correctIndex": 0,
+        "explanation": "Icing liegt vor, wenn ein Spieler den Puck von der eigenen Hälfte über die gegnerische Torlinie schießt, ohne dass er berührt wird.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 155",
+          "chapter": "Regel 81 – Icing"
+        },
+        "tags": [
+          "Definition",
+          "Spielablauf"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q54",
+        "text": "Was passiert, wenn ein Spieler den Puck mit der Hand ins Tor lenkt?",
+        "options": [
+          "Das Tor wird nicht anerkannt",
+          "Das Tor zählt immer",
+          "Das Tor zählt nur, wenn es in der Verlängerung fällt",
+          "Das Tor wird nur gegeben, wenn es vom Verteidiger abgelenkt wird"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Tor zählt nicht, wenn ein Spieler den Puck absichtlich mit der Hand ins Tor lenkt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 132",
+          "chapter": "Regel 67 – Behandlung des Pucks"
+        },
+        "tags": [
+          "Tor",
+          "Ausnahme"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q55",
+        "text": "Welche Strafe wird verhängt, wenn ein Torhüter seinen Helm absichtlich abnimmt, um eine Unterbrechung zu erzwingen?",
+        "options": [
+          "Kleine Strafe wegen Spielverzögerung",
+          "Keine Strafe",
+          "Große Strafe",
+          "Disziplinarstrafe"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein absichtliches Abnehmen des Helms durch den Torhüter wird mit einer kleinen Strafe wegen Spielverzögerung geahndet.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 47",
+          "chapter": "Regel 9 – Helme"
+        },
+        "tags": [
+          "Torhüter",
+          "Strafe"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q56",
+        "text": "Welche Spielfortsetzung erfolgt nach einem anerkannten Tor?",
+        "options": [
+          "Anspiel in der Mitte",
+          "Anspiel in der Angriffszone",
+          "Anspiel in der Verteidigungszone",
+          "Bully an der blauen Linie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach einem gültigen Tor erfolgt das nächste Anspiel in der Mitte des Spielfelds.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 151",
+          "chapter": "Regel 78 – Tore"
+        },
+        "tags": [
+          "Tor",
+          "Spielablauf"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q57",
+        "text": "Welche Schutzvorrichtung ist für alle Spieler in IIHF-Wettbewerben verpflichtend?",
+        "options": [
+          "Nackenschutz",
+          "Zahnschutz",
+          "Handschuhe",
+          "Gesichtsschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein spezieller Nacken- und Halsschutz ist für alle Spieler in IIHF-Wettbewerben vorgeschrieben.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 49",
+          "chapter": "Regel 9 – Nacken- und Halsschutz"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q58",
+        "text": "Welcher Gesichtsschutz ist im Fraueneishockey U18 verpflichtend?",
+        "options": [
+          "Kein Schutz",
+          "Nur ein Visier",
+          "Vollgesichtsschutz",
+          "Halbes Visier"
+        ],
+        "correctIndex": 2,
+        "explanation": "Im Fraueneishockey der U18-Kategorie ist ein Vollgesichtsschutz verpflichtend.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 171",
+          "chapter": "Regel 102 – Fraueneishockey Ausrüstungsregeln"
+        },
+        "tags": [
+          "Frauen",
+          "Ausrüstung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q59",
+        "text": "Welche Besonderheit gilt für Nachwuchseishockeyspieler U20 bei der Ausrüstung?",
+        "options": [
+          "Zahnschutz ist verpflichtend",
+          "Keine Helmpflicht",
+          "Nur Handschuhe sind vorgeschrieben",
+          "Ohne Gesichtsschutz erlaubt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nachwuchsspieler der Kategorie U20 müssen verpflichtend Zahnschutz tragen.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 175",
+          "chapter": "Regel 202 – Nachwuchseishockey Ausrüstungsregeln"
+        },
+        "tags": [
+          "Nachwuchs",
+          "Ausrüstung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q60",
+        "text": "Wie groß ist die offizielle Spielfläche laut IIHF-Regeln?",
+        "options": [
+          "60 m × 30 m (mit Toleranzen)",
+          "50 m × 25 m",
+          "70 m × 40 m",
+          "65 m × 35 m"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die offizielle Eisfläche ist 60 m lang und 26–30 m breit, mit abgerundeten Ecken.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 31",
+          "chapter": "Regel 1 – Spielfläche"
+        },
+        "tags": [
+          "Spielfeld",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q61",
+        "text": "Welche Strafe wird verhängt, wenn ein Torhüter den Puck absichtlich außerhalb des markierten Bereichs hinter dem Tor spielt?",
+        "options": [
+          "Kleine Strafe wegen Spielverzögerung",
+          "Große Strafe",
+          "Disziplinarstrafe",
+          "Keine Strafe"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Torhüter darf den Puck hinter dem Tor nur im markierten trapezförmigen Bereich spielen. Bei Verstoß folgt eine kleine Strafe.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 74",
+          "chapter": "Regel 27 – Eingeschränkter Torhüterbereich"
+        },
+        "tags": [
+          "Torhüter",
+          "Strafe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q62",
+        "text": "Wann darf ein Linienrichter das Spiel wegen einer Verletzung unterbrechen?",
+        "options": [
+          "Wenn ein Spieler schwer verletzt ist",
+          "Wenn der Torhüter den Puck hält",
+          "Wenn der Puck die Bande berührt",
+          "Wenn der Schiedsrichter es anordnet"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Linienrichter darf das Spiel unterbrechen, wenn er erkennt, dass ein Spieler schwer verletzt ist.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 78",
+          "chapter": "Regel 32 – Linienrichter"
+        },
+        "tags": [
+          "Offizielle",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q63",
+        "text": "Was passiert bei einer erfolgreichen Coach’s Challenge?",
+        "options": [
+          "Die Entscheidung auf dem Eis wird geändert",
+          "Das Team verliert eine Auszeit",
+          "Der Trainer wird bestraft",
+          "Es wird automatisch ein Tor gegeben"
+        ],
+        "correctIndex": 0,
+        "explanation": "Eine erfolgreiche Coach’s Challenge führt dazu, dass die ursprüngliche Entscheidung auf dem Eis korrigiert wird.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 90",
+          "chapter": "Regel 38 – Coach’s Challenge"
+        },
+        "tags": [
+          "Coach’s Challenge",
+          "Regel"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q64",
+        "text": "Was geschieht bei einer nicht erfolgreichen Coach’s Challenge?",
+        "options": [
+          "Das Team erhält eine kleine Bankstrafe",
+          "Das Tor wird aberkannt",
+          "Es gibt keine Konsequenz",
+          "Der Trainer wird ausgeschlossen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bei einer erfolglosen Coach’s Challenge wird gegen das Team eine kleine Bankstrafe wegen Spielverzögerung verhängt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 91",
+          "chapter": "Regel 38 – Coach’s Challenge"
+        },
+        "tags": [
+          "Coach’s Challenge",
+          "Strafe"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q65",
+        "text": "Welche Strafe droht, wenn ein Spieler einen Offiziellen beleidigt?",
+        "options": [
+          "Kleine Strafe, Disziplinar- oder Spieldauerstrafe",
+          "Nur Verwarnung",
+          "Keine Strafe",
+          "Automatische Matchstrafe"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beschimpfungen von Offiziellen können mit kleiner Strafe, Disziplinarstrafe oder sogar Spieldauerstrafe geahndet werden.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 92",
+          "chapter": "Regel 39 – Beschimpfung von Offiziellen"
+        },
+        "tags": [
+          "Offizielle",
+          "Strafe"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q66",
+        "text": "Welche Strafe wird verhängt, wenn ein Spieler körperlich gegen einen Offiziellen vorgeht?",
+        "options": [
+          "Spieldauer-Disziplinarstrafe und mögliche Sperren",
+          "Kleine Strafe",
+          "Große Strafe",
+          "Keine Strafe"
+        ],
+        "correctIndex": 0,
+        "explanation": "Körperliche Tätlichkeiten gegen Offizielle führen mindestens zu einer Spieldauer-Disziplinarstrafe, ergänzt durch Sperren.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 95",
+          "chapter": "Regel 40 – Physische Tätlichkeiten gegen Offizielle"
+        },
+        "tags": [
+          "Offizielle",
+          "Strafe"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q67",
+        "text": "Wann wird eine Strafe für hohen Stock automatisch doppelt verhängt?",
+        "options": [
+          "Wenn eine Verletzung mit Blut resultiert",
+          "Wenn der Stock über die Latte geführt wird",
+          "Wenn der Stock im Torraum benutzt wird",
+          "Wenn der Stock beim Bully hochgeführt wird"
+        ],
+        "correctIndex": 0,
+        "explanation": "Eine doppelte kleine Strafe wegen hohen Stocks ist vorgesehen, wenn der Gegner dabei verletzt wird und Blut fließt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 122",
+          "chapter": "Regel 60 – Hoher Stock"
+        },
+        "tags": [
+          "Strafe",
+          "Stockvergehen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q68",
+        "text": "Was passiert, wenn ein Torhüter während eines Strafschusses seinen Helm absichtlich abnimmt?",
+        "options": [
+          "Ein Tor wird automatisch gegeben",
+          "Der Strafschuss wird wiederholt",
+          "Der Torhüter erhält nur eine Verwarnung",
+          "Das Spiel wird unterbrochen ohne Konsequenzen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nimmt der Torhüter während eines Strafschusses absichtlich seinen Helm ab, wird automatisch ein Tor gegeben.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 47",
+          "chapter": "Regel 9 – Helme"
+        },
+        "tags": [
+          "Torhüter",
+          "Strafschuss"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q69",
+        "text": "Welche Spielfortsetzung folgt, wenn ein Tor wegen Torhüterbehinderung aberkannt wird?",
+        "options": [
+          "Anspiel in der neutralen Zone",
+          "Anspiel in der Angriffszone",
+          "Anspiel im Torraum",
+          "Anspiel an der Mittellinie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Wenn ein Tor wegen Torhüterbehinderung aberkannt wird, findet das nächste Anspiel in der neutralen Zone statt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 135",
+          "chapter": "Regel 69 – Behinderung am Torhüter"
+        },
+        "tags": [
+          "Torhüter",
+          "Tor"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q70",
+        "text": "Welche Konsequenz hat ein Faustkampf im internationalen Eishockey?",
+        "options": [
+          "Große Strafe + Spieldauer-Disziplinarstrafe",
+          "Nur Verwarnung",
+          "Kleine Strafe",
+          "Keine Strafe"
+        ],
+        "correctIndex": 0,
+        "explanation": "Faustkämpfe werden mit einer großen Strafe plus Spieldauer-Disziplinarstrafe geahndet.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 102",
+          "chapter": "Regel 46 – Faustkampf"
+        },
+        "tags": [
+          "Strafe",
+          "Körperliches Vergehen"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q71",
+        "text": "Wann wird ein Spieler beim Anspiel vom Anspielpunkt entfernt?",
+        "options": [
+          "Wenn er zu früh in den Anspielkreis eindringt oder nicht korrekt steht",
+          "Wenn er seine Schlittschuhe nicht schnürt",
+          "Wenn er den Schläger mit der falschen Hand hält",
+          "Wenn er mit einem farbigen Mundschutz spielt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Verstöße gegen die Face-off-Prozedur wie vorzeitiges Eindringen oder falsche Position führen zum Wechsel des einwerfenden Spielers.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 148",
+          "chapter": "Regel 76 – Anspielverfahren"
+        },
+        "tags": [
+          "Spielablauf",
+          "Regel"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q72",
+        "text": "Welche Konsequenz hat ein Handpass in der Verteidigungszone des eigenen Teams?",
+        "options": [
+          "Das Spiel läuft weiter",
+          "Kleine Strafe gegen den Passgeber",
+          "Anspiel in der neutralen Zone",
+          "Tor wird automatisch aberkannt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Handpässe sind in der eigenen Verteidigungszone erlaubt; in anderen Zonen führen sie zur Spielunterbrechung und Anspiel.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 133",
+          "chapter": "Regel 67 – Behandlung des Pucks (Handpass)"
+        },
+        "tags": [
+          "Ausnahme",
+          "Spielablauf"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q73",
+        "text": "Wann wird ein verzögertes Abseits aufgehoben?",
+        "options": [
+          "Wenn alle angreifenden Spieler die Angriffszone verlassen und den Puck nicht berühren",
+          "Wenn der Puck die Mittellinie überschreitet",
+          "Wenn der Torhüter den Puck einfriert",
+          "Wenn die verteidigende Mannschaft den Puck berührt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beim verzögerten Abseits wird das Spiel fortgesetzt, bis die Angreifer die Zone räumen; dann ist das Abseits aufgehoben.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 160",
+          "chapter": "Regel 83 – Abseits (verzögert)"
+        },
+        "tags": [
+          "Regel",
+          "Spielablauf"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q74",
+        "text": "Welche Ausnahme hebt ein mögliches Icing auf?",
+        "options": [
+          "Wenn ein verteidigender Spieler den Puck vor der Torlinie spielen könnte (No-Touch-Icing mit Hybrid-Bewertung)",
+          "Wenn der Schütze Linkshänder ist",
+          "Wenn die Schussstärke hoch ist",
+          "Wenn das Publikum laut ist"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beim Hybrid-Icing wird das Icing aufgehoben, wenn der Verteidiger nach Einschätzung zuerst an den Puck käme.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 156",
+          "chapter": "Regel 81 – Icing (Hybrid)"
+        },
+        "tags": [
+          "Ausnahme",
+          "Spielablauf"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q75",
+        "text": "Wann liegt Torhüterbehinderung vor?",
+        "options": [
+          "Wenn ein Angreifer den Torhüter im Torraum beeinträchtigt",
+          "Wenn ein Angreifer außerhalb des Torraums steht",
+          "Wenn der Torhüter außerhalb des Torraums agiert",
+          "Wenn ein Verteidiger den Torhüter berührt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jede Beeinträchtigung des Torhüters im Torraum durch einen Angreifer kann zur Aberkennung eines Tores führen.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 134–136",
+          "chapter": "Regel 69 – Behinderung am Torhüter"
+        },
+        "tags": [
+          "Torhüter",
+          "Tor"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q76",
+        "text": "Was gilt für einen Torerfolg, wenn der Puck mit einem hohen Stock direkt ins Tor befördert wird?",
+        "options": [
+          "Das Tor zählt nicht",
+          "Das Tor zählt",
+          "Es gibt eine doppelte kleine Strafe",
+          "Das Tor zählt nur bei Unterzahl"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein mit hohem Stock (über Schulterhöhe) direkt erzieltes Tor wird nicht anerkannt.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 123",
+          "chapter": "Regel 60 – Hoher Stock (Torerzielung)"
+        },
+        "tags": [
+          "Tor",
+          "Ausnahme"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q77",
+        "text": "Wann darf ein Spieler mit gebrochenem Stock den Puck spielen?",
+        "options": [
+          "Gar nicht; er muss den Stock sofort fallen lassen",
+          "Nur in der eigenen Zone",
+          "Nur wenn er Torhüter ist",
+          "Nach Anzeige einer Strafe"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Spieler mit gebrochenem Stock muss diesen sofort fallen lassen und darf den Puck nicht damit spielen.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 50",
+          "chapter": "Regel 10 – Gebrochener Stock"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Regel"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q78",
+        "text": "Welche Maßnahme ist bei einer fehlerhaften Ausrüstung während des Spiels vorgesehen?",
+        "options": [
+          "Der Spieler muss das Eis unverzüglich verlassen, um die Ausrüstung zu korrigieren",
+          "Kleine Strafe in jedem Fall",
+          "Weiterspielen bis zur nächsten Unterbrechung",
+          "Nur eine Verwarnung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Fehlerhafte oder unzulässige Ausrüstung ist umgehend zu korrigieren; der Spieler verlässt dazu das Eis.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 45",
+          "chapter": "Regel 9 – Ausrüstungsvorschriften"
+        },
+        "tags": [
+          "Ausrüstung",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q79",
+        "text": "Wann ist ein Tor gültig, wenn der Puck von einem Schlittschuh ins Tor geht?",
+        "options": [
+          "Wenn keine deutliche Kickbewegung vorliegt",
+          "Nur wenn der Puck den Schlittschuh eines Verteidigers berührt",
+          "Nie, Schlittschuhtore sind verboten",
+          "Nur bei Unterzahl"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Tor nach Ablenken vom Schlittschuh ist gültig, sofern keine aktive Kickbewegung zum Tor vorlag.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 136",
+          "chapter": "Regel 69 – Behinderung/Torerzielung (Ablenken)"
+        },
+        "tags": [
+          "Tor",
+          "Ausnahme"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q80",
+        "text": "Was passiert, wenn der Torhüter den Puck außerhalb des Torraums ohne Notwendigkeit zudeckt?",
+        "options": [
+          "Kleine Strafe wegen Spielverzögerung",
+          "Anspiel im Verteidigungsdrittel",
+          "Keine Konsequenz",
+          "Große Strafe"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das unnötige Zudecken des Pucks außerhalb des Torraums wird als Spielverzögerung mit kleiner Strafe geahndet.",
+        "source": {
+          "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
+          "pages": "S. 131–132",
+          "chapter": "Regel 67 – Behandlung des Pucks (Torhüter)"
+        },
+        "tags": [
+          "Torhüter",
+          "Strafe"
+        ],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}
