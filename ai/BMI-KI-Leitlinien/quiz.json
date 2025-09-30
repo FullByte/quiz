@@ -1,0 +1,1922 @@
+{
+  "quiz": {
+    "title": "BMI KI-Leitlinien für die Bundesverwaltung",
+    "description": "Teste dein Wissen über die Leitlinien für den Einsatz Künstlicher Intelligenz in der Bundesverwaltung. Der Fragenkatalog umfasst {questionCount} Fragen zu wertebasierten Leitprinzipien, Leitsätzen für Nutzende und Behörden sowie praktischen Aspekten des KI-Einsatzes.",
+    "language": "de",
+    "version": "1.0",
+    "sourceDocument": {
+      "title": "Leitlinien für den Einsatz Künstlicher Intelligenz in der Bundesverwaltung",
+      "version": "BMI25020",
+      "year": 2025,
+      "pdfFilename": "BMI25020-leitlinien-ki-bundesverwaltung.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true, 
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Wie wird ein KI-System gemäß Artikel 3 Absatz 1 der EU-KI-Verordnung definiert?",
+        "options": [
+          "Ein maschinengestütztes System, das für einen autonomen Betrieb ausgelegt ist und Ausgaben wie Vorhersagen erstellt",
+          "Eine Software, die ausschließlich auf von Menschen festgelegten Regeln basiert",
+          "Ein System, das nur mit personenbezogenen Daten arbeitet",
+          "Eine Anwendung, die ausschließlich zur Textgenerierung verwendet wird"
+        ],
+        "correctIndex": 0,
+        "explanation": "Laut KI-VO ist ein KI-System ein maschinengestütztes System, das für einen in unterschiedlichem Grade autonomen Betrieb ausgelegt ist, anpassungsfähig sein kann und Ausgaben wie Vorhersagen, Inhalte oder Entscheidungen erstellt.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Definition nach Art. 3 Abs. 1 KI-VO",
+          "pages": "S. 3",
+          "chapter": "1. Einleitung"
+        },
+        "tags": ["Definition", "KI-Verordnung", "Grundlagen"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welches der folgenden Leitprinzipien ist NICHT Teil der fünf übergeordneten Leitprinzipien der Bundesverwaltung?",
+        "options": [
+          "KI chancenorientiert und verantwortungsvoll für die Gesellschaft einsetzen",
+          "Wertebasierter und menschenzentrierter KI-Einsatz",
+          "Maximierung des wirtschaftlichen Gewinns durch KI",
+          "Vertrauenswürdige KI-Systeme einsetzen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die fünf Leitprinzipien sind: chancenorientiert und verantwortungsvoll, wertebasiert und menschenzentriert, vertrauenswürdig, Kompetenzstärkung und nachhaltiger gemeinsamer Einsatz. Gewinnmaximierung ist kein Leitprinzip.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Wertebasierte Leitprinzipien",
+          "pages": "S. 5",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Leitprinzipien", "Werte", "Grundlagen"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Was bedeutet 'angemessene menschliche Aufsicht' beim KI-Einsatz?",
+        "options": [
+          "KI-Systeme müssen vollständig von Menschen gesteuert werden",
+          "Die Verantwortung kann nicht an KI-Systeme abgegeben werden, Menschen behalten Letztentscheidung",
+          "Menschen müssen nur bei Fehlern eingreifen",
+          "KI-Systeme arbeiten völlig autonom ohne menschliche Kontrolle"
+        ],
+        "correctIndex": 1,
+        "explanation": "Angemessene menschliche Aufsicht bedeutet, dass die Verantwortung für Entscheidungen nicht an KI-Systeme abgegeben werden kann und Menschen die Letztentscheidung behalten müssen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Menschliche Aufsicht",
+          "pages": "S. 5-6",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Menschliche Aufsicht", "Verantwortung", "Grundsätze"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Welche Arten von KI-Systemen schließt die KI-VO in Artikel 5 aus?",
+        "options": [
+          "Systeme zur Textgenerierung",
+          "Systeme zur Klassifizierung von Personengruppen aufgrund ihres Verhaltens (Social Scoring)",
+          "Systeme zur Datenanalyse",
+          "Systeme zur Sprachübersetzung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die KI-VO schließt KI-Systeme mit unannehmbarem Risiko aus, wie die Klassifizierung von Personengruppen aufgrund ihres Verhaltens (Social Scoring) oder Emotionserkennung am Arbeitsplatz.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, KI-VO Artikel 5",
+          "pages": "S. 17",
+          "chapter": "3.2 Leitsatz B2"
+        },
+        "tags": ["KI-Verordnung", "Verbotene Systeme", "Social Scoring"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was sind Large Language Models (LLMs)?",
+        "options": [
+          "Einfache Algorithmen zur Texterkennung",
+          "Künstliche neuronale Netze, die auf großen Textkorpora trainiert wurden",
+          "Datenbanken für Sprachübersetzungen",
+          "Hardware-Komponenten für KI-Systeme"
+        ],
+        "correctIndex": 1,
+        "explanation": "LLMs sind künstliche neuronale Netze, die auf großen Textkorpora oder anderen Datenformaten trainiert wurden und auf generativen Modellen basieren.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, LLM Definition",
+          "pages": "S. 4",
+          "chapter": "1. Einleitung - Anwendungsbeispiel"
+        },
+        "tags": ["LLM", "Definition", "Neuronale Netze"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q6",
+        "text": "Welche Daten dürfen im restriktivsten Fall der Dateneingabe verwendet werden?",
+        "options": [
+          "Alle dienstlichen Daten",
+          "Personenbezogene Daten mit Einwilligung",
+          "Nur öffentliche Daten",
+          "Verschlusssachen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Im restriktivsten Fall sind lediglich öffentliche Daten für die Eingabe freigegeben, wie Daten aus dem eigenen Ressort für die Öffentlichkeit oder Open Data.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Restriktivster Fall",
+          "pages": "S. 14-15",
+          "chapter": "3.1 Leitsatz A3"
+        },
+        "tags": ["Dateneingabe", "Öffentliche Daten", "Beschränkungen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Was bedeutet 'Halluzinieren' bei LLM-Anwendungen?",
+        "options": [
+          "Die Erstellung besonders kreativer Texte",
+          "Die Erzeugung falscher Ausgaben, die plausibel wirken",
+          "Die Übersetzung in verschiedene Sprachen",
+          "Die Zusammenfassung langer Dokumente"
+        ],
+        "correctIndex": 1,
+        "explanation": "Halluzinieren bedeutet, dass LLM-Anwendungen fehlerhafte Ausgaben erzeugen, gegebenenfalls mit erfundenen Quellenangaben, die überzeugend als relevante Lösungen präsentiert werden.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Halluzinieren",
+          "pages": "S. 16",
+          "chapter": "3.1 Leitsatz A4"
+        },
+        "tags": ["LLM", "Halluzinieren", "Fehler"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Welche Maßnahme ist bei der Registrierung für externe KI-Systeme zu beachten?",
+        "options": [
+          "Verwendung der offiziellen dienstlichen E-Mail-Adresse",
+          "Minimierung der Datenpreisgabe mit pseudonymisierten Accounts",
+          "Angabe aller persönlichen Daten zur Identifikation",
+          "Nutzung privater Accounts und Geräte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei der Registrierung soll die Datenpreisgabe minimiert werden, grundsätzlich dürfen weder private noch offizielle personenbezogene Accounts verwendet werden. Pseudonymisierte Accounts sind zu bevorzugen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Datenpreisgabe minimieren",
+          "pages": "S. 11-12",
+          "chapter": "3.1 Leitsatz A2"
+        },
+        "tags": ["Registrierung", "Datenschutz", "Pseudonymisierung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Was gehört zu den sensiblen dienstlichen Daten?",
+        "options": [
+          "Öffentlich zugängliche Berichte",
+          "Open Data Datensätze",
+          "Betriebs-, Geschäfts- oder Dienstgeheimnisse",
+          "Allgemeine Verwaltungsinformationen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Zu sensiblen dienstlichen Daten gehören Betriebs-, Geschäfts- oder Dienstgeheimnisse, Informationen mit hohem Schutzbedarf, Verschlusssachen und personenbezogene Daten.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Sensible Daten",
+          "pages": "S. 13",
+          "chapter": "3.1 Leitsatz A3"
+        },
+        "tags": ["Sensible Daten", "Geheimnisse", "Datenschutz"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "Wann ist eine Kennzeichnung der KI-Nutzung erforderlich?",
+        "options": [
+          "Immer bei jeder KI-Nutzung",
+          "Nie, da KI transparent arbeitet",
+          "Wenn fachlich ungeprüfte Inhalte weitergegeben werden",
+          "Nur bei externen KI-Systemen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine Kennzeichnung ist erforderlich, wenn fachlich ungeprüfte Inhalte behördenintern oder an die Öffentlichkeit weitergegeben werden. Bei fachlich geprüften und überarbeiteten Inhalten ist keine Kennzeichnung nötig.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Kennzeichnungspflicht",
+          "pages": "S. 16",
+          "chapter": "3.1 Leitsatz A5"
+        },
+        "tags": ["Kennzeichnung", "Transparenz", "Fachliche Prüfung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Wer trifft die Entscheidung über den Einsatz von KI-Systemen in einer Behörde?",
+        "options": [
+          "Jeder Mitarbeitende individuell",
+          "Die IT-Abteilung",
+          "Die Behördenleitung",
+          "Externe Berater"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Entscheidung darüber, ob und welche KI-Systeme eingesetzt werden, obliegt der Behördenleitung. Diese entscheidet unter anderem vor dem Hintergrund von Informationssicherheit, Datenschutz und Geheimschutz.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Behördenentscheidungen",
+          "pages": "S. 17",
+          "chapter": "3.2 Leitsatz B1"
+        },
+        "tags": ["Behördenleitung", "Entscheidung", "Governance"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q12",
+        "text": "Was ist ein wesentliches Merkmal vertrauenswürdiger KI-Systeme?",
+        "options": [
+          "Sie arbeiten schneller als Menschen",
+          "Sie sind rechtmäßig, ethisch und robust",
+          "Sie sind kostengünstiger als andere Lösungen",
+          "Sie benötigen keine menschliche Überwachung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Vertrauenswürdige KI wird als rechtmäßig, ethisch und robust definiert. Sie erfüllt ihre Funktionen sicher und zuverlässig und ist resilient gegenüber externen Eingriffen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Vertrauenswürdige KI",
+          "pages": "S. 7",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Vertrauenswürdigkeit", "Ethik", "Robustheit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist bei der Nutzung von KI-Systemen bezüglich Diskriminierung zu beachten?",
+        "options": [
+          "Diskriminierung ist bei KI-Systemen unvermeidbar",
+          "Nur offensichtliche Diskriminierung muss verhindert werden",
+          "Geeignete Maßnahmen müssen vor und während des Einsatzes ergriffen werden",
+          "Diskriminierung ist nur bei personenbezogenen Daten relevant"
+        ],
+        "correctIndex": 2,
+        "explanation": "Es sollten vor und während des Einsatzes von KI-Systemen geeignete Maßnahmen ergriffen werden, damit dieser nicht zu verzerrten Ergebnissen führt. KI-Systeme sollten auf geeigneten und repräsentativen Trainingsdaten basieren.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Diskriminierungsfreiheit",
+          "pages": "S. 6",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Diskriminierung", "Bias", "Fairness"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Was beschreibt den Begriff 'Automatisierungsbias'?",
+        "options": [
+          "Die Bevorzugung automatisierter Systeme gegenüber manuellen Prozessen",
+          "Die Neigung, Vorschläge von automatisierten Systemen zu übernehmen",
+          "Die systematische Verzerrung in Trainingsdaten",
+          "Die Abhängigkeit von KI-Systemen im Arbeitsalltag"
+        ],
+        "correctIndex": 1,
+        "explanation": "Automatisierungsbias ist die Neigung von Menschen, Vorschläge von automatisierten Entscheidungssystemen zu übernehmen beziehungsweise zu bevorzugen. Dagegen hilft Schulung über Grenzen und Fähigkeiten von KI-Systemen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Automatisierungsbias",
+          "pages": "S. 8",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Automatisierungsbias", "Psychologie", "Schulung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Welche Rolle spielen Interessenvertretungen bei der KI-Einführung?",
+        "options": [
+          "Sie haben keine Rolle bei technischen Entscheidungen",
+          "Sie müssen frühzeitig einbezogen werden",
+          "Sie entscheiden über die KI-Systeme",
+          "Sie sind nur bei Problemen zu konsultieren"
+        ],
+        "correctIndex": 1,
+        "explanation": "Interessenvertretungen der Mitarbeitenden (wie der Hauptpersonalrat und die Schwerbehindertenvertretung) sind frühzeitig einzubeziehen. Dies schafft Vertrauen und stellt sicher, dass deren Interessen berücksichtigt werden.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Interessenvertretung",
+          "pages": "S. 8",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Interessenvertretung", "Personalrat", "Beteiligung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q16",
+        "text": "Was ist ein Ziel des nachhaltigen KI-Einsatzes?",
+        "options": [
+          "Maximierung der Geschwindigkeit aller Prozesse",
+          "Einheitliche Qualitätsstandards für die gesamte Bundesverwaltung",
+          "Vollständige Automatisierung aller Verwaltungsprozesse",
+          "Ausschließliche Nutzung der neuesten Technologien"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein gemeinschaftlicher Ansatz soll dabei unterstützen, dass für die gesamte Bundesverwaltung soweit möglich einheitliche Qualitätsstandards und Konventionen für die Bereitstellung und Nutzung von KI eingehalten werden.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Nachhaltiger Einsatz",
+          "pages": "S. 8",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Nachhaltigkeit", "Standards", "Gemeinschaftlich"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Was sind Lock-in-Effekte bei KI-Systemen?",
+        "options": [
+          "Die automatische Sperrung von Systemen bei Fehlern",
+          "Die Sicherung von Daten gegen unbefugten Zugriff",
+          "Erhöhte Kosten beim Wechsel zu anderen Systemen oder Anbietern",
+          "Die Beschränkung der Nutzung auf bestimmte Zeiten"
+        ],
+        "correctIndex": 2,
+        "explanation": "Lock-in-Effekte entstehen, wenn der Wechsel zu einem anderen System oder Anbieter mit signifikant erhöhten Kosten verbunden ist. Diese sollten vermieden werden, um die Digitale Souveränität zu wahren.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Lock-in-Effekte",
+          "pages": "S. 9",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Lock-in", "Digitale Souveränität", "Anbieterabhängigkeit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q18",
+        "text": "Welche Prompting-Technik kann die Qualität von LLM-Ausgaben verbessern?",
+        "options": [
+          "Verwendung möglichst kurzer Anfragen",
+          "Strukturierte Vorgabe von Rolle, Format und Kontext",
+          "Nutzung von Fachbegriffen ohne Erklärung",
+          "Vermeidung von Beispielen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gutes Prompting umfasst die strukturierte Vorgabe von Rolle und Sprachstilen, Format und Kontext sowie schrittweises Vorgehen. Dies hilft, die Qualität der Ausgabe zu maximieren.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Prompting-Techniken",
+          "pages": "S. 28",
+          "chapter": "Anlage: LLM-Einsatz"
+        },
+        "tags": ["Prompting", "LLM", "Qualität"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Was sollte bei der Formulierung von Prompts vermieden werden?",
+        "options": [
+          "Klare Anweisungen",
+          "Charakteristika wie Herkunft oder Geschlecht ohne sachlichen Grund",
+          "Strukturierte Anfragen",
+          "Beispiele für gewünschte Ausgaben"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Beschränkung eines Prompts auf bestimmte Charakteristika wie Geschlecht kann Geschlechtervorurteile in den Antworten bewirken. Erwartungstendenzen sollten vermieden werden.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Prompting-Vermeidung",
+          "pages": "S. 28",
+          "chapter": "Anlage: LLM-Einsatz"
+        },
+        "tags": ["Prompting", "Bias-Vermeidung", "Gleichberechtigung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist eine wichtige Voraussetzung für den KI-Einsatz in der Bundesverwaltung?",
+        "options": [
+          "Vollständige Automatisierung aller Prozesse",
+          "Ausschließliche Nutzung deutscher KI-Systeme",
+          "Wahrung der Sicherheit und Rechtmäßigkeit der behördlichen Arbeit",
+          "Maximierung der Effizienz um jeden Preis"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Bereitstellung und Nutzung von KI-Systemen haben immer unter Wahrung der Sicherheit und Rechtmäßigkeit der behördlichen Arbeit zu erfolgen. Rechtliche Grundlagen wie GG, DSGVO und KI-VO sind zu beachten.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Rechtmäßigkeit",
+          "pages": "S. 17",
+          "chapter": "3.2 Leitsatz B1"
+        },
+        "tags": ["Rechtmäßigkeit", "Sicherheit", "Compliance"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q21",
+        "text": "Was ist bei der Auswahl von KI-Systemen bezüglich der Performanz zu beachten?",
+        "options": [
+          "Performanz ist das einzige wichtige Kriterium",
+          "Performanz muss gegen Digitale Souveränität abgewogen werden",
+          "Performanz ist unwichtig, nur die Kosten zählen",
+          "Deutsche Systeme haben immer die beste Performanz"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Performanz von KI-Systemen verschiedener Anbieter für den gegebenen Anwendungsfall muss unter anderem gegen die Wahrung der Anforderungen der Digitalen Souveränität abgewogen werden.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Systemauswahl",
+          "pages": "S. 18",
+          "chapter": "3.2 Leitsatz B3"
+        },
+        "tags": ["Performanz", "Digitale Souveränität", "Systemauswahl"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q22",
+        "text": "Welche Betriebsumgebungen werden für KI-Systeme unterschieden?",
+        "options": [
+          "Nur bundesverwaltungsinterne IT-Infrastruktur",
+          "Bundesverwaltungsexterne und bundesverwaltungsinterne IT-Infrastruktur",
+          "Nur Cloud-basierte Systeme",
+          "Nur lokale Server"
+        ],
+        "correctIndex": 1,
+        "explanation": "Es werden zwei Betriebsumgebungen unterschieden: bundesverwaltungsexterne IT-Infrastruktur (z.B. private Cloud-Anbieter) und bundesverwaltungsinterne IT-Infrastruktur (z.B. Private Cloud des Bundes).",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Betriebsumgebungen",
+          "pages": "S. 24",
+          "chapter": "3.2 Leitsatz B8"
+        },
+        "tags": ["IT-Infrastruktur", "Betriebsumgebung", "Cloud"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q23",
+        "text": "Was ist bei der Verarbeitung personenbezogener Daten durch KI-Systeme erforderlich?",
+        "options": [
+          "Nur eine allgemeine Zustimmung der Betroffenen",
+          "Eine Rechtsgrundlage und Einhaltung der DSGVO-Grundsätze",
+          "Nur die Anonymisierung aller Daten",
+          "Die Zustimmung der Behördenleitung genügt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei der Verarbeitung personenbezogener Daten ist eine Rechtsgrundlage erforderlich und die datenschutzrechtlichen Vorgaben der DSGVO, insbesondere Datenminimierung und Zweckbindung, sind zu beachten.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Datenschutz",
+          "pages": "S. 25-26",
+          "chapter": "3.2 Leitsatz B9"
+        },
+        "tags": ["Datenschutz", "DSGVO", "Personenbezogene Daten"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q24",
+        "text": "Wann ist eine Datenschutz-Folgenabschätzung erforderlich?",
+        "options": [
+          "Bei jeder KI-Nutzung",
+          "Nie, da KI-Systeme automatisch datenschutzkonform sind",
+          "Wenn die Verarbeitung voraussichtlich ein hohes Risiko für die Rechte natürlicher Personen hat",
+          "Nur bei externen KI-Systemen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine Datenschutz-Folgenabschätzung nach Artikel 35 DSGVO ist erforderlich, wenn festgestellt wird, dass die Verarbeitung voraussichtlich ein hohes Risiko für die Rechte und Freiheiten natürlicher Personen zur Folge hat.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Datenschutz-Folgenabschätzung",
+          "pages": "S. 26",
+          "chapter": "3.2 Leitsatz B9"
+        },
+        "tags": ["Datenschutz-Folgenabschätzung", "DSGVO", "Risikobewertung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q25",
+        "text": "Was ist der Marktplatz der KI-Möglichkeiten (MaKI)?",
+        "options": [
+          "Ein Online-Shop für KI-Software",
+          "Eine Plattform, die Ministerien und Behörden mit passenden KI-Systemen zusammenbringt",
+          "Ein Bewertungsportal für KI-Anbieter",
+          "Eine Schulungsplattform für KI-Themen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der MaKI bringt auf Bundesebene Ministerien und Behörden mit passenden KI-Systemen und Bedarfen zueinander und bietet Transparenz über die KI-Systemlandschaft in der Bundesverwaltung.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, MaKI",
+          "pages": "S. 22",
+          "chapter": "3.2 Leitsatz B6"
+        },
+        "tags": ["MaKI", "Transparenz", "Koordination"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q26",
+        "text": "Welche Institution stellt zentrale Schulungsangebote für KI zur Verfügung?",
+        "options": [
+          "Das Bundesministerium des Innern",
+          "Die Bundesakademie für öffentliche Verwaltung (BAköV)",
+          "Das Bundesamt für Sicherheit in der Informationstechnik",
+          "Die Datenlabore der Bundesregierung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Bundesakademie für öffentliche Verwaltung (BAköV) stellt im Fortbildungsportal der Bundesverwaltung modulare Bausteine für Schulungs- und Sensibilisierungsmaßnahmen bereit.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, BAköV Schulungen",
+          "pages": "S. 21",
+          "chapter": "3.2 Leitsatz B5"
+        },
+        "tags": ["Schulung", "BAköV", "Fortbildung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q27",
+        "text": "Was ist bei ethischen Abwägungen von KI-Systemen zu beachten?",
+        "options": [
+          "Ethische Grundsätze müssen alle in höchstem Maße erfüllt werden",
+          "Es bedarf einer individuellen Abwägung durch die Behörden bei Zielkonflikten",
+          "Ethik ist bei technischen Systemen nicht relevant",
+          "Nur die Effizienz ist wichtig"
+        ],
+        "correctIndex": 1,
+        "explanation": "Da es nicht immer möglich ist, im Anwendungsfall allen wertebasierten Grundsätzen in höchstem Maße zu entsprechen, bedarf es einer individuellen Abwägung durch die Behörden, da es zu Zielkonflikten kommen kann.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Ethische Abwägung",
+          "pages": "S. 19",
+          "chapter": "3.2 Leitsatz B4"
+        },
+        "tags": ["Ethik", "Abwägung", "Zielkonflikte"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q28",
+        "text": "Was ist Red-Teaming im Kontext von KI?",
+        "options": [
+          "Die Entwicklung von KI-Systemen in Teams",
+          "Die Anwendung von Angriffsmethoden zur Identifikation von Schwachstellen",
+          "Die politische Bewertung von KI-Systemen",
+          "Die farbliche Kennzeichnung von Risikoebenen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Red-Teaming wird von speziellen Teams durchgeführt, die Angriffsmethoden anwenden, um Fehler und Schwachstellen in KI-Systemen zu identifizieren, wie schädliche oder diskriminierende Ergebnisse.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Red-Teaming",
+          "pages": "S. 11",
+          "chapter": "3.1 Leitsatz A1"
+        },
+        "tags": ["Red-Teaming", "Sicherheit", "Schwachstellen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Welche Beispiele werden für bundesverwaltungsinterne LLM-Anwendungen genannt?",
+        "options": [
+          "ChatGPT und Microsoft Copilot",
+          "KIPITZ und PLAIN",
+          "Google Bard und Claude",
+          "Alexa und Siri"
+        ],
+        "correctIndex": 1,
+        "explanation": "Als Beispiele für bundesverwaltungsinterne LLM-Anwendungen werden das KI-Portal des ITZBund (KIPITZ) und PLAIN (Platform Analysis and Information System) der Auslands IT genannt.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Interne LLM-Anwendungen",
+          "pages": "S. 14",
+          "chapter": "3.1 Leitsatz A3"
+        },
+        "tags": ["KIPITZ", "PLAIN", "Interne Systeme"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Was ist beim vollautomatisierten Erlass von Verwaltungsakten durch KI zu beachten?",
+        "options": [
+          "Dies ist grundsätzlich verboten",
+          "Dies ist ohne Einschränkungen erlaubt",
+          "Dies ist nur zulässig, wenn kein Ermessen besteht und durch Rechtsvorschrift zugelassen",
+          "Dies erfordert nur die Zustimmung der Behördenleitung"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Verwaltungsakt kann vollständig automatisiert erlassen werden, sofern weder ein Ermessen noch ein Beurteilungsspielraum besteht und der vollständige Erlass durch Rechtsvorschrift zugelassen ist.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Vollautomatisierte Verwaltungsakte",
+          "pages": "S. 18",
+          "chapter": "3.2 Leitsatz B2"
+        },
+        "tags": ["Verwaltungsakt", "Automatisierung", "Rechtmäßigkeit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q31",
+        "text": "Welche Rechtsgrundlagen sind beim KI-Einsatz in der Bundesverwaltung von besonderer Relevanz?",
+        "options": [
+          "Nur das Grundgesetz und die DSGVO",
+          "GG, DSGVO, BDSG, BSIG, SÜG, BPersVG, VSA und KI-VO",
+          "Nur die KI-Verordnung der EU",
+          "Nur behördeninterne Richtlinien"
+        ],
+        "correctIndex": 1,
+        "explanation": "Als Rechtsgrundlagen von besonderer Relevanz werden das Grundgesetz, die DSGVO, das BDSG, BSIG, SÜG, BPersVG, die VSA, Standards zur Informationssicherheit und die KI-VO genannt.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Rechtliche Grundlagen",
+          "pages": "S. 17",
+          "chapter": "3.2 Leitsatz B1"
+        },
+        "tags": ["Rechtsgrundlagen", "Gesetze", "Compliance"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q32",
+        "text": "Was ist bei der Barrierefreiheit von KI-Systemen zu beachten?",
+        "options": [
+          "Barrierefreiheit ist nur für Webseiten relevant",
+          "Die gesetzlichen Vorgaben zur Barrierefreiheit sind beim Zugang zu KI-Systemen zu berücksichtigen",
+          "KI-Systeme sind automatisch barrierefrei",
+          "Barrierefreiheit ist nur optional"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die gesetzlichen Vorgaben zur Barrierefreiheit sind beim Zugang zu KI-Systemen zu berücksichtigen. Vorgaben ergeben sich unter anderem aus DIN EN 301549.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Barrierefreiheit",
+          "pages": "S. 6",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Barrierefreiheit", "Inklusion", "Standards"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q33",
+        "text": "Was ist 'Explainable AI' und wann ist sie besonders wichtig?",
+        "options": [
+          "KI, die nur einfache Aufgaben löst",
+          "KI, die ihre Entscheidungsgrundlagen nachvollziehbar macht - wichtig bei weitreichenden Folgen",
+          "KI, die in deutscher Sprache antwortet",
+          "KI, die besonders schnell arbeitet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Explainable AI bedeutet, dass nachvollziehbar ist, anhand welcher Maßstäbe und auf Basis welcher Informationen die KI Ergebnisse erzielt. Je weitreichender die Folgen einer Vorhersage, desto wichtiger ist Transparenz.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Explainable AI",
+          "pages": "S. 7",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Explainable AI", "Transparenz", "Nachvollziehbarkeit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Welche Art von Schulung ist vor der Nutzung von KI-Systemen erforderlich?",
+        "options": [
+          "Nur technische Schulungen",
+          "Schulungen über Grenzen, Fähigkeiten und verantwortungsvollen Umgang mit KI",
+          "Nur rechtliche Schulungen",
+          "Keine Schulungen erforderlich"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mitarbeitende müssen in den Grenzen und Fähigkeiten von KI-Systemen geschult werden, damit sie die Ausgaben regelmäßig prüfen können. Schulungen umfassen auch ethische Grundsätze und rechtlichen Rahmen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Schulungsanforderungen",
+          "pages": "S. 8 und S. 21",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B5"
+        },
+        "tags": ["Schulung", "Kompetenz", "Verantwortung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q35",
+        "text": "Was ist bei der ökologischen Nachhaltigkeit von KI-Systemen zu beachten?",
+        "options": [
+          "Nur die Kosten sind wichtig",
+          "KI-Systeme sollen ressourcenschonend und energieeffizient sein",
+          "Nachhaltigkeit ist bei KI nicht relevant",
+          "Nur die Geschwindigkeit zählt"
+        ],
+        "correctIndex": 1,
+        "explanation": "KI-Systeme und ihr Einsatz sollen möglichst ressourcenschonend und energieeffizient sein. Auf Ebene der Hardware sollen Energieverbrauch und materielle Ressourcen minimiert werden.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Ökologische Nachhaltigkeit",
+          "pages": "S. 9",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Nachhaltigkeit", "Energieeffizienz", "Umwelt"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Welche Modelle werden bei der KI-Auswahl bevorzugt?",
+        "options": [
+          "Immer die neuesten Modelle",
+          "Modelle mit transparentem Trainingsprozess und frei verfügbaren Parametern",
+          "Nur kommerzielle Modelle",
+          "Ausschließlich deutsche Modelle"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wo möglich werden Modelle mit transparentem Trainingsprozess und frei verfügbaren Parametern gegenüber 'Closed-Source-Modellen' bevorzugt, um Lock-in-Effekte zu vermeiden und Digitale Souveränität zu wahren.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Modellauswahl",
+          "pages": "S. 9",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Open Source", "Transparenz", "Digitale Souveränität"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Was sind 'gesonderte Räume für das Experimentieren' mit KI?",
+        "options": [
+          "Spezielle Büroräume für KI-Entwicklung",
+          "Angemessene technisch-organisatorische Trennung zu Produktivumgebungen",
+          "Separate Gebäude für KI-Forschung",
+          "Virtuelle Realität Umgebungen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gesonderte Räume für das Experimentieren bedeuten eine angemessene technisch-organisatorische Trennung zu Produktivumgebungen, um diese zu schützen, auch durch gesonderte Nutzendenkennungen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Experimentierräume",
+          "pages": "S. 8",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Experimentierung", "Sicherheit", "Trennung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q38",
+        "text": "Welche Rolle spielt das Beratungszentrum für Künstliche Intelligenz (BeKI)?",
+        "options": [
+          "Es entwickelt KI-Systeme für Behörden",
+          "Es bietet Beratung und Austausch für KI-Einsatz",
+          "Es kontrolliert alle KI-Systeme der Bundesverwaltung",
+          "Es verkauft KI-Software"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Beratungszentrum für Künstliche Intelligenz (BeKI) sowie die Datenlabore der Bundesregierung können für einen guten behörden- und ressortübergreifenden Austausch zum KI-Einsatz genutzt werden.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, BeKI",
+          "pages": "S. 8",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["BeKI", "Beratung", "Austausch"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q39",
+        "text": "Was ist bei sensiblen personenbezogenen Daten nach Artikel 9 DSGVO zu beachten?",
+        "options": [
+          "Sie dürfen immer verarbeitet werden",
+          "Sie sind grundsätzlich verboten, außer bei den in Artikel 9 Absatz 2 DSGVO geregelten Ausnahmen",
+          "Sie erfordern nur die Zustimmung der Behörde",
+          "Sie sind bei KI-Systemen automatisch erlaubt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Verarbeitung sensibler personenbezogener Daten (Gesundheitsdaten, politische Meinungen, religiöse Überzeugungen) ist grundsätzlich untersagt. Ausnahmen sind nur in den in Artikel 9 Absatz 2 DSGVO geregelten Fällen zulässig.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Sensible personenbezogene Daten",
+          "pages": "S. 13-14",
+          "chapter": "3.1 Leitsatz A3"
+        },
+        "tags": ["Sensible Daten", "DSGVO", "Artikel 9"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q40",
+        "text": "Welche Kennzeichnungsregelungen gelten nach der KI-VO?",
+        "options": [
+          "Alle KI-Systeme müssen immer gekennzeichnet werden",
+          "Keine Kennzeichnung erforderlich",
+          "Kennzeichnungspflicht für Hochrisiko-Systeme und Transparenzpflichten nach Artikel 48 und 50",
+          "Nur interne Kennzeichnung erforderlich"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die KI-VO regelt die Kennzeichnungspflicht für Hochrisiko-Systeme (Artikel 48) sowie Transparenzpflichten für Anbieter und Betreiber bestimmter KI-Systeme (Artikel 50).",
+        "source": {
+          "citation": "BMI KI-Leitlinien, KI-VO Kennzeichnung",
+          "pages": "S. 22",
+          "chapter": "3.2 Leitsatz B6"
+        },
+        "tags": ["Kennzeichnung", "KI-VO", "Transparenz"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q41",
+        "text": "Was ist bei der Wirtschaftlichkeitsbetrachtung von KI-Systemen zu beachten?",
+        "options": [
+          "Nur die Anschaffungskosten sind relevant",
+          "Eine ganzheitliche Betrachtung von Kosten und Nutzen über den gesamten Lebenszyklus",
+          "Wirtschaftlichkeit ist bei staatlichen Systemen irrelevant",
+          "Nur der kurzfristige finanzielle Gewinn zählt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei der Wirtschaftlichkeitsbetrachtung sind Kosten und Nutzen über den gesamten Lebenszyklus zu betrachten, einschließlich Beschaffung, Betrieb, Wartung, Schulung und Entsorgung.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Wirtschaftlichkeitsbetrachtung",
+          "pages": "S. 18",
+          "chapter": "3.2 Leitsatz B3"
+        },
+        "tags": ["Wirtschaftlichkeit", "Lebenszyklus", "Kosten-Nutzen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q42",
+        "text": "Welche Kriterien sind bei der Auswahl von KI-Systemen zu berücksichtigen?",
+        "options": [
+          "Nur die technische Leistung",
+          "Performanz, Digitale Souveränität, Sicherheit und Wirtschaftlichkeit",
+          "Nur der Preis",
+          "Ausschließlich deutsche Herkunft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei der Systemauswahl müssen die Performanz für den Anwendungsfall gegen Anforderungen der Digitalen Souveränität, Informationssicherheit und Wirtschaftlichkeit abgewogen werden.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Auswahlkriterien",
+          "pages": "S. 18",
+          "chapter": "3.2 Leitsatz B3"
+        },
+        "tags": ["Systemauswahl", "Bewertungskriterien", "Abwägung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q43",
+        "text": "Was bedeutet 'Interoperabilität' bei KI-Systemen?",
+        "options": [
+          "Die Fähigkeit verschiedener Systeme zusammenzuarbeiten",
+          "Die Geschwindigkeit der Datenverarbeitung",
+          "Die Benutzerfreundlichkeit der Oberfläche",
+          "Die Kosten des Systems"
+        ],
+        "correctIndex": 0,
+        "explanation": "Interoperabilität bezeichnet die Fähigkeit verschiedener KI-Systeme, Daten auszutauschen und zusammenzuarbeiten. Dies ist wichtig für einen gemeinschaftlichen und nachhaltigen KI-Einsatz.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Interoperabilität",
+          "pages": "S. 8-9",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Interoperabilität", "Zusammenarbeit", "Standards"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Welche Rolle spielt die Dokumentation beim KI-Einsatz?",
+        "options": [
+          "Dokumentation ist optional",
+          "Nur technische Dokumentation ist erforderlich",
+          "Umfassende Dokumentation von Systemeigenschaften, Risiken und Entscheidungen",
+          "Nur für externe Systeme erforderlich"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine umfassende Dokumentation der KI-Systeme, ihrer Eigenschaften, Risiken und getroffenen Entscheidungen ist essentiell für Transparenz, Nachvollziehbarkeit und Verantwortlichkeit.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Dokumentation",
+          "pages": "S. 7 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["Dokumentation", "Transparenz", "Nachvollziehbarkeit"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q45",
+        "text": "Was ist bei der Nutzung von KI-Systemen für die Entscheidungsunterstützung zu beachten?",
+        "options": [
+          "KI-Entscheidungen sind immer bindend",
+          "Menschen müssen die finale Entscheidung treffen und können diese begründen",
+          "KI-Systeme ersetzen menschliche Entscheidungen vollständig",
+          "Nur technische Experten dürfen entscheiden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei der Entscheidungsunterstützung durch KI müssen Menschen in der Lage sein, die finale Entscheidung zu treffen und zu begründen. Die menschliche Aufsicht und Verantwortung bleibt bestehen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Entscheidungsunterstützung",
+          "pages": "S. 5-6",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Entscheidungsunterstützung", "Menschliche Aufsicht", "Verantwortung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q46",
+        "text": "Welche Bedeutung hat 'Robustheit' bei KI-Systemen?",
+        "options": [
+          "Nur die physische Widerstandsfähigkeit der Hardware",
+          "Zuverlässige Funktion auch bei unerwarteten Eingaben und Störungen",
+          "Die Geschwindigkeit der Verarbeitung",
+          "Die Benutzerfreundlichkeit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Robustheit bedeutet, dass KI-Systeme auch bei unerwarteten Eingaben, fehlerhaften Daten oder externen Störungen zuverlässig und sicher funktionieren und resilient gegenüber Angriffen sind.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Robustheit",
+          "pages": "S. 7",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Robustheit", "Zuverlässigkeit", "Sicherheit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Was sind 'Foundation Models' oder 'Basismodelle'?",
+        "options": [
+          "Einfache regelbasierte Systeme",
+          "Große, vielseitig einsetzbare KI-Modelle, die als Grundlage für verschiedene Anwendungen dienen",
+          "Nur Modelle für Textverarbeitung",
+          "Ausschließlich Open-Source-Modelle"
+        ],
+        "correctIndex": 1,
+        "explanation": "Foundation Models sind große, oft multimodal trainierte KI-Modelle, die als Grundlage für verschiedene spezifische Anwendungen und Aufgaben verwendet werden können.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Foundation Models",
+          "pages": "S. 4",
+          "chapter": "1. Einleitung"
+        },
+        "tags": ["Foundation Models", "Basismodelle", "Multimodal"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q48",
+        "text": "Welche Anforderungen stellt die KI-VO an Hochrisiko-KI-Systeme?",
+        "options": [
+          "Keine besonderen Anforderungen",
+          "Nur Registrierung erforderlich",
+          "Umfassende Pflichten wie Risikomanagementsystem, Dokumentation und menschliche Aufsicht",
+          "Nur CE-Kennzeichnung erforderlich"
+        ],
+        "correctIndex": 2,
+        "explanation": "Hochrisiko-KI-Systeme nach der KI-VO unterliegen umfassenden Pflichten wie Risikomanagementsystem, Datenqualitätssicherung, Dokumentation, Transparenz, menschliche Aufsicht und Genauigkeitsanforderungen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Hochrisiko-Systeme KI-VO",
+          "pages": "S. 17",
+          "chapter": "3.2 Leitsatz B2"
+        },
+        "tags": ["Hochrisiko-Systeme", "KI-VO", "Compliance"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q49",
+        "text": "Was ist bei der Einführung neuer KI-Technologien in Behörden zu beachten?",
+        "options": [
+          "Sofortige Einführung ohne Vorbereitung",
+          "Schrittweise Einführung mit Pilotprojekten und Evaluation",
+          "Nur technische Tests sind erforderlich",
+          "Externe Beratung ist ausreichend"
+        ],
+        "correctIndex": 1,
+        "explanation": "Neue KI-Technologien sollten schrittweise eingeführt werden, beginnend mit Pilotprojekten, umfassender Evaluation und kontinuierlicher Überwachung der Auswirkungen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Technologie-Einführung",
+          "pages": "S. 8 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["Technologie-Einführung", "Pilotprojekte", "Evaluation"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q50",
+        "text": "Welche Bedeutung hat 'Datensouveränität' beim KI-Einsatz?",
+        "options": [
+          "Nur die Speicherung in Deutschland",
+          "Kontrolle über Art und Weise der Datenverwendung und -verarbeitung",
+          "Ausschließliche Nutzung deutscher Daten",
+          "Verzicht auf externe Datenquellen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Datensouveränität bedeutet die Kontrolle über die Art und Weise, wie Daten verwendet und verarbeitet werden, einschließlich der Entscheidung über Speicherort, Zugriff und Verarbeitung.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Datensouveränität",
+          "pages": "S. 9",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Datensouveränität", "Kontrolle", "Datenverarbeitung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q51",
+        "text": "Was ist bei der Versionskontrolle von KI-Modellen zu beachten?",
+        "options": [
+          "Versionskontrolle ist bei KI-Modellen nicht erforderlich",
+          "Nur die neueste Version muss dokumentiert werden",
+          "Systematische Dokumentation aller Versionen, Änderungen und deren Auswirkungen",
+          "Nur bei kommerziellen Modellen erforderlich"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine systematische Versionskontrolle von KI-Modellen ist wichtig für Nachvollziehbarkeit, Qualitätssicherung und die Möglichkeit, bei Problemen auf frühere Versionen zurückzugreifen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Versionskontrolle",
+          "pages": "S. 7 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["Versionskontrolle", "Dokumentation", "Qualitätssicherung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q52",
+        "text": "Welche Arten von Bias (Verzerrungen) können bei KI-Systemen auftreten?",
+        "options": [
+          "Nur technische Fehler",
+          "Verzerrungen in Trainingsdaten, Algorithmus-Design und gesellschaftlichen Vorurteilen",
+          "Nur Eingabefehler der Nutzer",
+          "Bias tritt bei KI-Systemen nicht auf"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bias kann durch verzerrte Trainingsdaten, unfaire Algorithmus-Designs oder die Reproduktion gesellschaftlicher Vorurteile entstehen und muss systematisch identifiziert und minimiert werden.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Bias-Arten",
+          "pages": "S. 6 und S. 8",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Bias", "Verzerrungen", "Fairness"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Was bedeutet 'Privacy by Design' bei KI-Systemen?",
+        "options": [
+          "Datenschutz wird erst nach der Entwicklung implementiert",
+          "Datenschutz wird von Anfang an in die Systemarchitektur integriert",
+          "Nur externe Datenschutzprüfungen sind erforderlich",
+          "Datenschutz ist bei KI-Systemen optional"
+        ],
+        "correctIndex": 1,
+        "explanation": "Privacy by Design bedeutet, dass Datenschutz von Beginn der Entwicklung an als Grundprinzip in die Systemarchitektur und -prozesse integriert wird, nicht nachträglich hinzugefügt.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Privacy by Design",
+          "pages": "S. 6 und S. 25",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B9"
+        },
+        "tags": ["Privacy by Design", "Datenschutz", "Systemarchitektur"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q54",
+        "text": "Welche Rolle spielt kontinuierliches Monitoring bei KI-Systemen?",
+        "options": [
+          "Monitoring ist nur bei der Einführung erforderlich",
+          "Kontinuierliche Überwachung von Leistung, Fairness und unerwünschten Effekten",
+          "Nur technische Performance muss überwacht werden",
+          "Monitoring ist bei KI-Systemen nicht notwendig"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kontinuierliches Monitoring ist essentiell, um die Leistung, Fairness und Sicherheit von KI-Systemen im laufenden Betrieb zu überwachen und unerwünschte Entwicklungen frühzeitig zu erkennen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Kontinuierliches Monitoring",
+          "pages": "S. 7 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["Monitoring", "Überwachung", "Kontinuierlich"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q55",
+        "text": "Was ist bei der Nutzung von Cloud-basierten KI-Services zu beachten?",
+        "options": [
+          "Cloud-Services sind grundsätzlich verboten",
+          "Bewertung von Datenschutz, Sicherheit und rechtlichen Anforderungen",
+          "Nur deutsche Cloud-Anbieter sind erlaubt",
+          "Keine besonderen Anforderungen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei Cloud-basierten KI-Services müssen Datenschutz, Informationssicherheit, rechtliche Anforderungen und die Kontrolle über Daten und Verarbeitungsprozesse sorgfältig bewertet werden.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Cloud-Services",
+          "pages": "S. 9 und S. 24",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B8"
+        },
+        "tags": ["Cloud", "Datenschutz", "Sicherheit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q56",
+        "text": "Welche Bedeutung hat 'Algorithmic Auditing' (Algorithmus-Prüfung)?",
+        "options": [
+          "Nur einmalige Prüfung bei der Einführung",
+          "Regelmäßige systematische Überprüfung von Algorithmen auf Fairness und Korrektheit",
+          "Nur finanzielle Prüfung der Kosten",
+          "Auditing ist bei KI-Systemen nicht anwendbar"
+        ],
+        "correctIndex": 1,
+        "explanation": "Algorithmic Auditing umfasst die regelmäßige, systematische Überprüfung von KI-Algorithmen auf Fairness, Transparenz, Korrektheit und Einhaltung ethischer Standards.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Algorithmic Auditing",
+          "pages": "S. 7 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["Auditing", "Algorithmus-Prüfung", "Qualitätskontrolle"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q57",
+        "text": "Was sind 'Adversarial Attacks' bei KI-Systemen?",
+        "options": [
+          "Normale Benutzereingaben",
+          "Gezielte Manipulationen der Eingabedaten, um das System zu täuschen",
+          "Systemupdates",
+          "Rechtliche Angriffe auf das System"
+        ],
+        "correctIndex": 1,
+        "explanation": "Adversarial Attacks sind gezielte Manipulationen von Eingabedaten, die darauf abzielen, KI-Systeme zu falschen oder schädlichen Ausgaben zu verleiten. Robuste Systeme müssen dagegen geschützt sein.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Adversarial Attacks",
+          "pages": "S. 7 und S. 11",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.1 Leitsatz A1"
+        },
+        "tags": ["Adversarial Attacks", "Sicherheit", "Manipulation"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q58",
+        "text": "Welche Anforderungen gelten für KI-Systeme in kritischen Infrastrukturen?",
+        "options": [
+          "Keine besonderen Anforderungen",
+          "Erhöhte Sicherheits- und Zuverlässigkeitsanforderungen",
+          "Nur Geschwindigkeitsoptimierung",
+          "Ausschließlich nationale Systeme"
+        ],
+        "correctIndex": 1,
+        "explanation": "KI-Systeme in kritischen Infrastrukturen unterliegen erhöhten Anforderungen an Sicherheit, Zuverlässigkeit, Verfügbarkeit und Resilienz, da Ausfälle weitreichende gesellschaftliche Folgen haben können.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Kritische Infrastrukturen",
+          "pages": "S. 7 und S. 17",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B2"
+        },
+        "tags": ["Kritische Infrastrukturen", "Sicherheit", "Zuverlässigkeit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q59",
+        "text": "Was bedeutet 'Federated Learning' und welche Vorteile bietet es?",
+        "options": [
+          "Zentralisiertes Training auf einem Server",
+          "Verteiltes Training ohne Austausch der Rohdaten zwischen Teilnehmern",
+          "Nur für kleine Datenmengen geeignet",
+          "Training ausschließlich mit öffentlichen Daten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Federated Learning ermöglicht das gemeinsame Training von KI-Modellen, ohne dass die Rohdaten der Teilnehmer ausgetauscht werden müssen, was Datenschutz und Datensouveränität stärkt.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Federated Learning",
+          "pages": "S. 8-9",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Federated Learning", "Datenschutz", "Verteiltes Lernen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q60",
+        "text": "Welche Rolle spielen Standards und Zertifizierungen bei KI-Systemen?",
+        "options": [
+          "Standards sind bei KI-Systemen nicht anwendbar",
+          "Nur interne Standards sind relevant",
+          "Orientierung an etablierten Standards für Qualität, Sicherheit und Interoperabilität",
+          "Standards behindern Innovation"
+        ],
+        "correctIndex": 2,
+        "explanation": "Standards und Zertifizierungen helfen dabei, Qualität, Sicherheit, Interoperabilität und Vertrauen in KI-Systeme zu gewährleisten und erleichtern die behördenübergreifende Zusammenarbeit.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Standards und Zertifizierungen",
+          "pages": "S. 8-9 und S. 22",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B6"
+        },
+        "tags": ["Standards", "Zertifizierung", "Qualitätssicherung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q61",
+        "text": "Was ist bei der Archivierung und Löschung von KI-Trainingsdaten zu beachten?",
+        "options": [
+          "Daten können unbegrenzt gespeichert werden",
+          "Einhaltung von Aufbewahrungsfristen und datenschutzrechtlichen Löschpflichten",
+          "Nur technische Backups sind erforderlich",
+          "Löschung ist bei KI-Daten nicht möglich"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei KI-Trainingsdaten müssen rechtliche Aufbewahrungsfristen beachtet und datenschutzrechtliche Löschpflichten erfüllt werden. Eine systematische Archivierungs- und Löschstrategie ist erforderlich.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Datenarchivierung",
+          "pages": "S. 25-26",
+          "chapter": "3.2 Leitsatz B9"
+        },
+        "tags": ["Archivierung", "Löschung", "Aufbewahrungsfristen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q62",
+        "text": "Welche Bedeutung hat 'Differential Privacy' bei KI-Systemen?",
+        "options": [
+          "Unterschiedliche Zugriffsrechte für Nutzer",
+          "Mathematisches Framework zum Schutz individueller Privatsphäre in Datensätzen",
+          "Verschiedene Datenschutzrichtlinien",
+          "Trennung privater und dienstlicher Daten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Differential Privacy ist ein mathematisches Framework, das sicherstellt, dass die Privatsphäre von Individuen in Datensätzen geschützt wird, auch wenn statistische Analysen durchgeführt werden.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Differential Privacy",
+          "pages": "S. 6 und S. 25",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B9"
+        },
+        "tags": ["Differential Privacy", "Datenschutz", "Privatsphäre"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q63",
+        "text": "Was sind 'Synthetic Data' und welche Vorteile bieten sie?",
+        "options": [
+          "Nur künstlich generierte Textdaten",
+          "Künstlich erzeugte Daten, die echte Daten ersetzen und Datenschutz verbessern können",
+          "Daten aus sozialen Netzwerken",
+          "Nur für Testzwecke verwendbare Daten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Synthetic Data sind künstlich erzeugte Daten, die statistische Eigenschaften echter Daten nachbilden, aber keine echten personenbezogenen Informationen enthalten, wodurch Datenschutzrisiken reduziert werden.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Synthetic Data",
+          "pages": "S. 6 und S. 13",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.1 Leitsatz A3"
+        },
+        "tags": ["Synthetic Data", "Künstliche Daten", "Datenschutz"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q64",
+        "text": "Welche Rolle spielt 'Human-in-the-Loop' bei KI-Systemen?",
+        "options": [
+          "Menschen werden vollständig durch KI ersetzt",
+          "Menschen bleiben aktiv in Entscheidungsprozesse eingebunden",
+          "Nur bei technischen Problemen erforderlich",
+          "Ausschließlich für Schulungszwecke"
+        ],
+        "correctIndex": 1,
+        "explanation": "Human-in-the-Loop bedeutet, dass Menschen aktiv in die Entscheidungsprozesse von KI-Systemen eingebunden bleiben und kritische Entscheidungen überprüfen und autorisieren können.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Human-in-the-Loop",
+          "pages": "S. 5-6",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Human-in-the-Loop", "Menschliche Kontrolle", "Entscheidungsprozesse"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q65",
+        "text": "Was ist bei der Übertragung von KI-Modellen zwischen verschiedenen Anwendungsdomänen zu beachten?",
+        "options": [
+          "Modelle können ohne Änderungen übertragen werden",
+          "Transfer Learning erfordert Anpassung und Validierung für die neue Domäne",
+          "Übertragung ist grundsätzlich nicht möglich",
+          "Nur technische Parameter müssen angepasst werden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Transfer Learning zwischen Domänen erfordert sorgfältige Anpassung, Validierung und Prüfung, ob das Modell in der neuen Anwendungsdomäne angemessen und fair funktioniert.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Transfer Learning",
+          "pages": "S. 6-7 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["Transfer Learning", "Domänenanpassung", "Validierung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q66",
+        "text": "Welche Bedeutung hat 'Graceful Degradation' bei KI-Systemen?",
+        "options": [
+          "Vollständiger Systemausfall bei Problemen",
+          "Kontrollierte Leistungsreduzierung statt kompletter Ausfall",
+          "Automatische Systemverbesserung",
+          "Nur für Hardware-Komponenten relevant"
+        ],
+        "correctIndex": 1,
+        "explanation": "Graceful Degradation bedeutet, dass KI-Systeme bei Problemen oder unerwarteten Situationen ihre Leistung kontrolliert reduzieren, anstatt komplett auszufallen, um Sicherheit und Verfügbarkeit zu gewährleisten.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Graceful Degradation",
+          "pages": "S. 7",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Graceful Degradation", "Robustheit", "Ausfallsicherheit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q67",
+        "text": "Was sind 'Edge AI' Lösungen und welche Vorteile bieten sie?",
+        "options": [
+          "KI nur in Cloud-Umgebungen",
+          "KI-Verarbeitung direkt auf lokalen Geräten für reduzierte Latenz und Datenschutz",
+          "Nur für grafische Anwendungen",
+          "Ausschließlich für mobile Geräte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Edge AI führt KI-Berechnungen direkt auf lokalen Geräten durch, was Latenz reduziert, Bandbreite spart und Datenschutz verbessert, da Daten nicht an externe Server gesendet werden müssen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Edge AI",
+          "pages": "S. 9 und S. 24",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B8"
+        },
+        "tags": ["Edge AI", "Lokale Verarbeitung", "Datenschutz"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q68",
+        "text": "Welche Anforderungen gelten für die Dokumentation von KI-Entscheidungen?",
+        "options": [
+          "Keine Dokumentation erforderlich",
+          "Nur technische Parameter dokumentieren",
+          "Nachvollziehbare Dokumentation der Entscheidungsgrundlagen und verwendeten Daten",
+          "Dokumentation nur bei Fehlern"
+        ],
+        "correctIndex": 2,
+        "explanation": "KI-Entscheidungen müssen nachvollziehbar dokumentiert werden, einschließlich der verwendeten Daten, Algorithmen, Parameter und Entscheidungslogik, um Transparenz und Rechenschaftspflicht zu gewährleisten.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Entscheidungsdokumentation",
+          "pages": "S. 7 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["Dokumentation", "Entscheidungsgrundlagen", "Nachvollziehbarkeit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q69",
+        "text": "Was ist bei der Integration von KI in bestehende Geschäftsprozesse zu beachten?",
+        "options": [
+          "Vollständiger Ersatz aller manuellen Prozesse",
+          "Schrittweise Integration mit Bewertung der Auswirkungen auf Arbeitsabläufe",
+          "Nur technische Kompatibilität prüfen",
+          "KI arbeitet völlig unabhängig von bestehenden Prozessen"
+        ],
+        "correctIndex": 1,
+        "explanation": "KI sollte schrittweise in bestehende Prozesse integriert werden, mit sorgfältiger Bewertung der Auswirkungen auf Arbeitsabläufe, Mitarbeitende und die Qualität der Ergebnisse.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Prozessintegration",
+          "pages": "S. 8 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["Prozessintegration", "Arbeitsabläufe", "Schrittweise Einführung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q70",
+        "text": "Welche Rolle spielt 'Ensemble Learning' bei robusten KI-Systemen?",
+        "options": [
+          "Verwendung nur eines einzigen Modells",
+          "Kombination mehrerer Modelle für verbesserte Genauigkeit und Robustheit",
+          "Nur für große Datenmengen geeignet",
+          "Ensemble Learning ist veraltet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ensemble Learning kombiniert die Vorhersagen mehrerer Modelle, um die Gesamtgenauigkeit zu verbessern und die Robustheit gegenüber Fehlern einzelner Modelle zu erhöhen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Ensemble Learning",
+          "pages": "S. 7",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Ensemble Learning", "Modellkombination", "Robustheit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q71",
+        "text": "Was ist bei der Bewertung der Energieeffizienz von KI-Systemen zu beachten?",
+        "options": [
+          "Nur die Rechenleistung ist relevant",
+          "Gesamtenergieverbrauch von Training, Inferenz und Hardware-Lebenszyklen",
+          "Energieeffizienz ist bei KI nicht messbar",
+          "Nur Cloud-basierte Systeme verbrauchen Energie"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Energieeffizienz von KI-Systemen muss ganzheitlich betrachtet werden, einschließlich des Energieverbrauchs für Training, Inferenz, Datenübertragung und den gesamten Hardware-Lebenszyklus.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Energieeffizienz",
+          "pages": "S. 9",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Energieeffizienz", "Nachhaltigkeit", "Lebenszyklus"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q72",
+        "text": "Welche Bedeutung hat 'Model Governance' in Behörden?",
+        "options": [
+          "Nur technische Verwaltung der Modelle",
+          "Umfassende Steuerung von Entwicklung, Einsatz und Überwachung von KI-Modellen",
+          "Ausschließlich rechtliche Prüfung",
+          "Model Governance ist nicht erforderlich"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Governance umfasst die systematische Steuerung des gesamten Lebenszyklus von KI-Modellen, von der Entwicklung über den Einsatz bis zur Außerbetriebnahme, einschließlich Qualitätssicherung und Compliance.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Model Governance",
+          "pages": "S. 7 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["Model Governance", "Steuerung", "Lebenszyklus"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q73",
+        "text": "Was sind 'Multimodale KI-Systeme' und welche besonderen Herausforderungen bringen sie mit sich?",
+        "options": [
+          "Systeme, die nur Text verarbeiten",
+          "Systeme, die verschiedene Datentypen wie Text, Bild und Audio kombiniert verarbeiten",
+          "Systeme mit mehreren Benutzern",
+          "Ausschließlich visuelle Systeme"
+        ],
+        "correctIndex": 1,
+        "explanation": "Multimodale KI-Systeme verarbeiten und kombinieren verschiedene Datentypen (Text, Bild, Audio, Video), was zusätzliche Herausforderungen bei Datenschutz, Bias-Erkennung und Qualitätssicherung mit sich bringt.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Multimodale Systeme",
+          "pages": "S. 4 und S. 6",
+          "chapter": "1. Einleitung und 2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Multimodal", "Datentypen", "Komplexität"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q74",
+        "text": "Welche Rolle spielt 'Incident Response' bei KI-Systemen?",
+        "options": [
+          "Nur für Cyberangriffe relevant",
+          "Systematische Reaktion auf KI-bedingte Vorfälle und Fehlfunktionen",
+          "Incident Response ist bei KI nicht anwendbar",
+          "Nur technische Systemadministration"
+        ],
+        "correctIndex": 1,
+        "explanation": "Incident Response für KI-Systeme umfasst die systematische Vorbereitung, Erkennung, Reaktion und Nachbereitung von Vorfällen wie Bias, Fehlfunktionen oder Sicherheitsproblemen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Incident Response",
+          "pages": "S. 7 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["Incident Response", "Vorfälle", "Fehlfunktionen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q75",
+        "text": "Was ist bei der Konfiguration von KI-Systemen für verschiedene Nutzergruppen zu beachten?",
+        "options": [
+          "Einheitliche Konfiguration für alle Nutzer",
+          "Anpassung an verschiedene Kompetenzniveaus und Anwendungsbereiche",
+          "Nur technische Experten können KI-Systeme nutzen",
+          "Konfiguration ist nicht erforderlich"
+        ],
+        "correctIndex": 1,
+        "explanation": "KI-Systeme sollten an verschiedene Nutzergruppen, deren Kompetenzniveaus und spezifische Anwendungsbereiche angepasst werden, um optimale Ergebnisse und sichere Nutzung zu gewährleisten.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Nutzergruppenanpassung",
+          "pages": "S. 8 und S. 21",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B5"
+        },
+        "tags": ["Nutzergruppen", "Anpassung", "Kompetenzniveaus"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q76",
+        "text": "Welche Bedeutung hat 'Continuous Integration/Continuous Deployment' (CI/CD) für KI-Systeme?",
+        "options": [
+          "CI/CD ist bei KI nicht anwendbar",
+          "Automatisierte Integration und Bereitstellung von KI-Modell-Updates",
+          "Nur für Softwareentwicklung relevant",
+          "Ausschließlich manuelle Prozesse sind sicher"
+        ],
+        "correctIndex": 1,
+        "explanation": "CI/CD für KI ermöglicht die automatisierte, aber kontrollierte Integration und Bereitstellung von KI-Modell-Updates, einschließlich automatisierter Tests auf Qualität, Fairness und Performance.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, CI/CD für KI",
+          "pages": "S. 7 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["CI/CD", "Automatisierung", "Modell-Updates"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q77",
+        "text": "Was sind 'Guardrails' bei KI-Systemen und warum sind sie wichtig?",
+        "options": [
+          "Physische Barrieren um Hardware",
+          "Technische und prozessuale Schutzmaßnahmen gegen unerwünschte KI-Ausgaben",
+          "Nur rechtliche Bestimmungen",
+          "Guardrails sind nicht erforderlich"
+        ],
+        "correctIndex": 1,
+        "explanation": "Guardrails sind technische und prozessuale Schutzmaßnahmen, die verhindern, dass KI-Systeme schädliche, diskriminierende oder unangemessene Ausgaben produzieren oder Grenzen überschreiten.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Guardrails",
+          "pages": "S. 6-7 und S. 11",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.1 Leitsatz A1"
+        },
+        "tags": ["Guardrails", "Schutzmaßnahmen", "Sicherheit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q78",
+        "text": "Welche Rolle spielt 'Data Lineage' bei KI-Systemen?",
+        "options": [
+          "Nur die Datenherkunft dokumentieren",
+          "Vollständige Nachverfolgung der Datenverarbeitung von der Quelle bis zur Ausgabe",
+          "Data Lineage ist bei KI nicht relevant",
+          "Nur für große Datensätze erforderlich"
+        ],
+        "correctIndex": 1,
+        "explanation": "Data Lineage ermöglicht die vollständige Nachverfolgung der Datenverarbeitung durch KI-Systeme, was für Transparenz, Compliance und die Identifikation von Bias-Quellen essentiell ist.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Data Lineage",
+          "pages": "S. 7 und S. 25",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B9"
+        },
+        "tags": ["Data Lineage", "Datenverarbeitung", "Nachverfolgung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q79",
+        "text": "Was ist bei der Bewertung der 'Fairness' von KI-Systemen zu beachten?",
+        "options": [
+          "Fairness ist subjektiv und nicht messbar",
+          "Verwendung etablierter Fairness-Metriken und Berücksichtigung verschiedener Fairness-Konzepte",
+          "Nur technische Performance ist relevant",
+          "Fairness ist automatisch gegeben"
+        ],
+        "correctIndex": 1,
+        "explanation": "Fairness-Bewertung erfordert die Anwendung etablierter Metriken und die Berücksichtigung verschiedener Fairness-Konzepte, da unterschiedliche Definitionen von Fairness zu verschiedenen Ergebnissen führen können.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Fairness-Bewertung",
+          "pages": "S. 6 und S. 8",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Fairness", "Metriken", "Bewertung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q80",
+        "text": "Welche Anforderungen gelten für die Schulung von Führungskräften im Umgang mit KI?",
+        "options": [
+          "Führungskräfte benötigen keine KI-Schulungen",
+          "Verständnis für strategische Implikationen, Risiken und Governance von KI-Systemen",
+          "Nur technische Details sind wichtig",
+          "Externe Berater übernehmen alle KI-Entscheidungen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Führungskräfte benötigen Schulungen zu strategischen Implikationen von KI, Risikomanagement, ethischen Aspekten und Governance-Anforderungen, um fundierte Entscheidungen treffen zu können.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Führungskräfte-Schulung",
+          "pages": "S. 8 und S. 21",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B5"
+        },
+        "tags": ["Führungskräfte", "Schulung", "Strategische Implikationen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q81",
+        "text": "Was ist bei der Implementierung von 'Zero Trust' Sicherheitsmodellen für KI-Systeme zu beachten?",
+        "options": [
+          "Vollständiges Vertrauen in interne KI-Systeme",
+          "Kontinuierliche Verifikation und minimale Zugriffsprivilegien für alle KI-Komponenten",
+          "Zero Trust ist bei KI nicht anwendbar",
+          "Nur externe Systeme benötigen Sicherheitsprüfungen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zero Trust für KI bedeutet kontinuierliche Verifikation aller KI-Komponenten, minimale Zugriffsprivilegien, Segmentierung und ständige Überwachung, auch für interne Systeme.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Zero Trust Sicherheit",
+          "pages": "S. 7 und S. 24",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B8"
+        },
+        "tags": ["Zero Trust", "Sicherheitsmodell", "Kontinuierliche Verifikation"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q82",
+        "text": "Welche Bedeutung hat 'Concept Drift' bei KI-Modellen und wie wird damit umgegangen?",
+        "options": [
+          "Concept Drift ist ein gewünschter Effekt",
+          "Allmähliche Verschlechterung der Modellleistung durch sich ändernde Datenverteilungen",
+          "Nur ein technisches Problem ohne praktische Relevanz",
+          "Concept Drift tritt bei KI-Modellen nicht auf"
+        ],
+        "correctIndex": 1,
+        "explanation": "Concept Drift beschreibt die allmähliche Verschlechterung der KI-Modellleistung durch sich ändernde reale Datenverteilungen und erfordert kontinuierliches Monitoring und regelmäßige Modellanpassungen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Concept Drift",
+          "pages": "S. 7 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["Concept Drift", "Modellleistung", "Datenverteilung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q83",
+        "text": "Was sind 'Adversarial Examples' und welche Schutzmaßnahmen gibt es?",
+        "options": [
+          "Normale Testbeispiele für KI-Systeme",
+          "Gezielt manipulierte Eingaben, die KI-Systeme zu falschen Entscheidungen verleiten",
+          "Beispiele für gute KI-Nutzung",
+          "Adversarial Examples sind harmlos"
+        ],
+        "correctIndex": 1,
+        "explanation": "Adversarial Examples sind speziell manipulierte Eingaben, die KI-Systeme täuschen sollen. Schutzmaßnahmen umfassen robuste Trainingsverfahren, Eingabevalidierung und Anomalieerkennung.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Adversarial Examples",
+          "pages": "S. 7 und S. 11",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.1 Leitsatz A1"
+        },
+        "tags": ["Adversarial Examples", "Manipulation", "Robustheit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q84",
+        "text": "Welche Rolle spielt 'Explainability' vs. 'Interpretability' bei KI-Systemen?",
+        "options": [
+          "Beide Begriffe bedeuten dasselbe",
+          "Explainability erklärt Entscheidungen, Interpretability macht Modelle verständlich",
+          "Nur Explainability ist wichtig",
+          "Beide Konzepte sind bei KI nicht relevant"
+        ],
+        "correctIndex": 1,
+        "explanation": "Explainability bezieht sich auf die Fähigkeit, KI-Entscheidungen zu erklären, während Interpretability die grundsätzliche Verständlichkeit der Modellstruktur und -funktion betrifft.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Explainability vs Interpretability",
+          "pages": "S. 7",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Explainability", "Interpretability", "Verständlichkeit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q85",
+        "text": "Was ist bei der Nutzung von 'Pre-trained Models' zu beachten?",
+        "options": [
+          "Pre-trained Models können ohne Prüfung verwendet werden",
+          "Bewertung von Trainingsdaten, Bias und Anpassung an den spezifischen Anwendungsfall",
+          "Nur die Leistung ist relevant",
+          "Pre-trained Models sind grundsätzlich ungeeignet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pre-trained Models erfordern sorgfältige Bewertung der ursprünglichen Trainingsdaten, möglicher Bias-Quellen und Anpassung an den spezifischen Anwendungsfall der Behörde.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Pre-trained Models",
+          "pages": "S. 6-7 und S. 18",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B3"
+        },
+        "tags": ["Pre-trained Models", "Bias-Bewertung", "Anpassung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q86",
+        "text": "Welche Anforderungen gelten für KI-Systeme im Bereich der IT-Sicherheit?",
+        "options": [
+          "Nur Standardsicherheitsmaßnahmen sind erforderlich",
+          "Erweiterte Sicherheitsanforderungen entsprechend dem BSI IT-Grundschutz",
+          "KI-Systeme sind automatisch sicher",
+          "Sicherheit ist bei KI nicht relevant"
+        ],
+        "correctIndex": 1,
+        "explanation": "KI-Systeme müssen erweiterte Sicherheitsanforderungen erfüllen, die über Standardmaßnahmen hinausgehen und dem BSI IT-Grundschutz sowie spezifischen KI-Sicherheitsstandards entsprechen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, IT-Sicherheit",
+          "pages": "S. 7 und S. 17",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B1"
+        },
+        "tags": ["IT-Sicherheit", "BSI", "Sicherheitsstandards"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q87",
+        "text": "Was bedeutet 'Algorithmic Transparency' in der öffentlichen Verwaltung?",
+        "options": [
+          "Vollständige Offenlegung aller Algorithmus-Details",
+          "Angemessene Transparenz über KI-Entscheidungsprozesse gegenüber Betroffenen",
+          "Algorithmic Transparency ist nicht erforderlich",
+          "Nur interne Dokumentation genügt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Algorithmic Transparency erfordert angemessene Offenlegung von KI-Entscheidungsprozessen gegenüber Bürgern und Betroffenen, ohne dabei Sicherheit oder geistiges Eigentum zu gefährden.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Algorithmic Transparency",
+          "pages": "S. 7 und S. 22",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B6"
+        },
+        "tags": ["Algorithmic Transparency", "Öffentliche Verwaltung", "Offenlegung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q88",
+        "text": "Welche Rolle spielt 'Change Management' bei der KI-Einführung in Behörden?",
+        "options": [
+          "Change Management ist nicht erforderlich",
+          "Systematische Begleitung der organisatorischen und kulturellen Veränderungen",
+          "Nur technische Implementierung ist wichtig",
+          "Change Management verzögert die KI-Einführung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Change Management ist essentiell für die erfolgreiche KI-Einführung und umfasst die systematische Begleitung organisatorischer, kultureller und prozessualer Veränderungen in der Behörde.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Change Management",
+          "pages": "S. 8 und S. 21",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B5"
+        },
+        "tags": ["Change Management", "Organisatorische Veränderung", "Kulturwandel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q89",
+        "text": "Was ist bei der Bewertung von KI-Systemen hinsichtlich ihrer gesellschaftlichen Auswirkungen zu beachten?",
+        "options": [
+          "Nur technische Leistung bewerten",
+          "Umfassende Bewertung von Auswirkungen auf verschiedene Gesellschaftsgruppen",
+          "Gesellschaftliche Auswirkungen sind nicht messbar",
+          "KI hat keine gesellschaftlichen Auswirkungen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Bewertung gesellschaftlicher Auswirkungen von KI erfordert eine umfassende Analyse der Effekte auf verschiedene Bevölkerungsgruppen, Gleichberechtigung und gesellschaftliche Teilhabe.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Gesellschaftliche Auswirkungen",
+          "pages": "S. 5-6 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["Gesellschaftliche Auswirkungen", "Gleichberechtigung", "Teilhabe"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q90",
+        "text": "Welche Bedeutung haben 'Stress Tests' für KI-Systeme?",
+        "options": [
+          "Tests sind nur bei Hardware erforderlich",
+          "Systematische Überprüfung der KI-Leistung unter extremen oder unerwarteten Bedingungen",
+          "Stress Tests sind bei KI nicht anwendbar",
+          "Nur bei kritischen Fehlern erforderlich"
+        ],
+        "correctIndex": 1,
+        "explanation": "Stress Tests prüfen die Robustheit und Zuverlässigkeit von KI-Systemen unter extremen Bedingungen, hoher Last oder unerwarteten Eingaben und sind wichtig für die Risikobewertung.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Stress Tests",
+          "pages": "S. 7 und S. 11",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.1 Leitsatz A1"
+        },
+        "tags": ["Stress Tests", "Robustheit", "Extreme Bedingungen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q91",
+        "text": "Was bedeutet 'Data Minimization' im Kontext von KI-Systemen?",
+        "options": [
+          "Verwendung möglichst großer Datenmengen",
+          "Sammlung und Verarbeitung nur der für den Zweck erforderlichen Daten",
+          "Komprimierung aller Daten",
+          "Data Minimization ist bei KI nicht anwendbar"
+        ],
+        "correctIndex": 1,
+        "explanation": "Data Minimization ist ein DSGVO-Grundsatz, der besagt, dass nur Daten gesammelt und verarbeitet werden dürfen, die für den spezifischen Zweck erforderlich und angemessen sind.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Data Minimization",
+          "pages": "S. 25-26",
+          "chapter": "3.2 Leitsatz B9"
+        },
+        "tags": ["Data Minimization", "DSGVO", "Zweckbindung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q92",
+        "text": "Welche Rolle spielt 'Vendor Risk Management' bei externen KI-Dienstleistern?",
+        "options": [
+          "Vendor Management ist nicht erforderlich",
+          "Systematische Bewertung und Überwachung von Sicherheits- und Compliance-Risiken",
+          "Nur Preisvergleiche sind wichtig",
+          "Externe Anbieter sind automatisch vertrauenswürdig"
+        ],
+        "correctIndex": 1,
+        "explanation": "Vendor Risk Management umfasst die systematische Bewertung von Sicherheits-, Datenschutz- und Compliance-Risiken externer KI-Anbieter sowie deren kontinuierliche Überwachung.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Vendor Risk Management",
+          "pages": "S. 9 und S. 24",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B8"
+        },
+        "tags": ["Vendor Risk Management", "Externe Anbieter", "Risikobewertung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q93",
+        "text": "Was ist bei der Implementierung von 'Privacy-Preserving Machine Learning' zu beachten?",
+        "options": [
+          "Datenschutz ist bei Machine Learning nicht wichtig",
+          "Techniken wie Federated Learning, Differential Privacy und Secure Multi-Party Computation",
+          "Nur Verschlüsselung ist erforderlich",
+          "Privacy-Preserving ML ist technisch nicht umsetzbar"
+        ],
+        "correctIndex": 1,
+        "explanation": "Privacy-Preserving Machine Learning nutzt Techniken wie Federated Learning, Differential Privacy und Secure Multi-Party Computation, um Datenschutz während des ML-Trainings zu gewährleisten.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Privacy-Preserving ML",
+          "pages": "S. 6 und S. 25",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B9"
+        },
+        "tags": ["Privacy-Preserving ML", "Datenschutz", "Federated Learning"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q94",
+        "text": "Welche Bedeutung hat 'Algorithmic Impact Assessment' (AIA) für KI-Systeme?",
+        "options": [
+          "AIA ist nur für kommerzielle Systeme erforderlich",
+          "Systematische Bewertung der Auswirkungen von KI-Algorithmen auf Individuen und Gesellschaft",
+          "Nur technische Performance wird bewertet",
+          "Algorithmic Impact Assessment ist nicht erforderlich"
+        ],
+        "correctIndex": 1,
+        "explanation": "Algorithmic Impact Assessment bewertet systematisch die Auswirkungen von KI-Algorithmen auf Grundrechte, Fairness, Diskriminierung und gesellschaftliche Effekte.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Algorithmic Impact Assessment",
+          "pages": "S. 6-7 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["Algorithmic Impact Assessment", "Auswirkungsbewertung", "Grundrechte"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q95",
+        "text": "Was ist bei der Architektur von 'Hybrid AI-Systemen' zu beachten?",
+        "options": [
+          "Nur eine KI-Technologie verwenden",
+          "Integration verschiedener KI-Technologien mit menschlicher Expertise",
+          "Hybrid-Systeme sind zu komplex",
+          "Automatisierung ohne menschliche Beteiligung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hybrid AI-Systeme kombinieren verschiedene KI-Technologien mit menschlicher Expertise und erfordern sorgfältige Integration, Koordination und Qualitätssicherung der verschiedenen Komponenten.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Hybrid AI-Systeme",
+          "pages": "S. 5-6 und S. 8",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Hybrid AI", "Integration", "Menschliche Expertise"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q96",
+        "text": "Welche Anforderungen gelten für die Rückverfolgbarkeit (Traceability) von KI-Entscheidungen?",
+        "options": [
+          "Rückverfolgbarkeit ist nicht erforderlich",
+          "Vollständige Dokumentation von Eingaben, Verarbeitungsschritten und Ausgaben",
+          "Nur das Endergebnis muss dokumentiert werden",
+          "Rückverfolgbarkeit ist technisch unmöglich"
+        ],
+        "correctIndex": 1,
+        "explanation": "Traceability erfordert die vollständige Dokumentation aller Eingaben, Verarbeitungsschritte, verwendeten Modelle und Ausgaben, um KI-Entscheidungen nachvollziehen und auditieren zu können.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Traceability",
+          "pages": "S. 7 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["Traceability", "Rückverfolgbarkeit", "Auditierbarkeit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q97",
+        "text": "Was bedeutet 'Responsible AI Governance' in Behörden?",
+        "options": [
+          "Nur technische Verwaltung von KI-Systemen",
+          "Umfassende ethische, rechtliche und organisatorische Steuerung des KI-Einsatzes",
+          "Governance ist bei KI nicht erforderlich",
+          "Ausschließlich externe Kontrolle"
+        ],
+        "correctIndex": 1,
+        "explanation": "Responsible AI Governance umfasst die umfassende ethische, rechtliche und organisatorische Steuerung des KI-Einsatzes mit klaren Verantwortlichkeiten, Prozessen und Kontrollmechanismen.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Responsible AI Governance",
+          "pages": "S. 5 und S. 17",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B1"
+        },
+        "tags": ["Responsible AI", "Governance", "Ethische Steuerung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q98",
+        "text": "Welche Rolle spielt 'Continuous Learning' bei KI-Systemen in der Verwaltung?",
+        "options": [
+          "Einmaliges Training ist ausreichend",
+          "Kontinuierliche Anpassung an neue Daten und sich ändernde Anforderungen",
+          "Continuous Learning ist zu riskant",
+          "Nur manuelle Updates sind erlaubt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Continuous Learning ermöglicht KI-Systemen die kontinuierliche Anpassung an neue Daten und sich ändernde Anforderungen, erfordert aber sorgfältige Überwachung und Kontrolle.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Continuous Learning",
+          "pages": "S. 7 und S. 19",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
+        },
+        "tags": ["Continuous Learning", "Anpassung", "Überwachung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q99",
+        "text": "Was ist bei der Bewertung der 'Carbon Footprint' von KI-Systemen zu berücksichtigen?",
+        "options": [
+          "Nur der Stromverbrauch des Servers",
+          "Gesamte CO2-Bilanz von Entwicklung, Training, Betrieb bis Entsorgung",
+          "Carbon Footprint ist bei KI nicht relevant",
+          "Nur Cloud-Anbieter sind verantwortlich"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Carbon Footprint-Bewertung muss den gesamten Lebenszyklus umfassen: Entwicklung, Training, Betrieb, Hardware-Produktion und -Entsorgung sowie Datentransfer.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Carbon Footprint",
+          "pages": "S. 9",
+          "chapter": "2. Wertebasierte Leitprinzipien"
+        },
+        "tags": ["Carbon Footprint", "CO2-Bilanz", "Nachhaltigkeit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q100",
+        "text": "Welche langfristigen strategischen Überlegungen sind für den nachhaltigen KI-Einsatz in der Bundesverwaltung wichtig?",
+        "options": [
+          "Nur kurzfristige Effizienzgewinne maximieren",
+          "Aufbau von KI-Kompetenzen, Standards und langfristiger digitaler Souveränität",
+          "Vollständige Automatisierung aller Prozesse",
+          "Ausschließlich externe KI-Lösungen nutzen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nachhaltige KI-Strategie erfordert systematischen Aufbau interner Kompetenzen, einheitlicher Standards, digitaler Souveränität und langfristiger Planung für die gesamte Bundesverwaltung.",
+        "source": {
+          "citation": "BMI KI-Leitlinien, Langfristige Strategie",
+          "pages": "S. 8-9 und S. 22",
+          "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B6"
+        },
+        "tags": ["Langfristige Strategie", "Digitale Souveränität", "Nachhaltigkeit"],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}

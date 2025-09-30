@@ -21,7 +21,8 @@
       "icon": "fa-robot",
       "description": "Quiz rund um KI, Machine Learning und so",
       "quiz": [
-        "LLM-Engineer"
+        "BMI-FM-XAI",
+        "BMI-KI-Leitlinien"
       ]
     },
     "sport": {
@@ -57,14 +58,6 @@
         "StPO",
         "StVG",
         "ZPO"
-      ]
-    },
-    "science": {
-      "name": "Astronomie",
-      "icon": "fa-microscope",
-      "description": "Quiz rund um Astronomie, Sterne und Weltraum",
-      "quiz": [
-        "astronomie"
       ]
     }
   },

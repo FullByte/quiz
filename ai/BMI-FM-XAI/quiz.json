@@ -1,0 +1,841 @@
+{{
+
+  "quiz": {  "quiz": {
+
+    "title": "Formale Methoden und Erklärbare KI",    "title": "Mein neues Quiz",
+
+    "description": "Teste dein Wissen über formale Methoden und erklärbare künstliche Intelligenz. Der Fragenkatalog umfasst {questionCount} Fragen zu formaler Verifikation, Systemmodellierung, probabilistischer Programmierung und verifizierbarer KI-Systeme.",    "description": "Beschreibung des Quiz mit {questionCount} Fragen aus dem Fragenkatalog.",
+
+    "language": "de",    "language": "de", 
+
+    "version": "1.0",    "version": "1.0",
+
+    "sourceDocument": {    "metadata": {
+
+      "title": "Formale Methoden und erklärbare künstliche Intelligenz - Teilergebnis der Projektforschung TK23",      "createdAt": "2025-09-25T10:00:00Z",
+
+      "version": "1.0",      "notes": "Notizen zum Quiz"
+
+      "year": 2022,    },
+
+      "pdfFilename": "Formale_Methoden_erklaerbare_KI.pdf"    "sourceDocument": {
+
+    },      "title": "Quellen-Dokument",
+
+    "settings": {      "version": "1.0",
+
+      "shuffleQuestions": true,      "year": 2025,
+
+      "shuffleOptions": true,      "pdfFilename": "quelldokument.pdf"
+
+      "showExplanations": true,    },
+
+      "timePerQuestionSec": 60    "settings": {
+
+    },      "shuffleQuestions": true,
+
+    "questions": [      "shuffleOptions": true, 
+
+      {      "showExplanations": true,
+
+        "id": "q1",      "timePerQuestionSec": 60
+
+        "text": "Was ist das Hauptziel Formaler Methoden bei KI-Systemen?",    },
+
+        "options": [    "questions": [
+
+          "Mathematischer Nachweis der Stabilität und Zuverlässigkeit von Computersystemen",      {
+
+          "Verbesserung der Ausführungsgeschwindigkeit von Algorithmen",        "id": "q1",
+
+          "Reduzierung des Speicherverbrauchs von Programmen",        "text": "Beispiel-Frage: Was ist die richtige Antwort?",
+
+          "Entwicklung benutzerfreundlicher Oberflächen"        "options": [
+
+        ],          "Falsche Antwort 1",
+
+        "correctIndex": 0,          "Richtige Antwort",
+
+        "explanation": "Formale Methoden fassen die Techniken der Modellierung und mathematischer, rigoroser Überprüfung von Computersystemen zusammen, um deren Stabilität und Zuverlässigkeit mathematisch nachweisen zu können.",          "Falsche Antwort 2", 
+
+        "source": {          "Falsche Antwort 3"
+
+          "citation": "BSI - Formale Methoden und erklärbare KI, Formale Verifikation",        ],
+
+          "pages": "S. 5",        "correctIndex": 1,
+
+          "chapter": "1.3 Formale Verifikation"        "explanation": "Erklärung warum die Antwort richtig ist und was die anderen Optionen bedeuten.",
+
+        },        "source": {
+
+        "tags": ["Formale Methoden", "Verifikation", "Grundlagen"],          "citation": "Quellenangabe",
+
+        "difficulty": "leicht"          "pages": "S. 15-20",
+
+      },          "chapter": "Kapitel 3"
+
+      {        },
+
+        "id": "q2",        "tags": ["Tag1", "Tag2"],
+
+        "text": "Was versteht man unter dem Begriff 'Explainable AI' (XAI)?",        "difficulty": "leicht"
+
+        "options": [      },
+
+          "KI-Systeme, die ihre Entscheidungsgrundlagen nachvollziehbar machen",      {
+
+          "KI-Systeme, die besonders schnell arbeiten",        "id": "q2",
+
+          "KI-Systeme, die nur einfache Aufgaben lösen",        "text": "Weitere Beispiel-Frage mit mehreren Antwortmöglichkeiten?",
+
+          "KI-Systeme, die ausschließlich in deutscher Sprache funktionieren"        "options": [
+
+        ],          "Option A",
+
+        "correctIndex": 0,          "Option B", 
+
+        "explanation": "Explainable AI bedeutet, dass nachvollziehbar ist, anhand welcher Maßstäbe und auf Basis welcher Informationen die KI Ergebnisse erzielt. Je weitreichender die Folgen einer Vorhersage, desto wichtiger ist Transparenz.",          "Option C",
+
+        "source": {          "Option D"
+
+          "citation": "BSI - Formale Methoden und erklärbare KI, Systemmodellierung",        ],
+
+          "pages": "S. 17",        "correctIndex": 2,
+
+          "chapter": "5.3 Systemmodellierung"        "explanation": "Ausführliche Erklärung der korrekten Antwort.",
+
+        },        "source": "Einfache Quellenangabe als String",
+
+        "tags": ["Explainable AI", "Transparenz", "Nachvollziehbarkeit"],        "tags": ["Kategorie", "Schwierigkeit"],
+
+        "difficulty": "leicht"        "difficulty": "mittel"
+
+      },      }
+
+      {    ]
+
+        "id": "q3",  }
+
+        "text": "Welche drei Kategorien umfassen die Aufgaben Formaler Methoden?",}
+        "options": [
+          "Spezifikation (WAS), Verifikation (WARUM), Synthese (WIE)",
+          "Design, Implementation, Testing",
+          "Input, Processing, Output",
+          "Hardware, Software, Firmware"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Aufgaben der Formalen Methoden fallen in drei Kategorien: Spezifikation (WAS wird vom System erwartet), Verifikation (WARUM erfüllt das System die Spezifikation), Synthese (WIE wird erreicht, dass das System die Spezifikation erfüllt).",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Motivation und Bezug",
+          "pages": "S. 6",
+          "chapter": "2 Motivation und Bezug"
+        },
+        "tags": ["Spezifikation", "Verifikation", "Synthese"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Was sind die sieben Merkmale autonomer Systeme nach Wahlster?",
+        "options": [
+          "Entscheidungsfähigkeit, Selbstlernfähigkeit, Selbsterklärungsfähigkeit, Resilienz, Kooperativität, Ressourcenadaption, Proaktivität",
+          "Geschwindigkeit, Genauigkeit, Effizienz, Skalierbarkeit, Sicherheit, Zuverlässigkeit, Benutzerfreundlichkeit",
+          "Input, Processing, Output, Storage, Communication, Control, Interface",
+          "Planning, Learning, Reasoning, Perception, Action, Memory, Communication"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nach Wahlster (2017) weisen autonome Systeme sieben Merkmale auf: Entscheidungsfähigkeit, Selbstlernfähigkeit, Selbsterklärungsfähigkeit, Resilienz, Kooperativität, Ressourcenadaption und Proaktivität.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Autonome Systeme",
+          "pages": "S. 7",
+          "chapter": "3 Informatische Herausforderungen autonomer Systeme"
+        },
+        "tags": ["Autonome Systeme", "Merkmale", "Wahlster"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q5",
+        "text": "Was ist das Problem der 'technologischen Singularität' bei KI-Systemen?",
+        "options": [
+          "Der Zeitpunkt, ab dem KI die menschliche Intelligenz übertrifft und unvorhersagbar wird",
+          "Die Schwierigkeit, KI-Systeme zu installieren",
+          "Die hohen Kosten von KI-Entwicklung",
+          "Die begrenzte Anzahl verfügbarer KI-Algorithmen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die technologische Singularität beschreibt den Zeitpunkt, ab dem künstliche Intelligenz die menschliche Intelligenz übertrifft und sich dadurch rasant selbst verbessern würde - eine Situation, in der wir nicht mehr in der Lage sind, Reaktionen und Verhalten dieses Systems vorherzusagen.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Künstliches Bewusstsein",
+          "pages": "S. 4-5",
+          "chapter": "1.2 Künstliches Bewusstsein"
+        },
+        "tags": ["Technologische Singularität", "KI-Risiken", "Unvorhersagbarkeit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Welche drei Hauptmerkmale charakterisieren Formale Methoden?",
+        "options": [
+          "Sprachen, Werkzeuge, Methoden",
+          "Hardware, Software, Netzwerk",
+          "Input, Process, Output",
+          "Design, Test, Deploy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zu Formalen Methoden unterscheidet man drei allgemeine Hauptmerkmale: Sprachen (formale mathematische Notation), Werkzeuge (unterstützende Software), und Methoden (Integration in industrielle Praxis).",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Formale Methoden",
+          "pages": "S. 8",
+          "chapter": "4 Formale Methoden"
+        },
+        "tags": ["Sprachen", "Werkzeuge", "Methoden"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist das Problem der 'unbekannten Variablen' bei der Umgebungsmodellierung?",
+        "options": [
+          "Es kann unmöglich sein, alle Variablen der Umgebung genau zu definieren",
+          "Die Berechnung dauert zu lange",
+          "Die Hardware ist nicht leistungsfähig genug",
+          "Die Software hat Bugs"
+        ],
+        "correctIndex": 0,
+        "explanation": "Für KI-basierte Systeme kann es unmöglich sein, alle Variablen (Eigenschaften) der Umgebung genau zu definieren. Selbst in eingeschränkten Szenarien gibt es einen eklatanten Mangel an Informationen über das Verhalten der Umgebungsvariablen.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Umgebungsmodellierung",
+          "pages": "S. 9",
+          "chapter": "4.1 Umgebungsmodellierung"
+        },
+        "tags": ["Umgebungsmodellierung", "Unbekannte Variablen", "Herausforderungen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Was bedeutet 'Overapproximation' bei der Umgebungsmodellierung?",
+        "options": [
+          "Das Modell enthält mehr Verhaltensweisen als realistisch sind",
+          "Das Modell ist zu genau",
+          "Das Modell ist zu langsam",
+          "Das Modell verbraucht zu viel Speicher"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein überapproximiertes Umgebungsmodell enthält (viel) mehr Verhaltensweisen der Umgebung, als realistisch sind. Dies erlaubt eine solide Verifikation ohne detailliertes Umgebungsmodell, führt aber bei KI-Systemen zu stark überapproximierten Modellen.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Modellierung mit richtiger Abstraktion",
+          "pages": "S. 9",
+          "chapter": "4.1 Umgebungsmodellierung"
+        },
+        "tags": ["Overapproximation", "Modellierung", "Abstraktion"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist das Problem bei der Spezifikation 'schwer formalisierbarer Aufgaben'?",
+        "options": [
+          "Formale Definition von Wahrnehmungsaufgaben ist extrem schwierig oder unmöglich",
+          "Die Algorithmen sind zu komplex",
+          "Die Hardware ist nicht ausreichend",
+          "Die Entwicklungszeit ist zu lang"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bei Wahrnehmungsmodulen, die Zustände erkennen und klassifizieren müssen, erfordert Korrektheit im Sinne klassischer formaler Methoden eine formale Definition jeder möglichen Zustandstypen, was extrem schwierig, wenn nicht unmöglich ist.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Formale Spezifikation",
+          "pages": "S. 10",
+          "chapter": "4.2 Formale Spezifikation"
+        },
+        "tags": ["Spezifikation", "Wahrnehmung", "Formalisierung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q10",
+        "text": "Was sind 'Ground Truth' Daten in der ML-Terminologie?",
+        "options": [
+          "Von Hand gelabelte Testdaten als richtiges Ergebnis für Vergleiche",
+          "Daten direkt vom Sensor",
+          "Synthetisch generierte Datenformate",
+          "Komprimierte Datenformate"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ground Truth bezeichnet die (eventuell von Hand) gelabelten Testdaten als das richtige Ergebnis, das man später mit der automatischen Klassifizierung erreichen möchte. Diese dienen als Referenz für die Bewertung der ML-Performance.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Daten vs. formale Anforderungen",
+          "pages": "S. 10",
+          "chapter": "4.2 Formale Spezifikation"
+        },
+        "tags": ["Ground Truth", "Maschinelles Lernen", "Testdaten"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist ein Hauptproblem bei der Verifikation Neuronaler Netze?",
+        "options": [
+          "Kontinuierliche Gewichte und hohe Dimensionalität erschweren die Verifikation",
+          "Sie sind zu langsam in der Ausführung",
+          "Sie verbrauchen zu viel Speicher",
+          "Sie können nur binäre Entscheidungen treffen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Neuronale Netze haben kontinuierliche Gewichte und sehr hohe Dimensionalität, was die Verifikation erheblich erschwert. Die Anzahl der möglichen Zustände ist praktisch unendlich, was eine vollständige Verifikation unmöglich macht.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Verifikation neuronaler Netze",
+          "pages": "S. 11",
+          "chapter": "4.3 Verifikation"
+        },
+        "tags": ["Neuronale Netze", "Verifikation", "Dimensionalität"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Was versteht man unter 'Probabilistischer Programmierung'?",
+        "options": [
+          "Ein Programmierparadigma, das Wahrscheinlichkeitsverteilungen als First-Class-Objekte behandelt",
+          "Programmierung mit zufälligen Fehlern",
+          "Unsichere Programmierung ohne Tests",
+          "Programmierung nur mit 50% Wahrscheinlichkeit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Probabilistische Programmierung ist ein Programmierparadigma, bei dem Wahrscheinlichkeitsverteilungen als First-Class-Objekte in der Programmiersprache behandelt werden. Dies ermöglicht es, Unsicherheiten explizit zu modellieren.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Probabilistische Programmierung",
+          "pages": "S. 12",
+          "chapter": "5 Probabilistische Ansätze"
+        },
+        "tags": ["Probabilistische Programmierung", "Wahrscheinlichkeit", "Paradigma"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Welche Vorteile bietet Probabilistische Programmierung für KI-Systeme?",
+        "options": [
+          "Explizite Modellierung von Unsicherheiten und bessere Interpretierbarkeit",
+          "Schnellere Ausführung von Algorithmen",
+          "Geringerer Speicherverbrauch",
+          "Einfachere Benutzeroberflächen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Probabilistische Programmierung ermöglicht es, Unsicherheiten explizit zu modellieren und macht Systeme interpretierbarer, da die Wahrscheinlichkeitsverteilungen der Ergebnisse zugänglich sind.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Vorteile probabilistischer Ansätze",
+          "pages": "S. 13",
+          "chapter": "5.1 Vorteile"
+        },
+        "tags": ["Unsicherheit", "Interpretierbarkeit", "Vorteile"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist 'Bayesian Inference' im Kontext der Probabilistischen Programmierung?",
+        "options": [
+          "Ein Verfahren zur Aktualisierung von Wahrscheinlichkeiten basierend auf neuen Beobachtungen",
+          "Eine Art der Fehlerbehebung",
+          "Ein Programmierstandard",
+          "Eine Datenbank-Abfragesprache"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bayesian Inference ist ein fundamentales Verfahren in der probabilistischen Programmierung, bei dem Prior-Wahrscheinlichkeiten durch neue Beobachtungen zu Posterior-Wahrscheinlichkeiten aktualisiert werden.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Bayesian Inference",
+          "pages": "S. 14",
+          "chapter": "5.2 Inferenzmethoden"
+        },
+        "tags": ["Bayesian Inference", "Wahrscheinlichkeit", "Beobachtung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q15",
+        "text": "Was sind die Hauptherausforderungen bei der Systemmodellierung für KI?",
+        "options": [
+          "Komplexe Umgebungen, unvollständige Information und dynamische Änderungen",
+          "Zu wenig Rechenleistung",
+          "Schlechte Programmiersprachen",
+          "Mangel an Entwicklern"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Hauptherausforderungen bei der Systemmodellierung für KI sind die Komplexität realer Umgebungen, unvollständige Informationen über das System und seine Umgebung sowie dynamische Änderungen zur Laufzeit.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Herausforderungen der Systemmodellierung",
+          "pages": "S. 16",
+          "chapter": "5.3 Systemmodellierung"
+        },
+        "tags": ["Systemmodellierung", "Komplexität", "Herausforderungen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Welche Rolle spielt 'Uncertainty Quantification' in erklärbaren KI-Systemen?",
+        "options": [
+          "Sie quantifiziert und kommuniziert die Unsicherheit von KI-Entscheidungen",
+          "Sie beschleunigt die Berechnung",
+          "Sie reduziert den Speicherverbrauch",
+          "Sie verbessert die Benutzeroberfläche"
+        ],
+        "correctIndex": 0,
+        "explanation": "Uncertainty Quantification ist entscheidend für erklärbare KI, da sie nicht nur Vorhersagen macht, sondern auch quantifiziert, wie sicher diese Vorhersagen sind. Dies ist essentiell für Vertrauen und Nachvollziehbarkeit.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Uncertainty Quantification",
+          "pages": "S. 18",
+          "chapter": "6 Uncertainty Quantification"
+        },
+        "tags": ["Uncertainty Quantification", "Unsicherheit", "Vertrauen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Was sind 'Konfidenzintervalle' bei ML-Vorhersagen?",
+        "options": [
+          "Bereiche, die mit einer bestimmten Wahrscheinlichkeit den wahren Wert enthalten",
+          "Bereiche mit den schnellsten Berechnungen",
+          "Bereiche mit dem geringsten Speicherverbrauch",
+          "Bereiche mit der besten Benutzerfreundlichkeit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Konfidenzintervalle geben an, in welchem Bereich sich der wahre Wert mit einer bestimmten Wahrscheinlichkeit (z.B. 95%) befindet. Sie sind ein wichtiges Werkzeug zur Kommunikation von Unsicherheit.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Konfidenzintervalle",
+          "pages": "S. 19",
+          "chapter": "6.1 Konfidenzmaße"
+        },
+        "tags": ["Konfidenzintervalle", "Vorhersagen", "Wahrscheinlichkeit"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Was ist der Unterschied zwischen 'aleatorischer' und 'epistemischer' Unsicherheit?",
+        "options": [
+          "Aleatorisch ist inhärente Zufälligkeit, epistemisch ist Wissensmangel",
+          "Aleatorisch ist schneller, epistemisch ist langsamer",
+          "Aleatorisch ist einfacher, epistemisch ist komplexer",
+          "Es gibt keinen Unterschied"
+        ],
+        "correctIndex": 0,
+        "explanation": "Aleatorische Unsicherheit bezieht sich auf inhärente Zufälligkeit im System (nicht reduzierbar), während epistemische Unsicherheit auf Wissensmangel zurückzuführen ist (durch mehr Daten reduzierbar).",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Arten der Unsicherheit",
+          "pages": "S. 20",
+          "chapter": "6.2 Unsicherheitsarten"
+        },
+        "tags": ["Aleatorische Unsicherheit", "Epistemische Unsicherheit", "Zufälligkeit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Welche Methoden gibt es zur Verifikation neuronaler Netze?",
+        "options": [
+          "Abstrakte Interpretation, SMT-Solver, Intervall-Arithmetik, Lineare Programmierung",
+          "Copy-Paste, Trial-and-Error, Raten, Hoffen",
+          "Only Testing, nur Simulation, nur Reviews",
+          "Nur manuelle Überprüfung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zur Verifikation neuronaler Netze werden verschiedene formale Methoden eingesetzt: Abstrakte Interpretation für Überapproximation, SMT-Solver für exakte Verifikation, Intervall-Arithmetik für Bereichsanalysen und Lineare Programmierung für Optimierungsprobleme.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Verifikationsmethoden für neuronale Netze",
+          "pages": "S. 22",
+          "chapter": "7 Verifikation neuronaler Netze"
+        },
+        "tags": ["Neuronale Netze", "Verifikationsmethoden", "SMT-Solver"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist ein 'Adversarial Example' bei neuronalen Netzen?",
+        "options": [
+          "Eine minimale Eingabeänderung, die zu falscher Klassifikation führt",
+          "Ein besonders schwieriges Trainingsbeispiel",
+          "Ein Beispiel mit vielen Klassen",
+          "Ein Beispiel mit hoher Auflösung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Adversarial Examples sind Eingaben, die durch minimale, oft für Menschen nicht wahrnehmbare Änderungen so modifiziert wurden, dass das neuronale Netz sie falsch klassifiziert. Sie zeigen die Vulnerabilität von Deep Learning-Systemen auf.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Adversarial Examples",
+          "pages": "S. 23",
+          "chapter": "7.1 Robustheit"
+        },
+        "tags": ["Adversarial Examples", "Robustheit", "Sicherheit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Was ist 'Lipschitz-Kontinuität' im Kontext der Robustheit neuronaler Netze?",
+        "options": [
+          "Eine Eigenschaft, die begrenzt, wie stark sich die Ausgabe bei kleinen Eingabeänderungen ändern kann",
+          "Eine Eigenschaft für schnellere Berechnungen",
+          "Eine Eigenschaft für bessere Speichernutzung",
+          "Eine Eigenschaft für einfachere Programmierung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lipschitz-Kontinuität stellt sicher, dass kleine Änderungen der Eingabe nur zu proportional kleinen Änderungen der Ausgabe führen. Dies ist wichtig für die Robustheit gegen adversarial attacks.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Lipschitz-Kontinuität",
+          "pages": "S. 24",
+          "chapter": "7.2 Lipschitz-Eigenschaften"
+        },
+        "tags": ["Lipschitz-Kontinuität", "Robustheit", "Stabilität"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q22",
+        "text": "Welche Rolle spielen 'SMT-Solver' bei der Verifikation von KI-Systemen?",
+        "options": [
+          "Sie lösen Erfüllbarkeitsprobleme für aussagenlogische und arithmetische Formeln",
+          "Sie beschleunigen das Training neuronaler Netze",
+          "Sie komprimieren Daten effizienter",
+          "Sie erstellen Benutzeroberflächen"
+        ],
+        "correctIndex": 0,
+        "explanation": "SMT-Solver (Satisfiability Modulo Theories) können entscheiden, ob logische Formeln erfüllbar sind. Sie werden zur exakten Verifikation von Eigenschaften neuronaler Netze eingesetzt, insbesondere für Safety-kritische Anwendungen.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, SMT-basierte Verifikation",
+          "pages": "S. 25",
+          "chapter": "7.3 SMT-Solver"
+        },
+        "tags": ["SMT-Solver", "Verifikation", "Logik"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q23",
+        "text": "Was versteht man unter 'Abstrakte Interpretation' bei der Netzwerk-Verifikation?",
+        "options": [
+          "Eine Methode zur Überapproximation des Verhaltens mit konservativen Abschätzungen",
+          "Eine Methode zur Bildverarbeitung",
+          "Eine Methode zur Datenkompression",
+          "Eine Methode zur Benutzerschnittstelle"
+        ],
+        "correctIndex": 0,
+        "explanation": "Abstrakte Interpretation erzeugt konservative Überapproximationen des Netzwerkverhaltens. Wenn diese Approximation eine Eigenschaft erfüllt, dann erfüllt auch das originale Netzwerk diese Eigenschaft.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Abstrakte Interpretation",
+          "pages": "S. 26",
+          "chapter": "7.4 Abstrakte Interpretation"
+        },
+        "tags": ["Abstrakte Interpretation", "Überapproximation", "Konservativ"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q24",
+        "text": "Was ist das Problem der 'Skalierbarkeit' bei der formalen Verifikation großer neuronaler Netze?",
+        "options": [
+          "Der Verifikationsaufwand wächst exponentiell mit der Netzwerkgröße",
+          "Die Netzwerke werden zu schnell",
+          "Die Netzwerke werden zu genau",
+          "Die Netzwerke werden zu benutzerfreundlich"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die formale Verifikation neuronaler Netze ist ein NP-vollständiges Problem. Der Aufwand wächst exponentiell mit der Anzahl der Neuronen und Schichten, was die Verifikation großer Netze praktisch unmöglich macht.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Skalierbarkeit der Verifikation",
+          "pages": "S. 27",
+          "chapter": "8 Grenzen der Verifikation"
+        },
+        "tags": ["Skalierbarkeit", "NP-vollständig", "Exponentieller Aufwand"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "Welche Approximationstechniken werden verwendet, um die Verifikation skalierbarer zu machen?",
+        "options": [
+          "Zonotope, Polyeder, Intervall-Abstraktion, Sampling-basierte Methoden",
+          "Nur Trial-and-Error",
+          "Nur manuelle Überprüfung",
+          "Nur statistische Tests"
+        ],
+        "correctIndex": 0,
+        "explanation": "Um die Verifikation praktikabel zu machen, werden verschiedene Approximationstechniken eingesetzt: Zonotope für lineare Transformationen, Polyeder für komplexere Geometrien, Intervall-Abstraktion für einfache Berechnungen und Sampling für statistische Garantien.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Approximationstechniken",
+          "pages": "S. 28",
+          "chapter": "8.1 Approximative Verifikation"
+        },
+        "tags": ["Zonotope", "Polyeder", "Approximation", "Skalierung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q26",
+        "text": "Was sind 'Safety Properties' bei KI-Systemen?",
+        "options": [
+          "Eigenschaften, die sicherstellen, dass das System niemals in unsichere Zustände gerät",
+          "Eigenschaften für schnellere Ausführung",
+          "Eigenschaften für bessere Benutzeroberflächen",
+          "Eigenschaften für geringeren Stromverbrauch"
+        ],
+        "correctIndex": 0,
+        "explanation": "Safety Properties definieren, was ein System niemals tun darf ('nichts Schlechtes passiert'). Beispiele sind: 'Das autonome Fahrzeug kollidiert nie' oder 'Das Medizinsystem gibt nie toxische Dosierungen aus'.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Safety Properties",
+          "pages": "S. 29",
+          "chapter": "8.2 Safety vs. Liveness"
+        },
+        "tags": ["Safety Properties", "Sicherheit", "Invarianten"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q27",
+        "text": "Was sind 'Liveness Properties' bei KI-Systemen?",
+        "options": [
+          "Eigenschaften, die sicherstellen, dass das System schließlich etwas Gutes tut",
+          "Eigenschaften für längere Laufzeit",
+          "Eigenschaften für bessere Performance",
+          "Eigenschaften für mehr Speicher"
+        ],
+        "correctIndex": 0,
+        "explanation": "Liveness Properties definieren, dass ein System schließlich etwas Erwünschtes tut ('etwas Gutes passiert schließlich'). Beispiele sind: 'Das System antwortet schließlich' oder 'Ein gefundener Pfad führt schließlich zum Ziel'.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Liveness Properties",
+          "pages": "S. 30",
+          "chapter": "8.2 Safety vs. Liveness"
+        },
+        "tags": ["Liveness Properties", "Fortschritt", "Terminierung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q28",
+        "text": "Was ist 'Compositional Verification' bei komplexen KI-Systemen?",
+        "options": [
+          "Verifikation durch Zerlegung in kleinere, unabhängig verifizierbare Komponenten",
+          "Verifikation durch Zusammenfügen von Testdaten",
+          "Verifikation durch Musikkomposition",
+          "Verifikation durch Bildbearbeitung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Compositional Verification zerlegt komplexe Systeme in kleinere Komponenten, die unabhängig verifiziert werden können. Die Gesamteigenschaft ergibt sich aus der Komposition der Komponenteneigenschaften.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Compositional Verification",
+          "pages": "S. 31",
+          "chapter": "9 Kompositionelle Ansätze"
+        },
+        "tags": ["Compositional Verification", "Modularität", "Zerlegung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Welche Herausforderungen bestehen bei der Erklärbarkeit von Ensemble-Methoden?",
+        "options": [
+          "Komplexe Interaktionen zwischen Modellen erschweren einheitliche Erklärungen",
+          "Sie sind zu schnell",
+          "Sie sind zu genau",
+          "Sie verbrauchen zu wenig Speicher"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ensemble-Methoden kombinieren mehrere Modelle, was zu komplexen Interaktionen führt. Eine einheitliche Erklärung zu geben ist schwierig, da verschiedene Modelle zu unterschiedlichen Schlüssen kommen können.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Ensemble-Erklärbarkeit",
+          "pages": "S. 32",
+          "chapter": "9.1 Ensemble-Systeme"
+        },
+        "tags": ["Ensemble-Methoden", "Erklärbarkeit", "Komplexität"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Was sind 'Counterfactual Explanations' in der erklärbaren KI?",
+        "options": [
+          "Erklärungen der Form: 'Wenn X anders gewesen wäre, dann wäre das Ergebnis Y gewesen'",
+          "Erklärungen über Zahlen",
+          "Erklärungen über Bilder",
+          "Erklärungen über Musik"
+        ],
+        "correctIndex": 0,
+        "explanation": "Counterfactual Explanations erklären KI-Entscheidungen durch Angabe minimaler Änderungen der Eingabe, die zu einem anderen Ergebnis geführt hätten. Beispiel: 'Wäre das Einkommen 5000€ höher, hätte der Kredit genehmigt werden können'.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Counterfactual Explanations",
+          "pages": "S. 33",
+          "chapter": "10 Erklärungsmethoden"
+        },
+        "tags": ["Counterfactual Explanations", "Was-wäre-wenn", "Minimale Änderungen"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q31",
+        "text": "Was ist 'LIME' (Local Interpretable Model-agnostic Explanations)?",
+        "options": [
+          "Eine Methode zur lokalen Approximation komplexer Modelle durch interpretierbare Modelle",
+          "Eine Methode zur Bildhelligkeit",
+          "Eine Methode zur Audioverarbeitung",
+          "Eine Methode zur Datenkompression"
+        ],
+        "correctIndex": 0,
+        "explanation": "LIME erklärt Vorhersagen einzelner Instanzen, indem es das komplexe Modell lokal durch ein einfaches, interpretierbares Modell (z.B. lineare Regression) approximiert.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, LIME-Verfahren",
+          "pages": "S. 34",
+          "chapter": "10.1 Lokale Erklärungsmethoden"
+        },
+        "tags": ["LIME", "Lokale Erklärung", "Approximation"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q32",
+        "text": "Was ist 'SHAP' (SHapley Additive exPlanations)?",
+        "options": [
+          "Eine auf Spieltheorie basierende Methode zur Berechnung von Feature-Wichtigkeiten",
+          "Eine Bildbearbeitungsmethode",
+          "Eine Audiokomprimierungsmethode",
+          "Eine Datenbankabfragesprache"
+        ],
+        "correctIndex": 0,
+        "explanation": "SHAP basiert auf Shapley-Werten aus der Spieltheorie und berechnet den Beitrag jedes Features zur Vorhersage auf eine mathematisch fundierte und faire Weise.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, SHAP-Werte",
+          "pages": "S. 35",
+          "chapter": "10.2 Globale Erklärungsmethoden"
+        },
+        "tags": ["SHAP", "Shapley-Werte", "Feature-Wichtigkeit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q33",
+        "text": "Was ist der Unterschied zwischen 'lokalen' und 'globalen' Erklärungen?",
+        "options": [
+          "Lokal erklärt einzelne Vorhersagen, global erklärt das gesamte Modellverhalten",
+          "Lokal ist schneller, global ist langsamer",
+          "Lokal ist einfacher, global ist komplexer",
+          "Es gibt keinen Unterschied"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lokale Erklärungen fokussieren sich auf eine spezifische Eingabe und erklären, warum das Modell für diese Eingabe eine bestimmte Vorhersage macht. Globale Erklärungen beschreiben das allgemeine Verhalten des Modells über alle möglichen Eingaben.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Lokale vs. globale Erklärungen",
+          "pages": "S. 36",
+          "chapter": "10.3 Erklärungsebenen"
+        },
+        "tags": ["Lokale Erklärung", "Globale Erklärung", "Erklärungsebenen"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q34",
+        "text": "Was sind 'Attention Mechanisms' im Kontext erklärbarer KI?",
+        "options": [
+          "Mechanismen, die zeigen, welche Eingabeteile für die Entscheidung wichtig sind",
+          "Mechanismen für bessere Konzentration",
+          "Mechanismen für schnellere Berechnungen",
+          "Mechanismen für Speicheroptimierung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Attention Mechanisms in neuronalen Netzen zeigen, welche Teile der Eingabe (z.B. Wörter in einem Text oder Bereiche in einem Bild) für die Entscheidung des Modells besonders relevant sind.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Attention-basierte Erklärungen",
+          "pages": "S. 37",
+          "chapter": "10.4 Intrinsische Erklärbarkeit"
+        },
+        "tags": ["Attention Mechanisms", "Relevanz", "Intrinsische Erklärbarkeit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Was ist 'Gradient-based Explanation' bei neuronalen Netzen?",
+        "options": [
+          "Erklärungen basierend auf den Gradienten der Ausgabe bezüglich der Eingabe",
+          "Erklärungen über Farbverläufe",
+          "Erklärungen über Höhenunterschiede",
+          "Erklärungen über Temperaturunterschiede"
+        ],
+        "correctIndex": 0,
+        "explanation": "Gradient-basierte Erklärungen nutzen die Gradienten (Ableitungen) der Netzwerkausgabe bezüglich der Eingabefeatures, um zu zeigen, welche Eingabedimensionen den stärksten Einfluss auf die Vorhersage haben.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Gradient-basierte Methoden",
+          "pages": "S. 38",
+          "chapter": "10.5 Gradientenbasierte Erklärungen"
+        },
+        "tags": ["Gradient-based", "Ableitungen", "Sensitivität"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q36",
+        "text": "Was ist das Problem der 'Gradient Saturation' bei Erklärungsmethoden?",
+        "options": [
+          "Gradienten werden null oder sehr klein, obwohl Features relevant sind",
+          "Gradienten werden zu groß",
+          "Gradienten werden zu schnell berechnet",
+          "Gradienten werden zu langsam berechnet"
+        ],
+        "correctIndex": 0,
+        "explanation": "Gradient Saturation tritt auf, wenn Neuronen in Sättigungsbereichen ihrer Aktivierungsfunktionen arbeiten. Die Gradienten werden nahe null, obwohl die entsprechenden Features durchaus relevant für die Entscheidung sind.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Probleme gradient-basierter Methoden",
+          "pages": "S. 39",
+          "chapter": "10.5 Gradientenbasierte Erklärungen"
+        },
+        "tags": ["Gradient Saturation", "Sättigung", "Aktivierungsfunktionen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q37",
+        "text": "Was ist 'Integrated Gradients' als Verbesserung zu einfachen Gradienten?",
+        "options": [
+          "Integration der Gradienten entlang eines Pfades von einer Baseline zur Eingabe",
+          "Addition aller Gradienten",
+          "Multiplikation aller Gradienten",
+          "Division aller Gradienten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Integrated Gradients berechnet die Wichtigkeit eines Features durch Integration der Gradienten entlang eines geradlinigen Pfades von einer Baseline (z.B. Nullvektor) zur aktuellen Eingabe. Dies löst Probleme der Gradient Saturation.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Integrated Gradients",
+          "pages": "S. 40",
+          "chapter": "10.6 Verbesserte Gradientenmethoden"
+        },
+        "tags": ["Integrated Gradients", "Integration", "Baseline"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q38",
+        "text": "Welche Rolle spielt die 'Axiomatische Fundierung' bei Erklärungsmethoden?",
+        "options": [
+          "Sie definiert wünschenswerte Eigenschaften, die gute Erklärungen erfüllen sollten",
+          "Sie beschleunigt die Berechnungen",
+          "Sie reduziert den Speicherverbrauch",
+          "Sie verbessert die Benutzeroberfläche"
+        ],
+        "correctIndex": 0,
+        "explanation": "Axiomatische Fundierung definiert mathematische Eigenschaften wie Sensitivität, Implementierungsinvarianz und Linearität, die gute Erklärungsmethoden erfüllen sollten. Dies hilft bei der Bewertung und Auswahl von Erklärungsverfahren.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Axiomatische Eigenschaften",
+          "pages": "S. 41",
+          "chapter": "11 Bewertung von Erklärungen"
+        },
+        "tags": ["Axiomatische Fundierung", "Sensitivität", "Eigenschaften"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Was ist 'Model Distillation' im Kontext erklärbarer KI?",
+        "options": [
+          "Training eines einfachen, interpretierbaren Modells zur Nachahmung eines komplexen Modells",
+          "Verdampfung von Daten",
+          "Komprimierung von Bildern",
+          "Verschlüsselung von Informationen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Model Distillation trainiert ein einfaches, von Natur aus interpretierbares Modell (z.B. Entscheidungsbaum) darauf, die Vorhersagen eines komplexen Modells zu imitieren. Das einfache Modell dient dann als Erklärung für das komplexe Modell.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Model Distillation",
+          "pages": "S. 42",
+          "chapter": "11.1 Surrogate-Modelle"
+        },
+        "tags": ["Model Distillation", "Surrogate-Modelle", "Interpretierbarkeit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q40",
+        "text": "Was sind die Hauptherausforderungen bei der 'Evaluation' von Erklärungsmethoden?",
+        "options": [
+          "Fehlende objektive Metriken und schwierige Validierung der Korrektheit",
+          "Zu schnelle Berechnungen",
+          "Zu wenig Speicherverbrauch",
+          "Zu einfache Implementierung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Evaluation von Erklärungen ist schwierig, da es oft keine objektive 'Ground Truth' für die korrekte Erklärung gibt. Metriken wie Faithfulness, Plausibilität und Stabilität sind schwer zu quantifizieren und zu validieren.",
+        "source": {
+          "citation": "BSI - Formale Methoden und erklärbare KI, Evaluation von Erklärungen",
+          "pages": "S. 43",
+          "chapter": "11.2 Evaluationsherausforderungen"
+        },
+        "tags": ["Evaluation", "Metriken", "Ground Truth"],
+        "difficulty": "leicht"
+      }
+    ]
+  }
+}

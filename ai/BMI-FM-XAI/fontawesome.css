@@ -1,0 +1,151 @@
+.fa-signal::before {
+    content: "📶";
+}
+/* Font Awesome Icons - Local Version (Essential icons only) */
+/* Using Unicode symbols instead of external fonts for better compatibility */
+
+.fas {
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    display: inline-block;
+    text-decoration: inherit;
+}
+
+/* Generic quiz icon */
+.fa-quiz-icon::before {
+    content: "❓";
+}
+
+/* Navigation icons */
+.fa-play::before {
+    content: "▶";
+}
+
+.fa-arrow-right::before {
+    content: "→";
+}
+
+.fa-arrow-left::before {
+    content: "←";
+}
+
+.fa-redo::before {
+    content: "↻";
+}
+
+.fa-download::before {
+    content: "⬇";
+}
+
+.fa-eye::before {
+    content: "👁";
+}
+
+/* Status icons */
+.fa-check-circle::before {
+    content: "✓";
+    color: #27ae60;
+}
+
+.fa-times-circle::before {
+    content: "✗";
+    color: #e74c3c;
+}
+
+.fa-trophy::before {
+    content: "🏆";
+}
+
+.fa-star::before {
+    content: "⭐";
+}
+
+/* Info icons */
+.fa-question-circle::before {
+    content: "❓";
+}
+
+.fa-list-ul::before {
+    content: "📋";
+}
+
+.fa-lightbulb::before {
+    content: "💡";
+}
+
+.fa-database::before {
+    content: "📊";
+}
+
+.fa-tags::before {
+    content: "🏷";
+}
+
+/* Loading spinner */
+.fa-spin {
+    animation: fa-spin 2s infinite linear;
+}
+
+@keyframes fa-spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* Size variations */
+.fa-lg {
+    font-size: 1.33333em;
+    line-height: 0.75em;
+    vertical-align: -0.0667em;
+}
+
+.fa-2x {
+    font-size: 2em;
+}
+
+.fa-3x {
+    font-size: 3em;
+}
+
+/* Alternative icons using CSS shapes for better design */
+/* Decorative quiz icon */
+.fas.fa-quiz-icon {
+    width: 1em;
+    height: 1em;
+    background: #546de5;
+    border-radius: 20%;
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    color: #ffffff;
+}
+
+.fas.fa-quiz-icon::before {
+    content: "❓";
+    color: #ffffff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Progress check icons */
+.fas.fa-check-circle {
+    color: #27ae60;
+    font-weight: bold;
+}
+
+.fas.fa-times-circle {
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+/* Ensure consistent sizing */
+.fas {
+    width: 1em;
+    text-align: center;
+}
