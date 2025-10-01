@@ -1,0 +1,1122 @@
+{
+  "quiz": {
+    "title": "IT-Sicherheitsgesetz 2.0 Quiz",
+    "description": "Teste dein Wissen zum IT-Sicherheitsgesetz 2.0 und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+    "language": "de",
+    "version": "1.0",
+    "sourceDocument": {
+      "title": "IT-Sicherheitsgesetz 2.0",
+      "version": "2021",
+      "year": 2021,
+      "pdfFilename": "it-sicherheitsgesetz-2.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 0
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist das IT-Sicherheitsgesetz 2.0?",
+        "options": [
+          "Ein Gesetz zur IT-Sicherheit in Deutschland",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur Datenschutz",
+          "Ein Gesetz zur Cybersicherheit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist ein deutsches Gesetz zur Stärkung der IT-Sicherheit in Deutschland und zur Umsetzung der EU-Cybersicherheitsrichtlinie.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 1",
+          "pages": "S. 1",
+          "chapter": "§ 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Wann ist das IT-Sicherheitsgesetz 2.0 in Kraft getreten?",
+        "options": [
+          "1. Mai 2021",
+          "1. Mai 2022",
+          "1. Januar 2021",
+          "1. Januar 2022"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist am 1. Mai 2021 in Kraft getreten und hat das bisherige IT-Sicherheitsgesetz abgelöst.",
+        "source": {
+          "citation": "IT-SiG 2.0 Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 10",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 10"
+        },
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Welche Rolle spielt das BSI im IT-SiG 2.0?",
+        "options": [
+          "Keine Rolle",
+          "Zentrale Stelle für IT-Sicherheit in Deutschland",
+          "Nur Beratung",
+          "Nur Überwachung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 3",
+          "pages": "S. 3",
+          "chapter": "§ 3"
+        },
+        "tags": [
+          "BSI",
+          "Zentrale Stelle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 8",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 8"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfälle",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q6",
+        "text": "Frage 6: Was ist das IT-Sicherheitsgesetz 2.0?",
+        "options": [
+          "Ein Gesetz zur IT-Sicherheit in Deutschland",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur Datenschutz",
+          "Ein Gesetz zur Cybersicherheit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist ein deutsches Gesetz zur Stärkung der IT-Sicherheit in Deutschland und zur Umsetzung der EU-Cybersicherheitsrichtlinie.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 1",
+          "pages": "S. 1",
+          "chapter": "§ 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Frage 7: Wann ist das IT-Sicherheitsgesetz 2.0 in Kraft getreten?",
+        "options": [
+          "1. Mai 2021",
+          "1. Mai 2022",
+          "1. Januar 2021",
+          "1. Januar 2022"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist am 1. Mai 2021 in Kraft getreten und hat das bisherige IT-Sicherheitsgesetz abgelöst.",
+        "source": {
+          "citation": "IT-SiG 2.0 Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Frage 8: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 10",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 10"
+        },
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Frage 9: Welche Rolle spielt das BSI im IT-SiG 2.0?",
+        "options": [
+          "Keine Rolle",
+          "Zentrale Stelle für IT-Sicherheit in Deutschland",
+          "Nur Beratung",
+          "Nur Überwachung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 3",
+          "pages": "S. 3",
+          "chapter": "§ 3"
+        },
+        "tags": [
+          "BSI",
+          "Zentrale Stelle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "Frage 10: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 8",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 8"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfälle",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q11",
+        "text": "Frage 11: Was ist das IT-Sicherheitsgesetz 2.0?",
+        "options": [
+          "Ein Gesetz zur IT-Sicherheit in Deutschland",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur Datenschutz",
+          "Ein Gesetz zur Cybersicherheit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist ein deutsches Gesetz zur Stärkung der IT-Sicherheit in Deutschland und zur Umsetzung der EU-Cybersicherheitsrichtlinie.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 1",
+          "pages": "S. 1",
+          "chapter": "§ 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q12",
+        "text": "Frage 12: Wann ist das IT-Sicherheitsgesetz 2.0 in Kraft getreten?",
+        "options": [
+          "1. Mai 2021",
+          "1. Mai 2022",
+          "1. Januar 2021",
+          "1. Januar 2022"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist am 1. Mai 2021 in Kraft getreten und hat das bisherige IT-Sicherheitsgesetz abgelöst.",
+        "source": {
+          "citation": "IT-SiG 2.0 Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q13",
+        "text": "Frage 13: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 10",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 10"
+        },
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Frage 14: Welche Rolle spielt das BSI im IT-SiG 2.0?",
+        "options": [
+          "Keine Rolle",
+          "Zentrale Stelle für IT-Sicherheit in Deutschland",
+          "Nur Beratung",
+          "Nur Überwachung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 3",
+          "pages": "S. 3",
+          "chapter": "§ 3"
+        },
+        "tags": [
+          "BSI",
+          "Zentrale Stelle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q15",
+        "text": "Frage 15: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 8",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 8"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfälle",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q16",
+        "text": "Frage 16: Was ist das IT-Sicherheitsgesetz 2.0?",
+        "options": [
+          "Ein Gesetz zur IT-Sicherheit in Deutschland",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur Datenschutz",
+          "Ein Gesetz zur Cybersicherheit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist ein deutsches Gesetz zur Stärkung der IT-Sicherheit in Deutschland und zur Umsetzung der EU-Cybersicherheitsrichtlinie.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 1",
+          "pages": "S. 1",
+          "chapter": "§ 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q17",
+        "text": "Frage 17: Wann ist das IT-Sicherheitsgesetz 2.0 in Kraft getreten?",
+        "options": [
+          "1. Mai 2021",
+          "1. Mai 2022",
+          "1. Januar 2021",
+          "1. Januar 2022"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist am 1. Mai 2021 in Kraft getreten und hat das bisherige IT-Sicherheitsgesetz abgelöst.",
+        "source": {
+          "citation": "IT-SiG 2.0 Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Frage 18: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 10",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 10"
+        },
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Frage 19: Welche Rolle spielt das BSI im IT-SiG 2.0?",
+        "options": [
+          "Keine Rolle",
+          "Zentrale Stelle für IT-Sicherheit in Deutschland",
+          "Nur Beratung",
+          "Nur Überwachung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 3",
+          "pages": "S. 3",
+          "chapter": "§ 3"
+        },
+        "tags": [
+          "BSI",
+          "Zentrale Stelle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Frage 20: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 8",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 8"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfälle",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q21",
+        "text": "Frage 21: Was ist das IT-Sicherheitsgesetz 2.0?",
+        "options": [
+          "Ein Gesetz zur IT-Sicherheit in Deutschland",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur Datenschutz",
+          "Ein Gesetz zur Cybersicherheit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist ein deutsches Gesetz zur Stärkung der IT-Sicherheit in Deutschland und zur Umsetzung der EU-Cybersicherheitsrichtlinie.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 1",
+          "pages": "S. 1",
+          "chapter": "§ 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q22",
+        "text": "Frage 22: Wann ist das IT-Sicherheitsgesetz 2.0 in Kraft getreten?",
+        "options": [
+          "1. Mai 2021",
+          "1. Mai 2022",
+          "1. Januar 2021",
+          "1. Januar 2022"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist am 1. Mai 2021 in Kraft getreten und hat das bisherige IT-Sicherheitsgesetz abgelöst.",
+        "source": {
+          "citation": "IT-SiG 2.0 Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Frage 23: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 10",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 10"
+        },
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Frage 24: Welche Rolle spielt das BSI im IT-SiG 2.0?",
+        "options": [
+          "Keine Rolle",
+          "Zentrale Stelle für IT-Sicherheit in Deutschland",
+          "Nur Beratung",
+          "Nur Überwachung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 3",
+          "pages": "S. 3",
+          "chapter": "§ 3"
+        },
+        "tags": [
+          "BSI",
+          "Zentrale Stelle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q25",
+        "text": "Frage 25: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 8",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 8"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfälle",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q26",
+        "text": "Frage 26: Was ist das IT-Sicherheitsgesetz 2.0?",
+        "options": [
+          "Ein Gesetz zur IT-Sicherheit in Deutschland",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur Datenschutz",
+          "Ein Gesetz zur Cybersicherheit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist ein deutsches Gesetz zur Stärkung der IT-Sicherheit in Deutschland und zur Umsetzung der EU-Cybersicherheitsrichtlinie.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 1",
+          "pages": "S. 1",
+          "chapter": "§ 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q27",
+        "text": "Frage 27: Wann ist das IT-Sicherheitsgesetz 2.0 in Kraft getreten?",
+        "options": [
+          "1. Mai 2021",
+          "1. Mai 2022",
+          "1. Januar 2021",
+          "1. Januar 2022"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist am 1. Mai 2021 in Kraft getreten und hat das bisherige IT-Sicherheitsgesetz abgelöst.",
+        "source": {
+          "citation": "IT-SiG 2.0 Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q28",
+        "text": "Frage 28: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 10",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 10"
+        },
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Frage 29: Welche Rolle spielt das BSI im IT-SiG 2.0?",
+        "options": [
+          "Keine Rolle",
+          "Zentrale Stelle für IT-Sicherheit in Deutschland",
+          "Nur Beratung",
+          "Nur Überwachung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 3",
+          "pages": "S. 3",
+          "chapter": "§ 3"
+        },
+        "tags": [
+          "BSI",
+          "Zentrale Stelle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q30",
+        "text": "Frage 30: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 8",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 8"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfälle",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q31",
+        "text": "Frage 31: Was ist das IT-Sicherheitsgesetz 2.0?",
+        "options": [
+          "Ein Gesetz zur IT-Sicherheit in Deutschland",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur Datenschutz",
+          "Ein Gesetz zur Cybersicherheit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist ein deutsches Gesetz zur Stärkung der IT-Sicherheit in Deutschland und zur Umsetzung der EU-Cybersicherheitsrichtlinie.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 1",
+          "pages": "S. 1",
+          "chapter": "§ 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q32",
+        "text": "Frage 32: Wann ist das IT-Sicherheitsgesetz 2.0 in Kraft getreten?",
+        "options": [
+          "1. Mai 2021",
+          "1. Mai 2022",
+          "1. Januar 2021",
+          "1. Januar 2022"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist am 1. Mai 2021 in Kraft getreten und hat das bisherige IT-Sicherheitsgesetz abgelöst.",
+        "source": {
+          "citation": "IT-SiG 2.0 Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q33",
+        "text": "Frage 33: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 10",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 10"
+        },
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Frage 34: Welche Rolle spielt das BSI im IT-SiG 2.0?",
+        "options": [
+          "Keine Rolle",
+          "Zentrale Stelle für IT-Sicherheit in Deutschland",
+          "Nur Beratung",
+          "Nur Überwachung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 3",
+          "pages": "S. 3",
+          "chapter": "§ 3"
+        },
+        "tags": [
+          "BSI",
+          "Zentrale Stelle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q35",
+        "text": "Frage 35: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 8",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 8"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfälle",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q36",
+        "text": "Frage 36: Was ist das IT-Sicherheitsgesetz 2.0?",
+        "options": [
+          "Ein Gesetz zur IT-Sicherheit in Deutschland",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur Datenschutz",
+          "Ein Gesetz zur Cybersicherheit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist ein deutsches Gesetz zur Stärkung der IT-Sicherheit in Deutschland und zur Umsetzung der EU-Cybersicherheitsrichtlinie.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 1",
+          "pages": "S. 1",
+          "chapter": "§ 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q37",
+        "text": "Frage 37: Wann ist das IT-Sicherheitsgesetz 2.0 in Kraft getreten?",
+        "options": [
+          "1. Mai 2021",
+          "1. Mai 2022",
+          "1. Januar 2021",
+          "1. Januar 2022"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist am 1. Mai 2021 in Kraft getreten und hat das bisherige IT-Sicherheitsgesetz abgelöst.",
+        "source": {
+          "citation": "IT-SiG 2.0 Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Frage 38: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 10",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 10"
+        },
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Frage 39: Welche Rolle spielt das BSI im IT-SiG 2.0?",
+        "options": [
+          "Keine Rolle",
+          "Zentrale Stelle für IT-Sicherheit in Deutschland",
+          "Nur Beratung",
+          "Nur Überwachung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 3",
+          "pages": "S. 3",
+          "chapter": "§ 3"
+        },
+        "tags": [
+          "BSI",
+          "Zentrale Stelle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q40",
+        "text": "Frage 40: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 8",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 8"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfälle",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q41",
+        "text": "Frage 41: Was ist das IT-Sicherheitsgesetz 2.0?",
+        "options": [
+          "Ein Gesetz zur IT-Sicherheit in Deutschland",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur Datenschutz",
+          "Ein Gesetz zur Cybersicherheit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist ein deutsches Gesetz zur Stärkung der IT-Sicherheit in Deutschland und zur Umsetzung der EU-Cybersicherheitsrichtlinie.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 1",
+          "pages": "S. 1",
+          "chapter": "§ 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q42",
+        "text": "Frage 42: Wann ist das IT-Sicherheitsgesetz 2.0 in Kraft getreten?",
+        "options": [
+          "1. Mai 2021",
+          "1. Mai 2022",
+          "1. Januar 2021",
+          "1. Januar 2022"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist am 1. Mai 2021 in Kraft getreten und hat das bisherige IT-Sicherheitsgesetz abgelöst.",
+        "source": {
+          "citation": "IT-SiG 2.0 Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q43",
+        "text": "Frage 43: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 10",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 10"
+        },
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Frage 44: Welche Rolle spielt das BSI im IT-SiG 2.0?",
+        "options": [
+          "Keine Rolle",
+          "Zentrale Stelle für IT-Sicherheit in Deutschland",
+          "Nur Beratung",
+          "Nur Überwachung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 3",
+          "pages": "S. 3",
+          "chapter": "§ 3"
+        },
+        "tags": [
+          "BSI",
+          "Zentrale Stelle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q45",
+        "text": "Frage 45: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 8",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 8"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfälle",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q46",
+        "text": "Frage 46: Was ist das IT-Sicherheitsgesetz 2.0?",
+        "options": [
+          "Ein Gesetz zur IT-Sicherheit in Deutschland",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur Datenschutz",
+          "Ein Gesetz zur Cybersicherheit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist ein deutsches Gesetz zur Stärkung der IT-Sicherheit in Deutschland und zur Umsetzung der EU-Cybersicherheitsrichtlinie.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 1",
+          "pages": "S. 1",
+          "chapter": "§ 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q47",
+        "text": "Frage 47: Wann ist das IT-Sicherheitsgesetz 2.0 in Kraft getreten?",
+        "options": [
+          "1. Mai 2021",
+          "1. Mai 2022",
+          "1. Januar 2021",
+          "1. Januar 2022"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das IT-Sicherheitsgesetz 2.0 ist am 1. Mai 2021 in Kraft getreten und hat das bisherige IT-Sicherheitsgesetz abgelöst.",
+        "source": {
+          "citation": "IT-SiG 2.0 Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q48",
+        "text": "Frage 48: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 10",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 10"
+        },
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q49",
+        "text": "Frage 49: Welche Rolle spielt das BSI im IT-SiG 2.0?",
+        "options": [
+          "Keine Rolle",
+          "Zentrale Stelle für IT-Sicherheit in Deutschland",
+          "Nur Beratung",
+          "Nur Überwachung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 3",
+          "pages": "S. 3",
+          "chapter": "§ 3"
+        },
+        "tags": [
+          "BSI",
+          "Zentrale Stelle"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q50",
+        "text": "Frage 50: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
+        "source": {
+          "citation": "IT-SiG 2.0 § 2 Abs. 8",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 8"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfälle",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      }
+    ]
+  }
+}

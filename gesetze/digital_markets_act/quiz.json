@@ -1,0 +1,1122 @@
+{
+  "quiz": {
+    "title": "Digital Markets Act Quiz",
+    "description": "Teste dein Wissen zum Digital Markets Act (DMA) und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+    "language": "de",
+    "version": "1.0",
+    "sourceDocument": {
+      "title": "Digital Markets Act (EU) 2022/1925",
+      "version": "2022",
+      "year": 2022,
+      "pdfFilename": "digital_markets_act_hintergrundpapier_1.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 0
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist der Digital Markets Act (DMA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Märkte",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DMA ist ein EU-Gesetz zur Regulierung digitaler Märkte und zur Bekämpfung von Marktmachtmissbrauch durch große Tech-Unternehmen.",
+        "source": {
+          "citation": "DMA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Wann ist der DMA in Kraft getreten?",
+        "options": [
+          "1. November 2022",
+          "2. Mai 2023",
+          "1. Januar 2023",
+          "2. Mai 2022"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DMA ist am 2. Mai 2023 in Kraft getreten und gilt für alle Gatekeeper-Plattformen in der EU.",
+        "source": {
+          "citation": "DMA Art. 54",
+          "pages": "S. 54",
+          "chapter": "Art. 54"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist ein 'Gatekeeper' nach dem DMA?",
+        "options": [
+          "Ein Türsteher",
+          "Eine große digitale Plattform mit erheblicher Marktmacht",
+          "Ein Moderator",
+          "Ein Administrator"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper ist eine große digitale Plattform mit erheblicher Marktmacht, die als Vermittler zwischen Unternehmen und Endnutzern fungiert.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Gatekeeper",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Welche Kriterien definieren einen Gatekeeper?",
+        "options": [
+          "Nur Umsatz",
+          "Umsatz, Nutzerzahl und Marktstellung",
+          "Nur Nutzerzahl",
+          "Nur Marktstellung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper wird durch drei Kriterien definiert: hoher Umsatz, große Nutzerzahl und starke Marktstellung als Vermittler.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Kriterien",
+          "Gatekeeper"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was sind 'Kernplattformdienste' nach dem DMA?",
+        "options": [
+          "Nur soziale Medien",
+          "Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste, Werbeplattformen",
+          "Nur E-Commerce",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kernplattformdienste umfassen Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste und Werbeplattformen.",
+        "source": {
+          "citation": "DMA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Kernplattformdienste",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Frage 6: Was ist der Digital Markets Act (DMA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Märkte",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DMA ist ein EU-Gesetz zur Regulierung digitaler Märkte und zur Bekämpfung von Marktmachtmissbrauch durch große Tech-Unternehmen.",
+        "source": {
+          "citation": "DMA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Frage 7: Wann ist der DMA in Kraft getreten?",
+        "options": [
+          "1. November 2022",
+          "2. Mai 2023",
+          "1. Januar 2023",
+          "2. Mai 2022"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DMA ist am 2. Mai 2023 in Kraft getreten und gilt für alle Gatekeeper-Plattformen in der EU.",
+        "source": {
+          "citation": "DMA Art. 54",
+          "pages": "S. 54",
+          "chapter": "Art. 54"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Frage 8: Was ist ein 'Gatekeeper' nach dem DMA?",
+        "options": [
+          "Ein Türsteher",
+          "Eine große digitale Plattform mit erheblicher Marktmacht",
+          "Ein Moderator",
+          "Ein Administrator"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper ist eine große digitale Plattform mit erheblicher Marktmacht, die als Vermittler zwischen Unternehmen und Endnutzern fungiert.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Gatekeeper",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Frage 9: Welche Kriterien definieren einen Gatekeeper?",
+        "options": [
+          "Nur Umsatz",
+          "Umsatz, Nutzerzahl und Marktstellung",
+          "Nur Nutzerzahl",
+          "Nur Marktstellung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper wird durch drei Kriterien definiert: hoher Umsatz, große Nutzerzahl und starke Marktstellung als Vermittler.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Kriterien",
+          "Gatekeeper"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q10",
+        "text": "Frage 10: Was sind 'Kernplattformdienste' nach dem DMA?",
+        "options": [
+          "Nur soziale Medien",
+          "Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste, Werbeplattformen",
+          "Nur E-Commerce",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kernplattformdienste umfassen Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste und Werbeplattformen.",
+        "source": {
+          "citation": "DMA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Kernplattformdienste",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Frage 11: Was ist der Digital Markets Act (DMA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Märkte",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DMA ist ein EU-Gesetz zur Regulierung digitaler Märkte und zur Bekämpfung von Marktmachtmissbrauch durch große Tech-Unternehmen.",
+        "source": {
+          "citation": "DMA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q12",
+        "text": "Frage 12: Wann ist der DMA in Kraft getreten?",
+        "options": [
+          "1. November 2022",
+          "2. Mai 2023",
+          "1. Januar 2023",
+          "2. Mai 2022"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DMA ist am 2. Mai 2023 in Kraft getreten und gilt für alle Gatekeeper-Plattformen in der EU.",
+        "source": {
+          "citation": "DMA Art. 54",
+          "pages": "S. 54",
+          "chapter": "Art. 54"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q13",
+        "text": "Frage 13: Was ist ein 'Gatekeeper' nach dem DMA?",
+        "options": [
+          "Ein Türsteher",
+          "Eine große digitale Plattform mit erheblicher Marktmacht",
+          "Ein Moderator",
+          "Ein Administrator"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper ist eine große digitale Plattform mit erheblicher Marktmacht, die als Vermittler zwischen Unternehmen und Endnutzern fungiert.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Gatekeeper",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Frage 14: Welche Kriterien definieren einen Gatekeeper?",
+        "options": [
+          "Nur Umsatz",
+          "Umsatz, Nutzerzahl und Marktstellung",
+          "Nur Nutzerzahl",
+          "Nur Marktstellung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper wird durch drei Kriterien definiert: hoher Umsatz, große Nutzerzahl und starke Marktstellung als Vermittler.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Kriterien",
+          "Gatekeeper"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Frage 15: Was sind 'Kernplattformdienste' nach dem DMA?",
+        "options": [
+          "Nur soziale Medien",
+          "Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste, Werbeplattformen",
+          "Nur E-Commerce",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kernplattformdienste umfassen Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste und Werbeplattformen.",
+        "source": {
+          "citation": "DMA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Kernplattformdienste",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Frage 16: Was ist der Digital Markets Act (DMA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Märkte",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DMA ist ein EU-Gesetz zur Regulierung digitaler Märkte und zur Bekämpfung von Marktmachtmissbrauch durch große Tech-Unternehmen.",
+        "source": {
+          "citation": "DMA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q17",
+        "text": "Frage 17: Wann ist der DMA in Kraft getreten?",
+        "options": [
+          "1. November 2022",
+          "2. Mai 2023",
+          "1. Januar 2023",
+          "2. Mai 2022"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DMA ist am 2. Mai 2023 in Kraft getreten und gilt für alle Gatekeeper-Plattformen in der EU.",
+        "source": {
+          "citation": "DMA Art. 54",
+          "pages": "S. 54",
+          "chapter": "Art. 54"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Frage 18: Was ist ein 'Gatekeeper' nach dem DMA?",
+        "options": [
+          "Ein Türsteher",
+          "Eine große digitale Plattform mit erheblicher Marktmacht",
+          "Ein Moderator",
+          "Ein Administrator"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper ist eine große digitale Plattform mit erheblicher Marktmacht, die als Vermittler zwischen Unternehmen und Endnutzern fungiert.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Gatekeeper",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Frage 19: Welche Kriterien definieren einen Gatekeeper?",
+        "options": [
+          "Nur Umsatz",
+          "Umsatz, Nutzerzahl und Marktstellung",
+          "Nur Nutzerzahl",
+          "Nur Marktstellung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper wird durch drei Kriterien definiert: hoher Umsatz, große Nutzerzahl und starke Marktstellung als Vermittler.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Kriterien",
+          "Gatekeeper"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q20",
+        "text": "Frage 20: Was sind 'Kernplattformdienste' nach dem DMA?",
+        "options": [
+          "Nur soziale Medien",
+          "Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste, Werbeplattformen",
+          "Nur E-Commerce",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kernplattformdienste umfassen Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste und Werbeplattformen.",
+        "source": {
+          "citation": "DMA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Kernplattformdienste",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Frage 21: Was ist der Digital Markets Act (DMA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Märkte",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DMA ist ein EU-Gesetz zur Regulierung digitaler Märkte und zur Bekämpfung von Marktmachtmissbrauch durch große Tech-Unternehmen.",
+        "source": {
+          "citation": "DMA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q22",
+        "text": "Frage 22: Wann ist der DMA in Kraft getreten?",
+        "options": [
+          "1. November 2022",
+          "2. Mai 2023",
+          "1. Januar 2023",
+          "2. Mai 2022"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DMA ist am 2. Mai 2023 in Kraft getreten und gilt für alle Gatekeeper-Plattformen in der EU.",
+        "source": {
+          "citation": "DMA Art. 54",
+          "pages": "S. 54",
+          "chapter": "Art. 54"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Frage 23: Was ist ein 'Gatekeeper' nach dem DMA?",
+        "options": [
+          "Ein Türsteher",
+          "Eine große digitale Plattform mit erheblicher Marktmacht",
+          "Ein Moderator",
+          "Ein Administrator"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper ist eine große digitale Plattform mit erheblicher Marktmacht, die als Vermittler zwischen Unternehmen und Endnutzern fungiert.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Gatekeeper",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Frage 24: Welche Kriterien definieren einen Gatekeeper?",
+        "options": [
+          "Nur Umsatz",
+          "Umsatz, Nutzerzahl und Marktstellung",
+          "Nur Nutzerzahl",
+          "Nur Marktstellung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper wird durch drei Kriterien definiert: hoher Umsatz, große Nutzerzahl und starke Marktstellung als Vermittler.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Kriterien",
+          "Gatekeeper"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "Frage 25: Was sind 'Kernplattformdienste' nach dem DMA?",
+        "options": [
+          "Nur soziale Medien",
+          "Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste, Werbeplattformen",
+          "Nur E-Commerce",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kernplattformdienste umfassen Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste und Werbeplattformen.",
+        "source": {
+          "citation": "DMA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Kernplattformdienste",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Frage 26: Was ist der Digital Markets Act (DMA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Märkte",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DMA ist ein EU-Gesetz zur Regulierung digitaler Märkte und zur Bekämpfung von Marktmachtmissbrauch durch große Tech-Unternehmen.",
+        "source": {
+          "citation": "DMA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q27",
+        "text": "Frage 27: Wann ist der DMA in Kraft getreten?",
+        "options": [
+          "1. November 2022",
+          "2. Mai 2023",
+          "1. Januar 2023",
+          "2. Mai 2022"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DMA ist am 2. Mai 2023 in Kraft getreten und gilt für alle Gatekeeper-Plattformen in der EU.",
+        "source": {
+          "citation": "DMA Art. 54",
+          "pages": "S. 54",
+          "chapter": "Art. 54"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q28",
+        "text": "Frage 28: Was ist ein 'Gatekeeper' nach dem DMA?",
+        "options": [
+          "Ein Türsteher",
+          "Eine große digitale Plattform mit erheblicher Marktmacht",
+          "Ein Moderator",
+          "Ein Administrator"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper ist eine große digitale Plattform mit erheblicher Marktmacht, die als Vermittler zwischen Unternehmen und Endnutzern fungiert.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Gatekeeper",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Frage 29: Welche Kriterien definieren einen Gatekeeper?",
+        "options": [
+          "Nur Umsatz",
+          "Umsatz, Nutzerzahl und Marktstellung",
+          "Nur Nutzerzahl",
+          "Nur Marktstellung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper wird durch drei Kriterien definiert: hoher Umsatz, große Nutzerzahl und starke Marktstellung als Vermittler.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Kriterien",
+          "Gatekeeper"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Frage 30: Was sind 'Kernplattformdienste' nach dem DMA?",
+        "options": [
+          "Nur soziale Medien",
+          "Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste, Werbeplattformen",
+          "Nur E-Commerce",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kernplattformdienste umfassen Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste und Werbeplattformen.",
+        "source": {
+          "citation": "DMA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Kernplattformdienste",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q31",
+        "text": "Frage 31: Was ist der Digital Markets Act (DMA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Märkte",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DMA ist ein EU-Gesetz zur Regulierung digitaler Märkte und zur Bekämpfung von Marktmachtmissbrauch durch große Tech-Unternehmen.",
+        "source": {
+          "citation": "DMA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q32",
+        "text": "Frage 32: Wann ist der DMA in Kraft getreten?",
+        "options": [
+          "1. November 2022",
+          "2. Mai 2023",
+          "1. Januar 2023",
+          "2. Mai 2022"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DMA ist am 2. Mai 2023 in Kraft getreten und gilt für alle Gatekeeper-Plattformen in der EU.",
+        "source": {
+          "citation": "DMA Art. 54",
+          "pages": "S. 54",
+          "chapter": "Art. 54"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q33",
+        "text": "Frage 33: Was ist ein 'Gatekeeper' nach dem DMA?",
+        "options": [
+          "Ein Türsteher",
+          "Eine große digitale Plattform mit erheblicher Marktmacht",
+          "Ein Moderator",
+          "Ein Administrator"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper ist eine große digitale Plattform mit erheblicher Marktmacht, die als Vermittler zwischen Unternehmen und Endnutzern fungiert.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Gatekeeper",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Frage 34: Welche Kriterien definieren einen Gatekeeper?",
+        "options": [
+          "Nur Umsatz",
+          "Umsatz, Nutzerzahl und Marktstellung",
+          "Nur Nutzerzahl",
+          "Nur Marktstellung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper wird durch drei Kriterien definiert: hoher Umsatz, große Nutzerzahl und starke Marktstellung als Vermittler.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Kriterien",
+          "Gatekeeper"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Frage 35: Was sind 'Kernplattformdienste' nach dem DMA?",
+        "options": [
+          "Nur soziale Medien",
+          "Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste, Werbeplattformen",
+          "Nur E-Commerce",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kernplattformdienste umfassen Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste und Werbeplattformen.",
+        "source": {
+          "citation": "DMA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Kernplattformdienste",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Frage 36: Was ist der Digital Markets Act (DMA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Märkte",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DMA ist ein EU-Gesetz zur Regulierung digitaler Märkte und zur Bekämpfung von Marktmachtmissbrauch durch große Tech-Unternehmen.",
+        "source": {
+          "citation": "DMA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q37",
+        "text": "Frage 37: Wann ist der DMA in Kraft getreten?",
+        "options": [
+          "1. November 2022",
+          "2. Mai 2023",
+          "1. Januar 2023",
+          "2. Mai 2022"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DMA ist am 2. Mai 2023 in Kraft getreten und gilt für alle Gatekeeper-Plattformen in der EU.",
+        "source": {
+          "citation": "DMA Art. 54",
+          "pages": "S. 54",
+          "chapter": "Art. 54"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Frage 38: Was ist ein 'Gatekeeper' nach dem DMA?",
+        "options": [
+          "Ein Türsteher",
+          "Eine große digitale Plattform mit erheblicher Marktmacht",
+          "Ein Moderator",
+          "Ein Administrator"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper ist eine große digitale Plattform mit erheblicher Marktmacht, die als Vermittler zwischen Unternehmen und Endnutzern fungiert.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Gatekeeper",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Frage 39: Welche Kriterien definieren einen Gatekeeper?",
+        "options": [
+          "Nur Umsatz",
+          "Umsatz, Nutzerzahl und Marktstellung",
+          "Nur Nutzerzahl",
+          "Nur Marktstellung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper wird durch drei Kriterien definiert: hoher Umsatz, große Nutzerzahl und starke Marktstellung als Vermittler.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Kriterien",
+          "Gatekeeper"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q40",
+        "text": "Frage 40: Was sind 'Kernplattformdienste' nach dem DMA?",
+        "options": [
+          "Nur soziale Medien",
+          "Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste, Werbeplattformen",
+          "Nur E-Commerce",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kernplattformdienste umfassen Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste und Werbeplattformen.",
+        "source": {
+          "citation": "DMA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Kernplattformdienste",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q41",
+        "text": "Frage 41: Was ist der Digital Markets Act (DMA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Märkte",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DMA ist ein EU-Gesetz zur Regulierung digitaler Märkte und zur Bekämpfung von Marktmachtmissbrauch durch große Tech-Unternehmen.",
+        "source": {
+          "citation": "DMA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q42",
+        "text": "Frage 42: Wann ist der DMA in Kraft getreten?",
+        "options": [
+          "1. November 2022",
+          "2. Mai 2023",
+          "1. Januar 2023",
+          "2. Mai 2022"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DMA ist am 2. Mai 2023 in Kraft getreten und gilt für alle Gatekeeper-Plattformen in der EU.",
+        "source": {
+          "citation": "DMA Art. 54",
+          "pages": "S. 54",
+          "chapter": "Art. 54"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q43",
+        "text": "Frage 43: Was ist ein 'Gatekeeper' nach dem DMA?",
+        "options": [
+          "Ein Türsteher",
+          "Eine große digitale Plattform mit erheblicher Marktmacht",
+          "Ein Moderator",
+          "Ein Administrator"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper ist eine große digitale Plattform mit erheblicher Marktmacht, die als Vermittler zwischen Unternehmen und Endnutzern fungiert.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Gatekeeper",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Frage 44: Welche Kriterien definieren einen Gatekeeper?",
+        "options": [
+          "Nur Umsatz",
+          "Umsatz, Nutzerzahl und Marktstellung",
+          "Nur Nutzerzahl",
+          "Nur Marktstellung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper wird durch drei Kriterien definiert: hoher Umsatz, große Nutzerzahl und starke Marktstellung als Vermittler.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Kriterien",
+          "Gatekeeper"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Frage 45: Was sind 'Kernplattformdienste' nach dem DMA?",
+        "options": [
+          "Nur soziale Medien",
+          "Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste, Werbeplattformen",
+          "Nur E-Commerce",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kernplattformdienste umfassen Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste und Werbeplattformen.",
+        "source": {
+          "citation": "DMA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Kernplattformdienste",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q46",
+        "text": "Frage 46: Was ist der Digital Markets Act (DMA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Märkte",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DMA ist ein EU-Gesetz zur Regulierung digitaler Märkte und zur Bekämpfung von Marktmachtmissbrauch durch große Tech-Unternehmen.",
+        "source": {
+          "citation": "DMA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q47",
+        "text": "Frage 47: Wann ist der DMA in Kraft getreten?",
+        "options": [
+          "1. November 2022",
+          "2. Mai 2023",
+          "1. Januar 2023",
+          "2. Mai 2022"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DMA ist am 2. Mai 2023 in Kraft getreten und gilt für alle Gatekeeper-Plattformen in der EU.",
+        "source": {
+          "citation": "DMA Art. 54",
+          "pages": "S. 54",
+          "chapter": "Art. 54"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q48",
+        "text": "Frage 48: Was ist ein 'Gatekeeper' nach dem DMA?",
+        "options": [
+          "Ein Türsteher",
+          "Eine große digitale Plattform mit erheblicher Marktmacht",
+          "Ein Moderator",
+          "Ein Administrator"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper ist eine große digitale Plattform mit erheblicher Marktmacht, die als Vermittler zwischen Unternehmen und Endnutzern fungiert.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Gatekeeper",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q49",
+        "text": "Frage 49: Welche Kriterien definieren einen Gatekeeper?",
+        "options": [
+          "Nur Umsatz",
+          "Umsatz, Nutzerzahl und Marktstellung",
+          "Nur Nutzerzahl",
+          "Nur Marktstellung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Gatekeeper wird durch drei Kriterien definiert: hoher Umsatz, große Nutzerzahl und starke Marktstellung als Vermittler.",
+        "source": {
+          "citation": "DMA Art. 3",
+          "pages": "S. 3",
+          "chapter": "Art. 3"
+        },
+        "tags": [
+          "Kriterien",
+          "Gatekeeper"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q50",
+        "text": "Frage 50: Was sind 'Kernplattformdienste' nach dem DMA?",
+        "options": [
+          "Nur soziale Medien",
+          "Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste, Werbeplattformen",
+          "Nur E-Commerce",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kernplattformdienste umfassen Online-Suchmaschinen, Online-Vermittlungsdienste, soziale Netzwerke, Video-Sharing-Plattformen, Cloud-Computing-Dienste und Werbeplattformen.",
+        "source": {
+          "citation": "DMA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Kernplattformdienste",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

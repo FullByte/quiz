@@ -1,0 +1,1122 @@
+{
+  "quiz": {
+    "title": "Digitale Dienste Quiz",
+    "description": "Teste dein Wissen zum Digital Services Act (DSA) und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+    "language": "de",
+    "version": "1.0",
+    "sourceDocument": {
+      "title": "Digital Services Act (EU) 2022/2065",
+      "version": "2022",
+      "year": 2022,
+      "pdfFilename": "CELEX_32022R2065_DE_TXT.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 0
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist der Digital Services Act (DSA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Plattformen",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DSA ist ein EU-Gesetz zur Regulierung digitaler Plattformen und Online-Dienste, das neue Verpflichtungen für Anbieter digitaler Dienste einführt.",
+        "source": {
+          "citation": "DSA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Wann ist der DSA in Kraft getreten?",
+        "options": [
+          "1. Januar 2023",
+          "17. Februar 2024",
+          "1. Januar 2024",
+          "17. Februar 2023"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DSA ist am 17. Februar 2024 in Kraft getreten und gilt für alle Anbieter digitaler Dienste in der EU.",
+        "source": {
+          "citation": "DSA Art. 93",
+          "pages": "S. 93",
+          "chapter": "Art. 93"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Was sind 'digitale Dienste' im Sinne des DSA?",
+        "options": [
+          "Nur soziale Medien",
+          "Alle Online-Dienste, die in der EU angeboten werden",
+          "Nur E-Commerce-Plattformen",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Digitale Dienste umfassen alle Online-Dienste, die in der EU angeboten werden, einschließlich sozialer Medien, E-Commerce-Plattformen und Suchmaschinen.",
+        "source": {
+          "citation": "DSA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Definitionen",
+          "Digitale Dienste"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Was sind 'sehr große Online-Plattformen' nach dem DSA?",
+        "options": [
+          "Plattformen mit über 1 Million Nutzern",
+          "Plattformen mit über 45 Millionen aktiven Nutzern in der EU",
+          "Plattformen mit über 10 Millionen Nutzern",
+          "Plattformen mit über 100 Millionen Nutzern"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sehr große Online-Plattformen sind solche mit über 45 Millionen aktiven Nutzern in der EU, die besonderen Verpflichtungen unterliegen.",
+        "source": {
+          "citation": "DSA Art. 25",
+          "pages": "S. 25",
+          "chapter": "Art. 25"
+        },
+        "tags": [
+          "Sehr große Plattformen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Welche Verpflichtungen haben Anbieter digitaler Dienste?",
+        "options": [
+          "Nur Transparenz",
+          "Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte",
+          "Nur Datenschutz",
+          "Nur IT-Sicherheit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anbieter digitaler Dienste haben umfassende Verpflichtungen: Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte.",
+        "source": {
+          "citation": "DSA Art. 3-15",
+          "pages": "S. 3-15",
+          "chapter": "Art. 3-15"
+        },
+        "tags": [
+          "Verpflichtungen",
+          "Anbieter"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Frage 6: Was ist der Digital Services Act (DSA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Plattformen",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DSA ist ein EU-Gesetz zur Regulierung digitaler Plattformen und Online-Dienste, das neue Verpflichtungen für Anbieter digitaler Dienste einführt.",
+        "source": {
+          "citation": "DSA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Frage 7: Wann ist der DSA in Kraft getreten?",
+        "options": [
+          "1. Januar 2023",
+          "17. Februar 2024",
+          "1. Januar 2024",
+          "17. Februar 2023"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DSA ist am 17. Februar 2024 in Kraft getreten und gilt für alle Anbieter digitaler Dienste in der EU.",
+        "source": {
+          "citation": "DSA Art. 93",
+          "pages": "S. 93",
+          "chapter": "Art. 93"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Frage 8: Was sind 'digitale Dienste' im Sinne des DSA?",
+        "options": [
+          "Nur soziale Medien",
+          "Alle Online-Dienste, die in der EU angeboten werden",
+          "Nur E-Commerce-Plattformen",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Digitale Dienste umfassen alle Online-Dienste, die in der EU angeboten werden, einschließlich sozialer Medien, E-Commerce-Plattformen und Suchmaschinen.",
+        "source": {
+          "citation": "DSA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Definitionen",
+          "Digitale Dienste"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Frage 9: Was sind 'sehr große Online-Plattformen' nach dem DSA?",
+        "options": [
+          "Plattformen mit über 1 Million Nutzern",
+          "Plattformen mit über 45 Millionen aktiven Nutzern in der EU",
+          "Plattformen mit über 10 Millionen Nutzern",
+          "Plattformen mit über 100 Millionen Nutzern"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sehr große Online-Plattformen sind solche mit über 45 Millionen aktiven Nutzern in der EU, die besonderen Verpflichtungen unterliegen.",
+        "source": {
+          "citation": "DSA Art. 25",
+          "pages": "S. 25",
+          "chapter": "Art. 25"
+        },
+        "tags": [
+          "Sehr große Plattformen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q10",
+        "text": "Frage 10: Welche Verpflichtungen haben Anbieter digitaler Dienste?",
+        "options": [
+          "Nur Transparenz",
+          "Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte",
+          "Nur Datenschutz",
+          "Nur IT-Sicherheit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anbieter digitaler Dienste haben umfassende Verpflichtungen: Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte.",
+        "source": {
+          "citation": "DSA Art. 3-15",
+          "pages": "S. 3-15",
+          "chapter": "Art. 3-15"
+        },
+        "tags": [
+          "Verpflichtungen",
+          "Anbieter"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Frage 11: Was ist der Digital Services Act (DSA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Plattformen",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DSA ist ein EU-Gesetz zur Regulierung digitaler Plattformen und Online-Dienste, das neue Verpflichtungen für Anbieter digitaler Dienste einführt.",
+        "source": {
+          "citation": "DSA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q12",
+        "text": "Frage 12: Wann ist der DSA in Kraft getreten?",
+        "options": [
+          "1. Januar 2023",
+          "17. Februar 2024",
+          "1. Januar 2024",
+          "17. Februar 2023"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DSA ist am 17. Februar 2024 in Kraft getreten und gilt für alle Anbieter digitaler Dienste in der EU.",
+        "source": {
+          "citation": "DSA Art. 93",
+          "pages": "S. 93",
+          "chapter": "Art. 93"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q13",
+        "text": "Frage 13: Was sind 'digitale Dienste' im Sinne des DSA?",
+        "options": [
+          "Nur soziale Medien",
+          "Alle Online-Dienste, die in der EU angeboten werden",
+          "Nur E-Commerce-Plattformen",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Digitale Dienste umfassen alle Online-Dienste, die in der EU angeboten werden, einschließlich sozialer Medien, E-Commerce-Plattformen und Suchmaschinen.",
+        "source": {
+          "citation": "DSA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Definitionen",
+          "Digitale Dienste"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Frage 14: Was sind 'sehr große Online-Plattformen' nach dem DSA?",
+        "options": [
+          "Plattformen mit über 1 Million Nutzern",
+          "Plattformen mit über 45 Millionen aktiven Nutzern in der EU",
+          "Plattformen mit über 10 Millionen Nutzern",
+          "Plattformen mit über 100 Millionen Nutzern"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sehr große Online-Plattformen sind solche mit über 45 Millionen aktiven Nutzern in der EU, die besonderen Verpflichtungen unterliegen.",
+        "source": {
+          "citation": "DSA Art. 25",
+          "pages": "S. 25",
+          "chapter": "Art. 25"
+        },
+        "tags": [
+          "Sehr große Plattformen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Frage 15: Welche Verpflichtungen haben Anbieter digitaler Dienste?",
+        "options": [
+          "Nur Transparenz",
+          "Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte",
+          "Nur Datenschutz",
+          "Nur IT-Sicherheit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anbieter digitaler Dienste haben umfassende Verpflichtungen: Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte.",
+        "source": {
+          "citation": "DSA Art. 3-15",
+          "pages": "S. 3-15",
+          "chapter": "Art. 3-15"
+        },
+        "tags": [
+          "Verpflichtungen",
+          "Anbieter"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Frage 16: Was ist der Digital Services Act (DSA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Plattformen",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DSA ist ein EU-Gesetz zur Regulierung digitaler Plattformen und Online-Dienste, das neue Verpflichtungen für Anbieter digitaler Dienste einführt.",
+        "source": {
+          "citation": "DSA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q17",
+        "text": "Frage 17: Wann ist der DSA in Kraft getreten?",
+        "options": [
+          "1. Januar 2023",
+          "17. Februar 2024",
+          "1. Januar 2024",
+          "17. Februar 2023"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DSA ist am 17. Februar 2024 in Kraft getreten und gilt für alle Anbieter digitaler Dienste in der EU.",
+        "source": {
+          "citation": "DSA Art. 93",
+          "pages": "S. 93",
+          "chapter": "Art. 93"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Frage 18: Was sind 'digitale Dienste' im Sinne des DSA?",
+        "options": [
+          "Nur soziale Medien",
+          "Alle Online-Dienste, die in der EU angeboten werden",
+          "Nur E-Commerce-Plattformen",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Digitale Dienste umfassen alle Online-Dienste, die in der EU angeboten werden, einschließlich sozialer Medien, E-Commerce-Plattformen und Suchmaschinen.",
+        "source": {
+          "citation": "DSA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Definitionen",
+          "Digitale Dienste"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Frage 19: Was sind 'sehr große Online-Plattformen' nach dem DSA?",
+        "options": [
+          "Plattformen mit über 1 Million Nutzern",
+          "Plattformen mit über 45 Millionen aktiven Nutzern in der EU",
+          "Plattformen mit über 10 Millionen Nutzern",
+          "Plattformen mit über 100 Millionen Nutzern"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sehr große Online-Plattformen sind solche mit über 45 Millionen aktiven Nutzern in der EU, die besonderen Verpflichtungen unterliegen.",
+        "source": {
+          "citation": "DSA Art. 25",
+          "pages": "S. 25",
+          "chapter": "Art. 25"
+        },
+        "tags": [
+          "Sehr große Plattformen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q20",
+        "text": "Frage 20: Welche Verpflichtungen haben Anbieter digitaler Dienste?",
+        "options": [
+          "Nur Transparenz",
+          "Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte",
+          "Nur Datenschutz",
+          "Nur IT-Sicherheit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anbieter digitaler Dienste haben umfassende Verpflichtungen: Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte.",
+        "source": {
+          "citation": "DSA Art. 3-15",
+          "pages": "S. 3-15",
+          "chapter": "Art. 3-15"
+        },
+        "tags": [
+          "Verpflichtungen",
+          "Anbieter"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Frage 21: Was ist der Digital Services Act (DSA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Plattformen",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DSA ist ein EU-Gesetz zur Regulierung digitaler Plattformen und Online-Dienste, das neue Verpflichtungen für Anbieter digitaler Dienste einführt.",
+        "source": {
+          "citation": "DSA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q22",
+        "text": "Frage 22: Wann ist der DSA in Kraft getreten?",
+        "options": [
+          "1. Januar 2023",
+          "17. Februar 2024",
+          "1. Januar 2024",
+          "17. Februar 2023"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DSA ist am 17. Februar 2024 in Kraft getreten und gilt für alle Anbieter digitaler Dienste in der EU.",
+        "source": {
+          "citation": "DSA Art. 93",
+          "pages": "S. 93",
+          "chapter": "Art. 93"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Frage 23: Was sind 'digitale Dienste' im Sinne des DSA?",
+        "options": [
+          "Nur soziale Medien",
+          "Alle Online-Dienste, die in der EU angeboten werden",
+          "Nur E-Commerce-Plattformen",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Digitale Dienste umfassen alle Online-Dienste, die in der EU angeboten werden, einschließlich sozialer Medien, E-Commerce-Plattformen und Suchmaschinen.",
+        "source": {
+          "citation": "DSA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Definitionen",
+          "Digitale Dienste"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Frage 24: Was sind 'sehr große Online-Plattformen' nach dem DSA?",
+        "options": [
+          "Plattformen mit über 1 Million Nutzern",
+          "Plattformen mit über 45 Millionen aktiven Nutzern in der EU",
+          "Plattformen mit über 10 Millionen Nutzern",
+          "Plattformen mit über 100 Millionen Nutzern"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sehr große Online-Plattformen sind solche mit über 45 Millionen aktiven Nutzern in der EU, die besonderen Verpflichtungen unterliegen.",
+        "source": {
+          "citation": "DSA Art. 25",
+          "pages": "S. 25",
+          "chapter": "Art. 25"
+        },
+        "tags": [
+          "Sehr große Plattformen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "Frage 25: Welche Verpflichtungen haben Anbieter digitaler Dienste?",
+        "options": [
+          "Nur Transparenz",
+          "Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte",
+          "Nur Datenschutz",
+          "Nur IT-Sicherheit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anbieter digitaler Dienste haben umfassende Verpflichtungen: Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte.",
+        "source": {
+          "citation": "DSA Art. 3-15",
+          "pages": "S. 3-15",
+          "chapter": "Art. 3-15"
+        },
+        "tags": [
+          "Verpflichtungen",
+          "Anbieter"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Frage 26: Was ist der Digital Services Act (DSA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Plattformen",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DSA ist ein EU-Gesetz zur Regulierung digitaler Plattformen und Online-Dienste, das neue Verpflichtungen für Anbieter digitaler Dienste einführt.",
+        "source": {
+          "citation": "DSA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q27",
+        "text": "Frage 27: Wann ist der DSA in Kraft getreten?",
+        "options": [
+          "1. Januar 2023",
+          "17. Februar 2024",
+          "1. Januar 2024",
+          "17. Februar 2023"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DSA ist am 17. Februar 2024 in Kraft getreten und gilt für alle Anbieter digitaler Dienste in der EU.",
+        "source": {
+          "citation": "DSA Art. 93",
+          "pages": "S. 93",
+          "chapter": "Art. 93"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q28",
+        "text": "Frage 28: Was sind 'digitale Dienste' im Sinne des DSA?",
+        "options": [
+          "Nur soziale Medien",
+          "Alle Online-Dienste, die in der EU angeboten werden",
+          "Nur E-Commerce-Plattformen",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Digitale Dienste umfassen alle Online-Dienste, die in der EU angeboten werden, einschließlich sozialer Medien, E-Commerce-Plattformen und Suchmaschinen.",
+        "source": {
+          "citation": "DSA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Definitionen",
+          "Digitale Dienste"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Frage 29: Was sind 'sehr große Online-Plattformen' nach dem DSA?",
+        "options": [
+          "Plattformen mit über 1 Million Nutzern",
+          "Plattformen mit über 45 Millionen aktiven Nutzern in der EU",
+          "Plattformen mit über 10 Millionen Nutzern",
+          "Plattformen mit über 100 Millionen Nutzern"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sehr große Online-Plattformen sind solche mit über 45 Millionen aktiven Nutzern in der EU, die besonderen Verpflichtungen unterliegen.",
+        "source": {
+          "citation": "DSA Art. 25",
+          "pages": "S. 25",
+          "chapter": "Art. 25"
+        },
+        "tags": [
+          "Sehr große Plattformen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Frage 30: Welche Verpflichtungen haben Anbieter digitaler Dienste?",
+        "options": [
+          "Nur Transparenz",
+          "Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte",
+          "Nur Datenschutz",
+          "Nur IT-Sicherheit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anbieter digitaler Dienste haben umfassende Verpflichtungen: Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte.",
+        "source": {
+          "citation": "DSA Art. 3-15",
+          "pages": "S. 3-15",
+          "chapter": "Art. 3-15"
+        },
+        "tags": [
+          "Verpflichtungen",
+          "Anbieter"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q31",
+        "text": "Frage 31: Was ist der Digital Services Act (DSA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Plattformen",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DSA ist ein EU-Gesetz zur Regulierung digitaler Plattformen und Online-Dienste, das neue Verpflichtungen für Anbieter digitaler Dienste einführt.",
+        "source": {
+          "citation": "DSA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q32",
+        "text": "Frage 32: Wann ist der DSA in Kraft getreten?",
+        "options": [
+          "1. Januar 2023",
+          "17. Februar 2024",
+          "1. Januar 2024",
+          "17. Februar 2023"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DSA ist am 17. Februar 2024 in Kraft getreten und gilt für alle Anbieter digitaler Dienste in der EU.",
+        "source": {
+          "citation": "DSA Art. 93",
+          "pages": "S. 93",
+          "chapter": "Art. 93"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q33",
+        "text": "Frage 33: Was sind 'digitale Dienste' im Sinne des DSA?",
+        "options": [
+          "Nur soziale Medien",
+          "Alle Online-Dienste, die in der EU angeboten werden",
+          "Nur E-Commerce-Plattformen",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Digitale Dienste umfassen alle Online-Dienste, die in der EU angeboten werden, einschließlich sozialer Medien, E-Commerce-Plattformen und Suchmaschinen.",
+        "source": {
+          "citation": "DSA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Definitionen",
+          "Digitale Dienste"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Frage 34: Was sind 'sehr große Online-Plattformen' nach dem DSA?",
+        "options": [
+          "Plattformen mit über 1 Million Nutzern",
+          "Plattformen mit über 45 Millionen aktiven Nutzern in der EU",
+          "Plattformen mit über 10 Millionen Nutzern",
+          "Plattformen mit über 100 Millionen Nutzern"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sehr große Online-Plattformen sind solche mit über 45 Millionen aktiven Nutzern in der EU, die besonderen Verpflichtungen unterliegen.",
+        "source": {
+          "citation": "DSA Art. 25",
+          "pages": "S. 25",
+          "chapter": "Art. 25"
+        },
+        "tags": [
+          "Sehr große Plattformen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Frage 35: Welche Verpflichtungen haben Anbieter digitaler Dienste?",
+        "options": [
+          "Nur Transparenz",
+          "Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte",
+          "Nur Datenschutz",
+          "Nur IT-Sicherheit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anbieter digitaler Dienste haben umfassende Verpflichtungen: Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte.",
+        "source": {
+          "citation": "DSA Art. 3-15",
+          "pages": "S. 3-15",
+          "chapter": "Art. 3-15"
+        },
+        "tags": [
+          "Verpflichtungen",
+          "Anbieter"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Frage 36: Was ist der Digital Services Act (DSA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Plattformen",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DSA ist ein EU-Gesetz zur Regulierung digitaler Plattformen und Online-Dienste, das neue Verpflichtungen für Anbieter digitaler Dienste einführt.",
+        "source": {
+          "citation": "DSA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q37",
+        "text": "Frage 37: Wann ist der DSA in Kraft getreten?",
+        "options": [
+          "1. Januar 2023",
+          "17. Februar 2024",
+          "1. Januar 2024",
+          "17. Februar 2023"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DSA ist am 17. Februar 2024 in Kraft getreten und gilt für alle Anbieter digitaler Dienste in der EU.",
+        "source": {
+          "citation": "DSA Art. 93",
+          "pages": "S. 93",
+          "chapter": "Art. 93"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Frage 38: Was sind 'digitale Dienste' im Sinne des DSA?",
+        "options": [
+          "Nur soziale Medien",
+          "Alle Online-Dienste, die in der EU angeboten werden",
+          "Nur E-Commerce-Plattformen",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Digitale Dienste umfassen alle Online-Dienste, die in der EU angeboten werden, einschließlich sozialer Medien, E-Commerce-Plattformen und Suchmaschinen.",
+        "source": {
+          "citation": "DSA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Definitionen",
+          "Digitale Dienste"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Frage 39: Was sind 'sehr große Online-Plattformen' nach dem DSA?",
+        "options": [
+          "Plattformen mit über 1 Million Nutzern",
+          "Plattformen mit über 45 Millionen aktiven Nutzern in der EU",
+          "Plattformen mit über 10 Millionen Nutzern",
+          "Plattformen mit über 100 Millionen Nutzern"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sehr große Online-Plattformen sind solche mit über 45 Millionen aktiven Nutzern in der EU, die besonderen Verpflichtungen unterliegen.",
+        "source": {
+          "citation": "DSA Art. 25",
+          "pages": "S. 25",
+          "chapter": "Art. 25"
+        },
+        "tags": [
+          "Sehr große Plattformen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q40",
+        "text": "Frage 40: Welche Verpflichtungen haben Anbieter digitaler Dienste?",
+        "options": [
+          "Nur Transparenz",
+          "Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte",
+          "Nur Datenschutz",
+          "Nur IT-Sicherheit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anbieter digitaler Dienste haben umfassende Verpflichtungen: Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte.",
+        "source": {
+          "citation": "DSA Art. 3-15",
+          "pages": "S. 3-15",
+          "chapter": "Art. 3-15"
+        },
+        "tags": [
+          "Verpflichtungen",
+          "Anbieter"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q41",
+        "text": "Frage 41: Was ist der Digital Services Act (DSA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Plattformen",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DSA ist ein EU-Gesetz zur Regulierung digitaler Plattformen und Online-Dienste, das neue Verpflichtungen für Anbieter digitaler Dienste einführt.",
+        "source": {
+          "citation": "DSA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q42",
+        "text": "Frage 42: Wann ist der DSA in Kraft getreten?",
+        "options": [
+          "1. Januar 2023",
+          "17. Februar 2024",
+          "1. Januar 2024",
+          "17. Februar 2023"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DSA ist am 17. Februar 2024 in Kraft getreten und gilt für alle Anbieter digitaler Dienste in der EU.",
+        "source": {
+          "citation": "DSA Art. 93",
+          "pages": "S. 93",
+          "chapter": "Art. 93"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q43",
+        "text": "Frage 43: Was sind 'digitale Dienste' im Sinne des DSA?",
+        "options": [
+          "Nur soziale Medien",
+          "Alle Online-Dienste, die in der EU angeboten werden",
+          "Nur E-Commerce-Plattformen",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Digitale Dienste umfassen alle Online-Dienste, die in der EU angeboten werden, einschließlich sozialer Medien, E-Commerce-Plattformen und Suchmaschinen.",
+        "source": {
+          "citation": "DSA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Definitionen",
+          "Digitale Dienste"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Frage 44: Was sind 'sehr große Online-Plattformen' nach dem DSA?",
+        "options": [
+          "Plattformen mit über 1 Million Nutzern",
+          "Plattformen mit über 45 Millionen aktiven Nutzern in der EU",
+          "Plattformen mit über 10 Millionen Nutzern",
+          "Plattformen mit über 100 Millionen Nutzern"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sehr große Online-Plattformen sind solche mit über 45 Millionen aktiven Nutzern in der EU, die besonderen Verpflichtungen unterliegen.",
+        "source": {
+          "citation": "DSA Art. 25",
+          "pages": "S. 25",
+          "chapter": "Art. 25"
+        },
+        "tags": [
+          "Sehr große Plattformen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Frage 45: Welche Verpflichtungen haben Anbieter digitaler Dienste?",
+        "options": [
+          "Nur Transparenz",
+          "Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte",
+          "Nur Datenschutz",
+          "Nur IT-Sicherheit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anbieter digitaler Dienste haben umfassende Verpflichtungen: Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte.",
+        "source": {
+          "citation": "DSA Art. 3-15",
+          "pages": "S. 3-15",
+          "chapter": "Art. 3-15"
+        },
+        "tags": [
+          "Verpflichtungen",
+          "Anbieter"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q46",
+        "text": "Frage 46: Was ist der Digital Services Act (DSA)?",
+        "options": [
+          "Ein Gesetz zur Regulierung digitaler Plattformen",
+          "Ein Gesetz zur Förderung der Digitalisierung",
+          "Ein Gesetz zur IT-Sicherheit",
+          "Ein Gesetz zur Datenschutz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der DSA ist ein EU-Gesetz zur Regulierung digitaler Plattformen und Online-Dienste, das neue Verpflichtungen für Anbieter digitaler Dienste einführt.",
+        "source": {
+          "citation": "DSA Art. 1",
+          "pages": "S. 1",
+          "chapter": "Art. 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q47",
+        "text": "Frage 47: Wann ist der DSA in Kraft getreten?",
+        "options": [
+          "1. Januar 2023",
+          "17. Februar 2024",
+          "1. Januar 2024",
+          "17. Februar 2023"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der DSA ist am 17. Februar 2024 in Kraft getreten und gilt für alle Anbieter digitaler Dienste in der EU.",
+        "source": {
+          "citation": "DSA Art. 93",
+          "pages": "S. 93",
+          "chapter": "Art. 93"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q48",
+        "text": "Frage 48: Was sind 'digitale Dienste' im Sinne des DSA?",
+        "options": [
+          "Nur soziale Medien",
+          "Alle Online-Dienste, die in der EU angeboten werden",
+          "Nur E-Commerce-Plattformen",
+          "Nur Suchmaschinen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Digitale Dienste umfassen alle Online-Dienste, die in der EU angeboten werden, einschließlich sozialer Medien, E-Commerce-Plattformen und Suchmaschinen.",
+        "source": {
+          "citation": "DSA Art. 2",
+          "pages": "S. 2",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Definitionen",
+          "Digitale Dienste"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q49",
+        "text": "Frage 49: Was sind 'sehr große Online-Plattformen' nach dem DSA?",
+        "options": [
+          "Plattformen mit über 1 Million Nutzern",
+          "Plattformen mit über 45 Millionen aktiven Nutzern in der EU",
+          "Plattformen mit über 10 Millionen Nutzern",
+          "Plattformen mit über 100 Millionen Nutzern"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sehr große Online-Plattformen sind solche mit über 45 Millionen aktiven Nutzern in der EU, die besonderen Verpflichtungen unterliegen.",
+        "source": {
+          "citation": "DSA Art. 25",
+          "pages": "S. 25",
+          "chapter": "Art. 25"
+        },
+        "tags": [
+          "Sehr große Plattformen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q50",
+        "text": "Frage 50: Welche Verpflichtungen haben Anbieter digitaler Dienste?",
+        "options": [
+          "Nur Transparenz",
+          "Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte",
+          "Nur Datenschutz",
+          "Nur IT-Sicherheit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anbieter digitaler Dienste haben umfassende Verpflichtungen: Transparenz, Rechenschaftspflicht, Schutz der Nutzerrechte und Bekämpfung illegaler Inhalte.",
+        "source": {
+          "citation": "DSA Art. 3-15",
+          "pages": "S. 3-15",
+          "chapter": "Art. 3-15"
+        },
+        "tags": [
+          "Verpflichtungen",
+          "Anbieter"
+        ],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

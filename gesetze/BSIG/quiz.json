@@ -1,0 +1,682 @@
+{
+  "quiz": {
+    "title": "BSIG Quiz",
+    "description": "Teste dein Wissen zum Bundessicherheitsgesetz (BSIG) und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+    "language": "de",
+    "version": "1.0",
+    "sourceDocument": {
+      "title": "Bundessicherheitsgesetz (BSIG)",
+      "version": "2021",
+      "year": 2021,
+      "pdfFilename": "BSIG.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 0
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist das Bundessicherheitsgesetz (BSIG)?",
+        "options": [
+          "Ein Gesetz zur Regelung der Bundeswehr",
+          "Ein Gesetz zur Sicherung der IT-Infrastruktur des Bundes",
+          "Ein Gesetz zur inneren Sicherheit",
+          "Ein Gesetz zur Außenpolitik"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSIG regelt die Sicherung der IT-Infrastruktur des Bundes und schafft die rechtlichen Grundlagen für die Cybersicherheit in der Bundesverwaltung.",
+        "source": {
+          "citation": "BSIG § 1",
+          "pages": "S. 1",
+          "chapter": "§ 1"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Wann ist das BSIG in Kraft getreten?",
+        "options": [
+          "1. Januar 2021",
+          "1. Mai 2021",
+          "1. Januar 2022",
+          "1. Mai 2022"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSIG ist am 1. Mai 2021 in Kraft getreten und hat das IT-Sicherheitsgesetz abgelöst.",
+        "source": {
+          "citation": "BSIG Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Was sind 'kritische Infrastrukturen' im Sinne des BSIG?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "BSIG § 2 Abs. 10",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 10"
+        },
+        "tags": [
+          "Definitionen",
+          "Kritische Infrastrukturen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Welche Sektoren umfassen kritische Infrastrukturen nach dem BSIG?",
+        "options": [
+          "Nur Energie und Gesundheit",
+          "Energie, Gesundheit, Ernährung, Informationstechnik, Telekommunikation, Transport, Verkehr, Wasser, Finanz- und Versicherungswesen",
+          "Nur IT und Telekommunikation",
+          "Nur Energie und Transport"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSIG definiert neun Sektoren kritischer Infrastrukturen: Energie, Gesundheit, Ernährung, Informationstechnik, Telekommunikation, Transport, Verkehr, Wasser sowie Finanz- und Versicherungswesen.",
+        "source": {
+          "citation": "BSIG § 2 Abs. 10",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 10"
+        },
+        "tags": [
+          "Sektoren",
+          "Kritische Infrastrukturen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was ist das BSI (Bundesamt für Sicherheit in der Informationstechnik)?",
+        "options": [
+          "Eine private Organisation",
+          "Die nationale Cybersicherheitsbehörde des Bundes",
+          "Ein Ministerium",
+          "Eine internationale Organisation"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI ist die nationale Cybersicherheitsbehörde des Bundes und zentrale Stelle für IT-Sicherheit in Deutschland.",
+        "source": {
+          "citation": "BSIG § 3",
+          "pages": "S. 3",
+          "chapter": "§ 3"
+        },
+        "tags": [
+          "BSI",
+          "Behörden"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q6",
+        "text": "Welche Aufgaben hat das BSI nach dem BSIG?",
+        "options": [
+          "Nur Beratung",
+          "Beratung, Warnung, Information, Koordinierung und technische Unterstützung",
+          "Nur technische Unterstützung",
+          "Nur Koordinierung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI hat umfassende Aufgaben: Beratung, Warnung vor IT-Sicherheitsrisiken, Information der Öffentlichkeit, Koordinierung von Maßnahmen und technische Unterstützung.",
+        "source": {
+          "citation": "BSIG § 3 Abs. 1",
+          "pages": "S. 3",
+          "chapter": "§ 3 Abs. 1"
+        },
+        "tags": [
+          "BSI",
+          "Aufgaben"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Was sind 'IT-Sicherheitsvorfälle' nach dem BSIG?",
+        "options": [
+          "Nur Hackerangriffe",
+          "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
+          "Nur Datenverluste",
+          "Nur Systemausfälle"
+        ],
+        "correctIndex": 1,
+        "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
+        "source": {
+          "citation": "BSIG § 2 Abs. 8",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 8"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfälle",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Müssen IT-Sicherheitsvorfälle gemeldet werden?",
+        "options": [
+          "Nein, niemals",
+          "Ja, an das BSI bei erheblichen Vorfällen",
+          "Nur an die Polizei",
+          "Nur bei Datenverlust"
+        ],
+        "correctIndex": 1,
+        "explanation": "Erhebliche IT-Sicherheitsvorfälle müssen unverzüglich an das BSI gemeldet werden, insbesondere bei kritischen Infrastrukturen.",
+        "source": {
+          "citation": "BSIG § 8b",
+          "pages": "S. 8",
+          "chapter": "§ 8b"
+        },
+        "tags": [
+          "Meldepflicht",
+          "IT-Sicherheitsvorfälle"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist ein 'IT-Sicherheitskatalog'?",
+        "options": [
+          "Eine Liste aller IT-Systeme",
+          "Technische und organisatorische Maßnahmen zur IT-Sicherheit",
+          "Eine Datenbank",
+          "Ein Handbuch"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein IT-Sicherheitskatalog enthält technische und organisatorische Maßnahmen, die zur Gewährleistung der IT-Sicherheit erforderlich sind.",
+        "source": {
+          "citation": "BSIG § 8a",
+          "pages": "S. 7-8",
+          "chapter": "§ 8a"
+        },
+        "tags": [
+          "IT-Sicherheitskatalog",
+          "Maßnahmen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q10",
+        "text": "Wer ist für die IT-Sicherheit in kritischen Infrastrukturen verantwortlich?",
+        "options": [
+          "Nur das BSI",
+          "Die Betreiber kritischer Infrastrukturen",
+          "Nur die Bundesregierung",
+          "Nur die Länder"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Betreiber kritischer Infrastrukturen sind primär für die IT-Sicherheit ihrer Systeme verantwortlich und müssen entsprechende Maßnahmen ergreifen.",
+        "source": {
+          "citation": "BSIG § 8a",
+          "pages": "S. 7",
+          "chapter": "§ 8a"
+        },
+        "tags": [
+          "Verantwortung",
+          "Betreiber"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q11",
+        "text": "Was sind 'Mindeststandards' nach dem BSIG?",
+        "options": [
+          "Empfehlungen",
+          "Verbindliche technische und organisatorische Anforderungen",
+          "Optionale Maßnahmen",
+          "Nur für große Unternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mindeststandards sind verbindliche technische und organisatorische Anforderungen, die von Betreibern kritischer Infrastrukturen eingehalten werden müssen.",
+        "source": {
+          "citation": "BSIG § 8a Abs. 1",
+          "pages": "S. 7",
+          "chapter": "§ 8a Abs. 1"
+        },
+        "tags": [
+          "Mindeststandards",
+          "Anforderungen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Welche Rolle spielt das BSI bei der Zertifizierung?",
+        "options": [
+          "Keine Rolle",
+          "Es kann IT-Produkte und -Dienstleistungen zertifizieren",
+          "Nur Beratung",
+          "Nur Überwachung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI kann IT-Produkte und -Dienstleistungen nach einheitlichen Kriterien zertifizieren und entsprechende Zertifikate ausstellen.",
+        "source": {
+          "citation": "BSIG § 9",
+          "pages": "S. 9",
+          "chapter": "§ 9"
+        },
+        "tags": [
+          "Zertifizierung",
+          "BSI"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist ein 'IT-Sicherheitsaudit'?",
+        "options": [
+          "Eine Prüfung der IT-Sicherheit",
+          "Eine Beratung",
+          "Eine Schulung",
+          "Eine Meldung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein IT-Sicherheitsaudit ist eine systematische Prüfung der IT-Sicherheit von Systemen und Prozessen durch unabhängige Experten.",
+        "source": {
+          "citation": "BSIG § 8a Abs. 3",
+          "pages": "S. 8",
+          "chapter": "§ 8a Abs. 3"
+        },
+        "tags": [
+          "Audit",
+          "Prüfung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q14",
+        "text": "Welche Sanktionen sieht das BSIG vor?",
+        "options": [
+          "Nur Geldbußen",
+          "Geldbußen bis zu 100.000 Euro",
+          "Geldbußen bis zu 1 Million Euro",
+          "Keine Sanktionen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSIG sieht Geldbußen bis zu 100.000 Euro für Verstöße gegen die IT-Sicherheitsanforderungen vor.",
+        "source": {
+          "citation": "BSIG § 14",
+          "pages": "S. 14",
+          "chapter": "§ 14"
+        },
+        "tags": [
+          "Sanktionen",
+          "Geldbußen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist ein 'IT-Sicherheitsbeauftragter'?",
+        "options": [
+          "Ein externer Berater",
+          "Eine Person, die für die IT-Sicherheit verantwortlich ist",
+          "Ein BSI-Mitarbeiter",
+          "Ein Ministerialbeamter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein IT-Sicherheitsbeauftragter ist eine Person, die innerhalb einer Organisation für die IT-Sicherheit verantwortlich ist und entsprechende Maßnahmen koordiniert.",
+        "source": {
+          "citation": "BSIG § 8a Abs. 2",
+          "pages": "S. 7-8",
+          "chapter": "§ 8a Abs. 2"
+        },
+        "tags": [
+          "IT-Sicherheitsbeauftragter",
+          "Verantwortung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q16",
+        "text": "Welche Informationen muss das BSI veröffentlichen?",
+        "options": [
+          "Alle Informationen",
+          "Allgemeine Informationen über IT-Sicherheitsrisiken und Schutzmaßnahmen",
+          "Nur interne Berichte",
+          "Nur technische Details"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI muss die Öffentlichkeit über IT-Sicherheitsrisiken und geeignete Schutzmaßnahmen informieren, ohne dabei vertrauliche Informationen preiszugeben.",
+        "source": {
+          "citation": "BSIG § 3 Abs. 1 Nr. 3",
+          "pages": "S. 3",
+          "chapter": "§ 3 Abs. 1 Nr. 3"
+        },
+        "tags": [
+          "Information",
+          "Öffentlichkeit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist ein 'IT-Sicherheitsvorfall' im Sinne des BSIG?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein Ereignis, das die IT-Sicherheit beeinträchtigt",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein IT-Sicherheitsvorfall ist jedes Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
+        "source": {
+          "citation": "BSIG § 2 Abs. 8",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 8"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfall",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Welche Rolle spielt das BSI bei der Koordinierung?",
+        "options": [
+          "Keine Rolle",
+          "Es koordiniert Maßnahmen zur IT-Sicherheit",
+          "Nur interne Maßnahmen",
+          "Nur bei Vorfällen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI koordiniert Maßnahmen zur IT-Sicherheit zwischen verschiedenen Behörden und Organisationen.",
+        "source": {
+          "citation": "BSIG § 3 Abs. 1 Nr. 4",
+          "pages": "S. 3",
+          "chapter": "§ 3 Abs. 1 Nr. 4"
+        },
+        "tags": [
+          "Koordination",
+          "BSI"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist ein 'IT-Sicherheitskonzept'?",
+        "options": [
+          "Ein Handbuch",
+          "Ein systematischer Plan zur IT-Sicherheit",
+          "Eine Software",
+          "Ein Bericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein IT-Sicherheitskonzept ist ein systematischer Plan, der alle Maßnahmen zur Gewährleistung der IT-Sicherheit umfasst.",
+        "source": {
+          "citation": "BSIG § 8a Abs. 1",
+          "pages": "S. 7",
+          "chapter": "§ 8a Abs. 1"
+        },
+        "tags": [
+          "IT-Sicherheitskonzept",
+          "Planung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q20",
+        "text": "Welche Bedeutung hat das BSIG für die Cybersicherheit?",
+        "options": [
+          "Keine Bedeutung",
+          "Es schafft die rechtlichen Grundlagen für die Cybersicherheit",
+          "Nur für Behörden",
+          "Nur für Unternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSIG schafft die rechtlichen Grundlagen für die Cybersicherheit in Deutschland und definiert Verantwortlichkeiten und Maßnahmen.",
+        "source": {
+          "citation": "BSIG § 1",
+          "pages": "S. 1",
+          "chapter": "§ 1"
+        },
+        "tags": [
+          "Cybersicherheit",
+          "Grundlagen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q21",
+        "text": "Was sind 'IT-Sicherheitsstandards'?",
+        "options": [
+          "Empfehlungen",
+          "Verbindliche technische und organisatorische Anforderungen",
+          "Optionale Maßnahmen",
+          "Nur für große Unternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "IT-Sicherheitsstandards sind verbindliche technische und organisatorische Anforderungen, die von Betreibern kritischer Infrastrukturen eingehalten werden müssen.",
+        "source": {
+          "citation": "BSIG § 8a Abs. 1",
+          "pages": "S. 7",
+          "chapter": "§ 8a Abs. 1"
+        },
+        "tags": [
+          "Standards",
+          "Anforderungen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q22",
+        "text": "Welche Rolle spielt das BSI bei der Warnung?",
+        "options": [
+          "Keine Rolle",
+          "Es warnt vor IT-Sicherheitsrisiken",
+          "Nur bei Vorfällen",
+          "Nur Behörden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI warnt vor IT-Sicherheitsrisiken und informiert über geeignete Schutzmaßnahmen.",
+        "source": {
+          "citation": "BSIG § 3 Abs. 1 Nr. 2",
+          "pages": "S. 3",
+          "chapter": "§ 3 Abs. 1 Nr. 2"
+        },
+        "tags": [
+          "Warnung",
+          "BSI"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Was ist ein 'IT-Sicherheitsvorfall' im Sinne des BSIG?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein Ereignis, das die IT-Sicherheit beeinträchtigt",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein IT-Sicherheitsvorfall ist jedes Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
+        "source": {
+          "citation": "BSIG § 2 Abs. 8",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 8"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfall",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q24",
+        "text": "Welche Bedeutung hat das BSIG für die Cybersicherheit?",
+        "options": [
+          "Keine Bedeutung",
+          "Es schafft die rechtlichen Grundlagen für die Cybersicherheit",
+          "Nur für Behörden",
+          "Nur für Unternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSIG schafft die rechtlichen Grundlagen für die Cybersicherheit in Deutschland und definiert Verantwortlichkeiten und Maßnahmen.",
+        "source": {
+          "citation": "BSIG § 1",
+          "pages": "S. 1",
+          "chapter": "§ 1"
+        },
+        "tags": [
+          "Cybersicherheit",
+          "Grundlagen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q25",
+        "text": "Was sind 'IT-Sicherheitsstandards'?",
+        "options": [
+          "Empfehlungen",
+          "Verbindliche technische und organisatorische Anforderungen",
+          "Optionale Maßnahmen",
+          "Nur für große Unternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "IT-Sicherheitsstandards sind verbindliche technische und organisatorische Anforderungen, die von Betreibern kritischer Infrastrukturen eingehalten werden müssen.",
+        "source": {
+          "citation": "BSIG § 8a Abs. 1",
+          "pages": "S. 7",
+          "chapter": "§ 8a Abs. 1"
+        },
+        "tags": [
+          "Standards",
+          "Anforderungen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Welche Rolle spielt das BSI bei der Warnung?",
+        "options": [
+          "Keine Rolle",
+          "Es warnt vor IT-Sicherheitsrisiken",
+          "Nur bei Vorfällen",
+          "Nur Behörden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI warnt vor IT-Sicherheitsrisiken und informiert über geeignete Schutzmaßnahmen.",
+        "source": {
+          "citation": "BSIG § 3 Abs. 1 Nr. 2",
+          "pages": "S. 3",
+          "chapter": "§ 3 Abs. 1 Nr. 2"
+        },
+        "tags": [
+          "Warnung",
+          "BSI"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q27",
+        "text": "Was ist ein 'IT-Sicherheitsvorfall' im Sinne des BSIG?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein Ereignis, das die IT-Sicherheit beeinträchtigt",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein IT-Sicherheitsvorfall ist jedes Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
+        "source": {
+          "citation": "BSIG § 2 Abs. 8",
+          "pages": "S. 2",
+          "chapter": "§ 2 Abs. 8"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfall",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q28",
+        "text": "Welche Bedeutung hat das BSIG für die Cybersicherheit?",
+        "options": [
+          "Keine Bedeutung",
+          "Es schafft die rechtlichen Grundlagen für die Cybersicherheit",
+          "Nur für Behörden",
+          "Nur für Unternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSIG schafft die rechtlichen Grundlagen für die Cybersicherheit in Deutschland und definiert Verantwortlichkeiten und Maßnahmen.",
+        "source": {
+          "citation": "BSIG § 1",
+          "pages": "S. 1",
+          "chapter": "§ 1"
+        },
+        "tags": [
+          "Cybersicherheit",
+          "Grundlagen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q29",
+        "text": "Was sind 'IT-Sicherheitsstandards'?",
+        "options": [
+          "Empfehlungen",
+          "Verbindliche technische und organisatorische Anforderungen",
+          "Optionale Maßnahmen",
+          "Nur für große Unternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "IT-Sicherheitsstandards sind verbindliche technische und organisatorische Anforderungen, die von Betreibern kritischer Infrastrukturen eingehalten werden müssen.",
+        "source": {
+          "citation": "BSIG § 8a Abs. 1",
+          "pages": "S. 7",
+          "chapter": "§ 8a Abs. 1"
+        },
+        "tags": [
+          "Standards",
+          "Anforderungen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Welche Rolle spielt das BSI bei der Warnung?",
+        "options": [
+          "Keine Rolle",
+          "Es warnt vor IT-Sicherheitsrisiken",
+          "Nur bei Vorfällen",
+          "Nur Behörden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das BSI warnt vor IT-Sicherheitsrisiken und informiert über geeignete Schutzmaßnahmen.",
+        "source": {
+          "citation": "BSIG § 3 Abs. 1 Nr. 2",
+          "pages": "S. 3",
+          "chapter": "§ 3 Abs. 1 Nr. 2"
+        },
+        "tags": [
+          "Warnung",
+          "BSI"
+        ],
+        "difficulty": "leicht"
+      }
+    ]
+  }
+}

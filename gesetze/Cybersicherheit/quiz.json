@@ -1,0 +1,1122 @@
+{
+  "quiz": {
+    "title": "Cybersicherheit Quiz",
+    "description": "Teste dein Wissen zur Cybersicherheit und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+    "language": "de",
+    "version": "1.0",
+    "sourceDocument": {
+      "title": "Cybersicherheitsgesetz (EU) 2019/881",
+      "version": "2019",
+      "year": 2019,
+      "pdfFilename": "CELEX_32019R0881_DE_TXT.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 0
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist Cybersicherheit?",
+        "options": [
+          "Nur Passwort-Schutz",
+          "Der Schutz von IT-Systemen vor Cyber-Bedrohungen",
+          "Nur Firewall-Konfiguration",
+          "Nur Antivirus-Software"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheit umfasst alle Maßnahmen zum Schutz von IT-Systemen, Netzwerken und Daten vor Cyber-Bedrohungen und -Angriffen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Was sind 'kritische Infrastrukturen' im Cybersicherheitskontext?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 6",
+          "pages": "S. 3",
+          "chapter": "Art. 6"
+        },
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist ein 'Cyber-Angriff'?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein gezielter Angriff auf IT-Systeme zur Schädigung oder zum Diebstahl von Daten",
+          "Nur Hackerangriffe",
+          "Nur Viren"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Cyber-Angriff ist ein gezielter, böswilliger Versuch, IT-Systeme zu schädigen, zu stören oder Daten zu stehlen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Cyber-Angriff",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Was ist 'Informationssicherheit'?",
+        "options": [
+          "Nur Datenschutz",
+          "Der Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung",
+          "Nur Verschlüsselung",
+          "Nur Passwörter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Informationssicherheit umfasst den Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Informationssicherheit",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was ist ein 'IT-Sicherheitsvorfall'?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein IT-Sicherheitsvorfall ist jedes Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfall",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q6",
+        "text": "Was ist 'Cybersicherheitsbewertung'?",
+        "options": [
+          "Eine Prüfung der IT-Sicherheit",
+          "Eine systematische Bewertung der Cybersicherheitsrisiken und -maßnahmen",
+          "Eine Beratung",
+          "Eine Schulung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Cybersicherheitsbewertung ist eine systematische Bewertung der Cybersicherheitsrisiken und der ergriffenen Schutzmaßnahmen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Bewertung",
+          "Risikomanagement"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Was sind 'Cybersicherheitsstandards'?",
+        "options": [
+          "Empfehlungen",
+          "Verbindliche technische und organisatorische Anforderungen",
+          "Optionale Maßnahmen",
+          "Nur für große Unternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheitsstandards sind verbindliche technische und organisatorische Anforderungen, die von Betreibern kritischer Infrastrukturen eingehalten werden müssen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 8",
+          "pages": "S. 4",
+          "chapter": "Art. 8"
+        },
+        "tags": [
+          "Standards",
+          "Anforderungen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Was ist ein 'Cybersicherheitsvorfall'?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein Ereignis, das die Cybersicherheit beeinträchtigt",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Cybersicherheitsvorfall ist jedes Ereignis, das die Cybersicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Cybersicherheitsvorfall",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist 'Cybersicherheitsmanagement'?",
+        "options": [
+          "Nur technische Maßnahmen",
+          "Ein systematischer Ansatz zur Gewährleistung der Cybersicherheit",
+          "Nur Software",
+          "Nur Hardware"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheitsmanagement ist ein systematischer Ansatz zur Gewährleistung der Cybersicherheit, der technische, organisatorische und personelle Maßnahmen umfasst.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Management",
+          "Systematik"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q10",
+        "text": "Was ist 'Cybersicherheitsbewusstsein'?",
+        "options": [
+          "Nur technisches Wissen",
+          "Das Bewusstsein für Cybersicherheitsrisiken und -maßnahmen",
+          "Nur Software-Kenntnisse",
+          "Nur Hardware-Kenntnisse"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheitsbewusstsein ist das Bewusstsein für Cybersicherheitsrisiken und die Kenntnis geeigneter Schutzmaßnahmen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Bewusstsein",
+          "Schulung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q11",
+        "text": "Frage 11: Was sind 'kritische Infrastrukturen' im Cybersicherheitskontext?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 6",
+          "pages": "S. 3",
+          "chapter": "Art. 6"
+        },
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Frage 12: Was ist ein 'Cyber-Angriff'?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein gezielter Angriff auf IT-Systeme zur Schädigung oder zum Diebstahl von Daten",
+          "Nur Hackerangriffe",
+          "Nur Viren"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Cyber-Angriff ist ein gezielter, böswilliger Versuch, IT-Systeme zu schädigen, zu stören oder Daten zu stehlen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Cyber-Angriff",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q13",
+        "text": "Frage 13: Was ist 'Informationssicherheit'?",
+        "options": [
+          "Nur Datenschutz",
+          "Der Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung",
+          "Nur Verschlüsselung",
+          "Nur Passwörter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Informationssicherheit umfasst den Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Informationssicherheit",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Frage 14: Was ist ein 'IT-Sicherheitsvorfall'?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein IT-Sicherheitsvorfall ist jedes Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfall",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q15",
+        "text": "Frage 15: Was ist 'Cybersicherheitsbewertung'?",
+        "options": [
+          "Eine Prüfung der IT-Sicherheit",
+          "Eine systematische Bewertung der Cybersicherheitsrisiken und -maßnahmen",
+          "Eine Beratung",
+          "Eine Schulung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Cybersicherheitsbewertung ist eine systematische Bewertung der Cybersicherheitsrisiken und der ergriffenen Schutzmaßnahmen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Bewertung",
+          "Risikomanagement"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Frage 16: Was sind 'Cybersicherheitsstandards'?",
+        "options": [
+          "Empfehlungen",
+          "Verbindliche technische und organisatorische Anforderungen",
+          "Optionale Maßnahmen",
+          "Nur für große Unternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheitsstandards sind verbindliche technische und organisatorische Anforderungen, die von Betreibern kritischer Infrastrukturen eingehalten werden müssen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 8",
+          "pages": "S. 4",
+          "chapter": "Art. 8"
+        },
+        "tags": [
+          "Standards",
+          "Anforderungen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Frage 17: Was ist ein 'Cybersicherheitsvorfall'?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein Ereignis, das die Cybersicherheit beeinträchtigt",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Cybersicherheitsvorfall ist jedes Ereignis, das die Cybersicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Cybersicherheitsvorfall",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Frage 18: Was ist 'Cybersicherheitsmanagement'?",
+        "options": [
+          "Nur technische Maßnahmen",
+          "Ein systematischer Ansatz zur Gewährleistung der Cybersicherheit",
+          "Nur Software",
+          "Nur Hardware"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheitsmanagement ist ein systematischer Ansatz zur Gewährleistung der Cybersicherheit, der technische, organisatorische und personelle Maßnahmen umfasst.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Management",
+          "Systematik"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Frage 19: Was ist 'Cybersicherheitsbewusstsein'?",
+        "options": [
+          "Nur technisches Wissen",
+          "Das Bewusstsein für Cybersicherheitsrisiken und -maßnahmen",
+          "Nur Software-Kenntnisse",
+          "Nur Hardware-Kenntnisse"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheitsbewusstsein ist das Bewusstsein für Cybersicherheitsrisiken und die Kenntnis geeigneter Schutzmaßnahmen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Bewusstsein",
+          "Schulung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Frage 20: Was ist Cybersicherheit?",
+        "options": [
+          "Nur Passwort-Schutz",
+          "Der Schutz von IT-Systemen vor Cyber-Bedrohungen",
+          "Nur Firewall-Konfiguration",
+          "Nur Antivirus-Software"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheit umfasst alle Maßnahmen zum Schutz von IT-Systemen, Netzwerken und Daten vor Cyber-Bedrohungen und -Angriffen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q21",
+        "text": "Frage 21: Was sind 'kritische Infrastrukturen' im Cybersicherheitskontext?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 6",
+          "pages": "S. 3",
+          "chapter": "Art. 6"
+        },
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q22",
+        "text": "Frage 22: Was ist ein 'Cyber-Angriff'?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein gezielter Angriff auf IT-Systeme zur Schädigung oder zum Diebstahl von Daten",
+          "Nur Hackerangriffe",
+          "Nur Viren"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Cyber-Angriff ist ein gezielter, böswilliger Versuch, IT-Systeme zu schädigen, zu stören oder Daten zu stehlen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Cyber-Angriff",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Frage 23: Was ist 'Informationssicherheit'?",
+        "options": [
+          "Nur Datenschutz",
+          "Der Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung",
+          "Nur Verschlüsselung",
+          "Nur Passwörter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Informationssicherheit umfasst den Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Informationssicherheit",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Frage 24: Was ist ein 'IT-Sicherheitsvorfall'?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein IT-Sicherheitsvorfall ist jedes Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfall",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q25",
+        "text": "Frage 25: Was ist 'Cybersicherheitsbewertung'?",
+        "options": [
+          "Eine Prüfung der IT-Sicherheit",
+          "Eine systematische Bewertung der Cybersicherheitsrisiken und -maßnahmen",
+          "Eine Beratung",
+          "Eine Schulung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Cybersicherheitsbewertung ist eine systematische Bewertung der Cybersicherheitsrisiken und der ergriffenen Schutzmaßnahmen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Bewertung",
+          "Risikomanagement"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Frage 26: Was sind 'Cybersicherheitsstandards'?",
+        "options": [
+          "Empfehlungen",
+          "Verbindliche technische und organisatorische Anforderungen",
+          "Optionale Maßnahmen",
+          "Nur für große Unternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheitsstandards sind verbindliche technische und organisatorische Anforderungen, die von Betreibern kritischer Infrastrukturen eingehalten werden müssen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 8",
+          "pages": "S. 4",
+          "chapter": "Art. 8"
+        },
+        "tags": [
+          "Standards",
+          "Anforderungen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Frage 27: Was ist ein 'Cybersicherheitsvorfall'?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein Ereignis, das die Cybersicherheit beeinträchtigt",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Cybersicherheitsvorfall ist jedes Ereignis, das die Cybersicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Cybersicherheitsvorfall",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q28",
+        "text": "Frage 28: Was ist 'Cybersicherheitsmanagement'?",
+        "options": [
+          "Nur technische Maßnahmen",
+          "Ein systematischer Ansatz zur Gewährleistung der Cybersicherheit",
+          "Nur Software",
+          "Nur Hardware"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheitsmanagement ist ein systematischer Ansatz zur Gewährleistung der Cybersicherheit, der technische, organisatorische und personelle Maßnahmen umfasst.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Management",
+          "Systematik"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Frage 29: Was ist 'Cybersicherheitsbewusstsein'?",
+        "options": [
+          "Nur technisches Wissen",
+          "Das Bewusstsein für Cybersicherheitsrisiken und -maßnahmen",
+          "Nur Software-Kenntnisse",
+          "Nur Hardware-Kenntnisse"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheitsbewusstsein ist das Bewusstsein für Cybersicherheitsrisiken und die Kenntnis geeigneter Schutzmaßnahmen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Bewusstsein",
+          "Schulung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q30",
+        "text": "Frage 30: Was ist Cybersicherheit?",
+        "options": [
+          "Nur Passwort-Schutz",
+          "Der Schutz von IT-Systemen vor Cyber-Bedrohungen",
+          "Nur Firewall-Konfiguration",
+          "Nur Antivirus-Software"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheit umfasst alle Maßnahmen zum Schutz von IT-Systemen, Netzwerken und Daten vor Cyber-Bedrohungen und -Angriffen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q31",
+        "text": "Frage 31: Was sind 'kritische Infrastrukturen' im Cybersicherheitskontext?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 6",
+          "pages": "S. 3",
+          "chapter": "Art. 6"
+        },
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q32",
+        "text": "Frage 32: Was ist ein 'Cyber-Angriff'?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein gezielter Angriff auf IT-Systeme zur Schädigung oder zum Diebstahl von Daten",
+          "Nur Hackerangriffe",
+          "Nur Viren"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Cyber-Angriff ist ein gezielter, böswilliger Versuch, IT-Systeme zu schädigen, zu stören oder Daten zu stehlen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Cyber-Angriff",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q33",
+        "text": "Frage 33: Was ist 'Informationssicherheit'?",
+        "options": [
+          "Nur Datenschutz",
+          "Der Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung",
+          "Nur Verschlüsselung",
+          "Nur Passwörter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Informationssicherheit umfasst den Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Informationssicherheit",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Frage 34: Was ist ein 'IT-Sicherheitsvorfall'?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein IT-Sicherheitsvorfall ist jedes Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfall",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q35",
+        "text": "Frage 35: Was ist 'Cybersicherheitsbewertung'?",
+        "options": [
+          "Eine Prüfung der IT-Sicherheit",
+          "Eine systematische Bewertung der Cybersicherheitsrisiken und -maßnahmen",
+          "Eine Beratung",
+          "Eine Schulung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Cybersicherheitsbewertung ist eine systematische Bewertung der Cybersicherheitsrisiken und der ergriffenen Schutzmaßnahmen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Bewertung",
+          "Risikomanagement"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Frage 36: Was sind 'Cybersicherheitsstandards'?",
+        "options": [
+          "Empfehlungen",
+          "Verbindliche technische und organisatorische Anforderungen",
+          "Optionale Maßnahmen",
+          "Nur für große Unternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheitsstandards sind verbindliche technische und organisatorische Anforderungen, die von Betreibern kritischer Infrastrukturen eingehalten werden müssen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 8",
+          "pages": "S. 4",
+          "chapter": "Art. 8"
+        },
+        "tags": [
+          "Standards",
+          "Anforderungen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Frage 37: Was ist ein 'Cybersicherheitsvorfall'?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein Ereignis, das die Cybersicherheit beeinträchtigt",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Cybersicherheitsvorfall ist jedes Ereignis, das die Cybersicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Cybersicherheitsvorfall",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Frage 38: Was ist 'Cybersicherheitsmanagement'?",
+        "options": [
+          "Nur technische Maßnahmen",
+          "Ein systematischer Ansatz zur Gewährleistung der Cybersicherheit",
+          "Nur Software",
+          "Nur Hardware"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheitsmanagement ist ein systematischer Ansatz zur Gewährleistung der Cybersicherheit, der technische, organisatorische und personelle Maßnahmen umfasst.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Management",
+          "Systematik"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Frage 39: Was ist 'Cybersicherheitsbewusstsein'?",
+        "options": [
+          "Nur technisches Wissen",
+          "Das Bewusstsein für Cybersicherheitsrisiken und -maßnahmen",
+          "Nur Software-Kenntnisse",
+          "Nur Hardware-Kenntnisse"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheitsbewusstsein ist das Bewusstsein für Cybersicherheitsrisiken und die Kenntnis geeigneter Schutzmaßnahmen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Bewusstsein",
+          "Schulung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q40",
+        "text": "Frage 40: Was ist Cybersicherheit?",
+        "options": [
+          "Nur Passwort-Schutz",
+          "Der Schutz von IT-Systemen vor Cyber-Bedrohungen",
+          "Nur Firewall-Konfiguration",
+          "Nur Antivirus-Software"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheit umfasst alle Maßnahmen zum Schutz von IT-Systemen, Netzwerken und Daten vor Cyber-Bedrohungen und -Angriffen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q41",
+        "text": "Frage 41: Was sind 'kritische Infrastrukturen' im Cybersicherheitskontext?",
+        "options": [
+          "Nur Krankenhäuser",
+          "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
+          "Nur Energieversorger",
+          "Nur Banken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 6",
+          "pages": "S. 3",
+          "chapter": "Art. 6"
+        },
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q42",
+        "text": "Frage 42: Was ist ein 'Cyber-Angriff'?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein gezielter Angriff auf IT-Systeme zur Schädigung oder zum Diebstahl von Daten",
+          "Nur Hackerangriffe",
+          "Nur Viren"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Cyber-Angriff ist ein gezielter, böswilliger Versuch, IT-Systeme zu schädigen, zu stören oder Daten zu stehlen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Cyber-Angriff",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q43",
+        "text": "Frage 43: Was ist 'Informationssicherheit'?",
+        "options": [
+          "Nur Datenschutz",
+          "Der Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung",
+          "Nur Verschlüsselung",
+          "Nur Passwörter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Informationssicherheit umfasst den Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Informationssicherheit",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Frage 44: Was ist ein 'IT-Sicherheitsvorfall'?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein IT-Sicherheitsvorfall ist jedes Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "IT-Sicherheitsvorfall",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q45",
+        "text": "Frage 45: Was ist 'Cybersicherheitsbewertung'?",
+        "options": [
+          "Eine Prüfung der IT-Sicherheit",
+          "Eine systematische Bewertung der Cybersicherheitsrisiken und -maßnahmen",
+          "Eine Beratung",
+          "Eine Schulung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Cybersicherheitsbewertung ist eine systematische Bewertung der Cybersicherheitsrisiken und der ergriffenen Schutzmaßnahmen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Bewertung",
+          "Risikomanagement"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q46",
+        "text": "Frage 46: Was sind 'Cybersicherheitsstandards'?",
+        "options": [
+          "Empfehlungen",
+          "Verbindliche technische und organisatorische Anforderungen",
+          "Optionale Maßnahmen",
+          "Nur für große Unternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheitsstandards sind verbindliche technische und organisatorische Anforderungen, die von Betreibern kritischer Infrastrukturen eingehalten werden müssen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 8",
+          "pages": "S. 4",
+          "chapter": "Art. 8"
+        },
+        "tags": [
+          "Standards",
+          "Anforderungen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Frage 47: Was ist ein 'Cybersicherheitsvorfall'?",
+        "options": [
+          "Jeder Computerfehler",
+          "Ein Ereignis, das die Cybersicherheit beeinträchtigt",
+          "Nur Hackerangriffe",
+          "Nur Datenverluste"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Cybersicherheitsvorfall ist jedes Ereignis, das die Cybersicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Cybersicherheitsvorfall",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q48",
+        "text": "Frage 48: Was ist 'Cybersicherheitsmanagement'?",
+        "options": [
+          "Nur technische Maßnahmen",
+          "Ein systematischer Ansatz zur Gewährleistung der Cybersicherheit",
+          "Nur Software",
+          "Nur Hardware"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheitsmanagement ist ein systematischer Ansatz zur Gewährleistung der Cybersicherheit, der technische, organisatorische und personelle Maßnahmen umfasst.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Management",
+          "Systematik"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q49",
+        "text": "Frage 49: Was ist 'Cybersicherheitsbewusstsein'?",
+        "options": [
+          "Nur technisches Wissen",
+          "Das Bewusstsein für Cybersicherheitsrisiken und -maßnahmen",
+          "Nur Software-Kenntnisse",
+          "Nur Hardware-Kenntnisse"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheitsbewusstsein ist das Bewusstsein für Cybersicherheitsrisiken und die Kenntnis geeigneter Schutzmaßnahmen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Bewusstsein",
+          "Schulung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q50",
+        "text": "Frage 50: Was ist Cybersicherheit?",
+        "options": [
+          "Nur Passwort-Schutz",
+          "Der Schutz von IT-Systemen vor Cyber-Bedrohungen",
+          "Nur Firewall-Konfiguration",
+          "Nur Antivirus-Software"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cybersicherheit umfasst alle Maßnahmen zum Schutz von IT-Systemen, Netzwerken und Daten vor Cyber-Bedrohungen und -Angriffen.",
+        "source": {
+          "citation": "Cybersicherheitsgesetz Art. 2",
+          "pages": "S. 1",
+          "chapter": "Art. 2"
+        },
+        "tags": [
+          "Grundlagen",
+          "Definition"
+        ],
+        "difficulty": "leicht"
+      }
+    ]
+  }
+}
