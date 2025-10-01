@@ -21,14 +21,16 @@
       "icon": "fa-robot",
       "description": "Quiz rund um KI, Machine Learning und so",
       "quiz": [
+        "AI-Bias",
         "BMI-FM-XAI",
-        "BMI-KI-Leitlinien"
+        "BMI-KI-Leitlinien",
+        "BSI-GenAI"
       ]
     },
     "sport": {
       "name": "Sport",
       "icon": "fa-football",
-      "description": "Quiz zu Sportregeln und Wissenswertes aus der Welt des Sports",
+      "description": "Quiz zu offiziellen Sportregeln",
       "quiz": [
         "basketball",
         "downhill",
@@ -45,14 +47,17 @@
       ]
     },
     "gesetze": {
-      "name": "Gesetze",
+      "name": "Rechtsvorschriften",
       "icon": "fa-question-circle",
-      "description": "Quiz und Wissen rund um Gesetze",
+      "description": "Quiz und Wissen zu deutschen Gesetzen sowie EU-Verordnungen",
       "quiz": [
         "BGB",
         "BauGB",
+        "DSGVO",
+        "DataAct",
         "GG",
         "HGB",
+        "KI-Verordnung",
         "SGB",
         "StGB",
         "StPO",

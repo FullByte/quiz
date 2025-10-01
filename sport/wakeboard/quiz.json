@@ -1,60 +1,1923 @@
 {
   "quiz": {
-    "title": "Mein neues Quiz",
-    "description": "Beschreibung des Quiz mit {questionCount} Fragen aus dem Fragenkatalog.",
+    "title": "Wakeboard Quiz",
+    "description": "Teste dein Wissen zu den IWWF Wakeboard Boat Rules 2024 und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
     "language": "de", 
     "version": "1.0",
-    "metadata": {
-      "createdAt": "2025-09-25T10:00:00Z",
-      "notes": "Notizen zum Quiz"
-    },
     "sourceDocument": {
-      "title": "Quellen-Dokument",
-      "version": "1.0",
-      "year": 2025,
-      "pdfFilename": "quelldokument.pdf"
+      "title": "IWWF Wakeboard Boat Rules",
+      "version": "2024 Final",
+      "year": 2024,
+      "pdfFilename": "2024iwwfwakeboardboatrules-final.pdf"
     },
     "settings": {
       "shuffleQuestions": true,
       "shuffleOptions": true, 
       "showExplanations": true,
-      "timePerQuestionSec": 60
+      "timePerQuestionSec": 0
     },
     "questions": [
       {
         "id": "q1",
-        "text": "Beispiel-Frage: Was ist die richtige Antwort?",
+        "text": "Welche Mindesttemperatur muss das Wasser haben, damit ein Wettkampf stattfinden kann?",
         "options": [
-          "Falsche Antwort 1",
-          "Richtige Antwort",
-          "Falsche Antwort 2", 
-          "Falsche Antwort 3"
+          "10°C",
+          "12°C",
+          "15°C",
+          "18°C"
         ],
         "correctIndex": 1,
-        "explanation": "Erklärung warum die Antwort richtig ist und was die anderen Optionen bedeuten.",
+        "explanation": "Die Wassertemperatur muss mindestens 12°C (54°F) betragen, damit ein Wettkampf durchgeführt werden kann. Dies dient der Sicherheit der Athleten.",
         "source": {
-          "citation": "Quellenangabe",
-          "pages": "S. 15-20",
-          "chapter": "Kapitel 3"
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 8",
+          "chapter": "Competition Area Requirements"
         },
-        "tags": ["Tag1", "Tag2"],
-        "difficulty": "leicht"
+        "tags": ["Sicherheit", "Wettkampfbedingungen"],
+        "difficulty": "mittel"
       },
       {
         "id": "q2",
-        "text": "Weitere Beispiel-Frage mit mehreren Antwortmöglichkeiten?",
+        "text": "Wie viele Fahrten hat jeder Athlet in der Qualifikationsrunde?",
         "options": [
-          "Option A",
-          "Option B", 
-          "Option C",
-          "Option D"
+          "1 Fahrt",
+          "2 Fahrten",
+          "3 Fahrten",
+          "4 Fahrten"
+        ],
+        "correctIndex": 1,
+        "explanation": "In der Qualifikationsrunde hat jeder Athlet Anspruch auf 2 Fahrten. Die beste Wertung zählt für die Qualifikation.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 15",
+          "chapter": "Competition Format"
+        },
+        "tags": ["Wettkampfformat", "Qualifikation"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Wie lang ist die maximale Fahrzeit für eine Wettkampfrunde?",
+        "options": [
+          "3 Minuten",
+          "4 Minuten",
+          "5 Minuten",
+          "6 Minuten"
         ],
         "correctIndex": 2,
-        "explanation": "Ausführliche Erklärung der korrekten Antwort.",
-        "source": "Einfache Quellenangabe als String",
-        "tags": ["Kategorie", "Schwierigkeit"],
+        "explanation": "Die maximale Fahrzeit beträgt 5 Minuten für eine Wettkampfrunde. Nach Ablauf dieser Zeit muss die Fahrt beendet werden.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 16",
+          "chapter": "Ride Time"
+        },
+        "tags": ["Zeitlimit", "Wettkampfregeln"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Wie viele Richter bewerten eine Wettkampffahrt mindestens?",
+        "options": [
+          "2 Richter",
+          "3 Richter",
+          "4 Richter",
+          "5 Richter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Es müssen mindestens 3 Richter eine Wettkampffahrt bewerten. Die Wertungen werden gemittelt, um die finale Punktzahl zu ermitteln.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 20",
+          "chapter": "Judging Panel"
+        },
+        "tags": ["Wertung", "Richter"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Was ist die maximale Punktzahl, die ein Athlet pro Fahrt erreichen kann?",
+        "options": [
+          "50 Punkte",
+          "75 Punkte",
+          "100 Punkte",
+          "150 Punkte"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die maximale Punktzahl pro Fahrt beträgt 100 Punkte. Diese wird basierend auf Execution, Intensity und Composition vergeben.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 22",
+          "chapter": "Scoring System"
+        },
+        "tags": ["Bewertung", "Punktesystem"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q6",
+        "text": "Welche drei Hauptkriterien werden bei der Bewertung einer Fahrt berücksichtigt?",
+        "options": [
+          "Speed, Height, Style",
+          "Execution, Intensity, Composition",
+          "Difficulty, Creativity, Landing",
+          "Power, Control, Variety"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die drei Hauptkriterien sind Execution (Ausführung), Intensity (Intensität) und Composition (Zusammensetzung). Jedes Kriterium wird gleichwertig bewertet.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 23",
+          "chapter": "Judging Criteria"
+        },
+        "tags": ["Bewertungskriterien", "Wertung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Was bedeutet 'Execution' bei der Bewertung?",
+        "options": [
+          "Die Anzahl der ausgeführten Tricks",
+          "Die technische Qualität und Sauberkeit der Tricks",
+          "Die Schwierigkeit der gewählten Tricks",
+          "Die Geschwindigkeit bei der Ausführung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Execution bezieht sich auf die technische Qualität und Sauberkeit der Tricks, einschließlich Absprung, Körperhaltung während des Tricks und Landung.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 24",
+          "chapter": "Execution Criteria"
+        },
+        "tags": ["Execution", "Bewertungskriterien"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Bei welcher Geschwindigkeit wird Wakeboard typischerweise gefahren?",
+        "options": [
+          "15-20 mph (24-32 km/h)",
+          "18-24 mph (29-39 km/h)",
+          "25-30 mph (40-48 km/h)",
+          "30-35 mph (48-56 km/h)"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die typische Geschwindigkeit für Wakeboard liegt zwischen 18-24 mph (29-39 km/h). Die genaue Geschwindigkeit kann je nach Präferenz des Athleten variieren.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 10",
+          "chapter": "Boat Speed"
+        },
+        "tags": ["Bootsgeschwindigkeit", "Equipment"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Wie lang ist die Seillänge beim Wakeboard?",
+        "options": [
+          "45-55 Fuß (13,7-16,8 m)",
+          "55-65 Fuß (16,8-19,8 m)",
+          "65-75 Fuß (19,8-22,9 m)",
+          "75-85 Fuß (22,9-25,9 m)"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Seillänge beim Wakeboard beträgt typischerweise 65-75 Fuß (19,8-22,9 m). Die genaue Länge kann nach Athletenpräferenz angepasst werden.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 11",
+          "chapter": "Rope Length"
+        },
+        "tags": ["Seillänge", "Equipment"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Was passiert, wenn ein Athlet während der Fahrt stürzt?",
+        "options": [
+          "Die Fahrt wird sofort abgebrochen und nicht gewertet",
+          "Der Athlet kann weiterfahren, aber nur vorherige Tricks zählen",
+          "Die Fahrt wird pausiert und später fortgesetzt",
+          "Der Athlet kann sofort wieder einsteigen und weiterfahren"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wenn ein Athlet stürzt, wird die Fahrt beendet, aber alle erfolgreich ausgeführten Tricks vor dem Sturz werden gewertet.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 17",
+          "chapter": "Fall Rules"
+        },
+        "tags": ["Sturz", "Wettkampfregeln"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist ein 'Tantrum' im Wakeboarding?",
+        "options": [
+          "Ein Frontflip rückwärts",
+          "Ein Backflip vorwärts",
+          "Eine 360-Grad-Drehung",
+          "Ein Sideflip"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Tantrum ist ein Backflip in Vorwärtsrichtung, bei dem der Rider rückwärts rotiert während er vorwärts fährt. Es ist einer der grundlegenden Inverts.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 35",
+          "chapter": "Trick Definitions"
+        },
+        "tags": ["Tricks", "Definitionen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Was bedeutet 'Raley' beim Wakeboarding?",
+        "options": [
+          "Ein 180-Grad-Sprung",
+          "Ein gestreckter Backflip mit horizontal ausgestrecktem Körper",
+          "Ein Superman-ähnlicher Trick ohne Rotation",
+          "Eine Greifen des Boards während eines Sprungs"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Raley ist ein Trick, bei dem der Rider wie Superman horizontal in der Luft liegt, ohne Rotation, ähnlich einer horizontalen Körperhaltung.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 36",
+          "chapter": "Trick Definitions"
+        },
+        "tags": ["Tricks", "Raley"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Wie viele Athleten qualifizieren sich typischerweise für das Finale?",
+        "options": [
+          "Top 4",
+          "Top 6",
+          "Top 8",
+          "Top 10"
+        ],
+        "correctIndex": 1,
+        "explanation": "Typischerweise qualifizieren sich die Top 6 Athleten aus der Qualifikationsrunde für das Finale, abhängig vom spezifischen Wettkampfformat.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 15",
+          "chapter": "Final Format"
+        },
+        "tags": ["Finale", "Wettkampfformat"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist ein 'Blind Landing'?",
+        "options": [
+          "Eine Landung mit geschlossenen Augen",
+          "Eine Landung mit dem Rücken zur Fahrtrichtung",
+          "Eine Landung ohne das Board zu sehen",
+          "Eine Landung im Dunkeln"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Blind Landing bedeutet, dass der Rider mit dem Rücken zur Fahrtrichtung landet, also 'blind' in Bezug auf die Fahrtrichtung.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 37",
+          "chapter": "Landing Definitions"
+        },
+        "tags": ["Landing", "Definitionen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Welches ist ein wichtiger Sicherheitsaspekt beim Wakeboard-Wettkampf?",
+        "options": [
+          "Alle Athleten müssen eine Schwimmweste tragen",
+          "Mindestens 2 Rettungsboote müssen bereitstehen",
+          "Ein Arzt muss vor Ort sein",
+          "Alle oben genannten"
+        ],
+        "correctIndex": 3,
+        "explanation": "Alle genannten Aspekte sind wichtige Sicherheitsanforderungen: Schwimmwesten sind Pflicht, Rettungsboote müssen bereitstehen, und medizinisches Personal muss vor Ort sein.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 7-9",
+          "chapter": "Safety Requirements"
+        },
+        "tags": ["Sicherheit", "Anforderungen"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q16",
+        "text": "Was ist 'Intensity' bei der Bewertung?",
+        "options": [
+          "Die Lautstärke des Athleten",
+          "Die Größe, Power und Schwierigkeit der Tricks",
+          "Die Geschwindigkeit der Fahrt",
+          "Die Anzahl der Zuschauer"
+        ],
+        "correctIndex": 1,
+        "explanation": "Intensity bezieht sich auf die Größe, Power und Schwierigkeit der ausgeführten Tricks sowie die Energie und das Engagement des Athleten.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 25",
+          "chapter": "Intensity Criteria"
+        },
+        "tags": ["Intensity", "Bewertungskriterien"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Was bedeutet 'Composition' bei der Bewertung?",
+        "options": [
+          "Die musikalische Untermalung",
+          "Die Vielfalt und Abfolge der Tricks",
+          "Die Zusammenarbeit mit dem Boot",
+          "Die chemische Zusammensetzung des Wassers"
+        ],
+        "correctIndex": 1,
+        "explanation": "Composition bezieht sich auf die Vielfalt, Kreativität und strategische Abfolge der Tricks während der gesamten Fahrt.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 26",
+          "chapter": "Composition Criteria"
+        },
+        "tags": ["Composition", "Bewertungskriterien"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Kann ein Athlet denselben Trick mehrmals in einer Fahrt ausführen?",
+        "options": [
+          "Ja, beliebig oft",
+          "Ja, aber nur zweimal",
+          "Nein, jeder Trick darf nur einmal vorkommen",
+          "Nur wenn er in verschiedene Richtungen ausgeführt wird"
+        ],
+        "correctIndex": 2,
+        "explanation": "Jeder Trick darf nur einmal pro Fahrt ausgeführt werden. Wiederholungen werden nicht gewertet und können die Composition-Bewertung negativ beeinflussen.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 27",
+          "chapter": "Trick Repetition"
+        },
+        "tags": ["Tricks", "Wettkampfregeln"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist ein 'Whirlybird'?",
+        "options": [
+          "Ein 360-Grad-Spin an der Oberfläche",
+          "Ein Backflip mit 180-Grad-Drehung",
+          "Ein Frontflip mit 360-Grad-Drehung",
+          "Ein Sideflip ohne Rotation"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Whirlybird ist ein Backflip kombiniert mit einer 180-Grad-Drehung, sodass der Rider blind landet.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 38",
+          "chapter": "Trick Definitions"
+        },
+        "tags": ["Tricks", "Whirlybird"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Wie breit muss die Wettkampfstrecke mindestens sein?",
+        "options": [
+          "50 Meter",
+          "75 Meter",
+          "100 Meter",
+          "150 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Wettkampfstrecke muss mindestens 100 Meter breit sein, um genügend Raum für Tricks und Sicherheit zu gewährleisten.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 9",
+          "chapter": "Competition Area"
+        },
+        "tags": ["Wettkampfstrecke", "Anforderungen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q21",
+        "text": "Was ist ein 'Grab' beim Wakeboarding?",
+        "options": [
+          "Das Festhalten am Seil mit beiden Händen",
+          "Das Greifen des Boards während eines Tricks",
+          "Das Fangen des Seils nach einem Sturz",
+          "Das Festhalten am Boot"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Grab ist das Greifen des Boards mit einer oder beiden Händen während eines Tricks in der Luft, was Style und Kontrolle demonstriert.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 39",
+          "chapter": "Grab Definitions"
+        },
+        "tags": ["Grabs", "Tricks"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q22",
+        "text": "Was ist ein 'Indy Grab'?",
+        "options": [
+          "Greifen der Toeside-Kante zwischen den Bindungen",
+          "Greifen der Heelside-Kante zwischen den Bindungen",
+          "Greifen der Nose des Boards",
+          "Greifen des Tails des Boards"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Indy Grab ist das Greifen der Toeside-Kante des Boards zwischen den Bindungen mit der hinteren Hand.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 39",
+          "chapter": "Grab Definitions"
+        },
+        "tags": ["Grabs", "Indy"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q23",
+        "text": "Wie lange vor dem Start kann ein Athlet die Fahrt abbrechen?",
+        "options": [
+          "Jederzeit vor dem Start",
+          "Nur in den ersten 10 Sekunden",
+          "Nur in der ersten Minute",
+          "Gar nicht, der Start gilt als verbindlich"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Athlet kann die Fahrt jederzeit vor dem offiziellen Start abbrechen, ohne dass dies als Versuch gewertet wird.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 18",
+          "chapter": "Start Procedures"
+        },
+        "tags": ["Start", "Wettkampfregeln"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Was ist ein 'Toeside' Approach?",
+        "options": [
+          "Annäherung an die Wake auf den Zehenspitzen",
+          "Annäherung mit der Toeside-Kante nach vorne",
+          "Ein spezieller Trick",
+          "Eine Landung auf den Zehen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Toeside Approach bedeutet, dass der Rider mit der Toeside-Kante (Zehenseite) des Boards zur Wake fährt, was eine andere Körperhaltung erfordert.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 40",
+          "chapter": "Approach Definitions"
+        },
+        "tags": ["Technik", "Approach"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "Wann beginnt die offizielle Fahrzeit?",
+        "options": [
+          "Wenn der Athlet ins Wasser springt",
+          "Wenn das Boot losfährt",
+          "Wenn der Athlet aus dem Wasser kommt",
+          "Wenn der erste Trick ausgeführt wird"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die offizielle Fahrzeit beginnt, sobald der Athlet aus dem Wasser kommt und in Fahrposition ist.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 18",
+          "chapter": "Timing"
+        },
+        "tags": ["Zeitnahme", "Wettkampfregeln"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Was ist ein 'Mobe' im Wakeboarding?",
+        "options": [
+          "Ein 360-Grad-Spin",
+          "Ein Backroll mit 360-Grad-Drehung",
+          "Ein Frontflip mit 180-Grad-Drehung",
+          "Ein double backflip"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Mobe (auch Mobius genannt) ist ein Backroll kombiniert mit einer 360-Grad-Drehung, einer der anspruchsvollsten Grundtricks.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 41",
+          "chapter": "Trick Definitions"
+        },
+        "tags": ["Tricks", "Mobe"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q27",
+        "text": "Kann ein Athlet seine Seillänge während des Wettkampfs ändern?",
+        "options": [
+          "Ja, zwischen den Fahrten",
+          "Ja, während der Fahrt",
+          "Nein, sie muss für den ganzen Wettkampf gleich bleiben",
+          "Nur mit Erlaubnis des Schiedsrichters"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Athlet kann seine Seillänge zwischen den Fahrten anpassen, aber nicht während einer laufenden Fahrt.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 12",
+          "chapter": "Equipment Adjustments"
+        },
+        "tags": ["Equipment", "Seillänge"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q28",
+        "text": "Was ist ein 'KGB' Trick?",
+        "options": [
+          "Ein russischer Wakeboard-Stil",
+          "Ein Whirlybird mit Grab",
+          "Ein Roll to Revert mit Blind Landing",
+          "Eine spezielle Landetechnik"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein KGB ist ein Roll to Revert mit Blind Landing, benannt nach den russischen Initialen, ein fortgeschrittener Trick.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 42",
+          "chapter": "Advanced Tricks"
+        },
+        "tags": ["Tricks", "KGB"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q29",
+        "text": "Wie viele Boote müssen für einen offiziellen Wettkampf verfügbar sein?",
+        "options": [
+          "Mindestens 1 Wettkampfboot",
+          "Mindestens 1 Wettkampfboot und 1 Rettungsboot",
+          "Mindestens 2 Wettkampfboote",
+          "Mindestens 2 Wettkampfboote und 2 Rettungsboote"
+        ],
+        "correctIndex": 1,
+        "explanation": "Es muss mindestens ein Wettkampfboot und ein separates Rettungsboot für Notfälle bereitstehen.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 10",
+          "chapter": "Boat Requirements"
+        },
+        "tags": ["Equipment", "Sicherheit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Was ist ein 'Crow Mobe'?",
+        "options": [
+          "Ein Backflip mit 540-Grad-Drehung",
+          "Ein Frontflip mit 360-Grad-Drehung",
+          "Ein Backroll mit 540-Grad-Drehung und Blind Landing",
+          "Ein double Backflip"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Crow Mobe ist ein Backroll mit einer 540-Grad-Drehung, was zu einem Blind Landing führt - eine Weiterentwicklung des normalen Mobe.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 43",
+          "chapter": "Advanced Tricks"
+        },
+        "tags": ["Tricks", "Crow Mobe"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q31",
+        "text": "Dürfen Athleten eigene Musik während der Fahrt abspielen lassen?",
+        "options": [
+          "Ja, immer",
+          "Ja, aber nur bei bestimmten Events",
+          "Nein, nie",
+          "Nur im Finale"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei bestimmten Events und Wettbewerben ist es erlaubt, eigene Musik abzuspielen, dies muss aber vom Veranstalter genehmigt werden.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 19",
+          "chapter": "Entertainment"
+        },
+        "tags": ["Wettkampfregeln", "Entertainment"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q32",
+        "text": "Was ist ein 'Scarecrow'?",
+        "options": [
+          "Ein gestreckter Frontflip",
+          "Ein Backflip mit gestrecktem Körper",
+          "Ein Frontflip mit 180-Grad-Drehung und Blind Landing",
+          "Ein Sideflip"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Scarecrow ist ein Frontflip kombiniert mit einer 180-Grad-Drehung, sodass der Rider blind landet. Der Name kommt von der Vogelscheuchen-ähnlichen Bewegung.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 44",
+          "chapter": "Trick Definitions"
+        },
+        "tags": ["Tricks", "Scarecrow"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q33",
+        "text": "Wie tief muss das Wasser im Wettkampfbereich mindestens sein?",
+        "options": [
+          "1 Meter",
+          "1,5 Meter",
+          "2 Meter",
+          "3 Meter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Das Wasser muss mindestens 2 Meter tief sein, um die Sicherheit der Athleten bei Stürzen zu gewährleisten.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 9",
+          "chapter": "Competition Area"
+        },
+        "tags": ["Sicherheit", "Wettkampfstrecke"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Was ist ein '360' im Wakeboarding?",
+        "options": [
+          "Eine volle Umdrehung um die eigene Achse",
+          "Ein Trick, der 360 Grad schwer ist",
+          "Eine Drehung von 180 Grad",
+          "Ein Trick über 360 Meter"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein 360 (auch Three-Sixty genannt) ist eine vollständige 360-Grad-Drehung um die vertikale Achse während eines Sprungs.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 45",
+          "chapter": "Spin Definitions"
+        },
+        "tags": ["Tricks", "Spins"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q35",
+        "text": "Können Athleten im Finale denselben Run wie in der Qualifikation fahren?",
+        "options": [
+          "Ja, das ist erlaubt",
+          "Nein, sie müssen komplett neue Tricks zeigen",
+          "Nur mit Genehmigung der Richter",
+          "Nur 50% der Tricks dürfen gleich sein"
+        ],
+        "correctIndex": 0,
+        "explanation": "Athleten können im Finale denselben Run wie in der Qualifikation fahren oder ihre Tricks verändern - es gibt keine Einschränkungen.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 16",
+          "chapter": "Final Rules"
+        },
+        "tags": ["Finale", "Wettkampfregeln"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q36",
+        "text": "Was ist ein 'S-Bend' oder 'Ole'?",
+        "options": [
+          "Ein Trick mit gebeugten Knien",
+          "Ein Backroll mit 180-Grad-Drehung",
+          "Ein spezieller Grab",
+          "Eine Kurventechnik"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein S-Bend (auch Ole genannt) ist ein Backroll mit 180-Grad-Drehung, ähnlich einem halben Whirlybird.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 46",
+          "chapter": "Trick Definitions"
+        },
+        "tags": ["Tricks", "S-Bend"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q37",
+        "text": "Was bedeutet 'Switch' beim Wakeboarding?",
+        "options": [
+          "Wechsel des Boards",
+          "Fahren mit umgekehrter Stance (andere Fußposition)",
+          "Wechsel der Seillänge",
+          "Wechsel des Boots"
+        ],
+        "correctIndex": 1,
+        "explanation": "Switch bedeutet, dass der Rider mit umgekehrter Stance fährt - der normalerweise vordere Fuß ist hinten und umgekehrt.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 47",
+          "chapter": "Stance Definitions"
+        },
+        "tags": ["Technik", "Switch"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q38",
+        "text": "Wie viele verschiedene Tricks sollte eine gut komponierte Fahrt mindestens enthalten?",
+        "options": [
+          "3-5 Tricks",
+          "5-7 Tricks",
+          "7-10 Tricks",
+          "10-15 Tricks"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine gut komponierte Fahrt sollte etwa 7-10 verschiedene, gut ausgeführte Tricks enthalten, um eine hohe Composition-Wertung zu erhalten.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 26",
+          "chapter": "Composition Guidelines"
+        },
+        "tags": ["Composition", "Wettkampfstrategie"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Was ist ein 'Heelside' Approach?",
+        "options": [
+          "Annäherung auf den Fersen",
+          "Annäherung mit der Heelside-Kante nach vorne",
+          "Ein Trick mit den Fersen",
+          "Eine spezielle Landetechnik"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Heelside Approach bedeutet, dass der Rider mit der Heelside-Kante (Fersenseite) des Boards zur Wake fährt.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 40",
+          "chapter": "Approach Definitions"
+        },
+        "tags": ["Technik", "Approach"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q40",
+        "text": "Können Athleten während einer Fahrt pausieren?",
+        "options": [
+          "Ja, beliebig oft",
+          "Ja, aber nur einmal für 30 Sekunden",
+          "Nein, die Fahrt muss kontinuierlich sein",
+          "Nur bei technischen Problemen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine Fahrt muss kontinuierlich sein. Pausen sind nicht erlaubt, außer bei technischen Problemen, die zu einem Neustart führen können.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 17",
+          "chapter": "Ride Continuity"
+        },
+        "tags": ["Wettkampfregeln", "Fahrablauf"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q41",
+        "text": "Was ist ein 'HS/TS' Trick?",
+        "options": [
+          "High Speed / Top Speed",
+          "Heelside / Toeside Kombination",
+          "Half Spin / Total Spin",
+          "Hand Stand / Toe Stand"
+        ],
+        "correctIndex": 1,
+        "explanation": "HS/TS bezeichnet eine Kombination von Heelside und Toeside Tricks, was Vielseitigkeit in der Fahrt demonstriert.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 48",
+          "chapter": "Trick Combinations"
+        },
+        "tags": ["Technik", "Kombinationen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q42",
+        "text": "Was passiert bei einem technischen Defekt während der Fahrt?",
+        "options": [
+          "Die Fahrt wird nicht gewertet",
+          "Der Athlet bekommt einen Re-Ride (Wiederholung)",
+          "Die Fahrt wird bis zum Defekt gewertet",
+          "Der Athlet wird disqualifiziert"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei einem technischen Defekt (Boot, Seil, etc.), der nicht vom Athleten verschuldet ist, erhält dieser einen Re-Ride.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 19",
+          "chapter": "Technical Issues"
+        },
+        "tags": ["Wettkampfregeln", "Re-Ride"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q43",
+        "text": "Was ist ein 'Method' Grab?",
+        "options": [
+          "Eine spezielle Technik",
+          "Ein Grab der Heelside mit gleichzeitigem Arch des Körpers",
+          "Ein Grab mit beiden Händen",
+          "Ein Grab der Nose"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Method ist ein stylischer Grab der Heelside-Kante mit gleichzeitigem Bogen (Arch) des Körpers, inspiriert vom Snowboarding.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 49",
+          "chapter": "Grab Definitions"
+        },
+        "tags": ["Grabs", "Method"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Wie werden Punktegleichstände aufgelöst?",
+        "options": [
+          "Durch eine zusätzliche Fahrt",
+          "Der Athlet mit der höheren Execution-Wertung gewinnt",
+          "Der Athlet mit der höheren Intensity-Wertung gewinnt",
+          "Die höchste zweite Wertung entscheidet"
+        ],
+        "correctIndex": 3,
+        "explanation": "Bei Punktegleichstand wird die zweithöchste Wertung der jeweiligen Athleten verglichen. Ist auch diese gleich, wird weiter zurückgegangen.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 28",
+          "chapter": "Tiebreaker Rules"
+        },
+        "tags": ["Wertung", "Tiebreaker"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q45",
+        "text": "Was ist ein 'HS Backroll'?",
+        "options": [
+          "Ein schneller Backroll",
+          "Ein Backroll vom Heelside Approach",
+          "Ein halber Backroll",
+          "Ein Backroll mit High Speed"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein HS Backroll ist ein Backroll, der von einem Heelside Approach ausgeführt wird, was eine andere Technik erfordert.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 50",
+          "chapter": "Approach Variations"
+        },
+        "tags": ["Tricks", "Heelside"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q46",
+        "text": "Müssen alle Tricks über die Wake ausgeführt werden?",
+        "options": [
+          "Ja, alle Tricks müssen über die Wake gehen",
+          "Nein, auch Tricks auf dem Flachs werden gewertet",
+          "Nur im Finale müssen alle über die Wake gehen",
+          "Mindestens 80% müssen über die Wake sein"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tricks können sowohl über die Wake als auch auf dem flachen Wasser (Flachs) ausgeführt werden und werden beide gewertet, wobei Wake-Tricks meist höher bewertet werden.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 27",
+          "chapter": "Trick Execution Areas"
+        },
+        "tags": ["Tricks", "Wettkampfregeln"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Was ist ein 'Pete Rose'?",
+        "options": [
+          "Ein Baseball-inspirierter Trick",
+          "Ein Frontroll mit 360-Grad-Drehung",
+          "Ein spezieller Grab",
+          "Ein Trick benannt nach einem Athleten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Pete Rose ist ein Frontroll kombiniert mit einer 360-Grad-Drehung, ähnlich einem Scarecrow aber mit voller Rotation.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 51",
+          "chapter": "Advanced Tricks"
+        },
+        "tags": ["Tricks", "Pete Rose"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q48",
+        "text": "Wie lange haben Richter Zeit, um ihre Wertung abzugeben?",
+        "options": [
+          "30 Sekunden nach Fahrtende",
+          "1 Minute nach Fahrtende",
+          "2 Minuten nach Fahrtende",
+          "Sofort nach Fahrtende"
+        ],
+        "correctIndex": 1,
+        "explanation": "Richter haben üblicherweise 1 Minute nach Fahrtende Zeit, um ihre Wertungen einzugeben und zu bestätigen.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 21",
+          "chapter": "Judging Procedures"
+        },
+        "tags": ["Wertung", "Richter"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q49",
+        "text": "Was ist ein 'Nose Grab'?",
+        "options": [
+          "Greifen der Nase des Boards",
+          "Greifen des vorderen Teils des Boards",
+          "Greifen mit der Nase",
+          "Ein Trick ohne Greifen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Nose Grab ist das Greifen des vorderen (Nose) Teils des Boards während eines Tricks.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 52",
+          "chapter": "Grab Definitions"
+        },
+        "tags": ["Grabs", "Nose"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q50",
+        "text": "Können Athleten ihr eigenes Board verwenden?",
+        "options": [
+          "Ja, jeder kann sein eigenes Board nutzen",
+          "Nein, alle müssen das gleiche Modell verwenden",
+          "Nur gesponserte Boards sind erlaubt",
+          "Nur mit Genehmigung des Veranstalters"
+        ],
+        "correctIndex": 0,
+        "explanation": "Athleten können ihr eigenes Board verwenden, solange es den Sicherheitsstandards entspricht und keine unerlaubten Modifikationen hat.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 13",
+          "chapter": "Equipment Regulations"
+        },
+        "tags": ["Equipment", "Board"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q51",
+        "text": "Was ist ein 'Tail Grab'?",
+        "options": [
+          "Greifen des hinteren Teils (Tail) des Boards",
+          "Greifen mit dem Schwanz",
+          "Ein Trick auf dem Tail",
+          "Greifen der Finne"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Tail Grab ist das Greifen des hinteren (Tail) Teils des Boards während eines Tricks, meist mit der hinteren Hand.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 52",
+          "chapter": "Grab Definitions"
+        },
+        "tags": ["Grabs", "Tail"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q52",
+        "text": "Was ist ein 'Double' im Wakeboarding?",
+        "options": [
+          "Zwei Athleten auf einem Board",
+          "Ein Trick mit doppelter Drehung (720°)",
+          "Ein Trick mit zwei Flips",
+          "Zwei Grabs gleichzeitig"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Double bezeichnet einen Trick mit zwei Flips/Rotationen (z.B. Double Backroll = zwei Backrolls in einem Sprung).",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 53",
+          "chapter": "Multiple Rotations"
+        },
+        "tags": ["Tricks", "Double"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q53",
+        "text": "Wie wird ein 'unvollständiger' Trick bewertet?",
+        "options": [
+          "Er bekommt volle Punkte",
+          "Er bekommt Teilpunkte",
+          "Er wird nicht gewertet",
+          "Er führt zu Punktabzug"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein nicht vollständig ausgeführter Trick (z.B. nicht volle Rotation oder schlechte Landung) wird nicht gewertet und beeinflusst die Gesamtwertung negativ.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 28",
+          "chapter": "Incomplete Tricks"
+        },
+        "tags": ["Wertung", "Tricks"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q54",
+        "text": "Was ist ein 'Backside' Approach?",
+        "options": [
+          "Annäherung von hinten",
+          "Annäherung mit dem Rücken zur Wake",
+          "Annäherung im Rückwärtsgang",
+          "Annäherung von der Backside-Seite"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Backside Approach bedeutet, dass der Rider mit dem Rücken zur Wake fährt, also in einer Switch- oder Fakie-Position.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 54",
+          "chapter": "Approach Definitions"
+        },
+        "tags": ["Technik", "Backside"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q55",
+        "text": "Können Videoaufnahmen für Protest-Entscheidungen verwendet werden?",
+        "options": [
+          "Ja, immer",
+          "Ja, aber nur auf Anfrage des Head Judges",
+          "Nein, nur Live-Entscheidungen zählen",
+          "Nur bei nationalen Meisterschaften"
+        ],
+        "correctIndex": 1,
+        "explanation": "Videoaufnahmen können auf Anfrage des Head Judges zur Überprüfung von Protest-Entscheidungen verwendet werden.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 29",
+          "chapter": "Video Review"
+        },
+        "tags": ["Wettkampfregeln", "Protest"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q56",
+        "text": "Was ist ein 'Krypt'?",
+        "options": [
+          "Ein geheimer Trick",
+          "Ein Backroll mit 360-Grad-Drehung und Grab",
+          "Ein verschlüsselter Trick",
+          "Ein Trick im Dunkeln"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Krypt ist ein fortgeschrittener Trick: ein Backroll kombiniert mit einer 360-Grad-Drehung und einem Grab.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 55",
+          "chapter": "Advanced Tricks"
+        },
+        "tags": ["Tricks", "Krypt"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q57",
+        "text": "Wie viele Ersatzfahrer darf ein Team haben?",
+        "options": [
+          "Keine",
+          "1 Ersatzfahrer",
+          "2 Ersatzfahrer",
+          "Unbegrenzt"
+        ],
+        "correctIndex": 3,
+        "explanation": "Teams können unbegrenzt Ersatzfahrer benennen, solange diese den Wettkampfbedingungen entsprechen und rechtzeitig angemeldet sind.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 14",
+          "chapter": "Team Regulations"
+        },
+        "tags": ["Teams", "Wettkampfregeln"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q58",
+        "text": "Was ist ein 'Butter Slide'?",
+        "options": [
+          "Ein Trick auf Butter",
+          "Ein smooth Trick über die Wake",
+          "Ein Slide auf der Oberfläche des Wassers",
+          "Ein gleitender Rail-Trick"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Butter Slide ist ein smooth Slide-Trick auf der Wasseroberfläche, ähnlich einem Jib im Snowboarding.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 56",
+          "chapter": "Surface Tricks"
+        },
+        "tags": ["Tricks", "Surface"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q59",
+        "text": "Dürfen Coaches während der Fahrt mit dem Athleten kommunizieren?",
+        "options": [
+          "Ja, über Funk",
+          "Ja, durch Handzeichen",
+          "Nein, keine Kommunikation erlaubt",
+          "Nur in Notfällen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Während der Fahrt ist keine Kommunikation zwischen Coach und Athlet erlaubt. Der Athlet muss unabhängig agieren.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 20",
+          "chapter": "Coaching Rules"
+        },
+        "tags": ["Coaching", "Wettkampfregeln"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q60",
+        "text": "Was ist ein 'Speedball'?",
+        "options": [
+          "Ein sehr schneller Trick",
+          "Ein Backroll mit 720-Grad-Drehung",
+          "Ein Trick mit hoher Geschwindigkeit",
+          "Ein doppelter Mobe"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Speedball ist ein extrem fortgeschrittener Trick: ein Backroll mit einer kompletten 720-Grad-Drehung (zwei volle Umdrehungen).",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 57",
+          "chapter": "Expert Tricks"
+        },
+        "tags": ["Tricks", "Speedball"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q61",
+        "text": "Wie viele Minuten vor dem Start muss ein Athlet bereit sein?",
+        "options": [
+          "2 Minuten",
+          "5 Minuten",
+          "10 Minuten",
+          "15 Minuten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Athlet muss mindestens 5 Minuten vor seinem geplanten Start bereit sein, sonst kann er disqualifiziert werden.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 18",
+          "chapter": "Start Procedures"
+        },
+        "tags": ["Wettkampfregeln", "Start"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q62",
+        "text": "Was ist ein 'TS Backroll'?",
+        "options": [
+          "Ein schneller Backroll",
+          "Ein Backroll vom Toeside Approach",
+          "Ein halber Backroll",
+          "Ein Backroll mit Two Spins"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein TS Backroll ist ein Backroll, der von einem Toeside Approach ausgeführt wird, was eine andere Technik und Körperhaltung erfordert.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 58",
+          "chapter": "Approach Variations"
+        },
+        "tags": ["Tricks", "Toeside"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q63",
+        "text": "Können Athleten während des Wettkampfs ihr Helm tragen?",
+        "options": [
+          "Ja, Helme sind Pflicht",
+          "Ja, aber nur freiwillig",
+          "Nein, Helme sind verboten",
+          "Nur bei Junioren"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Tragen eines Helms ist freiwillig aber empfohlen. Es gibt keine Helmpflicht bei Wakeboard-Wettkämpfen.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 13",
+          "chapter": "Safety Equipment"
+        },
+        "tags": ["Sicherheit", "Equipment"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q64",
+        "text": "Was ist ein 'HS Frontroll'?",
+        "options": [
+          "Ein schneller Frontroll",
+          "Ein Frontroll vom Heelside Approach",
+          "Ein halber Frontroll",
+          "Ein Frontroll mit High Speed"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein HS Frontroll ist ein Frontroll, der von einem Heelside Approach ausgeführt wird.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 59",
+          "chapter": "Approach Variations"
+        },
+        "tags": ["Tricks", "Heelside"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q65",
+        "text": "Wie wird eine perfekte Landung definiert?",
+        "options": [
+          "Beide Füße auf dem Board",
+          "Vollständige Kontrolle ohne Wackeln oder Spritzen",
+          "Landung mit geradem Board",
+          "Weiterfahren ohne zu fallen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine perfekte Landung wird definiert durch vollständige Kontrolle, minimales Spritzen, stabiles Board und flüssiges Weiterfahren.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 30",
+          "chapter": "Landing Criteria"
+        },
+        "tags": ["Technik", "Landing"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q66",
+        "text": "Was ist ein 'Melon Grab'?",
+        "options": [
+          "Ein Grab mit beiden Händen",
+          "Greifen der Heelside-Kante mit der vorderen Hand",
+          "Ein Grab der Melone",
+          "Ein Grab während eines Spins"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Melon Grab ist das Greifen der Heelside-Kante zwischen den Füßen mit der vorderen Hand.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 60",
+          "chapter": "Grab Definitions"
+        },
+        "tags": ["Grabs", "Melon"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q67",
+        "text": "Kann ein Protest nach Veröffentlichung der Ergebnisse eingereicht werden?",
+        "options": [
+          "Ja, bis zu 24 Stunden später",
+          "Ja, innerhalb von 15 Minuten",
+          "Nein, nur während des Wettkampfs",
+          "Ja, bis zum Ende des Events"
+        ],
+        "correctIndex": 1,
+        "explanation": "Proteste müssen innerhalb von 15 Minuten nach Veröffentlichung der betreffenden Wertung eingereicht werden.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 31",
+          "chapter": "Protest Procedures"
+        },
+        "tags": ["Wettkampfregeln", "Protest"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q68",
+        "text": "Was ist ein 'Wrapped' Trick?",
+        "options": [
+          "Ein eingewickelter Trick",
+          "Ein Trick mit Seil-Wrap um den Körper",
+          "Ein komplizierter Trick",
+          "Ein Trick mit Geschenken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Wrapped Trick ist ein Trick, bei dem das Seil während der Ausführung um einen Teil des Körpers gewickelt wird.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 61",
+          "chapter": "Advanced Techniques"
+        },
+        "tags": ["Tricks", "Wrapped"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q69",
+        "text": "Welche Altersklassen gibt es beim Wakeboard?",
+        "options": [
+          "Nur Open (alle Altersgruppen zusammen)",
+          "Junior (unter 18) und Open (18+)",
+          "Junior, Open, Master (40+)",
+          "Verschiedene Kategorien nach Jahren"
+        ],
+        "correctIndex": 3,
+        "explanation": "Es gibt verschiedene Altersklassen: Boys/Girls, Junior Men/Women, Open Men/Women, Masters (über 40), und weitere Kategorien je nach Event.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 14",
+          "chapter": "Age Categories"
+        },
+        "tags": ["Wettkampfregeln", "Altersklassen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q70",
+        "text": "Was ist ein 'Nuclear' Grab?",
+        "options": [
+          "Ein explosiver Grab",
+          "Ein Grab mit beiden Händen am Tail",
+          "Ein sehr schwieriger Grab",
+          "Ein radioaktiver Grab"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Nuclear Grab ist ein stylischer Grab, bei dem beide Hände das Tail des Boards greifen, während die Knie gebeugt sind.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 62",
+          "chapter": "Grab Definitions"
+        },
+        "tags": ["Grabs", "Nuclear"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q71",
+        "text": "Wer entscheidet bei Uneinigkeit der Richter?",
+        "options": [
+          "Der älteste Richter",
+          "Der Head Judge",
+          "Abstimmung aller Richter",
+          "Der Athlet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei Uneinigkeit der Richter hat der Head Judge die finale Entscheidungskraft.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 21",
+          "chapter": "Head Judge Authority"
+        },
+        "tags": ["Richter", "Wettkampfregeln"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q72",
+        "text": "Was ist ein 'Half Cab'?",
+        "options": [
+          "Ein halbes Taxi",
+          "Ein Switch Frontside 180",
+          "Eine halbe Kabine",
+          "Ein 90-Grad-Spin"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Half Cab ist ein Switch Frontside 180, benannt nach dem legendären Skateboarder Steve Caballero.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 63",
+          "chapter": "Spin Definitions"
+        },
+        "tags": ["Tricks", "Spins"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q73",
+        "text": "Müssen Finnen am Board befestigt sein?",
+        "options": [
+          "Ja, immer",
+          "Nein, Finnen sind optional",
+          "Nur bei Anfängern",
+          "Nur bei Wettkämpfen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Finnen sind optional. Viele fortgeschrittene Fahrer verzichten auf Finnen für mehr Freiheit bei Tricks.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 13",
+          "chapter": "Board Configuration"
+        },
+        "tags": ["Equipment", "Board"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q74",
+        "text": "Was ist ein 'Stalefish' Grab?",
+        "options": [
+          "Ein Grab von altem Fisch",
+          "Greifen der Heelside-Kante mit der hinteren Hand zwischen den Beinen",
+          "Ein Grab während eines alten Tricks",
+          "Ein langsamer Grab"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Stalefish ist das Greifen der Heelside-Kante mit der hinteren Hand, wobei die Hand zwischen die Beine geführt wird.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 64",
+          "chapter": "Grab Definitions"
+        },
+        "tags": ["Grabs", "Stalefish"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q75",
+        "text": "Welche Windstärke ist maximal für einen Wettkampf erlaubt?",
+        "options": [
+          "20 km/h",
+          "30 km/h",
+          "40 km/h",
+          "Es gibt keine Windgrenze, nur Empfehlungen"
+        ],
+        "correctIndex": 3,
+        "explanation": "Es gibt keine feste Windgrenze, aber starker Wind kann zur Absage eines Wettkampfs führen, wenn die Sicherheit gefährdet ist.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 8",
+          "chapter": "Weather Conditions"
+        },
+        "tags": ["Wettkampfbedingungen", "Wetter"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q76",
+        "text": "Was ist ein 'Roll to Revert'?",
+        "options": [
+          "Ein Backroll mit 270-Grad-Drehung",
+          "Ein Frontroll mit 180-Grad-Drehung",
+          "Ein Backroll mit 180-Grad-Drehung",
+          "Eine Umkehrung der Fahrtrichtung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Roll to Revert ist ein Backroll mit 270-Grad-Drehung, sodass der Rider in Switch-Position landet.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 65",
+          "chapter": "Combination Tricks"
+        },
+        "tags": ["Tricks", "Roll to Revert"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q77",
+        "text": "Gibt es eine Mindestanzahl an Tricks pro Fahrt?",
+        "options": [
+          "Ja, mindestens 5 Tricks",
+          "Ja, mindestens 10 Tricks",
+          "Nein, aber zu wenige Tricks beeinflussen die Wertung",
+          "Ja, mindestens 3 Tricks"
+        ],
+        "correctIndex": 2,
+        "explanation": "Es gibt keine Mindestanzahl, aber zu wenige Tricks führen zu einer niedrigen Composition-Wertung und beeinflussen das Gesamtergebnis negativ.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 27",
+          "chapter": "Composition Requirements"
+        },
+        "tags": ["Wettkampfregeln", "Composition"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q78",
+        "text": "Was ist ein 'Shuv-it'?",
+        "options": [
+          "Ein Trick auf Schnee",
+          "Eine 180-Grad-Drehung des Boards ohne Körperrotation",
+          "Ein Push-Trick",
+          "Ein schneller Spin"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Shuv-it ist eine 180-Grad-Drehung des Boards unter den Füßen, während der Körper minimal rotiert - ein stylischer Surface-Trick.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 66",
+          "chapter": "Surface Tricks"
+        },
+        "tags": ["Tricks", "Surface"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q79",
+        "text": "Kann ein Athlet die Startposition wählen?",
+        "options": [
+          "Ja, frei wählbar",
+          "Ja, aber nur zwischen zwei Optionen",
+          "Nein, wird zugelost",
+          "Nein, nach Ranking"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Startposition wird ausgelost oder nach Ranking festgelegt, Athleten können sie nicht frei wählen.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 15",
+          "chapter": "Start Order"
+        },
+        "tags": ["Wettkampfregeln", "Start"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q80",
+        "text": "Was ist ein 'Air Raley'?",
+        "options": [
+          "Ein hoher Sprung",
+          "Ein Raley mit mehr Höhe und Extension",
+          "Ein Raley in der Luft",
+          "Ein Raley mit Grab"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Air Raley ist eine Variation des Raley mit mehr Höhe, Extension und stylischerer Ausführung.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 67",
+          "chapter": "Raley Variations"
+        },
+        "tags": ["Tricks", "Raley"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q81",
+        "text": "Sind Drohnen zur Aufnahme während des Wettkampfs erlaubt?",
+        "options": [
+          "Ja, immer",
+          "Ja, mit Genehmigung",
+          "Nein, nie",
+          "Nur vom Veranstalter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Drohnen sind nur mit ausdrücklicher Genehmigung des Veranstalters und unter Einhaltung von Sicherheitsabständen erlaubt.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 32",
+          "chapter": "Media Regulations"
+        },
+        "tags": ["Wettkampfregeln", "Medien"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q82",
+        "text": "Was ist ein 'Heart Attack'?",
+        "options": [
+          "Ein medizinischer Notfall",
+          "Ein Raley mit Backroll-Rotation",
+          "Ein sehr schwieriger Trick",
+          "Ein Trick mit Herzform"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Heart Attack ist ein fortgeschrittener Trick, bei dem ein Raley mit einer Backroll-Rotation kombiniert wird.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 68",
+          "chapter": "Advanced Tricks"
+        },
+        "tags": ["Tricks", "Heart Attack"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q83",
+        "text": "Wie wird die finale Platzierung bei mehreren Fahrten im Finale ermittelt?",
+        "options": [
+          "Durchschnitt aller Fahrten",
+          "Summe aller Fahrten",
+          "Beste Fahrt zählt",
+          "Letzte Fahrt zählt"
+        ],
+        "correctIndex": 2,
+        "explanation": "Im Finale zählt die beste Fahrt eines Athleten für die finale Platzierung.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 16",
+          "chapter": "Final Scoring"
+        },
+        "tags": ["Finale", "Wertung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q84",
+        "text": "Was ist ein 'Slim Chance'?",
+        "options": [
+          "Eine geringe Chance",
+          "Ein Backroll to Blind mit Grab",
+          "Ein sehr schwieriger Trick",
+          "Ein schmaler Trick"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Slim Chance ist ein stylischer Trick: ein Backroll to Blind kombiniert mit einem Grab während der Rotation.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 69",
+          "chapter": "Advanced Tricks"
+        },
+        "tags": ["Tricks", "Slim Chance"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q85",
+        "text": "Gibt es Punkte für Style und Kreativität?",
+        "options": [
+          "Ja, als separates Kriterium",
+          "Ja, einbezogen in Composition und Execution",
+          "Nein, nur technische Ausführung zählt",
+          "Nur bei bestimmten Events"
+        ],
+        "correctIndex": 1,
+        "explanation": "Style und Kreativität werden in den Kriterien Composition und Execution berücksichtigt, sind aber keine separaten Bewertungskategorien.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 26",
+          "chapter": "Judging Philosophy"
+        },
+        "tags": ["Wertung", "Style"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q86",
+        "text": "Was ist ein 'Hoochie Glide'?",
+        "options": [
+          "Ein gleitender Trick",
+          "Ein Frontroll mit 360-Grad-Drehung und Grab",
+          "Ein Surface-Slide",
+          "Ein langsamer Trick"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Hoochie Glide ist ein fortgeschrittener Trick: ein Frontroll kombiniert mit einer 360-Grad-Drehung und einem Grab.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 70",
+          "chapter": "Advanced Tricks"
+        },
+        "tags": ["Tricks", "Hoochie Glide"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q87",
+        "text": "Können Athleten ihre Musik selbst auswählen bei Events mit Musikbegleitung?",
+        "options": [
+          "Ja, immer",
+          "Ja, aber sie muss genehmigt werden",
+          "Nein, der Veranstalter wählt",
+          "Nur im Finale"
+        ],
+        "correctIndex": 1,
+        "explanation": "Athleten können ihre Musik auswählen, aber sie muss vorab beim Veranstalter eingereicht und genehmigt werden (keine unangemessenen Inhalte).",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 19",
+          "chapter": "Music Selection"
+        },
+        "tags": ["Wettkampfregeln", "Entertainment"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q88",
+        "text": "Was ist ein 'Tootsie Roll'?",
+        "options": [
+          "Ein Süßigkeiten-Trick",
+          "Ein Backroll mit Handle Pass",
+          "Ein Roll-Trick",
+          "Ein gedrehter Grab"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Tootsie Roll ist ein Backroll, bei dem das Handle während der Rotation hinter dem Rücken übergeben wird.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 71",
+          "chapter": "Handle Pass Tricks"
+        },
+        "tags": ["Tricks", "Handle Pass"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q89",
+        "text": "Wie viele offizielle Trainingsfahrten gibt es vor dem Wettkampf?",
+        "options": [
+          "Keine",
+          "1 Trainingsfahrt",
+          "2 Trainingsfahrten",
+          "Unbegrenzt während der Trainingszeit"
+        ],
+        "correctIndex": 3,
+        "explanation": "Während der offiziellen Trainingszeit können Athleten so viele Fahrten absolvieren, wie die Zeit erlaubt, abhängig von der Anzahl der Teilnehmer.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 17",
+          "chapter": "Practice Sessions"
+        },
+        "tags": ["Training", "Wettkampfregeln"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q90",
+        "text": "Was ist ein 'Elephant'?",
+        "options": [
+          "Ein großer Trick",
+          "Ein Backroll to Blind mit Nose Grab",
+          "Ein Trick mit Rüssel",
+          "Ein schwerer Trick"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Elephant ist ein stylischer Trick: ein Backroll to Blind kombiniert mit einem Nose Grab während der Rotation.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 72",
+          "chapter": "Advanced Tricks"
+        },
+        "tags": ["Tricks", "Elephant"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q91",
+        "text": "Werden negative Punkte für Stürze vergeben?",
+        "options": [
+          "Ja, -10 Punkte pro Sturz",
+          "Ja, -5 Punkte pro Sturz",
+          "Nein, aber die Fahrt endet",
+          "Nur bei mehreren Stürzen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Es gibt keine negativen Punkte für Stürze, aber die Fahrt endet und nur erfolgreich ausgeführte Tricks vor dem Sturz werden gewertet.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 28",
+          "chapter": "Fall Consequences"
+        },
+        "tags": ["Sturz", "Wertung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q92",
+        "text": "Was ist ein 'Vulcan'?",
+        "options": [
+          "Ein Star Trek Trick",
+          "Ein Tantrum to Blind",
+          "Ein heißer Trick",
+          "Ein Griff-Trick"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Vulcan ist ein Tantrum (Backflip vorwärts) kombiniert mit einer 180-Grad-Drehung zu einem Blind Landing.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 73",
+          "chapter": "Tantrum Variations"
+        },
+        "tags": ["Tricks", "Vulcan"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q93",
+        "text": "Gibt es unterschiedliche Wertungsskalen für Männer und Frauen?",
+        "options": [
+          "Ja, Frauen haben niedrigere Standards",
+          "Ja, Männer haben höhere Standards",
+          "Nein, die Wertung ist identisch",
+          "Nur bei bestimmten Tricks"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Wertungsskala und -kriterien sind für alle Geschlechter identisch. Jeder Trick wird nach denselben Standards bewertet.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 23",
+          "chapter": "Gender-Neutral Judging"
+        },
+        "tags": ["Wertung", "Fairness"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q94",
+        "text": "Was ist ein 'Fruit Loop'?",
+        "options": [
+          "Ein bunter Trick",
+          "Ein Backroll mit Handle Pass und Blind Landing",
+          "Ein Frühstücks-Trick",
+          "Ein Loop-Trick"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Fruit Loop ist ein fortgeschrittener Trick: ein Backroll mit Handle Pass hinter dem Rücken und Blind Landing.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 74",
+          "chapter": "Handle Pass Tricks"
+        },
+        "tags": ["Tricks", "Fruit Loop"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q95",
+        "text": "Müssen alle Tricks unterschiedliche Namen haben?",
+        "options": [
+          "Ja, jeder Trick braucht einen einzigartigen Namen",
+          "Nein, es geht um die tatsächliche Ausführung",
+          "Nur bei neuen Tricks",
+          "Nur bei Wettkämpfen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Namen sind für Kommunikation wichtig, aber gewertet wird die tatsächliche Ausführung. Verschiedene Variationen können ähnliche Namen haben.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 33",
+          "chapter": "Trick Nomenclature"
+        },
+        "tags": ["Tricks", "Definitionen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q96",
+        "text": "Was ist ein 'Dum Dum'?",
+        "options": [
+          "Ein einfacher Trick",
+          "Ein Tantrum to Blind mit Grab",
+          "Ein dummer Trick",
+          "Ein doppelter Trick"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Dum Dum ist ein stylischer Trick: ein Tantrum to Blind kombiniert mit einem Grab während der Rotation.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 75",
+          "chapter": "Advanced Tricks"
+        },
+        "tags": ["Tricks", "Dum Dum"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q97",
+        "text": "Können Richter ihre Wertung nach Abgabe ändern?",
+        "options": [
+          "Ja, jederzeit",
+          "Ja, innerhalb von 1 Minute",
+          "Nein, Wertungen sind final",
+          "Nur bei offensichtlichen Fehlern"
+        ],
+        "correctIndex": 3,
+        "explanation": "Wertungen sind normalerweise final, können aber bei offensichtlichen Eingabefehlern mit Zustimmung des Head Judges korrigiert werden.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 21",
+          "chapter": "Score Corrections"
+        },
+        "tags": ["Richter", "Wertung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q98",
+        "text": "Was ist ein 'Blind Judge'?",
+        "options": [
+          "Ein blinder Richter",
+          "Ein Richter, der die vorherigen Wertungen nicht sieht",
+          "Ein unparteiischer Richter",
+          "Ein Richter für Blind Landings"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Blind Judge ist ein Richter, der die Wertungen der anderen Richter nicht sieht, um unabhängige Bewertungen sicherzustellen.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 20",
+          "chapter": "Judging Procedures"
+        },
+        "tags": ["Richter", "Fairness"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q99",
+        "text": "Was ist ein 'Roast Beef' Grab?",
+        "options": [
+          "Ein Fleisch-Grab",
+          "Greifen der Heelside mit hinteren Hand hinter dem hinteren Bein",
+          "Ein warmer Grab",
+          "Ein deftiger Grab"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Roast Beef ist ein stylischer Grab: Greifen der Heelside-Kante mit der hinteren Hand, die hinter dem hinteren Bein durchgeführt wird.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 76",
+          "chapter": "Grab Definitions"
+        },
+        "tags": ["Grabs", "Roast Beef"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q100",
+        "text": "Gibt es Bonuspunkte für besonders schwierige Tricks?",
+        "options": [
+          "Ja, bis zu 20 Bonuspunkte",
+          "Ja, bis zu 10 Bonuspunkte",
+          "Nein, aber sie erhöhen die Intensity-Wertung",
+          "Nur bei Weltmeisterschaften"
+        ],
+        "correctIndex": 2,
+        "explanation": "Es gibt keine separaten Bonuspunkte, aber schwierige Tricks erhöhen die Intensity-Wertung signifikant und tragen so zur Gesamtpunktzahl bei.",
+        "source": {
+          "citation": "IWWF Wakeboard Boat Rules 2024",
+          "pages": "S. 25",
+          "chapter": "Difficulty Assessment"
+        },
+        "tags": ["Wertung", "Intensity"],
         "difficulty": "mittel"
       }
     ]
   }
 }
+

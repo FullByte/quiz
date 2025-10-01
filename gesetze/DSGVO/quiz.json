@@ -1,0 +1,1122 @@
+{
+  "quiz": {
+    "title": "DSGVO Quiz",
+    "description": "Teste dein Wissen zur EU-Datenschutz-Grundverordnung (DSGVO) und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+    "language": "de",
+    "version": "1.0",
+    "sourceDocument": {
+      "title": "Datenschutz-Grundverordnung (EU) 2016/679",
+      "version": "2016",
+      "year": 2016,
+      "pdfFilename": "CELEX_32016R0679_DE_TXT.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 0
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Wann ist die DSGVO in Kraft getreten?",
+        "options": [
+          "24. Mai 2016",
+          "25. Mai 2016",
+          "24. Mai 2018",
+          "25. Mai 2018"
+        ],
+        "correctIndex": 3,
+        "explanation": "Die DSGVO ist am 24. Mai 2016 in Kraft getreten, aber die Anwendung begann erst am 25. Mai 2018 nach einer zweijährigen Übergangsfrist.",
+        "source": {
+          "citation": "DSGVO Artikel 99",
+          "pages": "S. 88",
+          "chapter": "Artikel 99"
+        },
+        "tags": [
+          "Inkrafttreten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Was sind 'personenbezogene Daten' nach der DSGVO?",
+        "options": [
+          "Nur Namen und Adressen",
+          "Alle Informationen, die sich auf eine identifizierte oder identifizierbare Person beziehen",
+          "Nur biometrische Daten",
+          "Nur digitale Daten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen, wie Name, Kennnummer, Standortdaten, Online-Kennung oder besondere Merkmale.",
+        "source": {
+          "citation": "DSGVO Artikel 4 Nr. 1",
+          "pages": "S. 33",
+          "chapter": "Artikel 4 Nr. 1"
+        },
+        "tags": [
+          "Definitionen",
+          "Personenbezogene Daten"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Was versteht man unter 'Verarbeitung' personenbezogener Daten?",
+        "options": [
+          "Nur die Speicherung von Daten",
+          "Nur das Löschen von Daten",
+          "Jeden Vorgang im Zusammenhang mit Daten wie Erhebung, Speicherung, Verwendung, Löschung",
+          "Nur die digitale Verarbeitung"
+        ],
+        "correctIndex": 2,
+        "explanation": "Verarbeitung umfasst jeden Vorgang wie Erheben, Erfassen, Organisation, Ordnen, Speicherung, Anpassung, Verwendung, Offenlegung, Abgleich, Löschung oder Vernichtung von Daten.",
+        "source": {
+          "citation": "DSGVO Artikel 4 Nr. 2",
+          "pages": "S. 33",
+          "chapter": "Artikel 4 Nr. 2"
+        },
+        "tags": [
+          "Definitionen",
+          "Verarbeitung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Welche Rechtsgrundlagen für die Verarbeitung personenbezogener Daten gibt es?",
+        "options": [
+          "Nur Einwilligung",
+          "Einwilligung, Vertrag, rechtliche Verpflichtung, lebenswichtige Interessen, öffentliche Aufgabe, berechtigte Interessen",
+          "Nur vertragliche Notwendigkeit",
+          "Nur gesetzliche Verpflichtungen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Es gibt sechs Rechtsgrundlagen: Einwilligung, Vertragserfüllung, rechtliche Verpflichtung, Schutz lebenswichtiger Interessen, öffentliche Aufgabe und berechtigte Interessen des Verantwortlichen.",
+        "source": {
+          "citation": "DSGVO Artikel 6 Abs. 1",
+          "pages": "S. 36-37",
+          "chapter": "Artikel 6 Abs. 1"
+        },
+        "tags": [
+          "Rechtsgrundlagen",
+          "Verarbeitung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was sind 'besondere Kategorien personenbezogener Daten' (sensible Daten)?",
+        "options": [
+          "Alle digitalen Daten",
+          "Nur Gesundheitsdaten",
+          "Daten über rassische/ethnische Herkunft, politische Meinungen, Religion, Gesundheit, Sexualleben, biometrische/genetische Daten",
+          "Nur Finanzdaten"
+        ],
+        "correctIndex": 2,
+        "explanation": "Besondere Kategorien umfassen Daten über rassische/ethnische Herkunft, politische Meinungen, religiöse Überzeugungen, Gewerkschaftszugehörigkeit, Gesundheit, Sexualleben, sexuelle Orientierung sowie genetische und biometrische Daten.",
+        "source": {
+          "citation": "DSGVO Artikel 9 Abs. 1",
+          "pages": "S. 38-39",
+          "chapter": "Artikel 9 Abs. 1"
+        },
+        "tags": [
+          "Sensible Daten",
+          "Besondere Kategorien"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Ist die Verarbeitung besonderer Kategorien personenbezogener Daten grundsätzlich erlaubt?",
+        "options": [
+          "Ja, immer",
+          "Nein, grundsätzlich verboten mit definierten Ausnahmen",
+          "Nur mit Einwilligung",
+          "Nur für öffentliche Stellen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Verarbeitung besonderer Kategorien ist grundsätzlich untersagt, es sei denn, es liegt eine der in Artikel 9 Absatz 2 genannten Ausnahmen vor.",
+        "source": {
+          "citation": "DSGVO Artikel 9 Abs. 1",
+          "pages": "S. 38",
+          "chapter": "Artikel 9 Abs. 1"
+        },
+        "tags": [
+          "Sensible Daten",
+          "Verbot"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist eine 'Einwilligung' nach der DSGVO?",
+        "options": [
+          "Jede Form der Zustimmung",
+          "Eine freiwillige, spezifische, informierte und unmissverständliche Willensbekundung",
+          "Ein mündliches Einverständnis",
+          "Eine implizite Zustimmung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Einwilligung muss freiwillig, für einen bestimmten Fall, in informierter Weise und unmissverständlich durch eine eindeutige Handlung abgegeben werden.",
+        "source": {
+          "citation": "DSGVO Artikel 4 Nr. 11",
+          "pages": "S. 34",
+          "chapter": "Artikel 4 Nr. 11"
+        },
+        "tags": [
+          "Einwilligung",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Kann eine Einwilligung jederzeit widerrufen werden?",
+        "options": [
+          "Nein, eine Einwilligung ist bindend",
+          "Ja, aber nur schriftlich",
+          "Ja, jederzeit und ohne Angabe von Gründen",
+          "Nur innerhalb von 14 Tagen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die betroffene Person hat das Recht, ihre Einwilligung jederzeit zu widerrufen. Der Widerruf berührt nicht die Rechtmäßigkeit der bis dahin erfolgten Verarbeitung.",
+        "source": {
+          "citation": "DSGVO Artikel 7 Abs. 3",
+          "pages": "S. 38",
+          "chapter": "Artikel 7 Abs. 3"
+        },
+        "tags": [
+          "Einwilligung",
+          "Widerruf"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q9",
+        "text": "Wer ist 'Verantwortlicher' im Sinne der DSGVO?",
+        "options": [
+          "Nur der Geschäftsführer",
+          "Die Stelle, die über Zwecke und Mittel der Verarbeitung entscheidet",
+          "Nur IT-Abteilungen",
+          "Jeder Mitarbeiter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Verantwortliche ist die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung entscheidet.",
+        "source": {
+          "citation": "DSGVO Artikel 4 Nr. 7",
+          "pages": "S. 33",
+          "chapter": "Artikel 4 Nr. 7"
+        },
+        "tags": [
+          "Definitionen",
+          "Verantwortlicher"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "Was ist ein 'Auftragsverarbeiter'?",
+        "options": [
+          "Ein Kunde",
+          "Eine Person, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet",
+          "Ein Datenschutzbeauftragter",
+          "Eine Aufsichtsbehörde"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Auftragsverarbeiter ist eine natürliche oder juristische Person, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet.",
+        "source": {
+          "citation": "DSGVO Artikel 4 Nr. 8",
+          "pages": "S. 34",
+          "chapter": "Artikel 4 Nr. 8"
+        },
+        "tags": [
+          "Definitionen",
+          "Auftragsverarbeiter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q11",
+        "text": "Welches Recht hat eine betroffene Person bezüglich ihrer Daten?",
+        "options": [
+          "Nur das Recht auf Löschung",
+          "Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerspruch",
+          "Nur das Recht auf Auskunft",
+          "Keine besonderen Rechte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Betroffene Personen haben umfassende Rechte: Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch gegen die Verarbeitung.",
+        "source": {
+          "citation": "DSGVO Artikel 15-21",
+          "pages": "S. 43-48",
+          "chapter": "Kapitel III"
+        },
+        "tags": [
+          "Betroffenenrechte",
+          "Rechte"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Innerhalb welcher Frist muss ein Auskunftsersuchen beantwortet werden?",
+        "options": [
+          "Sofort",
+          "Innerhalb von einem Monat, verlängerbar um zwei Monate",
+          "Innerhalb von drei Monaten",
+          "Innerhalb von sechs Monaten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Verantwortliche muss der betroffenen Person unverzüglich, spätestens aber innerhalb eines Monats Auskunft erteilen. Diese Frist kann um zwei weitere Monate verlängert werden.",
+        "source": {
+          "citation": "DSGVO Artikel 12 Abs. 3",
+          "pages": "S. 41",
+          "chapter": "Artikel 12 Abs. 3"
+        },
+        "tags": [
+          "Auskunftsrecht",
+          "Fristen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist das 'Recht auf Vergessenwerden'?",
+        "options": [
+          "Das Recht, vergessen zu werden",
+          "Das Recht auf Löschung personenbezogener Daten unter bestimmten Bedingungen",
+          "Das Recht auf Anonymität",
+          "Das Recht auf Pseudonymisierung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Recht auf Vergessenwerden ist das Recht auf Löschung personenbezogener Daten, wenn sie nicht mehr notwendig sind, die Einwilligung widerrufen wurde oder die Daten unrechtmäßig verarbeitet wurden.",
+        "source": {
+          "citation": "DSGVO Artikel 17",
+          "pages": "S. 44-45",
+          "chapter": "Artikel 17"
+        },
+        "tags": [
+          "Löschung",
+          "Vergessenwerden"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist das 'Recht auf Datenübertragbarkeit'?",
+        "options": [
+          "Das Recht, Daten physisch zu transportieren",
+          "Das Recht, personenbezogene Daten in einem strukturierten Format zu erhalten und an einen anderen Verantwortlichen zu übermitteln",
+          "Das Recht auf Datensicherung",
+          "Das Recht auf Cloud-Speicherung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Betroffene Personen haben das Recht, ihre Daten in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten und an einen anderen Verantwortlichen zu übermitteln.",
+        "source": {
+          "citation": "DSGVO Artikel 20",
+          "pages": "S. 46-47",
+          "chapter": "Artikel 20"
+        },
+        "tags": [
+          "Datenübertragbarkeit",
+          "Portabilität"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist eine 'Datenschutzverletzung' (Data Breach)?",
+        "options": [
+          "Jeder Fehler in der IT",
+          "Eine Verletzung der Sicherheit, die zur Vernichtung, zum Verlust oder zur unrechtmäßigen Offenlegung von Daten führt",
+          "Nur Hackerangriffe",
+          "Nur versehentliche Löschungen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Datenschutzverletzung ist eine Verletzung der Sicherheit, die zur Vernichtung, zum Verlust, zur Veränderung oder zur unbefugten Offenlegung oder zum Zugang zu Daten führt.",
+        "source": {
+          "citation": "DSGVO Artikel 4 Nr. 12",
+          "pages": "S. 34",
+          "chapter": "Artikel 4 Nr. 12"
+        },
+        "tags": [
+          "Data Breach",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q16",
+        "text": "Innerhalb welcher Frist muss eine Datenschutzverletzung der Aufsichtsbehörde gemeldet werden?",
+        "options": [
+          "Sofort",
+          "Innerhalb von 24 Stunden",
+          "Innerhalb von 72 Stunden",
+          "Innerhalb von einer Woche"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Verantwortliche muss eine Datenschutzverletzung unverzüglich und möglichst binnen 72 Stunden, nachdem ihm die Verletzung bekannt wurde, der Aufsichtsbehörde melden.",
+        "source": {
+          "citation": "DSGVO Artikel 33 Abs. 1",
+          "pages": "S. 50",
+          "chapter": "Artikel 33 Abs. 1"
+        },
+        "tags": [
+          "Data Breach",
+          "Meldepflicht"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Muss die betroffene Person bei einer Datenschutzverletzung informiert werden?",
+        "options": [
+          "Ja, immer",
+          "Nur wenn ein hohes Risiko für ihre Rechte und Freiheiten besteht",
+          "Nein, niemals",
+          "Nur auf Anfrage"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die betroffene Person muss unverzüglich benachrichtigt werden, wenn die Datenschutzverletzung voraussichtlich ein hohes Risiko für ihre persönlichen Rechte und Freiheiten zur Folge hat.",
+        "source": {
+          "citation": "DSGVO Artikel 34 Abs. 1",
+          "pages": "S. 51",
+          "chapter": "Artikel 34 Abs. 1"
+        },
+        "tags": [
+          "Data Breach",
+          "Benachrichtigung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Was ist eine 'Datenschutz-Folgenabschätzung' (DSFA)?",
+        "options": [
+          "Eine finanzielle Bewertung",
+          "Eine Bewertung der Folgen geplanter Verarbeitungsvorgänge für den Schutz personenbezogener Daten",
+          "Eine Mitarbeiterbewertung",
+          "Eine Kundenzufriedenheitsumfrage"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine DSFA ist eine Bewertung der Auswirkungen geplanter Verarbeitungsvorgänge auf den Schutz personenbezogener Daten, die bei hohem Risiko durchgeführt werden muss.",
+        "source": {
+          "citation": "DSGVO Artikel 35",
+          "pages": "S. 52-53",
+          "chapter": "Artikel 35"
+        },
+        "tags": [
+          "DSFA",
+          "Risikobewertung"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Wann ist eine Datenschutz-Folgenabschätzung erforderlich?",
+        "options": [
+          "Immer",
+          "Bei jeder neuen Software",
+          "Wenn eine Verarbeitung voraussichtlich ein hohes Risiko zur Folge hat",
+          "Nur bei internationalen Transfers"
+        ],
+        "correctIndex": 2,
+        "explanation": "Eine DSFA ist erforderlich, wenn eine Form der Verarbeitung, insbesondere bei neuen Technologien, voraussichtlich ein hohes Risiko für die Rechte und Freiheiten natürlicher Personen zur Folge hat.",
+        "source": {
+          "citation": "DSGVO Artikel 35 Abs. 1",
+          "pages": "S. 52",
+          "chapter": "Artikel 35 Abs. 1"
+        },
+        "tags": [
+          "DSFA",
+          "Pflicht"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist ein 'Datenschutzbeauftragter' (DSB)?",
+        "options": [
+          "Der Geschäftsführer",
+          "Eine Person, die den Verantwortlichen berät und die Einhaltung der DSGVO überwacht",
+          "Ein Mitarbeiter der IT-Abteilung",
+          "Ein externer Anwalt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Datenschutzbeauftragte berät den Verantwortlichen, überwacht die Einhaltung der DSGVO, schult Mitarbeiter und ist Ansprechpartner für Aufsichtsbehörden und betroffene Personen.",
+        "source": {
+          "citation": "DSGVO Artikel 37-39",
+          "pages": "S. 54-56",
+          "chapter": "Artikel 37-39"
+        },
+        "tags": [
+          "DSB",
+          "Datenschutzbeauftragter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q21",
+        "text": "Wann ist die Benennung eines Datenschutzbeauftragten verpflichtend?",
+        "options": [
+          "Immer",
+          "Bei öffentlichen Stellen, umfangreicher Verarbeitung sensibler Daten oder systematischer Überwachung",
+          "Nur bei Unternehmen über 250 Mitarbeitern",
+          "Nur bei IT-Unternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein DSB muss benannt werden bei öffentlichen Stellen, wenn Kerntätigkeit in umfangreicher Verarbeitung besonderer Datenkategorien besteht oder eine umfangreiche systematische Überwachung durchgeführt wird.",
+        "source": {
+          "citation": "DSGVO Artikel 37 Abs. 1",
+          "pages": "S. 54",
+          "chapter": "Artikel 37 Abs. 1"
+        },
+        "tags": [
+          "DSB",
+          "Pflicht"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q22",
+        "text": "Was ist 'Pseudonymisierung'?",
+        "options": [
+          "Vollständige Anonymisierung",
+          "Verarbeitung so, dass Daten ohne zusätzliche Informationen nicht mehr einer Person zugeordnet werden können",
+          "Verwendung von Pseudonymen",
+          "Verschlüsselung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pseudonymisierung ist die Verarbeitung personenbezogener Daten in einer Weise, dass die Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer Person zugeordnet werden können.",
+        "source": {
+          "citation": "DSGVO Artikel 4 Nr. 5",
+          "pages": "S. 33",
+          "chapter": "Artikel 4 Nr. 5"
+        },
+        "tags": [
+          "Pseudonymisierung",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q23",
+        "text": "Was bedeutet 'Privacy by Design'?",
+        "options": [
+          "Schönes Design von Datenschutzerklärungen",
+          "Berücksichtigung des Datenschutzes bereits bei der Gestaltung von Systemen und Prozessen",
+          "Nur für Designer relevant",
+          "Ein Marketingkonzept"
+        ],
+        "correctIndex": 1,
+        "explanation": "Privacy by Design bedeutet, dass der Verantwortliche technische und organisatorische Maßnahmen bereits bei der Planung der Verarbeitungstätigkeit implementiert, um den Datenschutz zu gewährleisten.",
+        "source": {
+          "citation": "DSGVO Artikel 25 Abs. 1",
+          "pages": "S. 48",
+          "chapter": "Artikel 25 Abs. 1"
+        },
+        "tags": [
+          "Privacy by Design",
+          "Datenschutzgrundsätze"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Was bedeutet 'Privacy by Default'?",
+        "options": [
+          "Standard-Datenschutzeinstellungen",
+          "Standardmäßig höchstmögliche Datenschutzeinstellungen",
+          "Voreingestellte Einwilligungen",
+          "Automatische Datenlöschung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Privacy by Default bedeutet, dass standardmäßig nur diejenigen personenbezogenen Daten verarbeitet werden, die für den jeweiligen Zweck erforderlich sind - die datenschutzfreundlichste Einstellung als Standard.",
+        "source": {
+          "citation": "DSGVO Artikel 25 Abs. 2",
+          "pages": "S. 48-49",
+          "chapter": "Artikel 25 Abs. 2"
+        },
+        "tags": [
+          "Privacy by Default",
+          "Datenschutzgrundsätze"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "Was ist ein 'Verzeichnis von Verarbeitungstätigkeiten'?",
+        "options": [
+          "Eine Liste aller Mitarbeiter",
+          "Ein Verzeichnis aller Verarbeitungsprozesse mit Details zu Zweck, Kategorien, Empfängern etc.",
+          "Ein Telefonverzeichnis",
+          "Eine Kundenliste"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jeder Verantwortliche muss ein Verzeichnis aller Verarbeitungstätigkeiten führen mit Angaben zu Zwecken, Kategorien betroffener Personen und Daten, Empfängern, Übermittlungen und Löschfristen.",
+        "source": {
+          "citation": "DSGVO Artikel 30",
+          "pages": "S. 49-50",
+          "chapter": "Artikel 30"
+        },
+        "tags": [
+          "Verzeichnis",
+          "Dokumentationspflicht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q26",
+        "text": "Gibt es eine Ausnahme von der Pflicht, ein Verzeichnis zu führen?",
+        "options": [
+          "Nein, niemals",
+          "Ja, für Unternehmen mit weniger als 250 Mitarbeitern unter bestimmten Bedingungen",
+          "Ja, für alle kleinen Unternehmen",
+          "Ja, für gemeinnützige Organisationen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Unternehmen mit weniger als 250 Mitarbeitern sind ausgenommen, es sei denn, die Verarbeitung birgt ein Risiko, erfolgt nicht nur gelegentlich oder umfasst besondere Datenkategorien.",
+        "source": {
+          "citation": "DSGVO Artikel 30 Abs. 5",
+          "pages": "S. 50",
+          "chapter": "Artikel 30 Abs. 5"
+        },
+        "tags": [
+          "Verzeichnis",
+          "Ausnahmen"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q27",
+        "text": "Was sind die Grundsätze der Datenverarbeitung?",
+        "options": [
+          "Nur Rechtmäßigkeit",
+          "Rechtmäßigkeit, Transparenz, Zweckbindung, Datenminimierung, Richtigkeit, Speicherbegrenzung, Integrität",
+          "Nur Sicherheit",
+          "Nur Transparenz"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Grundsätze sind: Rechtmäßigkeit, Verarbeitung nach Treu und Glauben, Transparenz, Zweckbindung, Datenminimierung, Richtigkeit, Speicherbegrenzung, Integrität und Vertraulichkeit sowie Rechenschaftspflicht.",
+        "source": {
+          "citation": "DSGVO Artikel 5",
+          "pages": "S. 35-36",
+          "chapter": "Artikel 5"
+        },
+        "tags": [
+          "Grundsätze",
+          "Prinzipien"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q28",
+        "text": "Was bedeutet 'Datenminimierung'?",
+        "options": [
+          "Möglichst wenig Speicherplatz nutzen",
+          "Nur die für den Zweck notwendigen Daten erheben und verarbeiten",
+          "Kleine Datenbanken verwenden",
+          "Daten komprimieren"
+        ],
+        "correctIndex": 1,
+        "explanation": "Datenminimierung bedeutet, dass personenbezogene Daten dem Zweck angemessen und erheblich sowie auf das notwendige Maß beschränkt sein müssen.",
+        "source": {
+          "citation": "DSGVO Artikel 5 Abs. 1 c",
+          "pages": "S. 35",
+          "chapter": "Artikel 5 Abs. 1 c"
+        },
+        "tags": [
+          "Datenminimierung",
+          "Grundsätze"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q29",
+        "text": "Was bedeutet 'Zweckbindung'?",
+        "options": [
+          "Daten an einen Zweck binden",
+          "Daten nur für festgelegte, eindeutige und legitime Zwecke verarbeiten",
+          "Nur einen Zweck haben",
+          "Zwecke dokumentieren"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zweckbindung bedeutet, dass personenbezogene Daten für festgelegte, eindeutige und legitime Zwecke erhoben und nicht in einer mit diesen Zwecken nicht vereinbaren Weise weiterverarbeitet werden dürfen.",
+        "source": {
+          "citation": "DSGVO Artikel 5 Abs. 1 b",
+          "pages": "S. 35",
+          "chapter": "Artikel 5 Abs. 1 b"
+        },
+        "tags": [
+          "Zweckbindung",
+          "Grundsätze"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q30",
+        "text": "Was ist eine 'Aufsichtsbehörde'?",
+        "options": [
+          "Die Polizei",
+          "Eine unabhängige staatliche Stelle zur Überwachung der DSGVO-Anwendung",
+          "Das Finanzamt",
+          "Ein Gericht"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Aufsichtsbehörde ist eine von einem Mitgliedstaat eingerichtete unabhängige staatliche Stelle zur Überwachung der Anwendung der DSGVO.",
+        "source": {
+          "citation": "DSGVO Artikel 51",
+          "pages": "S. 63",
+          "chapter": "Artikel 51"
+        },
+        "tags": [
+          "Aufsichtsbehörde",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q31",
+        "text": "Wie hoch können Geldbußen bei Verstößen gegen die DSGVO sein?",
+        "options": [
+          "Bis zu 10.000 Euro",
+          "Bis zu 20 Millionen Euro oder 4% des Jahresumsatzes",
+          "Bis zu 1 Million Euro",
+          "Unbegrenzt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Je nach Schwere des Verstoßes können Geldbußen bis zu 20 Millionen Euro oder bis zu 4% des gesamten weltweit erzielten Jahresumsatzes verhängt werden, je nachdem, welcher Betrag höher ist.",
+        "source": {
+          "citation": "DSGVO Artikel 83 Abs. 5",
+          "pages": "S. 82",
+          "chapter": "Artikel 83 Abs. 5"
+        },
+        "tags": [
+          "Sanktionen",
+          "Geldbußen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q32",
+        "text": "Was ist ein 'Drittland' im Sinne der DSGVO?",
+        "options": [
+          "Jedes Land außer dem eigenen",
+          "Ein Land außerhalb der EU/des EWR",
+          "Nur Entwicklungsländer",
+          "Nur Nicht-NATO-Länder"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Drittland ist ein Land, das nicht Mitglied der Europäischen Union oder des Europäischen Wirtschaftsraums ist.",
+        "source": {
+          "citation": "DSGVO Kapitel V",
+          "pages": "S. 59-62",
+          "chapter": "Kapitel V"
+        },
+        "tags": [
+          "Drittland",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q33",
+        "text": "Unter welchen Bedingungen dürfen Daten in ein Drittland übermittelt werden?",
+        "options": [
+          "Immer erlaubt",
+          "Nur mit Angemessenheitsbeschluss, geeigneten Garantien oder Ausnahmen",
+          "Niemals erlaubt",
+          "Nur innerhalb der EU"
+        ],
+        "correctIndex": 1,
+        "explanation": "Datenübermittlungen in Drittländer sind nur zulässig bei einem Angemessenheitsbeschluss der Kommission, geeigneten Garantien (z.B. Standardvertragsklauseln) oder in Ausnahmefällen.",
+        "source": {
+          "citation": "DSGVO Artikel 44-49",
+          "pages": "S. 59-62",
+          "chapter": "Kapitel V"
+        },
+        "tags": [
+          "Drittland",
+          "Datenübermittlung"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q34",
+        "text": "Was sind 'Standardvertragsklauseln'?",
+        "options": [
+          "Normale Verträge",
+          "Von der Kommission genehmigte Vertragsklauseln für Datenübermittlungen in Drittländer",
+          "AGB",
+          "Arbeitsverträge"
+        ],
+        "correctIndex": 1,
+        "explanation": "Standardvertragsklauseln sind von der Europäischen Kommission genehmigte Vertragsklauseln, die geeignete Garantien für die Übermittlung personenbezogener Daten in Drittländer bieten.",
+        "source": {
+          "citation": "DSGVO Artikel 46 Abs. 2 c",
+          "pages": "S. 60",
+          "chapter": "Artikel 46 Abs. 2 c"
+        },
+        "tags": [
+          "Standardvertragsklauseln",
+          "Drittland"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q35",
+        "text": "Was ist ein 'Angemessenheitsbeschluss'?",
+        "options": [
+          "Eine nationale Entscheidung",
+          "Ein Beschluss der Kommission, dass ein Drittland ein angemessenes Datenschutzniveau bietet",
+          "Eine Gerichtsentscheidung",
+          "Ein Unternehmensbeschluss"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Angemessenheitsbeschluss ist eine Entscheidung der Europäischen Kommission, dass ein Drittland ein angemessenes Datenschutzniveau gewährleistet, wodurch Datenübermittlungen dorthin erleichtert werden.",
+        "source": {
+          "citation": "DSGVO Artikel 45",
+          "pages": "S. 59-60",
+          "chapter": "Artikel 45"
+        },
+        "tags": [
+          "Angemessenheitsbeschluss",
+          "Drittland"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Was ist 'Profiling'?",
+        "options": [
+          "Das Erstellen von Profilen in sozialen Medien",
+          "Jede automatisierte Verarbeitung zur Bewertung persönlicher Aspekte einer Person",
+          "Nur demografische Analysen",
+          "Fotografie"
+        ],
+        "correctIndex": 1,
+        "explanation": "Profiling ist jede Art der automatisierten Verarbeitung personenbezogener Daten zur Bewertung persönlicher Aspekte wie Arbeitsleistung, wirtschaftliche Lage, Gesundheit, Vorlieben oder Aufenthaltsorte.",
+        "source": {
+          "citation": "DSGVO Artikel 4 Nr. 4",
+          "pages": "S. 33",
+          "chapter": "Artikel 4 Nr. 4"
+        },
+        "tags": [
+          "Profiling",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Haben betroffene Personen das Recht, nicht einer ausschließlich automatisierten Entscheidung unterworfen zu werden?",
+        "options": [
+          "Nein",
+          "Ja, grundsätzlich mit definierten Ausnahmen",
+          "Nur in bestimmten Branchen",
+          "Nur bei Krediten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Betroffene Personen haben das Recht, nicht einer ausschließlich auf automatisierter Verarbeitung beruhenden Entscheidung unterworfen zu werden, die ihnen gegenüber rechtliche Wirkung entfaltet oder sie erheblich beeinträchtigt.",
+        "source": {
+          "citation": "DSGVO Artikel 22",
+          "pages": "S. 47-48",
+          "chapter": "Artikel 22"
+        },
+        "tags": [
+          "Automatisierte Entscheidungen",
+          "Profiling"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q38",
+        "text": "Was muss eine Datenschutzerklärung enthalten?",
+        "options": [
+          "Nur den Namen des Unternehmens",
+          "Identität des Verantwortlichen, Zwecke, Rechtsgrundlagen, Empfänger, Speicherdauer, Betroffenenrechte",
+          "Nur Kontaktdaten",
+          "Nur rechtliche Hinweise"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Datenschutzerklärung muss umfassende Informationen enthalten: Identität und Kontaktdaten des Verantwortlichen, Verarbeitungszwecke, Rechtsgrundlagen, Empfänger, Speicherfristen, Betroffenenrechte und Beschwerdemöglichkeiten.",
+        "source": {
+          "citation": "DSGVO Artikel 13-14",
+          "pages": "S. 41-43",
+          "chapter": "Artikel 13-14"
+        },
+        "tags": [
+          "Informationspflichten",
+          "Transparenz"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Wann müssen Informationen nach der DSGVO bereitgestellt werden?",
+        "options": [
+          "Innerhalb eines Monats",
+          "Zum Zeitpunkt der Erhebung bzw. unverzüglich",
+          "Nur auf Anfrage",
+          "Am Jahresende"
+        ],
+        "correctIndex": 1,
+        "explanation": "Informationen müssen zum Zeitpunkt der Erhebung der Daten bereitgestellt werden. Werden Daten nicht direkt erhoben, müssen Informationen unverzüglich, spätestens nach einem Monat bereitgestellt werden.",
+        "source": {
+          "citation": "DSGVO Artikel 13-14",
+          "pages": "S. 41-43",
+          "chapter": "Artikel 13-14"
+        },
+        "tags": [
+          "Informationspflichten",
+          "Zeitpunkt"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q40",
+        "text": "Was ist eine 'gemeinsame Verantwortlichkeit'?",
+        "options": [
+          "Wenn alle Mitarbeiter verantwortlich sind",
+          "Wenn mehrere Verantwortliche gemeinsam Zwecke und Mittel der Verarbeitung festlegen",
+          "Wenn mehrere Unternehmen zusammenarbeiten",
+          "Eine Versicherung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine gemeinsame Verantwortlichkeit liegt vor, wenn zwei oder mehr Verantwortliche gemeinsam die Zwecke und Mittel der Verarbeitung festlegen. Sie müssen ihre Verantwortlichkeiten in einer Vereinbarung festlegen.",
+        "source": {
+          "citation": "DSGVO Artikel 26",
+          "pages": "S. 49",
+          "chapter": "Artikel 26"
+        },
+        "tags": [
+          "Gemeinsame Verantwortlichkeit",
+          "Joint Controller"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q41",
+        "text": "Was muss ein Auftragsverarbeitungsvertrag regeln?",
+        "options": [
+          "Nur Zahlungsbedingungen",
+          "Gegenstand, Dauer, Art der Verarbeitung, Pflichten, Rechte und technische/organisatorische Maßnahmen",
+          "Nur Kündigungsfristen",
+          "Nur Haftungsfragen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Auftragsverarbeitungsvertrag muss Gegenstand und Dauer der Verarbeitung, Art und Zweck, Kategorien betroffener Personen, Pflichten und Rechte des Verantwortlichen sowie technische und organisatorische Maßnahmen regeln.",
+        "source": {
+          "citation": "DSGVO Artikel 28 Abs. 3",
+          "pages": "S. 49",
+          "chapter": "Artikel 28 Abs. 3"
+        },
+        "tags": [
+          "Auftragsverarbeitung",
+          "Vertrag"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q42",
+        "text": "Darf ein Auftragsverarbeiter weitere Auftragsverarbeiter einsetzen?",
+        "options": [
+          "Ja, ohne Einschränkungen",
+          "Ja, aber nur mit schriftlicher Genehmigung des Verantwortlichen",
+          "Nein, niemals",
+          "Nur innerhalb der EU"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Auftragsverarbeiter darf weitere Auftragsverarbeiter (Unterauftragsverarbeiter) nur mit vorheriger allgemeiner oder spezifischer schriftlicher Genehmigung des Verantwortlichen einsetzen.",
+        "source": {
+          "citation": "DSGVO Artikel 28 Abs. 2",
+          "pages": "S. 49",
+          "chapter": "Artikel 28 Abs. 2"
+        },
+        "tags": [
+          "Auftragsverarbeitung",
+          "Unterauftragsverarbeiter"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q43",
+        "text": "Was sind 'technische und organisatorische Maßnahmen' (TOM)?",
+        "options": [
+          "Nur Firewalls",
+          "Maßnahmen zur Gewährleistung der Sicherheit der Verarbeitung",
+          "Nur Passwörter",
+          "Organisationsstruktur"
+        ],
+        "correctIndex": 1,
+        "explanation": "TOMs sind technische und organisatorische Maßnahmen zur Gewährleistung eines dem Risiko angemessenen Schutzniveaus, wie Pseudonymisierung, Verschlüsselung, Vertraulichkeit, Integrität und Verfügbarkeit.",
+        "source": {
+          "citation": "DSGVO Artikel 32",
+          "pages": "S. 50",
+          "chapter": "Artikel 32"
+        },
+        "tags": [
+          "TOM",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Was bedeutet 'Integrität' im Datenschutz?",
+        "options": [
+          "Ehrlichkeit der Mitarbeiter",
+          "Schutz vor unbefugter Veränderung oder Vernichtung von Daten",
+          "Vollständigkeit der Daten",
+          "Moralische Werte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Integrität bedeutet im Datenschutzkontext, dass personenbezogene Daten vor unbefugter oder unrechtmäßiger Verarbeitung und vor unbeabsichtigtem Verlust, Zerstörung oder Schädigung geschützt werden müssen.",
+        "source": {
+          "citation": "DSGVO Artikel 5 Abs. 1 f",
+          "pages": "S. 36",
+          "chapter": "Artikel 5 Abs. 1 f"
+        },
+        "tags": [
+          "Integrität",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Was bedeutet 'Vertraulichkeit' im Datenschutz?",
+        "options": [
+          "Geheimhaltungspflichten von Mitarbeitern",
+          "Schutz vor unbefugtem Zugriff auf Daten",
+          "Vertrauliche Gespräche",
+          "Verschlossene Türen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Vertraulichkeit bedeutet, dass personenbezogene Daten vor unbefugter oder unrechtmäßiger Verarbeitung geschützt werden müssen, also nur befugte Personen Zugriff haben.",
+        "source": {
+          "citation": "DSGVO Artikel 5 Abs. 1 f",
+          "pages": "S. 36",
+          "chapter": "Artikel 5 Abs. 1 f"
+        },
+        "tags": [
+          "Vertraulichkeit",
+          "Sicherheit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q46",
+        "text": "Was ist das 'Marktortprinzip' der DSGVO?",
+        "options": [
+          "Die DSGVO gilt nur in der EU",
+          "Die DSGVO gilt auch für Unternehmen außerhalb der EU, die Daten von EU-Bürgern verarbeiten",
+          "Nur für Marktplätze",
+          "Nur für Online-Shops"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Marktortprinzip bedeutet, dass die DSGVO auch für Unternehmen außerhalb der EU gilt, wenn sie Waren oder Dienstleistungen an Personen in der EU anbieten oder ihr Verhalten beobachten.",
+        "source": {
+          "citation": "DSGVO Artikel 3 Abs. 2",
+          "pages": "S. 32",
+          "chapter": "Artikel 3 Abs. 2"
+        },
+        "tags": [
+          "Anwendungsbereich",
+          "Territorialität"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q47",
+        "text": "Was ist 'Direktmarketing'?",
+        "options": [
+          "Werbung im Direktverkauf",
+          "Jede Form der Werbeansprache bei natürlichen Personen",
+          "Nur E-Mail-Werbung",
+          "Nur Telefonwerbung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Direktmarketing umfasst jede Form der Werbung, die sich an natürliche Personen richtet, sei es per E-Mail, Post, Telefon oder über soziale Medien.",
+        "source": {
+          "citation": "DSGVO Erwägungsgrund 47",
+          "pages": "S. 9",
+          "chapter": "Erwägungsgrund 47"
+        },
+        "tags": [
+          "Direktmarketing",
+          "Werbung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q48",
+        "text": "Haben betroffene Personen ein Widerspruchsrecht gegen Direktwerbung?",
+        "options": [
+          "Nein",
+          "Ja, jederzeit und kostenlos",
+          "Nur gegen E-Mail-Werbung",
+          "Nur einmal"
+        ],
+        "correctIndex": 1,
+        "explanation": "Betroffene Personen haben jederzeit das Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, gegen die Verarbeitung sie betreffender Daten Widerspruch einzulegen, insbesondere gegen Direktwerbung.",
+        "source": {
+          "citation": "DSGVO Artikel 21",
+          "pages": "S. 47",
+          "chapter": "Artikel 21"
+        },
+        "tags": [
+          "Widerspruchsrecht",
+          "Direktmarketing"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q49",
+        "text": "Was ist die 'Rechenschaftspflicht' (Accountability)?",
+        "options": [
+          "Buchführungspflicht",
+          "Die Pflicht, die Einhaltung der DSGVO nachweisen zu können",
+          "Nur für Buchhalter relevant",
+          "Berichtspflicht an die Behörde"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Rechenschaftspflicht bedeutet, dass der Verantwortliche für die Einhaltung der DSGVO-Grundsätze verantwortlich ist und deren Einhaltung nachweisen können muss.",
+        "source": {
+          "citation": "DSGVO Artikel 5 Abs. 2",
+          "pages": "S. 36",
+          "chapter": "Artikel 5 Abs. 2"
+        },
+        "tags": [
+          "Accountability",
+          "Rechenschaftspflicht"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q50",
+        "text": "Welche Rolle spielt die Einwilligung bei Minderjährigen?",
+        "options": [
+          "Keine Besonderheiten",
+          "Ab 16 Jahren können Minderjährige selbst einwilligen, darunter ist Zustimmung der Eltern erforderlich",
+          "Nur mit 18 Jahren möglich",
+          "Minderjährige können nie einwilligen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei Kindern unter 16 Jahren (Mitgliedstaaten können Altersgrenze bis 13 Jahre senken) ist die Einwilligung nur rechtmäßig, wenn sie durch den Träger der elterlichen Verantwortung erteilt oder genehmigt wird.",
+        "source": {
+          "citation": "DSGVO Artikel 8",
+          "pages": "S. 38",
+          "chapter": "Artikel 8"
+        },
+        "tags": [
+          "Minderjährige",
+          "Einwilligung"
+        ],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}

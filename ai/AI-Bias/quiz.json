@@ -1,0 +1,785 @@
+{
+  "quiz": {
+    "title": "Bias in KI-Systemen",
+    "description": "Teste dein Wissen über Bias, Diskriminierung und Fairness in KI-Systemen. Der Fragenkatalog umfasst {questionCount} Fragen zu verschiedenen Arten von Bias, deren Ursachen und Gegenmaßnahmen.",
+    "language": "de",
+    "version": "1.0",
+    "sourceDocument": {
+      "title": "Whitepaper Bias in KI",
+      "pdfFilename": "Whitepaper_Bias_KI.pdf",
+      "metadata": {
+        "createdAt": "2025-10-01T12:00:00Z",
+        "version": "1.0"
+      }
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was versteht man unter 'Bias' in KI-Systemen?",
+        "options": [
+          "Systematische Verzerrungen, die zu unfairen oder diskriminierenden Ergebnissen führen",
+          "Fehler in der Programmierung",
+          "Langsame Ausführungsgeschwindigkeit",
+          "Hoher Speicherverbrauch"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bias bezeichnet systematische Verzerrungen in KI-Systemen, die dazu führen, dass bestimmte Gruppen unfair behandelt oder diskriminiert werden. Dies kann aus verzerrten Trainingsdaten, algorithmischen Entscheidungen oder gesellschaftlichen Vorurteilen resultieren.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Definition",
+          "pages": "S. 3",
+          "chapter": "1 Einführung"
+        },
+        "tags": ["Grundlagen", "Definition", "Bias"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Art von Bias entsteht durch unausgewogene Trainingsdaten?",
+        "options": [
+          "Selection Bias",
+          "Confirmation Bias",
+          "Cognitive Bias",
+          "Measurement Bias"
+        ],
+        "correctIndex": 0,
+        "explanation": "Selection Bias entsteht, wenn die Trainingsdaten nicht repräsentativ für die Population sind, auf die das Modell angewendet werden soll. Beispiel: Ein Gesichtserkennungssystem, das hauptsächlich mit Bildern weißer Menschen trainiert wurde.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Arten von Bias",
+          "pages": "S. 5",
+          "chapter": "2 Bias-Typen"
+        },
+        "tags": ["Selection Bias", "Trainingsdaten", "Datenqualität"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist 'Historical Bias'?",
+        "options": [
+          "Vorurteile aus vergangenen gesellschaftlichen Diskriminierungen, die in Daten kodiert sind",
+          "Veraltete Algorithmen",
+          "Alte Datenformate",
+          "Fehler in historischen Aufzeichnungen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Historical Bias bezieht sich auf gesellschaftliche Vorurteile und Diskriminierungen aus der Vergangenheit, die in historischen Daten enthalten sind und somit in ML-Modelle übernommen werden. Beispiel: Geschlechterungleichheit in historischen Einstellungsdaten.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Historical Bias",
+          "pages": "S. 6",
+          "chapter": "2.1 Historical Bias"
+        },
+        "tags": ["Historical Bias", "Gesellschaft", "Diskriminierung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Was bedeutet 'Algorithmic Bias'?",
+        "options": [
+          "Verzerrungen die durch die Wahl des Algorithmus oder seiner Parameter entstehen",
+          "Fehler im Quellcode",
+          "Langsame Algorithmen",
+          "Komplexe Algorithmen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Algorithmic Bias entsteht durch die Wahl und Konfiguration des ML-Algorithmus selbst. Unterschiedliche Algorithmen können unterschiedliche Verzerrungen aufweisen, selbst bei identischen Trainingsdaten.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Algorithmic Bias",
+          "pages": "S. 7",
+          "chapter": "2.2 Algorithmic Bias"
+        },
+        "tags": ["Algorithmic Bias", "Algorithmen", "Modellwahl"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was ist 'Measurement Bias'?",
+        "options": [
+          "Systematische Fehler bei der Erfassung oder Definition von Merkmalen",
+          "Ungenaue Messgeräte",
+          "Fehler in der Datenbank",
+          "Rundungsfehler"
+        ],
+        "correctIndex": 0,
+        "explanation": "Measurement Bias tritt auf, wenn die gemessenen Features systematisch verzerrt sind oder nicht das messen, was sie messen sollen. Beispiel: Kreditwürdigkeit anhand des Wohnorts zu bewerten, was indirekt sozioökonomischen Status und Ethnizität kodieren kann.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Measurement Bias",
+          "pages": "S. 8",
+          "chapter": "2.3 Measurement Bias"
+        },
+        "tags": ["Measurement Bias", "Features", "Datenerfassung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Was versteht man unter 'Representation Bias'?",
+        "options": [
+          "Unterrepräsentation bestimmter Gruppen in den Trainingsdaten",
+          "Fehler in der Datenvisualisierung",
+          "Falsche Datenformate",
+          "Zu viele Datenklassen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Representation Bias entsteht, wenn bestimmte Gruppen in den Trainingsdaten unterrepräsentiert sind. Dies führt dazu, dass das Modell für diese Gruppen schlechter funktioniert.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Representation Bias",
+          "pages": "S. 9",
+          "chapter": "2.4 Representation Bias"
+        },
+        "tags": ["Representation Bias", "Unterrepräsentation", "Diversität"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist 'Automation Bias'?",
+        "options": [
+          "Die Tendenz von Menschen, automatisierten Entscheidungen übermäßig zu vertrauen",
+          "Fehler durch zu viele automatisierte Prozesse",
+          "Automatische Verzerrungen",
+          "Bias durch Automatisierung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Automation Bias ist die menschliche Neigung, den Ergebnissen automatisierter Systeme zu vertrauen, auch wenn diese falsch sein könnten. Dies kann dazu führen, dass fehlerhafte oder biased KI-Entscheidungen nicht hinterfragt werden.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Automation Bias",
+          "pages": "S. 10",
+          "chapter": "2.5 Automation Bias"
+        },
+        "tags": ["Automation Bias", "Menschliches Verhalten", "Vertrauen"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Was bedeutet 'Fairness' im Kontext von ML?",
+        "options": [
+          "Gleichbehandlung verschiedener Gruppen ohne ungerechtfertigte Diskriminierung",
+          "Gleiche Genauigkeit für alle Vorhersagen",
+          "Schnelle Verarbeitung für alle Nutzer",
+          "Kostenfreier Zugang für alle"
+        ],
+        "correctIndex": 0,
+        "explanation": "Fairness in ML bedeutet, dass das System verschiedene Gruppen gerecht behandelt und keine ungerechtfertigten Diskriminierungen aufweist. Es gibt verschiedene mathematische Definitionen von Fairness, die teilweise im Konflikt zueinander stehen können.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Fairness",
+          "pages": "S. 12",
+          "chapter": "3 Fairness-Konzepte"
+        },
+        "tags": ["Fairness", "Gleichbehandlung", "Ethik"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist 'Demographic Parity'?",
+        "options": [
+          "Die Forderung, dass positive Entscheidungen für alle demografischen Gruppen gleich häufig getroffen werden",
+          "Gleichmäßige Verteilung der Daten",
+          "Identische Modellgenauigkeit für alle",
+          "Gleiche Anzahl von Datenpunkten pro Gruppe"
+        ],
+        "correctIndex": 0,
+        "explanation": "Demographic Parity (statistische Parität) fordert, dass die Rate positiver Vorhersagen für alle demografischen Gruppen gleich ist. Beispiel: Ein Kredit-Algorithmus sollte alle Ethnien mit gleicher Wahrscheinlichkeit genehmigen.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Demographic Parity",
+          "pages": "S. 13",
+          "chapter": "3.1 Statistische Fairness-Metriken"
+        },
+        "tags": ["Demographic Parity", "Fairness-Metriken", "Statistische Fairness"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q10",
+        "text": "Was bedeutet 'Equal Opportunity'?",
+        "options": [
+          "Gleiche True Positive Rates für alle Gruppen",
+          "Gleiche Chancen auf Datenzugang",
+          "Identische Trainingschancen",
+          "Gleiche Rechenzeit für alle"
+        ],
+        "correctIndex": 0,
+        "explanation": "Equal Opportunity fordert, dass qualifizierte Kandidaten aus allen Gruppen mit gleicher Wahrscheinlichkeit korrekt als qualifiziert erkannt werden (gleiche True Positive Rate). Dies ist besonders wichtig für Entscheidungen wie Kreditvergabe oder Einstellungen.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Equal Opportunity",
+          "pages": "S. 14",
+          "chapter": "3.2 Equal Opportunity"
+        },
+        "tags": ["Equal Opportunity", "True Positive Rate", "Chancengleichheit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist 'Equalized Odds'?",
+        "options": [
+          "Gleiche True Positive und False Positive Rates über alle Gruppen hinweg",
+          "Gleiche Gewinnchancen",
+          "Identische Vorhersagewahrscheinlichkeiten",
+          "Ausgeglichene Datenverteilung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Equalized Odds ist eine strengere Fairness-Metrik als Equal Opportunity. Sie fordert, dass sowohl True Positive als auch False Positive Rates für alle Gruppen gleich sind.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Equalized Odds",
+          "pages": "S. 15",
+          "chapter": "3.3 Equalized Odds"
+        },
+        "tags": ["Equalized Odds", "Fairness-Metriken", "TPR/FPR"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q12",
+        "text": "Was sind 'Protected Attributes'?",
+        "options": [
+          "Sensible Merkmale wie Geschlecht, Ethnizität oder Alter, die nicht zur Diskriminierung führen dürfen",
+          "Verschlüsselte Datenfelder",
+          "Wichtige Features für das Modell",
+          "Geschützte Variablen im Code"
+        ],
+        "correctIndex": 0,
+        "explanation": "Protected Attributes sind sensible Merkmale, bei denen Diskriminierung gesetzlich verboten oder ethisch problematisch ist. Dazu gehören typischerweise Geschlecht, Ethnizität, Religion, Alter, sexuelle Orientierung oder Behinderung.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Protected Attributes",
+          "pages": "S. 16",
+          "chapter": "4 Sensible Merkmale"
+        },
+        "tags": ["Protected Attributes", "Sensible Daten", "Diskriminierung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist 'Proxy Discrimination'?",
+        "options": [
+          "Indirekte Diskriminierung durch scheinbar neutrale Features, die mit protected attributes korrelieren",
+          "Diskriminierung durch Proxy-Server",
+          "Voreingenommenheit in Stellvertretern",
+          "Fehler in Proxying-Systemen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Proxy Discrimination tritt auf, wenn scheinbar neutrale Features (wie Postleitzahl) stark mit protected attributes (wie Ethnizität) korrelieren und somit zu indirekter Diskriminierung führen, selbst wenn die protected attributes nicht direkt verwendet werden.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Proxy Discrimination",
+          "pages": "S. 17",
+          "chapter": "4.1 Indirekte Diskriminierung"
+        },
+        "tags": ["Proxy Discrimination", "Indirekte Diskriminierung", "Korrelation"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist 'Disparate Impact'?",
+        "options": [
+          "Unverhältnismäßig negative Auswirkungen auf bestimmte Gruppen, auch ohne diskriminierende Absicht",
+          "Unterschiedliche Modellgenauigkeiten",
+          "Verschiedene Trainingszeiten",
+          "Ungleiche Datenmengen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Disparate Impact bezeichnet die Situation, wenn eine scheinbar neutrale Praxis unverhältnismäßig negative Auswirkungen auf eine geschützte Gruppe hat, unabhängig von der Absicht. Dies ist in vielen Rechtsordnungen eine Form illegaler Diskriminierung.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Disparate Impact",
+          "pages": "S. 18",
+          "chapter": "4.2 Disparate Impact"
+        },
+        "tags": ["Disparate Impact", "Diskriminierung", "Rechtliche Aspekte"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist 'Intersectionality' im Kontext von Bias?",
+        "options": [
+          "Überschneidung mehrerer Diskriminierungsmerkmale, die zu verstärktem Bias führen kann",
+          "Kreuzvalidierung von Modellen",
+          "Schnittpunkte in Datenbanken",
+          "Verbindungen zwischen Algorithmen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Intersectionality beschreibt, dass Menschen oft mehreren Gruppen angehören (z.B. schwarze Frauen) und dass sich verschiedene Formen von Diskriminierung überschneiden und verstärken können. ML-Systeme müssen diese intersektionalen Effekte berücksichtigen.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Intersectionality",
+          "pages": "S. 19",
+          "chapter": "4.3 Intersektionale Fairness"
+        },
+        "tags": ["Intersectionality", "Mehrfachdiskriminierung", "Komplexität"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q16",
+        "text": "Was ist 'Fairness through Unawareness'?",
+        "options": [
+          "Der naive Ansatz, protected attributes einfach zu ignorieren",
+          "Fairness durch Unwissenheit über Daten",
+          "Automatische Fairness ohne Maßnahmen",
+          "Unbewusste faire Entscheidungen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Fairness through Unawareness ist der (unzureichende) Ansatz, einfach protected attributes aus dem Modell zu entfernen. Dies verhindert nicht Proxy Discrimination und ist daher keine ausreichende Fairness-Strategie.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Fairness through Unawareness",
+          "pages": "S. 20",
+          "chapter": "5 Fairness-Ansätze"
+        },
+        "tags": ["Fairness through Unawareness", "Naive Ansätze", "Unzureichend"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Was sind 'Pre-processing' Methoden zur Bias-Mitigation?",
+        "options": [
+          "Anpassung der Trainingsdaten vor dem Training, um Bias zu reduzieren",
+          "Datenbereinigung vor der Analyse",
+          "Komprimierung der Daten",
+          "Normalisierung der Features"
+        ],
+        "correctIndex": 0,
+        "explanation": "Pre-processing Methoden modifizieren die Trainingsdaten vor dem Training, z.B. durch Reweighting, Resampling oder Transformation, um Bias in den Daten zu reduzieren. Beispiel: Ausbalancieren unterrepräsentierter Gruppen.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Pre-processing",
+          "pages": "S. 22",
+          "chapter": "5.1 Pre-processing Methoden"
+        },
+        "tags": ["Pre-processing", "Bias-Mitigation", "Datenaufbereitung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Was sind 'In-processing' Methoden zur Bias-Mitigation?",
+        "options": [
+          "Anpassung des Lernalgorithmus selbst, um Fairness-Constraints zu berücksichtigen",
+          "Verarbeitung während der Inferenz",
+          "Optimierung der Rechenleistung",
+          "Parallelverarbeitung"
+        ],
+        "correctIndex": 0,
+        "explanation": "In-processing Methoden modifizieren den Lernalgorithmus oder die Zielfunktion direkt, um Fairness-Kriterien während des Trainings zu berücksichtigen. Beispiel: Hinzufügen von Fairness-Regularisierungstermen zur Loss-Function.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, In-processing",
+          "pages": "S. 23",
+          "chapter": "5.2 In-processing Methoden"
+        },
+        "tags": ["In-processing", "Fairness-Constraints", "Algorithmus-Anpassung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Was sind 'Post-processing' Methoden zur Bias-Mitigation?",
+        "options": [
+          "Anpassung der Modellvorhersagen nach dem Training, um Fairness zu verbessern",
+          "Nachbearbeitung von Ausgaben",
+          "Optimierung nach dem Deployment",
+          "Datenbereinigung nach der Analyse"
+        ],
+        "correctIndex": 0,
+        "explanation": "Post-processing Methoden justieren die Vorhersagen eines bereits trainierten Modells, um Fairness-Kriterien zu erfüllen. Beispiel: Anpassung der Entscheidungsschwelle für verschiedene Gruppen.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Post-processing",
+          "pages": "S. 24",
+          "chapter": "5.3 Post-processing Methoden"
+        },
+        "tags": ["Post-processing", "Schwellenanpassung", "Nachbearbeitung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist 'COMPAS' und warum ist es ein bekanntes Beispiel für algorithmischen Bias?",
+        "options": [
+          "Ein Rückfall-Vorhersage-Tool, das afroamerikanische Angeklagte diskriminiert",
+          "Ein Computer-Betriebssystem",
+          "Ein Navigationsprogramm",
+          "Eine Programmiersprache"
+        ],
+        "correctIndex": 0,
+        "explanation": "COMPAS ist ein Algorithmus zur Vorhersage von Rückfallrisiken in der Strafjustiz. Untersuchungen zeigten, dass er afroamerikanische Angeklagte systematisch als risikoreicherer einstufte als weiße Angeklagte mit vergleichbarer Vorgeschichte.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, COMPAS Fall",
+          "pages": "S. 25",
+          "chapter": "6 Fallbeispiele"
+        },
+        "tags": ["COMPAS", "Fallbeispiel", "Rassendiskriminierung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q21",
+        "text": "Was war das Problem bei Amazons KI-basiertem Recruiting-Tool?",
+        "options": [
+          "Es diskriminierte systematisch weibliche Bewerberinnen",
+          "Es war zu langsam",
+          "Es verbrauchte zu viel Speicher",
+          "Es hatte Sicherheitslücken"
+        ],
+        "correctIndex": 0,
+        "explanation": "Amazons Recruiting-Tool wurde mit historischen Bewerbungsdaten trainiert, die hauptsächlich männliche Kandidaten enthielten. Das System lernte, weibliche Kandidaten systematisch schlechter zu bewerten und wurde daher eingestellt.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Amazon Recruiting",
+          "pages": "S. 26",
+          "chapter": "6.1 Amazon Recruiting Fall"
+        },
+        "tags": ["Amazon", "Gender Bias", "Recruiting"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q22",
+        "text": "Was ist das Problem mit Gesichtserkennungssystemen und Bias?",
+        "options": [
+          "Sie haben oft höhere Fehlerraten bei Frauen und People of Color",
+          "Sie sind zu langsam",
+          "Sie benötigen zu viel Rechenleistung",
+          "Sie sind zu teuer"
+        ],
+        "correctIndex": 0,
+        "explanation": "Studien haben gezeigt, dass kommerzielle Gesichtserkennungssysteme signifikant höhere Fehlerraten bei Frauen, insbesondere dunkelhäutigen Frauen, aufweisen. Dies liegt an unausgewogenen Trainingsdaten, die überwiegend weiße, männliche Gesichter enthalten.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Gesichtserkennung",
+          "pages": "S. 27",
+          "chapter": "6.2 Gesichtserkennungs-Bias"
+        },
+        "tags": ["Gesichtserkennung", "Gender Bias", "Racial Bias"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Was versteht man unter 'Feedback Loops' im Kontext von Bias?",
+        "options": [
+          "Sich selbst verstärkende Zyklen, in denen biased Vorhersagen zu biased Daten führen",
+          "Rückmeldungen von Benutzern",
+          "Iterative Trainingsschleifen",
+          "Kreisläufe in der Datenverarbeitung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Feedback Loops entstehen, wenn biased Vorhersagen die Realität beeinflussen und zu neuen biased Daten führen, die den Bias weiter verstärken. Beispiel: Policing-Algorithmen, die mehr Polizei in bestimmte Viertel schicken, was zu mehr Verhaftungen führt, was den Algorithmus bestätigt.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Feedback Loops",
+          "pages": "S. 28",
+          "chapter": "7 Dynamische Effekte"
+        },
+        "tags": ["Feedback Loops", "Selbstverstärkung", "Dynamik"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q24",
+        "text": "Was ist 'Label Bias'?",
+        "options": [
+          "Verzerrungen in den Zielvar iablen/Labels der Trainingsdaten",
+          "Falsche Beschriftungen",
+          "Fehler in Metadaten",
+          "Unklare Kategorienamen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Label Bias entsteht, wenn die Labels (Zielvariablen) selbst verzerrt sind. Beispiel: Historische Kreditentscheidungen könnten diskriminierend gewesen sein, und ein darauf trainiertes Modell lernt diese Diskriminierung.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Label Bias",
+          "pages": "S. 29",
+          "chapter": "7.1 Label Bias"
+        },
+        "tags": ["Label Bias", "Zielvariablen", "Ground Truth"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "Was bedeutet 'Fairness-Accuracy Trade-off'?",
+        "options": [
+          "Der oft unvermeidliche Konflikt zwischen Modellgenauigkeit und Fairness",
+          "Der Austausch von Genauigkeit gegen Geschwindigkeit",
+          "Das Balance zwischen Komplexität und Einfachheit",
+          "Der Kompromiss zwischen Kosten und Leistung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Fairness-Accuracy Trade-off beschreibt die Tatsache, dass Maßnahmen zur Verbesserung der Fairness oft die Gesamtgenauigkeit des Modells reduzieren. Dies erfordert bewusste Entscheidungen über die Balance zwischen Fairness und Performance.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Fairness-Accuracy Trade-off",
+          "pages": "S. 30",
+          "chapter": "8 Trade-offs"
+        },
+        "tags": ["Trade-off", "Fairness vs Accuracy", "Optimierung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Was sind 'Fairness Metrics' und wozu dienen sie?",
+        "options": [
+          "Quantitative Maße zur Bewertung und Messung von Fairness in ML-Systemen",
+          "Metriken zur Geschwindigkeitsmessung",
+          "Qualitätsstandards für Software",
+          "Benchmarks für Hardware"
+        ],
+        "correctIndex": 0,
+        "explanation": "Fairness Metrics sind mathematische Maße, die quantifizieren, wie fair ein ML-System ist. Beispiele sind Demographic Parity, Equal Opportunity und Equalized Odds. Verschiedene Metriken können konfliktieren.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Fairness Metrics",
+          "pages": "S. 31",
+          "chapter": "8.1 Messung von Fairness"
+        },
+        "tags": ["Fairness Metrics", "Messung", "Quantifizierung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q27",
+        "text": "Was ist das 'Impossibility Theorem' von Fairness?",
+        "options": [
+          "Dass es mathematisch unmöglich ist, alle Fairness-Kriterien gleichzeitig zu erfüllen",
+          "Dass Fairness nicht messbar ist",
+          "Dass KI niemals fair sein kann",
+          "Dass Bias unvermeidlich ist"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Impossibility Theorem besagt, dass es unter realistischen Bedingungen mathematisch unmöglich ist, bestimmte Fairness-Kriterien gleichzeitig zu erfüllen (z.B. Demographic Parity und Equal Opportunity). Dies erfordert bewusste Prioritätensetzung.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Impossibility Theorem",
+          "pages": "S. 32",
+          "chapter": "8.2 Konflikte zwischen Fairness-Kriterien"
+        },
+        "tags": ["Impossibility Theorem", "Konflikte", "Mathematische Grenzen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q28",
+        "text": "Was ist 'Adversarial Debiasing'?",
+        "options": [
+          "Eine Technik, die adversarial training nutzt, um protected attributes aus Repräsentationen zu entfernen",
+          "Angriffe auf biased Modelle",
+          "Verteidigung gegen Bias-Angriffe",
+          "Konkurrierende Fairness-Modelle"
+        ],
+        "correctIndex": 0,
+        "explanation": "Adversarial Debiasing verwendet ein adversarial setup: Ein Hauptmodell macht Vorhersagen, während ein adversarial Modell versucht, protected attributes aus den Repräsentationen zu erraten. Das Hauptmodell lernt, Repräsentationen zu erzeugen, die für den Adversary nicht nutzbar sind.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Adversarial Debiasing",
+          "pages": "S. 33",
+          "chapter": "9 Fortgeschrittene Techniken"
+        },
+        "tags": ["Adversarial Debiasing", "Deep Learning", "Representation Learning"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q29",
+        "text": "Was ist 'Calibration' im Kontext von Fairness?",
+        "options": [
+          "Die Forderung, dass Vorhersagewahrscheinlichkeiten über alle Gruppen hinweg korrekt kalibriert sind",
+          "Anpassung der Modellparameter",
+          "Normalisierung der Eingaben",
+          "Tuning der Hyperparameter"
+        ],
+        "correctIndex": 0,
+        "explanation": "Calibration fordert, dass wenn ein Modell eine Wahrscheinlichkeit von 70% vorhersagt, tatsächlich 70% dieser Fälle positiv sind - und zwar für alle Gruppen gleichermaßen. Schlechte Calibration kann zu unfairen Entscheidungen führen.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Calibration",
+          "pages": "S. 34",
+          "chapter": "9.1 Calibration Fairness"
+        },
+        "tags": ["Calibration", "Wahrscheinlichkeiten", "Gruppenfairness"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q30",
+        "text": "Was versteht man unter 'Individual Fairness'?",
+        "options": [
+          "Ähnliche Individuen sollten ähnlich behandelt werden",
+          "Jeder wird einzeln behandelt",
+          "Individuelle Anpassung der Modelle",
+          "Personalisierte Fairness-Kriterien"
+        ],
+        "correctIndex": 0,
+        "explanation": "Individual Fairness fordert, dass ähnliche Individuen ähnliche Vorhersagen erhalten sollten. Im Gegensatz zu Group Fairness fokussiert sich dieser Ansatz auf individuelle Vergleiche. Die Herausforderung liegt in der Definition von 'Ähnlichkeit'.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Individual Fairness",
+          "pages": "S. 35",
+          "chapter": "9.2 Individual vs. Group Fairness"
+        },
+        "tags": ["Individual Fairness", "Ähnlichkeit", "Individuelle Ebene"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q31",
+        "text": "Was ist 'Counterfactual Fairness'?",
+        "options": [
+          "Eine Entscheidung ist fair, wenn sie gleich wäre, hätte die Person ein anderes protected attribute",
+          "Fairness in alternativen Szenarien",
+          "Fairness basierend auf hypothetischen Daten",
+          "Vergleich verschiedener Modelle"
+        ],
+        "correctIndex": 0,
+        "explanation": "Counterfactual Fairness nutzt kausale Modelle: Eine Entscheidung ist fair für eine Person, wenn die gleiche Entscheidung in einer kontrafaktischen Welt getroffen würde, in der die Person ein anderes Geschlecht/Ethnizität hätte, aber sonst alles gleich wäre.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Counterfactual Fairness",
+          "pages": "S. 36",
+          "chapter": "9.3 Kausale Fairness"
+        },
+        "tags": ["Counterfactual Fairness", "Kausalität", "Was-wäre-wenn"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q32",
+        "text": "Welche Rolle spielen 'Audits' bei der Bias-Erkennung?",
+        "options": [
+          "Systematische Überprüfungen von KI-Systemen auf Bias und diskriminierende Auswirkungen",
+          "Finanzielle Prüfungen",
+          "Code-Reviews",
+          "Performance-Tests"
+        ],
+        "correctIndex": 0,
+        "explanation": "Audits sind systematische Untersuchungen von KI-Systemen, um Bias zu identifizieren und zu quantifizieren. Sie können intern oder durch unabhängige Dritte durchgeführt werden und sind wichtig für Transparenz und Accountability.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Audits",
+          "pages": "S. 37",
+          "chapter": "10 Governance und Oversight"
+        },
+        "tags": ["Audits", "Überprüfung", "Transparenz"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q33",
+        "text": "Was bedeutet 'Explainability' im Kontext von Bias?",
+        "options": [
+          "Die Fähigkeit, Modellentscheidungen nachvollziehbar zu machen, um Bias zu erkennen",
+          "Gute Dokumentation",
+          "Einfache Algorithmen",
+          "Visualisierung von Daten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Explainability ermöglicht es, zu verstehen, warum ein Modell bestimmte Entscheidungen trifft. Dies ist essentiell, um Bias zu identifizieren, zu erklären und zu beheben. Komplexe 'Black-Box'-Modelle erschweren die Bias-Erkennung.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Explainability",
+          "pages": "S. 38",
+          "chapter": "10.1 Transparenz und Erklärbarkeit"
+        },
+        "tags": ["Explainability", "Transparenz", "Nachvollziehbarkeit"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q34",
+        "text": "Was ist 'Participatory Design' im Kontext fairer KI?",
+        "options": [
+          "Einbeziehung betroffener Communities in den Entwicklungsprozess",
+          "Gemeinsames Training von Modellen",
+          "Crowdsourcing von Daten",
+          "Open-Source-Entwicklung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Participatory Design bezieht die von KI-Systemen betroffenen Communities aktiv in Entwicklung und Evaluation ein. Dies hilft, blinde Flecken zu identifizieren und sicherzustellen, dass Fairness-Kriterien den Bedürfnissen der Betroffenen entsprechen.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Participatory Design",
+          "pages": "S. 39",
+          "chapter": "10.2 Stakeholder-Einbindung"
+        },
+        "tags": ["Participatory Design", "Community", "Stakeholder"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Was sind 'Synthetic Data' und wie können sie bei Bias helfen?",
+        "options": [
+          "Künstlich generierte Daten, die unterrepräsentierte Gruppen ausbalancieren können",
+          "Fake-Daten zum Testen",
+          "Simulierte Szenarien",
+          "Anonymisierte reale Daten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Synthetic Data sind künstlich generierte Datenpunkte, die verwendet werden können, um unterrepräsentierte Gruppen in Trainingsdaten zu ergänzen. Dies muss sorgfältig erfolgen, um keine neuen Verzerrungen einzuführen.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Synthetic Data",
+          "pages": "S. 40",
+          "chapter": "11 Datentechniken"
+        },
+        "tags": ["Synthetic Data", "Datengenerierung", "Ausbalancierung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Was ist 'Data Augmentation' im Kontext von Bias-Mitigation?",
+        "options": [
+          "Erweiterung des Datensatzes durch Transformationen, insbesondere für unterrepräsentierte Gruppen",
+          "Vergrößerung der Datenmenge",
+          "Hinzufügen neuer Features",
+          "Duplikation von Datenpunkten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Data Augmentation erweitert Trainingsdaten durch Transformationen (z.B. Rotation, Skalierung bei Bildern). Im Fairness-Kontext kann dies gezielt für unterrepräsentierte Gruppen eingesetzt werden, um Representation Bias zu reduzieren.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Data Augmentation",
+          "pages": "S. 41",
+          "chapter": "11.1 Datenvergrößerung"
+        },
+        "tags": ["Data Augmentation", "Transformation", "Unterrepräsentation"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q37",
+        "text": "Was bedeutet 'Reweighting' als Bias-Mitigation-Technik?",
+        "options": [
+          "Anpassung der Gewichte von Trainingsbeispielen, um Gruppen auszubalancieren",
+          "Neugewichtung der Modellparameter",
+          "Anpassung der Feature-Wichtigkeiten",
+          "Änderung der Loss-Function"
+        ],
+        "correctIndex": 0,
+        "explanation": "Reweighting gibt unterrepräsentierten oder benachteiligten Gruppen höhere Gewichte im Training, sodass Fehler auf diesen Gruppen stärker bestraft werden. Dies ist eine einfache Pre-processing-Technik zur Bias-Reduktion.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Reweighting",
+          "pages": "S. 42",
+          "chapter": "11.2 Reweighting-Methoden"
+        },
+        "tags": ["Reweighting", "Sample Weights", "Ausbalancierung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q38",
+        "text": "Was ist 'Threshold Optimization' für Fairness?",
+        "options": [
+          "Anpassung der Entscheidungsschwelle gruppenspezifisch, um Fairness-Kriterien zu erfüllen",
+          "Optimierung der Modellperformance",
+          "Tuning von Hyperparametern",
+          "Beschleunigung der Inferenz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Threshold Optimization ist eine Post-processing-Methode, die für verschiedene Gruppen unterschiedliche Entscheidungsschwellen verwendet, um Fairness-Kriterien wie Equal Opportunity oder Equalized Odds zu erfüllen.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Threshold Optimization",
+          "pages": "S. 43",
+          "chapter": "11.3 Schwellen-Anpassung"
+        },
+        "tags": ["Threshold Optimization", "Post-processing", "Gruppenschwellen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Welche Rolle spielt 'Documentation' bei der Bias-Vermeidung?",
+        "options": [
+          "Transparente Dokumentation von Daten, Modellen und Entscheidungen ist essentiell für Accountability",
+          "Code-Kommentare schreiben",
+          "API-Dokumentation erstellen",
+          "User Manuals bereitstellen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Umfassende Dokumentation (z.B. Datasheets for Datasets, Model Cards) macht Annahmen, Limitationen und potenzielle Bias transparent. Dies ermöglicht informierte Nutzung und erleichtert Audits.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Documentation",
+          "pages": "S. 44",
+          "chapter": "12 Best Practices"
+        },
+        "tags": ["Documentation", "Transparenz", "Model Cards"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q40",
+        "text": "Was sind die wichtigsten Schritte für verantwortungsvolle KI-Entwicklung gegen Bias?",
+        "options": [
+          "Diverse Teams, repräsentative Daten, regelmäßige Audits, Stakeholder-Einbindung, kontinuierliches Monitoring",
+          "Schnelles Development und häufige Updates",
+          "Maximale Modellgenauigkeit und Performance",
+          "Kostenminimierung und Effizienzsteigerung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Verantwortungsvolle KI-Entwicklung erfordert einen ganzheitlichen Ansatz: diverse Entwicklerteams, repräsentative und qualitativ hochwertige Daten, regelmäßige Fairness-Audits, Einbindung betroffener Stakeholder und kontinuierliches Monitoring im Produktivbetrieb.",
+        "source": {
+          "citation": "Whitepaper Bias in KI, Verantwortungsvolle KI",
+          "pages": "S. 45",
+          "chapter": "13 Zusammenfassung"
+        },
+        "tags": ["Verantwortungsvolle KI", "Best Practices", "Ganzheitlich"],
+        "difficulty": "leicht"
+      }
+    ]
+  }
+}
+

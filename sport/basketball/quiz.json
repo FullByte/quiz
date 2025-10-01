@@ -1473,6 +1473,126 @@
         "correctIndex": 0,
         "explanation": "Bei gleichzeitigen technischen Fouls beider Teams werden die Strafen aufgehoben und am Punkt der Unterbrechung fortgesetzt.",
         "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 35"
+      },
+      {
+        "id": "q113",
+        "text": "Was ist ein 'Traveling' (Schrittfehler)?",
+        "options": [
+          "Mehr als 2 Schritte mit dem Ball ohne zu dribbeln",
+          "Zu langsames Laufen",
+          "Verlassen des Spielfelds",
+          "Wechsel der Spielrichtung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Traveling ist illegale Fortbewegung mit dem Ball. Nach dem Aufnehmen des Balls sind maximal 2 Schritte ohne Dribbling erlaubt, danach muss gepasst oder geworfen werden.",
+        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VI, Art. 25",
+        "tags": ["Traveling", "Schrittfehler", "Ballführung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q114",
+        "text": "Was ist 'Goaltending'?",
+        "options": [
+          "Illegale Beeinflussung des Balls im Abwärtstrend zum Korb",
+          "Verteidigung im Korbbereich",
+          "Torwart-Position",
+          "Blockieren von Würfen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Goaltending liegt vor, wenn ein Spieler den Ball berührt während er sich im Abwärtstrend zum Korb befindet und eine Chance hat, in den Korb zu gehen. Das Tor wird als erzielt gewertet.",
+        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VI, Art. 31",
+        "tags": ["Goaltending", "Korbverteidigung", "Regelverstoß"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q115",
+        "text": "Was ist 'Basket Interference'?",
+        "options": [
+          "Berühren von Korb oder Brett während der Ball am/im Korb ist",
+          "Blockieren des Korbs",
+          "Hängen am Korb",
+          "Schütteln des Korbs"
+        ],
+        "correctIndex": 0,
+        "explanation": "Basket Interference ist die illegale Berührung des Korbs, Bretts oder Balls während der Ball am Ring ist oder im Korbzylinder. Dies wird wie Goaltending behandelt.",
+        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VI, Art. 31",
+        "tags": ["Basket Interference", "Korb", "Regelverstoß"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q116",
+        "text": "Was ist ein 'Jump Ball' (Sprungball)?",
+        "options": [
+          "Hochwerfen des Balls zwischen zwei Gegnern zur Spieleröffnung",
+          "Ein hoher Wurf aufs Brett",
+          "Sprung beim Wurf",
+          "Ballverlust in der Luft"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Jump Ball wird zu Spielbeginn und bei bestimmten Spielsituationen (z.B. Held Ball) durchgeführt. Der Schiedsrichter wirft den Ball zwischen zwei Gegnern hoch.",
+        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 12",
+        "tags": ["Jump Ball", "Sprungball", "Spieleröffnung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q117",
+        "text": "Was ist die '3-Sekunden-Regel'?",
+        "options": [
+          "Ein Angreifer darf nicht länger als 3 Sekunden in der gegnerischen Zone bleiben",
+          "Mindestzeit für Ballbesitz",
+          "Maximale Zeit für Freiwürfe",
+          "Auszeit-Dauer"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Angriffsspieler darf sich nicht länger als 3 aufeinanderfolgende Sekunden in der gegnerischen Zone (Paint) aufhalten, während sein Team Ballkontrolle im Vorfeld hat.",
+        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VI, Art. 26",
+        "tags": ["3-Sekunden", "Zone", "Zeitregel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q118",
+        "text": "Was ist ein 'Held Ball'?",
+        "options": [
+          "Zwei oder mehr Gegner halten den Ball fest gleichzeitig",
+          "Ball wird zu lange gehalten",
+          "Ball in der Luft angehalten",
+          "Festhalten durch Schiedsrichter"
+        ],
+        "correctIndex": 0,
+        "explanation": "Held Ball liegt vor, wenn zwei oder mehr gegnerische Spieler den Ball so fest halten, dass keiner ihn erlangen kann ohne übermäßige Härte. Es folgt ein Wechselballbesitz.",
+        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 12.3",
+        "tags": ["Held Ball", "Wechselballbesitz", "Spielsituation"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q119",
+        "text": "Was ist ein 'Backcourt Violation'?",
+        "options": [
+          "Ball wird ins Rückfeld zurückgespielt nachdem er im Vorfeld war",
+          "Zu langes Spiel im Rückfeld",
+          "Verteidigung im Rückfeld",
+          "Foul im Rückfeld"
+        ],
+        "correctIndex": 0,
+        "explanation": "Backcourt Violation: Nachdem ein Team Ballkontrolle im Vorfeld erlangt hat, darf der Ball nicht mehr ins Rückfeld zurückgespielt werden. Ballverlust für die Offense.",
+        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VI, Art. 30",
+        "tags": ["Backcourt", "Rückfeld", "Regelverstoß"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q120",
+        "text": "Wie hoch ist der Basketball-Korb?",
+        "options": [
+          "3,05 Meter (10 Fuß)",
+          "3,00 Meter",
+          "3,20 Meter",
+          "2,90 Meter"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Oberkante des Korbrings befindet sich exakt 3,05 Meter (10 Fuß) über dem Spielfeld. Dies ist eine der grundlegenden Standardmaße im Basketball.",
+        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel I, Art. 1",
+        "tags": ["Korbhöhe", "Abmessungen", "Standard"],
+        "difficulty": "leicht"
       }
     ]
   }

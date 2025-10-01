@@ -1,0 +1,1122 @@
+{
+  "quiz": {
+    "title": "KI-Verordnung Quiz",
+    "description": "Teste dein Wissen zur EU-KI-Verordnung (EU) 2024/1689 und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+    "language": "de",
+    "version": "1.0",
+    "sourceDocument": {
+      "title": "KI-Verordnung - Verordnung (EU) 2024/1689",
+      "version": "2024",
+      "year": 2024,
+      "pdfFilename": "OJ_L_202401689_DE_TXT.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 0
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Wann wurde die EU-KI-Verordnung (AI Act) im Amtsblatt veröffentlicht?",
+        "options": [
+          "13. Juni 2024",
+          "12. Juli 2024",
+          "1. August 2024",
+          "2. Februar 2025"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die KI-Verordnung (EU) 2024/1689 wurde am 12. Juli 2024 im Amtsblatt der Europäischen Union veröffentlicht.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 1",
+          "chapter": "Amtsblatt"
+        },
+        "tags": [
+          "Zeitpunkt",
+          "Inkrafttreten"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q2",
+        "text": "Ab wann gilt die KI-Verordnung vollständig?",
+        "options": [
+          "Sofort nach Veröffentlichung",
+          "6 Monate nach Veröffentlichung",
+          "24 Monate nach Inkrafttreten (2. August 2026)",
+          "5 Jahre nach Veröffentlichung"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung in Kraft und gilt ab dem 2. August 2026, mit einigen Ausnahmen für frühere Anwendung.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 144",
+          "chapter": "Artikel 113"
+        },
+        "tags": [
+          "Anwendbarkeit",
+          "Zeitpunkt"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist das Hauptziel der KI-Verordnung?",
+        "options": [
+          "Förderung der KI-Entwicklung",
+          "Schutz von Grundrechten und Gewährleistung der KI-Sicherheit",
+          "Stärkung der europäischen Tech-Industrie",
+          "Vereinheitlichung von KI-Standards"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Hauptziel ist der Schutz von Grundrechten, Demokratie, Rechtsstaatlichkeit und ökologischer Nachhaltigkeit sowie die Gewährleistung der Sicherheit von KI-Systemen.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 1-5",
+          "chapter": "Erwägungsgründe"
+        },
+        "tags": [
+          "Ziele",
+          "Grundrechte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Welche KI-Praktiken sind nach der Verordnung verboten?",
+        "options": [
+          "Alle KI-Systeme im Gesundheitswesen",
+          "Social Scoring durch öffentliche Stellen",
+          "Chatbots für Kundenservice",
+          "Datenanalyse-Tools"
+        ],
+        "correctIndex": 1,
+        "explanation": "Social Scoring durch öffentliche Behörden, also die Bewertung oder Einstufung der Vertrauenswürdigkeit natürlicher Personen, ist ausdrücklich verboten.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 34-35",
+          "chapter": "Artikel 5"
+        },
+        "tags": [
+          "Verbotene Praktiken",
+          "Social Scoring"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Was versteht man unter einem 'Hochrisiko-KI-System'?",
+        "options": [
+          "Alle KI-Systeme in Unternehmen",
+          "KI-Systeme, die in Anhang III aufgeführt oder als Sicherheitskomponente dienen",
+          "Nur militärische KI-Anwendungen",
+          "KI-Systeme mit hohen Rechenkosten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hochrisiko-KI-Systeme sind solche, die in Anhang III aufgelistet sind oder als Sicherheitskomponenten von Produkten dienen, die unter EU-Harmonisierungsrechtsvorschriften fallen.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 35-36",
+          "chapter": "Artikel 6"
+        },
+        "tags": [
+          "Hochrisiko",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Welche Anforderungen gelten für Hochrisiko-KI-Systeme?",
+        "options": [
+          "Nur CE-Kennzeichnung",
+          "Risikomanagement, Datenqualität, Transparenz, menschliche Aufsicht",
+          "Nur Dokumentationspflicht",
+          "Keine besonderen Anforderungen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hochrisiko-KI-Systeme müssen umfassende Anforderungen erfüllen: Risikomanagementsystem, Datenqualität und -governance, technische Dokumentation, Transparenz, menschliche Aufsicht und Robustheit.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 37-44",
+          "chapter": "Artikel 8-15"
+        },
+        "tags": [
+          "Hochrisiko",
+          "Anforderungen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist ein 'Allzweck-KI-Modell' (GPAI)?",
+        "options": [
+          "Jedes KI-Modell",
+          "Ein KI-Modell, das für verschiedene Anwendungen genutzt werden kann",
+          "Nur große Sprachmodelle",
+          "KI für allgemeine Büroarbeiten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Allzweck-KI-Modell ist ein KI-Modell, das eine erhebliche Allgemeinheit aufweist und verschiedene unterschiedliche Aufgaben ausführen kann.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 29",
+          "chapter": "Artikel 3 Nr. 44"
+        },
+        "tags": [
+          "GPAI",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Welche zusätzlichen Pflichten haben Anbieter von Allzweck-KI-Modellen mit systemischem Risiko?",
+        "options": [
+          "Keine zusätzlichen Pflichten",
+          "Modellbewertungen, Verfolgung schwerwiegender Vorfälle, Cybersicherheit",
+          "Nur jährliche Berichte",
+          "Vollständige Offenlegung des Quellcodes"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anbieter von GPAI-Modellen mit systemischem Risiko müssen Modellbewertungen durchführen, schwerwiegende Vorfälle verfolgen und angemessene Cybersicherheitsniveau gewährleisten.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 97-98",
+          "chapter": "Artikel 55"
+        },
+        "tags": [
+          "GPAI",
+          "Systemisches Risiko"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q9",
+        "text": "Was bedeutet 'Transparenzpflicht' bei KI-Systemen?",
+        "options": [
+          "Veröffentlichung aller Trainingsdaten",
+          "Informationspflicht über KI-Interaktionen und KI-generierte Inhalte",
+          "Offenlegung der Algorithmen",
+          "Kostenlose Nutzung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Transparenzpflichten bedeuten, dass Nutzer informiert werden müssen, wenn sie mit KI-Systemen interagieren, und KI-generierte Inhalte als solche gekennzeichnet werden müssen.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 98-99",
+          "chapter": "Artikel 50"
+        },
+        "tags": [
+          "Transparenz",
+          "Kennzeichnung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "Wer ist für die Überwachung der KI-Verordnung in den Mitgliedstaaten zuständig?",
+        "options": [
+          "Die Europäische Kommission direkt",
+          "Nationale Marktüberwachungsbehörden",
+          "Private Zertifizierungsstellen",
+          "Der Europäische Gerichtshof"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jeder Mitgliedstaat benennt nationale zuständige Behörden und Marktüberwachungsbehörden für die Durchsetzung der Verordnung.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 105-107",
+          "chapter": "Artikel 70-72"
+        },
+        "tags": [
+          "Durchsetzung",
+          "Behörden"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist das 'KI-Amt' (AI Office)?",
+        "options": [
+          "Eine nationale Behörde in jedem Mitgliedstaat",
+          "Eine Abteilung innerhalb der Europäischen Kommission",
+          "Eine private Organisation",
+          "Ein internationales Gremium"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das KI-Amt ist eine Abteilung innerhalb der Europäischen Kommission, die für die Umsetzung und Durchsetzung der Verordnung auf EU-Ebene zuständig ist.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 107-108",
+          "chapter": "Artikel 64"
+        },
+        "tags": [
+          "KI-Amt",
+          "Governance"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Wie hoch können Geldbußen bei Verstößen gegen die KI-Verordnung maximal sein?",
+        "options": [
+          "Bis zu 10 Millionen Euro oder 2% des Umsatzes",
+          "Bis zu 35 Millionen Euro oder 7% des Umsatzes",
+          "Bis zu 50 Millionen Euro oder 10% des Umsatzes",
+          "Bis zu 100 Millionen Euro oder 20% des Umsatzes"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bei Verstößen gegen die verbotenen KI-Praktiken können Geldbußen bis zu 35 Millionen EUR oder 7% des weltweiten Jahresumsatzes verhängt werden, je nachdem, welcher Betrag höher ist.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 140-141",
+          "chapter": "Artikel 99"
+        },
+        "tags": [
+          "Sanktionen",
+          "Geldbußen"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist biometrische Fernidentifizierung?",
+        "options": [
+          "Fingerabdruck-Scanner",
+          "KI-Systeme zur Identifizierung von Personen aus der Ferne ohne Mitwirkung",
+          "Iris-Scanner am Smartphone",
+          "Passwort-Authentifizierung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Biometrische Fernidentifizierung bezeichnet KI-Systeme zur Identifizierung natürlicher Personen aus der Ferne durch Vergleich biometrischer Daten ohne deren aktive Mitwirkung.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 28",
+          "chapter": "Artikel 3 Nr. 41"
+        },
+        "tags": [
+          "Biometrie",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Ist biometrische Echtzeit-Fernidentifizierung im öffentlichen Raum erlaubt?",
+        "options": [
+          "Ja, ohne Einschränkungen",
+          "Nein, grundsätzlich verboten mit eng definierten Ausnahmen",
+          "Nur in Geschäften",
+          "Nur mit schriftlicher Einwilligung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die biometrische Echtzeit-Fernidentifizierung ist grundsätzlich verboten, außer in eng definierten Fällen für Strafverfolgungszwecke unter strengen Bedingungen.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 34-35",
+          "chapter": "Artikel 5 Abs. 1 h"
+        },
+        "tags": [
+          "Biometrie",
+          "Verbote"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Was sind 'Emotionserkennungssysteme'?",
+        "options": [
+          "Systeme zur medizinischen Diagnose",
+          "KI zur Erkennung oder Ableitung von Emotionen natürlicher Personen",
+          "Chatbots mit Empathie",
+          "Systeme zur Spracherkennung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Emotionserkennungssysteme sind KI-Systeme zur Erkennung oder Ableitung der Emotionen oder Absichten natürlicher Personen anhand ihrer biometrischen Daten.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 28",
+          "chapter": "Artikel 3 Nr. 42"
+        },
+        "tags": [
+          "Emotionserkennung",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q16",
+        "text": "Sind Emotionserkennungssysteme am Arbeitsplatz erlaubt?",
+        "options": [
+          "Ja, ohne Einschränkungen",
+          "Nur mit Zustimmung des Betriebsrats",
+          "Verboten, außer für medizinische oder Sicherheitszwecke",
+          "Nur bei leitenden Angestellten"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Einsatz von Emotionserkennungssystemen am Arbeitsplatz ist grundsätzlich verboten, außer wenn sie aus medizinischen oder Sicherheitsgründen eingesetzt werden.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 34",
+          "chapter": "Artikel 5 Abs. 1 f"
+        },
+        "tags": [
+          "Emotionserkennung",
+          "Arbeitsplatz"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Was bedeutet 'CE-Kennzeichnung' für KI-Systeme?",
+        "options": [
+          "China Export",
+          "Conformité Européenne - Übereinstimmung mit EU-Anforderungen",
+          "Computer Engineering",
+          "Certified Excellence"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die CE-Kennzeichnung zeigt an, dass ein Hochrisiko-KI-System den Anforderungen der Verordnung entspricht und in der EU in Verkehr gebracht werden darf.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 61-62",
+          "chapter": "Artikel 48"
+        },
+        "tags": [
+          "CE-Kennzeichnung",
+          "Konformität"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Was ist ein 'Konformitätsbewertungsverfahren'?",
+        "options": [
+          "Eine interne Qualitätskontrolle",
+          "Ein Verfahren zur Bewertung, ob ein KI-System den Anforderungen entspricht",
+          "Eine Marktanalyse",
+          "Ein Zulassungsverfahren"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Konformitätsbewertungsverfahren ist der Prozess, mit dem nachgewiesen wird, dass die Anforderungen an ein Hochrisiko-KI-System erfüllt wurden.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 54-59",
+          "chapter": "Artikel 43-46"
+        },
+        "tags": [
+          "Konformität",
+          "Bewertung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Müssen alle Hochrisiko-KI-Systeme von einer dritten Stelle geprüft werden?",
+        "options": [
+          "Ja, immer",
+          "Nein, meist interne Konformitätsbewertung möglich",
+          "Nur bei Medizinprodukten",
+          "Nur bei Systemen über 1 Million Euro Wert"
+        ],
+        "correctIndex": 1,
+        "explanation": "In den meisten Fällen ist eine interne Konformitätsbewertung durch den Anbieter ausreichend. Nur in bestimmten Fällen ist eine Bewertung durch benannte Stellen erforderlich.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 54-55",
+          "chapter": "Artikel 43"
+        },
+        "tags": [
+          "Konformität",
+          "Prüfung"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist das 'EU-Datenbank für Hochrisiko-KI-Systeme'?",
+        "options": [
+          "Eine Datenbank für KI-Trainingsdaten",
+          "Ein öffentliches Register für Hochrisiko-KI-Systeme",
+          "Eine Cloud-Speicherlösung",
+          "Ein Forschungsprojekt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die EU-Datenbank ist ein öffentlich zugängliches Register, in dem Anbieter von Hochrisiko-KI-Systemen bestimmte Informationen über ihre Systeme registrieren müssen.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 118-119",
+          "chapter": "Artikel 71"
+        },
+        "tags": [
+          "Datenbank",
+          "Register"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Was sind 'KI-Literacy'-Anforderungen?",
+        "options": [
+          "Anforderungen an KI-Algorithmen",
+          "Kenntnisse und Fähigkeiten zum Verständnis von KI-Systemen",
+          "Literaturverzeichnisse für KI",
+          "Lizenzanforderungen"
+        ],
+        "correctIndex": 1,
+        "explanation": "KI-Literacy bezeichnet das erforderliche Niveau an Kenntnissen und Fähigkeiten, um KI-Systeme angemessen verstehen und nutzen zu können.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 100",
+          "chapter": "Artikel 4"
+        },
+        "tags": [
+          "KI-Literacy",
+          "Bildung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q22",
+        "text": "Welche Rolle spielen harmonisierte Normen?",
+        "options": [
+          "Sie sind verbindlich",
+          "Sie schaffen eine Konformitätsvermutung",
+          "Sie sind irrelevant",
+          "Sie ersetzen die Verordnung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Anwendung harmonisierter Normen schafft eine Vermutung der Konformität mit den entsprechenden Anforderungen der Verordnung.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 59-60",
+          "chapter": "Artikel 40-41"
+        },
+        "tags": [
+          "Normen",
+          "Konformität"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q23",
+        "text": "Was ist ein 'KI-System' nach der Verordnung?",
+        "options": [
+          "Nur neuronale Netze",
+          "Ein maschinengestütztes System mit Autonomie zur Erzeugung von Outputs",
+          "Jede Software",
+          "Nur Roboter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein KI-System ist ein maschinengestütztes System, das für explizite oder implizite Ziele mit einem gewissen Grad an Autonomie arbeitet und Outputs wie Vorhersagen oder Empfehlungen generiert.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 27",
+          "chapter": "Artikel 3 Nr. 1"
+        },
+        "tags": [
+          "Definitionen",
+          "KI-System"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Gilt die Verordnung für Open-Source-KI?",
+        "options": [
+          "Nein, vollständig ausgenommen",
+          "Ja, aber mit Erleichterungen für bestimmte Modelle",
+          "Nur für kommerzielle Open Source",
+          "Nur in bestimmten Ländern"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Verordnung gilt auch für Open-Source-KI, aber es gibt Erleichterungen für Allzweck-KI-Modelle mit offenen Lizenzen, außer bei systemischem Risiko.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 96",
+          "chapter": "Artikel 53 Abs. 3"
+        },
+        "tags": [
+          "Open Source",
+          "Ausnahmen"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q25",
+        "text": "Was sind 'Codes of Practice'?",
+        "options": [
+          "Gesetzbücher",
+          "Verhaltenskodizes für Anbieter von Allzweck-KI-Modellen",
+          "Programmierstandards",
+          "Ethische Richtlinien"
+        ],
+        "correctIndex": 1,
+        "explanation": "Codes of Practice sind Verhaltenskodizes, die von Anbietern von Allzweck-KI-Modellen entwickelt werden, um die Einhaltung der Anforderungen zu demonstrieren.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 96-97",
+          "chapter": "Artikel 56"
+        },
+        "tags": [
+          "Verhaltenskodizes",
+          "GPAI"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Welche Informationen müssen Anbieter von Allzweck-KI-Modellen bereitstellen?",
+        "options": [
+          "Nur den Namen des Modells",
+          "Technische Dokumentation und Informationen zu Trainingsdaten und Urheberrechten",
+          "Den vollständigen Quellcode",
+          "Alle Trainingsdaten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anbieter müssen technische Dokumentation bereitstellen, Informationen zu Trainingsdaten zur Verfügung stellen und eine ausreichend detaillierte Zusammenfassung zu urheberrechtlich geschützten Inhalten veröffentlichen.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 95-96",
+          "chapter": "Artikel 53"
+        },
+        "tags": [
+          "GPAI",
+          "Transparenz"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Was ist das 'Europäische KI-Gremium' (AI Board)?",
+        "options": [
+          "Eine private Interessengruppe",
+          "Ein Beratungsgremium mit Vertretern der Mitgliedstaaten",
+          "Ein Gerichtshof",
+          "Ein Forschungsinstitut"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Europäische KI-Gremium ist ein unabhängiges Beratungsgremium, das sich aus Vertretern der nationalen Aufsichtsbehörden zusammensetzt und die Kommission unterstützt.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 109-110",
+          "chapter": "Artikel 65"
+        },
+        "tags": [
+          "AI Board",
+          "Governance"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q28",
+        "text": "Wer ist 'Anbieter' im Sinne der Verordnung?",
+        "options": [
+          "Nur Hersteller",
+          "Jede Person, die ein KI-System entwickelt oder entwickeln lässt",
+          "Nur Verkäufer",
+          "Nur EU-Unternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Anbieter ist eine natürliche oder juristische Person, die ein KI-System entwickelt oder entwickeln lässt und es unter eigenem Namen oder eigener Marke in Verkehr bringt oder in Betrieb nimmt.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 27",
+          "chapter": "Artikel 3 Nr. 3"
+        },
+        "tags": [
+          "Definitionen",
+          "Anbieter"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q29",
+        "text": "Wer ist 'Betreiber' eines KI-Systems?",
+        "options": [
+          "Der Entwickler",
+          "Die Person, die ein KI-System unter ihrer Kontrolle verwendet",
+          "Der Verkäufer",
+          "Die Marktaufsichtsbehörde"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Betreiber ist eine natürliche oder juristische Person, die ein KI-System in beruflicher Eigenschaft unter ihrer Kontrolle verwendet.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 28",
+          "chapter": "Artikel 3 Nr. 4"
+        },
+        "tags": [
+          "Definitionen",
+          "Betreiber"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q30",
+        "text": "Was müssen Betreiber von Hochrisiko-KI-Systemen tun?",
+        "options": [
+          "Nichts Besonderes",
+          "Gebrauchsanweisungen befolgen, menschliche Aufsicht sicherstellen, Inputs überwachen",
+          "Nur das System kaufen",
+          "Eine Lizenz erwerben"
+        ],
+        "correctIndex": 1,
+        "explanation": "Betreiber müssen die Gebrauchsanweisungen befolgen, eine angemessene menschliche Aufsicht sicherstellen und die Input-Daten auf Relevanz und Repräsentativität überwachen.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 51-52",
+          "chapter": "Artikel 26"
+        },
+        "tags": [
+          "Betreiber",
+          "Pflichten"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q31",
+        "text": "Was ist 'menschliche Aufsicht' (human oversight)?",
+        "options": [
+          "Permanente manuelle Kontrolle",
+          "Maßnahmen zur Verhinderung oder Minimierung von Risiken durch menschliche Personen",
+          "Jährliche Überprüfung",
+          "Kundenfeedback"
+        ],
+        "correctIndex": 1,
+        "explanation": "Menschliche Aufsicht bezeichnet Maßnahmen, durch die sichergestellt wird, dass ein Hochrisiko-KI-System von natürlichen Personen effektiv beaufsichtigt werden kann, um Risiken zu verhindern oder zu minimieren.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 41-42",
+          "chapter": "Artikel 14"
+        },
+        "tags": [
+          "Human Oversight",
+          "Aufsicht"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q32",
+        "text": "Was ist ein 'schwerwiegender Vorfall'?",
+        "options": [
+          "Jeder Fehler im System",
+          "Ein Vorfall, der zum Tod oder schweren Schäden führt",
+          "Ein Programmfehler",
+          "Eine Beschwerde"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein schwerwiegender Vorfall ist ein Vorfall oder eine Fehlfunktion eines KI-Systems, der direkt oder indirekt zu Tod, schwerwiegenden Gesundheitsschäden oder erheblichen materiellen Schäden führt.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 29",
+          "chapter": "Artikel 3 Nr. 49"
+        },
+        "tags": [
+          "Vorfälle",
+          "Definitionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q33",
+        "text": "Müssen schwerwiegende Vorfälle gemeldet werden?",
+        "options": [
+          "Nein",
+          "Ja, innerhalb von 15 Tagen an die Marktüberwachungsbehörde",
+          "Nur bei mehrfachen Vorfällen",
+          "Nur auf Anfrage"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anbieter müssen schwerwiegende Vorfälle unverzüglich und spätestens 15 Tage nachdem sie davon Kenntnis erlangt haben, an die Marktüberwachungsbehörden melden.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 49-50",
+          "chapter": "Artikel 73"
+        },
+        "tags": [
+          "Meldepflicht",
+          "Vorfälle"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Was ist 'AI generated content'?",
+        "options": [
+          "Von Menschen erstellte Inhalte über KI",
+          "Durch KI-Systeme erzeugte oder manipulierte Inhalte",
+          "Nur Bilder",
+          "KI-Programmiercode"
+        ],
+        "correctIndex": 1,
+        "explanation": "AI generated content bezeichnet Inhalte, die durch ein KI-System erzeugt oder wesentlich verändert wurden, einschließlich Text, Bilder, Audio und Video.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 98-99",
+          "chapter": "Artikel 50"
+        },
+        "tags": [
+          "KI-Inhalte",
+          "Definitionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q35",
+        "text": "Müssen Deepfakes gekennzeichnet werden?",
+        "options": [
+          "Nein",
+          "Nur in sozialen Medien",
+          "Ja, wenn sie öffentlich verbreitet werden",
+          "Nur kommerzielle Deepfakes"
+        ],
+        "correctIndex": 2,
+        "explanation": "Betreiber von KI-Systemen, die synthetische Audio-, Bild-, Video- oder Textinhalte erzeugen, müssen offenlegen, dass die Inhalte künstlich erzeugt oder manipuliert wurden.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 99",
+          "chapter": "Artikel 50 Abs. 4"
+        },
+        "tags": [
+          "Deepfakes",
+          "Kennzeichnung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q36",
+        "text": "Gibt es Ausnahmen von der Kennzeichnungspflicht für KI-Inhalte?",
+        "options": [
+          "Nein, niemals",
+          "Ja, für nationale Sicherheit, Strafverfolgung und künstlerische Zwecke",
+          "Ja, für alle privaten Nutzer",
+          "Ja, für alle Unternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ausnahmen bestehen für die Ausübung der Rechte auf Meinungsäußerung, Medienfreiheit, sowie für nationale Sicherheit und Strafverfolgung, sofern geeignete Schutzmaßnahmen bestehen.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 99",
+          "chapter": "Artikel 50 Abs. 5"
+        },
+        "tags": [
+          "Ausnahmen",
+          "Kennzeichnung"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q37",
+        "text": "Was ist ein 'Risikomanagementsystem'?",
+        "options": [
+          "Eine Versicherung",
+          "Ein kontinuierlicher Prozess zur Identifizierung und Minderung von Risiken",
+          "Ein Notfallplan",
+          "Eine Dokumentation"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Risikomanagementsystem ist ein kontinuierlicher iterativer Prozess zur Identifizierung, Analyse, Bewertung und Minderung von Risiken während des gesamten Lebenszyklus.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 37-38",
+          "chapter": "Artikel 9"
+        },
+        "tags": [
+          "Risikomanagement",
+          "Anforderungen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q38",
+        "text": "Welche Anforderungen gelten für Trainingsdaten?",
+        "options": [
+          "Keine besonderen Anforderungen",
+          "Relevanz, Repräsentativität, Fehlerfreiheit und Vollständigkeit",
+          "Nur große Datenmengen",
+          "Nur Open-Source-Daten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Trainingsdaten müssen relevant, repräsentativ, soweit möglich fehlerfrei und vollständig sein. Es müssen angemessene Governance- und Kontrollpraktiken angewendet werden.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 38-39",
+          "chapter": "Artikel 10"
+        },
+        "tags": [
+          "Datenqualität",
+          "Training"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Was ist 'technische Dokumentation'?",
+        "options": [
+          "Bedienungsanleitung",
+          "Umfassende Dokumentation zu Design, Entwicklung und Leistung des Systems",
+          "Marketingmaterial",
+          "Quellcode"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die technische Dokumentation umfasst alle Informationen, die notwendig sind, um die Konformität des KI-Systems mit den Anforderungen nachzuweisen.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 40-41",
+          "chapter": "Artikel 11"
+        },
+        "tags": [
+          "Dokumentation",
+          "Anforderungen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q40",
+        "text": "Wie lange muss die technische Dokumentation aufbewahrt werden?",
+        "options": [
+          "1 Jahr",
+          "5 Jahre",
+          "10 Jahre nach Inverkehrbringen",
+          "Unbegrenzt"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die technische Dokumentation muss 10 Jahre nach dem Inverkehrbringen des KI-Systems oder der Außerbetriebnahme aufbewahrt werden.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 40",
+          "chapter": "Artikel 11 Abs. 1"
+        },
+        "tags": [
+          "Dokumentation",
+          "Aufbewahrung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q41",
+        "text": "Was sind 'Protokolldaten' (logs)?",
+        "options": [
+          "Benutzerhandbücher",
+          "Automatisch generierte Aufzeichnungen von Ereignissen während der Nutzung",
+          "Programmierkommentare",
+          "Wartungsprotokolle"
+        ],
+        "correctIndex": 1,
+        "explanation": "Protokolldaten sind automatisch von Hochrisiko-KI-Systemen generierte Aufzeichnungen über Ereignisse während des Betriebs, die zur Nachvollziehbarkeit dienen.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 42-43",
+          "chapter": "Artikel 12"
+        },
+        "tags": [
+          "Protokolldaten",
+          "Nachvollziehbarkeit"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q42",
+        "text": "Was ist 'Robustheit' eines KI-Systems?",
+        "options": [
+          "Hohe Rechenleistung",
+          "Fähigkeit zur Vermeidung von Fehlern und Widerstand gegen Manipulationsversuche",
+          "Große Speicherkapazität",
+          "Schnelle Verarbeitung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Robustheit bedeutet, dass ein KI-System resilient gegen Fehler ist, mit Fehlern angemessen umgeht und gegen Manipulationsversuche geschützt ist.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 43-44",
+          "chapter": "Artikel 15"
+        },
+        "tags": [
+          "Robustheit",
+          "Sicherheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q43",
+        "text": "Was sind 'notifizierte Stellen'?",
+        "options": [
+          "Polizeibehörden",
+          "Von Mitgliedstaaten benannte Konformitätsbewertungsstellen",
+          "Nachrichtenagenturen",
+          "Patentämter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Notifizierte (benannte) Stellen sind von den nationalen Behörden benannte und der Kommission notifizierte Stellen, die Konformitätsbewertungen durchführen dürfen.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 60-61",
+          "chapter": "Artikel 31-39"
+        },
+        "tags": [
+          "Notifizierte Stellen",
+          "Konformität"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Können KMU besondere Unterstützung bei der Umsetzung erhalten?",
+        "options": [
+          "Nein, keine Unterstützung",
+          "Ja, durch prioritären Zugang zu regulatorischen Sandboxes",
+          "Nur finanzielle Förderung",
+          "Nur Großunternehmen erhalten Hilfe"
+        ],
+        "correctIndex": 1,
+        "explanation": "KMU und Start-ups haben prioritären Zugang zu KI-regulatorischen Sandboxes und können spezifische technische Dokumentationsvorlagen nutzen.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 102-104",
+          "chapter": "Artikel 57 und 59"
+        },
+        "tags": [
+          "KMU",
+          "Unterstützung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Was ist eine 'regulatorische Sandbox'?",
+        "options": [
+          "Ein Spielplatz für KI",
+          "Eine kontrollierte Umgebung zum Testen innovativer KI-Systeme",
+          "Eine Testumgebung für Hacker",
+          "Ein Verkaufsstand"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine regulatorische Sandbox ist eine kontrollierte Umgebung, in der innovative KI-Systeme unter Aufsicht entwickelt, trainiert und getestet werden können.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 101-102",
+          "chapter": "Artikel 57"
+        },
+        "tags": [
+          "Sandbox",
+          "Innovation"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q46",
+        "text": "Gilt die Verordnung für militärische KI-Systeme?",
+        "options": [
+          "Ja, vollständig",
+          "Nein, sie sind ausgenommen",
+          "Nur teilweise",
+          "Nur in Friedenszeiten"
+        ],
+        "correctIndex": 1,
+        "explanation": "KI-Systeme, die ausschließlich für militärische, verteidigungspolitische oder nationale Sicherheitszwecke entwickelt oder eingesetzt werden, sind von der Verordnung ausgenommen.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 31",
+          "chapter": "Artikel 2 Abs. 3"
+        },
+        "tags": [
+          "Ausnahmen",
+          "Militär"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Was ist ein 'systemisches Risiko' bei Allzweck-KI-Modellen?",
+        "options": [
+          "Jedes technische Risiko",
+          "Ein Risiko mit erheblichen Auswirkungen auf den EU-Markt",
+          "Nur Cyberrisiken",
+          "Finanzielle Risiken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein systemisches Risiko liegt vor, wenn ein Allzweck-KI-Modell erhebliche Auswirkungen auf den Unionsmarkt aufgrund seiner Reichweite oder möglicher negativer Effekte auf öffentliche Gesundheit, Sicherheit, Grundrechte etc. haben kann.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 29",
+          "chapter": "Artikel 3 Nr. 65"
+        },
+        "tags": [
+          "Systemisches Risiko",
+          "GPAI"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q48",
+        "text": "Ab welcher Rechenleistung gilt ein GPAI-Modell als systemisches Risiko?",
+        "options": [
+          "1 FLOP",
+          "10^20 FLOP",
+          "10^25 FLOP",
+          "10^30 FLOP"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Allzweck-KI-Modell gilt als systemisches Risiko, wenn die kumulative Menge an Rechenleistung für das Training mehr als 10^25 FLOP beträgt.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 97",
+          "chapter": "Artikel 51"
+        },
+        "tags": [
+          "Systemisches Risiko",
+          "Rechenleistung"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q49",
+        "text": "Was ist ein 'nachgelagerter Anbieter'?",
+        "options": [
+          "Ein Händler",
+          "Ein Anbieter, der ein KI-System auf Basis eines GPAI-Modells entwickelt",
+          "Ein Endnutzer",
+          "Ein Wartungsdienstleister"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein nachgelagerter Anbieter ist ein Anbieter von KI-Systemen, der ein Allzweck-KI-Modell in sein eigenes KI-System integriert.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 29",
+          "chapter": "Artikel 3 Nr. 45"
+        },
+        "tags": [
+          "Definitionen",
+          "Wertschöpfungskette"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q50",
+        "text": "Welche Behörde überwacht primär Allzweck-KI-Modelle?",
+        "options": [
+          "Nationale Behörden",
+          "Das KI-Amt der Europäischen Kommission",
+          "Der Europäische Datenschutzbeauftragte",
+          "Europol"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das KI-Amt der Europäischen Kommission ist primär für die Überwachung und Durchsetzung bei Allzweck-KI-Modellen zuständig.",
+        "source": {
+          "citation": "KI-Verordnung (EU) 2024/1689",
+          "pages": "S. 107-108",
+          "chapter": "Artikel 64"
+        },
+        "tags": [
+          "KI-Amt",
+          "GPAI"
+        ],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

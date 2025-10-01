@@ -1,0 +1,1122 @@
+{
+  "quiz": {
+    "title": "Data Act Quiz",
+    "description": "Teste dein Wissen zur EU Data Act Verordnung (EU) 2023/2854 und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+    "language": "de",
+    "version": "1.0",
+    "sourceDocument": {
+      "title": "Data Act - Verordnung (EU) 2023/2854",
+      "version": "2023",
+      "year": 2023,
+      "pdfFilename": "OJ_L_202302854_DE_TXT.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 0
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Wann wurde die Data Act Verordnung im Amtsblatt der EU veröffentlicht?",
+        "options": [
+          "22. Dezember 2022",
+          "27. Dezember 2023",
+          "1. Januar 2024",
+          "11. Januar 2024"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Data Act Verordnung (EU) 2023/2854 wurde am 27. Dezember 2023 im Amtsblatt der Europäischen Union veröffentlicht.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 1",
+          "chapter": "Amtsblatt"
+        },
+        "tags": [
+          "Zeitpunkt",
+          "Inkrafttreten"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Ab wann ist die Data Act Verordnung anwendbar?",
+        "options": [
+          "27. Dezember 2023",
+          "1. Januar 2024",
+          "12. September 2025",
+          "1. Januar 2026"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Verordnung ist ab dem 12. September 2025 anwendbar, also 20 Monate nach ihrer Veröffentlichung im Amtsblatt.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 132",
+          "chapter": "Artikel 52"
+        },
+        "tags": [
+          "Anwendbarkeit",
+          "Zeitpunkt"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist das Hauptziel des Data Acts?",
+        "options": [
+          "Förderung des Wettbewerbs auf Datenmärkten",
+          "Schutz personenbezogener Daten",
+          "Verbesserung der Cybersicherheit",
+          "Harmonisierung von Datenbankrechten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Data Act zielt darauf ab, faire Bedingungen für den Datenzugang zu schaffen und den Wettbewerb auf Datenmärkten zu fördern.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 2-5",
+          "chapter": "Erwägungsgründe"
+        },
+        "tags": [
+          "Ziele",
+          "Zweck"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Auf welche Arten von Produkten ist der Data Act anwendbar?",
+        "options": [
+          "Nur auf digitale Produkte",
+          "Nur auf vernetzte Produkte",
+          "Auf vernetzte Produkte und damit zusammenhängende Dienste",
+          "Auf alle kommerziellen Produkte"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Data Act gilt für vernetzte Produkte und damit zusammenhängende Dienste, die Daten generieren oder erheben.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 17",
+          "chapter": "Artikel 1"
+        },
+        "tags": [
+          "Anwendungsbereich",
+          "Produkte"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was versteht man unter 'Daten' im Sinne des Data Acts?",
+        "options": [
+          "Nur personenbezogene Daten",
+          "Jede digitale Darstellung von Handlungen, Tatsachen oder Informationen",
+          "Nur strukturierte Datensätze",
+          "Ausschließlich Metadaten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Daten werden definiert als jede digitale Darstellung von Handlungen, Tatsachen oder Informationen sowie jede Zusammenstellung solcher Handlungen, Tatsachen oder Informationen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 18",
+          "chapter": "Artikel 2 Nr. 1"
+        },
+        "tags": [
+          "Definitionen",
+          "Daten"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Wer hat nach dem Data Act ein Recht auf Zugang zu Daten, die durch die Nutzung eines Produkts generiert werden?",
+        "options": [
+          "Nur der Hersteller",
+          "Nur der Nutzer",
+          "Der Nutzer und, auf dessen Veranlassung, Dritte",
+          "Jede interessierte Person"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Nutzer hat das Recht auf Zugang zu den durch seine Nutzung generierten Daten und kann auf seine Veranlassung hin diese Daten auch Dritten zugänglich machen lassen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 20",
+          "chapter": "Artikel 4"
+        },
+        "tags": [
+          "Datenzugang",
+          "Nutzerrechte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Innerhalb welcher Frist muss der Dateninhaber dem Nutzer Zugang zu den Daten gewähren?",
+        "options": [
+          "Sofort",
+          "Innerhalb von 24 Stunden",
+          "Unverzüglich und in jedem Fall spätestens innerhalb von 30 Kalendertagen",
+          "Innerhalb von 3 Monaten"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Dateninhaber muss die Daten unverzüglich und in jedem Fall spätestens innerhalb von 30 Kalendertagen nach Eingang des Antrags zur Verfügung stellen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 20",
+          "chapter": "Artikel 4 Abs. 1"
+        },
+        "tags": [
+          "Fristen",
+          "Datenzugang"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Dürfen Hersteller für die Bereitstellung von Daten an Nutzer Gebühren verlangen?",
+        "options": [
+          "Ja, in unbegrenzter Höhe",
+          "Ja, aber nur in angemessener Höhe",
+          "Nein, die Bereitstellung muss kostenlos sein",
+          "Nur wenn dies vertraglich vereinbart wurde"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Dateninhaber stellt dem Nutzer die Daten kostenlos zur Verfügung, es sei denn, eine Gebühr wurde in den Vertragsbedingungen vereinbart und ist angemessen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 21",
+          "chapter": "Artikel 4 Abs. 3"
+        },
+        "tags": [
+          "Gebühren",
+          "Kosten"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Was müssen Hersteller vernetzter Produkte standardmäßig bereitstellen?",
+        "options": [
+          "Eine kostenlose Cloud-Speicherung",
+          "Informationen über Art, Format und Zugang zu Daten",
+          "Eine mobile App",
+          "Technischen Support rund um die Uhr"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hersteller müssen den Nutzern klare und leicht zugängliche Informationen über Art, Format und ungefähres Volumen der generierten Daten sowie die Modalitäten des Zugangs bereitstellen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 19",
+          "chapter": "Artikel 3"
+        },
+        "tags": [
+          "Informationspflichten",
+          "Transparenz"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q10",
+        "text": "Was gilt für vertragliche Klauseln, die das Datenzugangsrecht des Nutzers einschränken?",
+        "options": [
+          "Sie sind immer zulässig",
+          "Sie sind nur bei KMU zulässig",
+          "Sie sind unwirksam",
+          "Sie müssen von einer Behörde genehmigt werden"
+        ],
+        "correctIndex": 2,
+        "explanation": "Vertragliche Bestimmungen, die den Nutzer daran hindern, die Rechte aus dem Data Act wahrzunehmen, sind unwirksam.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 25",
+          "chapter": "Artikel 8"
+        },
+        "tags": [
+          "Vertragsrecht",
+          "Unwirksamkeit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Können öffentliche Stellen Zugang zu Daten von Unternehmen verlangen?",
+        "options": [
+          "Nein, niemals",
+          "Ja, jederzeit ohne Begründung",
+          "Ja, bei außergewöhnlichem Bedarf im öffentlichen Interesse",
+          "Nur mit Zustimmung des Unternehmens"
+        ],
+        "correctIndex": 2,
+        "explanation": "Öffentliche Stellen können bei außergewöhnlichem Bedarf, der zur Erfüllung einer Aufgabe im öffentlichen Interesse erforderlich ist, Zugang zu Daten verlangen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 28-29",
+          "chapter": "Artikel 14"
+        },
+        "tags": [
+          "Öffentliche Stellen",
+          "Datenzugang"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Was ist ein 'Dateninhaber' nach dem Data Act?",
+        "options": [
+          "Nur juristische Personen",
+          "Jeder, der Daten besitzt",
+          "Eine juristische Person mit dem Recht, über bestimmte Daten zu verfügen",
+          "Nur Hersteller vernetzter Produkte"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Dateninhaber ist eine juristische Person, die aufgrund des anwendbaren Rechts oder der Datenverwaltung das Recht hat, über bestimmte Daten zu verfügen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 18",
+          "chapter": "Artikel 2 Nr. 4"
+        },
+        "tags": [
+          "Definitionen",
+          "Dateninhaber"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was sind 'vernetzte Produkte' im Sinne des Data Acts?",
+        "options": [
+          "Nur Smartphones und Computer",
+          "Artikel, die Daten über Nutzung oder Umgebung erheben und übermitteln können",
+          "Produkte mit Internetzugang",
+          "Alle elektronischen Geräte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Vernetzte Produkte sind Artikel, die durch eine elektronische Kommunikationsdienst- oder physische Datenverbindung Daten über ihre Nutzung oder Umgebung erheben, generieren oder erheben und übermitteln können.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 18",
+          "chapter": "Artikel 2 Nr. 2"
+        },
+        "tags": [
+          "Definitionen",
+          "Vernetzte Produkte"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q14",
+        "text": "Welche Anforderung gilt für die Gestaltung vernetzter Produkte?",
+        "options": [
+          "Sie müssen Open Source sein",
+          "Sie müssen standardmäßig Datenzugang ermöglichen (Design by Default)",
+          "Sie müssen in der EU hergestellt werden",
+          "Sie müssen eine Garantie von 5 Jahren haben"
+        ],
+        "correctIndex": 1,
+        "explanation": "Vernetzte Produkte müssen so gestaltet sein, dass die bei ihrer Nutzung erzeugten Daten für den Nutzer standardmäßig leicht, sicher und, soweit anwendbar, direkt zugänglich sind.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 19",
+          "chapter": "Artikel 3 Abs. 1"
+        },
+        "tags": [
+          "Design",
+          "Datenzugang"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist mit 'damit zusammenhängenden Diensten' gemeint?",
+        "options": [
+          "Nur Cloud-Dienste",
+          "Digitale Dienste, die mit dem vernetzten Produkt verbunden sind",
+          "Reparaturdienste",
+          "Verkaufs- und Marketingdienste"
+        ],
+        "correctIndex": 1,
+        "explanation": "Damit zusammenhängende Dienste sind digitale Dienste, die mit dem vernetzten Produkt so verbunden sind, dass ihr Fehlen das vernetzte Produkt daran hindern würde, seine Funktionen zu erfüllen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 18",
+          "chapter": "Artikel 2 Nr. 3"
+        },
+        "tags": [
+          "Definitionen",
+          "Dienste"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Welche Unternehmen gelten als 'Gate keeper' im Kontext des Data Acts?",
+        "options": [
+          "Alle großen Unternehmen",
+          "Unternehmen, die nach dem Digital Markets Act als solche benannt sind",
+          "Alle Cloud-Anbieter",
+          "Telekommunikationsunternehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gatekeepers sind Unternehmen, die gemäß Artikel 3 der Verordnung (EU) 2022/1925 (Digital Markets Act) als solche benannt wurden.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 18",
+          "chapter": "Artikel 2 Nr. 12"
+        },
+        "tags": [
+          "Definitionen",
+          "Gatekeeper"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q17",
+        "text": "Darf ein Dateninhaber den Zugang zu Daten verweigern?",
+        "options": [
+          "Ja, ohne Angabe von Gründen",
+          "Nur in begründeten Ausnahmefällen, z.B. Geschäftsgeheimnisse",
+          "Nein, niemals",
+          "Nur mit gerichtlicher Genehmigung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Dateninhaber kann den Zugang nur in begründeten Fällen verweigern, etwa wenn dies erforderlich ist, um Geschäftsgeheimnisse zu wahren oder technisch unmöglich ist.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 21-22",
+          "chapter": "Artikel 4 Abs. 10"
+        },
+        "tags": [
+          "Datenzugang",
+          "Verweigerung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Was muss der Dateninhaber tun, wenn er den Datenzugang verweigert?",
+        "options": [
+          "Nichts weiter",
+          "Eine Begründung vorlegen",
+          "Eine Entschädigung zahlen",
+          "Eine alternative Datenquelle bereitstellen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Dateninhaber muss eine Begründung für die Verweigerung des Datenzugangs vorlegen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 22",
+          "chapter": "Artikel 4 Abs. 11"
+        },
+        "tags": [
+          "Datenzugang",
+          "Begründungspflicht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q19",
+        "text": "Können Dritte direkt vom Dateninhaber Zugang zu Daten verlangen?",
+        "options": [
+          "Ja, jederzeit",
+          "Ja, aber nur auf Veranlassung des Nutzers",
+          "Nein, niemals",
+          "Nur mit behördlicher Genehmigung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dritte können Zugang zu Daten verlangen, aber nur auf Veranlassung des Nutzers, der das ursprüngliche Recht auf Datenzugang hat.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 22-23",
+          "chapter": "Artikel 5"
+        },
+        "tags": [
+          "Dritte",
+          "Datenzugang"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q20",
+        "text": "Welche Verpflichtung hat ein Datenempfänger bezüglich der erhaltenen Daten?",
+        "options": [
+          "Er kann sie beliebig verwenden",
+          "Er darf sie nicht weitergeben ohne Zustimmung",
+          "Er muss sie nach einem Monat löschen",
+          "Er muss sie verschlüsseln"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Datenempfänger darf die Daten nicht ohne ausdrückliche Zustimmung des Nutzers an einen anderen Dritten weitergeben.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 23",
+          "chapter": "Artikel 5 Abs. 2"
+        },
+        "tags": [
+          "Datenempfänger",
+          "Pflichten"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q21",
+        "text": "Was ist ein 'Anbieterwechsel' (Switching) im Kontext des Data Acts?",
+        "options": [
+          "Wechsel des Internetanbieters",
+          "Wechsel von einem Datenverarbeitungsdienst zu einem anderen",
+          "Wechsel des Mobilfunkanbieters",
+          "Wechsel des Energieversorgers"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anbieterwechsel bezeichnet den Prozess, bei dem ein Kunde von einem Anbieter von Datenverarbeitungsdiensten zu einem anderen Anbieter wechselt.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 33-36",
+          "chapter": "Kapitel V"
+        },
+        "tags": [
+          "Cloud-Switching",
+          "Portabilität"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q22",
+        "text": "Welche Kündigungsfrist gilt für Cloud-Dienste nach dem Data Act?",
+        "options": [
+          "1 Monat",
+          "3 Monate",
+          "Maximal 30 Kalendertage",
+          "6 Monate"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Kündigungsfrist für Datenverarbeitungsdienste darf 30 Kalendertage nicht überschreiten.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 37",
+          "chapter": "Artikel 23 Abs. 1"
+        },
+        "tags": [
+          "Cloud",
+          "Kündigungsfrist"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q23",
+        "text": "Dürfen Anbieter von Cloud-Diensten Gebühren für den Wechsel zu einem anderen Anbieter erheben?",
+        "options": [
+          "Ja, in unbegrenzter Höhe",
+          "Ja, aber nur angemessene und nachvollziehbare Gebühren",
+          "Nein, Wechselgebühren sind verboten",
+          "Nur bei Geschäftskunden"
+        ],
+        "correctIndex": 2,
+        "explanation": "Anbieter dürfen keine Gebühren für Funktionen im Zusammenhang mit dem Anbieterwechsel erheben.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 36",
+          "chapter": "Artikel 23 Abs. 2"
+        },
+        "tags": [
+          "Cloud",
+          "Wechselgebühren"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q24",
+        "text": "Was müssen Anbieter von Datenverarbeitungsdiensten bezüglich Interoperabilität gewährleisten?",
+        "options": [
+          "Nichts Besonderes",
+          "Offene Schnittstellen und Standards",
+          "Kompatibilität nur mit eigenen Produkten",
+          "Kostenlose API-Nutzung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Anbieter müssen offene Schnittstellen bereitstellen und europäische oder internationale Standards verwenden, um effektiven Wechsel und Multi-Cloud-Nutzung zu ermöglichen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 34-35",
+          "chapter": "Artikel 24"
+        },
+        "tags": [
+          "Interoperabilität",
+          "Standards"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q25",
+        "text": "Welche Rolle spielt die Kommission bei der Interoperabilität?",
+        "options": [
+          "Keine",
+          "Sie entwickelt selbst alle Standards",
+          "Sie kann bestimmte Standards als verpflichtend festlegen",
+          "Sie bestraft Unternehmen direkt"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Kommission kann bestimmte europäische oder internationale Standards für die Interoperabilität von Datenverarbeitungsdiensten als verpflichtend festlegen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 35",
+          "chapter": "Artikel 24 Abs. 3"
+        },
+        "tags": [
+          "Standards",
+          "Kommission"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q26",
+        "text": "Was sind 'Geschäftsgeheimnisse' im Kontext des Data Acts?",
+        "options": [
+          "Alle Unternehmensinformationen",
+          "Nur Patente und Marken",
+          "Informationen mit kommerziellem Wert, die geheim gehalten werden",
+          "Personenbezogene Daten von Mitarbeitern"
+        ],
+        "correctIndex": 2,
+        "explanation": "Geschäftsgeheimnisse sind Informationen, die einen kommerziellen Wert haben, weil sie geheim sind, und die Gegenstand angemessener Geheimhaltungsmaßnahmen sind.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 25-26",
+          "chapter": "Artikel 9"
+        },
+        "tags": [
+          "Geschäftsgeheimnisse",
+          "Schutz"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Wer ist für die Durchsetzung des Data Acts in den Mitgliedstaaten zuständig?",
+        "options": [
+          "Die Europäische Kommission direkt",
+          "Zuständige Behörden der Mitgliedstaaten",
+          "Der Europäische Gerichtshof",
+          "Private Schiedsgerichte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jeder Mitgliedstaat benennt eine oder mehrere zuständige Behörden, die für die Durchsetzung der Verordnung verantwortlich sind.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 41",
+          "chapter": "Artikel 31"
+        },
+        "tags": [
+          "Durchsetzung",
+          "Behörden"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q28",
+        "text": "Wie hoch können Geldbußen bei Verstößen gegen den Data Act maximal sein?",
+        "options": [
+          "Bis zu 1% des weltweiten Jahresumsatzes",
+          "Bis zu 2% des weltweiten Jahresumsatzes",
+          "Bis zu 10 Millionen Euro",
+          "Bis zu 20 Millionen Euro"
+        ],
+        "correctIndex": 0,
+        "explanation": "Geldbußen können bis zu 1% des weltweiten Gesamtumsatzes des Unternehmens im vorangegangenen Geschäftsjahr betragen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 43",
+          "chapter": "Artikel 35"
+        },
+        "tags": [
+          "Sanktionen",
+          "Geldbußen"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q29",
+        "text": "Gilt der Data Act auch für personenbezogene Daten?",
+        "options": [
+          "Ja, ausschließlich",
+          "Nein, überhaupt nicht",
+          "Ja, aber die DSGVO hat Vorrang",
+          "Nur für anonymisierte Daten"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Data Act gilt auch für personenbezogene Daten, berührt aber nicht die DSGVO, die bei personenbezogenen Daten weiterhin Anwendung findet.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 18",
+          "chapter": "Artikel 1 Abs. 5"
+        },
+        "tags": [
+          "DSGVO",
+          "Personenbezogene Daten"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Was versteht man unter 'Smart Contracts' im Data Act?",
+        "options": [
+          "Intelligente Verträge auf Papier",
+          "Computerprotokolle in dezentralen Registern zur automatischen Ausführung",
+          "Verträge zwischen KI-Systemen",
+          "Online-Verträge mit digitaler Signatur"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Smart Contract ist ein Computerprotokoll in einem dezentralen Register zur automatischen Ausführung einer Vereinbarung.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 38-40",
+          "chapter": "Kapitel VII"
+        },
+        "tags": [
+          "Smart Contracts",
+          "Blockchain"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q31",
+        "text": "Müssen Smart Contracts nach dem Data Act bestimmte Anforderungen erfüllen?",
+        "options": [
+          "Nein, keine besonderen Anforderungen",
+          "Ja, sie müssen unterbrechbar und beendigbar sein",
+          "Nur wenn sie in der EU entwickelt wurden",
+          "Nur für Transaktionen über 10.000 Euro"
+        ],
+        "correctIndex": 1,
+        "explanation": "Smart Contracts für Datenteilungsvereinbarungen müssen Funktionen zur sicheren Unterbrechung und Beendigung enthalten.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 39",
+          "chapter": "Artikel 30"
+        },
+        "tags": [
+          "Smart Contracts",
+          "Anforderungen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q32",
+        "text": "Was ist bei der Weitergabe von Daten an Drittländer zu beachten?",
+        "options": [
+          "Es ist immer erlaubt",
+          "Es ist grundsätzlich verboten",
+          "Schutzmaßnahmen gegen unrechtmäßigen Zugriff sind erforderlich",
+          "Nur mit Genehmigung der EU-Kommission"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bei internationalen Datentransfers müssen alle angemessenen Maßnahmen getroffen werden, um unrechtmäßigen Zugriff durch Regierungen von Drittländern zu verhindern.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 29-30",
+          "chapter": "Artikel 29"
+        },
+        "tags": [
+          "Internationale Transfers",
+          "Drittländer"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q33",
+        "text": "Was ist ein 'Datenverarbeitungsdienst'?",
+        "options": [
+          "Jeder IT-Service",
+          "Ein digitaler Dienst zur Bereitstellung skalierbarer IT-Kapazitäten",
+          "Nur Cloud-Storage",
+          "Software-Entwicklungsdienstleistungen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Datenverarbeitungsdienst ist ein digitaler Dienst, der die Bereitstellung skalierbarer und elastischer Rechen-, Speicher- oder Netzwerkkapazitäten ermöglicht.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 18",
+          "chapter": "Artikel 2 Nr. 17"
+        },
+        "tags": [
+          "Definitionen",
+          "Cloud"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Gilt der Data Act für Kleinstunternehmen?",
+        "options": [
+          "Ja, ohne Ausnahmen",
+          "Nein, sie sind vollständig ausgenommen",
+          "Ja, aber mit Erleichterungen bei den Verpflichtungen",
+          "Nur wenn sie mehr als 5 Mitarbeiter haben"
+        ],
+        "correctIndex": 2,
+        "explanation": "Kleinstunternehmen müssen die Anforderungen erfüllen, aber es werden ihre besonderen Bedürfnisse berücksichtigt und sie erhalten Unterstützung.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 6",
+          "chapter": "Erwägungsgrund 17"
+        },
+        "tags": [
+          "KMU",
+          "Kleinstunternehmen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Was bedeutet 'B2B-Datenteilung' im Data Act?",
+        "options": [
+          "Business-to-Business Datenaustausch",
+          "Back-to-Back Datensicherung",
+          "Blockchain-to-Blockchain Transfer",
+          "Bank-to-Bank Transaktionen"
+        ],
+        "correctIndex": 0,
+        "explanation": "B2B-Datenteilung bezieht sich auf die Weitergabe von Daten zwischen Unternehmen, insbesondere vom Dateninhaber an einen Datenempfänger.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 25-28",
+          "chapter": "Kapitel IV"
+        },
+        "tags": [
+          "B2B",
+          "Datenteilung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q36",
+        "text": "Können Dateninhaber und Datenempfänger frei über die Bedingungen der Datenteilung verhandeln?",
+        "options": [
+          "Ja, völlig frei",
+          "Ja, aber unter Beachtung fairer Vertragsbedingungen",
+          "Nein, die Bedingungen sind gesetzlich festgelegt",
+          "Nur mit Genehmigung einer Behörde"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Parteien können die Bedingungen frei verhandeln, aber sie müssen fair, angemessen und diskriminierungsfrei sein.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 25-26",
+          "chapter": "Artikel 10"
+        },
+        "tags": [
+          "B2B",
+          "Vertragsfreiheit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Was gilt für die Nutzung von Daten durch öffentliche Stellen?",
+        "options": [
+          "Sie können die Daten beliebig nutzen",
+          "Sie dürfen die Daten nur für den ursprünglichen Zweck nutzen",
+          "Sie müssen die Daten nach 30 Tagen löschen",
+          "Sie dürfen die Daten verkaufen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Öffentliche Stellen dürfen die Daten nur für den spezifischen Zweck nutzen, für den sie angefordert wurden.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 30",
+          "chapter": "Artikel 15"
+        },
+        "tags": [
+          "Öffentliche Stellen",
+          "Datennutzung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q38",
+        "text": "Wie müssen Daten bereitgestellt werden?",
+        "options": [
+          "Nur als PDF",
+          "In einem strukturierten, gängigen und maschinenlesbaren Format",
+          "Nur auf physischen Datenträgern",
+          "Als Papierausdruck"
+        ],
+        "correctIndex": 1,
+        "explanation": "Daten müssen in einem strukturierten, gängigen und maschinenlesbaren Format bereitgestellt werden.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 21",
+          "chapter": "Artikel 4 Abs. 5"
+        },
+        "tags": [
+          "Datenformat",
+          "Interoperabilität"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q39",
+        "text": "Was ist eine 'Datenübermittlung' im Sinne des Data Acts?",
+        "options": [
+          "Nur physischer Transport von Datenträgern",
+          "Die Bereitstellung von Daten durch den Dateninhaber",
+          "E-Mail-Versand",
+          "Cloud-Synchronisierung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Datenübermittlung ist die Bereitstellung von Daten durch den Dateninhaber an einen Nutzer oder Datenempfänger gemäß den Bestimmungen der Verordnung.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 18",
+          "chapter": "Artikel 2"
+        },
+        "tags": [
+          "Definitionen",
+          "Datenübermittlung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q40",
+        "text": "Welche Informationen müssen Hersteller über Datenzugang bereitstellen?",
+        "options": [
+          "Nur die Datenmenge",
+          "Art, Format, Volumen und Zugangsmodalitäten der Daten",
+          "Nur die Speicherdauer",
+          "Keine Informationen erforderlich"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hersteller müssen Informationen über Art, Format, ungefähres Volumen und die Modalitäten des Zugangs zu den Daten bereitstellen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 19-20",
+          "chapter": "Artikel 3 Abs. 2"
+        },
+        "tags": [
+          "Informationspflichten",
+          "Hersteller"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q41",
+        "text": "Können Nutzer den Datenzugang für einen Dritten automatisieren?",
+        "options": [
+          "Nein, das ist nicht erlaubt",
+          "Ja, durch APIs oder ähnliche Mittel",
+          "Nur mit schriftlicher Genehmigung",
+          "Nur einmal im Monat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nutzer können den direkten Zugang von Dritten zu Daten durch APIs oder ähnliche Mittel ermöglichen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 23",
+          "chapter": "Artikel 5 Abs. 5"
+        },
+        "tags": [
+          "APIs",
+          "Automatisierung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q42",
+        "text": "Was gilt für Wettbewerber des Dateninhabers?",
+        "options": [
+          "Sie haben keinen Anspruch auf Daten",
+          "Sie können Zugang als Dritte erhalten, wenn der Nutzer zustimmt",
+          "Sie müssen immer Zugang erhalten",
+          "Sie brauchen eine behördliche Genehmigung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Auch Wettbewerber können als Dritte Zugang zu Daten erhalten, wenn der Nutzer dies wünscht, aber es gelten besondere Schutzmaßnahmen für Geschäftsgeheimnisse.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 23",
+          "chapter": "Artikel 5"
+        },
+        "tags": [
+          "Wettbewerber",
+          "Datenzugang"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q43",
+        "text": "Was ist eine 'technische Schutzvorkehrung' nach dem Data Act?",
+        "options": [
+          "Physische Sicherheitsmaßnahmen",
+          "Maßnahmen zum Schutz vor unbefugtem Zugriff auf Daten",
+          "Firewall-Systeme",
+          "Passwörter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Technische Schutzvorkehrungen sind Maßnahmen wie Verschlüsselung, die den unbefugten Zugriff auf Daten verhindern sollen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 27",
+          "chapter": "Artikel 12"
+        },
+        "tags": [
+          "Sicherheit",
+          "Schutzmaßnahmen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q44",
+        "text": "Welche Rolle spielt der 'außergewöhnliche Bedarf' bei öffentlichen Stellen?",
+        "options": [
+          "Keine besondere Rolle",
+          "Es muss eine Notsituation oder dringender Bedarf vorliegen",
+          "Jede Anfrage gilt als außergewöhnlich",
+          "Nur bei Naturkatastrophen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Öffentliche Stellen können nur bei außergewöhnlichem Bedarf, wie öffentlichen Notlagen oder erheblichen Effizienzgewinnen, Zugang verlangen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 28-29",
+          "chapter": "Artikel 14 Abs. 1"
+        },
+        "tags": [
+          "Öffentliche Stellen",
+          "Außergewöhnlicher Bedarf"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Können öffentliche Stellen für die erhaltenen Daten bezahlen müssen?",
+        "options": [
+          "Nein, niemals",
+          "Ja, immer",
+          "Ja, eine angemessene Vergütung ist möglich",
+          "Nur bei privaten Unternehmen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Öffentliche Stellen können eine angemessene Vergütung für die Bereitstellung der Daten zahlen müssen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 30",
+          "chapter": "Artikel 15"
+        },
+        "tags": [
+          "Öffentliche Stellen",
+          "Vergütung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q46",
+        "text": "Was ist das Ziel der Bestimmungen zum Cloud-Wechsel?",
+        "options": [
+          "Monopole zu schaffen",
+          "Vendor Lock-in zu verhindern",
+          "Cloud-Anbieter zu schützen",
+          "Die Cloud-Nutzung zu verbieten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Bestimmungen sollen verhindern, dass Kunden durch technische oder vertragliche Barrieren an einen Cloud-Anbieter gebunden sind (Vendor Lock-in).",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 12-13",
+          "chapter": "Erwägungsgrund 74"
+        },
+        "tags": [
+          "Cloud",
+          "Vendor Lock-in"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q47",
+        "text": "Welche Frist gilt für die Datenübertragung beim Cloud-Wechsel?",
+        "options": [
+          "Sofort",
+          "Innerhalb von 7 Tagen",
+          "Innerhalb von 30 Tagen nach Vertragsende",
+          "Innerhalb von 3 Monaten"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Anbieter muss eine Übertragung der Daten innerhalb von 30 Kalendertagen nach Vertragsende ermöglichen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 36",
+          "chapter": "Artikel 23"
+        },
+        "tags": [
+          "Cloud",
+          "Datenübertragung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q48",
+        "text": "Was müssen Cloud-Anbieter über Wechselkosten offenlegen?",
+        "options": [
+          "Nichts",
+          "Alle potenziellen Kosten vor Vertragsabschluss",
+          "Nur auf Anfrage",
+          "Nur bei Kündigung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cloud-Anbieter müssen vor Vertragsabschluss transparent über alle möglichen Kosten und Hindernisse beim Anbieterwechsel informieren.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 36",
+          "chapter": "Artikel 22"
+        },
+        "tags": [
+          "Cloud",
+          "Transparenz"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q49",
+        "text": "Was ist eine 'Multi-Cloud-Nutzung'?",
+        "options": [
+          "Nutzung mehrerer Cloud-Services gleichzeitig",
+          "Speicherung in der Wolke",
+          "Private Cloud-Lösung",
+          "Cloud-Backup"
+        ],
+        "correctIndex": 0,
+        "explanation": "Multi-Cloud-Nutzung bedeutet, dass Kunden Dienste mehrerer Cloud-Anbieter parallel nutzen können.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 34",
+          "chapter": "Artikel 24"
+        },
+        "tags": [
+          "Cloud",
+          "Multi-Cloud"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q50",
+        "text": "Welche Behörde überwacht die Einhaltung des Data Acts auf europäischer Ebene?",
+        "options": [
+          "Der Europäische Datenschutzbeauftragte",
+          "Die Europäische Kommission",
+          "Der Europäische Gerichtshof",
+          "Die Europäische Zentralbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Europäische Kommission überwacht die Anwendung der Verordnung und kann Leitlinien erlassen.",
+        "source": {
+          "citation": "Data Act - Verordnung (EU) 2023/2854",
+          "pages": "S. 44-45",
+          "chapter": "Artikel 37-38"
+        },
+        "tags": [
+          "Durchsetzung",
+          "Kommission"
+        ],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}
