@@ -26,9 +26,9 @@
         "text": "Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -72,9 +72,9 @@
         "text": "Frage 3: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -94,10 +94,10 @@
         "id": "q4",
         "text": "Frage 4: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -118,9 +118,9 @@
         "text": "Frage 5: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -140,10 +140,10 @@
         "id": "q6",
         "text": "Frage 6: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -164,9 +164,9 @@
         "text": "Frage 7: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -186,10 +186,10 @@
         "id": "q8",
         "text": "Frage 8: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -210,9 +210,9 @@
         "text": "Frage 9: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -232,10 +232,10 @@
         "id": "q10",
         "text": "Frage 10: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -256,9 +256,9 @@
         "text": "Frage 11: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -278,10 +278,10 @@
         "id": "q12",
         "text": "Frage 12: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -302,9 +302,9 @@
         "text": "Frage 13: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -324,10 +324,10 @@
         "id": "q14",
         "text": "Frage 14: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -348,9 +348,9 @@
         "text": "Frage 15: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -370,10 +370,10 @@
         "id": "q16",
         "text": "Frage 16: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -394,9 +394,9 @@
         "text": "Frage 17: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -416,10 +416,10 @@
         "id": "q18",
         "text": "Frage 18: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -440,9 +440,9 @@
         "text": "Frage 19: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -462,10 +462,10 @@
         "id": "q20",
         "text": "Frage 20: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -486,9 +486,9 @@
         "text": "Frage 21: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -508,10 +508,10 @@
         "id": "q22",
         "text": "Frage 22: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -532,9 +532,9 @@
         "text": "Frage 23: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -554,10 +554,10 @@
         "id": "q24",
         "text": "Frage 24: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -578,9 +578,9 @@
         "text": "Frage 25: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -600,10 +600,10 @@
         "id": "q26",
         "text": "Frage 26: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -624,9 +624,9 @@
         "text": "Frage 27: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -646,10 +646,10 @@
         "id": "q28",
         "text": "Frage 28: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -670,9 +670,9 @@
         "text": "Frage 29: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -692,10 +692,10 @@
         "id": "q30",
         "text": "Frage 30: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -716,9 +716,9 @@
         "text": "Frage 31: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -738,10 +738,10 @@
         "id": "q32",
         "text": "Frage 32: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -762,9 +762,9 @@
         "text": "Frage 33: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -784,10 +784,10 @@
         "id": "q34",
         "text": "Frage 34: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -808,9 +808,9 @@
         "text": "Frage 35: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -830,10 +830,10 @@
         "id": "q36",
         "text": "Frage 36: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -854,9 +854,9 @@
         "text": "Frage 37: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -876,10 +876,10 @@
         "id": "q38",
         "text": "Frage 38: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -900,9 +900,9 @@
         "text": "Frage 39: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -922,10 +922,10 @@
         "id": "q40",
         "text": "Frage 40: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -946,9 +946,9 @@
         "text": "Frage 41: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -968,10 +968,10 @@
         "id": "q42",
         "text": "Frage 42: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -992,9 +992,9 @@
         "text": "Frage 43: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -1014,10 +1014,10 @@
         "id": "q44",
         "text": "Frage 44: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -1038,9 +1038,9 @@
         "text": "Frage 45: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -1060,10 +1060,10 @@
         "id": "q46",
         "text": "Frage 46: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -1084,9 +1084,9 @@
         "text": "Frage 47: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -1106,10 +1106,10 @@
         "id": "q48",
         "text": "Frage 48: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -1130,9 +1130,9 @@
         "text": "Frage 49: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "An natürlichen Felsen",
-          "An Outdoor-Bouldern ohne Absperrung",
-          "Auf Indoor-Fitnessgeräten"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -1152,10 +1152,10 @@
         "id": "q50",
         "text": "Frage 50: Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
-          "Eine Lösung für 12",
-          "Eine Lösung für 10",
-          "Eine Lösung für 8",
-          "Eine Lösung für 15"
+          "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",

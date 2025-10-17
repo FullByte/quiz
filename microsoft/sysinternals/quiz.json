@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was sind Microsoft Sysinternals?",
         "options": [
-          "Ein Betriebssystem",
+          "Ein verwandtes Microsoft-Tool",
           "Eine Sammlung von erweiterten Systemverwaltungstools für Windows",
-          "Eine Programmiersprache",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Sysinternals sind eine Sammlung von erweiterten Systemverwaltungstools, die von Mark Russinovich entwickelt wurden und tiefe Einblicke in Windows-Systeme bieten.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Wer hat die Sysinternals-Tools ursprünglich entwickelt?",
         "options": [
-          "Bill Gates",
+          "Eine ähnliche Alternative",
           "Mark Russinovich",
-          "Steve Ballmer",
-          "Satya Nadella"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Mark Russinovich hat die Sysinternals-Tools ursprünglich entwickelt, bevor Microsoft die Tools und das Team übernommen hat.",
@@ -71,10 +71,10 @@
         "id": "q3",
         "text": "Was ist Process Explorer?",
         "options": [
-          "Ein Backup-Tool",
+          "Eine ähnliche Alternative",
           "Ein erweitertes Task-Manager-Tool für die Prozessverwaltung",
-          "Ein Netzwerk-Monitor",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Process Explorer ist ein erweitertes Task-Manager-Tool, das detaillierte Informationen über laufende Prozesse, deren Abhängigkeiten und Ressourcenverbrauch zeigt.",
@@ -94,10 +94,10 @@
         "id": "q4",
         "text": "Was ist Autoruns?",
         "options": [
-          "Ein Backup-Tool",
+          "Eine ähnliche Alternative",
           "Ein Tool zur Verwaltung von Programmen, die beim Systemstart automatisch geladen werden",
-          "Ein Netzwerk-Monitor",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Autoruns zeigt und verwaltet alle Programme, Services und Treiber, die beim Windows-Start automatisch geladen werden, einschließlich versteckter Einträge.",
@@ -117,10 +117,10 @@
         "id": "q5",
         "text": "Was ist Process Monitor?",
         "options": [
-          "Ein Backup-Tool",
+          "Eine ähnliche Alternative",
           "Ein Tool zur Überwachung von Datei-, Registry- und Prozessaktivitäten in Echtzeit",
-          "Ein Netzwerk-Monitor",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Process Monitor überwacht Datei-, Registry- und Prozessaktivitäten in Echtzeit und hilft bei der Diagnose von Systemproblemen und Malware-Analyse.",
@@ -140,10 +140,10 @@
         "id": "q6",
         "text": "Was ist TCPView?",
         "options": [
-          "Ein Backup-Tool",
+          "Eine ähnliche Alternative",
           "Ein Tool zur Anzeige von TCP- und UDP-Verbindungen und deren Status",
-          "Ein Registry-Editor",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "TCPView zeigt alle aktiven TCP- und UDP-Verbindungen an, inklusive der Prozesse, die diese Verbindungen verwenden, und deren Status.",
@@ -164,10 +164,10 @@
         "id": "q7",
         "text": "Was ist Registry Monitor?",
         "options": [
-          "Ein Backup-Tool",
+          "Eine ähnliche Alternative",
           "Ein Tool zur Überwachung von Registry-Änderungen in Echtzeit",
-          "Ein Netzwerk-Monitor",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Registry Monitor überwacht Registry-Änderungen in Echtzeit und zeigt, welche Prozesse Registry-Schlüssel lesen, schreiben oder löschen.",
@@ -187,10 +187,10 @@
         "id": "q8",
         "text": "Was ist PsExec?",
         "options": [
-          "Ein Backup-Tool",
+          "Eine ähnliche Alternative",
           "Ein Tool zur Ausführung von Prozessen auf Remote-Systemen",
-          "Ein Registry-Editor",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PsExec ermöglicht die Ausführung von Prozessen auf Remote-Systemen über das Netzwerk, ähnlich wie telnet, aber mit vollständiger Konsole.",
@@ -210,10 +210,10 @@
         "id": "q9",
         "text": "Was ist DiskMon?",
         "options": [
-          "Ein Backup-Tool",
+          "Eine ähnliche Alternative",
           "Ein Tool zur Überwachung von Festplattenaktivitäten in Echtzeit",
-          "Ein Registry-Editor",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "DiskMon überwacht Festplattenaktivitäten in Echtzeit und zeigt Lese- und Schreibvorgänge auf verschiedenen Laufwerken an.",
@@ -233,10 +233,10 @@
         "id": "q10",
         "text": "Welche Lizenzierung haben die Sysinternals-Tools?",
         "options": [
-          "Kommerziell lizenziert",
+          "Eine ähnliche Alternative",
           "Kostenlos für persönliche und kommerzielle Nutzung",
-          "Nur für Microsoft-Kunden",
-          "Nur für Bildungszwecke"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Sysinternals-Tools sind kostenlos für persönliche und kommerzielle Nutzung verfügbar, ohne Lizenzkosten oder Einschränkungen.",
@@ -256,10 +256,10 @@
         "id": "q11",
         "text": "Was ist Process Monitor (ProcMon)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Tool zur Überwachung von Datei-, Registry- und Prozess-Aktivitäten",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Process Monitor (ProcMon) überwacht in Echtzeit Datei-, Registry- und Prozess-Aktivitäten für Troubleshooting und Systemanalyse.",
@@ -279,10 +279,10 @@
         "id": "q12",
         "text": "Was ist Autoruns?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Tool zur Verwaltung von Autostart-Programmen und -Diensten",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Autoruns zeigt und verwaltet alle Programme und Dienste, die beim Systemstart automatisch geladen werden.",
@@ -302,10 +302,10 @@
         "id": "q13",
         "text": "Was ist Process Explorer?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein erweiterter Task Manager mit detaillierten Prozessinformationen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Process Explorer ist ein erweiterter Task Manager, der detaillierte Informationen über Prozesse, DLLs und Handles anzeigt.",
@@ -325,10 +325,10 @@
         "id": "q14",
         "text": "Was ist Handle?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Tool zur Anzeige von geöffneten Dateien und Objekten durch Prozesse",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Handle zeigt alle geöffneten Dateien, Registry-Keys und andere Objekte an, die von Prozessen verwendet werden.",
@@ -348,10 +348,10 @@
         "id": "q15",
         "text": "Was ist TCPView?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Tool zur Anzeige von TCP- und UDP-Verbindungen in Echtzeit",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "TCPView zeigt alle aktiven TCP- und UDP-Verbindungen in Echtzeit mit den zugehörigen Prozessen an.",
@@ -372,10 +372,10 @@
         "id": "q16",
         "text": "Was ist PsExec?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Tool zur Ausführung von Programmen auf Remote-Systemen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PsExec ermöglicht die Ausführung von Programmen auf Remote-Systemen über das Netzwerk mit verschiedenen Authentifizierungsoptionen.",
@@ -395,10 +395,10 @@
         "id": "q17",
         "text": "Was ist PsInfo?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Tool zur Anzeige detaillierter Systeminformationen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PsInfo zeigt detaillierte Systeminformationen wie Betriebssystem, Hardware und installierte Software an.",
@@ -418,10 +418,10 @@
         "id": "q18",
         "text": "Was ist PsList?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Tool zur Anzeige von Prozess- und Thread-Informationen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PsList zeigt detaillierte Informationen über Prozesse und Threads an, einschließlich CPU- und Speichernutzung.",
@@ -441,10 +441,10 @@
         "id": "q19",
         "text": "Was ist PsKill?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandter KI-Algorithmus",
           "Ein Tool zum Beenden von Prozessen lokal und remote",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "PsKill ermöglicht das Beenden von Prozessen sowohl lokal als auch auf Remote-Systemen mit verschiedenen Optionen.",
@@ -464,10 +464,10 @@
         "id": "q20",
         "text": "Was ist PsService?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Tool zur Verwaltung von Windows-Diensten",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PsService ermöglicht die Verwaltung von Windows-Diensten, einschließlich Start, Stop und Konfiguration.",
@@ -487,10 +487,10 @@
         "id": "q21",
         "text": "Was ist Grundlagen in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für grundlagen und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Grundlagen ist ein wichtiger Service in Microsoft Sysinternals, der grundlagen und verwandte Funktionen bereitstellt.",
@@ -510,10 +510,10 @@
         "id": "q22",
         "text": "Was ist Konfiguration in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für konfiguration und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Konfiguration ist ein wichtiger Service in Microsoft Sysinternals, der konfiguration und verwandte Funktionen bereitstellt.",
@@ -533,10 +533,10 @@
         "id": "q23",
         "text": "Was ist Verwaltung in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für verwaltung und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Verwaltung ist ein wichtiger Service in Microsoft Sysinternals, der verwaltung und verwandte Funktionen bereitstellt.",
@@ -556,10 +556,10 @@
         "id": "q24",
         "text": "Was ist Sicherheit in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für sicherheit und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Sicherheit ist ein wichtiger Service in Microsoft Sysinternals, der sicherheit und verwandte Funktionen bereitstellt.",
@@ -579,10 +579,10 @@
         "id": "q25",
         "text": "Was ist Performance in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für performance und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Performance ist ein wichtiger Service in Microsoft Sysinternals, der performance und verwandte Funktionen bereitstellt.",
@@ -602,10 +602,10 @@
         "id": "q26",
         "text": "Was ist Skalierung in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für skalierung und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Skalierung ist ein wichtiger Service in Microsoft Sysinternals, der skalierung und verwandte Funktionen bereitstellt.",
@@ -625,10 +625,10 @@
         "id": "q27",
         "text": "Was ist Monitoring in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für monitoring und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Monitoring ist ein wichtiger Service in Microsoft Sysinternals, der monitoring und verwandte Funktionen bereitstellt.",
@@ -648,10 +648,10 @@
         "id": "q28",
         "text": "Was ist Logging in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche rechtliche Bestimmung",
           "Ein Service für logging und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Logging ist ein wichtiger Service in Microsoft Sysinternals, der logging und verwandte Funktionen bereitstellt.",
@@ -671,10 +671,10 @@
         "id": "q29",
         "text": "Was ist Backup in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für backup und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Backup ist ein wichtiger Service in Microsoft Sysinternals, der backup und verwandte Funktionen bereitstellt.",
@@ -694,10 +694,10 @@
         "id": "q30",
         "text": "Was ist Recovery in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für recovery und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Recovery ist ein wichtiger Service in Microsoft Sysinternals, der recovery und verwandte Funktionen bereitstellt.",
@@ -717,10 +717,10 @@
         "id": "q31",
         "text": "Was ist Disaster Recovery in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für disaster recovery und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Disaster Recovery ist ein wichtiger Service in Microsoft Sysinternals, der disaster recovery und verwandte Funktionen bereitstellt.",
@@ -740,10 +740,10 @@
         "id": "q32",
         "text": "Was ist High Availability in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für high availability und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "High Availability ist ein wichtiger Service in Microsoft Sysinternals, der high availability und verwandte Funktionen bereitstellt.",
@@ -763,10 +763,10 @@
         "id": "q33",
         "text": "Was ist Load Balancing in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für load balancing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Load Balancing ist ein wichtiger Service in Microsoft Sysinternals, der load balancing und verwandte Funktionen bereitstellt.",
@@ -786,10 +786,10 @@
         "id": "q34",
         "text": "Was ist Caching in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für caching und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Caching ist ein wichtiger Service in Microsoft Sysinternals, der caching und verwandte Funktionen bereitstellt.",
@@ -809,10 +809,10 @@
         "id": "q35",
         "text": "Was ist Optimierung in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für optimierung und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Optimierung ist ein wichtiger Service in Microsoft Sysinternals, der optimierung und verwandte Funktionen bereitstellt.",
@@ -832,10 +832,10 @@
         "id": "q36",
         "text": "Was ist Integration in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für integration und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Integration ist ein wichtiger Service in Microsoft Sysinternals, der integration und verwandte Funktionen bereitstellt.",
@@ -855,10 +855,10 @@
         "id": "q37",
         "text": "Was ist APIs in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für apis und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "APIs ist ein wichtiger Service in Microsoft Sysinternals, der apis und verwandte Funktionen bereitstellt.",
@@ -878,10 +878,10 @@
         "id": "q38",
         "text": "Was ist SDKs in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für sdks und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "SDKs ist ein wichtiger Service in Microsoft Sysinternals, der sdks und verwandte Funktionen bereitstellt.",
@@ -901,10 +901,10 @@
         "id": "q39",
         "text": "Was ist CLI in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für cli und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "CLI ist ein wichtiger Service in Microsoft Sysinternals, der cli und verwandte Funktionen bereitstellt.",
@@ -924,10 +924,10 @@
         "id": "q40",
         "text": "Was ist PowerShell in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für powershell und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell ist ein wichtiger Service in Microsoft Sysinternals, der powershell und verwandte Funktionen bereitstellt.",
@@ -947,10 +947,10 @@
         "id": "q41",
         "text": "Was ist Templates in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für templates und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Templates ist ein wichtiger Service in Microsoft Sysinternals, der templates und verwandte Funktionen bereitstellt.",
@@ -970,10 +970,10 @@
         "id": "q42",
         "text": "Was ist Automation in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für automation und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Automation ist ein wichtiger Service in Microsoft Sysinternals, der automation und verwandte Funktionen bereitstellt.",
@@ -993,10 +993,10 @@
         "id": "q43",
         "text": "Was ist DevOps in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für devops und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "DevOps ist ein wichtiger Service in Microsoft Sysinternals, der devops und verwandte Funktionen bereitstellt.",
@@ -1016,10 +1016,10 @@
         "id": "q44",
         "text": "Was ist CI/CD in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für ci/cd und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "CI/CD ist ein wichtiger Service in Microsoft Sysinternals, der ci/cd und verwandte Funktionen bereitstellt.",
@@ -1039,10 +1039,10 @@
         "id": "q45",
         "text": "Was ist Deployment in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für deployment und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Deployment ist ein wichtiger Service in Microsoft Sysinternals, der deployment und verwandte Funktionen bereitstellt.",
@@ -1062,10 +1062,10 @@
         "id": "q46",
         "text": "Was ist Testing in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für testing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Testing ist ein wichtiger Service in Microsoft Sysinternals, der testing und verwandte Funktionen bereitstellt.",
@@ -1085,10 +1085,10 @@
         "id": "q47",
         "text": "Was ist Debugging in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche rechtliche Bestimmung",
           "Ein Service für debugging und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Debugging ist ein wichtiger Service in Microsoft Sysinternals, der debugging und verwandte Funktionen bereitstellt.",
@@ -1108,10 +1108,10 @@
         "id": "q48",
         "text": "Was ist Troubleshooting in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für troubleshooting und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Troubleshooting ist ein wichtiger Service in Microsoft Sysinternals, der troubleshooting und verwandte Funktionen bereitstellt.",
@@ -1131,10 +1131,10 @@
         "id": "q49",
         "text": "Was ist Best Practices in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für best practices und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Best Practices ist ein wichtiger Service in Microsoft Sysinternals, der best practices und verwandte Funktionen bereitstellt.",
@@ -1154,10 +1154,10 @@
         "id": "q50",
         "text": "Was ist Architecture in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für architecture und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Architecture ist ein wichtiger Service in Microsoft Sysinternals, der architecture und verwandte Funktionen bereitstellt.",
@@ -1177,10 +1177,10 @@
         "id": "q51",
         "text": "Was ist Design Patterns in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für design patterns und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Design Patterns ist ein wichtiger Service in Microsoft Sysinternals, der design patterns und verwandte Funktionen bereitstellt.",
@@ -1200,10 +1200,10 @@
         "id": "q52",
         "text": "Was ist Microservices in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für microservices und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Microservices ist ein wichtiger Service in Microsoft Sysinternals, der microservices und verwandte Funktionen bereitstellt.",
@@ -1223,10 +1223,10 @@
         "id": "q53",
         "text": "Was ist Containers in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für containers und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Containers ist ein wichtiger Service in Microsoft Sysinternals, der containers und verwandte Funktionen bereitstellt.",
@@ -1246,10 +1246,10 @@
         "id": "q54",
         "text": "Was ist Kubernetes in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für kubernetes und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Kubernetes ist ein wichtiger Service in Microsoft Sysinternals, der kubernetes und verwandte Funktionen bereitstellt.",
@@ -1269,10 +1269,10 @@
         "id": "q55",
         "text": "Was ist Docker in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für docker und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Docker ist ein wichtiger Service in Microsoft Sysinternals, der docker und verwandte Funktionen bereitstellt.",
@@ -1292,10 +1292,10 @@
         "id": "q56",
         "text": "Was ist Networking in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für networking und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Networking ist ein wichtiger Service in Microsoft Sysinternals, der networking und verwandte Funktionen bereitstellt.",
@@ -1315,10 +1315,10 @@
         "id": "q57",
         "text": "Was ist Storage in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für storage und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Storage ist ein wichtiger Service in Microsoft Sysinternals, der storage und verwandte Funktionen bereitstellt.",
@@ -1338,10 +1338,10 @@
         "id": "q58",
         "text": "Was ist Database in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für database und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Database ist ein wichtiger Service in Microsoft Sysinternals, der database und verwandte Funktionen bereitstellt.",
@@ -1361,10 +1361,10 @@
         "id": "q59",
         "text": "Was ist Authentication in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für authentication und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Authentication ist ein wichtiger Service in Microsoft Sysinternals, der authentication und verwandte Funktionen bereitstellt.",
@@ -1384,10 +1384,10 @@
         "id": "q60",
         "text": "Was ist Authorization in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für authorization und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Authorization ist ein wichtiger Service in Microsoft Sysinternals, der authorization und verwandte Funktionen bereitstellt.",
@@ -1407,10 +1407,10 @@
         "id": "q61",
         "text": "Was ist Compliance in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für compliance und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Compliance ist ein wichtiger Service in Microsoft Sysinternals, der compliance und verwandte Funktionen bereitstellt.",
@@ -1430,10 +1430,10 @@
         "id": "q62",
         "text": "Was ist Governance in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für governance und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Governance ist ein wichtiger Service in Microsoft Sysinternals, der governance und verwandte Funktionen bereitstellt.",
@@ -1453,10 +1453,10 @@
         "id": "q63",
         "text": "Was ist Cost Management in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für cost management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Cost Management ist ein wichtiger Service in Microsoft Sysinternals, der cost management und verwandte Funktionen bereitstellt.",
@@ -1476,10 +1476,10 @@
         "id": "q64",
         "text": "Was ist Resource Management in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für resource management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Resource Management ist ein wichtiger Service in Microsoft Sysinternals, der resource management und verwandte Funktionen bereitstellt.",
@@ -1499,10 +1499,10 @@
         "id": "q65",
         "text": "Was ist Tagging in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche rechtliche Bestimmung",
           "Ein Service für tagging und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Tagging ist ein wichtiger Service in Microsoft Sysinternals, der tagging und verwandte Funktionen bereitstellt.",
@@ -1522,10 +1522,10 @@
         "id": "q66",
         "text": "Was ist Policies in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für policies und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Policies ist ein wichtiger Service in Microsoft Sysinternals, der policies und verwandte Funktionen bereitstellt.",
@@ -1545,10 +1545,10 @@
         "id": "q67",
         "text": "Was ist Blueprints in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für blueprints und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Blueprints ist ein wichtiger Service in Microsoft Sysinternals, der blueprints und verwandte Funktionen bereitstellt.",
@@ -1568,10 +1568,10 @@
         "id": "q68",
         "text": "Was ist RBAC in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für rbac und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "RBAC ist ein wichtiger Service in Microsoft Sysinternals, der rbac und verwandte Funktionen bereitstellt.",
@@ -1591,10 +1591,10 @@
         "id": "q69",
         "text": "Was ist IAM in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für iam und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "IAM ist ein wichtiger Service in Microsoft Sysinternals, der iam und verwandte Funktionen bereitstellt.",
@@ -1614,10 +1614,10 @@
         "id": "q70",
         "text": "Was ist Secrets Management in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für secrets management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Secrets Management ist ein wichtiger Service in Microsoft Sysinternals, der secrets management und verwandte Funktionen bereitstellt.",
@@ -1637,10 +1637,10 @@
         "id": "q71",
         "text": "Was ist Key Management in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für key management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Key Management ist ein wichtiger Service in Microsoft Sysinternals, der key management und verwandte Funktionen bereitstellt.",
@@ -1660,10 +1660,10 @@
         "id": "q72",
         "text": "Was ist Certificate Management in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für certificate management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Certificate Management ist ein wichtiger Service in Microsoft Sysinternals, der certificate management und verwandte Funktionen bereitstellt.",
@@ -1683,10 +1683,10 @@
         "id": "q73",
         "text": "Was ist Encryption in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für encryption und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Encryption ist ein wichtiger Service in Microsoft Sysinternals, der encryption und verwandte Funktionen bereitstellt.",
@@ -1706,10 +1706,10 @@
         "id": "q74",
         "text": "Was ist Decryption in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für decryption und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Decryption ist ein wichtiger Service in Microsoft Sysinternals, der decryption und verwandte Funktionen bereitstellt.",
@@ -1729,10 +1729,10 @@
         "id": "q75",
         "text": "Was ist Hashing in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für hashing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Hashing ist ein wichtiger Service in Microsoft Sysinternals, der hashing und verwandte Funktionen bereitstellt.",
@@ -1752,10 +1752,10 @@
         "id": "q76",
         "text": "Was ist Signing in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für signing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Signing ist ein wichtiger Service in Microsoft Sysinternals, der signing und verwandte Funktionen bereitstellt.",
@@ -1775,10 +1775,10 @@
         "id": "q77",
         "text": "Was ist Verification in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für verification und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Verification ist ein wichtiger Service in Microsoft Sysinternals, der verification und verwandte Funktionen bereitstellt.",
@@ -1798,10 +1798,10 @@
         "id": "q78",
         "text": "Was ist Auditing in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für auditing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Auditing ist ein wichtiger Service in Microsoft Sysinternals, der auditing und verwandte Funktionen bereitstellt.",
@@ -1821,10 +1821,10 @@
         "id": "q79",
         "text": "Was ist Reporting in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für reporting und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Reporting ist ein wichtiger Service in Microsoft Sysinternals, der reporting und verwandte Funktionen bereitstellt.",
@@ -1844,10 +1844,10 @@
         "id": "q80",
         "text": "Was ist Analytics in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für analytics und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Analytics ist ein wichtiger Service in Microsoft Sysinternals, der analytics und verwandte Funktionen bereitstellt.",
@@ -1867,10 +1867,10 @@
         "id": "q81",
         "text": "Was ist Machine Learning in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für machine learning und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Machine Learning ist ein wichtiger Service in Microsoft Sysinternals, der machine learning und verwandte Funktionen bereitstellt.",
@@ -1890,10 +1890,10 @@
         "id": "q82",
         "text": "Was ist Artificial Intelligence in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für artificial intelligence und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Artificial Intelligence ist ein wichtiger Service in Microsoft Sysinternals, der artificial intelligence und verwandte Funktionen bereitstellt.",
@@ -1913,10 +1913,10 @@
         "id": "q83",
         "text": "Was ist Data Science in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für data science und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Data Science ist ein wichtiger Service in Microsoft Sysinternals, der data science und verwandte Funktionen bereitstellt.",
@@ -1936,10 +1936,10 @@
         "id": "q84",
         "text": "Was ist Big Data in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für big data und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Big Data ist ein wichtiger Service in Microsoft Sysinternals, der big data und verwandte Funktionen bereitstellt.",
@@ -1959,10 +1959,10 @@
         "id": "q85",
         "text": "Was ist Streaming in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für streaming und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Streaming ist ein wichtiger Service in Microsoft Sysinternals, der streaming und verwandte Funktionen bereitstellt.",
@@ -1982,10 +1982,10 @@
         "id": "q86",
         "text": "Was ist Event Processing in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für event processing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Event Processing ist ein wichtiger Service in Microsoft Sysinternals, der event processing und verwandte Funktionen bereitstellt.",
@@ -2005,10 +2005,10 @@
         "id": "q87",
         "text": "Was ist Message Queues in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für message queues und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Message Queues ist ein wichtiger Service in Microsoft Sysinternals, der message queues und verwandte Funktionen bereitstellt.",
@@ -2028,10 +2028,10 @@
         "id": "q88",
         "text": "Was ist Service Bus in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für service bus und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Service Bus ist ein wichtiger Service in Microsoft Sysinternals, der service bus und verwandte Funktionen bereitstellt.",
@@ -2051,10 +2051,10 @@
         "id": "q89",
         "text": "Was ist Event Grid in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für event grid und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Event Grid ist ein wichtiger Service in Microsoft Sysinternals, der event grid und verwandte Funktionen bereitstellt.",
@@ -2074,10 +2074,10 @@
         "id": "q90",
         "text": "Was ist Event Hubs in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für event hubs und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Event Hubs ist ein wichtiger Service in Microsoft Sysinternals, der event hubs und verwandte Funktionen bereitstellt.",
@@ -2097,10 +2097,10 @@
         "id": "q91",
         "text": "Was ist IoT in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für iot und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "IoT ist ein wichtiger Service in Microsoft Sysinternals, der iot und verwandte Funktionen bereitstellt.",
@@ -2120,10 +2120,10 @@
         "id": "q92",
         "text": "Was ist Edge Computing in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für edge computing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Edge Computing ist ein wichtiger Service in Microsoft Sysinternals, der edge computing und verwandte Funktionen bereitstellt.",
@@ -2143,10 +2143,10 @@
         "id": "q93",
         "text": "Was ist Serverless in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für serverless und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Serverless ist ein wichtiger Service in Microsoft Sysinternals, der serverless und verwandte Funktionen bereitstellt.",
@@ -2166,10 +2166,10 @@
         "id": "q94",
         "text": "Was ist Functions in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für functions und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Functions ist ein wichtiger Service in Microsoft Sysinternals, der functions und verwandte Funktionen bereitstellt.",
@@ -2189,10 +2189,10 @@
         "id": "q95",
         "text": "Was ist Logic Apps in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für logic apps und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Logic Apps ist ein wichtiger Service in Microsoft Sysinternals, der logic apps und verwandte Funktionen bereitstellt.",
@@ -2212,10 +2212,10 @@
         "id": "q96",
         "text": "Was ist Power Apps in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für power apps und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Power Apps ist ein wichtiger Service in Microsoft Sysinternals, der power apps und verwandte Funktionen bereitstellt.",
@@ -2235,10 +2235,10 @@
         "id": "q97",
         "text": "Was ist Power Automate in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für power automate und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Power Automate ist ein wichtiger Service in Microsoft Sysinternals, der power automate und verwandte Funktionen bereitstellt.",
@@ -2258,10 +2258,10 @@
         "id": "q98",
         "text": "Was ist Power BI in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für power bi und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Power BI ist ein wichtiger Service in Microsoft Sysinternals, der power bi und verwandte Funktionen bereitstellt.",
@@ -2281,10 +2281,10 @@
         "id": "q99",
         "text": "Was ist Cognitive Services in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für cognitive services und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Cognitive Services ist ein wichtiger Service in Microsoft Sysinternals, der cognitive services und verwandte Funktionen bereitstellt.",
@@ -2304,10 +2304,10 @@
         "id": "q100",
         "text": "Was ist Bot Framework in Microsoft Sysinternals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für bot framework und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Bot Framework ist ein wichtiger Service in Microsoft Sysinternals, der bot framework und verwandte Funktionen bereitstellt.",

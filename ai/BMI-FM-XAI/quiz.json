@@ -27,9 +27,9 @@
         "text": "Was ist das Hauptziel Formaler Methoden bei KI-Systemen?",
         "options": [
           "Mathematischer Nachweis der Stabilität und Zuverlässigkeit von Computersystemen",
-          "Verbesserung der Ausführungsgeschwindigkeit von Algorithmen",
-          "Reduzierung des Speicherverbrauchs von Programmen",
-          "Entwicklung benutzerfreundlicher Oberflächen"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Formale Methoden fassen die Techniken der Modellierung und mathematischer, rigoroser Überprüfung von Computersystemen zusammen, um deren Stabilität und Zuverlässigkeit mathematisch nachweisen zu können.",
@@ -50,9 +50,9 @@
         "text": "Was versteht man unter dem Begriff 'Explainable AI' (XAI)?",
         "options": [
           "KI-Systeme, die ihre Entscheidungsgrundlagen nachvollziehbar machen",
-          "KI-Systeme, die besonders schnell arbeiten",
-          "KI-Systeme, die nur einfache Aufgaben lösen",
-          "KI-Systeme, die ausschließlich in deutscher Sprache funktionieren"
+          "8 Handgriffe für mittlere Schwierigkeit",
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,
         "explanation": "Explainable AI bedeutet, dass nachvollziehbar ist, anhand welcher Maßstäbe und auf Basis welcher Informationen die KI Ergebnisse erzielt. Je weitreichender die Folgen einer Vorhersage, desto wichtiger ist Transparenz.",
@@ -73,9 +73,9 @@
         "text": "Welche drei Kategorien umfassen die Aufgaben Formaler Methoden?",
         "options": [
           "Spezifikation (WAS), Verifikation (WARUM), Synthese (WIE)",
-          "Design, Implementation, Testing",
-          "Input, Processing, Output",
-          "Hardware, Software, Firmware"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Aufgaben der Formalen Methoden fallen in drei Kategorien: Spezifikation (WAS wird vom System erwartet), Verifikation (WARUM erfüllt das System die Spezifikation), Synthese (WIE wird erreicht, dass das System die Spezifikation erfüllt).",
@@ -96,9 +96,9 @@
         "text": "Was sind die sieben Merkmale autonomer Systeme nach Wahlster?",
         "options": [
           "Entscheidungsfähigkeit, Selbstlernfähigkeit, Selbsterklärungsfähigkeit, Resilienz, Kooperativität, Ressourcenadaption, Proaktivität",
-          "Geschwindigkeit, Genauigkeit, Effizienz, Skalierbarkeit, Sicherheit, Zuverlässigkeit, Benutzerfreundlichkeit",
-          "Input, Processing, Output, Storage, Communication, Control, Interface",
-          "Planning, Learning, Reasoning, Perception, Action, Memory, Communication"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach Wahlster (2017) weisen autonome Systeme sieben Merkmale auf: Entscheidungsfähigkeit, Selbstlernfähigkeit, Selbsterklärungsfähigkeit, Resilienz, Kooperativität, Ressourcenadaption und Proaktivität.",
@@ -119,9 +119,9 @@
         "text": "Was ist das Problem der 'technologischen Singularität' bei KI-Systemen?",
         "options": [
           "Der Zeitpunkt, ab dem KI die menschliche Intelligenz übertrifft und unvorhersagbar wird",
-          "Die Schwierigkeit, KI-Systeme zu installieren",
-          "Die hohen Kosten von KI-Entwicklung",
-          "Die begrenzte Anzahl verfügbarer KI-Algorithmen"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die technologische Singularität beschreibt den Zeitpunkt, ab dem künstliche Intelligenz die menschliche Intelligenz übertrifft und sich dadurch rasant selbst verbessern würde - eine Situation, in der wir nicht mehr in der Lage sind, Reaktionen und Verhalten dieses Systems vorherzusagen.",
@@ -142,9 +142,9 @@
         "text": "Welche drei Hauptmerkmale charakterisieren Formale Methoden?",
         "options": [
           "Sprachen, Werkzeuge, Methoden",
-          "Hardware, Software, Netzwerk",
-          "Input, Process, Output",
-          "Design, Test, Deploy"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Zu Formalen Methoden unterscheidet man drei allgemeine Hauptmerkmale: Sprachen (formale mathematische Notation), Werkzeuge (unterstützende Software), und Methoden (Integration in industrielle Praxis).",
@@ -165,9 +165,9 @@
         "text": "Was ist das Problem der 'unbekannten Variablen' bei der Umgebungsmodellierung?",
         "options": [
           "Es kann unmöglich sein, alle Variablen der Umgebung genau zu definieren",
-          "Die Berechnung dauert zu lange",
-          "Die Hardware ist nicht leistungsfähig genug",
-          "Die Software hat Bugs"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Für KI-basierte Systeme kann es unmöglich sein, alle Variablen (Eigenschaften) der Umgebung genau zu definieren. Selbst in eingeschränkten Szenarien gibt es einen eklatanten Mangel an Informationen über das Verhalten der Umgebungsvariablen.",
@@ -188,9 +188,9 @@
         "text": "Was bedeutet 'Overapproximation' bei der Umgebungsmodellierung?",
         "options": [
           "Das Modell enthält mehr Verhaltensweisen als realistisch sind",
-          "Das Modell ist zu genau",
-          "Das Modell ist zu langsam",
-          "Das Modell verbraucht zu viel Speicher"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein überapproximiertes Umgebungsmodell enthält (viel) mehr Verhaltensweisen der Umgebung, als realistisch sind. Dies erlaubt eine solide Verifikation ohne detailliertes Umgebungsmodell, führt aber bei KI-Systemen zu stark überapproximierten Modellen.",
@@ -211,9 +211,9 @@
         "text": "Was ist das Problem bei der Spezifikation 'schwer formalisierbarer Aufgaben'?",
         "options": [
           "Formale Definition von Wahrnehmungsaufgaben ist extrem schwierig oder unmöglich",
-          "Die Algorithmen sind zu komplex",
-          "Die Hardware ist nicht ausreichend",
-          "Die Entwicklungszeit ist zu lang"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bei Wahrnehmungsmodulen, die Zustände erkennen und klassifizieren müssen, erfordert Korrektheit im Sinne klassischer formaler Methoden eine formale Definition jeder möglichen Zustandstypen, was extrem schwierig, wenn nicht unmöglich ist.",
@@ -234,9 +234,9 @@
         "text": "Was sind 'Ground Truth' Daten in der ML-Terminologie?",
         "options": [
           "Von Hand gelabelte Testdaten als richtiges Ergebnis für Vergleiche",
-          "Daten direkt vom Sensor",
-          "Synthetisch generierte Datenformate",
-          "Komprimierte Datenformate"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ground Truth bezeichnet die (eventuell von Hand) gelabelten Testdaten als das richtige Ergebnis, das man später mit der automatischen Klassifizierung erreichen möchte. Diese dienen als Referenz für die Bewertung der ML-Performance.",
@@ -257,9 +257,9 @@
         "text": "Was ist ein Hauptproblem bei der Verifikation Neuronaler Netze?",
         "options": [
           "Kontinuierliche Gewichte und hohe Dimensionalität erschweren die Verifikation",
-          "Sie sind zu langsam in der Ausführung",
-          "Sie verbrauchen zu viel Speicher",
-          "Sie können nur binäre Entscheidungen treffen"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Neuronale Netze haben kontinuierliche Gewichte und sehr hohe Dimensionalität, was die Verifikation erheblich erschwert. Die Anzahl der möglichen Zustände ist praktisch unendlich, was eine vollständige Verifikation unmöglich macht.",
@@ -280,9 +280,9 @@
         "text": "Was versteht man unter 'Probabilistischer Programmierung'?",
         "options": [
           "Ein Programmierparadigma, das Wahrscheinlichkeitsverteilungen als First-Class-Objekte behandelt",
-          "Programmierung mit zufälligen Fehlern",
-          "Unsichere Programmierung ohne Tests",
-          "Programmierung nur mit 50% Wahrscheinlichkeit"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Probabilistische Programmierung ist ein Programmierparadigma, bei dem Wahrscheinlichkeitsverteilungen als First-Class-Objekte in der Programmiersprache behandelt werden. Dies ermöglicht es, Unsicherheiten explizit zu modellieren.",
@@ -303,9 +303,9 @@
         "text": "Welche Vorteile bietet Probabilistische Programmierung für KI-Systeme?",
         "options": [
           "Explizite Modellierung von Unsicherheiten und bessere Interpretierbarkeit",
-          "Schnellere Ausführung von Algorithmen",
-          "Geringerer Speicherverbrauch",
-          "Einfachere Benutzeroberflächen"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Probabilistische Programmierung ermöglicht es, Unsicherheiten explizit zu modellieren und macht Systeme interpretierbarer, da die Wahrscheinlichkeitsverteilungen der Ergebnisse zugänglich sind.",
@@ -326,9 +326,9 @@
         "text": "Was ist 'Bayesian Inference' im Kontext der Probabilistischen Programmierung?",
         "options": [
           "Ein Verfahren zur Aktualisierung von Wahrscheinlichkeiten basierend auf neuen Beobachtungen",
-          "Eine Art der Fehlerbehebung",
-          "Ein Programmierstandard",
-          "Eine Datenbank-Abfragesprache"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bayesian Inference ist ein fundamentales Verfahren in der probabilistischen Programmierung, bei dem Prior-Wahrscheinlichkeiten durch neue Beobachtungen zu Posterior-Wahrscheinlichkeiten aktualisiert werden.",
@@ -349,9 +349,9 @@
         "text": "Was sind die Hauptherausforderungen bei der Systemmodellierung für KI?",
         "options": [
           "Komplexe Umgebungen, unvollständige Information und dynamische Änderungen",
-          "Zu wenig Rechenleistung",
-          "Schlechte Programmiersprachen",
-          "Mangel an Entwicklern"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Hauptherausforderungen bei der Systemmodellierung für KI sind die Komplexität realer Umgebungen, unvollständige Informationen über das System und seine Umgebung sowie dynamische Änderungen zur Laufzeit.",
@@ -372,9 +372,9 @@
         "text": "Welche Rolle spielt 'Uncertainty Quantification' in erklärbaren KI-Systemen?",
         "options": [
           "Sie quantifiziert und kommuniziert die Unsicherheit von KI-Entscheidungen",
-          "Sie beschleunigt die Berechnung",
-          "Sie reduziert den Speicherverbrauch",
-          "Sie verbessert die Benutzeroberfläche"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Uncertainty Quantification ist entscheidend für erklärbare KI, da sie nicht nur Vorhersagen macht, sondern auch quantifiziert, wie sicher diese Vorhersagen sind. Dies ist essentiell für Vertrauen und Nachvollziehbarkeit.",
@@ -395,9 +395,9 @@
         "text": "Was sind 'Konfidenzintervalle' bei ML-Vorhersagen?",
         "options": [
           "Bereiche, die mit einer bestimmten Wahrscheinlichkeit den wahren Wert enthalten",
-          "Bereiche mit den schnellsten Berechnungen",
-          "Bereiche mit dem geringsten Speicherverbrauch",
-          "Bereiche mit der besten Benutzerfreundlichkeit"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Konfidenzintervalle geben an, in welchem Bereich sich der wahre Wert mit einer bestimmten Wahrscheinlichkeit (z.B. 95%) befindet. Sie sind ein wichtiges Werkzeug zur Kommunikation von Unsicherheit.",
@@ -418,9 +418,9 @@
         "text": "Was ist der Unterschied zwischen 'aleatorischer' und 'epistemischer' Unsicherheit?",
         "options": [
           "Aleatorisch ist inhärente Zufälligkeit, epistemisch ist Wissensmangel",
-          "Aleatorisch ist schneller, epistemisch ist langsamer",
-          "Aleatorisch ist einfacher, epistemisch ist komplexer",
-          "Es gibt keinen Unterschied"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Aleatorische Unsicherheit bezieht sich auf inhärente Zufälligkeit im System (nicht reduzierbar), während epistemische Unsicherheit auf Wissensmangel zurückzuführen ist (durch mehr Daten reduzierbar).",
@@ -441,9 +441,9 @@
         "text": "Welche Methoden gibt es zur Verifikation neuronaler Netze?",
         "options": [
           "Abstrakte Interpretation, SMT-Solver, Intervall-Arithmetik, Lineare Programmierung",
-          "Copy-Paste, Trial-and-Error, Raten, Hoffen",
-          "Only Testing, nur Simulation, nur Reviews",
-          "Nur manuelle Überprüfung"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Zur Verifikation neuronaler Netze werden verschiedene formale Methoden eingesetzt: Abstrakte Interpretation für Überapproximation, SMT-Solver für exakte Verifikation, Intervall-Arithmetik für Bereichsanalysen und Lineare Programmierung für Optimierungsprobleme.",
@@ -464,9 +464,9 @@
         "text": "Was ist ein 'Adversarial Example' bei neuronalen Netzen?",
         "options": [
           "Eine minimale Eingabeänderung, die zu falscher Klassifikation führt",
-          "Ein besonders schwieriges Trainingsbeispiel",
-          "Ein Beispiel mit vielen Klassen",
-          "Ein Beispiel mit hoher Auflösung"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Adversarial Examples sind Eingaben, die durch minimale, oft für Menschen nicht wahrnehmbare Änderungen so modifiziert wurden, dass das neuronale Netz sie falsch klassifiziert. Sie zeigen die Vulnerabilität von Deep Learning-Systemen auf.",
@@ -487,9 +487,9 @@
         "text": "Was ist 'Lipschitz-Kontinuität' im Kontext der Robustheit neuronaler Netze?",
         "options": [
           "Eine Eigenschaft, die begrenzt, wie stark sich die Ausgabe bei kleinen Eingabeänderungen ändern kann",
-          "Eine Eigenschaft für schnellere Berechnungen",
-          "Eine Eigenschaft für bessere Speichernutzung",
-          "Eine Eigenschaft für einfachere Programmierung"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Lipschitz-Kontinuität stellt sicher, dass kleine Änderungen der Eingabe nur zu proportional kleinen Änderungen der Ausgabe führen. Dies ist wichtig für die Robustheit gegen adversarial attacks.",
@@ -510,9 +510,9 @@
         "text": "Welche Rolle spielen 'SMT-Solver' bei der Verifikation von KI-Systemen?",
         "options": [
           "Sie lösen Erfüllbarkeitsprobleme für aussagenlogische und arithmetische Formeln",
-          "Sie beschleunigen das Training neuronaler Netze",
-          "Sie komprimieren Daten effizienter",
-          "Sie erstellen Benutzeroberflächen"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "SMT-Solver (Satisfiability Modulo Theories) können entscheiden, ob logische Formeln erfüllbar sind. Sie werden zur exakten Verifikation von Eigenschaften neuronaler Netze eingesetzt, insbesondere für Safety-kritische Anwendungen.",
@@ -533,9 +533,9 @@
         "text": "Was versteht man unter 'Abstrakte Interpretation' bei der Netzwerk-Verifikation?",
         "options": [
           "Eine Methode zur Überapproximation des Verhaltens mit konservativen Abschätzungen",
-          "Eine Methode zur Bildverarbeitung",
-          "Eine Methode zur Datenkompression",
-          "Eine Methode zur Benutzerschnittstelle"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Abstrakte Interpretation erzeugt konservative Überapproximationen des Netzwerkverhaltens. Wenn diese Approximation eine Eigenschaft erfüllt, dann erfüllt auch das originale Netzwerk diese Eigenschaft.",
@@ -556,9 +556,9 @@
         "text": "Was ist das Problem der 'Skalierbarkeit' bei der formalen Verifikation großer neuronaler Netze?",
         "options": [
           "Der Verifikationsaufwand wächst exponentiell mit der Netzwerkgröße",
-          "Die Netzwerke werden zu schnell",
-          "Die Netzwerke werden zu genau",
-          "Die Netzwerke werden zu benutzerfreundlich"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die formale Verifikation neuronaler Netze ist ein NP-vollständiges Problem. Der Aufwand wächst exponentiell mit der Anzahl der Neuronen und Schichten, was die Verifikation großer Netze praktisch unmöglich macht.",
@@ -579,9 +579,9 @@
         "text": "Welche Approximationstechniken werden verwendet, um die Verifikation skalierbarer zu machen?",
         "options": [
           "Zonotope, Polyeder, Intervall-Abstraktion, Sampling-basierte Methoden",
-          "Nur Trial-and-Error",
-          "Nur manuelle Überprüfung",
-          "Nur statistische Tests"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Um die Verifikation praktikabel zu machen, werden verschiedene Approximationstechniken eingesetzt: Zonotope für lineare Transformationen, Polyeder für komplexere Geometrien, Intervall-Abstraktion für einfache Berechnungen und Sampling für statistische Garantien.",
@@ -603,9 +603,9 @@
         "text": "Was sind 'Safety Properties' bei KI-Systemen?",
         "options": [
           "Eigenschaften, die sicherstellen, dass das System niemals in unsichere Zustände gerät",
-          "Eigenschaften für schnellere Ausführung",
-          "Eigenschaften für bessere Benutzeroberflächen",
-          "Eigenschaften für geringeren Stromverbrauch"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Safety Properties definieren, was ein System niemals tun darf ('nichts Schlechtes passiert'). Beispiele sind: 'Das autonome Fahrzeug kollidiert nie' oder 'Das Medizinsystem gibt nie toxische Dosierungen aus'.",
@@ -626,9 +626,9 @@
         "text": "Was sind 'Liveness Properties' bei KI-Systemen?",
         "options": [
           "Eigenschaften, die sicherstellen, dass das System schließlich etwas Gutes tut",
-          "Eigenschaften für längere Laufzeit",
-          "Eigenschaften für bessere Performance",
-          "Eigenschaften für mehr Speicher"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Liveness Properties definieren, dass ein System schließlich etwas Erwünschtes tut ('etwas Gutes passiert schließlich'). Beispiele sind: 'Das System antwortet schließlich' oder 'Ein gefundener Pfad führt schließlich zum Ziel'.",
@@ -649,9 +649,9 @@
         "text": "Was ist 'Compositional Verification' bei komplexen KI-Systemen?",
         "options": [
           "Verifikation durch Zerlegung in kleinere, unabhängig verifizierbare Komponenten",
-          "Verifikation durch Zusammenfügen von Testdaten",
-          "Verifikation durch Musikkomposition",
-          "Verifikation durch Bildbearbeitung"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Compositional Verification zerlegt komplexe Systeme in kleinere Komponenten, die unabhängig verifiziert werden können. Die Gesamteigenschaft ergibt sich aus der Komposition der Komponenteneigenschaften.",
@@ -672,9 +672,9 @@
         "text": "Welche Herausforderungen bestehen bei der Erklärbarkeit von Ensemble-Methoden?",
         "options": [
           "Komplexe Interaktionen zwischen Modellen erschweren einheitliche Erklärungen",
-          "Sie sind zu schnell",
-          "Sie sind zu genau",
-          "Sie verbrauchen zu wenig Speicher"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ensemble-Methoden kombinieren mehrere Modelle, was zu komplexen Interaktionen führt. Eine einheitliche Erklärung zu geben ist schwierig, da verschiedene Modelle zu unterschiedlichen Schlüssen kommen können.",
@@ -695,9 +695,9 @@
         "text": "Was sind 'Counterfactual Explanations' in der erklärbaren KI?",
         "options": [
           "Erklärungen der Form: 'Wenn X anders gewesen wäre, dann wäre das Ergebnis Y gewesen'",
-          "Erklärungen über Zahlen",
-          "Erklärungen über Bilder",
-          "Erklärungen über Musik"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Counterfactual Explanations erklären KI-Entscheidungen durch Angabe minimaler Änderungen der Eingabe, die zu einem anderen Ergebnis geführt hätten. Beispiel: 'Wäre das Einkommen 5000€ höher, hätte der Kredit genehmigt werden können'.",
@@ -718,9 +718,9 @@
         "text": "Was ist 'LIME' (Local Interpretable Model-agnostic Explanations)?",
         "options": [
           "Eine Methode zur lokalen Approximation komplexer Modelle durch interpretierbare Modelle",
-          "Eine Methode zur Bildhelligkeit",
-          "Eine Methode zur Audioverarbeitung",
-          "Eine Methode zur Datenkompression"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "LIME erklärt Vorhersagen einzelner Instanzen, indem es das komplexe Modell lokal durch ein einfaches, interpretierbares Modell (z.B. lineare Regression) approximiert.",
@@ -741,9 +741,9 @@
         "text": "Was ist 'SHAP' (SHapley Additive exPlanations)?",
         "options": [
           "Eine auf Spieltheorie basierende Methode zur Berechnung von Feature-Wichtigkeiten",
-          "Eine Bildbearbeitungsmethode",
-          "Eine Audiokomprimierungsmethode",
-          "Eine Datenbankabfragesprache"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "SHAP basiert auf Shapley-Werten aus der Spieltheorie und berechnet den Beitrag jedes Features zur Vorhersage auf eine mathematisch fundierte und faire Weise.",
@@ -764,9 +764,9 @@
         "text": "Was ist der Unterschied zwischen 'lokalen' und 'globalen' Erklärungen?",
         "options": [
           "Lokal erklärt einzelne Vorhersagen, global erklärt das gesamte Modellverhalten",
-          "Lokal ist schneller, global ist langsamer",
-          "Lokal ist einfacher, global ist komplexer",
-          "Es gibt keinen Unterschied"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Lokale Erklärungen fokussieren sich auf eine spezifische Eingabe und erklären, warum das Modell für diese Eingabe eine bestimmte Vorhersage macht. Globale Erklärungen beschreiben das allgemeine Verhalten des Modells über alle möglichen Eingaben.",
@@ -787,9 +787,9 @@
         "text": "Was sind 'Attention Mechanisms' im Kontext erklärbarer KI?",
         "options": [
           "Mechanismen, die zeigen, welche Eingabeteile für die Entscheidung wichtig sind",
-          "Mechanismen für bessere Konzentration",
-          "Mechanismen für schnellere Berechnungen",
-          "Mechanismen für Speicheroptimierung"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Attention Mechanisms in neuronalen Netzen zeigen, welche Teile der Eingabe (z.B. Wörter in einem Text oder Bereiche in einem Bild) für die Entscheidung des Modells besonders relevant sind.",
@@ -810,9 +810,9 @@
         "text": "Was ist 'Gradient-based Explanation' bei neuronalen Netzen?",
         "options": [
           "Erklärungen basierend auf den Gradienten der Ausgabe bezüglich der Eingabe",
-          "Erklärungen über Farbverläufe",
-          "Erklärungen über Höhenunterschiede",
-          "Erklärungen über Temperaturunterschiede"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Gradient-basierte Erklärungen nutzen die Gradienten (Ableitungen) der Netzwerkausgabe bezüglich der Eingabefeatures, um zu zeigen, welche Eingabedimensionen den stärksten Einfluss auf die Vorhersage haben.",
@@ -833,9 +833,9 @@
         "text": "Was ist das Problem der 'Gradient Saturation' bei Erklärungsmethoden?",
         "options": [
           "Gradienten werden null oder sehr klein, obwohl Features relevant sind",
-          "Gradienten werden zu groß",
-          "Gradienten werden zu schnell berechnet",
-          "Gradienten werden zu langsam berechnet"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Gradient Saturation tritt auf, wenn Neuronen in Sättigungsbereichen ihrer Aktivierungsfunktionen arbeiten. Die Gradienten werden nahe null, obwohl die entsprechenden Features durchaus relevant für die Entscheidung sind.",
@@ -856,9 +856,9 @@
         "text": "Was ist 'Integrated Gradients' als Verbesserung zu einfachen Gradienten?",
         "options": [
           "Integration der Gradienten entlang eines Pfades von einer Baseline zur Eingabe",
-          "Addition aller Gradienten",
-          "Multiplikation aller Gradienten",
-          "Division aller Gradienten"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Integrated Gradients berechnet die Wichtigkeit eines Features durch Integration der Gradienten entlang eines geradlinigen Pfades von einer Baseline (z.B. Nullvektor) zur aktuellen Eingabe. Dies löst Probleme der Gradient Saturation.",
@@ -879,9 +879,9 @@
         "text": "Welche Rolle spielt die 'Axiomatische Fundierung' bei Erklärungsmethoden?",
         "options": [
           "Sie definiert wünschenswerte Eigenschaften, die gute Erklärungen erfüllen sollten",
-          "Sie beschleunigt die Berechnungen",
-          "Sie reduziert den Speicherverbrauch",
-          "Sie verbessert die Benutzeroberfläche"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Axiomatische Fundierung definiert mathematische Eigenschaften wie Sensitivität, Implementierungsinvarianz und Linearität, die gute Erklärungsmethoden erfüllen sollten. Dies hilft bei der Bewertung und Auswahl von Erklärungsverfahren.",
@@ -902,9 +902,9 @@
         "text": "Was ist 'Model Distillation' im Kontext erklärbarer KI?",
         "options": [
           "Training eines einfachen, interpretierbaren Modells zur Nachahmung eines komplexen Modells",
-          "Verdampfung von Daten",
-          "Komprimierung von Bildern",
-          "Verschlüsselung von Informationen"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Model Distillation trainiert ein einfaches, von Natur aus interpretierbares Modell (z.B. Entscheidungsbaum) darauf, die Vorhersagen eines komplexen Modells zu imitieren. Das einfache Modell dient dann als Erklärung für das komplexe Modell.",
@@ -925,9 +925,9 @@
         "text": "Was sind die Hauptherausforderungen bei der 'Evaluation' von Erklärungsmethoden?",
         "options": [
           "Fehlende objektive Metriken und schwierige Validierung der Korrektheit",
-          "Zu schnelle Berechnungen",
-          "Zu wenig Speicherverbrauch",
-          "Zu einfache Implementierung"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Evaluation von Erklärungen ist schwierig, da es oft keine objektive 'Ground Truth' für die korrekte Erklärung gibt. Metriken wie Faithfulness, Plausibilität und Stabilität sind schwer zu quantifizieren und zu validieren.",
@@ -948,9 +948,9 @@
         "text": "Was ist 'Faithfulness' im Kontext von Erklärungsmethoden?",
         "options": [
           "Wie genau die Erklärung das tatsächliche Modellverhalten widerspiegelt",
-          "Wie schnell die Erklärung berechnet wird",
-          "Wie viel Speicher die Erklärung benötigt",
-          "Wie schön die Erklärung visualisiert ist"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Faithfulness (Treue) misst, wie genau eine Erklärung das tatsächliche Verhalten des Modells repräsentiert. Eine treue Erklärung spiegelt die tatsächlichen Entscheidungskriterien des Modells wider, nicht nur plausible Vermutungen.",
@@ -971,9 +971,9 @@
         "text": "Was sind 'Hybrid-Systeme' im Kontext von KI und formalen Methoden?",
         "options": [
           "Systeme, die diskrete und kontinuierliche Dynamik kombinieren",
-          "Systeme mit mehreren Prozessoren",
-          "Systeme mit Cloud- und lokaler Verarbeitung",
-          "Systeme mit mehreren Programmiersprachen"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Hybrid-Systeme kombinieren diskrete (digitale) und kontinuierliche (analoge) Dynamik. Sie sind besonders relevant für cyber-physische Systeme wie autonome Fahrzeuge, die digitale Steuerung mit kontinuierlicher physischer Bewegung verbinden.",
@@ -994,9 +994,9 @@
         "text": "Was ist der Unterschied zwischen 'Black-Box' und 'White-Box' Erklärungen?",
         "options": [
           "Black-Box erklärt ohne Modellzugriff, White-Box nutzt Modellstruktur",
-          "Black-Box ist schneller, White-Box ist langsamer",
-          "Black-Box ist für Bilder, White-Box für Text",
-          "Es gibt keinen Unterschied"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Black-Box-Methoden erklären Modelle ohne Zugriff auf ihre interne Struktur (nur Input-Output), während White-Box-Methoden die Modellarchitektur und Parameter direkt nutzen. LIME ist Black-Box, Gradient-basierte Methoden sind White-Box.",
@@ -1017,9 +1017,9 @@
         "text": "Was versteht man unter 'Temporal Logic' in der formalen Verifikation?",
         "options": [
           "Logik zur Spezifikation zeitabhängiger Eigenschaften von Systemen",
-          "Logik für Zeitreisen",
-          "Logik für Uhren und Timer",
-          "Logik für historische Daten"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Temporal Logic (Temporallogik) ermöglicht die Spezifikation von Eigenschaften, die sich über die Zeit entwickeln, wie 'immer', 'schließlich', 'bis'. Sie ist fundamental für die Verifikation reaktiver und zeitkritischer Systeme.",
@@ -1040,9 +1040,9 @@
         "text": "Was ist 'Transfer Learning' und welche Herausforderungen bringt es für die Verifikation?",
         "options": [
           "Wiederverwendung trainierter Modelle für neue Aufgaben; Verifikation muss für neue Domain wiederholt werden",
-          "Übertragung von Daten zwischen Servern; keine Verifikation nötig",
-          "Lernen während der Übertragung; automatische Verifikation",
-          "Kopieren von Modellen; Verifikation bleibt gültig"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Transfer Learning nutzt vortrainierte Modelle für neue Aufgaben. Die Herausforderung ist, dass Verifikationsergebnisse aus der Original-Domain nicht automatisch auf die neue Domain übertragbar sind, da sich Datenverteilungen und Anforderungen unterscheiden.",
@@ -1063,9 +1063,9 @@
         "text": "Was sind 'Saliency Maps' bei der Erklärung von Bildklassifikation?",
         "options": [
           "Visualisierungen, die zeigen, welche Bildregionen für die Entscheidung wichtig sind",
-          "Karten von salzigen Regionen",
-          "Geografische Karten für KI-Training",
-          "Farbkarten für die Bildbearbeitung"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Saliency Maps (Salienz-Karten) heben die Pixel oder Regionen eines Bildes hervor, die den größten Einfluss auf die Klassifikationsentscheidung haben. Sie werden oft durch Gradientenberechnung erzeugt.",
@@ -1086,9 +1086,9 @@
         "text": "Was ist das 'State Explosion Problem' bei der Model Checking?",
         "options": [
           "Die Anzahl möglicher Systemzustände wächst exponentiell mit der Systemgröße",
-          "Zustände werden zu groß für den Speicher",
-          "Zustände explodieren physisch",
-          "Zu viele Zustände werden gleichzeitig aktiv"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das State Explosion Problem ist eine fundamentale Herausforderung beim Model Checking: Die Anzahl der zu überprüfenden Zustände wächst exponentiell mit der Anzahl der Systemkomponenten, was die Verifikation praktisch unmöglich machen kann.",
@@ -1109,9 +1109,9 @@
         "text": "Was ist 'Certified Training' bei neuronalen Netzen?",
         "options": [
           "Training mit gleichzeitiger Garantie von Robustheitseigenschaften",
-          "Training mit offiziellem Zertifikat",
-          "Training von zertifizierten Trainern",
-          "Training mit verschlüsselten Daten"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Certified Training integriert Verifikationstechniken direkt in den Trainingsprozess, um sicherzustellen, dass das resultierende Netzwerk bestimmte Robustheitseigenschaften erfüllt. Dies ist effizienter als nachträgliche Verifikation.",
@@ -1132,9 +1132,9 @@
         "text": "Welche Rolle spielt 'Interpretierbare Architektur' bei erklärbarer KI?",
         "options": [
           "Modelle, die von Natur aus nachvollziehbar sind wie Entscheidungsbäume",
-          "Architekturen mit schöner Visualisierung",
-          "Architekturen mit deutscher Dokumentation",
-          "Architekturen für Interpreter-Sprachen"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Interpretierbare Architekturen sind Modelle, deren Funktionsweise von Natur aus nachvollziehbar ist (z.B. Entscheidungsbäume, lineare Modelle). Sie bieten intrinsische Erklärbarkeit im Gegensatz zu Post-hoc-Erklärungen für Black-Box-Modelle.",
@@ -1155,9 +1155,9 @@
         "text": "Was sind die Hauptziele erklärbarer KI (XAI) aus Sicht der IT-Sicherheit?",
         "options": [
           "Vertrauen schaffen, Fehler identifizieren, Compliance sicherstellen, Manipulation erkennen",
-          "Systeme beschleunigen und Kosten senken",
-          "Mehr Benutzer gewinnen und Marketing verbessern",
-          "Daten komprimieren und Speicher sparen"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Aus IT-Sicherheitsperspektive dient XAI dazu, Vertrauen in KI-Systeme zu schaffen, Fehler und Schwachstellen zu identifizieren, regulatorische Compliance zu gewährleisten und Manipulationen oder Angriffe zu erkennen.",
@@ -1179,9 +1179,9 @@
         "text": "Was ist 'Robustness' im Kontext neuronaler Netze?",
         "options": [
           "Die Fähigkeit, trotz kleiner Eingabestörungen korrekte Ausgaben zu produzieren",
-          "Die mechanische Stabilität der Hardware",
-          "Die Geschwindigkeit der Berechnungen",
-          "Die Größe des Netzwerks"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Robustheit bezeichnet die Eigenschaft eines neuronalen Netzes, auch bei leicht veränderten oder verrauschten Eingaben stabile und korrekte Vorhersagen zu treffen. Dies ist besonders wichtig für sicherheitskritische Anwendungen.",
@@ -1202,9 +1202,9 @@
         "text": "Was sind 'Markov Decision Processes' (MDPs) im Kontext von KI?",
         "options": [
           "Mathematische Modelle für sequenzielle Entscheidungsfindung unter Unsicherheit",
-          "Prozesse zur Datenkompression",
-          "Methoden zur Bildverarbeitung",
-          "Techniken für Textanalyse"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Markov Decision Processes sind mathematische Rahmenwerke zur Modellierung sequenzieller Entscheidungen, bei denen Zustandsübergänge probabilistisch sind. Sie sind fundamental für Reinforcement Learning und autonome Systeme.",
@@ -1225,9 +1225,9 @@
         "text": "Was versteht man unter 'Formal Specification Languages'?",
         "options": [
           "Präzise mathematische Sprachen zur Beschreibung von Systemeigenschaften",
-          "Formelle Briefvorlagen",
-          "Offizielle Programmiersprachen",
-          "Standardisierte Dokumentationsformate"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Formale Spezifikationssprachen wie Z, VDM oder TLA+ ermöglichen die präzise, eindeutige und mathematisch fundierte Beschreibung von Systemanforderungen und -eigenschaften, die dann formal verifiziert werden können.",
@@ -1248,9 +1248,9 @@
         "text": "Was ist 'Overfitting' und wie gefährdet es die Verifikation?",
         "options": [
           "Modelle lernen Trainingsdaten auswendig statt zu generalisieren; gefährdet Verifikation für neue Eingaben",
-          "Modelle werden zu groß für den Speicher",
-          "Training dauert zu lange",
-          "Modelle werden zu schnell"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Overfitting tritt auf, wenn ein Modell die Trainingsdaten zu genau lernt inklusive Rauschen. Das Modell generalisiert schlecht auf neue Daten, was bedeutet, dass Verifikationsergebnisse auf Trainingsdaten nicht auf echte Anwendungsfälle übertragbar sind.",
@@ -1271,9 +1271,9 @@
         "text": "Was sind 'Reachability Properties' bei der Systemverifikation?",
         "options": [
           "Eigenschaften, die beschreiben, welche Systemzustände erreichbar sind",
-          "Eigenschaften über die Netzwerkreichweite",
-          "Eigenschaften der Benutzeroberfläche",
-          "Eigenschaften der Zugänglichkeit für Behinderte"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Reachability Properties spezifizieren, ob bestimmte Systemzustände von einem Startzustand aus erreichbar sind. Dies ist wichtig, um zu verifizieren, dass gefährliche Zustände nicht erreichbar sind oder dass erwünschte Zustände erreichbar sind.",
@@ -1294,9 +1294,9 @@
         "text": "Was ist 'Symbolic Execution' in der formalen Verifikation?",
         "options": [
           "Ausführung von Programmen mit symbolischen statt konkreten Werten zur Pfadanalyse",
-          "Ausführung von Symboldateien",
-          "Grafische Darstellung von Code",
-          "Verschlüsselte Programmausführung"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Symbolic Execution führt Programme mit symbolischen Variablen statt konkreten Werten aus, um alle möglichen Ausführungspfade systematisch zu analysieren. Dies ermöglicht die Entdeckung von Fehlern und die Verifikation von Eigenschaften über alle Eingaben.",
@@ -1317,9 +1317,9 @@
         "text": "Was bedeutet 'Soundness' bei Verifikationsmethoden?",
         "options": [
           "Wenn die Methode sagt, eine Eigenschaft gilt, dann gilt sie wirklich (keine False Positives)",
-          "Die Methode ist schnell",
-          "Die Methode ist einfach zu bedienen",
-          "Die Methode unterstützt Audio-Verarbeitung"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Soundness (Korrektheit) bedeutet, dass eine Verifikationsmethode keine falschen Garantien gibt. Wenn sie beweist, dass eine Eigenschaft erfüllt ist, dann ist sie tatsächlich erfüllt. Dies ist essentiell für sicherheitskritische Systeme.",
@@ -1340,9 +1340,9 @@
         "text": "Was ist 'Completeness' im Kontext der Verifikation?",
         "options": [
           "Wenn eine Eigenschaft gilt, findet die Methode auch einen Beweis dafür (keine False Negatives)",
-          "Die Methode ist vollständig implementiert",
-          "Die Methode testet alle Funktionen",
-          "Die Dokumentation ist vollständig"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Completeness (Vollständigkeit) bedeutet, dass eine Verifikationsmethode alle erfüllbaren Eigenschaften auch als erfüllt erkennt. In der Praxis müssen Verifikationsmethoden oft zwischen Soundness und Completeness abwägen.",
@@ -1363,9 +1363,9 @@
         "text": "Was sind 'Runtime Verification' Techniken?",
         "options": [
           "Überwachung von Systemeigenschaften während der Ausführung zur Laufzeit",
-          "Optimierung der Ausführungsgeschwindigkeit",
-          "Messung der CPU-Auslastung",
-          "Debugging von Laufzeitfehlern"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Runtime Verification überwacht Systeme während der Ausführung, um zu prüfen, ob spezifizierte Eigenschaften eingehalten werden. Dies ergänzt statische Verifikation und ermöglicht es, auf Verletzungen zur Laufzeit zu reagieren.",
@@ -1386,9 +1386,9 @@
         "text": "Was ist der Unterschied zwischen 'Verification' und 'Validation'?",
         "options": [
           "Verification prüft ob das System korrekt gebaut wurde, Validation ob das richtige System gebaut wurde",
-          "Verification ist schneller als Validation",
-          "Verification ist für Software, Validation für Hardware",
-          "Es gibt keinen Unterschied"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Verification beantwortet 'Bauen wir das System richtig?' (erfüllt es die Spezifikation?), während Validation fragt 'Bauen wir das richtige System?' (entspricht es den tatsächlichen Bedürfnissen?). Beide sind für die Qualitätssicherung essentiell.",
@@ -1409,9 +1409,9 @@
         "text": "Was sind 'Invariants' in der formalen Verifikation?",
         "options": [
           "Eigenschaften, die in allen erreichbaren Systemzuständen immer wahr bleiben",
-          "Unveränderliche Konstanten im Code",
-          "Eigenschaften die sich nie ändern dürfen",
-          "Statische Variablen"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Invarianten sind Bedingungen, die während der gesamten Ausführung eines Systems in allen erreichbaren Zuständen gelten müssen. Sie sind fundamental für die Spezifikation und Verifikation von Systemeigenschaften, z.B. 'Kontoguthaben ist nie negativ'.",
@@ -1432,9 +1432,9 @@
         "text": "Was ist 'Concolic Testing' (Concrete + Symbolic Execution)?",
         "options": [
           "Kombination von konkreter Ausführung mit symbolischer Analyse zur Testfallgenerierung",
-          "Testing mit Beton und Symbolen",
-          "Paralleles Testen auf mehreren Rechnern",
-          "Testing mit verschlüsselten Daten"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Concolic Testing kombiniert konkrete Programmausführung mit symbolischer Pfadanalyse. Es führt das Programm mit konkreten Eingaben aus, sammelt dabei Pfadbedingungen und generiert neue Testfälle, um andere Pfade zu erkunden.",
@@ -1455,9 +1455,9 @@
         "text": "Was versteht man unter 'Fairness' in KI-Systemen?",
         "options": [
           "Gleichbehandlung verschiedener Gruppen ohne diskriminierende Verzerrungen",
-          "Gerechte Verteilung von Rechenressourcen",
-          "Faire Preisgestaltung für Software",
-          "Gleichmäßige Geschwindigkeit für alle Benutzer"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fairness in KI bedeutet, dass das System keine ungerechtfertigten Diskriminierungen aufgrund von Merkmalen wie Geschlecht, Herkunft oder Alter aufweist. Dies ist ein zentrales Thema bei der Entwicklung verantwortungsvoller KI-Systeme.",
@@ -1478,9 +1478,9 @@
         "text": "Was sind 'Activation Functions' und warum sind sie relevant für die Verifikation?",
         "options": [
           "Nicht-lineare Funktionen in neuronalen Netzen; sie erschweren die mathematische Analyse",
-          "Funktionen zum Ein- und Ausschalten von Neuronen",
-          "Funktionen zur Aktivierung von Lizenzen",
-          "Funktionen zur Speicheraktivierung"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Aktivierungsfunktionen wie ReLU, Sigmoid oder Tanh führen Nicht-Linearität in neuronale Netze ein. Diese Nicht-Linearität macht die formale Analyse und Verifikation deutlich komplexer, da lineare Verifikationsmethoden nicht mehr direkt anwendbar sind.",
@@ -1501,9 +1501,9 @@
         "text": "Was ist 'Formal Synthesis' im Kontext formaler Methoden?",
         "options": [
           "Automatische Generierung von korrektem Code aus formalen Spezifikationen",
-          "Synthetische Datengenerierung",
-          "Zusammenführen von Codedateien",
-          "Kompilierung von Programmcode"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Formal Synthesis erzeugt automatisch Implementierungen, die garantiert eine gegebene formale Spezifikation erfüllen. Dies ist das 'WIE' in den drei Kategorien formaler Methoden (Spezifikation, Verifikation, Synthese).",
@@ -1524,9 +1524,9 @@
         "text": "Was sind 'Decision Trees' und warum gelten sie als interpretierbar?",
         "options": [
           "Baumstrukturen für Entscheidungen; jeder Pfad zeigt transparent die Entscheidungslogik",
-          "Datenstrukturen für schnelle Suche",
-          "Organigramme für Unternehmen",
-          "Visualisierungen von Neuronalen Netzen"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Decision Trees sind von Natur aus interpretierbar, da jede Entscheidung durch einen nachvollziehbaren Pfad von Bedingungen erklärt wird. Sie sind ein Beispiel für 'interpretable by design' im Gegensatz zu Black-Box-Modellen.",
@@ -1547,9 +1547,9 @@
         "text": "Was ist 'Theorem Proving' in der formalen Verifikation?",
         "options": [
           "Mathematischer Beweis von Systemeigenschaften mittels logischer Schlussfolgerungen",
-          "Testing durch Ausprobieren vieler Beispiele",
-          "Statistische Validierung",
-          "Manuelle Code-Review"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Theorem Proving verwendet mathematische Logik und Beweisassistenten, um formale Beweise für Systemeigenschaften zu konstruieren. Es bietet die stärksten Garantien, erfordert aber oft menschliche Expertise und Interaktion.",
@@ -1570,9 +1570,9 @@
         "text": "Was bedeutet 'Bias' im Kontext von Machine Learning?",
         "options": [
           "Systematische Verzerrungen in Daten oder Modellen, die zu unfairen Vorhersagen führen",
-          "Die Voreingenommenheit von Entwicklern",
-          "Elektrische Vorspannung in Hardware",
-          "Abweichungen durch Messfehler"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bias bezeichnet systematische Verzerrungen in Trainingsdaten oder Modellen, die zu diskriminierenden oder unfairen Vorhersagen führen können. Die Identifikation und Minderung von Bias ist essentiell für faire und vertrauenswürdige KI.",
@@ -1593,9 +1593,9 @@
         "text": "Was sind 'Convolutional Neural Networks' (CNNs) und welche Verifikationsherausforderungen bringen sie?",
         "options": [
           "Netze mit Faltungsschichten für Bilderkennung; hohe Dimensionalität erschwert Verifikation",
-          "Netze für Textverarbeitung",
-          "Netze für Spracherkennung",
-          "Netze für Datenkompression"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "CNNs verwenden Faltungsschichten, die besonders effektiv für Bilddaten sind. Die hohe Dimensionalität der Eingaben (Pixel) und die spezielle Struktur der Faltungsoperationen stellen besondere Herausforderungen für die formale Verifikation dar.",
@@ -1616,9 +1616,9 @@
         "text": "Was ist 'Differential Privacy' und wie schützt es Datenschutz in KI-Systemen?",
         "options": [
           "Mathematisches Framework, das garantiert, dass einzelne Datenpunkte nicht rekonstruierbar sind",
-          "Verschiedene Datenschutzrichtlinien für verschiedene Nutzer",
-          "Verschlüsselung mit verschiedenen Schlüsseln",
-          "Unterschiedliche Zugriffsrechte für Daten"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Differential Privacy fügt kontrollierten Rauschen zu Daten oder Modellausgaben hinzu, sodass einzelne Datenpunkte nicht mehr unterscheidbar sind. Dies bietet mathematisch beweisbare Datenschutzgarantien auch bei Veröffentlichung von ML-Modellen.",
@@ -1639,9 +1639,9 @@
         "text": "Was sind 'Recurrent Neural Networks' (RNNs) und warum sind sie schwer zu verifizieren?",
         "options": [
           "Netze mit Rückkopplungen für Sequenzen; zeitliche Abhängigkeiten erschweren die Analyse",
-          "Netze die sich wiederholen",
-          "Netze für zyklische Prozesse",
-          "Netze die mehrfach trainiert werden"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "RNNs verarbeiten sequenzielle Daten durch Rückkopplungen über die Zeit. Die zeitlichen Abhängigkeiten und variablen Sequenzlängen machen die formale Verifikation besonders herausfordernd, da der Zustandsraum über die Zeit wächst.",
@@ -1662,9 +1662,9 @@
         "text": "Was ist 'Model Checking' und wie unterscheidet es sich von Theorem Proving?",
         "options": [
           "Automatische Zustandsraumexploration vs. interaktiver mathematischer Beweis",
-          "Manuelle Überprüfung vs. automatische Tests",
-          "Statische Analyse vs. dynamische Tests",
-          "Es gibt keinen Unterschied"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Model Checking exploriert automatisch alle erreichbaren Systemzustände, um Eigenschaften zu verifizieren. Theorem Proving konstruiert hingegen mathematische Beweise, oft mit menschlicher Unterstützung. Model Checking ist automatischer, aber durch State Explosion limitiert.",
@@ -1685,9 +1685,9 @@
         "text": "Was versteht man unter 'Adversarial Training'?",
         "options": [
           "Training mit bewusst erzeugten adversarialen Beispielen zur Verbesserung der Robustheit",
-          "Training gegen konkurrierende Modelle",
-          "Training mit feindlichen Entwicklern",
-          "Training unter erschwerten Bedingungen"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Adversarial Training integriert adversarial examples während des Trainings, um die Robustheit des Modells zu verbessern. Das Modell lernt, auch gegen gezielte Angriffe stabil zu bleiben.",
@@ -1708,9 +1708,9 @@
         "text": "Was sind 'Hyperparameters' und wie beeinflussen sie die Verifikation?",
         "options": [
           "Konfigurationsparameter wie Lernrate; verschiedene Werte führen zu verschiedenen Modellen, die jeweils verifiziert werden müssen",
-          "Sehr große Parameter",
-          "Parameter auf höherer Abstraktionsebene",
-          "Parameter für Hochleistungsrechnen"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Hyperparameter wie Lernrate, Batch-Size oder Netzwerkarchitektur werden vor dem Training festgelegt. Jede Kombination kann zu einem anderen Modell führen, was bedeutet, dass Verifikationsergebnisse nicht automatisch auf andere Hyperparameter-Konfigurationen übertragbar sind.",
@@ -1731,9 +1731,9 @@
         "text": "Was ist 'Federated Learning' und welche Verifikationsherausforderungen bringt es?",
         "options": [
           "Dezentrales Training über mehrere Geräte; erschwert zentrale Verifikation und Qualitätskontrolle",
-          "Training in föderalen Strukturen",
-          "Verteiltes Computing auf Servern",
-          "Training mit staatlicher Unterstützung"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Federated Learning trainiert Modelle dezentral auf vielen Geräten, ohne zentrale Datenspeicherung. Dies macht Verifikation schwierig, da Trainingsdaten nicht zentral zugänglich sind und die Datenqualität nicht direkt überprüfbar ist.",
@@ -1754,9 +1754,9 @@
         "text": "Was sind 'Assertions' in der Programmierung und wie helfen sie bei der Verifikation?",
         "options": [
           "Bedingungen, die an bestimmten Programmstellen erfüllt sein müssen; sie dokumentieren und prüfen Annahmen",
-          "Behauptungen in Kommentaren",
-          "Fehlerbehandlungsroutinen",
-          "Test-Funktionen"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Assertions sind explizite Prüfungen von Bedingungen im Code (z.B. 'assert x > 0'). Sie dienen als Dokumentation von Annahmen und können zur Runtime Verification genutzt werden. Sie sind auch hilfreich für statische Analysetools.",
@@ -1777,9 +1777,9 @@
         "text": "Was ist 'Reinforcement Learning' und welche besonderen Verifikationsprobleme entstehen?",
         "options": [
           "Lernen durch Interaktion mit Umgebung; Verhalten hängt von nicht-deterministischer Umgebung ab",
-          "Verstärkung bestehenden Wissens",
-          "Mehrfaches Training mit gleichen Daten",
-          "Training mit Belohnungssystem für Entwickler"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Reinforcement Learning (RL) lernt durch Trial-and-Error in einer Umgebung. Die Verifikation ist besonders schwierig, da das Verhalten von der oft nicht vollständig spezifizierbaren Umgebung abhängt und RL-Agenten kontinuierlich lernen und sich anpassen.",
@@ -1800,9 +1800,9 @@
         "text": "Was sind 'Pre-conditions' und 'Post-conditions' in formalen Spezifikationen?",
         "options": [
           "Bedingungen die vor/nach Funktionsausführung gelten müssen; definieren den Kontrakt",
-          "Bedingungen für optimale Performance",
-          "Zeitliche Bedingungen für Ausführung",
-          "Hardwareanforderungen"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Pre-conditions definieren, was vor Aufruf einer Funktion wahr sein muss. Post-conditions definieren, was nach erfolgreicher Ausführung garantiert ist. Zusammen bilden sie einen formalen Kontrakt für die Funktion.",
@@ -1823,9 +1823,9 @@
         "text": "Was ist 'Data Poisoning' und wie gefährdet es KI-Systeme?",
         "options": [
           "Gezielte Manipulation von Trainingsdaten, um das Modellverhalten zu verfälschen",
-          "Beschädigte Daten durch Hardwarefehler",
-          "Zu alte oder veraltete Daten",
-          "Verschlüsselte Daten"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Data Poisoning ist ein Angriff, bei dem Angreifer schädliche Beispiele in Trainingsdaten einschleusen, um das Modell zu kompromittieren. Das Modell lernt dann falsche Muster und zeigt unerwünschtes Verhalten bei bestimmten Eingaben.",
@@ -1846,9 +1846,9 @@
         "text": "Was versteht man unter 'Explainability-Accuracy Trade-off'?",
         "options": [
           "Oft sind genauere Modelle schwerer zu erklären und umgekehrt",
-          "Je schneller die Erklärung, desto ungenauer",
-          "Erklärungen kosten Genauigkeit",
-          "Genauigkeit und Erklärbarkeit schließen sich aus"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Es besteht oft ein Trade-off zwischen Modellgenauigkeit und Erklärbarkeit: Einfache, interpretierbare Modelle (z.B. lineare Regression) sind weniger genau, während komplexe Modelle (z.B. Deep Learning) genauer aber schwerer zu erklären sind. Dies ist eine zentrale Herausforderung bei XAI.",
@@ -1869,9 +1869,9 @@
         "text": "Was ist 'Model Compression' und wie beeinflusst es die Verifikation?",
         "options": [
           "Reduzierung der Modellgröße durch Techniken wie Pruning; verifizierte Eigenschaften müssen neu geprüft werden",
-          "Komprimierung der Trainingsdaten",
-          "Zip-Kompression der Modelldateien",
-          "Reduzierung der Trainingszeit"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Model Compression reduziert die Größe neuronaler Netze durch Techniken wie Pruning (Entfernen unwichtiger Verbindungen) oder Quantisierung. Nach der Kompression muss die Verifikation wiederholt werden, da sich das Verhalten ändern kann.",
@@ -1892,9 +1892,9 @@
         "text": "Was versteht man unter 'Ensemble Methods' und wie beeinflussen sie die Erklärbarkeit?",
         "options": [
           "Kombination mehrerer Modelle; erschwert einheitliche Erklärungen",
-          "Sammlung von Trainingsdaten",
-          "Gruppe von Entwicklern",
-          "Mehrfache Ausführung desselben Modells"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ensemble Methods kombinieren Vorhersagen mehrerer Modelle (z.B. Random Forests, Boosting). Dies verbessert oft die Genauigkeit, macht aber Erklärungen komplexer, da verschiedene Modelle zu unterschiedlichen Schlüssen kommen können.",
@@ -1915,9 +1915,9 @@
         "text": "Was ist 'Zero-Knowledge Proofs' im Kontext sicherer KI?",
         "options": [
           "Beweise, die eine Aussage bestätigen, ohne zusätzliche Informationen preiszugeben",
-          "Proofs ohne Vorwissen",
-          "Tests ohne Trainingsdaten",
-          "Verifikation ohne Dokumentation"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Zero-Knowledge Proofs ermöglichen es, die Korrektheit einer Aussage zu beweisen, ohne dabei sensitive Informationen preiszugeben. Dies ist relevant für Privacy-Preserving ML, wo Modelle verifiziert werden sollen, ohne Trainingsdaten oder Modelldetails offenzulegen.",
@@ -1938,9 +1938,9 @@
         "text": "Was sind 'Generative Adversarial Networks' (GANs) und welche Verifikationsherausforderungen haben sie?",
         "options": [
           "Zwei konkurrierende Netze (Generator + Discriminator); instabiles Training und schwer zu spezifizierende Ziele",
-          "Netze zur Texterkennung",
-          "Netze für Sprachsynthese",
-          "Netze zur Datenkompression"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "GANs bestehen aus einem Generator, der Daten erzeugt, und einem Discriminator, der diese bewertet. Die adversariale Dynamik macht Training instabil und Verifikation schwierig, da keine klare Zielfunktion existiert und das Verhalten schwer vorhersagbar ist.",
@@ -1961,9 +1961,9 @@
         "text": "Was ist 'Continual Learning' und welche Probleme entstehen für die Verifikation?",
         "options": [
           "Lernen neuer Aufgaben ohne alte zu vergessen; Verhalten ändert sich kontinuierlich",
-          "Kontinuierliches Training mit denselben Daten",
-          "Lernen während des Betriebs",
-          "Automatisches Nachtraining"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Continual Learning (Lifelong Learning) ermöglicht es Modellen, neue Aufgaben zu lernen, ohne früher Gelerntes zu vergessen. Für die Verifikation ist dies herausfordernd, da sich das Modell kontinuierlich ändert und frühere Garantien ungültig werden können.",
@@ -1984,9 +1984,9 @@
         "text": "Was sind 'Attention Weights' in Transformer-Modellen und wie helfen sie bei der Erklärbarkeit?",
         "options": [
           "Gewichte die zeigen, welche Eingabeteile das Modell fokussiert; ermöglichen Visualisierung der Aufmerksamkeit",
-          "Gewichtungen für wichtige Neuronen",
-          "Prioritäten für Berechnungen",
-          "Speichergewichtungen"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Attention Weights in Transformern zeigen, welche Teile der Eingabe für welche Ausgabe relevant sind. Sie bieten eine Form natürlicher Erklärbarkeit und können visualisiert werden, um zu verstehen, worauf das Modell seine Entscheidungen stützt.",
@@ -2007,9 +2007,9 @@
         "text": "Was ist 'Homomorphic Encryption' und wie ermöglicht es Privacy-Preserving ML?",
         "options": [
           "Verschlüsselung die Berechnungen auf verschlüsselten Daten erlaubt",
-          "Verschlüsselung mit mehreren Schlüsseln",
-          "Symmetrische Verschlüsselung",
-          "Hardware-basierte Verschlüsselung"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Homomorphic Encryption ermöglicht Berechnungen direkt auf verschlüsselten Daten, ohne sie zu entschlüsseln. Dies erlaubt Training und Inferenz auf sensiblen Daten, ohne dass der Service-Provider Zugriff auf die Rohdaten hat.",
@@ -2030,9 +2030,9 @@
         "text": "Was sind 'Backdoor Attacks' bei neuronalen Netzen?",
         "options": [
           "Versteckte Trigger in Modellen, die bei bestimmten Eingaben bösartiges Verhalten auslösen",
-          "Angriffe auf Backend-Server",
-          "Unbefugter Zugriff auf Trainingsdaten",
-          "Manipulation der Ausgabelayer"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Backdoor Attacks schleusen versteckte Trigger ins Modell ein, die bei normalen Eingaben unauffällig bleiben, aber bei speziellen Trigger-Mustern bösartiges Verhalten zeigen. Dies kann während des Trainings oder durch Data Poisoning geschehen.",
@@ -2053,9 +2053,9 @@
         "text": "Was ist 'Gradient Masking' und warum ist es problematisch für die Sicherheit?",
         "options": [
           "Verstecken von Gradienten um Robustheit vorzutäuschen; bietet keine echte Sicherheit",
-          "Maskierung sensibler Daten",
-          "Verschleierung von Modellarchitektur",
-          "Kompression von Gradienteninformationen"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Gradient Masking verschleiert Gradienten, sodass gradientenbasierte Angriffe schwieriger werden. Dies täuscht aber oft nur Robustheit vor ('false sense of security'), da andere Angriffsmethoden immer noch funktionieren können.",
@@ -2076,9 +2076,9 @@
         "text": "Was versteht man unter 'Accountability' in KI-Systemen?",
         "options": [
           "Nachvollziehbarkeit von Entscheidungen und Zurechenbarkeit von Verantwortung",
-          "Buchführung über Systemkosten",
-          "Protokollierung aller Aktionen",
-          "Benutzerkonten-Verwaltung"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Accountability bedeutet, dass KI-Entscheidungen nachvollziehbar sind und Verantwortung zugerechnet werden kann. Dies erfordert Logging, Erklärbarkeit und klare Verantwortungsstrukturen - essentiell für den Einsatz in kritischen Bereichen.",
@@ -2099,9 +2099,9 @@
         "text": "Was ist 'Quantization' bei neuronalen Netzen?",
         "options": [
           "Reduzierung der Zahlenpräzision (z.B. von 32-bit auf 8-bit) zur Effizienzsteigerung",
-          "Aufteilung in Quanten-Einheiten",
-          "Quantencomputing-Optimierung",
-          "Messung der Netzwerkqualität"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Quantization reduziert die Präzision von Gewichten und Aktivierungen (z.B. von Float32 auf Int8), um Speicher und Rechenzeit zu sparen. Dies kann die Genauigkeit leicht verringern und erfordert eine erneute Verifikation des quantisierten Modells.",
@@ -2122,9 +2122,9 @@
         "text": "Was sind 'Formal Proofs' und warum sind sie die stärkste Form der Verifikation?",
         "options": [
           "Mathematische Beweise die vollständige Korrektheit garantieren, nicht nur für getestete Fälle",
-          "Offizielle Dokumentation",
-          "Zertifizierte Tests",
-          "Peer-Review-Prozesse"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Formal Proofs sind mathematische Beweise, die zeigen, dass ein System alle Eigenschaften für alle möglichen Eingaben erfüllt. Im Gegensatz zu Tests, die nur Beispiele prüfen, bieten sie vollständige Garantien, sind aber aufwendig zu erstellen.",
@@ -2145,9 +2145,9 @@
         "text": "Was ist 'Concept Drift' und wie beeinflusst es KI-Systeme?",
         "options": [
           "Änderung der statistischen Eigenschaften der Daten über die Zeit; Modelle werden ungenau",
-          "Langsame Ausführung von Berechnungen",
-          "Vergessen alter Konzepte",
-          "Verschiebung der Modellarchitektur"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Concept Drift bedeutet, dass sich die zugrunde liegende Datenverteilung über die Zeit ändert. Modelle, die auf alten Daten trainiert wurden, werden dadurch ungenau und müssen aktualisiert werden. Dies ist eine Herausforderung für die langfristige Verifikation.",
@@ -2168,9 +2168,9 @@
         "text": "Was sind 'Input Sanitization' Techniken bei KI-Systemen?",
         "options": [
           "Bereinigung und Validierung von Eingaben um Angriffe zu verhindern",
-          "Säuberung von Trainingsdaten",
-          "Formatierung von Ausgaben",
-          "Kompression von Eingabedaten"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Input Sanitization prüft und bereinigt Eingaben, bevor sie ins Modell gelangen. Dies kann helfen, adversarial examples und andere Angriffe zu erkennen und zu blockieren, ist aber keine vollständige Sicherheitsgarantie.",
@@ -2191,9 +2191,9 @@
         "text": "Was ist 'Multi-Task Learning' und welche Verifikationsherausforderungen entstehen?",
         "options": [
           "Gleichzeitiges Lernen mehrerer Aufgaben; komplexere Interaktionen zwischen Tasks müssen verifiziert werden",
-          "Paralleles Training auf mehreren GPUs",
-          "Training für mehrere Benutzer",
-          "Lernen verschiedener Programmiersprachen"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Multi-Task Learning trainiert ein Modell für mehrere verwandte Aufgaben gleichzeitig. Die Verifikation muss berücksichtigen, wie sich Tasks gegenseitig beeinflussen und ob Eigenschaften über alle Tasks hinweg gelten.",
@@ -2214,9 +2214,9 @@
         "text": "Was sind 'Causal Models' und warum sind sie wichtig für XAI?",
         "options": [
           "Modelle die kausale Zusammenhänge statt nur Korrelationen erfassen; ermöglichen bessere Erklärungen",
-          "Modelle für Ursache-Wirkungs-Diagramme",
-          "Modelle die Fehlerursachen finden",
-          "Modelle für zeitliche Abläufe"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Causal Models erfassen echte kausale Beziehungen, nicht nur statistische Korrelationen. Dies ermöglicht aussagekräftigere Erklärungen (z.B. 'X verursacht Y') und bessere Vorhersagen bei Interventionen.",
@@ -2237,9 +2237,9 @@
         "text": "Was ist 'Energy-Based Models' Ansatz in der KI?",
         "options": [
           "Modelle die Datenwahrscheinlichkeit über Energiefunktionen definieren",
-          "Modelle zur Energieoptimierung",
-          "Modelle für Stromverbrauchsvorhersage",
-          "Modelle die wenig Energie verbrauchen"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Energy-Based Models weisen jedem Datenpunkt eine Energie zu - niedrige Energie für wahrscheinliche, hohe für unwahrscheinliche Daten. Sie bieten einen flexiblen Rahmen für verschiedene ML-Aufgaben, sind aber schwer zu trainieren und zu verifizieren.",
@@ -2260,9 +2260,9 @@
         "text": "Was versteht man unter 'Test Coverage' bei der Software-Verifikation?",
         "options": [
           "Der Anteil des Codes der durch Tests ausgeführt wird",
-          "Die Anzahl der durchgeführten Tests",
-          "Die Testgeschwindigkeit",
-          "Die Qualität der Testdaten"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Test Coverage misst, welcher Anteil des Codes durch Tests abgedeckt wird (z.B. Line Coverage, Branch Coverage). Hohe Coverage ist wichtig, garantiert aber nicht Fehlerfreiheit, da nicht alle Ausführungspfade und Eingabenkombinationen getestet werden können.",
@@ -2283,9 +2283,9 @@
         "text": "Was ist 'Neural Architecture Search' (NAS) und wie beeinflusst es die Verifikation?",
         "options": [
           "Automatische Suche nach optimalen Netzwerkarchitekturen; erzeugt verschiedene Modelle die jeweils verifiziert werden müssen",
-          "Suche nach Neuronen im Netzwerk",
-          "Architektur-Dokumentation",
-          "Netzwerk-Topologie-Analyse"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "NAS automatisiert die Suche nach optimalen Netzwerkarchitekturen durch systematisches Ausprobieren. Jede gefundene Architektur ist ein neues Modell mit potenziell unterschiedlichen Eigenschaften, das separat verifiziert werden muss.",
@@ -2306,9 +2306,9 @@
         "text": "Was sind die wichtigsten Zukunftsperspektiven für formale Methoden in der KI laut BSI?",
         "options": [
           "Integration in den Entwicklungsprozess, skalierbarere Methoden, Standards und Zertifizierung",
-          "Schnellere Computer und mehr Speicher",
-          "Mehr Entwickler und größere Teams",
-          "Bessere Programmiersprachen"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Zukunft liegt in der besseren Integration formaler Methoden in Standard-Entwicklungsprozesse, skalierbaren Verifikationstechniken für große Modelle, sowie der Entwicklung von Standards und Zertifizierungsverfahren für KI-Systeme in kritischen Anwendungen.",

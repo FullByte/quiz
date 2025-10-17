@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist Azure für Entwickler?",
         "options": [
-          "Eine Programmiersprache",
+          "Ein verwandtes Microsoft-Tool",
           "Eine Cloud-Plattform mit Services und Tools für Entwickler",
-          "Ein Betriebssystem",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure ist eine umfassende Cloud-Plattform, die eine Vielzahl von Services und Tools bietet, um Entwicklern bei der Erstellung, Bereitstellung und Verwaltung von Anwendungen zu helfen.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Hauptkategorien von Azure-Services gibt es?",
         "options": [
-          "Nur Compute und Storage",
+          "Ein verwandtes Microsoft-Tool",
           "Compute, Storage, Networking, Security und viele weitere",
-          "Nur Datenbanken",
-          "Nur Web Services"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure bietet Services in vielen Kategorien: Compute, Storage, Networking, Security, Databases, AI/ML, Analytics und viele weitere spezialisierte Bereiche.",
@@ -71,10 +71,10 @@
         "id": "q3",
         "text": "Was ist Azure App Service?",
         "options": [
-          "Ein Service nur für mobile Apps",
+          "Ein verwandtes Microsoft-Tool",
           "Ein vollständig verwalteter Service für Web-Apps, API-Apps und mobile Backends",
-          "Ein Service nur für Desktop-Anwendungen",
-          "Ein Service nur für Datenbanken"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure App Service ist ein vollständig verwalteter Service, der die Entwicklung und Bereitstellung von Web-Apps, API-Apps und mobilen Backends unterstützt.",
@@ -94,10 +94,10 @@
         "id": "q4",
         "text": "Welche Programmiersprachen werden von Azure unterstützt?",
         "options": [
-          "Nur .NET und C#",
-          "Nur Java und Python",
+          "Ein verwandtes Microsoft-Tool",
+          "Eine ähnliche Azure-Service",
           "Viele Sprachen wie .NET, Java, Python, Node.js, PHP, Ruby und weitere",
-          "Nur JavaScript"
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 2,
         "explanation": "Azure unterstützt eine Vielzahl von Programmiersprachen und Frameworks, darunter .NET, Java, Python, Node.js, PHP, Ruby und viele andere.",
@@ -117,10 +117,10 @@
         "id": "q5",
         "text": "Was ist Azure Functions?",
         "options": [
-          "Eine Datenbank",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Serverless Computing Service für ereignisgesteuerte Anwendungen",
-          "Ein Web-Hosting-Service",
-          "Ein Netzwerk-Service"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Functions ist ein Serverless Computing Service, der es ermöglicht, Code auszuführen, ohne sich um die Infrastruktur kümmern zu müssen, basierend auf Ereignissen und Triggern.",
@@ -140,10 +140,10 @@
         "id": "q6",
         "text": "Welche Vorteile bietet die Azure-Entwicklung?",
         "options": [
-          "Nur niedrigere Kosten",
+          "Ein verwandtes Microsoft-Tool",
           "Skalierbarkeit, globale Verfügbarkeit, Sicherheit und Integration",
-          "Nur schnellere Entwicklung",
-          "Nur einfachere Bereitstellung"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure bietet viele Vorteile: automatische Skalierbarkeit, globale Verfügbarkeit, robuste Sicherheitsfeatures und nahtlose Integration verschiedener Services.",
@@ -163,10 +163,10 @@
         "id": "q7",
         "text": "Was ist Azure DevOps?",
         "options": [
-          "Ein Betriebssystem",
+          "Ein verwandtes Microsoft-Tool",
           "Eine Sammlung von Entwicklungsdiensten für DevOps-Praktiken",
-          "Eine Programmiersprache",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure DevOps ist eine Sammlung von Entwicklungsdiensten, die DevOps-Praktiken unterstützen, einschließlich CI/CD, Projektmanagement und Zusammenarbeit.",
@@ -186,10 +186,10 @@
         "id": "q8",
         "text": "Welche Azure Storage-Optionen gibt es?",
         "options": [
-          "Nur Blob Storage",
+          "Ein verwandtes Microsoft-Tool",
           "Blob Storage, File Storage, Queue Storage, Table Storage und weitere",
-          "Nur SQL Database",
-          "Nur Cosmos DB"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure bietet verschiedene Storage-Optionen: Blob Storage für unstrukturierte Daten, File Storage für Dateisysteme, Queue Storage für Messaging und Table Storage für NoSQL-Daten.",
@@ -210,10 +210,10 @@
         "id": "q9",
         "text": "Was ist Azure Key Vault?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service zur sicheren Speicherung und Verwaltung von Geheimnissen, Schlüsseln und Zertifikaten",
-          "Ein Monitoring-Service",
-          "Ein Networking-Service"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Key Vault ist ein Service zur sicheren Speicherung und Verwaltung von Geheimnissen, API-Schlüsseln, Passwörtern und Zertifikaten.",
@@ -233,10 +233,10 @@
         "id": "q10",
         "text": "Wie kann man mit Azure entwickeln?",
         "options": [
-          "Nur über die Azure-Portal-Website",
+          "Ein verwandtes Microsoft-Tool",
           "Über Azure Portal, Visual Studio, Azure CLI, PowerShell und REST APIs",
-          "Nur über lokale Tools",
-          "Nur über mobile Apps"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure bietet verschiedene Entwicklungsoptionen: das Azure Portal, Visual Studio, Azure CLI, PowerShell und REST APIs für flexible Entwicklungsumgebungen.",
@@ -257,10 +257,10 @@
         "id": "q11",
         "text": "Was ist Azure Resource Manager (ARM)?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Deployment- und Verwaltungsservice für Azure-Ressourcen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Resource Manager ist der Deployment- und Verwaltungsservice von Azure, der die Bereitstellung, Aktualisierung und Löschung von Ressourcen in Azure-Lösungen ermöglicht.",
@@ -280,10 +280,10 @@
         "id": "q12",
         "text": "Welche Art von Anwendungen kann Azure App Service hosten?",
         "options": [
-          "Nur .NET-Anwendungen",
+          "Ein verwandtes Microsoft-Tool",
           ".NET, Java, Python, Node.js, PHP, Ruby und andere Anwendungen",
-          "Nur Java-Anwendungen",
-          "Nur Python-Anwendungen"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure App Service kann Anwendungen in verschiedenen Programmiersprachen hosten: .NET, Java, Python, Node.js, PHP, Ruby und viele andere.",
@@ -303,10 +303,10 @@
         "id": "q13",
         "text": "Was ist Azure Container Instances (ACI)?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Serverless Container-Service für schnelle Container-Bereitstellung",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Container Instances ist ein Serverless Container-Service, der die schnellste und einfachste Möglichkeit bietet, Container in Azure auszuführen, ohne virtuelle Maschinen verwalten zu müssen.",
@@ -326,10 +326,10 @@
         "id": "q14",
         "text": "Welche Azure Storage-Tiers gibt es?",
         "options": [
-          "Nur Hot Storage",
+          "Ein verwandtes Microsoft-Tool",
           "Hot, Cool, Archive und Premium Storage-Tiers",
-          "Nur Cool Storage",
-          "Nur Archive Storage"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Storage bietet verschiedene Tiers: Hot für häufig genutzte Daten, Cool für selten genutzte Daten, Archive für langfristige Speicherung und Premium für Hochleistungsanwendungen.",
@@ -350,10 +350,10 @@
         "id": "q15",
         "text": "Was ist Azure Service Bus?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Cloud-basierter Messaging-Service für die Kommunikation zwischen Anwendungen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Service Bus ist ein Cloud-basierter Messaging-Service, der die Kommunikation zwischen Anwendungen und Services ermöglicht, auch wenn sie nicht gleichzeitig verfügbar sind.",
@@ -373,10 +373,10 @@
         "id": "q16",
         "text": "Welche Azure-Identitätsdienste gibt es?",
         "options": [
-          "Nur Azure Active Directory",
+          "Ein verwandtes Microsoft-Tool",
           "Azure Active Directory, Azure AD B2C und Azure AD B2B",
-          "Nur Azure AD B2C",
-          "Nur Azure AD B2B"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure bietet verschiedene Identitätsdienste: Azure Active Directory für Unternehmensidentitäten, Azure AD B2C für Konsumenten-Apps und Azure AD B2B für Partnerzusammenarbeit.",
@@ -397,10 +397,10 @@
         "id": "q17",
         "text": "Was ist Azure API Management?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für die Veröffentlichung, Verwaltung und Überwachung von APIs",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure API Management ist ein vollständiger API-Management-Service, der die Veröffentlichung, Verwaltung, Überwachung und Sicherung von APIs ermöglicht.",
@@ -420,10 +420,10 @@
         "id": "q18",
         "text": "Welche Azure-Überwachungsdienste gibt es?",
         "options": [
-          "Nur Azure Monitor",
+          "Ein verwandtes Microsoft-Tool",
           "Azure Monitor, Application Insights und Azure Log Analytics",
-          "Nur Application Insights",
-          "Nur Azure Log Analytics"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure bietet verschiedene Überwachungsdienste: Azure Monitor für Infrastruktur, Application Insights für Anwendungsleistung und Azure Log Analytics für Log-Analyse.",
@@ -443,10 +443,10 @@
         "id": "q19",
         "text": "Was ist Azure Event Grid?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Event-Routing-Service für ereignisgesteuerte Architekturen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Event Grid ist ein vollständig verwalteter Event-Routing-Service, der eine einfache, zuverlässige und skalierbare Ereignisverarbeitung ermöglicht.",
@@ -466,10 +466,10 @@
         "id": "q20",
         "text": "Welche Azure-Entwicklertools sind verfügbar?",
         "options": [
-          "Nur Visual Studio",
+          "Ein verwandtes Microsoft-Tool",
           "Visual Studio, VS Code, Azure CLI, Azure PowerShell und Azure SDKs",
-          "Nur VS Code",
-          "Nur Azure CLI"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure bietet eine umfassende Palette von Entwicklertools: Visual Studio, VS Code, Azure CLI, Azure PowerShell und verschiedene Azure SDKs für verschiedene Programmiersprachen.",
@@ -490,10 +490,10 @@
         "id": "q21",
         "text": "Was ist Azure SDK in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure sdk und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure SDK ist ein wichtiger Service in Azure Developer Introduction, der azure sdk und verwandte Funktionen bereitstellt.",
@@ -513,10 +513,10 @@
         "id": "q22",
         "text": "Was ist Azure CLI in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure cli und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure CLI ist ein wichtiger Service in Azure Developer Introduction, der azure cli und verwandte Funktionen bereitstellt.",
@@ -536,10 +536,10 @@
         "id": "q23",
         "text": "Was ist Azure PowerShell in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure powershell und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure PowerShell ist ein wichtiger Service in Azure Developer Introduction, der azure powershell und verwandte Funktionen bereitstellt.",
@@ -559,10 +559,10 @@
         "id": "q24",
         "text": "Was ist Azure REST APIs in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure rest apis und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure REST APIs ist ein wichtiger Service in Azure Developer Introduction, der azure rest apis und verwandte Funktionen bereitstellt.",
@@ -582,10 +582,10 @@
         "id": "q25",
         "text": "Was ist Azure Graph API in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure graph api und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Graph API ist ein wichtiger Service in Azure Developer Introduction, der azure graph api und verwandte Funktionen bereitstellt.",
@@ -605,10 +605,10 @@
         "id": "q26",
         "text": "Was ist Azure Resource Manager in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure resource manager und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Resource Manager ist ein wichtiger Service in Azure Developer Introduction, der azure resource manager und verwandte Funktionen bereitstellt.",
@@ -628,10 +628,10 @@
         "id": "q27",
         "text": "Was ist Azure Templates in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure templates und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Templates ist ein wichtiger Service in Azure Developer Introduction, der azure templates und verwandte Funktionen bereitstellt.",
@@ -651,10 +651,10 @@
         "id": "q28",
         "text": "Was ist Azure Bicep in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure bicep und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Bicep ist ein wichtiger Service in Azure Developer Introduction, der azure bicep und verwandte Funktionen bereitstellt.",
@@ -674,10 +674,10 @@
         "id": "q29",
         "text": "Was ist Azure Blueprints in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure blueprints und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Blueprints ist ein wichtiger Service in Azure Developer Introduction, der azure blueprints und verwandte Funktionen bereitstellt.",
@@ -697,10 +697,10 @@
         "id": "q30",
         "text": "Was ist Azure Policies in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure policies und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Policies ist ein wichtiger Service in Azure Developer Introduction, der azure policies und verwandte Funktionen bereitstellt.",
@@ -720,10 +720,10 @@
         "id": "q31",
         "text": "Was ist Azure DevOps in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure devops und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure DevOps ist ein wichtiger Service in Azure Developer Introduction, der azure devops und verwandte Funktionen bereitstellt.",
@@ -743,10 +743,10 @@
         "id": "q32",
         "text": "Was ist Azure Pipelines in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure pipelines und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Pipelines ist ein wichtiger Service in Azure Developer Introduction, der azure pipelines und verwandte Funktionen bereitstellt.",
@@ -766,10 +766,10 @@
         "id": "q33",
         "text": "Was ist Azure Repos in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure repos und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Repos ist ein wichtiger Service in Azure Developer Introduction, der azure repos und verwandte Funktionen bereitstellt.",
@@ -789,10 +789,10 @@
         "id": "q34",
         "text": "Was ist Azure Artifacts in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure artifacts und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Artifacts ist ein wichtiger Service in Azure Developer Introduction, der azure artifacts und verwandte Funktionen bereitstellt.",
@@ -812,10 +812,10 @@
         "id": "q35",
         "text": "Was ist Azure Test Plans in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure test plans und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Test Plans ist ein wichtiger Service in Azure Developer Introduction, der azure test plans und verwandte Funktionen bereitstellt.",
@@ -835,10 +835,10 @@
         "id": "q36",
         "text": "Was ist Azure Boards in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure boards und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Boards ist ein wichtiger Service in Azure Developer Introduction, der azure boards und verwandte Funktionen bereitstellt.",
@@ -858,10 +858,10 @@
         "id": "q37",
         "text": "Was ist Azure Extensions in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure extensions und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Extensions ist ein wichtiger Service in Azure Developer Introduction, der azure extensions und verwandte Funktionen bereitstellt.",
@@ -881,10 +881,10 @@
         "id": "q38",
         "text": "Was ist Azure Marketplace in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure marketplace und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Marketplace ist ein wichtiger Service in Azure Developer Introduction, der azure marketplace und verwandte Funktionen bereitstellt.",
@@ -904,10 +904,10 @@
         "id": "q39",
         "text": "Was ist Azure Solutions in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure solutions und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Solutions ist ein wichtiger Service in Azure Developer Introduction, der azure solutions und verwandte Funktionen bereitstellt.",
@@ -927,10 +927,10 @@
         "id": "q40",
         "text": "Was ist Azure Quickstarts in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure quickstarts und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Quickstarts ist ein wichtiger Service in Azure Developer Introduction, der azure quickstarts und verwandte Funktionen bereitstellt.",
@@ -950,10 +950,10 @@
         "id": "q41",
         "text": "Was ist Azure Samples in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure samples und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Samples ist ein wichtiger Service in Azure Developer Introduction, der azure samples und verwandte Funktionen bereitstellt.",
@@ -973,10 +973,10 @@
         "id": "q42",
         "text": "Was ist Azure Documentation in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure documentation und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Documentation ist ein wichtiger Service in Azure Developer Introduction, der azure documentation und verwandte Funktionen bereitstellt.",
@@ -996,10 +996,10 @@
         "id": "q43",
         "text": "Was ist Azure Learn in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure learn und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Learn ist ein wichtiger Service in Azure Developer Introduction, der azure learn und verwandte Funktionen bereitstellt.",
@@ -1019,10 +1019,10 @@
         "id": "q44",
         "text": "Was ist Azure Certifications in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure certifications und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Certifications ist ein wichtiger Service in Azure Developer Introduction, der azure certifications und verwandte Funktionen bereitstellt.",
@@ -1042,10 +1042,10 @@
         "id": "q45",
         "text": "Was ist Azure Training in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure training und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Training ist ein wichtiger Service in Azure Developer Introduction, der azure training und verwandte Funktionen bereitstellt.",
@@ -1065,10 +1065,10 @@
         "id": "q46",
         "text": "Was ist Azure Community in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure community und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Community ist ein wichtiger Service in Azure Developer Introduction, der azure community und verwandte Funktionen bereitstellt.",
@@ -1088,10 +1088,10 @@
         "id": "q47",
         "text": "Was ist Azure Support in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure support und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Support ist ein wichtiger Service in Azure Developer Introduction, der azure support und verwandte Funktionen bereitstellt.",
@@ -1111,10 +1111,10 @@
         "id": "q48",
         "text": "Was ist Azure Forums in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure forums und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Forums ist ein wichtiger Service in Azure Developer Introduction, der azure forums und verwandte Funktionen bereitstellt.",
@@ -1134,10 +1134,10 @@
         "id": "q49",
         "text": "Was ist Azure Feedback in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure feedback und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Feedback ist ein wichtiger Service in Azure Developer Introduction, der azure feedback und verwandte Funktionen bereitstellt.",
@@ -1157,10 +1157,10 @@
         "id": "q50",
         "text": "Was ist Azure User Voice in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure user voice und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure User Voice ist ein wichtiger Service in Azure Developer Introduction, der azure user voice und verwandte Funktionen bereitstellt.",
@@ -1180,10 +1180,10 @@
         "id": "q51",
         "text": "Was ist Azure GitHub in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure github und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure GitHub ist ein wichtiger Service in Azure Developer Introduction, der azure github und verwandte Funktionen bereitstellt.",
@@ -1203,10 +1203,10 @@
         "id": "q52",
         "text": "Was ist Azure Labs in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure labs und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Labs ist ein wichtiger Service in Azure Developer Introduction, der azure labs und verwandte Funktionen bereitstellt.",
@@ -1226,10 +1226,10 @@
         "id": "q53",
         "text": "Was ist Azure Workshops in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure workshops und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Workshops ist ein wichtiger Service in Azure Developer Introduction, der azure workshops und verwandte Funktionen bereitstellt.",
@@ -1249,10 +1249,10 @@
         "id": "q54",
         "text": "Was ist Azure Hands-on Labs in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure hands-on labs und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Hands-on Labs ist ein wichtiger Service in Azure Developer Introduction, der azure hands-on labs und verwandte Funktionen bereitstellt.",
@@ -1272,10 +1272,10 @@
         "id": "q55",
         "text": "Was ist Azure Sandbox in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure sandbox und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Sandbox ist ein wichtiger Service in Azure Developer Introduction, der azure sandbox und verwandte Funktionen bereitstellt.",
@@ -1295,10 +1295,10 @@
         "id": "q56",
         "text": "Was ist Azure Free Account in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure free account und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Free Account ist ein wichtiger Service in Azure Developer Introduction, der azure free account und verwandte Funktionen bereitstellt.",
@@ -1318,10 +1318,10 @@
         "id": "q57",
         "text": "Was ist Azure Credits in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure credits und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Credits ist ein wichtiger Service in Azure Developer Introduction, der azure credits und verwandte Funktionen bereitstellt.",
@@ -1341,10 +1341,10 @@
         "id": "q58",
         "text": "Was ist Azure Subscriptions in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure subscriptions und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Subscriptions ist ein wichtiger Service in Azure Developer Introduction, der azure subscriptions und verwandte Funktionen bereitstellt.",
@@ -1364,10 +1364,10 @@
         "id": "q59",
         "text": "Was ist Azure Management Groups in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure management groups und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Management Groups ist ein wichtiger Service in Azure Developer Introduction, der azure management groups und verwandte Funktionen bereitstellt.",
@@ -1387,10 +1387,10 @@
         "id": "q60",
         "text": "Was ist Azure Tags in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure tags und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Tags ist ein wichtiger Service in Azure Developer Introduction, der azure tags und verwandte Funktionen bereitstellt.",
@@ -1410,10 +1410,10 @@
         "id": "q61",
         "text": "Was ist Azure Cost Management in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure cost management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Cost Management ist ein wichtiger Service in Azure Developer Introduction, der azure cost management und verwandte Funktionen bereitstellt.",
@@ -1433,10 +1433,10 @@
         "id": "q62",
         "text": "Was ist Azure Budgets in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure budgets und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Budgets ist ein wichtiger Service in Azure Developer Introduction, der azure budgets und verwandte Funktionen bereitstellt.",
@@ -1456,10 +1456,10 @@
         "id": "q63",
         "text": "Was ist Azure Alerts in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure alerts und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Alerts ist ein wichtiger Service in Azure Developer Introduction, der azure alerts und verwandte Funktionen bereitstellt.",
@@ -1479,10 +1479,10 @@
         "id": "q64",
         "text": "Was ist Azure Monitor in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure monitor und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Monitor ist ein wichtiger Service in Azure Developer Introduction, der azure monitor und verwandte Funktionen bereitstellt.",
@@ -1502,10 +1502,10 @@
         "id": "q65",
         "text": "Was ist Azure Log Analytics in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure log analytics und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Log Analytics ist ein wichtiger Service in Azure Developer Introduction, der azure log analytics und verwandte Funktionen bereitstellt.",
@@ -1525,10 +1525,10 @@
         "id": "q66",
         "text": "Was ist Azure Application Insights in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure application insights und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Application Insights ist ein wichtiger Service in Azure Developer Introduction, der azure application insights und verwandte Funktionen bereitstellt.",
@@ -1548,10 +1548,10 @@
         "id": "q67",
         "text": "Was ist Azure Container Insights in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure container insights und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Container Insights ist ein wichtiger Service in Azure Developer Introduction, der azure container insights und verwandte Funktionen bereitstellt.",
@@ -1571,10 +1571,10 @@
         "id": "q68",
         "text": "Was ist Azure VM Insights in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure vm insights und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure VM Insights ist ein wichtiger Service in Azure Developer Introduction, der azure vm insights und verwandte Funktionen bereitstellt.",
@@ -1594,10 +1594,10 @@
         "id": "q69",
         "text": "Was ist Azure Network Insights in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure network insights und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Network Insights ist ein wichtiger Service in Azure Developer Introduction, der azure network insights und verwandte Funktionen bereitstellt.",
@@ -1617,10 +1617,10 @@
         "id": "q70",
         "text": "Was ist Azure Storage Insights in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure storage insights und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Storage Insights ist ein wichtiger Service in Azure Developer Introduction, der azure storage insights und verwandte Funktionen bereitstellt.",
@@ -1640,10 +1640,10 @@
         "id": "q71",
         "text": "Was ist Azure Security Center in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure security center und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Security Center ist ein wichtiger Service in Azure Developer Introduction, der azure security center und verwandte Funktionen bereitstellt.",
@@ -1663,10 +1663,10 @@
         "id": "q72",
         "text": "Was ist Azure Sentinel in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure sentinel und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Sentinel ist ein wichtiger Service in Azure Developer Introduction, der azure sentinel und verwandte Funktionen bereitstellt.",
@@ -1686,10 +1686,10 @@
         "id": "q73",
         "text": "Was ist Azure Key Vault in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure key vault und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Key Vault ist ein wichtiger Service in Azure Developer Introduction, der azure key vault und verwandte Funktionen bereitstellt.",
@@ -1709,10 +1709,10 @@
         "id": "q74",
         "text": "Was ist Azure Active Directory in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure active directory und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Active Directory ist ein wichtiger Service in Azure Developer Introduction, der azure active directory und verwandte Funktionen bereitstellt.",
@@ -1732,10 +1732,10 @@
         "id": "q75",
         "text": "Was ist Azure RBAC in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure rbac und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure RBAC ist ein wichtiger Service in Azure Developer Introduction, der azure rbac und verwandte Funktionen bereitstellt.",
@@ -1755,10 +1755,10 @@
         "id": "q76",
         "text": "Was ist Azure Managed Identity in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure managed identity und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Managed Identity ist ein wichtiger Service in Azure Developer Introduction, der azure managed identity und verwandte Funktionen bereitstellt.",
@@ -1778,10 +1778,10 @@
         "id": "q77",
         "text": "Was ist Azure Service Principal in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure service principal und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Service Principal ist ein wichtiger Service in Azure Developer Introduction, der azure service principal und verwandte Funktionen bereitstellt.",
@@ -1801,10 +1801,10 @@
         "id": "q78",
         "text": "Was ist Azure Authentication in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure authentication und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Authentication ist ein wichtiger Service in Azure Developer Introduction, der azure authentication und verwandte Funktionen bereitstellt.",
@@ -1824,10 +1824,10 @@
         "id": "q79",
         "text": "Was ist Azure Authorization in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure authorization und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Authorization ist ein wichtiger Service in Azure Developer Introduction, der azure authorization und verwandte Funktionen bereitstellt.",
@@ -1847,10 +1847,10 @@
         "id": "q80",
         "text": "Was ist Azure Multi-factor Authentication in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure multi-factor authentication und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Multi-factor Authentication ist ein wichtiger Service in Azure Developer Introduction, der azure multi-factor authentication und verwandte Funktionen bereitstellt.",
@@ -1870,10 +1870,10 @@
         "id": "q81",
         "text": "Was ist Azure Conditional Access in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure conditional access und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Conditional Access ist ein wichtiger Service in Azure Developer Introduction, der azure conditional access und verwandte Funktionen bereitstellt.",
@@ -1893,10 +1893,10 @@
         "id": "q82",
         "text": "Was ist Azure Privileged Identity Management in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure privileged identity management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Privileged Identity Management ist ein wichtiger Service in Azure Developer Introduction, der azure privileged identity management und verwandte Funktionen bereitstellt.",
@@ -1916,10 +1916,10 @@
         "id": "q83",
         "text": "Was ist Azure Identity Protection in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure identity protection und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Identity Protection ist ein wichtiger Service in Azure Developer Introduction, der azure identity protection und verwandte Funktionen bereitstellt.",
@@ -1939,10 +1939,10 @@
         "id": "q84",
         "text": "Was ist Azure Access Reviews in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure access reviews und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Access Reviews ist ein wichtiger Service in Azure Developer Introduction, der azure access reviews und verwandte Funktionen bereitstellt.",
@@ -1962,10 +1962,10 @@
         "id": "q85",
         "text": "Was ist Azure Terms of Use in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure terms of use und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Terms of Use ist ein wichtiger Service in Azure Developer Introduction, der azure terms of use und verwandte Funktionen bereitstellt.",
@@ -1985,10 +1985,10 @@
         "id": "q86",
         "text": "Was ist Azure Information Protection in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure information protection und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Information Protection ist ein wichtiger Service in Azure Developer Introduction, der azure information protection und verwandte Funktionen bereitstellt.",
@@ -2008,10 +2008,10 @@
         "id": "q87",
         "text": "Was ist Azure Data Loss Prevention in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure data loss prevention und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Data Loss Prevention ist ein wichtiger Service in Azure Developer Introduction, der azure data loss prevention und verwandte Funktionen bereitstellt.",
@@ -2031,10 +2031,10 @@
         "id": "q88",
         "text": "Was ist Azure Cloud App Security in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure cloud app security und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Cloud App Security ist ein wichtiger Service in Azure Developer Introduction, der azure cloud app security und verwandte Funktionen bereitstellt.",
@@ -2054,10 +2054,10 @@
         "id": "q89",
         "text": "Was ist Azure Advanced Threat Protection in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure advanced threat protection und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Advanced Threat Protection ist ein wichtiger Service in Azure Developer Introduction, der azure advanced threat protection und verwandte Funktionen bereitstellt.",
@@ -2077,10 +2077,10 @@
         "id": "q90",
         "text": "Was ist Azure Defender in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure defender und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Defender ist ein wichtiger Service in Azure Developer Introduction, der azure defender und verwandte Funktionen bereitstellt.",
@@ -2100,10 +2100,10 @@
         "id": "q91",
         "text": "Was ist Azure Security Score in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure security score und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Security Score ist ein wichtiger Service in Azure Developer Introduction, der azure security score und verwandte Funktionen bereitstellt.",
@@ -2123,10 +2123,10 @@
         "id": "q92",
         "text": "Was ist Azure Compliance in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure compliance und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Compliance ist ein wichtiger Service in Azure Developer Introduction, der azure compliance und verwandte Funktionen bereitstellt.",
@@ -2146,10 +2146,10 @@
         "id": "q93",
         "text": "Was ist Azure Governance in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure governance und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Governance ist ein wichtiger Service in Azure Developer Introduction, der azure governance und verwandte Funktionen bereitstellt.",
@@ -2169,10 +2169,10 @@
         "id": "q94",
         "text": "Was ist Azure Policies in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure policies und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Policies ist ein wichtiger Service in Azure Developer Introduction, der azure policies und verwandte Funktionen bereitstellt.",
@@ -2192,10 +2192,10 @@
         "id": "q95",
         "text": "Was ist Azure Initiatives in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure initiatives und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Initiatives ist ein wichtiger Service in Azure Developer Introduction, der azure initiatives und verwandte Funktionen bereitstellt.",
@@ -2215,10 +2215,10 @@
         "id": "q96",
         "text": "Was ist Azure Blueprints in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure blueprints und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Blueprints ist ein wichtiger Service in Azure Developer Introduction, der azure blueprints und verwandte Funktionen bereitstellt.",
@@ -2238,10 +2238,10 @@
         "id": "q97",
         "text": "Was ist Azure Resource Locks in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure resource locks und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Resource Locks ist ein wichtiger Service in Azure Developer Introduction, der azure resource locks und verwandte Funktionen bereitstellt.",
@@ -2261,10 +2261,10 @@
         "id": "q98",
         "text": "Was ist Azure Resource Groups in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure resource groups und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Resource Groups ist ein wichtiger Service in Azure Developer Introduction, der azure resource groups und verwandte Funktionen bereitstellt.",
@@ -2284,10 +2284,10 @@
         "id": "q99",
         "text": "Was ist Azure Naming Conventions in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure naming conventions und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Naming Conventions ist ein wichtiger Service in Azure Developer Introduction, der azure naming conventions und verwandte Funktionen bereitstellt.",
@@ -2307,10 +2307,10 @@
         "id": "q100",
         "text": "Was ist Azure Best Practices in Azure Developer Introduction?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für azure best practices und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure Best Practices ist ein wichtiger Service in Azure Developer Introduction, der azure best practices und verwandte Funktionen bereitstellt.",

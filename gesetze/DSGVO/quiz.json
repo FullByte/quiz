@@ -21,9 +21,9 @@
         "id": "q1",
         "text": "Wann ist die DSGVO in Kraft getreten?",
         "options": [
-          "24. Mai 2016",
-          "25. Mai 2016",
-          "24. Mai 2018",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren",
           "25. Mai 2018"
         ],
         "correctIndex": 3,
@@ -43,10 +43,10 @@
         "id": "q2",
         "text": "Was sind 'personenbezogene Daten' nach der DSGVO?",
         "options": [
-          "Nur Namen und Adressen",
+          "Ein verwandter KI-Algorithmus",
           "Alle Informationen, die sich auf eine identifizierte oder identifizierbare Person beziehen",
-          "Nur biometrische Daten",
-          "Nur digitale Daten"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen, wie Name, Kennnummer, Standortdaten, Online-Kennung oder besondere Merkmale.",
@@ -65,10 +65,10 @@
         "id": "q3",
         "text": "Was versteht man unter 'Verarbeitung' personenbezogener Daten?",
         "options": [
-          "Nur die Speicherung von Daten",
-          "Nur das Löschen von Daten",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Jeden Vorgang im Zusammenhang mit Daten wie Erhebung, Speicherung, Verwendung, Löschung",
-          "Nur die digitale Verarbeitung"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Verarbeitung umfasst jeden Vorgang wie Erheben, Erfassen, Organisation, Ordnen, Speicherung, Anpassung, Verwendung, Offenlegung, Abgleich, Löschung oder Vernichtung von Daten.",
@@ -87,10 +87,10 @@
         "id": "q4",
         "text": "Welche Rechtsgrundlagen für die Verarbeitung personenbezogener Daten gibt es?",
         "options": [
-          "Nur Einwilligung",
+          "Eine ähnliche rechtliche Bestimmung",
           "Einwilligung, Vertrag, rechtliche Verpflichtung, lebenswichtige Interessen, öffentliche Aufgabe, berechtigte Interessen",
-          "Nur vertragliche Notwendigkeit",
-          "Nur gesetzliche Verpflichtungen"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Es gibt sechs Rechtsgrundlagen: Einwilligung, Vertragserfüllung, rechtliche Verpflichtung, Schutz lebenswichtiger Interessen, öffentliche Aufgabe und berechtigte Interessen des Verantwortlichen.",
@@ -109,10 +109,10 @@
         "id": "q5",
         "text": "Was sind 'besondere Kategorien personenbezogener Daten' (sensible Daten)?",
         "options": [
-          "Alle digitalen Daten",
-          "Nur Gesundheitsdaten",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Daten über rassische/ethnische Herkunft, politische Meinungen, Religion, Gesundheit, Sexualleben, biometrische/genetische Daten",
-          "Nur Finanzdaten"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Besondere Kategorien umfassen Daten über rassische/ethnische Herkunft, politische Meinungen, religiöse Überzeugungen, Gewerkschaftszugehörigkeit, Gesundheit, Sexualleben, sexuelle Orientierung sowie genetische und biometrische Daten.",
@@ -131,10 +131,10 @@
         "id": "q6",
         "text": "Ist die Verarbeitung besonderer Kategorien personenbezogener Daten grundsätzlich erlaubt?",
         "options": [
-          "Ja, immer",
+          "Ein verwandter KI-Algorithmus",
           "Nein, grundsätzlich verboten mit definierten Ausnahmen",
-          "Nur mit Einwilligung",
-          "Nur für öffentliche Stellen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Verarbeitung besonderer Kategorien ist grundsätzlich untersagt, es sei denn, es liegt eine der in Artikel 9 Absatz 2 genannten Ausnahmen vor.",
@@ -153,10 +153,10 @@
         "id": "q7",
         "text": "Was ist eine 'Einwilligung' nach der DSGVO?",
         "options": [
-          "Jede Form der Zustimmung",
+          "Eine ähnliche Alternative",
           "Eine freiwillige, spezifische, informierte und unmissverständliche Willensbekundung",
-          "Ein mündliches Einverständnis",
-          "Eine implizite Zustimmung"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Einwilligung muss freiwillig, für einen bestimmten Fall, in informierter Weise und unmissverständlich durch eine eindeutige Handlung abgegeben werden.",
@@ -175,10 +175,10 @@
         "id": "q8",
         "text": "Kann eine Einwilligung jederzeit widerrufen werden?",
         "options": [
-          "Nein, eine Einwilligung ist bindend",
-          "Ja, aber nur schriftlich",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Ja, jederzeit und ohne Angabe von Gründen",
-          "Nur innerhalb von 14 Tagen"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die betroffene Person hat das Recht, ihre Einwilligung jederzeit zu widerrufen. Der Widerruf berührt nicht die Rechtmäßigkeit der bis dahin erfolgten Verarbeitung.",
@@ -197,10 +197,10 @@
         "id": "q9",
         "text": "Wer ist 'Verantwortlicher' im Sinne der DSGVO?",
         "options": [
-          "Nur der Geschäftsführer",
+          "Eine ähnliche Alternative",
           "Die Stelle, die über Zwecke und Mittel der Verarbeitung entscheidet",
-          "Nur IT-Abteilungen",
-          "Jeder Mitarbeiter"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Verantwortliche ist die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung entscheidet.",
@@ -219,10 +219,10 @@
         "id": "q10",
         "text": "Was ist ein 'Auftragsverarbeiter'?",
         "options": [
-          "Ein Kunde",
+          "Eine ähnliche Alternative",
           "Eine Person, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet",
-          "Ein Datenschutzbeauftragter",
-          "Eine Aufsichtsbehörde"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Auftragsverarbeiter ist eine natürliche oder juristische Person, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet.",
@@ -241,10 +241,10 @@
         "id": "q11",
         "text": "Welches Recht hat eine betroffene Person bezüglich ihrer Daten?",
         "options": [
-          "Nur das Recht auf Löschung",
+          "Eine ähnliche rechtliche Bestimmung",
           "Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerspruch",
-          "Nur das Recht auf Auskunft",
-          "Keine besonderen Rechte"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Betroffene Personen haben umfassende Rechte: Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch gegen die Verarbeitung.",
@@ -263,10 +263,10 @@
         "id": "q12",
         "text": "Innerhalb welcher Frist muss ein Auskunftsersuchen beantwortet werden?",
         "options": [
-          "Sofort",
+          "Eine ähnliche Alternative",
           "Innerhalb von einem Monat, verlängerbar um zwei Monate",
-          "Innerhalb von drei Monaten",
-          "Innerhalb von sechs Monaten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Verantwortliche muss der betroffenen Person unverzüglich, spätestens aber innerhalb eines Monats Auskunft erteilen. Diese Frist kann um zwei weitere Monate verlängert werden.",
@@ -285,10 +285,10 @@
         "id": "q13",
         "text": "Was ist das 'Recht auf Vergessenwerden'?",
         "options": [
-          "Das Recht, vergessen zu werden",
+          "Eine ähnliche rechtliche Bestimmung",
           "Das Recht auf Löschung personenbezogener Daten unter bestimmten Bedingungen",
-          "Das Recht auf Anonymität",
-          "Das Recht auf Pseudonymisierung"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Das Recht auf Vergessenwerden ist das Recht auf Löschung personenbezogener Daten, wenn sie nicht mehr notwendig sind, die Einwilligung widerrufen wurde oder die Daten unrechtmäßig verarbeitet wurden.",
@@ -307,10 +307,10 @@
         "id": "q14",
         "text": "Was ist das 'Recht auf Datenübertragbarkeit'?",
         "options": [
-          "Das Recht, Daten physisch zu transportieren",
+          "Eine ähnliche rechtliche Bestimmung",
           "Das Recht, personenbezogene Daten in einem strukturierten Format zu erhalten und an einen anderen Verantwortlichen zu übermitteln",
-          "Das Recht auf Datensicherung",
-          "Das Recht auf Cloud-Speicherung"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Betroffene Personen haben das Recht, ihre Daten in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten und an einen anderen Verantwortlichen zu übermitteln.",
@@ -329,10 +329,10 @@
         "id": "q15",
         "text": "Was ist eine 'Datenschutzverletzung' (Data Breach)?",
         "options": [
-          "Jeder Fehler in der IT",
+          "Ein verwandter KI-Algorithmus",
           "Eine Verletzung der Sicherheit, die zur Vernichtung, zum Verlust oder zur unrechtmäßigen Offenlegung von Daten führt",
-          "Nur Hackerangriffe",
-          "Nur versehentliche Löschungen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Datenschutzverletzung ist eine Verletzung der Sicherheit, die zur Vernichtung, zum Verlust, zur Veränderung oder zur unbefugten Offenlegung oder zum Zugang zu Daten führt.",
@@ -351,10 +351,10 @@
         "id": "q16",
         "text": "Innerhalb welcher Frist muss eine Datenschutzverletzung der Aufsichtsbehörde gemeldet werden?",
         "options": [
-          "Sofort",
-          "Innerhalb von 24 Stunden",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Innerhalb von 72 Stunden",
-          "Innerhalb von einer Woche"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Der Verantwortliche muss eine Datenschutzverletzung unverzüglich und möglichst binnen 72 Stunden, nachdem ihm die Verletzung bekannt wurde, der Aufsichtsbehörde melden.",
@@ -373,10 +373,10 @@
         "id": "q17",
         "text": "Muss die betroffene Person bei einer Datenschutzverletzung informiert werden?",
         "options": [
-          "Ja, immer",
+          "Ein verwandter KI-Algorithmus",
           "Nur wenn ein hohes Risiko für ihre Rechte und Freiheiten besteht",
-          "Nein, niemals",
-          "Nur auf Anfrage"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die betroffene Person muss unverzüglich benachrichtigt werden, wenn die Datenschutzverletzung voraussichtlich ein hohes Risiko für ihre persönlichen Rechte und Freiheiten zur Folge hat.",
@@ -395,10 +395,10 @@
         "id": "q18",
         "text": "Was ist eine 'Datenschutz-Folgenabschätzung' (DSFA)?",
         "options": [
-          "Eine finanzielle Bewertung",
+          "Ein verwandter KI-Algorithmus",
           "Eine Bewertung der Folgen geplanter Verarbeitungsvorgänge für den Schutz personenbezogener Daten",
-          "Eine Mitarbeiterbewertung",
-          "Eine Kundenzufriedenheitsumfrage"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine DSFA ist eine Bewertung der Auswirkungen geplanter Verarbeitungsvorgänge auf den Schutz personenbezogener Daten, die bei hohem Risiko durchgeführt werden muss.",
@@ -417,10 +417,10 @@
         "id": "q19",
         "text": "Wann ist eine Datenschutz-Folgenabschätzung erforderlich?",
         "options": [
-          "Immer",
-          "Bei jeder neuen Software",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Wenn eine Verarbeitung voraussichtlich ein hohes Risiko zur Folge hat",
-          "Nur bei internationalen Transfers"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Eine DSFA ist erforderlich, wenn eine Form der Verarbeitung, insbesondere bei neuen Technologien, voraussichtlich ein hohes Risiko für die Rechte und Freiheiten natürlicher Personen zur Folge hat.",
@@ -439,10 +439,10 @@
         "id": "q20",
         "text": "Was ist ein 'Datenschutzbeauftragter' (DSB)?",
         "options": [
-          "Der Geschäftsführer",
+          "Ein verwandter KI-Algorithmus",
           "Eine Person, die den Verantwortlichen berät und die Einhaltung der DSGVO überwacht",
-          "Ein Mitarbeiter der IT-Abteilung",
-          "Ein externer Anwalt"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Datenschutzbeauftragte berät den Verantwortlichen, überwacht die Einhaltung der DSGVO, schult Mitarbeiter und ist Ansprechpartner für Aufsichtsbehörden und betroffene Personen.",
@@ -461,10 +461,10 @@
         "id": "q21",
         "text": "Wann ist die Benennung eines Datenschutzbeauftragten verpflichtend?",
         "options": [
-          "Immer",
+          "Ein verwandter KI-Algorithmus",
           "Bei öffentlichen Stellen, umfangreicher Verarbeitung sensibler Daten oder systematischer Überwachung",
-          "Nur bei Unternehmen über 250 Mitarbeitern",
-          "Nur bei IT-Unternehmen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein DSB muss benannt werden bei öffentlichen Stellen, wenn Kerntätigkeit in umfangreicher Verarbeitung besonderer Datenkategorien besteht oder eine umfangreiche systematische Überwachung durchgeführt wird.",
@@ -483,10 +483,10 @@
         "id": "q22",
         "text": "Was ist 'Pseudonymisierung'?",
         "options": [
-          "Vollständige Anonymisierung",
+          "Eine ähnliche Alternative",
           "Verarbeitung so, dass Daten ohne zusätzliche Informationen nicht mehr einer Person zugeordnet werden können",
-          "Verwendung von Pseudonymen",
-          "Verschlüsselung"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Pseudonymisierung ist die Verarbeitung personenbezogener Daten in einer Weise, dass die Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer Person zugeordnet werden können.",
@@ -505,10 +505,10 @@
         "id": "q23",
         "text": "Was bedeutet 'Privacy by Design'?",
         "options": [
-          "Schönes Design von Datenschutzerklärungen",
+          "Eine ähnliche Alternative",
           "Berücksichtigung des Datenschutzes bereits bei der Gestaltung von Systemen und Prozessen",
-          "Nur für Designer relevant",
-          "Ein Marketingkonzept"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Privacy by Design bedeutet, dass der Verantwortliche technische und organisatorische Maßnahmen bereits bei der Planung der Verarbeitungstätigkeit implementiert, um den Datenschutz zu gewährleisten.",
@@ -527,10 +527,10 @@
         "id": "q24",
         "text": "Was bedeutet 'Privacy by Default'?",
         "options": [
-          "Standard-Datenschutzeinstellungen",
+          "Eine ähnliche Alternative",
           "Standardmäßig höchstmögliche Datenschutzeinstellungen",
-          "Voreingestellte Einwilligungen",
-          "Automatische Datenlöschung"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Privacy by Default bedeutet, dass standardmäßig nur diejenigen personenbezogenen Daten verarbeitet werden, die für den jeweiligen Zweck erforderlich sind - die datenschutzfreundlichste Einstellung als Standard.",
@@ -549,10 +549,10 @@
         "id": "q25",
         "text": "Was ist ein 'Verzeichnis von Verarbeitungstätigkeiten'?",
         "options": [
-          "Eine Liste aller Mitarbeiter",
+          "Eine ähnliche Alternative",
           "Ein Verzeichnis aller Verarbeitungsprozesse mit Details zu Zweck, Kategorien, Empfängern etc.",
-          "Ein Telefonverzeichnis",
-          "Eine Kundenliste"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Jeder Verantwortliche muss ein Verzeichnis aller Verarbeitungstätigkeiten führen mit Angaben zu Zwecken, Kategorien betroffener Personen und Daten, Empfängern, Übermittlungen und Löschfristen.",
@@ -571,10 +571,10 @@
         "id": "q26",
         "text": "Gibt es eine Ausnahme von der Pflicht, ein Verzeichnis zu führen?",
         "options": [
-          "Nein, niemals",
+          "Eine ähnliche Alternative",
           "Ja, für Unternehmen mit weniger als 250 Mitarbeitern unter bestimmten Bedingungen",
-          "Ja, für alle kleinen Unternehmen",
-          "Ja, für gemeinnützige Organisationen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Unternehmen mit weniger als 250 Mitarbeitern sind ausgenommen, es sei denn, die Verarbeitung birgt ein Risiko, erfolgt nicht nur gelegentlich oder umfasst besondere Datenkategorien.",
@@ -593,10 +593,10 @@
         "id": "q27",
         "text": "Was sind die Grundsätze der Datenverarbeitung?",
         "options": [
-          "Nur Rechtmäßigkeit",
+          "Ein verwandter KI-Algorithmus",
           "Rechtmäßigkeit, Transparenz, Zweckbindung, Datenminimierung, Richtigkeit, Speicherbegrenzung, Integrität",
-          "Nur Sicherheit",
-          "Nur Transparenz"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Grundsätze sind: Rechtmäßigkeit, Verarbeitung nach Treu und Glauben, Transparenz, Zweckbindung, Datenminimierung, Richtigkeit, Speicherbegrenzung, Integrität und Vertraulichkeit sowie Rechenschaftspflicht.",
@@ -615,10 +615,10 @@
         "id": "q28",
         "text": "Was bedeutet 'Datenminimierung'?",
         "options": [
-          "Möglichst wenig Speicherplatz nutzen",
+          "Ein verwandter KI-Algorithmus",
           "Nur die für den Zweck notwendigen Daten erheben und verarbeiten",
-          "Kleine Datenbanken verwenden",
-          "Daten komprimieren"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Datenminimierung bedeutet, dass personenbezogene Daten dem Zweck angemessen und erheblich sowie auf das notwendige Maß beschränkt sein müssen.",
@@ -637,10 +637,10 @@
         "id": "q29",
         "text": "Was bedeutet 'Zweckbindung'?",
         "options": [
-          "Daten an einen Zweck binden",
+          "Eine ähnliche Alternative",
           "Daten nur für festgelegte, eindeutige und legitime Zwecke verarbeiten",
-          "Nur einen Zweck haben",
-          "Zwecke dokumentieren"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Zweckbindung bedeutet, dass personenbezogene Daten für festgelegte, eindeutige und legitime Zwecke erhoben und nicht in einer mit diesen Zwecken nicht vereinbaren Weise weiterverarbeitet werden dürfen.",
@@ -659,10 +659,10 @@
         "id": "q30",
         "text": "Was ist eine 'Aufsichtsbehörde'?",
         "options": [
-          "Die Polizei",
+          "Eine ähnliche Alternative",
           "Eine unabhängige staatliche Stelle zur Überwachung der DSGVO-Anwendung",
-          "Das Finanzamt",
-          "Ein Gericht"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Aufsichtsbehörde ist eine von einem Mitgliedstaat eingerichtete unabhängige staatliche Stelle zur Überwachung der Anwendung der DSGVO.",
@@ -681,10 +681,10 @@
         "id": "q31",
         "text": "Wie hoch können Geldbußen bei Verstößen gegen die DSGVO sein?",
         "options": [
-          "Bis zu 10.000 Euro",
+          "Eine ähnliche Alternative",
           "Bis zu 20 Millionen Euro oder 4% des Jahresumsatzes",
-          "Bis zu 1 Million Euro",
-          "Unbegrenzt"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Je nach Schwere des Verstoßes können Geldbußen bis zu 20 Millionen Euro oder bis zu 4% des gesamten weltweit erzielten Jahresumsatzes verhängt werden, je nachdem, welcher Betrag höher ist.",
@@ -703,10 +703,10 @@
         "id": "q32",
         "text": "Was ist ein 'Drittland' im Sinne der DSGVO?",
         "options": [
-          "Jedes Land außer dem eigenen",
+          "Eine ähnliche Alternative",
           "Ein Land außerhalb der EU/des EWR",
-          "Nur Entwicklungsländer",
-          "Nur Nicht-NATO-Länder"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Drittland ist ein Land, das nicht Mitglied der Europäischen Union oder des Europäischen Wirtschaftsraums ist.",
@@ -725,10 +725,10 @@
         "id": "q33",
         "text": "Unter welchen Bedingungen dürfen Daten in ein Drittland übermittelt werden?",
         "options": [
-          "Immer erlaubt",
+          "Ein verwandter KI-Algorithmus",
           "Nur mit Angemessenheitsbeschluss, geeigneten Garantien oder Ausnahmen",
-          "Niemals erlaubt",
-          "Nur innerhalb der EU"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Datenübermittlungen in Drittländer sind nur zulässig bei einem Angemessenheitsbeschluss der Kommission, geeigneten Garantien (z.B. Standardvertragsklauseln) oder in Ausnahmefällen.",
@@ -747,10 +747,10 @@
         "id": "q34",
         "text": "Was sind 'Standardvertragsklauseln'?",
         "options": [
-          "Normale Verträge",
+          "Eine ähnliche Alternative",
           "Von der Kommission genehmigte Vertragsklauseln für Datenübermittlungen in Drittländer",
-          "Eine Lösung für agb",
-          "Arbeitsverträge"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Standardvertragsklauseln sind von der Europäischen Kommission genehmigte Vertragsklauseln, die geeignete Garantien für die Übermittlung personenbezogener Daten in Drittländer bieten.",
@@ -769,10 +769,10 @@
         "id": "q35",
         "text": "Was ist ein 'Angemessenheitsbeschluss'?",
         "options": [
-          "Eine nationale Entscheidung",
+          "Eine ähnliche Alternative",
           "Ein Beschluss der Kommission, dass ein Drittland ein angemessenes Datenschutzniveau bietet",
-          "Eine Gerichtsentscheidung",
-          "Ein Unternehmensbeschluss"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Angemessenheitsbeschluss ist eine Entscheidung der Europäischen Kommission, dass ein Drittland ein angemessenes Datenschutzniveau gewährleistet, wodurch Datenübermittlungen dorthin erleichtert werden.",
@@ -791,10 +791,10 @@
         "id": "q36",
         "text": "Was ist 'Profiling'?",
         "options": [
-          "Das Erstellen von Profilen in sozialen Medien",
+          "Eine ähnliche Alternative",
           "Jede automatisierte Verarbeitung zur Bewertung persönlicher Aspekte einer Person",
-          "Nur demografische Analysen",
-          "Fotografie"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Profiling ist jede Art der automatisierten Verarbeitung personenbezogener Daten zur Bewertung persönlicher Aspekte wie Arbeitsleistung, wirtschaftliche Lage, Gesundheit, Vorlieben oder Aufenthaltsorte.",
@@ -813,10 +813,10 @@
         "id": "q37",
         "text": "Haben betroffene Personen das Recht, nicht einer ausschließlich automatisierten Entscheidung unterworfen zu werden?",
         "options": [
-          "Eine Lösung für nein",
+          "Eine ähnliche rechtliche Bestimmung",
           "Ja, grundsätzlich mit definierten Ausnahmen",
-          "Nur in bestimmten Branchen",
-          "Nur bei Krediten"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Betroffene Personen haben das Recht, nicht einer ausschließlich auf automatisierter Verarbeitung beruhenden Entscheidung unterworfen zu werden, die ihnen gegenüber rechtliche Wirkung entfaltet oder sie erheblich beeinträchtigt.",
@@ -835,10 +835,10 @@
         "id": "q38",
         "text": "Was muss eine Datenschutzerklärung enthalten?",
         "options": [
-          "Nur den Namen des Unternehmens",
+          "Ein verwandter KI-Algorithmus",
           "Identität des Verantwortlichen, Zwecke, Rechtsgrundlagen, Empfänger, Speicherdauer, Betroffenenrechte",
-          "Nur Kontaktdaten",
-          "Nur rechtliche Hinweise"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Datenschutzerklärung muss umfassende Informationen enthalten: Identität und Kontaktdaten des Verantwortlichen, Verarbeitungszwecke, Rechtsgrundlagen, Empfänger, Speicherfristen, Betroffenenrechte und Beschwerdemöglichkeiten.",
@@ -857,10 +857,10 @@
         "id": "q39",
         "text": "Wann müssen Informationen nach der DSGVO bereitgestellt werden?",
         "options": [
-          "Innerhalb eines Monats",
+          "Eine ähnliche Alternative",
           "Zum Zeitpunkt der Erhebung bzw. unverzüglich",
-          "Nur auf Anfrage",
-          "Am Jahresende"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Informationen müssen zum Zeitpunkt der Erhebung der Daten bereitgestellt werden. Werden Daten nicht direkt erhoben, müssen Informationen unverzüglich, spätestens nach einem Monat bereitgestellt werden.",
@@ -879,10 +879,10 @@
         "id": "q40",
         "text": "Was ist eine 'gemeinsame Verantwortlichkeit'?",
         "options": [
-          "Wenn alle Mitarbeiter verantwortlich sind",
+          "Eine ähnliche Alternative",
           "Wenn mehrere Verantwortliche gemeinsam Zwecke und Mittel der Verarbeitung festlegen",
-          "Wenn mehrere Unternehmen zusammenarbeiten",
-          "Eine Versicherung"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine gemeinsame Verantwortlichkeit liegt vor, wenn zwei oder mehr Verantwortliche gemeinsam die Zwecke und Mittel der Verarbeitung festlegen. Sie müssen ihre Verantwortlichkeiten in einer Vereinbarung festlegen.",
@@ -901,10 +901,10 @@
         "id": "q41",
         "text": "Was muss ein Auftragsverarbeitungsvertrag regeln?",
         "options": [
-          "Nur Zahlungsbedingungen",
+          "Eine ähnliche Sporttechnik",
           "Gegenstand, Dauer, Art der Verarbeitung, Pflichten, Rechte und technische/organisatorische Maßnahmen",
-          "Nur Kündigungsfristen",
-          "Nur Haftungsfragen"
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Auftragsverarbeitungsvertrag muss Gegenstand und Dauer der Verarbeitung, Art und Zweck, Kategorien betroffener Personen, Pflichten und Rechte des Verantwortlichen sowie technische und organisatorische Maßnahmen regeln.",
@@ -923,10 +923,10 @@
         "id": "q42",
         "text": "Darf ein Auftragsverarbeiter weitere Auftragsverarbeiter einsetzen?",
         "options": [
-          "Ja, ohne Einschränkungen",
+          "Eine ähnliche Alternative",
           "Ja, aber nur mit schriftlicher Genehmigung des Verantwortlichen",
-          "Nein, niemals",
-          "Nur innerhalb der EU"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Auftragsverarbeiter darf weitere Auftragsverarbeiter (Unterauftragsverarbeiter) nur mit vorheriger allgemeiner oder spezifischer schriftlicher Genehmigung des Verantwortlichen einsetzen.",
@@ -945,10 +945,10 @@
         "id": "q43",
         "text": "Was sind 'technische und organisatorische Maßnahmen' (TOM)?",
         "options": [
-          "Nur Firewalls",
+          "Eine ähnliche Alternative",
           "Maßnahmen zur Gewährleistung der Sicherheit der Verarbeitung",
-          "Nur Passwörter",
-          "Organisationsstruktur"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "TOMs sind technische und organisatorische Maßnahmen zur Gewährleistung eines dem Risiko angemessenen Schutzniveaus, wie Pseudonymisierung, Verschlüsselung, Vertraulichkeit, Integrität und Verfügbarkeit.",
@@ -967,10 +967,10 @@
         "id": "q44",
         "text": "Was bedeutet 'Integrität' im Datenschutz?",
         "options": [
-          "Ehrlichkeit der Mitarbeiter",
+          "Ein verwandter KI-Algorithmus",
           "Schutz vor unbefugter Veränderung oder Vernichtung von Daten",
-          "Vollständigkeit der Daten",
-          "Moralische Werte"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Integrität bedeutet im Datenschutzkontext, dass personenbezogene Daten vor unbefugter oder unrechtmäßiger Verarbeitung und vor unbeabsichtigtem Verlust, Zerstörung oder Schädigung geschützt werden müssen.",
@@ -989,10 +989,10 @@
         "id": "q45",
         "text": "Was bedeutet 'Vertraulichkeit' im Datenschutz?",
         "options": [
-          "Geheimhaltungspflichten von Mitarbeitern",
+          "Ein verwandter KI-Algorithmus",
           "Schutz vor unbefugtem Zugriff auf Daten",
-          "Vertrauliche Gespräche",
-          "Verschlossene Türen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Vertraulichkeit bedeutet, dass personenbezogene Daten vor unbefugter oder unrechtmäßiger Verarbeitung geschützt werden müssen, also nur befugte Personen Zugriff haben.",
@@ -1011,10 +1011,10 @@
         "id": "q46",
         "text": "Was ist das 'Marktortprinzip' der DSGVO?",
         "options": [
-          "Die DSGVO gilt nur in der EU",
+          "Eine ähnliche Alternative",
           "Die DSGVO gilt auch für Unternehmen außerhalb der EU, die Daten von EU-Bürgern verarbeiten",
-          "Nur für Marktplätze",
-          "Nur für Online-Shops"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das Marktortprinzip bedeutet, dass die DSGVO auch für Unternehmen außerhalb der EU gilt, wenn sie Waren oder Dienstleistungen an Personen in der EU anbieten oder ihr Verhalten beobachten.",
@@ -1033,10 +1033,10 @@
         "id": "q47",
         "text": "Was ist 'Direktmarketing'?",
         "options": [
-          "Werbung im Direktverkauf",
+          "Eine ähnliche Alternative",
           "Jede Form der Werbeansprache bei natürlichen Personen",
-          "Nur E-Mail-Werbung",
-          "Nur Telefonwerbung"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Direktmarketing umfasst jede Form der Werbung, die sich an natürliche Personen richtet, sei es per E-Mail, Post, Telefon oder über soziale Medien.",
@@ -1055,10 +1055,10 @@
         "id": "q48",
         "text": "Haben betroffene Personen ein Widerspruchsrecht gegen Direktwerbung?",
         "options": [
-          "Eine Lösung für nein",
+          "Eine ähnliche rechtliche Bestimmung",
           "Ja, jederzeit und kostenlos",
-          "Nur gegen E-Mail-Werbung",
-          "Nur einmal"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Betroffene Personen haben jederzeit das Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, gegen die Verarbeitung sie betreffender Daten Widerspruch einzulegen, insbesondere gegen Direktwerbung.",
@@ -1077,10 +1077,10 @@
         "id": "q49",
         "text": "Was ist die 'Rechenschaftspflicht' (Accountability)?",
         "options": [
-          "Buchführungspflicht",
+          "Eine ähnliche Alternative",
           "Die Pflicht, die Einhaltung der DSGVO nachweisen zu können",
-          "Nur für Buchhalter relevant",
-          "Berichtspflicht an die Behörde"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Rechenschaftspflicht bedeutet, dass der Verantwortliche für die Einhaltung der DSGVO-Grundsätze verantwortlich ist und deren Einhaltung nachweisen können muss.",
@@ -1099,10 +1099,10 @@
         "id": "q50",
         "text": "Welche Rolle spielt die Einwilligung bei Minderjährigen?",
         "options": [
-          "Keine Besonderheiten",
+          "Eine ähnliche Alternative",
           "Ab 16 Jahren können Minderjährige selbst einwilligen, darunter ist Zustimmung der Eltern erforderlich",
-          "Nur mit 18 Jahren möglich",
-          "Minderjährige können nie einwilligen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei Kindern unter 16 Jahren (Mitgliedstaaten können Altersgrenze bis 13 Jahre senken) ist die Einwilligung nur rechtmäßig, wenn sie durch den Träger der elterlichen Verantwortung erteilt oder genehmigt wird.",

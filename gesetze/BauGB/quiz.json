@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Welche Aufgabe hat die Bauleitplanung nach § 1 BauGB?",
         "options": [
-          "Die Festsetzung von Bauordnungsrecht in den Ländern",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Die Vorbereitung und Lenkung der baulichen und sonstigen Nutzung der Grundstücke in der Gemeinde",
-          "Die Erstellung von Bebauungsplänen durch die Bundesländer",
-          "Die Verwaltung von Eigentumsrechten im Grundbuch"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 1 Abs. 1 BauGB ist die Aufgabe der Bauleitplanung, die bauliche und sonstige Nutzung der Grundstücke in der Gemeinde vorzubereiten und zu leiten. Die anderen Optionen betreffen nicht die Bauleitplanung.",
@@ -48,9 +48,9 @@
         "text": "Welche Bauleitpläne kennt das BauGB?",
         "options": [
           "Flächennutzungsplan und Bebauungsplan",
-          "Bebauungsplan und Raumordnungsplan",
-          "Flächennutzungsplan und Bauordnungsplan",
-          "Raumordnungsplan und Landschaftsplan"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach § 1 Abs. 2 BauGB gibt es zwei Bauleitpläne: den vorbereitenden Flächennutzungsplan und den verbindlichen Bebauungsplan.",
@@ -69,9 +69,9 @@
         "text": "Welche Ziele sollen Bauleitpläne nach § 1 Abs. 5 BauGB insbesondere fördern?",
         "options": [
           "Eine nachhaltige städtebauliche Entwicklung und sozialgerechte Bodennutzung",
-          "Die ausschließliche Maximierung der Bebauungsdichte",
-          "Die Gewinnmaximierung privater Grundstückseigentümer",
-          "Die zentrale Planungshoheit des Bundes"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 1 Abs. 5 BauGB fordert eine nachhaltige Entwicklung, die soziale, wirtschaftliche und ökologische Belange in Einklang bringt. Die falschen Optionen sind einseitig oder betreffen nicht die Aufgaben der Bauleitpläne.",
@@ -90,10 +90,10 @@
         "id": "q4",
         "text": "Welche Belange sind nach § 1 Abs. 6 BauGB bei der Aufstellung von Bauleitplänen zu berücksichtigen?",
         "options": [
-          "Nur die finanziellen Interessen der Gemeinde",
-          "Ausschließlich die Interessen der Eigentümer",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Öffentliche und private Belange, z. B. gesunde Wohn- und Arbeitsverhältnisse, Umweltschutz, Wirtschaft, Verkehr",
-          "Nur die Vorgaben des Bundes und der Länder"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "§ 1 Abs. 6 BauGB schreibt eine umfassende Abwägung öffentlicher und privater Belange vor, u. a. Wohnbedürfnisse, Umweltschutz, Wirtschaft und Verkehr. Die anderen Antworten sind unvollständig.",
@@ -112,10 +112,10 @@
         "id": "q5",
         "text": "Was ist im Flächennutzungsplan nach § 5 BauGB darzustellen?",
         "options": [
-          "Die detaillierte Parzellierung jedes Baugrundstücks",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Die Grundzüge der beabsichtigten städtebaulichen Entwicklung",
-          "Die Gestaltung der Innenräume von Wohngebäuden",
-          "Die bundesweiten Baukostenstandards"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "§ 5 Abs. 1 BauGB regelt, dass im Flächennutzungsplan die Grundzüge der Bodennutzung für das gesamte Gemeindegebiet darzustellen sind. Parzellierung oder Innenraumgestaltung sind nicht Gegenstand.",
@@ -134,10 +134,10 @@
         "id": "q21",
         "text": "Wer genehmigt den Flächennutzungsplan nach § 6 BauGB?",
         "options": [
-          "Die Gemeindevertretung selbst",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Die höhere Verwaltungsbehörde",
-          "Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
-          "Das Grundbuchamt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 6 BauGB bedarf der Flächennutzungsplan der Genehmigung durch die höhere Verwaltungsbehörde.",
@@ -156,10 +156,10 @@
         "id": "q22",
         "text": "Wann gilt ein Flächennutzungsplan als genehmigt (§ 6 Abs. 4 BauGB)?",
         "options": [
-          "Wenn er vom Bürgermeister unterzeichnet wird",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Wenn die Genehmigung nicht innerhalb eines Monats unter Angabe von Gründen abgelehnt wird",
-          "Wenn der Gemeinderat ihn beschlossen hat",
-          "Sobald er im Internet veröffentlicht ist"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Genehmigung gilt als erteilt, wenn sie nicht binnen eines Monats unter Angabe von Gründen abgelehnt wird (§ 6 Abs. 4 BauGB).",
@@ -179,9 +179,9 @@
         "text": "Was enthält ein Bebauungsplan nach § 8 BauGB?",
         "options": [
           "Die rechtsverbindlichen Festsetzungen für die städtebauliche Ordnung",
-          "Nur Empfehlungen für die Grundstücksnutzung",
-          "Ausschließlich Angaben zur Raumordnung des Bundes",
-          "Die Finanzplanung der Gemeinde"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Nach § 8 BauGB enthält der Bebauungsplan die verbindlichen Festsetzungen für die städtebauliche Ordnung.",
@@ -200,9 +200,9 @@
         "id": "q24",
         "text": "Welche Inhalte können nach § 9 BauGB im Bebauungsplan festgesetzt werden?",
         "options": [
-          "Art und Maß der baulichen Nutzung",
-          "Flächen für Landwirtschaft und Wald",
-          "Verkehrsflächen und Grünanlagen",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten",
           "Alle genannten Punkte"
         ],
         "correctIndex": 3,
@@ -222,10 +222,10 @@
         "id": "q25",
         "text": "Wie tritt ein Bebauungsplan in Kraft (§ 10 BauGB)?",
         "options": [
-          "Mit der Unterzeichnung durch den Bürgermeister",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Mit ortsüblicher Bekanntmachung des Beschlusses und Bereitstellung zur Einsicht",
-          "Mit Veröffentlichung im Bundesgesetzblatt",
-          "Mit Zustimmung der Eigentümer"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Ein Bebauungsplan tritt mit ortsüblicher Bekanntmachung und Bereitstellung zur Einsichtnahme in Kraft (§ 10 BauGB).",
@@ -245,9 +245,9 @@
         "text": "Welche Voraussetzung gilt für die Anwendung des vereinfachten Verfahrens nach § 13 BauGB?",
         "options": [
           "Die Grundzüge der Planung dürfen nicht berührt werden",
-          "Die Gemeinde muss mehr als 100.000 Einwohner haben",
-          "Es muss sich um eine innerstädtische Fläche handeln",
-          "Das Land muss zustimmen"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Nach § 13 BauGB darf ein vereinfachtes Verfahren nur angewendet werden, wenn die Grundzüge der Planung nicht berührt werden.",
@@ -267,9 +267,9 @@
         "text": "Welche Regelung trifft § 13a BauGB?",
         "options": [
           "Bebauungspläne der Innenentwicklung im beschleunigten Verfahren",
-          "Die Verteilung von Baukosten auf Eigentümer",
-          "Die Zuständigkeit der Bundesländer für Bauordnungsrecht",
-          "Die Schaffung neuer Baugebiete durch Landesgesetze"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 13a BauGB regelt die Aufstellung von Bebauungsplänen der Innenentwicklung im beschleunigten Verfahren.",
@@ -288,10 +288,10 @@
         "id": "q28",
         "text": "Wie lange gilt eine Veränderungssperre nach § 17 BauGB grundsätzlich?",
         "options": [
-          "Ein Jahr",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Zwei Jahre",
-          "Drei Jahre",
-          "Unbefristet"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 17 BauGB tritt die Veränderungssperre nach zwei Jahren außer Kraft, kann aber verlängert werden.",
@@ -310,10 +310,10 @@
         "id": "q29",
         "text": "Was passiert, wenn eine Veränderungssperre länger als vier Jahre dauert (§ 18 BauGB)?",
         "options": [
-          "Sie verlängert sich automatisch um zwei Jahre",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Betroffene erhalten eine Entschädigung",
-          "Sie wird dauerhaft gültig",
-          "Die Gemeinde verliert die Planungshoheit"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "§ 18 BauGB sieht vor, dass bei einer über vier Jahre dauernden Veränderungssperre eine Entschädigung für Vermögensnachteile zu leisten ist.",
@@ -332,10 +332,10 @@
         "id": "q30",
         "text": "Was versteht man nach § 19 BauGB unter der 'Teilung eines Grundstücks'?",
         "options": [
-          "Die tatsächliche Bebauung des Grundstücks",
-          "Die Abgabe von Teilen an Nachbarn",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Die grundbuchmäßige Abtrennung eines Grundstücksteils zur Bildung eines selbständigen Grundstücks",
-          "Die Eintragung mehrerer Eigentümer im Grundbuch"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "§ 19 BauGB definiert die Teilung als grundbuchmäßige Abtrennung eines Grundstücksteils, der als selbständiges Grundstück eingetragen wird.",
@@ -354,9 +354,9 @@
         "text": "Welches Vorkaufsrecht hat die Gemeinde nach § 24 BauGB?",
         "options": [
           "Allgemeines Vorkaufsrecht beim Kauf bestimmter Grundstücke",
-          "Vorkaufsrecht für jede private Immobilie",
-          "Vorkaufsrecht nur für denkmalgeschützte Gebäude",
-          "Vorkaufsrecht für alle landwirtschaftlichen Flächen"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 24 BauGB gewährt der Gemeinde ein allgemeines Vorkaufsrecht beim Kauf von Grundstücken in bestimmten Fällen, z. B. bei Flächen für öffentliche Zwecke.",
@@ -376,9 +376,9 @@
         "text": "Wann darf die Gemeinde das Vorkaufsrecht nach § 24 Abs. 3 BauGB ausüben?",
         "options": [
           "Wenn das Wohl der Allgemeinheit es rechtfertigt",
-          "Immer ohne Begründung",
-          "Nur wenn der Eigentümer zustimmt",
-          "Nur bei landwirtschaftlichen Flächen"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Nach § 24 Abs. 3 BauGB darf die Gemeinde das Vorkaufsrecht nur ausüben, wenn es durch das Wohl der Allgemeinheit gerechtfertigt ist.",
@@ -398,9 +398,9 @@
         "text": "Was ist nach § 26 BauGB ein Ausschlussgrund für das Vorkaufsrecht?",
         "options": [
           "Wenn das Grundstück an nahe Angehörige verkauft wird",
-          "Wenn das Grundstück im Außenbereich liegt",
-          "Wenn der Kaufpreis sehr hoch ist",
-          "Wenn die Gemeinde das Grundstück nicht benötigt"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 26 BauGB schließt das Vorkaufsrecht aus, wenn das Grundstück an nahe Angehörige wie Ehegatten oder Kinder verkauft wird.",
@@ -419,10 +419,10 @@
         "id": "q34",
         "text": "Welche Vorhaben gelten nach § 29 BauGB?",
         "options": [
-          "Nur Straßenbauprojekte",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Errichtung, Änderung oder Nutzungsänderung baulicher Anlagen sowie größere Aufschüttungen oder Abgrabungen",
-          "Ausschließlich Wohnungsbau",
-          "Alle kommunalen Haushaltsprojekte"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "§ 29 BauGB definiert Vorhaben als Errichtung, Änderung oder Nutzungsänderung baulicher Anlagen sowie größere Erdarbeiten.",
@@ -441,9 +441,9 @@
         "text": "Wann ist ein Vorhaben im Geltungsbereich eines Bebauungsplans zulässig (§ 30 BauGB)?",
         "options": [
           "Wenn es den Festsetzungen des Bebauungsplans entspricht und die Erschließung gesichert ist",
-          "Nur mit Zustimmung aller Eigentümer im Gebiet",
-          "Sobald der Bauherr die Finanzierung nachweist",
-          "Wenn die Gemeinde keine Einwände erhebt"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Nach § 30 BauGB ist ein Vorhaben zulässig, wenn es den Festsetzungen entspricht und die Erschließung gesichert ist.",
@@ -463,9 +463,9 @@
         "text": "Wann können Ausnahmen von Festsetzungen im Bebauungsplan zugelassen werden (§ 31 BauGB)?",
         "options": [
           "Nur wenn sie ausdrücklich im Bebauungsplan vorgesehen sind",
-          "Wenn der Eigentümer dies beantragt",
-          "Wenn das Land zustimmt",
-          "Immer bei wirtschaftlichem Interesse"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 31 BauGB erlaubt Ausnahmen nur, wenn sie im Bebauungsplan ausdrücklich vorgesehen sind.",
@@ -485,9 +485,9 @@
         "text": "Welche zusätzlichen Gründe rechtfertigen eine Befreiung vom Bebauungsplan (§ 31 Abs. 2 BauGB)?",
         "options": [
           "Gründe des Wohls der Allgemeinheit oder städtebauliche Vertretbarkeit",
-          "Persönliches Interesse des Eigentümers",
-          "Steuerliche Vorteile",
-          "Anstieg der Immobilienpreise"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 31 Abs. 2 BauGB erlaubt Befreiungen, wenn Gründe des Wohls der Allgemeinheit oder städtebauliche Vertretbarkeit vorliegen.",
@@ -506,10 +506,10 @@
         "id": "q38",
         "text": "Welche Regelung enthält § 33 BauGB für Vorhaben während der Planaufstellung?",
         "options": [
-          "Sie sind immer unzulässig",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Sie sind zulässig, wenn anzunehmen ist, dass sie den künftigen Festsetzungen nicht entgegenstehen",
-          "Sie dürfen nur mit Genehmigung des Bundes erfolgen",
-          "Sie sind automatisch erlaubt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "§ 33 BauGB erlaubt Vorhaben während der Planaufstellung, wenn sie den künftigen Festsetzungen nicht widersprechen und die Erschließung gesichert ist.",
@@ -529,9 +529,9 @@
         "text": "Wann ist ein Vorhaben nach § 34 BauGB im unbeplanten Innenbereich zulässig?",
         "options": [
           "Wenn es sich nach Art und Maß der baulichen Nutzung in die Eigenart der Umgebung einfügt",
-          "Wenn die Gemeinde zustimmt",
-          "Nur wenn ein Bebauungsplan existiert",
-          "Wenn das Land es genehmigt"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 34 BauGB regelt, dass Vorhaben im Innenbereich zulässig sind, wenn sie sich in die Eigenart der Umgebung einfügen.",
@@ -551,9 +551,9 @@
         "text": "Welche Bedingung gilt für Vorhaben im Außenbereich nach § 35 BauGB?",
         "options": [
           "Öffentliche Belange dürfen nicht entgegenstehen und die Erschließung muss gesichert sein",
-          "Sie sind generell erlaubt",
-          "Sie bedürfen nur der Zustimmung der Eigentümer",
-          "Sie dürfen nur für Wohnzwecke erfolgen"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 35 BauGB verlangt, dass Vorhaben im Außenbereich zulässig sind, wenn öffentliche Belange nicht entgegenstehen und die Erschließung gesichert ist.",
@@ -572,10 +572,10 @@
         "id": "q41",
         "text": "Welchen Zweck hat die Umlegung nach § 45 BauGB?",
         "options": [
-          "Die Finanzierung kommunaler Haushalte",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Die Neuordnung von Grundstücken für eine zweckmäßige bauliche Nutzung",
-          "Die Privatisierung von Gemeindeflächen",
-          "Die Versteigerung von Grundstücken"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "§ 45 BauGB definiert die Umlegung als Neuordnung von Grundstücken, um zweckmäßig gestaltete Baugrundstücke zu schaffen.",
@@ -594,10 +594,10 @@
         "id": "q42",
         "text": "Wer ist nach § 46 BauGB für die Durchführung der Umlegung zuständig?",
         "options": [
-          "Die Landesregierung",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Die Gemeinde (Umlegungsstelle)",
-          "Das Grundbuchamt",
-          "Der Bund"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "§ 46 BauGB weist die Zuständigkeit für die Umlegung der Gemeinde (Umlegungsstelle) zu.",
@@ -616,10 +616,10 @@
         "id": "q43",
         "text": "Welche Behörde führt nach § 104 BauGB das Enteignungsverfahren durch?",
         "options": [
-          "Die Gemeinde",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Die höhere Verwaltungsbehörde",
-          "Das Amtsgericht",
-          "Das Bundesministerium"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "§ 104 BauGB bestimmt, dass die höhere Verwaltungsbehörde das Enteignungsverfahren durchführt.",
@@ -639,9 +639,9 @@
         "text": "Unter welcher Voraussetzung ist eine Enteignung nach § 87 BauGB zulässig?",
         "options": [
           "Wenn das Wohl der Allgemeinheit sie erfordert und der Zweck nicht anders erreichbar ist",
-          "Wenn die Gemeinde zusätzliche Einnahmen benötigt",
-          "Wenn der Eigentümer einverstanden ist",
-          "Wenn die Grundstücke im Außenbereich liegen"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 87 BauGB: Eine Enteignung ist nur zulässig, wenn sie durch das Wohl der Allgemeinheit gerechtfertigt ist und der Zweck nicht anders erreicht werden kann.",
@@ -661,9 +661,9 @@
         "text": "Welche Aufgabe hat die Gemeinde nach § 123 BauGB?",
         "options": [
           "Sie hat die Erschließung sicherzustellen",
-          "Sie muss Bundesautobahnen planen",
-          "Sie verwaltet das Grundbuch",
-          "Sie erhebt die Einkommensteuer"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 123 BauGB legt die Erschließungslast grundsätzlich der Gemeinde auf.",
@@ -682,10 +682,10 @@
         "id": "q46",
         "text": "Was versteht man nach § 127 BauGB unter einem Erschließungsbeitrag?",
         "options": [
-          "Eine Steuer auf alle Baugrundstücke",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Ein Beitrag zur Deckung der Kosten für Erschließungsanlagen",
-          "Eine Gebühr für die Nutzung öffentlicher Gebäude",
-          "Ein Zuschlag auf die Grunderwerbsteuer"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "§ 127 BauGB regelt, dass Gemeinden Erschließungsbeiträge zur Deckung der Kosten für Erschließungsanlagen erheben.",
@@ -704,9 +704,9 @@
         "id": "q47",
         "text": "Welche Anlagen zählen nach § 127 Abs. 2 BauGB zu den Erschließungsanlagen?",
         "options": [
-          "Öffentliche Straßen, Wege und Plätze",
-          "Fußwege und Sammelstraßen",
-          "Anlagen zum Schutz gegen schädliche Umwelteinwirkungen",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten",
           "Alle genannten"
         ],
         "correctIndex": 3,
@@ -726,10 +726,10 @@
         "id": "q48",
         "text": "Wann entsteht die Beitragspflicht nach § 133 BauGB?",
         "options": [
-          "Mit dem Kauf eines Grundstücks",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Mit der endgültigen Herstellung der Erschließungsanlagen",
-          "Mit der Baugenehmigung",
-          "Mit dem Beschluss der Gemeindevertretung"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "§ 133 BauGB: Die Beitragspflicht entsteht mit der endgültigen Herstellung der Erschließungsanlagen.",
@@ -749,9 +749,9 @@
         "text": "Wer ist nach § 134 BauGB beitragspflichtig?",
         "options": [
           "Der Eigentümer des Grundstücks",
-          "Die Mieter",
-          "Der Pächter",
-          "Das Bundesland"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 134 BauGB: Beitragspflichtig ist grundsätzlich der Eigentümer des Grundstücks.",
@@ -770,10 +770,10 @@
         "id": "q50",
         "text": "Welche Möglichkeit sieht § 135 BauGB zur Zahlung von Erschließungsbeiträgen vor?",
         "options": [
-          "Zahlung nur in einer Summe",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Raten- oder Rentenzahlung zur Vermeidung unbilliger Härten",
-          "Verrechnung mit der Grundsteuer",
-          "Stundung auf unbegrenzte Zeit"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "§ 135 BauGB erlaubt zur Vermeidung unbilliger Härten die Zahlung von Erschließungsbeiträgen in Raten oder als Rente.",
@@ -793,9 +793,9 @@
         "text": "Was ist nach § 136 BauGB eine städtebauliche Sanierungsmaßnahme?",
         "options": [
           "Eine Maßnahme zur Behebung städtebaulicher Missstände",
-          "Eine Steuermaßnahme zur Finanzierung des Haushalts",
-          "Eine Maßnahme des Straßenverkehrsrechts",
-          "Ein Bauvertrag mit privaten Investoren"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 136 BauGB definiert Sanierungsmaßnahmen als Maßnahmen, die zur Behebung städtebaulicher Missstände dienen.",
@@ -815,9 +815,9 @@
         "text": "Welches Instrument dient nach § 142 BauGB zur Festlegung eines Sanierungsgebiets?",
         "options": [
           "Sanierungssatzung",
-          "Baugebot",
-          "Veränderungssperre",
-          "Flächennutzungsplan"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Die Gemeinde legt ein Sanierungsgebiet durch eine Sanierungssatzung fest (§ 142 BauGB).",
@@ -837,9 +837,9 @@
         "text": "Welche Pflicht hat der Eigentümer eines Grundstücks im Sanierungsgebiet nach § 154 BauGB?",
         "options": [
           "Er muss einen Ausgleichsbetrag zahlen",
-          "Er muss seine Immobilie abreißen",
-          "Er muss die Gemeinde beteiligen",
-          "Er muss sein Grundstück kostenlos abtreten"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 154 BauGB verpflichtet den Eigentümer im Sanierungsgebiet zur Zahlung eines Ausgleichsbetrags für sanierungsbedingte Bodenwertsteigerungen.",
@@ -859,9 +859,9 @@
         "text": "Was ist das Ziel von städtebaulichen Entwicklungsmaßnahmen nach § 165 BauGB?",
         "options": [
           "Die erstmalige oder neue Entwicklung von Gebieten im öffentlichen Interesse",
-          "Die Schaffung von Steuererleichterungen",
-          "Die Privatisierung kommunaler Grundstücke",
-          "Die Förderung des internationalen Handels"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 165 BauGB regelt, dass Entwicklungsmaßnahmen der erstmaligen oder neuen Entwicklung von Gebieten im öffentlichen Interesse dienen.",
@@ -881,9 +881,9 @@
         "text": "Welche Bedingung gilt für die förmliche Festlegung eines Entwicklungsbereichs (§ 165 Abs. 3 BauGB)?",
         "options": [
           "Das Wohl der Allgemeinheit muss die Durchführung erfordern",
-          "Die Zustimmung aller Eigentümer ist notwendig",
-          "Ein Bebauungsplan muss bereits bestehen",
-          "Es muss ein Bundesgesetz vorliegen"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 165 Abs. 3 BauGB: Ein Entwicklungsbereich darf nur festgelegt werden, wenn das Wohl der Allgemeinheit dies erfordert.",
@@ -903,9 +903,9 @@
         "text": "Welches Instrument dient nach § 171b BauGB der Vorbereitung von Stadtumbaumaßnahmen?",
         "options": [
           "Ein städtebauliches Entwicklungskonzept",
-          "Ein Bebauungsplan des Bundes",
-          "Eine Genehmigung der Landesregierung",
-          "Ein Flurbereinigungsplan"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 171b BauGB verlangt ein städtebauliches Entwicklungskonzept als Grundlage für Stadtumbaumaßnahmen.",
@@ -925,9 +925,9 @@
         "text": "Was kann die Gemeinde nach § 172 BauGB durch eine Erhaltungssatzung sichern?",
         "options": [
           "Die städtebauliche Eigenart eines Gebiets",
-          "Die Aufhebung aller Baupläne",
-          "Die Finanzierung kommunaler Haushalte",
-          "Die Privatisierung öffentlicher Flächen"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 172 BauGB erlaubt Erhaltungssatzungen zur Sicherung der städtebaulichen Eigenart von Gebieten.",
@@ -947,9 +947,9 @@
         "text": "Was ist ein Baugebot nach § 176 BauGB?",
         "options": [
           "Eine Verpflichtung des Eigentümers, sein Grundstück innerhalb einer Frist zu bebauen",
-          "Ein Verbot zur Bebauung von Außenbereichen",
-          "Ein staatlicher Zuschuss für Bauherren",
-          "Eine Genehmigungspflicht für den Denkmalschutz"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 176 BauGB erlaubt Baugebote, die Eigentümer verpflichten, ihr Grundstück entsprechend den Festsetzungen zu bebauen.",
@@ -969,9 +969,9 @@
         "text": "Was ist nach § 192 BauGB die Aufgabe eines Gutachterausschusses?",
         "options": [
           "Ermittlung von Grundstückswerten und Wertermittlungen",
-          "Erstellung von Bauleitplänen",
-          "Festlegung von Steuersätzen",
-          "Durchführung von Enteignungen"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 192 BauGB weist den Gutachterausschüssen die Aufgabe zu, Grundstückswerte zu ermitteln.",
@@ -991,9 +991,9 @@
         "text": "Wie wird der Verkehrswert nach § 194 BauGB bestimmt?",
         "options": [
           "Nach dem Preis, der im gewöhnlichen Geschäftsverkehr erzielbar wäre",
-          "Durch den Bauherrn selbst",
-          "Durch die Steuerverwaltung",
-          "Durch das Bundesfinanzministerium"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "§ 194 BauGB definiert den Verkehrswert als den Preis, der im gewöhnlichen Geschäftsverkehr erzielbar wäre.",

@@ -22,9 +22,9 @@
         "text": "Wie wird ein KI-System gemäß Artikel 3 Absatz 1 der EU-KI-Verordnung definiert?",
         "options": [
           "Ein maschinengestütztes System, das für einen autonomen Betrieb ausgelegt ist und Ausgaben wie Vorhersagen erstellt",
-          "Eine Software, die ausschließlich auf von Menschen festgelegten Regeln basiert",
-          "Ein System, das nur mit personenbezogenen Daten arbeitet",
-          "Eine Anwendung, die ausschließlich zur Textgenerierung verwendet wird"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Laut KI-VO ist ein KI-System ein maschinengestütztes System, das für einen in unterschiedlichem Grade autonomen Betrieb ausgelegt ist, anpassungsfähig sein kann und Ausgaben wie Vorhersagen, Inhalte oder Entscheidungen erstellt.",
@@ -44,10 +44,10 @@
         "id": "q2",
         "text": "Welches der folgenden Leitprinzipien ist NICHT Teil der fünf übergeordneten Leitprinzipien der Bundesverwaltung?",
         "options": [
-          "KI chancenorientiert und verantwortungsvoll für die Gesellschaft einsetzen",
-          "Wertebasierter und menschenzentrierter KI-Einsatz",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Maximierung des wirtschaftlichen Gewinns durch KI",
-          "Vertrauenswürdige KI-Systeme einsetzen"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die fünf Leitprinzipien sind: chancenorientiert und verantwortungsvoll, wertebasiert und menschenzentriert, vertrauenswürdig, Kompetenzstärkung und nachhaltiger gemeinsamer Einsatz. Gewinnmaximierung ist kein Leitprinzip.",
@@ -67,10 +67,10 @@
         "id": "q3",
         "text": "Was bedeutet 'angemessene menschliche Aufsicht' beim KI-Einsatz?",
         "options": [
-          "KI-Systeme müssen vollständig von Menschen gesteuert werden",
+          "Ein verwandter KI-Algorithmus",
           "Die Verantwortung kann nicht an KI-Systeme abgegeben werden, Menschen behalten Letztentscheidung",
-          "Menschen müssen nur bei Fehlern eingreifen",
-          "KI-Systeme arbeiten völlig autonom ohne menschliche Kontrolle"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Angemessene menschliche Aufsicht bedeutet, dass die Verantwortung für Entscheidungen nicht an KI-Systeme abgegeben werden kann und Menschen die Letztentscheidung behalten müssen.",
@@ -90,10 +90,10 @@
         "id": "q4",
         "text": "Welche Arten von KI-Systemen schließt die KI-VO in Artikel 5 aus?",
         "options": [
-          "Systeme zur Textgenerierung",
+          "Eine ähnliche rechtliche Bestimmung",
           "Systeme zur Klassifizierung von Personengruppen aufgrund ihres Verhaltens (Social Scoring)",
-          "Systeme zur Datenanalyse",
-          "Systeme zur Sprachübersetzung"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Die KI-VO schließt KI-Systeme mit unannehmbarem Risiko aus, wie die Klassifizierung von Personengruppen aufgrund ihres Verhaltens (Social Scoring) oder Emotionserkennung am Arbeitsplatz.",
@@ -113,10 +113,10 @@
         "id": "q5",
         "text": "Was sind Large Language Models (LLMs)?",
         "options": [
-          "Einfache Algorithmen zur Texterkennung",
+          "Eine ähnliche Alternative",
           "Künstliche neuronale Netze, die auf großen Textkorpora trainiert wurden",
-          "Datenbanken für Sprachübersetzungen",
-          "Hardware-Komponenten für KI-Systeme"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "LLMs sind künstliche neuronale Netze, die auf großen Textkorpora oder anderen Datenformaten trainiert wurden und auf generativen Modellen basieren.",
@@ -136,10 +136,10 @@
         "id": "q6",
         "text": "Welche Daten dürfen im restriktivsten Fall der Dateneingabe verwendet werden?",
         "options": [
-          "Alle dienstlichen Daten",
-          "Personenbezogene Daten mit Einwilligung",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Nur öffentliche Daten",
-          "Verschlusssachen"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Im restriktivsten Fall sind lediglich öffentliche Daten für die Eingabe freigegeben, wie Daten aus dem eigenen Ressort für die Öffentlichkeit oder Open Data.",
@@ -159,10 +159,10 @@
         "id": "q7",
         "text": "Was bedeutet 'Halluzinieren' bei LLM-Anwendungen?",
         "options": [
-          "Die Erstellung besonders kreativer Texte",
+          "Eine ähnliche Alternative",
           "Die Erzeugung falscher Ausgaben, die plausibel wirken",
-          "Die Übersetzung in verschiedene Sprachen",
-          "Die Zusammenfassung langer Dokumente"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Halluzinieren bedeutet, dass LLM-Anwendungen fehlerhafte Ausgaben erzeugen, gegebenenfalls mit erfundenen Quellenangaben, die überzeugend als relevante Lösungen präsentiert werden.",
@@ -182,10 +182,10 @@
         "id": "q8",
         "text": "Welche Maßnahme ist bei der Registrierung für externe KI-Systeme zu beachten?",
         "options": [
-          "Verwendung der offiziellen dienstlichen E-Mail-Adresse",
+          "Ein verwandter KI-Algorithmus",
           "Minimierung der Datenpreisgabe mit pseudonymisierten Accounts",
-          "Angabe aller persönlichen Daten zur Identifikation",
-          "Nutzung privater Accounts und Geräte"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei der Registrierung soll die Datenpreisgabe minimiert werden, grundsätzlich dürfen weder private noch offizielle personenbezogene Accounts verwendet werden. Pseudonymisierte Accounts sind zu bevorzugen.",
@@ -205,10 +205,10 @@
         "id": "q9",
         "text": "Was gehört zu den sensiblen dienstlichen Daten?",
         "options": [
-          "Öffentlich zugängliche Berichte",
-          "Open Data Datensätze",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Betriebs-, Geschäfts- oder Dienstgeheimnisse",
-          "Allgemeine Verwaltungsinformationen"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Zu sensiblen dienstlichen Daten gehören Betriebs-, Geschäfts- oder Dienstgeheimnisse, Informationen mit hohem Schutzbedarf, Verschlusssachen und personenbezogene Daten.",
@@ -228,10 +228,10 @@
         "id": "q10",
         "text": "Wann ist eine Kennzeichnung der KI-Nutzung erforderlich?",
         "options": [
-          "Immer bei jeder KI-Nutzung",
-          "Nie, da KI transparent arbeitet",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Wenn fachlich ungeprüfte Inhalte weitergegeben werden",
-          "Nur bei externen KI-Systemen"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Eine Kennzeichnung ist erforderlich, wenn fachlich ungeprüfte Inhalte behördenintern oder an die Öffentlichkeit weitergegeben werden. Bei fachlich geprüften und überarbeiteten Inhalten ist keine Kennzeichnung nötig.",
@@ -251,10 +251,10 @@
         "id": "q11",
         "text": "Wer trifft die Entscheidung über den Einsatz von KI-Systemen in einer Behörde?",
         "options": [
-          "Jeder Mitarbeitende individuell",
-          "Die IT-Abteilung",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Die Behördenleitung",
-          "Externe Berater"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Entscheidung darüber, ob und welche KI-Systeme eingesetzt werden, obliegt der Behördenleitung. Diese entscheidet unter anderem vor dem Hintergrund von Informationssicherheit, Datenschutz und Geheimschutz.",
@@ -274,10 +274,10 @@
         "id": "q12",
         "text": "Was ist ein wesentliches Merkmal vertrauenswürdiger KI-Systeme?",
         "options": [
-          "Sie arbeiten schneller als Menschen",
+          "Ein verwandter KI-Algorithmus",
           "Sie sind rechtmäßig, ethisch und robust",
-          "Sie sind kostengünstiger als andere Lösungen",
-          "Sie benötigen keine menschliche Überwachung"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Vertrauenswürdige KI wird als rechtmäßig, ethisch und robust definiert. Sie erfüllt ihre Funktionen sicher und zuverlässig und ist resilient gegenüber externen Eingriffen.",
@@ -297,10 +297,10 @@
         "id": "q13",
         "text": "Was ist bei der Nutzung von KI-Systemen bezüglich Diskriminierung zu beachten?",
         "options": [
-          "Diskriminierung ist bei KI-Systemen unvermeidbar",
-          "Nur offensichtliche Diskriminierung muss verhindert werden",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Geeignete Maßnahmen müssen vor und während des Einsatzes ergriffen werden",
-          "Diskriminierung ist nur bei personenbezogenen Daten relevant"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Es sollten vor und während des Einsatzes von KI-Systemen geeignete Maßnahmen ergriffen werden, damit dieser nicht zu verzerrten Ergebnissen führt. KI-Systeme sollten auf geeigneten und repräsentativen Trainingsdaten basieren.",
@@ -320,10 +320,10 @@
         "id": "q14",
         "text": "Was beschreibt den Begriff 'Automatisierungsbias'?",
         "options": [
-          "Die Bevorzugung automatisierter Systeme gegenüber manuellen Prozessen",
+          "8 Handgriffe für mittlere Schwierigkeit",
           "Die Neigung, Vorschläge von automatisierten Systemen zu übernehmen",
-          "Die systematische Verzerrung in Trainingsdaten",
-          "Die Abhängigkeit von KI-Systemen im Arbeitsalltag"
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 1,
         "explanation": "Automatisierungsbias ist die Neigung von Menschen, Vorschläge von automatisierten Entscheidungssystemen zu übernehmen beziehungsweise zu bevorzugen. Dagegen hilft Schulung über Grenzen und Fähigkeiten von KI-Systemen.",
@@ -343,10 +343,10 @@
         "id": "q15",
         "text": "Welche Rolle spielen Interessenvertretungen bei der KI-Einführung?",
         "options": [
-          "Sie haben keine Rolle bei technischen Entscheidungen",
+          "Ein verwandter KI-Algorithmus",
           "Sie müssen frühzeitig einbezogen werden",
-          "Sie entscheiden über die KI-Systeme",
-          "Sie sind nur bei Problemen zu konsultieren"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Interessenvertretungen der Mitarbeitenden (wie der Hauptpersonalrat und die Schwerbehindertenvertretung) sind frühzeitig einzubeziehen. Dies schafft Vertrauen und stellt sicher, dass deren Interessen berücksichtigt werden.",
@@ -366,10 +366,10 @@
         "id": "q16",
         "text": "Was ist ein Ziel des nachhaltigen KI-Einsatzes?",
         "options": [
-          "Maximierung der Geschwindigkeit aller Prozesse",
+          "Ein verwandter KI-Algorithmus",
           "Einheitliche Qualitätsstandards für die gesamte Bundesverwaltung",
-          "Vollständige Automatisierung aller Verwaltungsprozesse",
-          "Ausschließliche Nutzung der neuesten Technologien"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein gemeinschaftlicher Ansatz soll dabei unterstützen, dass für die gesamte Bundesverwaltung soweit möglich einheitliche Qualitätsstandards und Konventionen für die Bereitstellung und Nutzung von KI eingehalten werden.",
@@ -389,10 +389,10 @@
         "id": "q17",
         "text": "Was sind Lock-in-Effekte bei KI-Systemen?",
         "options": [
-          "Die automatische Sperrung von Systemen bei Fehlern",
-          "Die Sicherung von Daten gegen unbefugten Zugriff",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Erhöhte Kosten beim Wechsel zu anderen Systemen oder Anbietern",
-          "Die Beschränkung der Nutzung auf bestimmte Zeiten"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Lock-in-Effekte entstehen, wenn der Wechsel zu einem anderen System oder Anbieter mit signifikant erhöhten Kosten verbunden ist. Diese sollten vermieden werden, um die Digitale Souveränität zu wahren.",
@@ -412,10 +412,10 @@
         "id": "q18",
         "text": "Welche Prompting-Technik kann die Qualität von LLM-Ausgaben verbessern?",
         "options": [
-          "Verwendung möglichst kurzer Anfragen",
+          "Eine ähnliche Alternative",
           "Strukturierte Vorgabe von Rolle, Format und Kontext",
-          "Nutzung von Fachbegriffen ohne Erklärung",
-          "Vermeidung von Beispielen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Gutes Prompting umfasst die strukturierte Vorgabe von Rolle und Sprachstilen, Format und Kontext sowie schrittweises Vorgehen. Dies hilft, die Qualität der Ausgabe zu maximieren.",
@@ -435,10 +435,10 @@
         "id": "q19",
         "text": "Was sollte bei der Formulierung von Prompts vermieden werden?",
         "options": [
-          "Klare Anweisungen",
+          "Eine ähnliche Alternative",
           "Charakteristika wie Herkunft oder Geschlecht ohne sachlichen Grund",
-          "Strukturierte Anfragen",
-          "Beispiele für gewünschte Ausgaben"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Beschränkung eines Prompts auf bestimmte Charakteristika wie Geschlecht kann Geschlechtervorurteile in den Antworten bewirken. Erwartungstendenzen sollten vermieden werden.",
@@ -458,10 +458,10 @@
         "id": "q20",
         "text": "Was ist eine wichtige Voraussetzung für den KI-Einsatz in der Bundesverwaltung?",
         "options": [
-          "Vollständige Automatisierung aller Prozesse",
-          "Ausschließliche Nutzung deutscher KI-Systeme",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Wahrung der Sicherheit und Rechtmäßigkeit der behördlichen Arbeit",
-          "Maximierung der Effizienz um jeden Preis"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Bereitstellung und Nutzung von KI-Systemen haben immer unter Wahrung der Sicherheit und Rechtmäßigkeit der behördlichen Arbeit zu erfolgen. Rechtliche Grundlagen wie GG, DSGVO und KI-VO sind zu beachten.",
@@ -481,10 +481,10 @@
         "id": "q21",
         "text": "Was ist bei der Auswahl von KI-Systemen bezüglich der Performanz zu beachten?",
         "options": [
-          "Performanz ist das einzige wichtige Kriterium",
+          "Ein verwandter KI-Algorithmus",
           "Performanz muss gegen Digitale Souveränität abgewogen werden",
-          "Performanz ist unwichtig, nur die Kosten zählen",
-          "Deutsche Systeme haben immer die beste Performanz"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Performanz von KI-Systemen verschiedener Anbieter für den gegebenen Anwendungsfall muss unter anderem gegen die Wahrung der Anforderungen der Digitalen Souveränität abgewogen werden.",
@@ -504,10 +504,10 @@
         "id": "q22",
         "text": "Welche Betriebsumgebungen werden für KI-Systeme unterschieden?",
         "options": [
-          "Nur bundesverwaltungsinterne IT-Infrastruktur",
+          "Ein verwandter KI-Algorithmus",
           "Bundesverwaltungsexterne und bundesverwaltungsinterne IT-Infrastruktur",
-          "Nur Cloud-basierte Systeme",
-          "Nur lokale Server"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Es werden zwei Betriebsumgebungen unterschieden: bundesverwaltungsexterne IT-Infrastruktur (z.B. private Cloud-Anbieter) und bundesverwaltungsinterne IT-Infrastruktur (z.B. Private Cloud des Bundes).",
@@ -527,10 +527,10 @@
         "id": "q23",
         "text": "Was ist bei der Verarbeitung personenbezogener Daten durch KI-Systeme erforderlich?",
         "options": [
-          "Nur eine allgemeine Zustimmung der Betroffenen",
+          "Ein verwandter KI-Algorithmus",
           "Eine Rechtsgrundlage und Einhaltung der DSGVO-Grundsätze",
-          "Nur die Anonymisierung aller Daten",
-          "Die Zustimmung der Behördenleitung genügt"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei der Verarbeitung personenbezogener Daten ist eine Rechtsgrundlage erforderlich und die datenschutzrechtlichen Vorgaben der DSGVO, insbesondere Datenminimierung und Zweckbindung, sind zu beachten.",
@@ -550,10 +550,10 @@
         "id": "q24",
         "text": "Wann ist eine Datenschutz-Folgenabschätzung erforderlich?",
         "options": [
-          "Bei jeder KI-Nutzung",
-          "Nie, da KI-Systeme automatisch datenschutzkonform sind",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Wenn die Verarbeitung voraussichtlich ein hohes Risiko für die Rechte natürlicher Personen hat",
-          "Nur bei externen KI-Systemen"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Eine Datenschutz-Folgenabschätzung nach Artikel 35 DSGVO ist erforderlich, wenn festgestellt wird, dass die Verarbeitung voraussichtlich ein hohes Risiko für die Rechte und Freiheiten natürlicher Personen zur Folge hat.",
@@ -573,10 +573,10 @@
         "id": "q25",
         "text": "Was ist der Marktplatz der KI-Möglichkeiten (MaKI)?",
         "options": [
-          "Ein Online-Shop für KI-Software",
+          "Ein verwandter KI-Algorithmus",
           "Eine Plattform, die Ministerien und Behörden mit passenden KI-Systemen zusammenbringt",
-          "Ein Bewertungsportal für KI-Anbieter",
-          "Eine Schulungsplattform für KI-Themen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der MaKI bringt auf Bundesebene Ministerien und Behörden mit passenden KI-Systemen und Bedarfen zueinander und bietet Transparenz über die KI-Systemlandschaft in der Bundesverwaltung.",
@@ -596,10 +596,10 @@
         "id": "q26",
         "text": "Welche Institution stellt zentrale Schulungsangebote für KI zur Verfügung?",
         "options": [
-          "Das Bundesministerium des Innern",
+          "Ein verwandter KI-Algorithmus",
           "Die Bundesakademie für öffentliche Verwaltung (BAköV)",
-          "Das Bundesamt für Sicherheit in der Informationstechnik",
-          "Die Datenlabore der Bundesregierung"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Bundesakademie für öffentliche Verwaltung (BAköV) stellt im Fortbildungsportal der Bundesverwaltung modulare Bausteine für Schulungs- und Sensibilisierungsmaßnahmen bereit.",
@@ -619,10 +619,10 @@
         "id": "q27",
         "text": "Was ist bei ethischen Abwägungen von KI-Systemen zu beachten?",
         "options": [
-          "Ethische Grundsätze müssen alle in höchstem Maße erfüllt werden",
+          "Ein verwandter KI-Algorithmus",
           "Es bedarf einer individuellen Abwägung durch die Behörden bei Zielkonflikten",
-          "Ethik ist bei technischen Systemen nicht relevant",
-          "Nur die Effizienz ist wichtig"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Da es nicht immer möglich ist, im Anwendungsfall allen wertebasierten Grundsätzen in höchstem Maße zu entsprechen, bedarf es einer individuellen Abwägung durch die Behörden, da es zu Zielkonflikten kommen kann.",
@@ -642,10 +642,10 @@
         "id": "q28",
         "text": "Was ist Red-Teaming im Kontext von KI?",
         "options": [
-          "Die Entwicklung von KI-Systemen in Teams",
+          "Ein verwandter KI-Algorithmus",
           "Die Anwendung von Angriffsmethoden zur Identifikation von Schwachstellen",
-          "Die politische Bewertung von KI-Systemen",
-          "Die farbliche Kennzeichnung von Risikoebenen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Red-Teaming wird von speziellen Teams durchgeführt, die Angriffsmethoden anwenden, um Fehler und Schwachstellen in KI-Systemen zu identifizieren, wie schädliche oder diskriminierende Ergebnisse.",
@@ -665,10 +665,10 @@
         "id": "q29",
         "text": "Welche Beispiele werden für bundesverwaltungsinterne LLM-Anwendungen genannt?",
         "options": [
-          "ChatGPT und Microsoft Copilot",
+          "Eine ähnliche Alternative",
           "KIPITZ und PLAIN",
-          "Google Bard und Claude",
-          "Alexa und Siri"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Als Beispiele für bundesverwaltungsinterne LLM-Anwendungen werden das KI-Portal des ITZBund (KIPITZ) und PLAIN (Platform Analysis and Information System) der Auslands IT genannt.",
@@ -688,10 +688,10 @@
         "id": "q30",
         "text": "Was ist beim vollautomatisierten Erlass von Verwaltungsakten durch KI zu beachten?",
         "options": [
-          "Dies ist grundsätzlich verboten",
-          "Dies ist ohne Einschränkungen erlaubt",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Dies ist nur zulässig, wenn kein Ermessen besteht und durch Rechtsvorschrift zugelassen",
-          "Dies erfordert nur die Zustimmung der Behördenleitung"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Verwaltungsakt kann vollständig automatisiert erlassen werden, sofern weder ein Ermessen noch ein Beurteilungsspielraum besteht und der vollständige Erlass durch Rechtsvorschrift zugelassen ist.",
@@ -711,10 +711,10 @@
         "id": "q31",
         "text": "Welche Rechtsgrundlagen sind beim KI-Einsatz in der Bundesverwaltung von besonderer Relevanz?",
         "options": [
-          "Nur das Grundgesetz und die DSGVO",
+          "Eine ähnliche rechtliche Bestimmung",
           "GG, DSGVO, BDSG, BSIG, SÜG, BPersVG, VSA und KI-VO",
-          "Nur die KI-Verordnung der EU",
-          "Nur behördeninterne Richtlinien"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Als Rechtsgrundlagen von besonderer Relevanz werden das Grundgesetz, die DSGVO, das BDSG, BSIG, SÜG, BPersVG, die VSA, Standards zur Informationssicherheit und die KI-VO genannt.",
@@ -734,10 +734,10 @@
         "id": "q32",
         "text": "Was ist bei der Barrierefreiheit von KI-Systemen zu beachten?",
         "options": [
-          "Barrierefreiheit ist nur für Webseiten relevant",
+          "Ein verwandter KI-Algorithmus",
           "Die gesetzlichen Vorgaben zur Barrierefreiheit sind beim Zugang zu KI-Systemen zu berücksichtigen",
-          "KI-Systeme sind automatisch barrierefrei",
-          "Barrierefreiheit ist nur optional"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die gesetzlichen Vorgaben zur Barrierefreiheit sind beim Zugang zu KI-Systemen zu berücksichtigen. Vorgaben ergeben sich unter anderem aus DIN EN 301549.",
@@ -757,10 +757,10 @@
         "id": "q33",
         "text": "Was ist 'Explainable AI' und wann ist sie besonders wichtig?",
         "options": [
-          "KI, die nur einfache Aufgaben löst",
+          "Ein verwandter KI-Algorithmus",
           "KI, die ihre Entscheidungsgrundlagen nachvollziehbar macht - wichtig bei weitreichenden Folgen",
-          "KI, die in deutscher Sprache antwortet",
-          "KI, die besonders schnell arbeitet"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Explainable AI bedeutet, dass nachvollziehbar ist, anhand welcher Maßstäbe und auf Basis welcher Informationen die KI Ergebnisse erzielt. Je weitreichender die Folgen einer Vorhersage, desto wichtiger ist Transparenz.",
@@ -780,10 +780,10 @@
         "id": "q34",
         "text": "Welche Art von Schulung ist vor der Nutzung von KI-Systemen erforderlich?",
         "options": [
-          "Nur technische Schulungen",
+          "Ein verwandter KI-Algorithmus",
           "Schulungen über Grenzen, Fähigkeiten und verantwortungsvollen Umgang mit KI",
-          "Nur rechtliche Schulungen",
-          "Keine Schulungen erforderlich"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Mitarbeitende müssen in den Grenzen und Fähigkeiten von KI-Systemen geschult werden, damit sie die Ausgaben regelmäßig prüfen können. Schulungen umfassen auch ethische Grundsätze und rechtlichen Rahmen.",
@@ -803,10 +803,10 @@
         "id": "q35",
         "text": "Was ist bei der ökologischen Nachhaltigkeit von KI-Systemen zu beachten?",
         "options": [
-          "Nur die Kosten sind wichtig",
+          "Ein verwandter KI-Algorithmus",
           "KI-Systeme sollen ressourcenschonend und energieeffizient sein",
-          "Nachhaltigkeit ist bei KI nicht relevant",
-          "Nur die Geschwindigkeit zählt"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "KI-Systeme und ihr Einsatz sollen möglichst ressourcenschonend und energieeffizient sein. Auf Ebene der Hardware sollen Energieverbrauch und materielle Ressourcen minimiert werden.",
@@ -826,10 +826,10 @@
         "id": "q36",
         "text": "Welche Modelle werden bei der KI-Auswahl bevorzugt?",
         "options": [
-          "Immer die neuesten Modelle",
+          "Ein verwandter KI-Algorithmus",
           "Modelle mit transparentem Trainingsprozess und frei verfügbaren Parametern",
-          "Nur kommerzielle Modelle",
-          "Ausschließlich deutsche Modelle"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Wo möglich werden Modelle mit transparentem Trainingsprozess und frei verfügbaren Parametern gegenüber 'Closed-Source-Modellen' bevorzugt, um Lock-in-Effekte zu vermeiden und Digitale Souveränität zu wahren.",
@@ -849,10 +849,10 @@
         "id": "q37",
         "text": "Was sind 'gesonderte Räume für das Experimentieren' mit KI?",
         "options": [
-          "Spezielle Büroräume für KI-Entwicklung",
+          "Ein verwandter KI-Algorithmus",
           "Angemessene technisch-organisatorische Trennung zu Produktivumgebungen",
-          "Separate Gebäude für KI-Forschung",
-          "Virtuelle Realität Umgebungen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Gesonderte Räume für das Experimentieren bedeuten eine angemessene technisch-organisatorische Trennung zu Produktivumgebungen, um diese zu schützen, auch durch gesonderte Nutzendenkennungen.",
@@ -872,10 +872,10 @@
         "id": "q38",
         "text": "Welche Rolle spielt das Beratungszentrum für Künstliche Intelligenz (BeKI)?",
         "options": [
-          "Es entwickelt KI-Systeme für Behörden",
+          "Ein verwandter KI-Algorithmus",
           "Es bietet Beratung und Austausch für KI-Einsatz",
-          "Es kontrolliert alle KI-Systeme der Bundesverwaltung",
-          "Es verkauft KI-Software"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das Beratungszentrum für Künstliche Intelligenz (BeKI) sowie die Datenlabore der Bundesregierung können für einen guten behörden- und ressortübergreifenden Austausch zum KI-Einsatz genutzt werden.",
@@ -895,10 +895,10 @@
         "id": "q39",
         "text": "Was ist bei sensiblen personenbezogenen Daten nach Artikel 9 DSGVO zu beachten?",
         "options": [
-          "Sie dürfen immer verarbeitet werden",
+          "Ein verwandter Artikel aus dem Grundgesetz",
           "Sie sind grundsätzlich verboten, außer bei den in Artikel 9 Absatz 2 DSGVO geregelten Ausnahmen",
-          "Sie erfordern nur die Zustimmung der Behörde",
-          "Sie sind bei KI-Systemen automatisch erlaubt"
+          "Ein ähnlicher Artikel mit anderen Rechten",
+          "Ein benachbarter Artikel mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Verarbeitung sensibler personenbezogener Daten (Gesundheitsdaten, politische Meinungen, religiöse Überzeugungen) ist grundsätzlich untersagt. Ausnahmen sind nur in den in Artikel 9 Absatz 2 DSGVO geregelten Fällen zulässig.",
@@ -918,10 +918,10 @@
         "id": "q40",
         "text": "Welche Kennzeichnungsregelungen gelten nach der KI-VO?",
         "options": [
-          "Alle KI-Systeme müssen immer gekennzeichnet werden",
-          "Keine Kennzeichnung erforderlich",
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
           "Kennzeichnungspflicht für Hochrisiko-Systeme und Transparenzpflichten nach Artikel 48 und 50",
-          "Nur interne Kennzeichnung erforderlich"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die KI-VO regelt die Kennzeichnungspflicht für Hochrisiko-Systeme (Artikel 48) sowie Transparenzpflichten für Anbieter und Betreiber bestimmter KI-Systeme (Artikel 50).",
@@ -941,10 +941,10 @@
         "id": "q41",
         "text": "Was ist bei der Wirtschaftlichkeitsbetrachtung von KI-Systemen zu beachten?",
         "options": [
-          "Nur die Anschaffungskosten sind relevant",
+          "Ein verwandter KI-Algorithmus",
           "Eine ganzheitliche Betrachtung von Kosten und Nutzen über den gesamten Lebenszyklus",
-          "Wirtschaftlichkeit ist bei staatlichen Systemen irrelevant",
-          "Nur der kurzfristige finanzielle Gewinn zählt"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei der Wirtschaftlichkeitsbetrachtung sind Kosten und Nutzen über den gesamten Lebenszyklus zu betrachten, einschließlich Beschaffung, Betrieb, Wartung, Schulung und Entsorgung.",
@@ -964,10 +964,10 @@
         "id": "q42",
         "text": "Welche Kriterien sind bei der Auswahl von KI-Systemen zu berücksichtigen?",
         "options": [
-          "Nur die technische Leistung",
+          "Ein verwandter KI-Algorithmus",
           "Performanz, Digitale Souveränität, Sicherheit und Wirtschaftlichkeit",
-          "Nur der Preis",
-          "Ausschließlich deutsche Herkunft"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei der Systemauswahl müssen die Performanz für den Anwendungsfall gegen Anforderungen der Digitalen Souveränität, Informationssicherheit und Wirtschaftlichkeit abgewogen werden.",
@@ -988,9 +988,9 @@
         "text": "Was bedeutet 'Interoperabilität' bei KI-Systemen?",
         "options": [
           "Die Fähigkeit verschiedener Systeme zusammenzuarbeiten",
-          "Die Geschwindigkeit der Datenverarbeitung",
-          "Die Benutzerfreundlichkeit der Oberfläche",
-          "Die Kosten des Systems"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Interoperabilität bezeichnet die Fähigkeit verschiedener KI-Systeme, Daten auszutauschen und zusammenzuarbeiten. Dies ist wichtig für einen gemeinschaftlichen und nachhaltigen KI-Einsatz.",
@@ -1010,10 +1010,10 @@
         "id": "q44",
         "text": "Welche Rolle spielt die Dokumentation beim KI-Einsatz?",
         "options": [
-          "Dokumentation ist optional",
-          "Nur technische Dokumentation ist erforderlich",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Umfassende Dokumentation von Systemeigenschaften, Risiken und Entscheidungen",
-          "Nur für externe Systeme erforderlich"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Eine umfassende Dokumentation der KI-Systeme, ihrer Eigenschaften, Risiken und getroffenen Entscheidungen ist essentiell für Transparenz, Nachvollziehbarkeit und Verantwortlichkeit.",
@@ -1033,10 +1033,10 @@
         "id": "q45",
         "text": "Was ist bei der Nutzung von KI-Systemen für die Entscheidungsunterstützung zu beachten?",
         "options": [
-          "KI-Entscheidungen sind immer bindend",
+          "Ein verwandter KI-Algorithmus",
           "Menschen müssen die finale Entscheidung treffen und können diese begründen",
-          "KI-Systeme ersetzen menschliche Entscheidungen vollständig",
-          "Nur technische Experten dürfen entscheiden"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei der Entscheidungsunterstützung durch KI müssen Menschen in der Lage sein, die finale Entscheidung zu treffen und zu begründen. Die menschliche Aufsicht und Verantwortung bleibt bestehen.",
@@ -1056,10 +1056,10 @@
         "id": "q46",
         "text": "Welche Bedeutung hat 'Robustheit' bei KI-Systemen?",
         "options": [
-          "Nur die physische Widerstandsfähigkeit der Hardware",
+          "Ein verwandter KI-Algorithmus",
           "Zuverlässige Funktion auch bei unerwarteten Eingaben und Störungen",
-          "Die Geschwindigkeit der Verarbeitung",
-          "Die Benutzerfreundlichkeit"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Robustheit bedeutet, dass KI-Systeme auch bei unerwarteten Eingaben, fehlerhaften Daten oder externen Störungen zuverlässig und sicher funktionieren und resilient gegenüber Angriffen sind.",
@@ -1079,10 +1079,10 @@
         "id": "q47",
         "text": "Was sind 'Foundation Models' oder 'Basismodelle'?",
         "options": [
-          "Einfache regelbasierte Systeme",
+          "Eine ähnliche Alternative",
           "Große, vielseitig einsetzbare KI-Modelle, die als Grundlage für verschiedene Anwendungen dienen",
-          "Nur Modelle für Textverarbeitung",
-          "Ausschließlich Open-Source-Modelle"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Foundation Models sind große, oft multimodal trainierte KI-Modelle, die als Grundlage für verschiedene spezifische Anwendungen und Aufgaben verwendet werden können.",
@@ -1102,10 +1102,10 @@
         "id": "q48",
         "text": "Welche Anforderungen stellt die KI-VO an Hochrisiko-KI-Systeme?",
         "options": [
-          "Keine besonderen Anforderungen",
-          "Nur Registrierung erforderlich",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Umfassende Pflichten wie Risikomanagementsystem, Dokumentation und menschliche Aufsicht",
-          "Nur CE-Kennzeichnung erforderlich"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Hochrisiko-KI-Systeme nach der KI-VO unterliegen umfassenden Pflichten wie Risikomanagementsystem, Datenqualitätssicherung, Dokumentation, Transparenz, menschliche Aufsicht und Genauigkeitsanforderungen.",
@@ -1125,10 +1125,10 @@
         "id": "q49",
         "text": "Was ist bei der Einführung neuer KI-Technologien in Behörden zu beachten?",
         "options": [
-          "Sofortige Einführung ohne Vorbereitung",
+          "Ein verwandter KI-Algorithmus",
           "Schrittweise Einführung mit Pilotprojekten und Evaluation",
-          "Nur technische Tests sind erforderlich",
-          "Externe Beratung ist ausreichend"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Neue KI-Technologien sollten schrittweise eingeführt werden, beginnend mit Pilotprojekten, umfassender Evaluation und kontinuierlicher Überwachung der Auswirkungen.",
@@ -1148,10 +1148,10 @@
         "id": "q50",
         "text": "Welche Bedeutung hat 'Datensouveränität' beim KI-Einsatz?",
         "options": [
-          "Nur die Speicherung in Deutschland",
+          "Ein verwandter KI-Algorithmus",
           "Kontrolle über Art und Weise der Datenverwendung und -verarbeitung",
-          "Ausschließliche Nutzung deutscher Daten",
-          "Verzicht auf externe Datenquellen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Datensouveränität bedeutet die Kontrolle über die Art und Weise, wie Daten verwendet und verarbeitet werden, einschließlich der Entscheidung über Speicherort, Zugriff und Verarbeitung.",
@@ -1171,10 +1171,10 @@
         "id": "q51",
         "text": "Was ist bei der Versionskontrolle von KI-Modellen zu beachten?",
         "options": [
-          "Versionskontrolle ist bei KI-Modellen nicht erforderlich",
-          "Nur die neueste Version muss dokumentiert werden",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Systematische Dokumentation aller Versionen, Änderungen und deren Auswirkungen",
-          "Nur bei kommerziellen Modellen erforderlich"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Eine systematische Versionskontrolle von KI-Modellen ist wichtig für Nachvollziehbarkeit, Qualitätssicherung und die Möglichkeit, bei Problemen auf frühere Versionen zurückzugreifen.",
@@ -1194,10 +1194,10 @@
         "id": "q52",
         "text": "Welche Arten von Bias (Verzerrungen) können bei KI-Systemen auftreten?",
         "options": [
-          "Nur technische Fehler",
+          "Ein verwandter KI-Algorithmus",
           "Verzerrungen in Trainingsdaten, Algorithmus-Design und gesellschaftlichen Vorurteilen",
-          "Nur Eingabefehler der Nutzer",
-          "Bias tritt bei KI-Systemen nicht auf"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bias kann durch verzerrte Trainingsdaten, unfaire Algorithmus-Designs oder die Reproduktion gesellschaftlicher Vorurteile entstehen und muss systematisch identifiziert und minimiert werden.",
@@ -1217,10 +1217,10 @@
         "id": "q53",
         "text": "Was bedeutet 'Privacy by Design' bei KI-Systemen?",
         "options": [
-          "Datenschutz wird erst nach der Entwicklung implementiert",
+          "Ein verwandter KI-Algorithmus",
           "Datenschutz wird von Anfang an in die Systemarchitektur integriert",
-          "Nur externe Datenschutzprüfungen sind erforderlich",
-          "Datenschutz ist bei KI-Systemen optional"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Privacy by Design bedeutet, dass Datenschutz von Beginn der Entwicklung an als Grundprinzip in die Systemarchitektur und -prozesse integriert wird, nicht nachträglich hinzugefügt.",
@@ -1240,10 +1240,10 @@
         "id": "q54",
         "text": "Welche Rolle spielt kontinuierliches Monitoring bei KI-Systemen?",
         "options": [
-          "Monitoring ist nur bei der Einführung erforderlich",
+          "Ein verwandter KI-Algorithmus",
           "Kontinuierliche Überwachung von Leistung, Fairness und unerwünschten Effekten",
-          "Nur technische Performance muss überwacht werden",
-          "Monitoring ist bei KI-Systemen nicht notwendig"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kontinuierliches Monitoring ist essentiell, um die Leistung, Fairness und Sicherheit von KI-Systemen im laufenden Betrieb zu überwachen und unerwünschte Entwicklungen frühzeitig zu erkennen.",
@@ -1263,10 +1263,10 @@
         "id": "q55",
         "text": "Was ist bei der Nutzung von Cloud-basierten KI-Services zu beachten?",
         "options": [
-          "Cloud-Services sind grundsätzlich verboten",
+          "Ein verwandter KI-Algorithmus",
           "Bewertung von Datenschutz, Sicherheit und rechtlichen Anforderungen",
-          "Nur deutsche Cloud-Anbieter sind erlaubt",
-          "Keine besonderen Anforderungen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei Cloud-basierten KI-Services müssen Datenschutz, Informationssicherheit, rechtliche Anforderungen und die Kontrolle über Daten und Verarbeitungsprozesse sorgfältig bewertet werden.",
@@ -1286,10 +1286,10 @@
         "id": "q56",
         "text": "Welche Bedeutung hat 'Algorithmic Auditing' (Algorithmus-Prüfung)?",
         "options": [
-          "Nur einmalige Prüfung bei der Einführung",
+          "Ein verwandter KI-Algorithmus",
           "Regelmäßige systematische Überprüfung von Algorithmen auf Fairness und Korrektheit",
-          "Nur finanzielle Prüfung der Kosten",
-          "Auditing ist bei KI-Systemen nicht anwendbar"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Algorithmic Auditing umfasst die regelmäßige, systematische Überprüfung von KI-Algorithmen auf Fairness, Transparenz, Korrektheit und Einhaltung ethischer Standards.",
@@ -1309,10 +1309,10 @@
         "id": "q57",
         "text": "Was sind 'Adversarial Attacks' bei KI-Systemen?",
         "options": [
-          "Normale Benutzereingaben",
+          "Ein verwandter KI-Algorithmus",
           "Gezielte Manipulationen der Eingabedaten, um das System zu täuschen",
-          "Systemupdates",
-          "Rechtliche Angriffe auf das System"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Adversarial Attacks sind gezielte Manipulationen von Eingabedaten, die darauf abzielen, KI-Systeme zu falschen oder schädlichen Ausgaben zu verleiten. Robuste Systeme müssen dagegen geschützt sein.",
@@ -1332,10 +1332,10 @@
         "id": "q58",
         "text": "Welche Anforderungen gelten für KI-Systeme in kritischen Infrastrukturen?",
         "options": [
-          "Keine besonderen Anforderungen",
+          "Ein verwandter KI-Algorithmus",
           "Erhöhte Sicherheits- und Zuverlässigkeitsanforderungen",
-          "Nur Geschwindigkeitsoptimierung",
-          "Ausschließlich nationale Systeme"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "KI-Systeme in kritischen Infrastrukturen unterliegen erhöhten Anforderungen an Sicherheit, Zuverlässigkeit, Verfügbarkeit und Resilienz, da Ausfälle weitreichende gesellschaftliche Folgen haben können.",
@@ -1355,10 +1355,10 @@
         "id": "q59",
         "text": "Was bedeutet 'Federated Learning' und welche Vorteile bietet es?",
         "options": [
-          "Zentralisiertes Training auf einem Server",
+          "Eine ähnliche Alternative",
           "Verteiltes Training ohne Austausch der Rohdaten zwischen Teilnehmern",
-          "Nur für kleine Datenmengen geeignet",
-          "Training ausschließlich mit öffentlichen Daten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Federated Learning ermöglicht das gemeinsame Training von KI-Modellen, ohne dass die Rohdaten der Teilnehmer ausgetauscht werden müssen, was Datenschutz und Datensouveränität stärkt.",
@@ -1378,10 +1378,10 @@
         "id": "q60",
         "text": "Welche Rolle spielen Standards und Zertifizierungen bei KI-Systemen?",
         "options": [
-          "Standards sind bei KI-Systemen nicht anwendbar",
-          "Nur interne Standards sind relevant",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Orientierung an etablierten Standards für Qualität, Sicherheit und Interoperabilität",
-          "Standards behindern Innovation"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Standards und Zertifizierungen helfen dabei, Qualität, Sicherheit, Interoperabilität und Vertrauen in KI-Systeme zu gewährleisten und erleichtern die behördenübergreifende Zusammenarbeit.",
@@ -1401,10 +1401,10 @@
         "id": "q61",
         "text": "Was ist bei der Archivierung und Löschung von KI-Trainingsdaten zu beachten?",
         "options": [
-          "Daten können unbegrenzt gespeichert werden",
+          "Ein verwandter KI-Algorithmus",
           "Einhaltung von Aufbewahrungsfristen und datenschutzrechtlichen Löschpflichten",
-          "Nur technische Backups sind erforderlich",
-          "Löschung ist bei KI-Daten nicht möglich"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei KI-Trainingsdaten müssen rechtliche Aufbewahrungsfristen beachtet und datenschutzrechtliche Löschpflichten erfüllt werden. Eine systematische Archivierungs- und Löschstrategie ist erforderlich.",
@@ -1424,10 +1424,10 @@
         "id": "q62",
         "text": "Welche Bedeutung hat 'Differential Privacy' bei KI-Systemen?",
         "options": [
-          "Unterschiedliche Zugriffsrechte für Nutzer",
+          "Ein verwandter KI-Algorithmus",
           "Mathematisches Framework zum Schutz individueller Privatsphäre in Datensätzen",
-          "Verschiedene Datenschutzrichtlinien",
-          "Trennung privater und dienstlicher Daten"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Differential Privacy ist ein mathematisches Framework, das sicherstellt, dass die Privatsphäre von Individuen in Datensätzen geschützt wird, auch wenn statistische Analysen durchgeführt werden.",
@@ -1447,10 +1447,10 @@
         "id": "q63",
         "text": "Was sind 'Synthetic Data' und welche Vorteile bieten sie?",
         "options": [
-          "Nur künstlich generierte Textdaten",
+          "Eine ähnliche Alternative",
           "Künstlich erzeugte Daten, die echte Daten ersetzen und Datenschutz verbessern können",
-          "Daten aus sozialen Netzwerken",
-          "Nur für Testzwecke verwendbare Daten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Synthetic Data sind künstlich erzeugte Daten, die statistische Eigenschaften echter Daten nachbilden, aber keine echten personenbezogenen Informationen enthalten, wodurch Datenschutzrisiken reduziert werden.",
@@ -1470,10 +1470,10 @@
         "id": "q64",
         "text": "Welche Rolle spielt 'Human-in-the-Loop' bei KI-Systemen?",
         "options": [
-          "Menschen werden vollständig durch KI ersetzt",
+          "Ein verwandter KI-Algorithmus",
           "Menschen bleiben aktiv in Entscheidungsprozesse eingebunden",
-          "Nur bei technischen Problemen erforderlich",
-          "Ausschließlich für Schulungszwecke"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Human-in-the-Loop bedeutet, dass Menschen aktiv in die Entscheidungsprozesse von KI-Systemen eingebunden bleiben und kritische Entscheidungen überprüfen und autorisieren können.",
@@ -1493,10 +1493,10 @@
         "id": "q65",
         "text": "Was ist bei der Übertragung von KI-Modellen zwischen verschiedenen Anwendungsdomänen zu beachten?",
         "options": [
-          "Modelle können ohne Änderungen übertragen werden",
+          "Ein verwandter KI-Algorithmus",
           "Transfer Learning erfordert Anpassung und Validierung für die neue Domäne",
-          "Übertragung ist grundsätzlich nicht möglich",
-          "Nur technische Parameter müssen angepasst werden"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Transfer Learning zwischen Domänen erfordert sorgfältige Anpassung, Validierung und Prüfung, ob das Modell in der neuen Anwendungsdomäne angemessen und fair funktioniert.",
@@ -1516,10 +1516,10 @@
         "id": "q66",
         "text": "Welche Bedeutung hat 'Graceful Degradation' bei KI-Systemen?",
         "options": [
-          "Vollständiger Systemausfall bei Problemen",
+          "Ein verwandter KI-Algorithmus",
           "Kontrollierte Leistungsreduzierung statt kompletter Ausfall",
-          "Automatische Systemverbesserung",
-          "Nur für Hardware-Komponenten relevant"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Graceful Degradation bedeutet, dass KI-Systeme bei Problemen oder unerwarteten Situationen ihre Leistung kontrolliert reduzieren, anstatt komplett auszufallen, um Sicherheit und Verfügbarkeit zu gewährleisten.",
@@ -1539,10 +1539,10 @@
         "id": "q67",
         "text": "Was sind 'Edge AI' Lösungen und welche Vorteile bieten sie?",
         "options": [
-          "KI nur in Cloud-Umgebungen",
+          "Ein verwandter KI-Algorithmus",
           "KI-Verarbeitung direkt auf lokalen Geräten für reduzierte Latenz und Datenschutz",
-          "Nur für grafische Anwendungen",
-          "Ausschließlich für mobile Geräte"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Edge AI führt KI-Berechnungen direkt auf lokalen Geräten durch, was Latenz reduziert, Bandbreite spart und Datenschutz verbessert, da Daten nicht an externe Server gesendet werden müssen.",
@@ -1562,10 +1562,10 @@
         "id": "q68",
         "text": "Welche Anforderungen gelten für die Dokumentation von KI-Entscheidungen?",
         "options": [
-          "Keine Dokumentation erforderlich",
-          "Nur technische Parameter dokumentieren",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Nachvollziehbare Dokumentation der Entscheidungsgrundlagen und verwendeten Daten",
-          "Dokumentation nur bei Fehlern"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "KI-Entscheidungen müssen nachvollziehbar dokumentiert werden, einschließlich der verwendeten Daten, Algorithmen, Parameter und Entscheidungslogik, um Transparenz und Rechenschaftspflicht zu gewährleisten.",
@@ -1585,10 +1585,10 @@
         "id": "q69",
         "text": "Was ist bei der Integration von KI in bestehende Geschäftsprozesse zu beachten?",
         "options": [
-          "Vollständiger Ersatz aller manuellen Prozesse",
+          "Ein verwandter KI-Algorithmus",
           "Schrittweise Integration mit Bewertung der Auswirkungen auf Arbeitsabläufe",
-          "Nur technische Kompatibilität prüfen",
-          "KI arbeitet völlig unabhängig von bestehenden Prozessen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "KI sollte schrittweise in bestehende Prozesse integriert werden, mit sorgfältiger Bewertung der Auswirkungen auf Arbeitsabläufe, Mitarbeitende und die Qualität der Ergebnisse.",
@@ -1608,10 +1608,10 @@
         "id": "q70",
         "text": "Welche Rolle spielt 'Ensemble Learning' bei robusten KI-Systemen?",
         "options": [
-          "Verwendung nur eines einzigen Modells",
+          "Ein verwandter KI-Algorithmus",
           "Kombination mehrerer Modelle für verbesserte Genauigkeit und Robustheit",
-          "Nur für große Datenmengen geeignet",
-          "Ensemble Learning ist veraltet"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ensemble Learning kombiniert die Vorhersagen mehrerer Modelle, um die Gesamtgenauigkeit zu verbessern und die Robustheit gegenüber Fehlern einzelner Modelle zu erhöhen.",
@@ -1631,10 +1631,10 @@
         "id": "q71",
         "text": "Was ist bei der Bewertung der Energieeffizienz von KI-Systemen zu beachten?",
         "options": [
-          "Nur die Rechenleistung ist relevant",
+          "Ein verwandter KI-Algorithmus",
           "Gesamtenergieverbrauch von Training, Inferenz und Hardware-Lebenszyklen",
-          "Energieeffizienz ist bei KI nicht messbar",
-          "Nur Cloud-basierte Systeme verbrauchen Energie"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Energieeffizienz von KI-Systemen muss ganzheitlich betrachtet werden, einschließlich des Energieverbrauchs für Training, Inferenz, Datenübertragung und den gesamten Hardware-Lebenszyklus.",
@@ -1654,10 +1654,10 @@
         "id": "q72",
         "text": "Welche Bedeutung hat 'Model Governance' in Behörden?",
         "options": [
-          "Nur technische Verwaltung der Modelle",
+          "Eine ähnliche Alternative",
           "Umfassende Steuerung von Entwicklung, Einsatz und Überwachung von KI-Modellen",
-          "Ausschließlich rechtliche Prüfung",
-          "Model Governance ist nicht erforderlich"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Model Governance umfasst die systematische Steuerung des gesamten Lebenszyklus von KI-Modellen, von der Entwicklung über den Einsatz bis zur Außerbetriebnahme, einschließlich Qualitätssicherung und Compliance.",
@@ -1677,10 +1677,10 @@
         "id": "q73",
         "text": "Was sind 'Multimodale KI-Systeme' und welche besonderen Herausforderungen bringen sie mit sich?",
         "options": [
-          "Systeme, die nur Text verarbeiten",
+          "Ein verwandter KI-Algorithmus",
           "Systeme, die verschiedene Datentypen wie Text, Bild und Audio kombiniert verarbeiten",
-          "Systeme mit mehreren Benutzern",
-          "Ausschließlich visuelle Systeme"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Multimodale KI-Systeme verarbeiten und kombinieren verschiedene Datentypen (Text, Bild, Audio, Video), was zusätzliche Herausforderungen bei Datenschutz, Bias-Erkennung und Qualitätssicherung mit sich bringt.",
@@ -1700,10 +1700,10 @@
         "id": "q74",
         "text": "Welche Rolle spielt 'Incident Response' bei KI-Systemen?",
         "options": [
-          "Nur für Cyberangriffe relevant",
+          "Ein verwandter KI-Algorithmus",
           "Systematische Reaktion auf KI-bedingte Vorfälle und Fehlfunktionen",
-          "Incident Response ist bei KI nicht anwendbar",
-          "Nur technische Systemadministration"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Incident Response für KI-Systeme umfasst die systematische Vorbereitung, Erkennung, Reaktion und Nachbereitung von Vorfällen wie Bias, Fehlfunktionen oder Sicherheitsproblemen.",
@@ -1723,10 +1723,10 @@
         "id": "q75",
         "text": "Was ist bei der Konfiguration von KI-Systemen für verschiedene Nutzergruppen zu beachten?",
         "options": [
-          "Einheitliche Konfiguration für alle Nutzer",
+          "Ein verwandter KI-Algorithmus",
           "Anpassung an verschiedene Kompetenzniveaus und Anwendungsbereiche",
-          "Nur technische Experten können KI-Systeme nutzen",
-          "Konfiguration ist nicht erforderlich"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "KI-Systeme sollten an verschiedene Nutzergruppen, deren Kompetenzniveaus und spezifische Anwendungsbereiche angepasst werden, um optimale Ergebnisse und sichere Nutzung zu gewährleisten.",
@@ -1746,10 +1746,10 @@
         "id": "q76",
         "text": "Welche Bedeutung hat 'Continuous Integration/Continuous Deployment' (CI/CD) für KI-Systeme?",
         "options": [
-          "CI/CD ist bei KI nicht anwendbar",
+          "Ein verwandter KI-Algorithmus",
           "Automatisierte Integration und Bereitstellung von KI-Modell-Updates",
-          "Nur für Softwareentwicklung relevant",
-          "Ausschließlich manuelle Prozesse sind sicher"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "CI/CD für KI ermöglicht die automatisierte, aber kontrollierte Integration und Bereitstellung von KI-Modell-Updates, einschließlich automatisierter Tests auf Qualität, Fairness und Performance.",
@@ -1769,10 +1769,10 @@
         "id": "q77",
         "text": "Was sind 'Guardrails' bei KI-Systemen und warum sind sie wichtig?",
         "options": [
-          "Physische Barrieren um Hardware",
+          "Ein verwandter KI-Algorithmus",
           "Technische und prozessuale Schutzmaßnahmen gegen unerwünschte KI-Ausgaben",
-          "Nur rechtliche Bestimmungen",
-          "Guardrails sind nicht erforderlich"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Guardrails sind technische und prozessuale Schutzmaßnahmen, die verhindern, dass KI-Systeme schädliche, diskriminierende oder unangemessene Ausgaben produzieren oder Grenzen überschreiten.",
@@ -1792,10 +1792,10 @@
         "id": "q78",
         "text": "Welche Rolle spielt 'Data Lineage' bei KI-Systemen?",
         "options": [
-          "Nur die Datenherkunft dokumentieren",
+          "Ein verwandter KI-Algorithmus",
           "Vollständige Nachverfolgung der Datenverarbeitung von der Quelle bis zur Ausgabe",
-          "Data Lineage ist bei KI nicht relevant",
-          "Nur für große Datensätze erforderlich"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Data Lineage ermöglicht die vollständige Nachverfolgung der Datenverarbeitung durch KI-Systeme, was für Transparenz, Compliance und die Identifikation von Bias-Quellen essentiell ist.",
@@ -1815,10 +1815,10 @@
         "id": "q79",
         "text": "Was ist bei der Bewertung der 'Fairness' von KI-Systemen zu beachten?",
         "options": [
-          "Fairness ist subjektiv und nicht messbar",
+          "Ein verwandter KI-Algorithmus",
           "Verwendung etablierter Fairness-Metriken und Berücksichtigung verschiedener Fairness-Konzepte",
-          "Nur technische Performance ist relevant",
-          "Fairness ist automatisch gegeben"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Fairness-Bewertung erfordert die Anwendung etablierter Metriken und die Berücksichtigung verschiedener Fairness-Konzepte, da unterschiedliche Definitionen von Fairness zu verschiedenen Ergebnissen führen können.",
@@ -1838,10 +1838,10 @@
         "id": "q80",
         "text": "Welche Anforderungen gelten für die Schulung von Führungskräften im Umgang mit KI?",
         "options": [
-          "Führungskräfte benötigen keine KI-Schulungen",
+          "Ein verwandter KI-Algorithmus",
           "Verständnis für strategische Implikationen, Risiken und Governance von KI-Systemen",
-          "Nur technische Details sind wichtig",
-          "Externe Berater übernehmen alle KI-Entscheidungen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Führungskräfte benötigen Schulungen zu strategischen Implikationen von KI, Risikomanagement, ethischen Aspekten und Governance-Anforderungen, um fundierte Entscheidungen treffen zu können.",
@@ -1861,10 +1861,10 @@
         "id": "q81",
         "text": "Was ist bei der Implementierung von 'Zero Trust' Sicherheitsmodellen für KI-Systeme zu beachten?",
         "options": [
-          "Vollständiges Vertrauen in interne KI-Systeme",
+          "Ein verwandter KI-Algorithmus",
           "Kontinuierliche Verifikation und minimale Zugriffsprivilegien für alle KI-Komponenten",
-          "Zero Trust ist bei KI nicht anwendbar",
-          "Nur externe Systeme benötigen Sicherheitsprüfungen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Zero Trust für KI bedeutet kontinuierliche Verifikation aller KI-Komponenten, minimale Zugriffsprivilegien, Segmentierung und ständige Überwachung, auch für interne Systeme.",
@@ -1884,10 +1884,10 @@
         "id": "q82",
         "text": "Welche Bedeutung hat 'Concept Drift' bei KI-Modellen und wie wird damit umgegangen?",
         "options": [
-          "Concept Drift ist ein gewünschter Effekt",
+          "Ein verwandter KI-Algorithmus",
           "Allmähliche Verschlechterung der Modellleistung durch sich ändernde Datenverteilungen",
-          "Nur ein technisches Problem ohne praktische Relevanz",
-          "Concept Drift tritt bei KI-Modellen nicht auf"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Concept Drift beschreibt die allmähliche Verschlechterung der KI-Modellleistung durch sich ändernde reale Datenverteilungen und erfordert kontinuierliches Monitoring und regelmäßige Modellanpassungen.",
@@ -1907,10 +1907,10 @@
         "id": "q83",
         "text": "Was sind 'Adversarial Examples' und welche Schutzmaßnahmen gibt es?",
         "options": [
-          "Normale Testbeispiele für KI-Systeme",
+          "Eine ähnliche Alternative",
           "Gezielt manipulierte Eingaben, die KI-Systeme zu falschen Entscheidungen verleiten",
-          "Beispiele für gute KI-Nutzung",
-          "Adversarial Examples sind harmlos"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Adversarial Examples sind speziell manipulierte Eingaben, die KI-Systeme täuschen sollen. Schutzmaßnahmen umfassen robuste Trainingsverfahren, Eingabevalidierung und Anomalieerkennung.",
@@ -1930,10 +1930,10 @@
         "id": "q84",
         "text": "Welche Rolle spielt 'Explainability' vs. 'Interpretability' bei KI-Systemen?",
         "options": [
-          "Beide Begriffe bedeuten dasselbe",
+          "Ein verwandter KI-Algorithmus",
           "Explainability erklärt Entscheidungen, Interpretability macht Modelle verständlich",
-          "Nur Explainability ist wichtig",
-          "Beide Konzepte sind bei KI nicht relevant"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Explainability bezieht sich auf die Fähigkeit, KI-Entscheidungen zu erklären, während Interpretability die grundsätzliche Verständlichkeit der Modellstruktur und -funktion betrifft.",
@@ -1953,10 +1953,10 @@
         "id": "q85",
         "text": "Was ist bei der Nutzung von 'Pre-trained Models' zu beachten?",
         "options": [
-          "Pre-trained Models können ohne Prüfung verwendet werden",
+          "Ein verwandter KI-Algorithmus",
           "Bewertung von Trainingsdaten, Bias und Anpassung an den spezifischen Anwendungsfall",
-          "Nur die Leistung ist relevant",
-          "Pre-trained Models sind grundsätzlich ungeeignet"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Pre-trained Models erfordern sorgfältige Bewertung der ursprünglichen Trainingsdaten, möglicher Bias-Quellen und Anpassung an den spezifischen Anwendungsfall der Behörde.",
@@ -1976,10 +1976,10 @@
         "id": "q86",
         "text": "Welche Anforderungen gelten für KI-Systeme im Bereich der IT-Sicherheit?",
         "options": [
-          "Nur Standardsicherheitsmaßnahmen sind erforderlich",
+          "Ein verwandter KI-Algorithmus",
           "Erweiterte Sicherheitsanforderungen entsprechend dem BSI IT-Grundschutz",
-          "KI-Systeme sind automatisch sicher",
-          "Sicherheit ist bei KI nicht relevant"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "KI-Systeme müssen erweiterte Sicherheitsanforderungen erfüllen, die über Standardmaßnahmen hinausgehen und dem BSI IT-Grundschutz sowie spezifischen KI-Sicherheitsstandards entsprechen.",
@@ -1999,10 +1999,10 @@
         "id": "q87",
         "text": "Was bedeutet 'Algorithmic Transparency' in der öffentlichen Verwaltung?",
         "options": [
-          "Vollständige Offenlegung aller Algorithmus-Details",
+          "Eine ähnliche Alternative",
           "Angemessene Transparenz über KI-Entscheidungsprozesse gegenüber Betroffenen",
-          "Algorithmic Transparency ist nicht erforderlich",
-          "Nur interne Dokumentation genügt"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Algorithmic Transparency erfordert angemessene Offenlegung von KI-Entscheidungsprozessen gegenüber Bürgern und Betroffenen, ohne dabei Sicherheit oder geistiges Eigentum zu gefährden.",
@@ -2022,10 +2022,10 @@
         "id": "q88",
         "text": "Welche Rolle spielt 'Change Management' bei der KI-Einführung in Behörden?",
         "options": [
-          "Change Management ist nicht erforderlich",
+          "Ein verwandter KI-Algorithmus",
           "Systematische Begleitung der organisatorischen und kulturellen Veränderungen",
-          "Nur technische Implementierung ist wichtig",
-          "Change Management verzögert die KI-Einführung"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Change Management ist essentiell für die erfolgreiche KI-Einführung und umfasst die systematische Begleitung organisatorischer, kultureller und prozessualer Veränderungen in der Behörde.",
@@ -2045,10 +2045,10 @@
         "id": "q89",
         "text": "Was ist bei der Bewertung von KI-Systemen hinsichtlich ihrer gesellschaftlichen Auswirkungen zu beachten?",
         "options": [
-          "Nur technische Leistung bewerten",
+          "Ein verwandter KI-Algorithmus",
           "Umfassende Bewertung von Auswirkungen auf verschiedene Gesellschaftsgruppen",
-          "Gesellschaftliche Auswirkungen sind nicht messbar",
-          "KI hat keine gesellschaftlichen Auswirkungen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Bewertung gesellschaftlicher Auswirkungen von KI erfordert eine umfassende Analyse der Effekte auf verschiedene Bevölkerungsgruppen, Gleichberechtigung und gesellschaftliche Teilhabe.",
@@ -2068,10 +2068,10 @@
         "id": "q90",
         "text": "Welche Bedeutung haben 'Stress Tests' für KI-Systeme?",
         "options": [
-          "Tests sind nur bei Hardware erforderlich",
+          "Ein verwandter KI-Algorithmus",
           "Systematische Überprüfung der KI-Leistung unter extremen oder unerwarteten Bedingungen",
-          "Stress Tests sind bei KI nicht anwendbar",
-          "Nur bei kritischen Fehlern erforderlich"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Stress Tests prüfen die Robustheit und Zuverlässigkeit von KI-Systemen unter extremen Bedingungen, hoher Last oder unerwarteten Eingaben und sind wichtig für die Risikobewertung.",
@@ -2091,10 +2091,10 @@
         "id": "q91",
         "text": "Was bedeutet 'Data Minimization' im Kontext von KI-Systemen?",
         "options": [
-          "Verwendung möglichst großer Datenmengen",
+          "Ein verwandter KI-Algorithmus",
           "Sammlung und Verarbeitung nur der für den Zweck erforderlichen Daten",
-          "Komprimierung aller Daten",
-          "Data Minimization ist bei KI nicht anwendbar"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Data Minimization ist ein DSGVO-Grundsatz, der besagt, dass nur Daten gesammelt und verarbeitet werden dürfen, die für den spezifischen Zweck erforderlich und angemessen sind.",
@@ -2114,10 +2114,10 @@
         "id": "q92",
         "text": "Welche Rolle spielt 'Vendor Risk Management' bei externen KI-Dienstleistern?",
         "options": [
-          "Vendor Management ist nicht erforderlich",
+          "Ein sehr heller Planet am Nachthimmel",
           "Systematische Bewertung und Überwachung von Sicherheits- und Compliance-Risiken",
-          "Nur Preisvergleiche sind wichtig",
-          "Externe Anbieter sind automatisch vertrauenswürdig"
+          "Ein Komet mit charakteristischem Schweif",
+          "Ein Asteroid aus dem Asteroidengürtel"
         ],
         "correctIndex": 1,
         "explanation": "Vendor Risk Management umfasst die systematische Bewertung von Sicherheits-, Datenschutz- und Compliance-Risiken externer KI-Anbieter sowie deren kontinuierliche Überwachung.",
@@ -2137,10 +2137,10 @@
         "id": "q93",
         "text": "Was ist bei der Implementierung von 'Privacy-Preserving Machine Learning' zu beachten?",
         "options": [
-          "Datenschutz ist bei Machine Learning nicht wichtig",
+          "Eine ähnliche Alternative",
           "Techniken wie Federated Learning, Differential Privacy und Secure Multi-Party Computation",
-          "Nur Verschlüsselung ist erforderlich",
-          "Privacy-Preserving ML ist technisch nicht umsetzbar"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Privacy-Preserving Machine Learning nutzt Techniken wie Federated Learning, Differential Privacy und Secure Multi-Party Computation, um Datenschutz während des ML-Trainings zu gewährleisten.",
@@ -2160,10 +2160,10 @@
         "id": "q94",
         "text": "Welche Bedeutung hat 'Algorithmic Impact Assessment' (AIA) für KI-Systeme?",
         "options": [
-          "AIA ist nur für kommerzielle Systeme erforderlich",
+          "Ein verwandter KI-Algorithmus",
           "Systematische Bewertung der Auswirkungen von KI-Algorithmen auf Individuen und Gesellschaft",
-          "Nur technische Performance wird bewertet",
-          "Algorithmic Impact Assessment ist nicht erforderlich"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Algorithmic Impact Assessment bewertet systematisch die Auswirkungen von KI-Algorithmen auf Grundrechte, Fairness, Diskriminierung und gesellschaftliche Effekte.",
@@ -2183,10 +2183,10 @@
         "id": "q95",
         "text": "Was ist bei der Architektur von 'Hybrid AI-Systemen' zu beachten?",
         "options": [
-          "Nur eine KI-Technologie verwenden",
+          "Ein verwandter KI-Algorithmus",
           "Integration verschiedener KI-Technologien mit menschlicher Expertise",
-          "Hybrid-Systeme sind zu komplex",
-          "Automatisierung ohne menschliche Beteiligung"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Hybrid AI-Systeme kombinieren verschiedene KI-Technologien mit menschlicher Expertise und erfordern sorgfältige Integration, Koordination und Qualitätssicherung der verschiedenen Komponenten.",
@@ -2206,10 +2206,10 @@
         "id": "q96",
         "text": "Welche Anforderungen gelten für die Rückverfolgbarkeit (Traceability) von KI-Entscheidungen?",
         "options": [
-          "Rückverfolgbarkeit ist nicht erforderlich",
+          "Ein verwandter KI-Algorithmus",
           "Vollständige Dokumentation von Eingaben, Verarbeitungsschritten und Ausgaben",
-          "Nur das Endergebnis muss dokumentiert werden",
-          "Rückverfolgbarkeit ist technisch unmöglich"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Traceability erfordert die vollständige Dokumentation aller Eingaben, Verarbeitungsschritte, verwendeten Modelle und Ausgaben, um KI-Entscheidungen nachvollziehen und auditieren zu können.",
@@ -2229,10 +2229,10 @@
         "id": "q97",
         "text": "Was bedeutet 'Responsible AI Governance' in Behörden?",
         "options": [
-          "Nur technische Verwaltung von KI-Systemen",
+          "Ein verwandter KI-Algorithmus",
           "Umfassende ethische, rechtliche und organisatorische Steuerung des KI-Einsatzes",
-          "Governance ist bei KI nicht erforderlich",
-          "Ausschließlich externe Kontrolle"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Responsible AI Governance umfasst die umfassende ethische, rechtliche und organisatorische Steuerung des KI-Einsatzes mit klaren Verantwortlichkeiten, Prozessen und Kontrollmechanismen.",
@@ -2252,10 +2252,10 @@
         "id": "q98",
         "text": "Welche Rolle spielt 'Continuous Learning' bei KI-Systemen in der Verwaltung?",
         "options": [
-          "Einmaliges Training ist ausreichend",
+          "Ein verwandter KI-Algorithmus",
           "Kontinuierliche Anpassung an neue Daten und sich ändernde Anforderungen",
-          "Continuous Learning ist zu riskant",
-          "Nur manuelle Updates sind erlaubt"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Continuous Learning ermöglicht KI-Systemen die kontinuierliche Anpassung an neue Daten und sich ändernde Anforderungen, erfordert aber sorgfältige Überwachung und Kontrolle.",
@@ -2275,10 +2275,10 @@
         "id": "q99",
         "text": "Was ist bei der Bewertung der 'Carbon Footprint' von KI-Systemen zu berücksichtigen?",
         "options": [
-          "Nur der Stromverbrauch des Servers",
+          "Ein verwandter KI-Algorithmus",
           "Gesamte CO2-Bilanz von Entwicklung, Training, Betrieb bis Entsorgung",
-          "Carbon Footprint ist bei KI nicht relevant",
-          "Nur Cloud-Anbieter sind verantwortlich"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Carbon Footprint-Bewertung muss den gesamten Lebenszyklus umfassen: Entwicklung, Training, Betrieb, Hardware-Produktion und -Entsorgung sowie Datentransfer.",
@@ -2298,10 +2298,10 @@
         "id": "q100",
         "text": "Welche langfristigen strategischen Überlegungen sind für den nachhaltigen KI-Einsatz in der Bundesverwaltung wichtig?",
         "options": [
-          "Nur kurzfristige Effizienzgewinne maximieren",
+          "Ein verwandter KI-Algorithmus",
           "Aufbau von KI-Kompetenzen, Standards und langfristiger digitaler Souveränität",
-          "Vollständige Automatisierung aller Prozesse",
-          "Ausschließlich externe KI-Lösungen nutzen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nachhaltige KI-Strategie erfordert systematischen Aufbau interner Kompetenzen, einheitlicher Standards, digitaler Souveränität und langfristiger Planung für die gesamte Bundesverwaltung.",

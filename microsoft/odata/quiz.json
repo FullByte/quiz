@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist die Hauptfunktion von OData?",
         "options": [
-          "Ein Betriebssystem",
+          "Eine ähnliche Alternative",
           "Ein offenes Web-Protokoll für das Abfragen und Aktualisieren von Daten",
-          "Eine Programmiersprache",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData (Open Data Protocol) ist ein offenes Web-Protokoll, das standardisierte Möglichkeiten für das Abfragen und Aktualisieren von Daten über HTTP bereitstellt.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Hauptvorteile bietet OData?",
         "options": [
-          "Nur bessere Performance",
+          "Eine ähnliche Alternative",
           "Standardisierung, Interoperabilität und vereinfachte API-Entwicklung",
-          "Nur einfachere Bedienung",
-          "Nur niedrigere Kosten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData bietet Standardisierung von APIs, Interoperabilität zwischen verschiedenen Systemen und vereinfacht die Entwicklung von Daten-APIs.",
@@ -71,10 +71,10 @@
         "id": "q3",
         "text": "Was ist ein OData Service?",
         "options": [
-          "Ein Betriebssystem",
+          "Eine ähnliche Alternative",
           "Ein Web-Service, der Daten über OData-Protokoll bereitstellt",
-          "Eine Programmiersprache",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein OData Service ist ein Web-Service, der Daten über das OData-Protokoll bereitstellt und standardisierte CRUD-Operationen ermöglicht.",
@@ -94,10 +94,10 @@
         "id": "q4",
         "text": "Welche HTTP-Verben werden von OData unterstützt?",
         "options": [
-          "Nur GET",
+          "Eine ähnliche Alternative",
           "GET, POST, PUT, PATCH und DELETE",
-          "Nur GET und POST",
-          "Nur GET, POST und PUT"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData unterstützt die Standard-HTTP-Verben: GET für Abfragen, POST für Erstellen, PUT/PATCH für Aktualisieren und DELETE für Löschen.",
@@ -119,10 +119,10 @@
         "id": "q5",
         "text": "Was ist eine OData Entity?",
         "options": [
-          "Ein Betriebssystem",
+          "Eine ähnliche Alternative",
           "Ein Datenobjekt mit Eigenschaften, das über OData verfügbar gemacht wird",
-          "Eine Programmiersprache",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine OData Entity ist ein Datenobjekt mit Eigenschaften, das über den OData Service verfügbar gemacht wird und eindeutig identifizierbar ist.",
@@ -142,10 +142,10 @@
         "id": "q6",
         "text": "Was ist OData Query Language?",
         "options": [
-          "Eine Programmiersprache",
+          "Eine ähnliche Alternative",
           "Eine Abfragesprache für das Filtern, Sortieren und Paging von OData-Ergebnissen",
-          "Ein Betriebssystem",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData Query Language ermöglicht es, Abfragen mit Filtern, Sortierung, Paging und anderen Operationen zu erstellen, um Daten gezielt abzurufen.",
@@ -166,10 +166,10 @@
         "id": "q7",
         "text": "Was ist ein OData Schema?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Eine Metadatenbeschreibung der verfügbaren Entitäten und deren Beziehungen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein OData Schema beschreibt die Metadaten der verfügbaren Entitäten, deren Eigenschaften und Beziehungen in einem OData Service.",
@@ -189,10 +189,10 @@
         "id": "q8",
         "text": "Welche Datentypen unterstützt OData?",
         "options": [
-          "Nur String und Integer",
+          "Ein verwandter KI-Algorithmus",
           "Primitive Typen wie String, Integer, DateTime, Boolean und komplexe Typen",
-          "Nur primitive Typen",
-          "Nur komplexe Typen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData unterstützt primitive Datentypen wie String, Integer, DateTime, Boolean sowie komplexe Typen und Sammlungen.",
@@ -212,10 +212,10 @@
         "id": "q9",
         "text": "Was ist OData Batch?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Eine Möglichkeit, mehrere OData-Operationen in einer einzigen HTTP-Anfrage zu bündeln",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData Batch ermöglicht es, mehrere OData-Operationen in einer einzigen HTTP-Anfrage zu bündeln, um die Performance zu verbessern.",
@@ -235,10 +235,10 @@
         "id": "q10",
         "text": "Welche Versionen von OData gibt es?",
         "options": [
-          "Nur Version 1.0",
+          "Eine ähnliche Alternative",
           "OData Version 1.0, 2.0, 3.0, 4.0 und 4.01",
-          "Nur Version 4.0",
-          "Nur Version 4.01"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData hat verschiedene Versionen entwickelt: 1.0, 2.0, 3.0, 4.0 und 4.01, wobei Version 4.0/4.01 die aktuellen Standards sind.",
@@ -259,10 +259,10 @@
         "id": "q11",
         "text": "Was ist OData Metadata?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service-Dokument, das die Struktur und Funktionen eines OData-Services beschreibt",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData Metadata ist ein Service-Dokument, das die Struktur, Entitäten, Beziehungen und Funktionen eines OData-Services beschreibt.",
@@ -282,10 +282,10 @@
         "id": "q12",
         "text": "Was ist OData Entity Data Model (EDM)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Datenmodell zur Beschreibung der Struktur von OData-Services",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData Entity Data Model (EDM) ist ein Datenmodell, das die Struktur von OData-Services mit Entitäten, Eigenschaften und Beziehungen definiert.",
@@ -305,10 +305,10 @@
         "id": "q13",
         "text": "Was ist OData Query Options?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "URL-Parameter für die Filterung, Sortierung und Paginierung von OData-Ergebnissen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData Query Options sind URL-Parameter wie $filter, $orderby, $top und $skip für die Steuerung von OData-Abfragen.",
@@ -329,10 +329,10 @@
         "id": "q14",
         "text": "Was ist OData Functions?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Benutzerdefinierte Funktionen in OData-Services für spezielle Operationen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData Functions sind benutzerdefinierte Funktionen, die spezielle Operationen und Berechnungen in OData-Services ermöglichen.",
@@ -352,10 +352,10 @@
         "id": "q15",
         "text": "Was ist OData Actions?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Benutzerdefinierte Aktionen in OData-Services für komplexe Operationen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData Actions sind benutzerdefinierte Aktionen, die komplexe Operationen und Geschäftslogik in OData-Services implementieren.",
@@ -375,10 +375,10 @@
         "id": "q16",
         "text": "Was ist OData Batch Processing?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für die Verarbeitung mehrerer OData-Anfragen in einer Batch-Operation",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData Batch Processing ermöglicht es, mehrere OData-Anfragen in einer einzigen HTTP-Anfrage zu verarbeiten für bessere Performance.",
@@ -398,10 +398,10 @@
         "id": "q17",
         "text": "Was ist OData Versioning?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für die Verwaltung verschiedener Versionen von OData-Services",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData Versioning ermöglicht die Verwaltung verschiedener Versionen von OData-Services für Abwärtskompatibilität und Evolution.",
@@ -421,10 +421,10 @@
         "id": "q18",
         "text": "Was ist OData Security?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Sicherheitsmechanismen für OData-Services wie Authentifizierung und Autorisierung",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData Security umfasst Authentifizierung, Autorisierung und andere Sicherheitsmechanismen für OData-Services.",
@@ -444,10 +444,10 @@
         "id": "q19",
         "text": "Welche OData-Implementierungen gibt es?",
         "options": [
-          "Nur Microsoft",
+          "Eine ähnliche Alternative",
           "Microsoft, Apache Olingo, SAP Gateway und viele weitere",
-          "Nur Apache Olingo",
-          "Nur SAP Gateway"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData wird von verschiedenen Anbietern implementiert: Microsoft, Apache Olingo, SAP Gateway und viele weitere Open-Source- und kommerzielle Lösungen.",
@@ -467,10 +467,10 @@
         "id": "q20",
         "text": "Was ist OData Client Libraries?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Bibliotheken für die Entwicklung von OData-Clients in verschiedenen Programmiersprachen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "OData Client Libraries sind Bibliotheken, die die Entwicklung von OData-Clients in verschiedenen Programmiersprachen wie C#, Java und JavaScript vereinfachen.",
@@ -491,10 +491,10 @@
         "id": "q21",
         "text": "Was ist Grundlagen in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für grundlagen und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Grundlagen ist ein wichtiger Service in OData (Open Data Protocol), der grundlagen und verwandte Funktionen bereitstellt.",
@@ -514,10 +514,10 @@
         "id": "q22",
         "text": "Was ist Konfiguration in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für konfiguration und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Konfiguration ist ein wichtiger Service in OData (Open Data Protocol), der konfiguration und verwandte Funktionen bereitstellt.",
@@ -537,10 +537,10 @@
         "id": "q23",
         "text": "Was ist Verwaltung in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für verwaltung und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Verwaltung ist ein wichtiger Service in OData (Open Data Protocol), der verwaltung und verwandte Funktionen bereitstellt.",
@@ -560,10 +560,10 @@
         "id": "q24",
         "text": "Was ist Sicherheit in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für sicherheit und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Sicherheit ist ein wichtiger Service in OData (Open Data Protocol), der sicherheit und verwandte Funktionen bereitstellt.",
@@ -583,10 +583,10 @@
         "id": "q25",
         "text": "Was ist Performance in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für performance und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Performance ist ein wichtiger Service in OData (Open Data Protocol), der performance und verwandte Funktionen bereitstellt.",
@@ -606,10 +606,10 @@
         "id": "q26",
         "text": "Was ist Skalierung in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für skalierung und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Skalierung ist ein wichtiger Service in OData (Open Data Protocol), der skalierung und verwandte Funktionen bereitstellt.",
@@ -629,10 +629,10 @@
         "id": "q27",
         "text": "Was ist Monitoring in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für monitoring und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Monitoring ist ein wichtiger Service in OData (Open Data Protocol), der monitoring und verwandte Funktionen bereitstellt.",
@@ -652,10 +652,10 @@
         "id": "q28",
         "text": "Was ist Logging in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche rechtliche Bestimmung",
           "Ein Service für logging und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Logging ist ein wichtiger Service in OData (Open Data Protocol), der logging und verwandte Funktionen bereitstellt.",
@@ -675,10 +675,10 @@
         "id": "q29",
         "text": "Was ist Backup in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für backup und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Backup ist ein wichtiger Service in OData (Open Data Protocol), der backup und verwandte Funktionen bereitstellt.",
@@ -698,10 +698,10 @@
         "id": "q30",
         "text": "Was ist Recovery in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für recovery und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Recovery ist ein wichtiger Service in OData (Open Data Protocol), der recovery und verwandte Funktionen bereitstellt.",
@@ -721,10 +721,10 @@
         "id": "q31",
         "text": "Was ist Disaster Recovery in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für disaster recovery und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Disaster Recovery ist ein wichtiger Service in OData (Open Data Protocol), der disaster recovery und verwandte Funktionen bereitstellt.",
@@ -744,10 +744,10 @@
         "id": "q32",
         "text": "Was ist High Availability in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandter KI-Algorithmus",
           "Ein Service für high availability und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "High Availability ist ein wichtiger Service in OData (Open Data Protocol), der high availability und verwandte Funktionen bereitstellt.",
@@ -767,10 +767,10 @@
         "id": "q33",
         "text": "Was ist Load Balancing in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für load balancing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Load Balancing ist ein wichtiger Service in OData (Open Data Protocol), der load balancing und verwandte Funktionen bereitstellt.",
@@ -790,10 +790,10 @@
         "id": "q34",
         "text": "Was ist Caching in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für caching und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Caching ist ein wichtiger Service in OData (Open Data Protocol), der caching und verwandte Funktionen bereitstellt.",
@@ -813,10 +813,10 @@
         "id": "q35",
         "text": "Was ist Optimierung in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für optimierung und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Optimierung ist ein wichtiger Service in OData (Open Data Protocol), der optimierung und verwandte Funktionen bereitstellt.",
@@ -836,10 +836,10 @@
         "id": "q36",
         "text": "Was ist Integration in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für integration und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Integration ist ein wichtiger Service in OData (Open Data Protocol), der integration und verwandte Funktionen bereitstellt.",
@@ -859,10 +859,10 @@
         "id": "q37",
         "text": "Was ist APIs in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für apis und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "APIs ist ein wichtiger Service in OData (Open Data Protocol), der apis und verwandte Funktionen bereitstellt.",
@@ -882,10 +882,10 @@
         "id": "q38",
         "text": "Was ist SDKs in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für sdks und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "SDKs ist ein wichtiger Service in OData (Open Data Protocol), der sdks und verwandte Funktionen bereitstellt.",
@@ -905,10 +905,10 @@
         "id": "q39",
         "text": "Was ist CLI in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für cli und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "CLI ist ein wichtiger Service in OData (Open Data Protocol), der cli und verwandte Funktionen bereitstellt.",
@@ -928,10 +928,10 @@
         "id": "q40",
         "text": "Was ist PowerShell in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für powershell und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell ist ein wichtiger Service in OData (Open Data Protocol), der powershell und verwandte Funktionen bereitstellt.",
@@ -951,10 +951,10 @@
         "id": "q41",
         "text": "Was ist Templates in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für templates und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Templates ist ein wichtiger Service in OData (Open Data Protocol), der templates und verwandte Funktionen bereitstellt.",
@@ -974,10 +974,10 @@
         "id": "q42",
         "text": "Was ist Automation in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für automation und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Automation ist ein wichtiger Service in OData (Open Data Protocol), der automation und verwandte Funktionen bereitstellt.",
@@ -997,10 +997,10 @@
         "id": "q43",
         "text": "Was ist DevOps in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für devops und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "DevOps ist ein wichtiger Service in OData (Open Data Protocol), der devops und verwandte Funktionen bereitstellt.",
@@ -1020,10 +1020,10 @@
         "id": "q44",
         "text": "Was ist CI/CD in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für ci/cd und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "CI/CD ist ein wichtiger Service in OData (Open Data Protocol), der ci/cd und verwandte Funktionen bereitstellt.",
@@ -1043,10 +1043,10 @@
         "id": "q45",
         "text": "Was ist Deployment in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für deployment und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Deployment ist ein wichtiger Service in OData (Open Data Protocol), der deployment und verwandte Funktionen bereitstellt.",
@@ -1066,10 +1066,10 @@
         "id": "q46",
         "text": "Was ist Testing in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für testing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Testing ist ein wichtiger Service in OData (Open Data Protocol), der testing und verwandte Funktionen bereitstellt.",
@@ -1089,10 +1089,10 @@
         "id": "q47",
         "text": "Was ist Debugging in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche rechtliche Bestimmung",
           "Ein Service für debugging und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Debugging ist ein wichtiger Service in OData (Open Data Protocol), der debugging und verwandte Funktionen bereitstellt.",
@@ -1112,10 +1112,10 @@
         "id": "q48",
         "text": "Was ist Troubleshooting in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für troubleshooting und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Troubleshooting ist ein wichtiger Service in OData (Open Data Protocol), der troubleshooting und verwandte Funktionen bereitstellt.",
@@ -1135,10 +1135,10 @@
         "id": "q49",
         "text": "Was ist Best Practices in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für best practices und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Best Practices ist ein wichtiger Service in OData (Open Data Protocol), der best practices und verwandte Funktionen bereitstellt.",
@@ -1158,10 +1158,10 @@
         "id": "q50",
         "text": "Was ist Architecture in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für architecture und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Architecture ist ein wichtiger Service in OData (Open Data Protocol), der architecture und verwandte Funktionen bereitstellt.",
@@ -1181,10 +1181,10 @@
         "id": "q51",
         "text": "Was ist Design Patterns in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für design patterns und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Design Patterns ist ein wichtiger Service in OData (Open Data Protocol), der design patterns und verwandte Funktionen bereitstellt.",
@@ -1204,10 +1204,10 @@
         "id": "q52",
         "text": "Was ist Microservices in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für microservices und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Microservices ist ein wichtiger Service in OData (Open Data Protocol), der microservices und verwandte Funktionen bereitstellt.",
@@ -1227,10 +1227,10 @@
         "id": "q53",
         "text": "Was ist Containers in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandter KI-Algorithmus",
           "Ein Service für containers und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Containers ist ein wichtiger Service in OData (Open Data Protocol), der containers und verwandte Funktionen bereitstellt.",
@@ -1250,10 +1250,10 @@
         "id": "q54",
         "text": "Was ist Kubernetes in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für kubernetes und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kubernetes ist ein wichtiger Service in OData (Open Data Protocol), der kubernetes und verwandte Funktionen bereitstellt.",
@@ -1273,10 +1273,10 @@
         "id": "q55",
         "text": "Was ist Docker in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für docker und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Docker ist ein wichtiger Service in OData (Open Data Protocol), der docker und verwandte Funktionen bereitstellt.",
@@ -1296,10 +1296,10 @@
         "id": "q56",
         "text": "Was ist Networking in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandter KI-Algorithmus",
           "Ein Service für networking und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Networking ist ein wichtiger Service in OData (Open Data Protocol), der networking und verwandte Funktionen bereitstellt.",
@@ -1319,10 +1319,10 @@
         "id": "q57",
         "text": "Was ist Storage in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für storage und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Storage ist ein wichtiger Service in OData (Open Data Protocol), der storage und verwandte Funktionen bereitstellt.",
@@ -1342,10 +1342,10 @@
         "id": "q58",
         "text": "Was ist Database in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für database und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Database ist ein wichtiger Service in OData (Open Data Protocol), der database und verwandte Funktionen bereitstellt.",
@@ -1365,10 +1365,10 @@
         "id": "q59",
         "text": "Was ist Authentication in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für authentication und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Authentication ist ein wichtiger Service in OData (Open Data Protocol), der authentication und verwandte Funktionen bereitstellt.",
@@ -1388,10 +1388,10 @@
         "id": "q60",
         "text": "Was ist Authorization in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für authorization und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Authorization ist ein wichtiger Service in OData (Open Data Protocol), der authorization und verwandte Funktionen bereitstellt.",
@@ -1411,10 +1411,10 @@
         "id": "q61",
         "text": "Was ist Compliance in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für compliance und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Compliance ist ein wichtiger Service in OData (Open Data Protocol), der compliance und verwandte Funktionen bereitstellt.",
@@ -1434,10 +1434,10 @@
         "id": "q62",
         "text": "Was ist Governance in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für governance und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Governance ist ein wichtiger Service in OData (Open Data Protocol), der governance und verwandte Funktionen bereitstellt.",
@@ -1457,10 +1457,10 @@
         "id": "q63",
         "text": "Was ist Cost Management in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für cost management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cost Management ist ein wichtiger Service in OData (Open Data Protocol), der cost management und verwandte Funktionen bereitstellt.",
@@ -1480,10 +1480,10 @@
         "id": "q64",
         "text": "Was ist Resource Management in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für resource management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Resource Management ist ein wichtiger Service in OData (Open Data Protocol), der resource management und verwandte Funktionen bereitstellt.",
@@ -1503,10 +1503,10 @@
         "id": "q65",
         "text": "Was ist Tagging in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche rechtliche Bestimmung",
           "Ein Service für tagging und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Tagging ist ein wichtiger Service in OData (Open Data Protocol), der tagging und verwandte Funktionen bereitstellt.",
@@ -1526,10 +1526,10 @@
         "id": "q66",
         "text": "Was ist Policies in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für policies und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Policies ist ein wichtiger Service in OData (Open Data Protocol), der policies und verwandte Funktionen bereitstellt.",
@@ -1549,10 +1549,10 @@
         "id": "q67",
         "text": "Was ist Blueprints in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für blueprints und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Blueprints ist ein wichtiger Service in OData (Open Data Protocol), der blueprints und verwandte Funktionen bereitstellt.",
@@ -1572,10 +1572,10 @@
         "id": "q68",
         "text": "Was ist RBAC in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für rbac und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "RBAC ist ein wichtiger Service in OData (Open Data Protocol), der rbac und verwandte Funktionen bereitstellt.",
@@ -1595,10 +1595,10 @@
         "id": "q69",
         "text": "Was ist IAM in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für iam und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "IAM ist ein wichtiger Service in OData (Open Data Protocol), der iam und verwandte Funktionen bereitstellt.",
@@ -1618,10 +1618,10 @@
         "id": "q70",
         "text": "Was ist Secrets Management in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für secrets management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Secrets Management ist ein wichtiger Service in OData (Open Data Protocol), der secrets management und verwandte Funktionen bereitstellt.",
@@ -1641,10 +1641,10 @@
         "id": "q71",
         "text": "Was ist Key Management in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für key management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Key Management ist ein wichtiger Service in OData (Open Data Protocol), der key management und verwandte Funktionen bereitstellt.",
@@ -1664,10 +1664,10 @@
         "id": "q72",
         "text": "Was ist Certificate Management in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für certificate management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Certificate Management ist ein wichtiger Service in OData (Open Data Protocol), der certificate management und verwandte Funktionen bereitstellt.",
@@ -1687,10 +1687,10 @@
         "id": "q73",
         "text": "Was ist Encryption in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für encryption und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Encryption ist ein wichtiger Service in OData (Open Data Protocol), der encryption und verwandte Funktionen bereitstellt.",
@@ -1710,10 +1710,10 @@
         "id": "q74",
         "text": "Was ist Decryption in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für decryption und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Decryption ist ein wichtiger Service in OData (Open Data Protocol), der decryption und verwandte Funktionen bereitstellt.",
@@ -1733,10 +1733,10 @@
         "id": "q75",
         "text": "Was ist Hashing in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für hashing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Hashing ist ein wichtiger Service in OData (Open Data Protocol), der hashing und verwandte Funktionen bereitstellt.",
@@ -1756,10 +1756,10 @@
         "id": "q76",
         "text": "Was ist Signing in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für signing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Signing ist ein wichtiger Service in OData (Open Data Protocol), der signing und verwandte Funktionen bereitstellt.",
@@ -1779,10 +1779,10 @@
         "id": "q77",
         "text": "Was ist Verification in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für verification und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Verification ist ein wichtiger Service in OData (Open Data Protocol), der verification und verwandte Funktionen bereitstellt.",
@@ -1802,10 +1802,10 @@
         "id": "q78",
         "text": "Was ist Auditing in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für auditing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Auditing ist ein wichtiger Service in OData (Open Data Protocol), der auditing und verwandte Funktionen bereitstellt.",
@@ -1825,10 +1825,10 @@
         "id": "q79",
         "text": "Was ist Reporting in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für reporting und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Reporting ist ein wichtiger Service in OData (Open Data Protocol), der reporting und verwandte Funktionen bereitstellt.",
@@ -1848,10 +1848,10 @@
         "id": "q80",
         "text": "Was ist Analytics in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für analytics und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Analytics ist ein wichtiger Service in OData (Open Data Protocol), der analytics und verwandte Funktionen bereitstellt.",
@@ -1871,10 +1871,10 @@
         "id": "q81",
         "text": "Was ist Machine Learning in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für machine learning und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Machine Learning ist ein wichtiger Service in OData (Open Data Protocol), der machine learning und verwandte Funktionen bereitstellt.",
@@ -1894,10 +1894,10 @@
         "id": "q82",
         "text": "Was ist Artificial Intelligence in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für artificial intelligence und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Artificial Intelligence ist ein wichtiger Service in OData (Open Data Protocol), der artificial intelligence und verwandte Funktionen bereitstellt.",
@@ -1917,10 +1917,10 @@
         "id": "q83",
         "text": "Was ist Data Science in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für data science und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Data Science ist ein wichtiger Service in OData (Open Data Protocol), der data science und verwandte Funktionen bereitstellt.",
@@ -1940,10 +1940,10 @@
         "id": "q84",
         "text": "Was ist Big Data in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für big data und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Big Data ist ein wichtiger Service in OData (Open Data Protocol), der big data und verwandte Funktionen bereitstellt.",
@@ -1963,10 +1963,10 @@
         "id": "q85",
         "text": "Was ist Streaming in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für streaming und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Streaming ist ein wichtiger Service in OData (Open Data Protocol), der streaming und verwandte Funktionen bereitstellt.",
@@ -1986,10 +1986,10 @@
         "id": "q86",
         "text": "Was ist Event Processing in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für event processing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Event Processing ist ein wichtiger Service in OData (Open Data Protocol), der event processing und verwandte Funktionen bereitstellt.",
@@ -2009,10 +2009,10 @@
         "id": "q87",
         "text": "Was ist Message Queues in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für message queues und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Message Queues ist ein wichtiger Service in OData (Open Data Protocol), der message queues und verwandte Funktionen bereitstellt.",
@@ -2032,10 +2032,10 @@
         "id": "q88",
         "text": "Was ist Service Bus in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für service bus und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Service Bus ist ein wichtiger Service in OData (Open Data Protocol), der service bus und verwandte Funktionen bereitstellt.",
@@ -2055,10 +2055,10 @@
         "id": "q89",
         "text": "Was ist Event Grid in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für event grid und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Event Grid ist ein wichtiger Service in OData (Open Data Protocol), der event grid und verwandte Funktionen bereitstellt.",
@@ -2078,10 +2078,10 @@
         "id": "q90",
         "text": "Was ist Event Hubs in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für event hubs und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Event Hubs ist ein wichtiger Service in OData (Open Data Protocol), der event hubs und verwandte Funktionen bereitstellt.",
@@ -2101,10 +2101,10 @@
         "id": "q91",
         "text": "Was ist IoT in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für iot und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "IoT ist ein wichtiger Service in OData (Open Data Protocol), der iot und verwandte Funktionen bereitstellt.",
@@ -2124,10 +2124,10 @@
         "id": "q92",
         "text": "Was ist Edge Computing in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für edge computing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Edge Computing ist ein wichtiger Service in OData (Open Data Protocol), der edge computing und verwandte Funktionen bereitstellt.",
@@ -2147,10 +2147,10 @@
         "id": "q93",
         "text": "Was ist Serverless in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für serverless und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Serverless ist ein wichtiger Service in OData (Open Data Protocol), der serverless und verwandte Funktionen bereitstellt.",
@@ -2170,10 +2170,10 @@
         "id": "q94",
         "text": "Was ist Functions in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für functions und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Functions ist ein wichtiger Service in OData (Open Data Protocol), der functions und verwandte Funktionen bereitstellt.",
@@ -2193,10 +2193,10 @@
         "id": "q95",
         "text": "Was ist Logic Apps in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für logic apps und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Logic Apps ist ein wichtiger Service in OData (Open Data Protocol), der logic apps und verwandte Funktionen bereitstellt.",
@@ -2216,10 +2216,10 @@
         "id": "q96",
         "text": "Was ist Power Apps in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für power apps und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Power Apps ist ein wichtiger Service in OData (Open Data Protocol), der power apps und verwandte Funktionen bereitstellt.",
@@ -2239,10 +2239,10 @@
         "id": "q97",
         "text": "Was ist Power Automate in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für power automate und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Power Automate ist ein wichtiger Service in OData (Open Data Protocol), der power automate und verwandte Funktionen bereitstellt.",
@@ -2262,10 +2262,10 @@
         "id": "q98",
         "text": "Was ist Power BI in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für power bi und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Power BI ist ein wichtiger Service in OData (Open Data Protocol), der power bi und verwandte Funktionen bereitstellt.",
@@ -2285,10 +2285,10 @@
         "id": "q99",
         "text": "Was ist Cognitive Services in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für cognitive services und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cognitive Services ist ein wichtiger Service in OData (Open Data Protocol), der cognitive services und verwandte Funktionen bereitstellt.",
@@ -2308,10 +2308,10 @@
         "id": "q100",
         "text": "Was ist Bot Framework in OData (Open Data Protocol)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für bot framework und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bot Framework ist ein wichtiger Service in OData (Open Data Protocol), der bot framework und verwandte Funktionen bereitstellt.",

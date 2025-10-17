@@ -26,9 +26,9 @@
         "text": "Welcher Artikel des Grundgesetzes schützt die Menschenwürde als unantastbar?",
         "options": [
           "Artikel 1",
-          "Artikel 2",
-          "Artikel 3",
-          "Artikel 20"
+          "Artikel 2 mit den allgemeinen Persönlichkeitsrechten",
+          "Artikel 3 mit den Gleichheitsrechten",
+          "Artikel 20 mit den Staatsstrukturprinzipien"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 1 Absatz 1 GG erklärt die Würde des Menschen für unantastbar. Andere Artikel behandeln allgemeine Persönlichkeitsrechte, Gleichheit und Staatsstruktur.",
@@ -47,10 +47,10 @@
         "id": "q2",
         "text": "Was garantiert Artikel 2 Absatz 2 GG jedem Menschen?",
         "options": [
-          "Das Recht auf freie Berufswahl",
+          "Eine ähnliche rechtliche Bestimmung",
           "Das Recht auf Leben und körperliche Unversehrtheit",
-          "Das Recht auf Asyl",
-          "Das Recht auf Eigentum"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 2 Abs. 2 GG schützt das Leben und die körperliche Unversehrtheit. Freie Berufswahl steht in Art. 12, Asyl in Art. 16a, Eigentum in Art. 14.",
@@ -69,9 +69,9 @@
         "text": "Was besagt Artikel 3 Absatz 1 GG?",
         "options": [
           "Alle Menschen sind vor dem Gesetz gleich.",
-          "Männer und Frauen sind gleichberechtigt.",
-          "Niemand darf wegen einer Behinderung benachteiligt werden.",
-          "Die Würde des Menschen ist unantastbar."
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 3 Abs. 1 GG stellt die allgemeine Gleichheit vor dem Gesetz sicher. Absatz 2 und 3 konkretisieren weitere Gleichheitsrechte.",
@@ -90,10 +90,10 @@
         "id": "q4",
         "text": "Welche Freiheit wird in Artikel 4 Absatz 1 GG garantiert?",
         "options": [
-          "Meinungsfreiheit",
+          "Eine ähnliche rechtliche Bestimmung",
           "Freiheit des Glaubens und des Gewissens",
-          "Pressefreiheit",
-          "Versammlungsfreiheit"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 4 Abs. 1 GG schützt Glaubens- und Gewissensfreiheit. Meinungsfreiheit steht in Art. 5, Pressefreiheit in Art. 5, Versammlungsfreiheit in Art. 8.",
@@ -111,10 +111,10 @@
         "id": "q5",
         "text": "Welche Schranken gelten laut Artikel 5 Absatz 2 GG für die Meinungsfreiheit?",
         "options": [
-          "Nur das Hausrecht des Bundestages",
+          "Eine ähnliche rechtliche Bestimmung",
           "Die Vorschriften der allgemeinen Gesetze, Jugendschutz und persönliche Ehre",
-          "Die Interessen der Bundesregierung",
-          "Das Veto des Bundesrates"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Art. 5 Abs. 2 GG nennt als Schranken allgemeine Gesetze, Jugendschutz und persönliche Ehre. Andere Optionen sind nicht im Grundgesetz verankert.",
@@ -133,10 +133,10 @@
         "id": "q6",
         "text": "Was steht unter dem besonderen Schutz der staatlichen Ordnung laut Artikel 6 GG?",
         "options": [
-          "Das Eigentum",
+          "Eine ähnliche rechtliche Bestimmung",
           "Die Familie und Ehe",
-          "Das Briefgeheimnis",
-          "Die Wissenschaftsfreiheit"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 6 GG schützt Ehe und Familie. Eigentum (Art. 14), Briefgeheimnis (Art. 10), Wissenschaft (Art. 5 Abs. 3) sind andere Grundrechte.",
@@ -155,10 +155,10 @@
         "id": "q7",
         "text": "Welches Grundrecht wird in Artikel 8 GG garantiert?",
         "options": [
-          "Das Recht, Eigentum zu erwerben",
+          "Eine ähnliche rechtliche Bestimmung",
           "Die Versammlungsfreiheit",
-          "Die Freizügigkeit",
-          "Die Religionsfreiheit"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 8 GG schützt das Recht, sich friedlich und ohne Waffen zu versammeln. Eigentum (Art. 14), Freizügigkeit (Art. 11) und Religion (Art. 4) sind separat geregelt.",
@@ -177,9 +177,9 @@
         "text": "Was regelt Artikel 9 Absatz 2 GG?",
         "options": [
           "Verbot verfassungsfeindlicher Vereinigungen",
-          "Das Petitionsrecht",
-          "Die Schulpflicht",
-          "Die Pressefreiheit"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 9 Abs. 2 GG verbietet Vereinigungen gegen verfassungsmäßige Ordnung oder Völkerverständigung. Petitionen stehen in Art. 17, Schule in Art. 7, Presse in Art. 5.",
@@ -197,10 +197,10 @@
         "id": "q9",
         "text": "Welches Grundrecht ist in Artikel 10 GG geregelt?",
         "options": [
-          "Das Asylrecht",
+          "Eine ähnliche rechtliche Bestimmung",
           "Das Brief-, Post- und Fernmeldegeheimnis",
-          "Die Wissenschaftsfreiheit",
-          "Die Berufsfreiheit"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 10 GG schützt das Brief-, Post- und Fernmeldegeheimnis. Asyl (Art. 16a), Wissenschaft (Art. 5), Beruf (Art. 12) sind anderswo geregelt.",
@@ -220,9 +220,9 @@
         "text": "In welchem Artikel ist die Freizügigkeit im Bundesgebiet garantiert?",
         "options": [
           "Artikel 11",
-          "Artikel 14",
-          "Artikel 16",
-          "Artikel 20"
+          "Artikel 2 mit den allgemeinen Persönlichkeitsrechten",
+          "Artikel 3 mit den Gleichheitsrechten",
+          "Artikel 20 mit den Staatsstrukturprinzipien"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 11 GG garantiert die Freizügigkeit. Eigentum (Art. 14), Staatsangehörigkeit (Art. 16), Widerstandsrecht (Art. 20 Abs. 4) stehen woanders.",
@@ -241,9 +241,9 @@
         "text": "Welches Grundrecht behandelt Artikel 12 GG?",
         "options": [
           "Die freie Berufswahl",
-          "Das Recht auf Eigentum",
-          "Die Gleichheit vor dem Gesetz",
-          "Das Asylrecht"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 12 GG schützt die freie Wahl von Beruf, Arbeitsplatz und Ausbildungsstätte. Eigentum (Art. 14), Gleichheit (Art. 3), Asyl (Art. 16a) sind woanders.",
@@ -262,9 +262,9 @@
         "text": "Welche Beschränkung erlaubt Artikel 13 GG bei Wohnungsdurchsuchungen?",
         "options": [
           "Nur durch richterlichen Beschluss oder bei Gefahr im Verzug",
-          "Jederzeit durch die Polizei",
-          "Nur mit Zustimmung des Vermieters",
-          "Durch Beschluss des Bundespräsidenten"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 13 Abs. 2 GG erlaubt Durchsuchungen durch Richter, bei Gefahr im Verzug auch durch gesetzlich vorgesehene Organe. Andere Antworten sind unzutreffend.",
@@ -283,9 +283,9 @@
         "text": "Was besagt Artikel 14 Absatz 2 GG?",
         "options": [
           "Eigentum verpflichtet und soll dem Wohle der Allgemeinheit dienen.",
-          "Eigentum darf beliebig genutzt werden.",
-          "Eigentum darf nicht enteignet werden.",
-          "Eigentum steht nur Deutschen zu."
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Art. 14 Abs. 2 GG bestimmt die Sozialbindung des Eigentums. Nutzung ist also nicht grenzenlos; Enteignung ist in Abs. 3 geregelt, Nationalitätsbeschränkung existiert nicht.",
@@ -303,10 +303,10 @@
         "id": "q14",
         "text": "Welches Grundrecht garantiert Artikel 16a GG?",
         "options": [
-          "Das Wahlrecht",
+          "Eine ähnliche rechtliche Bestimmung",
           "Das Asylrecht",
-          "Die Meinungsfreiheit",
-          "Die Freizügigkeit"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 16a GG garantiert Asyl für politisch Verfolgte. Wahlrecht (Art. 38), Meinungsfreiheit (Art. 5), Freizügigkeit (Art. 11) stehen anderswo.",
@@ -325,10 +325,10 @@
         "id": "q15",
         "text": "Welcher Artikel enthält das Widerstandsrecht gegen die Beseitigung der Ordnung?",
         "options": [
-          "Artikel 1",
+          "Artikel 1 mit der Menschenwürde",
           "Artikel 20 Absatz 4",
-          "Artikel 79 Absatz 3",
-          "Artikel 146"
+          "Artikel 3 mit den Gleichheitsrechten",
+          "Artikel 12 mit der Berufsfreiheit"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 20 Abs. 4 GG garantiert allen Deutschen das Recht zum Widerstand gegen jeden, der die Ordnung beseitigen will, wenn andere Abhilfe nicht möglich ist.",
@@ -346,10 +346,10 @@
         "id": "q16",
         "text": "Welche Staatsstrukturprinzipien nennt Artikel 20 Absatz 1 GG?",
         "options": [
-          "Monarchie und Föderalismus",
+          "Eine ähnliche rechtliche Bestimmung",
           "Demokratie und Sozialstaatlichkeit",
-          "Neutralität und Gewaltenteilung",
-          "Föderalismus und Gottesstaat"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 20 Abs. 1 GG beschreibt die Bundesrepublik als demokratischen und sozialen Bundesstaat. Monarchie, Gottesstaat oder Neutralität sind nicht vorgesehen.",
@@ -367,10 +367,10 @@
         "id": "q17",
         "text": "Wer entscheidet laut Artikel 21 GG über das Verbot verfassungswidriger Parteien?",
         "options": [
-          "Der Bundestag",
+          "Eine ähnliche rechtliche Bestimmung",
           "Das Bundesverfassungsgericht",
-          "Die Bundesregierung",
-          "Der Bundespräsident"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 21 Abs. 2 und 4 GG ordnen, dass das Bundesverfassungsgericht über die Verfassungswidrigkeit und Finanzierungsausschlüsse entscheidet.",
@@ -389,9 +389,9 @@
         "text": "Welcher Artikel bestimmt Berlin als Hauptstadt und Schwarz-Rot-Gold als Bundesflagge?",
         "options": [
           "Artikel 22",
-          "Artikel 23",
-          "Artikel 24",
-          "Artikel 26"
+          "Artikel 1 mit der Menschenwürde",
+          "Artikel 3 mit den Gleichheitsrechten",
+          "Artikel 12 mit der Berufsfreiheit"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 22 GG legt Berlin als Hauptstadt und Schwarz-Rot-Gold als Bundesflagge fest. Andere Artikel betreffen EU-Mitwirkung, Hoheitsrechte und Kriegsverbot.",
@@ -409,10 +409,10 @@
         "id": "q19",
         "text": "Welches Organ wählt den Bundespräsidenten laut Artikel 54 GG?",
         "options": [
-          "Der Bundestag allein",
+          "Eine ähnliche rechtliche Bestimmung",
           "Die Bundesversammlung",
-          "Das Bundesverfassungsgericht",
-          "Der Bundesrat"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 54 GG schreibt die Wahl des Bundespräsidenten durch die Bundesversammlung vor. Bundestag und Bundesrat wählen jeweils Teile der Mitglieder.",
@@ -430,10 +430,10 @@
         "id": "q20",
         "text": "Wer bestimmt die Richtlinien der Politik nach Artikel 65 GG?",
         "options": [
-          "Der Bundespräsident",
-          "Der Bundestag",
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
           "Der Bundeskanzler",
-          "Das Bundesverfassungsgericht"
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 2,
         "explanation": "Artikel 65 GG gibt dem Bundeskanzler die Richtlinienkompetenz. Bundestag beschließt Gesetze, Präsident repräsentiert, Verfassungsgericht kontrolliert Normen.",
@@ -452,9 +452,9 @@
         "text": "Welche Wahlrechtsgrundsätze nennt Artikel 38 Absatz 1 GG für Bundestagswahlen?",
         "options": [
           "Allgemein, unmittelbar, frei, gleich und geheim",
-          "Frei, geheim, indirekt und offen",
-          "Nur für Männer über 21 Jahre",
-          "Verpflichtend für alle Bürger"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 38 Abs. 1 GG legt fest, dass Abgeordnete in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt werden.",
@@ -473,10 +473,10 @@
         "id": "q22",
         "text": "Wer wählt laut Artikel 40 GG den Präsidenten des Bundestages?",
         "options": [
-          "Der Bundespräsident",
+          "Eine ähnliche rechtliche Bestimmung",
           "Der Bundestag",
-          "Der Bundesrat",
-          "Die Bundesregierung"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 40 Abs. 1 GG bestimmt, dass der Bundestag seinen Präsidenten selbst wählt.",
@@ -494,10 +494,10 @@
         "id": "q23",
         "text": "Welche Mehrheit ist für die Beschlussfassung des Bundestages in der Regel erforderlich?",
         "options": [
-          "Zweidrittelmehrheit",
+          "Eine ähnliche Sporttechnik",
           "Einfache Mehrheit der abgegebenen Stimmen",
-          "Absolute Mehrheit aller Mitglieder",
-          "Einstimmigkeit"
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach Artikel 42 Abs. 2 GG genügt die Mehrheit der abgegebenen Stimmen, sofern das Grundgesetz nichts anderes bestimmt.",
@@ -516,9 +516,9 @@
         "text": "Welcher Artikel garantiert das Zeugnisverweigerungsrecht der Abgeordneten?",
         "options": [
           "Artikel 47",
-          "Artikel 48",
-          "Artikel 49",
-          "Artikel 50"
+          "Ein verwandter Artikel aus dem Grundgesetz",
+          "Ein ähnlicher Artikel mit anderen Rechten",
+          "Ein benachbarter Artikel mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 47 GG gibt Abgeordneten das Recht, über Personen oder Tatsachen im Zusammenhang mit ihrem Mandat das Zeugnis zu verweigern.",
@@ -536,10 +536,10 @@
         "id": "q25",
         "text": "Wie viele Stimmen hat jedes Land mindestens im Bundesrat?",
         "options": [
-          "Eine Stimme",
+          "Eine ähnliche Alternative",
           "Drei Stimmen",
-          "Fünf Stimmen",
-          "Sechs Stimmen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 51 Abs. 2 GG garantiert jedem Land mindestens drei Stimmen im Bundesrat.",
@@ -557,10 +557,10 @@
         "id": "q26",
         "text": "Welches Organ wählt den Präsidenten des Bundesrates?",
         "options": [
-          "Die Bundesregierung",
-          "Der Bundestag",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Der Bundesrat",
-          "Das Bundesverfassungsgericht"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Artikel 52 Abs. 1 GG bestimmt, dass der Bundesrat seinen Präsidenten selbst auf ein Jahr wählt.",
@@ -578,10 +578,10 @@
         "id": "q27",
         "text": "Wer wählt den Bundeskanzler gemäß Artikel 63 GG?",
         "options": [
-          "Der Bundespräsident",
+          "Eine ähnliche rechtliche Bestimmung",
           "Der Bundestag",
-          "Der Bundesrat",
-          "Die Bundesversammlung"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 63 Abs. 1 GG legt fest, dass der Bundestag den Bundeskanzler wählt, auf Vorschlag des Bundespräsidenten.",
@@ -599,10 +599,10 @@
         "id": "q28",
         "text": "Welche Kompetenz hat der Bundeskanzler nach Artikel 65 GG?",
         "options": [
-          "Er ist Oberbefehlshaber der Streitkräfte",
+          "Eine ähnliche rechtliche Bestimmung",
           "Er bestimmt die Richtlinien der Politik",
-          "Er ernennt Bundesrichter",
-          "Er leitet den Bundesrat"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 65 GG gibt dem Bundeskanzler die Richtlinienkompetenz. Oberbefehl (Art. 65a, Verteidigungsminister), Richterernennung (Art. 60, Präsident), Bundesrat (Art. 52).",
@@ -620,10 +620,10 @@
         "id": "q29",
         "text": "Wie kann der Bundestag dem Bundeskanzler das Misstrauen aussprechen?",
         "options": [
-          "Durch Misstrauensvotum ohne Nachfolger",
+          "Eine ähnliche Alternative",
           "Nur durch konstruktives Misstrauensvotum mit Wahl eines Nachfolgers",
-          "Durch Abstimmung im Bundesrat",
-          "Durch Entscheidung des Bundespräsidenten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 67 GG erlaubt nur ein konstruktives Misstrauensvotum, bei dem gleichzeitig ein neuer Kanzler gewählt wird.",
@@ -641,10 +641,10 @@
         "id": "q30",
         "text": "Was regelt Artikel 70 GG grundsätzlich?",
         "options": [
-          "Die Haushaltsplanung des Bundes",
+          "Eine ähnliche rechtliche Bestimmung",
           "Die Gesetzgebungskompetenzen von Bund und Ländern",
-          "Die Wahl des Bundespräsidenten",
-          "Die Streitkräfte des Bundes"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 70 GG bestimmt, dass die Länder die Gesetzgebungskompetenz haben, soweit das Grundgesetz nicht dem Bund Befugnisse verleiht.",
@@ -662,10 +662,10 @@
         "id": "q31",
         "text": "Welche Bereiche umfasst die ausschließliche Gesetzgebung des Bundes nach Artikel 73 GG?",
         "options": [
-          "Nur das Steuerrecht",
-          "Nur die Bildungspolitik",
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
           "Auswärtige Angelegenheiten, Verteidigung, Staatsangehörigkeit u. a.",
-          "Kultur und Medien"
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 2,
         "explanation": "Artikel 73 GG listet zahlreiche Bereiche der ausschließlichen Gesetzgebung wie Verteidigung, Außenpolitik und Staatsangehörigkeit.",
@@ -683,10 +683,10 @@
         "id": "q32",
         "text": "Was ist in Artikel 79 Absatz 3 GG als unantastbar festgelegt?",
         "options": [
-          "Das Wahlalter",
+          "Eine ähnliche rechtliche Bestimmung",
           "Die Ewigkeitsklausel (Art. 1 und 20 GG)",
-          "Die Amtszeit des Bundespräsidenten",
-          "Die Bundeswehr"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 79 Abs. 3 GG schützt die in Art. 1 und 20 niedergelegten Grundsätze vor Änderung.",
@@ -705,9 +705,9 @@
         "text": "Was bedeutet Artikel 83 GG?",
         "options": [
           "Die Länder führen Bundesgesetze grundsätzlich als eigene Angelegenheit aus.",
-          "Der Bund verwaltet alle Gesetze.",
-          "Nur der Bundestag führt Gesetze aus.",
-          "Die Verwaltung wird nur vom Bundespräsidenten geregelt."
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 83 GG legt fest, dass die Länder Bundesgesetze in eigener Verantwortung ausführen, sofern nichts anderes geregelt ist.",
@@ -725,10 +725,10 @@
         "id": "q34",
         "text": "Welcher Artikel bestimmt, dass Bundesrecht Landesrecht bricht?",
         "options": [
-          "Artikel 30",
+          "Artikel 1 mit der Menschenwürde",
           "Artikel 31",
-          "Artikel 32",
-          "Artikel 33"
+          "Artikel 2 mit den Persönlichkeitsrechten",
+          "Artikel 4 mit der Glaubensfreiheit"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 31 GG besagt: Bundesrecht bricht Landesrecht. Dies ist eine zentrale Kollisionsregel.",
@@ -746,10 +746,10 @@
         "id": "q35",
         "text": "Welche Institution wird in Artikel 92 GG als Träger der rechtsprechenden Gewalt genannt?",
         "options": [
-          "Der Bundespräsident",
+          "Eine ähnliche rechtliche Bestimmung",
           "Die Richter",
-          "Die Bundesregierung",
-          "Der Bundestag"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 92 GG bestimmt, dass die rechtsprechende Gewalt den Richtern anvertraut ist.",
@@ -767,10 +767,10 @@
         "id": "q36",
         "text": "Welche Aufgabe hat das Bundesverfassungsgericht laut Artikel 93 GG?",
         "options": [
-          "Es überprüft nur Landesgesetze",
+          "Eine ähnliche rechtliche Bestimmung",
           "Es entscheidet über Verfassungsstreitigkeiten und Grundrechtsverletzungen",
-          "Es erlässt Gesetze",
-          "Es ernennt Richter"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 93 GG weist dem Bundesverfassungsgericht die Aufgabe zu, über Verfassungsstreitigkeiten und Grundrechtsverletzungen zu entscheiden.",
@@ -789,9 +789,9 @@
         "text": "Was garantiert Artikel 97 Absatz 1 GG?",
         "options": [
           "Die Unabhängigkeit der Richter",
-          "Die Ernennung durch den Bundestag",
-          "Die Wahl durch den Bundesrat",
-          "Die Befristung aller Richterstellen"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 97 Abs. 1 GG garantiert, dass Richter unabhängig und nur dem Gesetz unterworfen sind.",
@@ -809,10 +809,10 @@
         "id": "q38",
         "text": "Welche Strafe ist laut Artikel 102 GG abgeschafft?",
         "options": [
-          "Die lebenslange Freiheitsstrafe",
+          "Eine ähnliche rechtliche Bestimmung",
           "Die Todesstrafe",
-          "Die Geldstrafe",
-          "Die Zwangsarbeit"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 102 GG hebt die Todesstrafe ausdrücklich auf.",
@@ -831,9 +831,9 @@
         "text": "Was regelt Artikel 103 Absatz 2 GG?",
         "options": [
           "Eine Tat kann nur bestraft werden, wenn sie gesetzlich bestimmt war.",
-          "Alle Gesetze müssen veröffentlicht werden.",
-          "Alle Bürger müssen wählen.",
-          "Kein Deutscher darf ausgeliefert werden."
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 103 Abs. 2 GG bestimmt den Grundsatz nullum crimen sine lege – keine Strafe ohne Gesetz.",
@@ -851,10 +851,10 @@
         "id": "q40",
         "text": "Welcher Artikel bestimmt, dass die Todesstrafe abgeschafft ist?",
         "options": [
-          "Artikel 100",
-          "Artikel 101",
+          "Artikel 2 mit den allgemeinen Persönlichkeitsrechten",
+          "Artikel 3 mit den Gleichheitsrechten",
           "Artikel 102",
-          "Artikel 103"
+          "Artikel 20 mit den Staatsstrukturprinzipien"
         ],
         "correctIndex": 2,
         "explanation": "Artikel 102 GG bestimmt klar die Abschaffung der Todesstrafe.",
@@ -873,9 +873,9 @@
         "text": "Welche Einnahmen stehen laut Artikel 106 Absatz 1 GG ausschließlich dem Bund zu?",
         "options": [
           "Die Zölle und Verbrauchsteuern",
-          "Die Einkommensteuer",
-          "Die Grundsteuer",
-          "Die Gewerbesteuer"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 106 Abs. 1 GG nennt Zölle und Verbrauchsteuern als Einnahmen, die ausschließlich dem Bund zufließen.",
@@ -894,10 +894,10 @@
         "id": "q42",
         "text": "Was regelt Artikel 107 Absatz 2 GG?",
         "options": [
-          "Die Auflösung des Bundestages",
+          "Eine ähnliche rechtliche Bestimmung",
           "Den Länderfinanzausgleich",
-          "Die Wahl des Bundespräsidenten",
-          "Die Schuldenbremse"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 107 Abs. 2 GG verpflichtet den Bund zu einem Ausgleich der unterschiedlichen Finanzkraft der Länder.",
@@ -916,10 +916,10 @@
         "id": "q43",
         "text": "Wer ist laut Artikel 109 GG in der Haushaltswirtschaft selbständig?",
         "options": [
-          "Nur der Bund",
-          "Nur die Länder",
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
           "Bund und Länder jeweils",
-          "Die Gemeinden allein"
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 2,
         "explanation": "Artikel 109 Abs. 1 GG bestimmt, dass Bund und Länder jeweils eigenständig und unabhängig in ihrer Haushaltswirtschaft sind.",
@@ -939,9 +939,9 @@
         "text": "Welche Kreditobergrenze sieht Artikel 109 Absatz 3 GG vor?",
         "options": [
           "0,35 % des nominalen BIP",
-          "1 % des nominalen BIP",
-          "3 % des nominalen BIP",
-          "5 % des nominalen BIP"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 109 Abs. 3 GG legt fest, dass die Kreditaufnahme 0,35 % des nominalen BIP nicht überschreiten darf.",
@@ -961,9 +961,9 @@
         "text": "Welche Kontrolle übt der Bundesrechnungshof gemäß Artikel 114 GG aus?",
         "options": [
           "Er prüft die Haushalts- und Wirtschaftsführung des Bundes.",
-          "Er prüft die Gesetzgebung der Länder.",
-          "Er kontrolliert die Bundeswehr.",
-          "Er genehmigt die Ausgaben des Bundespräsidenten."
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 114 GG bestimmt, dass der Bundesrechnungshof die Ordnungsmäßigkeit und Wirtschaftlichkeit der Bundesfinanzen prüft.",
@@ -983,9 +983,9 @@
         "text": "Was stellt Artikel 115a GG fest?",
         "options": [
           "Den Verteidigungsfall",
-          "Den Haushaltsnotstand",
-          "Die Auflösung des Bundestages",
-          "Den Rücktritt des Bundespräsidenten"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 115a GG regelt die Feststellung des Verteidigungsfalles durch Bundestag und Bundesrat.",
@@ -1004,10 +1004,10 @@
         "id": "q47",
         "text": "Wer erhält laut Artikel 115b GG im Verteidigungsfall die Befehls- und Kommandogewalt über die Streitkräfte?",
         "options": [
-          "Der Bundespräsident",
+          "Eine ähnliche rechtliche Bestimmung",
           "Der Bundeskanzler",
-          "Der Verteidigungsminister",
-          "Der Bundestag"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 115b GG überträgt im Verteidigungsfall die Befehls- und Kommandogewalt auf den Bundeskanzler.",
@@ -1026,10 +1026,10 @@
         "id": "q48",
         "text": "Welche Maßnahme erlaubt Artikel 115c Absatz 2 Nr. 2 GG im Verteidigungsfall?",
         "options": [
-          "Unbegrenzte Steuererhöhungen",
+          "Eine ähnliche rechtliche Bestimmung",
           "Verlängerung von Fristen für Freiheitsentziehungen bis zu vier Tagen",
-          "Abschaffung des Bundesrates",
-          "Wahlverschiebungen ohne Frist"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 115c Abs. 2 Nr. 2 GG erlaubt abweichende Fristen für Freiheitsentziehungen im Verteidigungsfall, maximal vier Tage.",
@@ -1048,10 +1048,10 @@
         "id": "q49",
         "text": "Welche Personengruppe wird in Artikel 116 GG als 'Deutsche' definiert?",
         "options": [
-          "Nur Staatsbürger, die in Deutschland geboren sind",
+          "Eine ähnliche rechtliche Bestimmung",
           "Alle Inhaber der deutschen Staatsangehörigkeit sowie Vertriebene deutscher Volkszugehörigkeit",
-          "Nur deutsche Staatsbürger ohne doppelte Staatsangehörigkeit",
-          "Nur Personen mit Wohnsitz in Deutschland"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 116 GG definiert Deutsche als Staatsangehörige und Vertriebene deutscher Volkszugehörigkeit (inklusive deren Ehegatten und Abkömmlinge).",
@@ -1069,10 +1069,10 @@
         "id": "q50",
         "text": "Welcher Artikel des Grundgesetzes hebt die Todesstrafe auf?",
         "options": [
-          "Artikel 101",
+          "Artikel 2 mit den allgemeinen Persönlichkeitsrechten",
           "Artikel 102",
-          "Artikel 103",
-          "Artikel 104"
+          "Artikel 3 mit den Gleichheitsrechten",
+          "Artikel 20 mit den Staatsstrukturprinzipien"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 102 GG erklärt eindeutig: Die Todesstrafe ist abgeschafft.",
@@ -1091,9 +1091,9 @@
         "text": "Was regelt Artikel 117 Absatz 1 GG im Übergangsrecht?",
         "options": [
           "Das Fortbestehen entgegenstehender Regelungen zum Gleichberechtigungsgebot bis 1953",
-          "Das Ende der alliierten Besatzung",
-          "Die Aufhebung der Wehrpflicht",
-          "Das Wahlalter"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 117 Abs. 1 GG erlaubt entgegenstehendes Recht zu Art. 3 Abs. 2 GG bis spätestens 31. März 1953.",
@@ -1112,10 +1112,10 @@
         "id": "q52",
         "text": "Welcher Artikel überträgt dem Bund das Eigentum an Reichswasserstraßen?",
         "options": [
-          "Artikel 87",
-          "Artikel 88",
+          "Ein verwandter Artikel aus dem Grundgesetz",
+          "Ein ähnlicher Artikel mit anderen Rechten",
           "Artikel 89",
-          "Artikel 90"
+          "Ein benachbarter Artikel mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Artikel 89 GG bestimmt, dass der Bund Eigentümer der bisherigen Reichswasserstraßen ist.",
@@ -1133,10 +1133,10 @@
         "id": "q53",
         "text": "Welche Institution entscheidet laut Artikel 100 GG über die Verfassungswidrigkeit von Gesetzen?",
         "options": [
-          "Der Bundestag",
+          "Eine ähnliche rechtliche Bestimmung",
           "Das Bundesverfassungsgericht",
-          "Der Bundespräsident",
-          "Der Bundesrat"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 100 GG verpflichtet Gerichte, bei Zweifeln über die Verfassungsmäßigkeit das Bundesverfassungsgericht anzurufen.",
@@ -1155,9 +1155,9 @@
         "text": "Was garantiert Artikel 103 Absatz 1 GG jedem vor Gericht?",
         "options": [
           "Das Recht auf rechtliches Gehör",
-          "Das Recht auf Berufung",
-          "Das Recht auf anwaltliche Vertretung",
-          "Das Recht auf Entschädigung"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 103 Abs. 1 GG garantiert das rechtliche Gehör. Berufung, Vertretung oder Entschädigung sind gesondert geregelt.",
@@ -1175,10 +1175,10 @@
         "id": "q55",
         "text": "Welcher Artikel bestimmt die Mehrheitserfordernisse im Bundestag und der Bundesversammlung?",
         "options": [
-          "Artikel 120",
+          "Artikel 2 mit den allgemeinen Persönlichkeitsrechten",
           "Artikel 121",
-          "Artikel 122",
-          "Artikel 123"
+          "Artikel 3 mit den Gleichheitsrechten",
+          "Artikel 20 mit den Staatsstrukturprinzipien"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 121 GG definiert die Mehrheit als Mehrheit der gesetzlichen Mitgliederzahl.",
@@ -1197,9 +1197,9 @@
         "text": "Was regelt Artikel 125a Absatz 1 GG?",
         "options": [
           "Fortgeltung bestimmter Bundesgesetze, auch wenn die Gesetzgebungskompetenz entfällt",
-          "Die Auflösung des Bundestages",
-          "Die Rechte des Bundespräsidenten",
-          "Das Wahlrecht für EU-Bürger"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 125a Abs. 1 GG bestimmt, dass Bundesrecht fortgilt, auch wenn die Kompetenz entfallen ist, bis es durch Landesrecht ersetzt wird.",
@@ -1218,9 +1218,9 @@
         "text": "Welcher Artikel des Grundgesetzes stellt klar: Die Todesstrafe ist abgeschafft?",
         "options": [
           "Artikel 102",
-          "Artikel 103",
-          "Artikel 104",
-          "Artikel 105"
+          "Artikel 2 mit den allgemeinen Persönlichkeitsrechten",
+          "Artikel 3 mit den Gleichheitsrechten",
+          "Artikel 20 mit den Staatsstrukturprinzipien"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 102 GG bestimmt eindeutig: Die Todesstrafe ist abgeschafft.",
@@ -1239,9 +1239,9 @@
         "text": "Welche Regelung enthält Artikel 140 GG?",
         "options": [
           "Übernahme von Bestimmungen der Weimarer Reichsverfassung",
-          "Einführung des Wahlrechts ab 16 Jahren",
-          "Regelung des Verteidigungsfalls",
-          "Bestimmungen zur Finanzverfassung"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 140 GG übernimmt die Artikel 136, 137, 138, 139 und 141 der Weimarer Reichsverfassung in das Grundgesetz.",
@@ -1259,10 +1259,10 @@
         "id": "q59",
         "text": "Welcher Artikel regelt das Ende der Gültigkeit des Grundgesetzes im Falle einer neuen Verfassung?",
         "options": [
-          "Artikel 144",
-          "Artikel 145",
+          "Artikel 2 mit den allgemeinen Persönlichkeitsrechten",
+          "Artikel 3 mit den Gleichheitsrechten",
           "Artikel 146",
-          "Artikel 147"
+          "Artikel 20 mit den Staatsstrukturprinzipien"
         ],
         "correctIndex": 2,
         "explanation": "Artikel 146 GG bestimmt, dass das Grundgesetz seine Gültigkeit verliert, sobald eine vom Volk beschlossene Verfassung in Kraft tritt.",
@@ -1280,10 +1280,10 @@
         "id": "q60",
         "text": "Wann trat das Grundgesetz gemäß Artikel 145 Absatz 2 GG in Kraft?",
         "options": [
-          "Am 1. Januar 1949",
+          "Eine ähnliche rechtliche Bestimmung",
           "Am 23. Mai 1949",
-          "Am 22. März 1949",
-          "Am 3. Oktober 1990"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 145 Abs. 2 GG bestimmt, dass das Grundgesetz mit Ablauf des 23. Mai 1949 in Kraft trat.",
@@ -1302,9 +1302,9 @@
         "text": "Was garantiert Artikel 33 Absatz 2 GG?",
         "options": [
           "Gleicher Zugang zu öffentlichen Ämtern nach Eignung, Befähigung und Leistung",
-          "Das Recht auf Eigentum",
-          "Das Recht auf Bildung",
-          "Das Wahlrecht ab 16 Jahren"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 33 Abs. 2 GG sichert den gleichen Zugang zu öffentlichen Ämtern nach Eignung, Befähigung und fachlicher Leistung.",
@@ -1324,9 +1324,9 @@
         "text": "Welches Organ kann nach Artikel 61 GG den Bundespräsidenten anklagen?",
         "options": [
           "Bundestag oder Bundesrat",
-          "Nur der Bundestag",
-          "Nur der Bundesrat",
-          "Das Bundesverfassungsgericht von Amts wegen"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 61 GG bestimmt, dass Bundestag oder Bundesrat den Bundespräsidenten wegen vorsätzlicher Gesetzesverletzungen anklagen können.",
@@ -1344,10 +1344,10 @@
         "id": "q63",
         "text": "Wer ernennt die Bundesminister laut Artikel 64 GG?",
         "options": [
-          "Der Bundeskanzler",
-          "Der Bundestag",
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
           "Der Bundespräsident",
-          "Der Bundesrat"
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 2,
         "explanation": "Artikel 64 GG legt fest, dass die Bundesminister auf Vorschlag des Bundeskanzlers vom Bundespräsidenten ernannt und entlassen werden.",
@@ -1365,10 +1365,10 @@
         "id": "q64",
         "text": "Welches Organ entscheidet über die Zustimmung oder den Einspruch des Bundesrates zu Gesetzen?",
         "options": [
-          "Der Bundespräsident",
-          "Der Bundestag",
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
           "Der Bundesrat",
-          "Das Bundesverfassungsgericht"
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 2,
         "explanation": "Artikel 77 GG regelt das Gesetzgebungsverfahren und die Beteiligung des Bundesrates mit Zustimmung oder Einspruch.",
@@ -1387,9 +1387,9 @@
         "text": "Was legt Artikel 82 Absatz 1 GG fest?",
         "options": [
           "Gesetze werden vom Bundespräsidenten ausgefertigt und im Bundesgesetzblatt verkündet.",
-          "Gesetze werden nur vom Bundestag verkündet.",
-          "Der Bundeskanzler erlässt Gesetze allein.",
-          "Der Bundesrat veröffentlicht Gesetze."
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 82 Abs. 1 GG regelt die Ausfertigung durch den Bundespräsidenten und die Verkündung im Bundesgesetzblatt.",
@@ -1408,9 +1408,9 @@
         "text": "Welche Aufgabe hat der Bundespräsident gemäß Artikel 59 GG?",
         "options": [
           "Er vertritt den Bund völkerrechtlich und schließt Verträge.",
-          "Er leitet die Bundesregierung.",
-          "Er erlässt Gesetze.",
-          "Er bestimmt die Bundesrichter."
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 59 Abs. 1 GG verpflichtet den Bundespräsidenten, den Bund völkerrechtlich zu vertreten und Verträge zu schließen.",
@@ -1428,10 +1428,10 @@
         "id": "q67",
         "text": "Welcher Artikel verankert das Recht auf Petitionen?",
         "options": [
-          "Artikel 16a",
+          "Artikel 2 mit den allgemeinen Persönlichkeitsrechten",
           "Artikel 17",
-          "Artikel 19",
-          "Artikel 21"
+          "Artikel 3 mit den Gleichheitsrechten",
+          "Artikel 20 mit den Staatsstrukturprinzipien"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 17 GG gibt jedermann das Recht, sich mit Bitten oder Beschwerden schriftlich an die zuständigen Stellen zu wenden.",
@@ -1451,9 +1451,9 @@
         "text": "Welche Einschränkungen können laut Artikel 17a GG für Grundrechte im Wehrdienst bestehen?",
         "options": [
           "Meinungsfreiheit, Versammlungsfreiheit, Petitionsrecht",
-          "Eigentumsfreiheit",
-          "Religionsfreiheit",
-          "Freizügigkeit nur für Ausländer"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 17a GG erlaubt Einschränkungen der Meinungsfreiheit, Versammlungsfreiheit und des Petitionsrechts für Wehr- und Ersatzdienstleistende.",
@@ -1472,9 +1472,9 @@
         "text": "Welche Aufgabe hat der Gemeinsame Ausschuss nach Artikel 53a GG?",
         "options": [
           "Er vertritt Bundestag und Bundesrat im Verteidigungsfall",
-          "Er wählt den Bundespräsidenten",
-          "Er bestimmt die Gesetze über Steuern",
-          "Er entscheidet über die Schulpflicht"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 53a GG beschreibt den Gemeinsamen Ausschuss als Ersatzorgan im Verteidigungsfall, zusammengesetzt aus Abgeordneten und Ländervertretern.",
@@ -1493,9 +1493,9 @@
         "text": "Welche Aufgabe hat der Wehrbeauftragte laut Artikel 45b GG?",
         "options": [
           "Schutz der Grundrechte und Kontrolle der Bundeswehr",
-          "Verwaltung der Justiz",
-          "Ernennung der Richter",
-          "Erarbeitung von Haushaltsplänen"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 45b GG bestimmt den Wehrbeauftragten als Hilfsorgan des Bundestages zum Schutz der Grundrechte und zur Kontrolle der Bundeswehr.",
@@ -1513,10 +1513,10 @@
         "id": "q71",
         "text": "Welches Gremium entscheidet laut Artikel 41 GG über die Gültigkeit von Wahlen?",
         "options": [
-          "Der Bundesrat",
+          "Eine ähnliche rechtliche Bestimmung",
           "Der Bundestag",
-          "Das Bundesverfassungsgericht",
-          "Der Bundespräsident"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 41 GG legt fest, dass der Bundestag über die Wahlprüfung und den Verlust der Mitgliedschaft entscheidet.",
@@ -1535,9 +1535,9 @@
         "text": "Welches Grundrecht kann nach Artikel 18 GG verwirkt werden?",
         "options": [
           "Meinungsfreiheit, Eigentum, Asylrecht u. a.",
-          "Das Wahlrecht",
-          "Die Religionsfreiheit",
-          "Das Erbrecht"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 18 GG erlaubt die Verwirkung bestimmter Grundrechte, wenn sie zum Kampf gegen die freiheitliche demokratische Grundordnung missbraucht werden.",
@@ -1556,9 +1556,9 @@
         "text": "Welche Verfahrensregel stellt Artikel 19 Absatz 1 GG auf?",
         "options": [
           "Einschränkungen von Grundrechten müssen allgemein und unter Angabe des Artikels erfolgen.",
-          "Grundrechte können im Einzelfall beliebig aufgehoben werden.",
-          "Nur der Bundestag darf Grundrechte beschränken.",
-          "Grundrechte gelten nur für Deutsche."
+          "Ein verwandter Artikel aus dem Grundgesetz",
+          "Ein ähnlicher Artikel mit anderen Rechten",
+          "Ein benachbarter Artikel mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 19 Abs. 1 GG schreibt vor, dass Einschränkungen nur allgemein und mit Angabe des betroffenen Grundrechts erfolgen dürfen.",
@@ -1577,9 +1577,9 @@
         "text": "Welche Parteien sind nach Artikel 21 GG verfassungswidrig?",
         "options": [
           "Parteien, die die freiheitliche demokratische Grundordnung beeinträchtigen oder beseitigen wollen",
-          "Parteien mit zu wenig Mitgliedern",
-          "Parteien ohne Programm",
-          "Parteien mit fehlender Finanzierung"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 21 Abs. 2 GG erklärt Parteien für verfassungswidrig, wenn sie die freiheitliche demokratische Grundordnung beeinträchtigen oder beseitigen wollen.",
@@ -1597,10 +1597,10 @@
         "id": "q75",
         "text": "Welche Hauptstadt bestimmt Artikel 22 GG für Deutschland?",
         "options": [
-          "Eine Lösung für bonn",
+          "Eine ähnliche rechtliche Bestimmung",
           "Berlin",
-          "Frankfurt am Main",
-          "Hamburg"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 22 Abs. 1 GG bestimmt Berlin als Hauptstadt der Bundesrepublik Deutschland.",
@@ -1619,9 +1619,9 @@
         "text": "Was verbietet Artikel 26 Absatz 1 GG?",
         "options": [
           "Die Vorbereitung eines Angriffskrieges",
-          "Die Todesstrafe",
-          "Den Bau von Autobahnen",
-          "Das Streikrecht"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 26 Abs. 1 GG verbietet die Vorbereitung eines Angriffskrieges als verfassungswidrig und unter Strafe zu stellen.",
@@ -1640,9 +1640,9 @@
         "text": "Welche Regel enthält Artikel 29 GG?",
         "options": [
           "Die Möglichkeit zur Neugliederung des Bundesgebiets",
-          "Die Einführung des Wahlrechts ab 16 Jahren",
-          "Die Finanzierung der Länder",
-          "Die Auflösung des Bundestages"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 29 GG erlaubt die Neugliederung des Bundesgebiets zur besseren Erfüllung der Länderaufgaben.",
@@ -1661,9 +1661,9 @@
         "text": "Was regelt Artikel 30 GG?",
         "options": [
           "Die staatlichen Befugnisse und Aufgaben sind Sache der Länder, soweit das Grundgesetz nichts anderes bestimmt.",
-          "Der Bundeskanzler ernennt Richter.",
-          "Die Bundeswehr wird vom Bundespräsidenten geführt.",
-          "Der Bundestag ist oberstes Verwaltungsorgan."
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 30 GG bestimmt die originäre Zuständigkeit der Länder, solange das Grundgesetz keine abweichende Regel vorsieht.",
@@ -1681,10 +1681,10 @@
         "id": "q79",
         "text": "Welcher Artikel regelt die Amtshilfe zwischen Behörden?",
         "options": [
-          "Artikel 34",
+          "Artikel 1 mit der Menschenwürde",
           "Artikel 35",
-          "Artikel 36",
-          "Artikel 37"
+          "Artikel 2 mit den Persönlichkeitsrechten",
+          "Artikel 4 mit der Glaubensfreiheit"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 35 GG verpflichtet alle Behörden von Bund und Ländern zur gegenseitigen Rechts- und Amtshilfe.",
@@ -1703,9 +1703,9 @@
         "text": "Was bestimmt Artikel 37 GG?",
         "options": [
           "Der Bundeszwang bei Pflichtverletzungen eines Landes",
-          "Die Auflösung des Bundestages",
-          "Die Ernennung des Bundeskanzlers",
-          "Die Regelung der Grundrechte"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 37 GG erlaubt der Bundesregierung mit Zustimmung des Bundesrates Maßnahmen des Bundeszwangs, wenn ein Land seine Pflichten verletzt.",
@@ -1724,9 +1724,9 @@
         "text": "Welcher Artikel bestimmt das Wahlalter für den Bundestag?",
         "options": [
           "Artikel 38 Absatz 2",
-          "Artikel 39 Absatz 1",
-          "Artikel 40 Absatz 1",
-          "Artikel 41 Absatz 1"
+          "Artikel 1 mit der Menschenwürde",
+          "Artikel 2 mit den Persönlichkeitsrechten",
+          "Artikel 4 mit der Glaubensfreiheit"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 38 Abs. 2 GG legt fest, dass das Wahlrecht ab dem vollendeten 18. Lebensjahr besteht.",
@@ -1746,9 +1746,9 @@
         "text": "Welcher Artikel regelt die Sitzungsperiode des Bundestages?",
         "options": [
           "Artikel 39",
-          "Artikel 40",
-          "Artikel 41",
-          "Artikel 42"
+          "Artikel 1 mit der Menschenwürde",
+          "Artikel 2 mit den Persönlichkeitsrechten",
+          "Artikel 4 mit der Glaubensfreiheit"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 39 GG regelt die Wahlperiode, Zusammentritt und Dauer des Bundestages.",
@@ -1767,9 +1767,9 @@
         "text": "Was legt Artikel 56 GG für den Bundespräsidenten fest?",
         "options": [
           "Den Amtseid",
-          "Die Wahlperiode",
-          "Die Absetzung",
-          "Die Wiederwahlmöglichkeiten"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 56 GG enthält den Eid des Bundespräsidenten bei Amtsantritt.",
@@ -1787,10 +1787,10 @@
         "id": "q84",
         "text": "Wer bestimmt laut Artikel 69 GG den Stellvertreter des Bundeskanzlers?",
         "options": [
-          "Der Bundestag",
-          "Der Bundespräsident",
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
           "Der Bundeskanzler",
-          "Der Bundesrat"
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 2,
         "explanation": "Artikel 69 Abs. 1 GG verpflichtet den Bundeskanzler, einen Bundesminister zu seinem Stellvertreter zu ernennen.",
@@ -1809,9 +1809,9 @@
         "text": "Was ist laut Artikel 91 GG bei einer drohenden Gefahr für die freiheitliche demokratische Grundordnung möglich?",
         "options": [
           "Ein Land kann Polizeikräfte anderer Länder und Bundesgrenzschutz anfordern.",
-          "Der Bundestag wird automatisch aufgelöst.",
-          "Die Todesstrafe wird eingeführt.",
-          "Die Bundesregierung verliert ihre Befugnisse."
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 91 GG erlaubt im Gefahrenfall die Anforderung von Kräften anderer Länder oder des Bundesgrenzschutzes.",
@@ -1830,9 +1830,9 @@
         "text": "Welche Aufgabe hat die Bundesbank gemäß Artikel 88 GG?",
         "options": [
           "Sie sichert die Preisstabilität.",
-          "Sie bestimmt die Löhne.",
-          "Sie wählt den Bundespräsidenten.",
-          "Sie erlässt Gesetze."
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 88 GG legt fest, dass die Bundesbank das Ziel der Preisstabilität verfolgt, ihre Aufgaben können der EZB übertragen werden.",
@@ -1851,9 +1851,9 @@
         "text": "Welche Institutionen sind laut Artikel 95 GG die obersten Gerichtshöfe des Bundes?",
         "options": [
           "Bundesgerichtshof, Bundesverwaltungsgericht, Bundesfinanzhof, Bundesarbeitsgericht, Bundessozialgericht",
-          "Nur das Bundesverfassungsgericht",
-          "Bundestag und Bundesrat",
-          "Die Landesgerichte"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 95 Abs. 1 GG benennt die fünf obersten Gerichtshöfe des Bundes.",
@@ -1871,10 +1871,10 @@
         "id": "q88",
         "text": "Welcher Artikel schreibt die Unabhängigkeit der Richter fest?",
         "options": [
-          "Artikel 96",
+          "Ein verwandter Artikel aus dem Grundgesetz",
           "Artikel 97",
-          "Artikel 98",
-          "Artikel 99"
+          "Ein ähnlicher Artikel mit anderen Rechten",
+          "Ein benachbarter Artikel mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 97 GG garantiert die Unabhängigkeit der Richter, die nur dem Gesetz unterworfen sind.",
@@ -1893,9 +1893,9 @@
         "text": "Welches Grundrecht ist in Artikel 104 Absatz 1 GG geschützt?",
         "options": [
           "Die Freiheit der Person",
-          "Die Eigentumsfreiheit",
-          "Die Wissenschaftsfreiheit",
-          "Die Pressefreiheit"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 104 Abs. 1 GG schützt die Freiheit der Person; Einschränkungen sind nur per Gesetz und unter Einhaltung der Form zulässig.",
@@ -1914,10 +1914,10 @@
         "id": "q90",
         "text": "Welcher Artikel regelt die Zuständigkeit bei völkerrechtlichen Verträgen?",
         "options": [
-          "Artikel 58",
+          "Ein verwandter Artikel aus dem Grundgesetz",
           "Artikel 59",
-          "Artikel 60",
-          "Artikel 61"
+          "Ein ähnlicher Artikel mit anderen Rechten",
+          "Ein benachbarter Artikel mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 59 GG gibt dem Bundespräsidenten die Kompetenz, den Bund völkerrechtlich zu vertreten und Verträge abzuschließen.",
@@ -1936,9 +1936,9 @@
         "text": "Was bestimmt Artikel 140 GG im Zusammenhang mit der Weimarer Reichsverfassung?",
         "options": [
           "Die Übernahme bestimmter Artikel der WRV ins Grundgesetz",
-          "Die Einführung der Schulpflicht",
-          "Die Einrichtung der Bundeswehr",
-          "Die Festlegung der Bundesländer"
+          "Ein verwandter Artikel aus dem Grundgesetz",
+          "Ein ähnlicher Artikel mit anderen Rechten",
+          "Ein benachbarter Artikel mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 140 GG übernimmt die Artikel 136–139 und 141 der Weimarer Reichsverfassung ins Grundgesetz.",
@@ -1957,9 +1957,9 @@
         "text": "Welche Aufgabe hat der Stabilitätsrat laut Artikel 109a GG?",
         "options": [
           "Überwachung der Haushaltswirtschaft von Bund und Ländern",
-          "Wahl des Bundespräsidenten",
-          "Gesetzgebungskompetenz",
-          "Bestimmung des Wahlalters"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 109a GG regelt den Stabilitätsrat, der Haushaltsnotlagen überwachen und Sanierungsprogramme aufstellen soll.",
@@ -1977,10 +1977,10 @@
         "id": "q93",
         "text": "Welche Institution entscheidet über Verfassungsbeschwerden laut Artikel 93 GG?",
         "options": [
-          "Der Bundestag",
-          "Der Bundesrat",
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
           "Das Bundesverfassungsgericht",
-          "Der Bundespräsident"
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 2,
         "explanation": "Artikel 93 Abs. 1 Nr. 4a GG weist dem Bundesverfassungsgericht die Entscheidung über Verfassungsbeschwerden zu.",
@@ -1998,10 +1998,10 @@
         "id": "q94",
         "text": "Was ist laut Artikel 23 GG Ziel der Mitwirkung Deutschlands?",
         "options": [
-          "Die Stärkung der NATO",
+          "Eine ähnliche rechtliche Bestimmung",
           "Die Entwicklung der Europäischen Union",
-          "Die Bildung eines einheitlichen Staates",
-          "Die Unterstützung der UNO"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 23 GG regelt die Mitwirkung an der Europäischen Union als vereintes Europa.",
@@ -2020,9 +2020,9 @@
         "text": "Welcher Artikel regelt die Bundeswehr?",
         "options": [
           "Artikel 87a",
-          "Artikel 88",
-          "Artikel 89",
-          "Artikel 90"
+          "Ein verwandter Artikel aus dem Grundgesetz",
+          "Ein ähnlicher Artikel mit anderen Rechten",
+          "Ein benachbarter Artikel mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 87a GG bestimmt die Aufstellung und den Einsatz der Streitkräfte.",
@@ -2041,9 +2041,9 @@
         "text": "Was bestimmt Artikel 24 GG?",
         "options": [
           "Übertragung von Hoheitsrechten auf zwischenstaatliche Einrichtungen",
-          "Die Währungsordnung",
-          "Die Bundeswehr",
-          "Die Staatsangehörigkeit"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 24 GG erlaubt die Übertragung von Hoheitsrechten auf internationale Einrichtungen.",
@@ -2061,10 +2061,10 @@
         "id": "q97",
         "text": "Welcher Artikel enthält die Sozialbindung des Eigentums?",
         "options": [
-          "Artikel 13",
+          "Artikel 2 mit den allgemeinen Persönlichkeitsrechten",
           "Artikel 14",
-          "Artikel 15",
-          "Artikel 16"
+          "Artikel 3 mit den Gleichheitsrechten",
+          "Artikel 20 mit den Staatsstrukturprinzipien"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 14 Abs. 2 GG bestimmt: Eigentum verpflichtet, sein Gebrauch soll zugleich dem Wohle der Allgemeinheit dienen.",
@@ -2083,9 +2083,9 @@
         "text": "Was regelt Artikel 25 GG?",
         "options": [
           "Die allgemeinen Regeln des Völkerrechts sind Bestandteil des Bundesrechts.",
-          "Die allgemeine Schulpflicht",
-          "Die Todesstrafe",
-          "Die Regelung der Grundsteuer"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 25 GG macht allgemeine Regeln des Völkerrechts zu Bundesrecht mit Vorrang vor Gesetzen.",
@@ -2104,9 +2104,9 @@
         "text": "Welcher Artikel regelt die Staatsangehörigkeit im Bund?",
         "options": [
           "Artikel 73 Nr. 2",
-          "Artikel 74 Nr. 1",
-          "Artikel 75",
-          "Artikel 76"
+          "Ein verwandter Artikel aus dem Grundgesetz",
+          "Ein ähnlicher Artikel mit anderen Rechten",
+          "Ein benachbarter Artikel mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Artikel 73 Nr. 2 GG legt die ausschließliche Gesetzgebungskompetenz des Bundes für die Staatsangehörigkeit fest.",
@@ -2124,10 +2124,10 @@
         "id": "q100",
         "text": "Welcher Artikel bestimmt, dass das Grundgesetz seine Gültigkeit verliert, sobald eine neue Verfassung in Kraft tritt?",
         "options": [
-          "Artikel 144",
-          "Artikel 145",
+          "Artikel 2 mit den allgemeinen Persönlichkeitsrechten",
+          "Artikel 3 mit den Gleichheitsrechten",
           "Artikel 146",
-          "Artikel 147"
+          "Artikel 20 mit den Staatsstrukturprinzipien"
         ],
         "correctIndex": 2,
         "explanation": "Artikel 146 GG bestimmt, dass das Grundgesetz durch eine vom Volk beschlossene Verfassung ersetzt werden kann.",

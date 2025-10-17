@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist PowerShell?",
         "options": [
-          "Ein Betriebssystem",
+          "Eine ähnliche Alternative",
           "Eine plattformübergreifende Skriptsprache und Shell von Microsoft",
-          "Eine Programmiersprache",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell ist eine plattformübergreifende Skriptsprache und Shell, die für die Automatisierung und Verwaltung von Systemen entwickelt wurde.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Plattformen unterstützt PowerShell 7.5?",
         "options": [
-          "Nur Windows",
+          "Eine ähnliche Alternative",
           "Windows, macOS und Linux",
-          "Nur macOS",
-          "Nur Linux"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell 7.5 ist plattformübergreifend und unterstützt Windows, macOS und Linux-Betriebssysteme.",
@@ -72,10 +72,10 @@
         "id": "q3",
         "text": "Was sind PowerShell Cmdlets?",
         "options": [
-          "Programmiersprachen",
+          "Eine ähnliche Alternative",
           "Kleine, spezialisierte Befehle, die spezifische Aufgaben ausführen",
-          "Betriebssysteme",
-          "Datenbanken"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell Cmdlets sind kleine, spezialisierte Befehle, die spezifische Aufgaben ausführen und das Verb-Noun-Namensschema verwenden.",
@@ -95,10 +95,10 @@
         "id": "q4",
         "text": "Was ist die PowerShell-Pipeline?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Mechanismus zur Verkettung von Cmdlets durch Pipe-Operatoren",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die PowerShell-Pipeline ermöglicht es, die Ausgabe eines Cmdlets als Eingabe für das nächste zu verwenden, wodurch komplexe Datenverarbeitungsketten entstehen.",
@@ -118,10 +118,10 @@
         "id": "q5",
         "text": "Was sind PowerShell-Module?",
         "options": [
-          "Betriebssysteme",
+          "Eine ähnliche Alternative",
           "Pakete von PowerShell-Funktionen, Cmdlets und Ressourcen",
-          "Programmiersprachen",
-          "Datenbanken"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell-Module sind Pakete, die PowerShell-Funktionen, Cmdlets, Provider und andere Ressourcen enthalten und die Wiederverwendung von Code ermöglichen.",
@@ -141,10 +141,10 @@
         "id": "q6",
         "text": "Was ist die PowerShell ISE?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Die PowerShell Integrated Scripting Environment",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die PowerShell ISE (Integrated Scripting Environment) ist eine Entwicklungsumgebung für PowerShell-Skripte mit Syntax-Highlighting und Debugging-Features.",
@@ -164,10 +164,10 @@
         "id": "q7",
         "text": "Welche Datentypen unterstützt PowerShell?",
         "options": [
-          "Nur String und Integer",
+          "Ein verwandter KI-Algorithmus",
           "Verschiedene Datentypen wie String, Integer, Array, Hashtable und .NET-Objekte",
-          "Nur primitive Typen",
-          "Nur .NET-Objekte"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell unterstützt verschiedene Datentypen: primitive Typen wie String und Integer, Arrays, Hashtables und .NET-Objekte.",
@@ -188,10 +188,10 @@
         "id": "q8",
         "text": "Was ist PowerShell DSC?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "PowerShell Desired State Configuration für Infrastruktur-Management",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell DSC (Desired State Configuration) ist ein Framework für die deklarative Konfiguration und das Management von Infrastruktur.",
@@ -211,10 +211,10 @@
         "id": "q9",
         "text": "Was ist die PowerShell Execution Policy?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Eine Sicherheitsrichtlinie, die bestimmt, welche Skripte ausgeführt werden dürfen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die PowerShell Execution Policy ist eine Sicherheitsrichtlinie, die bestimmt, welche Skripte und Konfigurationsdateien ausgeführt werden dürfen.",
@@ -234,10 +234,10 @@
         "id": "q10",
         "text": "Welche Vorteile bietet PowerShell 7.5 gegenüber älteren Versionen?",
         "options": [
-          "Nur bessere Performance",
+          "Eine ähnliche Alternative",
           "Verbesserte Performance, neue Features, bessere .NET-Integration und erweiterte Plattform-Unterstützung",
-          "Nur neue Features",
-          "Nur bessere .NET-Integration"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell 7.5 bietet verbesserte Performance, neue Features, bessere .NET-Integration und erweiterte Unterstützung für verschiedene Plattformen.",
@@ -257,10 +257,10 @@
         "id": "q11",
         "text": "Was sind PowerShell-Profile?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Skriptdateien, die beim Start von PowerShell automatisch ausgeführt werden",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell-Profile sind Skriptdateien, die beim Start von PowerShell automatisch ausgeführt werden und die Umgebung konfigurieren können.",
@@ -280,10 +280,10 @@
         "id": "q12",
         "text": "Was ist PowerShell Remoting?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Eine Technologie zur Ausführung von PowerShell-Befehlen auf Remote-Computern",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell Remoting ermöglicht die Ausführung von PowerShell-Befehlen und -Skripten auf Remote-Computern über das Netzwerk.",
@@ -303,10 +303,10 @@
         "id": "q13",
         "text": "Was sind PowerShell Workflows?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Eine Technologie für die Orchestrierung komplexer, langlebiger Aufgaben",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell Workflows ermöglichen die Orchestrierung komplexer, langlebiger Aufgaben mit Fehlerbehandlung und Wiederherstellungsmöglichkeiten.",
@@ -326,10 +326,10 @@
         "id": "q14",
         "text": "Welche PowerShell-Module sind standardmäßig verfügbar?",
         "options": [
-          "Nur ActiveDirectory",
+          "Eine ähnliche Alternative",
           "ActiveDirectory, Exchange, SharePoint, Azure und viele weitere",
-          "Nur Exchange",
-          "Nur SharePoint"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell bietet viele Standard-Module: ActiveDirectory, Exchange, SharePoint, Azure und viele weitere für verschiedene Microsoft-Technologien.",
@@ -350,10 +350,10 @@
         "id": "q15",
         "text": "Was ist PowerShell Gallery?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Online-Repository für PowerShell-Module, Skripte und DSC-Ressourcen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell Gallery ist ein Online-Repository, das PowerShell-Module, Skripte und DSC-Ressourcen von der Community bereitstellt.",
@@ -373,10 +373,10 @@
         "id": "q16",
         "text": "Was sind PowerShell-Provider?",
         "options": [
-          "Programmiersprachen",
+          "Eine ähnliche Alternative",
           "Komponenten, die verschiedene Datenquellen als Dateisysteme verfügbar machen",
-          "Betriebssysteme",
-          "Datenbanken"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell-Provider sind Komponenten, die verschiedene Datenquellen wie Registry, Zertifikate oder Umgebungsvariablen als Dateisysteme verfügbar machen.",
@@ -396,10 +396,10 @@
         "id": "q17",
         "text": "Was ist PowerShell Core?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Die plattformübergreifende, Open-Source-Version von PowerShell",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell Core ist die plattformübergreifende, Open-Source-Version von PowerShell, die auf Windows, Linux und macOS läuft.",
@@ -419,10 +419,10 @@
         "id": "q18",
         "text": "Welche PowerShell-Debugging-Features gibt es?",
         "options": [
-          "Nur Breakpoints",
+          "Eine ähnliche rechtliche Bestimmung",
           "Breakpoints, Step-through, Variable-Inspektion und Call-Stack",
-          "Nur Step-through",
-          "Nur Variable-Inspektion"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell bietet umfassende Debugging-Features: Breakpoints, Step-through-Debugging, Variable-Inspektion und Call-Stack-Analyse.",
@@ -442,10 +442,10 @@
         "id": "q19",
         "text": "Was ist PowerShell Desired State Configuration (DSC)?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Framework für die deklarative Konfiguration und das Management von Infrastruktur",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell DSC ist ein Framework für die deklarative Konfiguration und das Management von Infrastruktur, das sicherstellt, dass Systeme im gewünschten Zustand bleiben.",
@@ -465,10 +465,10 @@
         "id": "q20",
         "text": "Welche PowerShell-Sicherheitsfeatures gibt es?",
         "options": [
-          "Nur Execution Policy",
+          "Eine ähnliche Alternative",
           "Execution Policy, Code Signing, Constrained Language Mode und JEA",
-          "Nur Code Signing",
-          "Nur JEA"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell bietet verschiedene Sicherheitsfeatures: Execution Policy, Code Signing, Constrained Language Mode und Just Enough Administration (JEA).",
@@ -489,10 +489,10 @@
         "id": "q21",
         "text": "Was ist Grundlagen in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für grundlagen und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Grundlagen ist ein wichtiger Service in PowerShell Scripting 7.5, der grundlagen und verwandte Funktionen bereitstellt.",
@@ -512,10 +512,10 @@
         "id": "q22",
         "text": "Was ist Konfiguration in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für konfiguration und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Konfiguration ist ein wichtiger Service in PowerShell Scripting 7.5, der konfiguration und verwandte Funktionen bereitstellt.",
@@ -535,10 +535,10 @@
         "id": "q23",
         "text": "Was ist Verwaltung in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für verwaltung und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Verwaltung ist ein wichtiger Service in PowerShell Scripting 7.5, der verwaltung und verwandte Funktionen bereitstellt.",
@@ -558,10 +558,10 @@
         "id": "q24",
         "text": "Was ist Sicherheit in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für sicherheit und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Sicherheit ist ein wichtiger Service in PowerShell Scripting 7.5, der sicherheit und verwandte Funktionen bereitstellt.",
@@ -581,10 +581,10 @@
         "id": "q25",
         "text": "Was ist Performance in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für performance und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Performance ist ein wichtiger Service in PowerShell Scripting 7.5, der performance und verwandte Funktionen bereitstellt.",
@@ -604,10 +604,10 @@
         "id": "q26",
         "text": "Was ist Skalierung in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für skalierung und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Skalierung ist ein wichtiger Service in PowerShell Scripting 7.5, der skalierung und verwandte Funktionen bereitstellt.",
@@ -627,10 +627,10 @@
         "id": "q27",
         "text": "Was ist Monitoring in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für monitoring und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Monitoring ist ein wichtiger Service in PowerShell Scripting 7.5, der monitoring und verwandte Funktionen bereitstellt.",
@@ -650,10 +650,10 @@
         "id": "q28",
         "text": "Was ist Logging in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche rechtliche Bestimmung",
           "Ein Service für logging und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Logging ist ein wichtiger Service in PowerShell Scripting 7.5, der logging und verwandte Funktionen bereitstellt.",
@@ -673,10 +673,10 @@
         "id": "q29",
         "text": "Was ist Backup in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für backup und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Backup ist ein wichtiger Service in PowerShell Scripting 7.5, der backup und verwandte Funktionen bereitstellt.",
@@ -696,10 +696,10 @@
         "id": "q30",
         "text": "Was ist Recovery in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für recovery und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Recovery ist ein wichtiger Service in PowerShell Scripting 7.5, der recovery und verwandte Funktionen bereitstellt.",
@@ -719,10 +719,10 @@
         "id": "q31",
         "text": "Was ist Disaster Recovery in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für disaster recovery und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Disaster Recovery ist ein wichtiger Service in PowerShell Scripting 7.5, der disaster recovery und verwandte Funktionen bereitstellt.",
@@ -742,10 +742,10 @@
         "id": "q32",
         "text": "Was ist High Availability in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandter KI-Algorithmus",
           "Ein Service für high availability und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "High Availability ist ein wichtiger Service in PowerShell Scripting 7.5, der high availability und verwandte Funktionen bereitstellt.",
@@ -765,10 +765,10 @@
         "id": "q33",
         "text": "Was ist Load Balancing in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für load balancing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Load Balancing ist ein wichtiger Service in PowerShell Scripting 7.5, der load balancing und verwandte Funktionen bereitstellt.",
@@ -788,10 +788,10 @@
         "id": "q34",
         "text": "Was ist Caching in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für caching und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Caching ist ein wichtiger Service in PowerShell Scripting 7.5, der caching und verwandte Funktionen bereitstellt.",
@@ -811,10 +811,10 @@
         "id": "q35",
         "text": "Was ist Optimierung in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für optimierung und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Optimierung ist ein wichtiger Service in PowerShell Scripting 7.5, der optimierung und verwandte Funktionen bereitstellt.",
@@ -834,10 +834,10 @@
         "id": "q36",
         "text": "Was ist Integration in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für integration und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Integration ist ein wichtiger Service in PowerShell Scripting 7.5, der integration und verwandte Funktionen bereitstellt.",
@@ -857,10 +857,10 @@
         "id": "q37",
         "text": "Was ist APIs in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für apis und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "APIs ist ein wichtiger Service in PowerShell Scripting 7.5, der apis und verwandte Funktionen bereitstellt.",
@@ -880,10 +880,10 @@
         "id": "q38",
         "text": "Was ist SDKs in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für sdks und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "SDKs ist ein wichtiger Service in PowerShell Scripting 7.5, der sdks und verwandte Funktionen bereitstellt.",
@@ -903,10 +903,10 @@
         "id": "q39",
         "text": "Was ist CLI in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für cli und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "CLI ist ein wichtiger Service in PowerShell Scripting 7.5, der cli und verwandte Funktionen bereitstellt.",
@@ -926,10 +926,10 @@
         "id": "q40",
         "text": "Was ist PowerShell in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für powershell und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell ist ein wichtiger Service in PowerShell Scripting 7.5, der powershell und verwandte Funktionen bereitstellt.",
@@ -949,10 +949,10 @@
         "id": "q41",
         "text": "Was ist Templates in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für templates und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Templates ist ein wichtiger Service in PowerShell Scripting 7.5, der templates und verwandte Funktionen bereitstellt.",
@@ -972,10 +972,10 @@
         "id": "q42",
         "text": "Was ist Automation in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für automation und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Automation ist ein wichtiger Service in PowerShell Scripting 7.5, der automation und verwandte Funktionen bereitstellt.",
@@ -995,10 +995,10 @@
         "id": "q43",
         "text": "Was ist DevOps in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für devops und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "DevOps ist ein wichtiger Service in PowerShell Scripting 7.5, der devops und verwandte Funktionen bereitstellt.",
@@ -1018,10 +1018,10 @@
         "id": "q44",
         "text": "Was ist CI/CD in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für ci/cd und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "CI/CD ist ein wichtiger Service in PowerShell Scripting 7.5, der ci/cd und verwandte Funktionen bereitstellt.",
@@ -1041,10 +1041,10 @@
         "id": "q45",
         "text": "Was ist Deployment in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für deployment und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Deployment ist ein wichtiger Service in PowerShell Scripting 7.5, der deployment und verwandte Funktionen bereitstellt.",
@@ -1064,10 +1064,10 @@
         "id": "q46",
         "text": "Was ist Testing in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für testing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Testing ist ein wichtiger Service in PowerShell Scripting 7.5, der testing und verwandte Funktionen bereitstellt.",
@@ -1087,10 +1087,10 @@
         "id": "q47",
         "text": "Was ist Debugging in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche rechtliche Bestimmung",
           "Ein Service für debugging und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Debugging ist ein wichtiger Service in PowerShell Scripting 7.5, der debugging und verwandte Funktionen bereitstellt.",
@@ -1110,10 +1110,10 @@
         "id": "q48",
         "text": "Was ist Troubleshooting in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für troubleshooting und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Troubleshooting ist ein wichtiger Service in PowerShell Scripting 7.5, der troubleshooting und verwandte Funktionen bereitstellt.",
@@ -1133,10 +1133,10 @@
         "id": "q49",
         "text": "Was ist Best Practices in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für best practices und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Best Practices ist ein wichtiger Service in PowerShell Scripting 7.5, der best practices und verwandte Funktionen bereitstellt.",
@@ -1156,10 +1156,10 @@
         "id": "q50",
         "text": "Was ist Architecture in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für architecture und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Architecture ist ein wichtiger Service in PowerShell Scripting 7.5, der architecture und verwandte Funktionen bereitstellt.",
@@ -1179,10 +1179,10 @@
         "id": "q51",
         "text": "Was ist Design Patterns in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für design patterns und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Design Patterns ist ein wichtiger Service in PowerShell Scripting 7.5, der design patterns und verwandte Funktionen bereitstellt.",
@@ -1202,10 +1202,10 @@
         "id": "q52",
         "text": "Was ist Microservices in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für microservices und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Microservices ist ein wichtiger Service in PowerShell Scripting 7.5, der microservices und verwandte Funktionen bereitstellt.",
@@ -1225,10 +1225,10 @@
         "id": "q53",
         "text": "Was ist Containers in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandter KI-Algorithmus",
           "Ein Service für containers und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Containers ist ein wichtiger Service in PowerShell Scripting 7.5, der containers und verwandte Funktionen bereitstellt.",
@@ -1248,10 +1248,10 @@
         "id": "q54",
         "text": "Was ist Kubernetes in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für kubernetes und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kubernetes ist ein wichtiger Service in PowerShell Scripting 7.5, der kubernetes und verwandte Funktionen bereitstellt.",
@@ -1271,10 +1271,10 @@
         "id": "q55",
         "text": "Was ist Docker in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für docker und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Docker ist ein wichtiger Service in PowerShell Scripting 7.5, der docker und verwandte Funktionen bereitstellt.",
@@ -1294,10 +1294,10 @@
         "id": "q56",
         "text": "Was ist Networking in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandter KI-Algorithmus",
           "Ein Service für networking und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Networking ist ein wichtiger Service in PowerShell Scripting 7.5, der networking und verwandte Funktionen bereitstellt.",
@@ -1317,10 +1317,10 @@
         "id": "q57",
         "text": "Was ist Storage in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für storage und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Storage ist ein wichtiger Service in PowerShell Scripting 7.5, der storage und verwandte Funktionen bereitstellt.",
@@ -1340,10 +1340,10 @@
         "id": "q58",
         "text": "Was ist Database in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für database und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Database ist ein wichtiger Service in PowerShell Scripting 7.5, der database und verwandte Funktionen bereitstellt.",
@@ -1363,10 +1363,10 @@
         "id": "q59",
         "text": "Was ist Authentication in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für authentication und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Authentication ist ein wichtiger Service in PowerShell Scripting 7.5, der authentication und verwandte Funktionen bereitstellt.",
@@ -1386,10 +1386,10 @@
         "id": "q60",
         "text": "Was ist Authorization in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für authorization und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Authorization ist ein wichtiger Service in PowerShell Scripting 7.5, der authorization und verwandte Funktionen bereitstellt.",
@@ -1409,10 +1409,10 @@
         "id": "q61",
         "text": "Was ist Compliance in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für compliance und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Compliance ist ein wichtiger Service in PowerShell Scripting 7.5, der compliance und verwandte Funktionen bereitstellt.",
@@ -1432,10 +1432,10 @@
         "id": "q62",
         "text": "Was ist Governance in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für governance und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Governance ist ein wichtiger Service in PowerShell Scripting 7.5, der governance und verwandte Funktionen bereitstellt.",
@@ -1455,10 +1455,10 @@
         "id": "q63",
         "text": "Was ist Cost Management in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für cost management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cost Management ist ein wichtiger Service in PowerShell Scripting 7.5, der cost management und verwandte Funktionen bereitstellt.",
@@ -1478,10 +1478,10 @@
         "id": "q64",
         "text": "Was ist Resource Management in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für resource management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Resource Management ist ein wichtiger Service in PowerShell Scripting 7.5, der resource management und verwandte Funktionen bereitstellt.",
@@ -1501,10 +1501,10 @@
         "id": "q65",
         "text": "Was ist Tagging in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche rechtliche Bestimmung",
           "Ein Service für tagging und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Tagging ist ein wichtiger Service in PowerShell Scripting 7.5, der tagging und verwandte Funktionen bereitstellt.",
@@ -1524,10 +1524,10 @@
         "id": "q66",
         "text": "Was ist Policies in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für policies und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Policies ist ein wichtiger Service in PowerShell Scripting 7.5, der policies und verwandte Funktionen bereitstellt.",
@@ -1547,10 +1547,10 @@
         "id": "q67",
         "text": "Was ist Blueprints in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für blueprints und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Blueprints ist ein wichtiger Service in PowerShell Scripting 7.5, der blueprints und verwandte Funktionen bereitstellt.",
@@ -1570,10 +1570,10 @@
         "id": "q68",
         "text": "Was ist RBAC in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für rbac und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "RBAC ist ein wichtiger Service in PowerShell Scripting 7.5, der rbac und verwandte Funktionen bereitstellt.",
@@ -1593,10 +1593,10 @@
         "id": "q69",
         "text": "Was ist IAM in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für iam und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "IAM ist ein wichtiger Service in PowerShell Scripting 7.5, der iam und verwandte Funktionen bereitstellt.",
@@ -1616,10 +1616,10 @@
         "id": "q70",
         "text": "Was ist Secrets Management in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für secrets management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Secrets Management ist ein wichtiger Service in PowerShell Scripting 7.5, der secrets management und verwandte Funktionen bereitstellt.",
@@ -1639,10 +1639,10 @@
         "id": "q71",
         "text": "Was ist Key Management in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für key management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Key Management ist ein wichtiger Service in PowerShell Scripting 7.5, der key management und verwandte Funktionen bereitstellt.",
@@ -1662,10 +1662,10 @@
         "id": "q72",
         "text": "Was ist Certificate Management in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für certificate management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Certificate Management ist ein wichtiger Service in PowerShell Scripting 7.5, der certificate management und verwandte Funktionen bereitstellt.",
@@ -1685,10 +1685,10 @@
         "id": "q73",
         "text": "Was ist Encryption in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für encryption und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Encryption ist ein wichtiger Service in PowerShell Scripting 7.5, der encryption und verwandte Funktionen bereitstellt.",
@@ -1708,10 +1708,10 @@
         "id": "q74",
         "text": "Was ist Decryption in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für decryption und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Decryption ist ein wichtiger Service in PowerShell Scripting 7.5, der decryption und verwandte Funktionen bereitstellt.",
@@ -1731,10 +1731,10 @@
         "id": "q75",
         "text": "Was ist Hashing in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für hashing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Hashing ist ein wichtiger Service in PowerShell Scripting 7.5, der hashing und verwandte Funktionen bereitstellt.",
@@ -1754,10 +1754,10 @@
         "id": "q76",
         "text": "Was ist Signing in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für signing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Signing ist ein wichtiger Service in PowerShell Scripting 7.5, der signing und verwandte Funktionen bereitstellt.",
@@ -1777,10 +1777,10 @@
         "id": "q77",
         "text": "Was ist Verification in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für verification und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Verification ist ein wichtiger Service in PowerShell Scripting 7.5, der verification und verwandte Funktionen bereitstellt.",
@@ -1800,10 +1800,10 @@
         "id": "q78",
         "text": "Was ist Auditing in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für auditing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Auditing ist ein wichtiger Service in PowerShell Scripting 7.5, der auditing und verwandte Funktionen bereitstellt.",
@@ -1823,10 +1823,10 @@
         "id": "q79",
         "text": "Was ist Reporting in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für reporting und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Reporting ist ein wichtiger Service in PowerShell Scripting 7.5, der reporting und verwandte Funktionen bereitstellt.",
@@ -1846,10 +1846,10 @@
         "id": "q80",
         "text": "Was ist Analytics in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für analytics und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Analytics ist ein wichtiger Service in PowerShell Scripting 7.5, der analytics und verwandte Funktionen bereitstellt.",
@@ -1869,10 +1869,10 @@
         "id": "q81",
         "text": "Was ist Machine Learning in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für machine learning und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Machine Learning ist ein wichtiger Service in PowerShell Scripting 7.5, der machine learning und verwandte Funktionen bereitstellt.",
@@ -1892,10 +1892,10 @@
         "id": "q82",
         "text": "Was ist Artificial Intelligence in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für artificial intelligence und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Artificial Intelligence ist ein wichtiger Service in PowerShell Scripting 7.5, der artificial intelligence und verwandte Funktionen bereitstellt.",
@@ -1915,10 +1915,10 @@
         "id": "q83",
         "text": "Was ist Data Science in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für data science und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Data Science ist ein wichtiger Service in PowerShell Scripting 7.5, der data science und verwandte Funktionen bereitstellt.",
@@ -1938,10 +1938,10 @@
         "id": "q84",
         "text": "Was ist Big Data in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für big data und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Big Data ist ein wichtiger Service in PowerShell Scripting 7.5, der big data und verwandte Funktionen bereitstellt.",
@@ -1961,10 +1961,10 @@
         "id": "q85",
         "text": "Was ist Streaming in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für streaming und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Streaming ist ein wichtiger Service in PowerShell Scripting 7.5, der streaming und verwandte Funktionen bereitstellt.",
@@ -1984,10 +1984,10 @@
         "id": "q86",
         "text": "Was ist Event Processing in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für event processing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Event Processing ist ein wichtiger Service in PowerShell Scripting 7.5, der event processing und verwandte Funktionen bereitstellt.",
@@ -2007,10 +2007,10 @@
         "id": "q87",
         "text": "Was ist Message Queues in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für message queues und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Message Queues ist ein wichtiger Service in PowerShell Scripting 7.5, der message queues und verwandte Funktionen bereitstellt.",
@@ -2030,10 +2030,10 @@
         "id": "q88",
         "text": "Was ist Service Bus in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für service bus und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Service Bus ist ein wichtiger Service in PowerShell Scripting 7.5, der service bus und verwandte Funktionen bereitstellt.",
@@ -2053,10 +2053,10 @@
         "id": "q89",
         "text": "Was ist Event Grid in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für event grid und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Event Grid ist ein wichtiger Service in PowerShell Scripting 7.5, der event grid und verwandte Funktionen bereitstellt.",
@@ -2076,10 +2076,10 @@
         "id": "q90",
         "text": "Was ist Event Hubs in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für event hubs und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Event Hubs ist ein wichtiger Service in PowerShell Scripting 7.5, der event hubs und verwandte Funktionen bereitstellt.",
@@ -2099,10 +2099,10 @@
         "id": "q91",
         "text": "Was ist IoT in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für iot und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "IoT ist ein wichtiger Service in PowerShell Scripting 7.5, der iot und verwandte Funktionen bereitstellt.",
@@ -2122,10 +2122,10 @@
         "id": "q92",
         "text": "Was ist Edge Computing in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für edge computing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Edge Computing ist ein wichtiger Service in PowerShell Scripting 7.5, der edge computing und verwandte Funktionen bereitstellt.",
@@ -2145,10 +2145,10 @@
         "id": "q93",
         "text": "Was ist Serverless in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für serverless und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Serverless ist ein wichtiger Service in PowerShell Scripting 7.5, der serverless und verwandte Funktionen bereitstellt.",
@@ -2168,10 +2168,10 @@
         "id": "q94",
         "text": "Was ist Functions in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für functions und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Functions ist ein wichtiger Service in PowerShell Scripting 7.5, der functions und verwandte Funktionen bereitstellt.",
@@ -2191,10 +2191,10 @@
         "id": "q95",
         "text": "Was ist Logic Apps in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für logic apps und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Logic Apps ist ein wichtiger Service in PowerShell Scripting 7.5, der logic apps und verwandte Funktionen bereitstellt.",
@@ -2214,10 +2214,10 @@
         "id": "q96",
         "text": "Was ist Power Apps in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für power apps und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Power Apps ist ein wichtiger Service in PowerShell Scripting 7.5, der power apps und verwandte Funktionen bereitstellt.",
@@ -2237,10 +2237,10 @@
         "id": "q97",
         "text": "Was ist Power Automate in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für power automate und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Power Automate ist ein wichtiger Service in PowerShell Scripting 7.5, der power automate und verwandte Funktionen bereitstellt.",
@@ -2260,10 +2260,10 @@
         "id": "q98",
         "text": "Was ist Power BI in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für power bi und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Power BI ist ein wichtiger Service in PowerShell Scripting 7.5, der power bi und verwandte Funktionen bereitstellt.",
@@ -2283,10 +2283,10 @@
         "id": "q99",
         "text": "Was ist Cognitive Services in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für cognitive services und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cognitive Services ist ein wichtiger Service in PowerShell Scripting 7.5, der cognitive services und verwandte Funktionen bereitstellt.",
@@ -2306,10 +2306,10 @@
         "id": "q100",
         "text": "Was ist Bot Framework in PowerShell Scripting 7.5?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service für bot framework und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bot Framework ist ein wichtiger Service in PowerShell Scripting 7.5, der bot framework und verwandte Funktionen bereitstellt.",

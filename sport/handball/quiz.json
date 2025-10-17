@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Wie groß ist die Spielfläche beim Hallenhandball laut Regelwerk?",
         "options": [
-          "38 x 18 Meter",
-          "42 x 20 Meter",
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
           "40 x 20 Meter",
-          "36 x 18 Meter"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Spielfläche ist ein Rechteck von 40 x 20 Metern. Alle anderen Maße sind falsch.",
@@ -47,10 +47,10 @@
         "id": "q2",
         "text": "Wie lang ist die Torlinie zwischen den Torpfosten?",
         "options": [
-          "Eine Lösung für 6 cm",
+          "Eine ähnliche Alternative",
           "Eine Lösung für 8 cm",
-          "Eine Lösung für 5 cm",
-          "10 cm"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Torlinie zwischen den Pfosten ist 8 cm breit, alle anderen Linien sind 5 cm breit.",
@@ -69,10 +69,10 @@
         "id": "q3",
         "text": "Wie groß ist ein Handballtor laut den offiziellen Regeln?",
         "options": [
-          "2,5 m hoch und 3,5 m breit",
+          "Eine ähnliche Sporttechnik",
           "2 m hoch und 3 m breit",
-          "2,2 m hoch und 3,2 m breit",
-          "1,8 m hoch und 3 m breit"
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Tor ist 2 m hoch und 3 m breit. Andere Maße entsprechen nicht dem Regelwerk.",
@@ -91,10 +91,10 @@
         "id": "q4",
         "text": "Wie groß ist der Durchmesser des Anwurfkreises in der Mitte der Spielfläche?",
         "options": [
-          "3 Meter",
+          "Eine ähnliche Alternative",
           "4 Meter",
-          "5 Meter",
-          "6 Meter"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Anwurfkreis hat 4 Meter Durchmesser. Kleinere oder größere Maße sind regelwidrig.",
@@ -113,10 +113,10 @@
         "id": "q5",
         "text": "In welchem Abstand zur Torlinie befindet sich die 7-m-Linie?",
         "options": [
-          "Eine Lösung für 6 m",
+          "Eine ähnliche Alternative",
           "Eine Lösung für 7 m",
-          "Eine Lösung für 8 m",
-          "Eine Lösung für 9 m"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die 7-m-Linie ist exakt 7 Meter von der hinteren Kante der Torlinie entfernt.",
@@ -135,10 +135,10 @@
         "id": "q6",
         "text": "Wie lang ist die Torwartgrenzlinie (4-m-Linie)?",
         "options": [
-          "10 cm",
+          "Eine ähnliche Alternative",
           "15 cm",
-          "20 cm",
-          "25 cm"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Torwartgrenzlinie ist 15 cm lang.",
@@ -157,10 +157,10 @@
         "id": "q7",
         "text": "Wie lange dauert die normale Spielzeit bei Erwachsenen (ab 16 Jahren)?",
         "options": [
-          "2 x 25 Minuten",
-          "2 x 20 Minuten",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "2 x 30 Minuten",
-          "2 x 35 Minuten"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Erwachsenenspiel dauert 2 Halbzeiten à 30 Minuten. Jüngere Altersklassen haben kürzere Zeiten.",
@@ -179,10 +179,10 @@
         "id": "q8",
         "text": "Wie lange ist die Halbzeitpause normalerweise?",
         "options": [
-          "5 Minuten",
+          "Eine ähnliche Alternative",
           "10 Minuten",
-          "12 Minuten",
-          "15 Minuten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Halbzeitpause beträgt in der Regel 10 Minuten, kann aber bis zu 15 Minuten verlängert werden.",
@@ -201,10 +201,10 @@
         "id": "q9",
         "text": "Wie viele Verlängerungen sind möglich, wenn ein Spiel unentschieden endet?",
         "options": [
-          "Eine Verlängerung von 2 x 10 Minuten",
+          "Eine ähnliche Alternative",
           "Zwei Verlängerungen von 2 x 5 Minuten",
-          "Drei Verlängerungen von 2 x 5 Minuten",
-          "Eine Verlängerung von 1 x 15 Minuten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Es gibt maximal zwei Verlängerungen von jeweils 2 x 5 Minuten. Danach entscheidet ein 7-m-Werfen.",
@@ -223,10 +223,10 @@
         "id": "q10",
         "text": "Welche Ballgröße (Umfang) ist für Männer ab 16 Jahren vorgeschrieben (mit Harz)?",
         "options": [
-          "54–56 cm",
+          "Eine ähnliche Alternative",
           "58–60 cm",
-          "50–52 cm",
-          "55–57 cm"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Für Männer und männliche Jugend ab 16 Jahren gilt Ballgröße 3 mit 58–60 cm Umfang.",
@@ -246,9 +246,9 @@
         "text": "Wie schwer ist ein Ball der Größe 2 (mit Harz)?",
         "options": [
           "325–375 g",
-          "290–330 g",
-          "400–425 g",
-          "450–500 g"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Ball der Größe 2 wiegt 325–375 g. Größe 1 ist leichter, Größe 3 schwerer.",
@@ -267,10 +267,10 @@
         "id": "q12",
         "text": "Wie viele Bälle müssen bei einem Spiel mindestens vorhanden sein?",
         "options": [
-          "1 Ball",
+          "Eine ähnliche Alternative",
           "2 Bälle",
-          "3 Bälle",
-          "4 Bälle"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Mindestens zwei Bälle müssen verfügbar sein, um Spielunterbrechungen zu vermeiden.",
@@ -289,10 +289,10 @@
         "id": "q13",
         "text": "Wie viele Spieler dürfen maximal in einer Handballmannschaft eingetragen sein?",
         "options": [
-          "14 Spieler",
-          "15 Spieler",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "16 Spieler",
-          "18 Spieler"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Eine Mannschaft darf während des Spiels einschließlich Verlängerung bis zu 16 Spieler einsetzen.",
@@ -312,9 +312,9 @@
         "text": "Wie viele Spieler dürfen sich gleichzeitig auf der Spielfläche befinden?",
         "options": [
           "6 Feldspieler + 1 Torwart",
-          "7 Feldspieler",
-          "8 Spieler",
-          "5 Spieler"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Maximal 7 Spieler pro Mannschaft dürfen gleichzeitig auf der Spielfläche stehen.",
@@ -333,10 +333,10 @@
         "id": "q15",
         "text": "Was geschieht, wenn ein Spieler ohne Auswechslung die Spielfläche betritt?",
         "options": [
-          "Freiwurf für die eigene Mannschaft",
+          "Eine ähnliche Alternative",
           "2-Minuten-Hinausstellung",
-          "Verwarnung",
-          "7-m-Wurf für den Gegner"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein zusätzlicher Spieler führt zu einer Hinausstellung und die Mannschaft wird um 1 Spieler reduziert.",
@@ -355,10 +355,10 @@
         "id": "q16",
         "text": "Welche Mindestanzahl an Spielern muss eine Mannschaft zu Spielbeginn auf der Spielfläche haben?",
         "options": [
-          "4 Spieler",
+          "Eine ähnliche Alternative",
           "5 Spieler",
-          "6 Spieler",
-          "7 Spieler"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Mindestens 5 Spieler müssen antreten, ansonsten kann das Spiel nicht beginnen.",
@@ -377,10 +377,10 @@
         "id": "q17",
         "text": "Welche Farbe muss die Kleidung eines Torwarts haben?",
         "options": [
-          "Die gleiche wie die Feldspieler der eigenen Mannschaft",
+          "Eine ähnliche Alternative",
           "Eine andere als alle Feldspieler und Torwarte",
-          "Beliebig wählbar",
-          "Nur schwarz"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Torwartkleidung muss sich deutlich von Feldspielern beider Teams und den gegnerischen Torwarten unterscheiden.",
@@ -399,10 +399,10 @@
         "id": "q18",
         "text": "Was passiert, wenn ein Spieler gefährliche Gegenstände trägt?",
         "options": [
-          "Er darf weiterspielen, bis der Gegner protestiert",
+          "Eine ähnliche Alternative",
           "Er muss die Ausrüstung korrigieren",
-          "Es gibt sofort 2 Minuten Strafe",
-          "Die Mannschaft erhält einen Freiwurf"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Spieler mit gefährlichen Gegenständen dürfen nicht spielen, bis der Mangel behoben ist.",
@@ -421,10 +421,10 @@
         "id": "q19",
         "text": "Was ist dem Torwart im Torraum erlaubt?",
         "options": [
-          "Ball nur mit Händen abwehren",
+          "Eine ähnliche Alternative",
           "Ball mit allen Körperteilen abwehren",
-          "Nur Ball mit Füßen spielen",
-          "Nur Ball mit Armen spielen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Torwart darf den Ball im Torraum mit allen Körperteilen berühren.",
@@ -443,10 +443,10 @@
         "id": "q20",
         "text": "Darf der Torwart den Torraum mit dem kontrollierten Ball verlassen?",
         "options": [
-          "Ja, jederzeit",
-          "Ja, wenn er ihn sofort abspielt",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Nein, das ist verboten",
-          "Nur wenn er dabei springt"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Torwart darf den Torraum nicht mit einem kontrollierten Ball verlassen.",
@@ -465,10 +465,10 @@
         "id": "q21",
         "text": "Welche Linie darf der Torwart beim 7-m-Wurf nicht überschreiten, bevor der Ball die Hand des Werfers verlassen hat?",
         "options": [
-          "Torlinie",
-          "7-m-Linie",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "4-m-Linie",
-          "9-m-Linie"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die 4-m-Torwartgrenzlinie darf beim 7-m-Wurf nicht überschritten werden.",
@@ -488,9 +488,9 @@
         "text": "Was passiert, wenn ein Angreifer mit Ball den gegnerischen Torraum betritt?",
         "options": [
           "Abwurf für die gegnerische Mannschaft",
-          "Freiwurf für die angreifende Mannschaft",
-          "Tor wird gegeben",
-          "7-m-Wurf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Betritt ein Angreifer mit Ball den Torraum, entscheidet der Schiedsrichter auf Abwurf.",
@@ -509,10 +509,10 @@
         "id": "q23",
         "text": "Wann wird ein 7-m-Wurf gegeben, wenn ein Abwehrspieler den Torraum betritt?",
         "options": [
-          "Immer, sobald ein Verteidiger den Torraum betritt",
+          "Eine ähnliche Alternative",
           "Nur wenn eine klare Torgelegenheit verhindert wird",
-          "Immer, wenn Ballkontakt entsteht",
-          "Nur wenn zwei Spieler betroffen sind"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein 7-m-Wurf wird verhängt, wenn der Abwehrspieler durch das Betreten des Torraums eine klare Torgelegenheit verhindert.",
@@ -531,10 +531,10 @@
         "id": "q24",
         "text": "Was gilt, wenn der Torwart im Torraum Ball- und Körperkontrolle erlangt?",
         "options": [
-          "Der Ball bleibt im Spiel",
-          "Es gibt Einwurf",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Der Ball ist außerhalb des Spiels und Abwurf folgt",
-          "Der Ball zählt als Tor"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Sobald der Torwart im Torraum Kontrolle erlangt, ist der Ball außerhalb des Spiels und muss per Abwurf wieder ins Spiel gebracht werden.",
@@ -553,10 +553,10 @@
         "id": "q25",
         "text": "Was geschieht, wenn der Ball in den eigenen Torraum gespielt wird und dort liegen bleibt?",
         "options": [
-          "Tor für die eigene Mannschaft",
-          "Tor für die gegnerische Mannschaft",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Freiwurf für die gegnerische Mannschaft",
-          "Abwurf"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Bleibt der Ball im eigenen Torraum liegen, entscheidet der Schiedsrichter auf Freiwurf für die gegnerische Mannschaft.",
@@ -575,10 +575,10 @@
         "id": "q26",
         "text": "Wie groß ist die Sicherheitszone hinter den Torauslinien?",
         "options": [
-          "1 Meter",
-          "1,5 Meter",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "2 Meter",
-          "3 Meter"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Hinter den Torauslinien ist eine Sicherheitszone von mindestens 2 Metern vorgeschrieben.",
@@ -597,10 +597,10 @@
         "id": "q27",
         "text": "Wie viele Team-Time-outs pro Halbzeit sind nach IHF-Regeln erlaubt?",
         "options": [
-          "Eine Lösung für 1",
+          "Eine ähnliche Sporttechnik",
           "Eine Lösung für 2",
-          "Eine Lösung für 3",
-          "beliebig viele"
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Pro Halbzeit darf jede Mannschaft maximal 2 Team-Time-outs nehmen, insgesamt 3 pro Spiel.",
@@ -619,10 +619,10 @@
         "id": "q28",
         "text": "Welche Spielflächenlinie ist gestrichelt dargestellt?",
         "options": [
-          "Torlinie",
-          "Mittellinie",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Freiwurflinie",
-          "7-m-Linie"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Nur die Freiwurflinie (9-m-Linie) ist gestrichelt, alle anderen Linien sind durchgezogen.",
@@ -641,10 +641,10 @@
         "id": "q29",
         "text": "Wie viele Mannschaftsoffizielle dürfen maximal auf dem Spielprotokoll eingetragen sein?",
         "options": [
-          "Eine Lösung für 3",
-          "Eine Lösung für 4",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Eine Lösung für 5",
-          "Eine Lösung für 6"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Es sind maximal 5 Offizielle erlaubt, darunter ein Mannschaftsverantwortlicher.",
@@ -663,10 +663,10 @@
         "id": "q30",
         "text": "Wie lange darf ein Spieler den Ball maximal halten, ohne ihn zu spielen?",
         "options": [
-          "2 Sekunden",
+          "Eine ähnliche Alternative",
           "3 Sekunden",
-          "4 Sekunden",
-          "5 Sekunden"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Spieler darf den Ball höchstens 3 Sekunden halten, sonst liegt ein Regelverstoß vor.",
@@ -685,10 +685,10 @@
         "id": "q31",
         "text": "Wie viele Schritte darf ein Spieler mit dem Ball maximal machen, ohne ihn zu prellen?",
         "options": [
-          "2 Schritte",
+          "Eine ähnliche Alternative",
           "3 Schritte",
-          "4 Schritte",
-          "5 Schritte"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Spieler darf sich mit dem Ball höchstens 3 Schritte bewegen.",
@@ -707,10 +707,10 @@
         "id": "q32",
         "text": "Wie lange darf ein Spieler den Ball maximal halten?",
         "options": [
-          "2 Sekunden",
+          "Eine ähnliche Alternative",
           "3 Sekunden",
-          "4 Sekunden",
-          "5 Sekunden"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Ball darf maximal 3 Sekunden festgehalten werden.",
@@ -729,10 +729,10 @@
         "id": "q33",
         "text": "Was ist beim Spielen des Balls NICHT erlaubt?",
         "options": [
-          "Prellen mit einer Hand",
-          "Fangen mit beiden Händen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Ball mit dem Fuß absichtlich spielen",
-          "Ball mit dem Kopf spielen"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Es ist verboten, den Ball absichtlich mit dem Fuß oder Unterschenkel zu berühren.",
@@ -751,10 +751,10 @@
         "id": "q34",
         "text": "Welcher Kontakt ist beim Abwehrverhalten erlaubt?",
         "options": [
-          "Den Gegner festhalten",
-          "Den Gegner mit offenem Arm blockieren",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Den Gegner mit Rumpf sperren",
-          "Dem Gegner den Ball entreißen"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Erlaubt ist, mit dem Rumpf zu sperren oder mit angewinkelten Armen Kontakt aufzunehmen, nicht jedoch Festhalten.",
@@ -773,10 +773,10 @@
         "id": "q35",
         "text": "Welche Strafe folgt mindestens auf eine Regelwidrigkeit mit überwiegendem Körperkontakt gegen den Gegner?",
         "options": [
-          "Keine Strafe",
+          "Eine ähnliche Sporttechnik",
           "Progressive Strafe",
-          "Immer Disqualifikation",
-          "Nur Verwarnung"
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Regelwidrigkeiten mit überwiegendem Körperkontakt müssen mindestens progressiv geahndet werden.",
@@ -795,9 +795,9 @@
         "id": "q36",
         "text": "Welche Handlung gilt als grob unsportlich und führt zur Disqualifikation?",
         "options": [
-          "Ball blockieren",
-          "Ball nach Pfiff wegwerfen",
-          "Ball mit dem Kopf spielen",
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren",
           "Torwart weigert sich, 7-m-Wurf abzuwehren"
         ],
         "correctIndex": 3,
@@ -817,10 +817,10 @@
         "id": "q37",
         "text": "Wann ist ein Tor erzielt?",
         "options": [
-          "Wenn der Ball die Torlinie teilweise überquert",
+          "Eine ähnliche Alternative",
           "Wenn der Ball die Torlinie vollständig überquert",
-          "Wenn der Schiedsrichter pfeift",
-          "Wenn beide Schiedsrichter zustimmen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Tor zählt, wenn der Ball die Torlinie vollständig überquert hat.",
@@ -839,10 +839,10 @@
         "id": "q38",
         "text": "Wo wird der Anwurf zu Beginn der Halbzeit ausgeführt?",
         "options": [
-          "Von der 7-m-Linie",
+          "Eine ähnliche Alternative",
           "Von der Mittellinie oder Anwurfzone",
-          "Von der 9-m-Linie",
-          "Von beliebiger Stelle"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Anwurf erfolgt entweder von der Mittellinie oder aus der Anwurfzone.",
@@ -862,9 +862,9 @@
         "text": "Wann wird auf Einwurf entschieden?",
         "options": [
           "Wenn der Ball die Seitenlinie vollständig überquert",
-          "Wenn der Ball die Torlinie überquert",
-          "Wenn der Torwart den Ball hält",
-          "Immer nach einem Tor"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Einwurf erfolgt, wenn der Ball die Seitenlinie überschreitet oder die Decke berührt.",
@@ -883,10 +883,10 @@
         "id": "q40",
         "text": "Wer führt den Abwurf aus?",
         "options": [
-          "Ein Feldspieler",
+          "Eine ähnliche Alternative",
           "Der Torwart",
-          "Der Schiedsrichter",
-          "Beliebiger Spieler"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nur der Torwart darf den Abwurf ausführen.",
@@ -905,10 +905,10 @@
         "id": "q41",
         "text": "Wo wird der Freiwurf in der Regel ausgeführt?",
         "options": [
-          "Immer an der Mittellinie",
+          "Eine ähnliche Sporttechnik",
           "An der Stelle des Vergehens",
-          "Immer an der 9-m-Linie",
-          "Im eigenen Torraum"
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Freiwurf wird an der Stelle ausgeführt, an der das Vergehen stattfand.",
@@ -927,10 +927,10 @@
         "id": "q42",
         "text": "Wann wird auf 7-m-Wurf entschieden?",
         "options": [
-          "Immer bei Torraum-Betreten",
+          "Eine ähnliche Alternative",
           "Nur wenn eine klare Torgelegenheit vereitelt wird",
-          "Wenn ein Spieler foult",
-          "Immer bei Abwurf"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der 7-m-Wurf wird gegeben, wenn eine klare Torgelegenheit regelwidrig vereitelt wird.",
@@ -949,10 +949,10 @@
         "id": "q43",
         "text": "Wie lange hat der Werfer Zeit, den 7-m-Wurf nach Pfiff auszuführen?",
         "options": [
-          "2 Sekunden",
+          "Eine ähnliche Alternative",
           "3 Sekunden",
-          "5 Sekunden",
-          "unbegrenzt"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach Pfiff muss der 7-m-Wurf innerhalb von 3 Sekunden ausgeführt werden.",
@@ -971,10 +971,10 @@
         "id": "q44",
         "text": "Welche maximale Anzahl an Pässen ist nach Anzeige des Vorwarnzeichens für passives Spiel erlaubt?",
         "options": [
-          "3 Pässe",
+          "Eine ähnliche Alternative",
           "4 Pässe",
-          "5 Pässe",
-          "6 Pässe"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach Anzeige des Vorwarnzeichens darf die Mannschaft maximal 4 Pässe machen.",
@@ -993,10 +993,10 @@
         "id": "q45",
         "text": "Was passiert, wenn ein Spieler absichtlich den Ball mit dem Fuß spielt?",
         "options": [
-          "Nichts, das Spiel läuft weiter",
+          "Eine ähnliche Alternative",
           "Es gibt Freiwurf für den Gegner",
-          "Es gibt Abwurf",
-          "Es gibt 7-m-Wurf"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das absichtliche Spielen mit dem Fuß wird mit Freiwurf für den Gegner geahndet.",
@@ -1015,10 +1015,10 @@
         "id": "q46",
         "text": "Was gilt als besonders gefährliches Foul und führt direkt zur Disqualifikation?",
         "options": [
-          "Leichtes Festhalten",
-          "Stoßen im Lauf",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Vergehen gegen Kopf/Hals/Nacken",
-          "Ballwegschlagen"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Vergehen gegen Kopf, Hals oder Nacken gelten als besonders gefährlich und führen zur Disqualifikation.",
@@ -1037,10 +1037,10 @@
         "id": "q47",
         "text": "Was passiert, wenn ein Spieler in den letzten 30 Sekunden einen Freiwurf absichtlich verzögert?",
         "options": [
-          "Verwarnung",
-          "Freiwurf wiederholen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Disqualifikation und 7-m-Wurf für den Gegner",
-          "Nur Hinweis vom Schiedsrichter"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "In den letzten 30 Sekunden führt eine absichtliche Verzögerung zu Disqualifikation und 7-m-Wurf für den Gegner.",
@@ -1059,10 +1059,10 @@
         "id": "q48",
         "text": "Was passiert, wenn der Ball die Decke berührt?",
         "options": [
-          "Schiedsrichterball",
+          "Eine ähnliche Alternative",
           "Einwurf",
-          "Abwurf",
-          "Freiwurf"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Wenn der Ball die Decke berührt, wird auf Einwurf für die gegnerische Mannschaft entschieden.",
@@ -1081,10 +1081,10 @@
         "id": "q49",
         "text": "Wie viele Sekunden hat der Werfer nach Anpfiff Zeit, einen Anwurf auszuführen?",
         "options": [
-          "2 Sekunden",
+          "Eine ähnliche Alternative",
           "3 Sekunden",
-          "4 Sekunden",
-          "5 Sekunden"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Anwurf muss innerhalb von 3 Sekunden nach Anpfiff ausgeführt werden.",
@@ -1104,9 +1104,9 @@
         "text": "Wo müssen sich die Gegenspieler beim Anwurf von der Mittellinie aufhalten?",
         "options": [
           "Mindestens 3 m entfernt",
-          "An der 9-m-Linie",
-          "An der eigenen Torraumlinie",
-          "Innerhalb der Anwurfzone"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beim Anwurf von der Mittellinie müssen die Gegenspieler mindestens 3 m Abstand halten.",
@@ -1125,10 +1125,10 @@
         "id": "q51",
         "text": "Wann wird ein Freiwurf an der Stelle des Balls und nicht am Ort des Vergehens ausgeführt?",
         "options": [
-          "Immer",
+          "Eine ähnliche Alternative",
           "Bei passivem Spiel",
-          "Bei Schiedsrichterunterbrechung",
-          "Bei Abwurf"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei passivem Spiel wird der Freiwurf an der Stelle des Balls ausgeführt.",
@@ -1147,10 +1147,10 @@
         "id": "q52",
         "text": "Wann ist ein Tor nicht gültig, obwohl der Ball die Torlinie überquert hat?",
         "options": [
-          "Wenn die abwehrende Mannschaft ein Foul begeht",
+          "Eine ähnliche Alternative",
           "Wenn der Werfer beim Wurf im Torraum stand",
-          "Wenn der Schiedsrichter es anerkennt",
-          "Wenn der Ball den Pfosten berührt"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Tor zählt nicht, wenn der Werfer oder Mitspieler beim Torerfolg regelwidrig handelt.",
@@ -1169,10 +1169,10 @@
         "id": "q53",
         "text": "Welche Strafe folgt, wenn ein Torwart beim 7-m-Wurf die 4-m-Linie vorzeitig überschreitet?",
         "options": [
-          "Disqualifikation",
-          "Verwarnung",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Wiederholung des Wurfs",
-          "Tor zählt automatisch"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Überschreitet der Torwart die 4-m-Linie vorzeitig, wird der 7-m-Wurf wiederholt.",
@@ -1192,9 +1192,9 @@
         "text": "Wie wird auf passives Spiel entschieden, nachdem die maximalen Pässe überschritten wurden?",
         "options": [
           "Freiwurf für die verteidigende Mannschaft",
-          "Schiedsrichterball",
-          "7-m-Wurf",
-          "Abwurf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach dem fünften Pass (Verstoß) wird passives Spiel abgepfiffen und es gibt Freiwurf für die Abwehr.",
@@ -1214,9 +1214,9 @@
         "text": "Wann ist ein Einwurf korrekt ausgeführt?",
         "options": [
           "Wenn der Werfer mit einem Fuß an der Seitenlinie steht",
-          "Wenn beide Füße im Spielfeld sind",
-          "Wenn der Werfer springt",
-          "Wenn die Gegner 1 m Abstand halten"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Werfer muss mit einem Fuß auf der Linie stehen und den Ball von außerhalb ins Spielfeld werfen.",
@@ -1235,10 +1235,10 @@
         "id": "q56",
         "text": "Welche Mindestdistanz müssen Gegenspieler bei Freiwürfen außerhalb der 9-m-Linie einhalten?",
         "options": [
-          "Eine Lösung für 2 m",
+          "Eine ähnliche Alternative",
           "Eine Lösung für 3 m",
-          "Eine Lösung für 4 m",
-          "Eine Lösung für 5 m"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Gegenspieler müssen mindestens 3 m Abstand zum Werfer halten, sofern sie außerhalb der 9-m-Linie stehen.",
@@ -1257,10 +1257,10 @@
         "id": "q57",
         "text": "Welche Position muss der Werfer beim 7‑m‑Wurf einnehmen?",
         "options": [
-          "Mindestens ein Fuß auf der 7‑m‑Linie",
-          "Mit beiden Füßen vor der 7‑m‑Linie",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Mit keinem Fuß die 7‑m‑Linie berühren",
-          "Mit beiden Füßen auf der 7‑m‑Linie"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Der Werfer darf die 7‑m‑Linie nicht berühren oder überschreiten, bevor der Ball die Hand verlassen hat.",
@@ -1279,10 +1279,10 @@
         "id": "q58",
         "text": "Wann ist ein Abwurf korrekt?",
         "options": [
-          "Wenn der Ball die Torraumlinie vollständig überschritten hat",
+          "Eine ähnliche Alternative",
           "Wenn der Torwart den Ball von innerhalb des Torraums ins Spiel wirft",
-          "Wenn der Ball vor Ausführung ruht",
-          "Wenn alle Gegenspieler im Torraum sind"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Abwurf wird vom Torwart aus dem Torraum ausgeführt und ist korrekt, wenn der Ball das Spielfeld verlässt.",
@@ -1301,10 +1301,10 @@
         "id": "q59",
         "text": "Darf der Werfer beim Freiwurf den Ball tossen und im Sprung fangen, bevor er wirft?",
         "options": [
-          "Ja, wenn er innerhalb 3 s abwirft",
+          "Eine ähnliche Alternative",
           "Nein, der Ball muss ohne Eigenpass gespielt werden",
-          "Nur, wenn die Abwehr 3 m Abstand hält",
-          "Nur innerhalb der Anwurfzone"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei Freiwürfen ist ein Eigenpass vor dem Abspiel nicht zulässig; der Ball muss direkt gespielt werden.",
@@ -1323,9 +1323,9 @@
         "id": "q60",
         "text": "Wann wird ein Wurf wiederholt?",
         "options": [
-          "Bei Pfiff beider Schiedsrichter",
-          "Bei Regelverstoß der ausführenden Mannschaft",
-          "Bei Regelverstoß der gegnerischen Mannschaft",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren",
           "Bei objektiver Störung (z. B. zweite Pfeife)"
         ],
         "correctIndex": 3,
@@ -1346,9 +1346,9 @@
         "text": "Welche maximale Anzahl an Verwarnungen ist pro Teamoffiziellen zulässig?",
         "options": [
           "Eine Lösung für eine",
-          "Eine Lösung für zwei",
-          "Eine Lösung für drei",
-          "Unbegrenzt"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Jeder Teamoffizielle kann nur einmal verwarnt werden; danach folgen progressive Strafen.",
@@ -1367,10 +1367,10 @@
         "id": "q62",
         "text": "Welche Konsequenz hat eine Disqualifikation ohne Bericht für die Mannschaftsstärke?",
         "options": [
-          "Dauerhafte Unterzahl",
+          "Eine ähnliche Alternative",
           "2 Minuten Unterzahl, danach Auffüllen",
-          "Sofortige Auffüllung",
-          "Zusätzliche Verwarnung"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach Disqualifikation spielt die Mannschaft 2 Minuten in Unterzahl; danach darf aufgefüllt werden.",
@@ -1389,10 +1389,10 @@
         "id": "q63",
         "text": "Was bedeutet die Blaue Karte?",
         "options": [
-          "Zeitstrafe",
+          "Eine ähnliche Alternative",
           "Disqualifikation mit Bericht",
-          "Verwarnung",
-          "Wiederholung"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Blaue Karte signalisiert eine Disqualifikation mit schriftlichem Bericht.",
@@ -1411,10 +1411,10 @@
         "id": "q64",
         "text": "Wann wird ein Team-Time-out zwingend gewährt?",
         "options": [
-          "Wenn der Trainer ruft",
+          "Eine ähnliche Alternative",
           "Bei grüner Karte am Sekretärstisch",
-          "Nach jedem Tor",
-          "Bei Ball im Aus"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Team-Time-out wird gewährt, wenn die Mannschaft die grüne Karte ordnungsgemäß legt und der Ballbesitz gegeben ist.",
@@ -1433,10 +1433,10 @@
         "id": "q65",
         "text": "Wer darf das Vorwarnzeichen für passives Spiel anzeigen?",
         "options": [
-          "Nur der Feldschiedsrichter",
-          "Nur der Torschiedsrichter",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Beide Schiedsrichter",
-          "Nur der Zeitnehmer"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Beide Schiedsrichter können das Vorwarnzeichen anzeigen.",
@@ -1455,10 +1455,10 @@
         "id": "q66",
         "text": "Wie lange darf ein Werfer den Ball nach Anpfiff maximal halten, bevor er ihn spielen muss?",
         "options": [
-          "2 Sekunden",
+          "Eine ähnliche Alternative",
           "3 Sekunden",
-          "4 Sekunden",
-          "5 Sekunden"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach Anpfiff muss der Ball innerhalb von 3 Sekunden gespielt werden.",
@@ -1477,10 +1477,10 @@
         "id": "q67",
         "text": "Was muss der Werfer bei der Ausführung eines Wurfes mindestens mit einem Fuß tun?",
         "options": [
-          "Einen Fuß in der Luft halten",
+          "Eine ähnliche Alternative",
           "Den Boden berühren",
-          "Über die Linie springen",
-          "Hinter der Mittellinie bleiben"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei allen Würfen außer Abwurf muss der Werfer mit einem Fuß Bodenkontakt halten.",
@@ -1499,10 +1499,10 @@
         "id": "q68",
         "text": "Wie viele Verwarnungen darf eine Mannschaft insgesamt maximal erhalten?",
         "options": [
-          "Eine Lösung für 2",
+          "Eine ähnliche Alternative",
           "Eine Lösung für 3",
-          "Eine Lösung für 4",
-          "unbegrenzt"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Mannschaft darf insgesamt höchstens 3 Verwarnungen erhalten.",
@@ -1521,10 +1521,10 @@
         "id": "q69",
         "text": "Welche Karte zeigt der Schiedsrichter bei einer Disqualifikation?",
         "options": [
-          "Eine Lösung für gelb",
+          "Eine ähnliche Alternative",
           "Eine Lösung für rot",
-          "Eine Lösung für blau",
-          "Schwarz"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Disqualifikation wird mit der Roten Karte angezeigt.",
@@ -1543,10 +1543,10 @@
         "id": "q70",
         "text": "Wie lange dauert eine Hinausstellung?",
         "options": [
-          "1 Minute",
+          "Eine ähnliche Alternative",
           "2 Minuten",
-          "3 Minuten",
-          "4 Minuten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Hinausstellung dauert 2 Minuten.",
@@ -1565,10 +1565,10 @@
         "id": "q71",
         "text": "Welche Strafe folgt zwingend nach der dritten Hinausstellung eines Spielers?",
         "options": [
-          "Nichts",
-          "Verwarnung",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Disqualifikation",
-          "Schriftlicher Bericht"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Nach der dritten Hinausstellung wird der Spieler disqualifiziert.",
@@ -1587,10 +1587,10 @@
         "id": "q72",
         "text": "Wie viele Schiedsrichter leiten ein Handballspiel?",
         "options": [
-          "Eine Lösung für 1",
+          "Eine ähnliche Alternative",
           "Eine Lösung für 2",
-          "Eine Lösung für 3",
-          "Eine Lösung für 4"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Spiel wird von zwei gleichberechtigten Schiedsrichtern geleitet.",
@@ -1610,9 +1610,9 @@
         "text": "Wer hat Vorrang, wenn sich die beiden Schiedsrichter nicht einigen können, wer Ballbesitz erhält?",
         "options": [
           "Der Feldschiedsrichter",
-          "Der Torschiedsrichter",
-          "Der Zeitnehmer",
-          "Der Sekretär"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Wenn keine Einigung erzielt wird, gilt die Entscheidung des Feldschiedsrichters.",
@@ -1631,10 +1631,10 @@
         "id": "q74",
         "text": "Wer ist hauptsächlich für die Spielzeit verantwortlich?",
         "options": [
-          "Sekretär",
+          "Eine ähnliche Alternative",
           "Zeitnehmer",
-          "Schiedsrichter",
-          "Delegierter"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Zeitnehmer hat die Hauptverantwortung für die Spielzeit.",
@@ -1653,10 +1653,10 @@
         "id": "q75",
         "text": "Welche Aufgabe hat der Sekretär hauptsächlich?",
         "options": [
-          "Kontrolle der Zeit",
+          "Eine ähnliche Alternative",
           "Führen des Spielprotokolls",
-          "Strafen verhängen",
-          "Bälle bereitstellen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Sekretär ist für Spielerlisten und das Spielprotokoll verantwortlich.",
@@ -1675,10 +1675,10 @@
         "id": "q76",
         "text": "Wie viele Mannschaftsoffizielle dürfen sich maximal im Auswechselraum aufhalten?",
         "options": [
-          "Eine Lösung für 3",
-          "Eine Lösung für 4",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Eine Lösung für 5",
-          "Eine Lösung für 6"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Maximal 5 Offizielle dürfen im Auswechselraum eingetragen sein.",
@@ -1697,10 +1697,10 @@
         "id": "q77",
         "text": "Wo beginnt die Coachingzone?",
         "options": [
-          "An der Torraumlinie",
+          "Eine ähnliche Alternative",
           "3,5 m von der Mittellinie entfernt",
-          "Direkt neben der Bank",
-          "An der 9-m-Linie"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Coachingzone beginnt 3,5 m von der Mittellinie entfernt und endet 8 m vor der Torauslinie.",
@@ -1719,10 +1719,10 @@
         "id": "q78",
         "text": "Wie lange muss ein verletzter Spieler nach Behandlung die Spielfläche verlassen?",
         "options": [
-          "1 Angriff",
-          "2 Angriffe",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "3 Angriffe",
-          "5 Angriffe"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein verletzter Spieler darf erst nach dem dritten Angriff seiner Mannschaft zurückkehren.",
@@ -1741,10 +1741,10 @@
         "id": "q79",
         "text": "Wie viele Team-Time-outs darf eine Mannschaft pro Spiel maximal nehmen?",
         "options": [
-          "Eine Lösung für 2",
+          "Eine ähnliche Alternative",
           "Eine Lösung für 3",
-          "Eine Lösung für 4",
-          "beliebig viele"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Pro Spiel sind maximal 3 Team-Time-outs erlaubt, pro Halbzeit jedoch nur 2.",
@@ -1763,9 +1763,9 @@
         "id": "q80",
         "text": "Wer entscheidet im Zweifel über Spielerberechtigung und Wechselzone?",
         "options": [
-          "Schiedsrichter",
-          "Zeitnehmer",
-          "Sekretär",
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung",
           "Delegierter"
         ],
         "correctIndex": 3,
@@ -1785,10 +1785,10 @@
         "id": "q81",
         "text": "Wo dürfen sich auszuwechselnde Spieler bewegen?",
         "options": [
-          "Überall entlang der Seitenlinie",
+          "Eine ähnliche Alternative",
           "Nur in der eigenen Auswechselzone",
-          "In der Coachingzone",
-          "Hinter der Torlinie"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Wechsel sind ausschließlich in der eigenen Auswechselzone zulässig.",
@@ -1807,10 +1807,10 @@
         "id": "q82",
         "text": "Welche Sanktion folgt, wenn ein Verteidiger in den letzten 30 Sekunden den Anwurf verhindert?",
         "options": [
-          "Verwarnung",
-          "Freiwurf",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Disqualifikation und 7‑m‑Wurf",
-          "Nur Hinweis"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das Verhindern der Spielfortsetzung in den letzten 30 Sekunden wird mit Disqualifikation und 7‑m‑Wurf geahndet.",
@@ -1830,9 +1830,9 @@
         "text": "Zusatzfrage 1: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -1852,9 +1852,9 @@
         "text": "Zusatzfrage 2: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -1874,9 +1874,9 @@
         "text": "Zusatzfrage 3: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -1896,9 +1896,9 @@
         "text": "Zusatzfrage 4: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -1918,9 +1918,9 @@
         "text": "Zusatzfrage 5: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -1940,9 +1940,9 @@
         "text": "Zusatzfrage 6: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -1962,9 +1962,9 @@
         "text": "Zusatzfrage 7: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -1984,9 +1984,9 @@
         "text": "Zusatzfrage 8: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -2006,9 +2006,9 @@
         "text": "Zusatzfrage 9: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -2028,9 +2028,9 @@
         "text": "Zusatzfrage 10: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -2050,9 +2050,9 @@
         "text": "Zusatzfrage 11: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -2072,9 +2072,9 @@
         "text": "Zusatzfrage 12: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -2094,9 +2094,9 @@
         "text": "Zusatzfrage 13: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -2116,9 +2116,9 @@
         "text": "Zusatzfrage 14: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -2138,9 +2138,9 @@
         "text": "Zusatzfrage 15: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -2160,9 +2160,9 @@
         "text": "Zusatzfrage 16: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -2182,9 +2182,9 @@
         "text": "Zusatzfrage 17: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",
@@ -2204,9 +2204,9 @@
         "text": "Zusatzfrage 18: Welche Aussage zu den Handzeichen der Schiedsrichter ist korrekt?",
         "options": [
           "Das Zeichen für passives Spiel ist der erhobene Arm",
-          "Tor wird mit überkreuzten Armen angezeigt",
-          "Zeitstrafe mit gelber Karte angezeigt",
-          "Anwurfzeichen ist zwei Arme über dem Kopf"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Passives Spiel wird durch einen erhobenen Arm angezeigt; andere Aussagen sind falsch laut Handzeichenkatalog.",

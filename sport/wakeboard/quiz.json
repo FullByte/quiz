@@ -21,10 +21,10 @@
         "id": "q1",
         "text": "Welche Mindesttemperatur muss das Wasser haben, damit ein Wettkampf stattfinden kann?",
         "options": [
-          "Eine Lösung für 10°c",
+          "Eine ähnliche Sporttechnik",
           "Eine Lösung für 12°c",
-          "Eine Lösung für 15°c",
-          "Eine Lösung für 18°c"
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Wassertemperatur muss mindestens 12°C (54°F) betragen, damit ein Wettkampf durchgeführt werden kann. Dies dient der Sicherheit der Athleten.",
@@ -43,10 +43,10 @@
         "id": "q2",
         "text": "Wie viele Fahrten hat jeder Athlet in der Qualifikationsrunde?",
         "options": [
-          "1 Fahrt",
+          "Eine ähnliche Alternative",
           "2 Fahrten",
-          "3 Fahrten",
-          "4 Fahrten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "In der Qualifikationsrunde hat jeder Athlet Anspruch auf 2 Fahrten. Die beste Wertung zählt für die Qualifikation.",
@@ -65,10 +65,10 @@
         "id": "q3",
         "text": "Wie lang ist die maximale Fahrzeit für eine Wettkampfrunde?",
         "options": [
-          "3 Minuten",
-          "4 Minuten",
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
           "5 Minuten",
-          "6 Minuten"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die maximale Fahrzeit beträgt 5 Minuten für eine Wettkampfrunde. Nach Ablauf dieser Zeit muss die Fahrt beendet werden.",
@@ -87,10 +87,10 @@
         "id": "q4",
         "text": "Wie viele Richter bewerten eine Wettkampffahrt mindestens?",
         "options": [
-          "2 Richter",
+          "Eine ähnliche Sporttechnik",
           "3 Richter",
-          "4 Richter",
-          "5 Richter"
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Es müssen mindestens 3 Richter eine Wettkampffahrt bewerten. Die Wertungen werden gemittelt, um die finale Punktzahl zu ermitteln.",
@@ -109,10 +109,10 @@
         "id": "q5",
         "text": "Was ist die maximale Punktzahl, die ein Athlet pro Fahrt erreichen kann?",
         "options": [
-          "50 Punkte",
-          "75 Punkte",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "100 Punkte",
-          "150 Punkte"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die maximale Punktzahl pro Fahrt beträgt 100 Punkte. Diese wird basierend auf Execution, Intensity und Composition vergeben.",
@@ -131,10 +131,10 @@
         "id": "q6",
         "text": "Welche drei Hauptkriterien werden bei der Bewertung einer Fahrt berücksichtigt?",
         "options": [
-          "Speed, Height, Style",
+          "Eine ähnliche Alternative",
           "Execution, Intensity, Composition",
-          "Difficulty, Creativity, Landing",
-          "Power, Control, Variety"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die drei Hauptkriterien sind Execution (Ausführung), Intensity (Intensität) und Composition (Zusammensetzung). Jedes Kriterium wird gleichwertig bewertet.",
@@ -153,10 +153,10 @@
         "id": "q7",
         "text": "Was bedeutet 'Execution' bei der Bewertung?",
         "options": [
-          "Die Anzahl der ausgeführten Tricks",
+          "Eine ähnliche Alternative",
           "Die technische Qualität und Sauberkeit der Tricks",
-          "Die Schwierigkeit der gewählten Tricks",
-          "Die Geschwindigkeit bei der Ausführung"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Execution bezieht sich auf die technische Qualität und Sauberkeit der Tricks, einschließlich Absprung, Körperhaltung während des Tricks und Landung.",
@@ -175,10 +175,10 @@
         "id": "q8",
         "text": "Bei welcher Geschwindigkeit wird Wakeboard typischerweise gefahren?",
         "options": [
-          "15-20 mph (24-32 km/h)",
+          "Eine ähnliche Alternative",
           "18-24 mph (29-39 km/h)",
-          "25-30 mph (40-48 km/h)",
-          "30-35 mph (48-56 km/h)"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die typische Geschwindigkeit für Wakeboard liegt zwischen 18-24 mph (29-39 km/h). Die genaue Geschwindigkeit kann je nach Präferenz des Athleten variieren.",
@@ -197,10 +197,10 @@
         "id": "q9",
         "text": "Wie lang ist die Seillänge beim Wakeboard?",
         "options": [
-          "45-55 Fuß (13,7-16,8 m)",
-          "55-65 Fuß (16,8-19,8 m)",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "65-75 Fuß (19,8-22,9 m)",
-          "75-85 Fuß (22,9-25,9 m)"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Seillänge beim Wakeboard beträgt typischerweise 65-75 Fuß (19,8-22,9 m). Die genaue Länge kann nach Athletenpräferenz angepasst werden.",
@@ -219,10 +219,10 @@
         "id": "q10",
         "text": "Was passiert, wenn ein Athlet während der Fahrt stürzt?",
         "options": [
-          "Die Fahrt wird sofort abgebrochen und nicht gewertet",
+          "Eine ähnliche Alternative",
           "Der Athlet kann weiterfahren, aber nur vorherige Tricks zählen",
-          "Die Fahrt wird pausiert und später fortgesetzt",
-          "Der Athlet kann sofort wieder einsteigen und weiterfahren"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Wenn ein Athlet stürzt, wird die Fahrt beendet, aber alle erfolgreich ausgeführten Tricks vor dem Sturz werden gewertet.",
@@ -241,10 +241,10 @@
         "id": "q11",
         "text": "Was ist ein 'Tantrum' im Wakeboarding?",
         "options": [
-          "Ein Frontflip rückwärts",
+          "Eine ähnliche Alternative",
           "Ein Backflip vorwärts",
-          "Eine 360-Grad-Drehung",
-          "Ein Sideflip"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Tantrum ist ein Backflip in Vorwärtsrichtung, bei dem der Rider rückwärts rotiert während er vorwärts fährt. Es ist einer der grundlegenden Inverts.",
@@ -263,10 +263,10 @@
         "id": "q12",
         "text": "Was bedeutet 'Raley' beim Wakeboarding?",
         "options": [
-          "Ein 180-Grad-Sprung",
-          "Ein gestreckter Backflip mit horizontal ausgestrecktem Körper",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Ein Superman-ähnlicher Trick ohne Rotation",
-          "Eine Greifen des Boards während eines Sprungs"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Raley ist ein Trick, bei dem der Rider wie Superman horizontal in der Luft liegt, ohne Rotation, ähnlich einer horizontalen Körperhaltung.",
@@ -285,10 +285,10 @@
         "id": "q13",
         "text": "Wie viele Athleten qualifizieren sich typischerweise für das Finale?",
         "options": [
-          "Top 4",
+          "Eine ähnliche Alternative",
           "Top 6",
-          "Top 8",
-          "Top 10"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Typischerweise qualifizieren sich die Top 6 Athleten aus der Qualifikationsrunde für das Finale, abhängig vom spezifischen Wettkampfformat.",
@@ -307,10 +307,10 @@
         "id": "q14",
         "text": "Was ist ein 'Blind Landing'?",
         "options": [
-          "Eine Landung mit geschlossenen Augen",
+          "Eine ähnliche Alternative",
           "Eine Landung mit dem Rücken zur Fahrtrichtung",
-          "Eine Landung ohne das Board zu sehen",
-          "Eine Landung im Dunkeln"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Blind Landing bedeutet, dass der Rider mit dem Rücken zur Fahrtrichtung landet, also 'blind' in Bezug auf die Fahrtrichtung.",
@@ -329,9 +329,9 @@
         "id": "q15",
         "text": "Welches ist ein wichtiger Sicherheitsaspekt beim Wakeboard-Wettkampf?",
         "options": [
-          "Alle Athleten müssen eine Schwimmweste tragen",
-          "Mindestens 2 Rettungsboote müssen bereitstehen",
-          "Ein Arzt muss vor Ort sein",
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren",
           "Alle oben genannten"
         ],
         "correctIndex": 3,
@@ -351,10 +351,10 @@
         "id": "q16",
         "text": "Was ist 'Intensity' bei der Bewertung?",
         "options": [
-          "Die Lautstärke des Athleten",
+          "Eine ähnliche Alternative",
           "Die Größe, Power und Schwierigkeit der Tricks",
-          "Die Geschwindigkeit der Fahrt",
-          "Die Anzahl der Zuschauer"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Intensity bezieht sich auf die Größe, Power und Schwierigkeit der ausgeführten Tricks sowie die Energie und das Engagement des Athleten.",
@@ -373,10 +373,10 @@
         "id": "q17",
         "text": "Was bedeutet 'Composition' bei der Bewertung?",
         "options": [
-          "Die musikalische Untermalung",
+          "Eine ähnliche Alternative",
           "Die Vielfalt und Abfolge der Tricks",
-          "Die Zusammenarbeit mit dem Boot",
-          "Die chemische Zusammensetzung des Wassers"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Composition bezieht sich auf die Vielfalt, Kreativität und strategische Abfolge der Tricks während der gesamten Fahrt.",
@@ -395,10 +395,10 @@
         "id": "q18",
         "text": "Kann ein Athlet denselben Trick mehrmals in einer Fahrt ausführen?",
         "options": [
-          "Ja, beliebig oft",
-          "Ja, aber nur zweimal",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Nein, jeder Trick darf nur einmal vorkommen",
-          "Nur wenn er in verschiedene Richtungen ausgeführt wird"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Jeder Trick darf nur einmal pro Fahrt ausgeführt werden. Wiederholungen werden nicht gewertet und können die Composition-Bewertung negativ beeinflussen.",
@@ -417,10 +417,10 @@
         "id": "q19",
         "text": "Was ist ein 'Whirlybird'?",
         "options": [
-          "Ein 360-Grad-Spin an der Oberfläche",
+          "Eine ähnliche Alternative",
           "Ein Backflip mit 180-Grad-Drehung",
-          "Ein Frontflip mit 360-Grad-Drehung",
-          "Ein Sideflip ohne Rotation"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Whirlybird ist ein Backflip kombiniert mit einer 180-Grad-Drehung, sodass der Rider blind landet.",
@@ -439,10 +439,10 @@
         "id": "q20",
         "text": "Wie breit muss die Wettkampfstrecke mindestens sein?",
         "options": [
-          "50 Meter",
-          "75 Meter",
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
           "100 Meter",
-          "150 Meter"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Wettkampfstrecke muss mindestens 100 Meter breit sein, um genügend Raum für Tricks und Sicherheit zu gewährleisten.",
@@ -461,10 +461,10 @@
         "id": "q21",
         "text": "Was ist ein 'Grab' beim Wakeboarding?",
         "options": [
-          "Das Festhalten am Seil mit beiden Händen",
+          "Eine ähnliche Alternative",
           "Das Greifen des Boards während eines Tricks",
-          "Das Fangen des Seils nach einem Sturz",
-          "Das Festhalten am Boot"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Grab ist das Greifen des Boards mit einer oder beiden Händen während eines Tricks in der Luft, was Style und Kontrolle demonstriert.",
@@ -484,9 +484,9 @@
         "text": "Was ist ein 'Indy Grab'?",
         "options": [
           "Greifen der Toeside-Kante zwischen den Bindungen",
-          "Greifen der Heelside-Kante zwischen den Bindungen",
-          "Greifen der Nose des Boards",
-          "Greifen des Tails des Boards"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Indy Grab ist das Greifen der Toeside-Kante des Boards zwischen den Bindungen mit der hinteren Hand.",
@@ -506,9 +506,9 @@
         "text": "Wie lange vor dem Start kann ein Athlet die Fahrt abbrechen?",
         "options": [
           "Jederzeit vor dem Start",
-          "Nur in den ersten 10 Sekunden",
-          "Nur in der ersten Minute",
-          "Gar nicht, der Start gilt als verbindlich"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Athlet kann die Fahrt jederzeit vor dem offiziellen Start abbrechen, ohne dass dies als Versuch gewertet wird.",
@@ -527,10 +527,10 @@
         "id": "q24",
         "text": "Was ist ein 'Toeside' Approach?",
         "options": [
-          "Annäherung an die Wake auf den Zehenspitzen",
+          "Eine ähnliche Alternative",
           "Annäherung mit der Toeside-Kante nach vorne",
-          "Ein spezieller Trick",
-          "Eine Landung auf den Zehen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Toeside Approach bedeutet, dass der Rider mit der Toeside-Kante (Zehenseite) des Boards zur Wake fährt, was eine andere Körperhaltung erfordert.",
@@ -549,10 +549,10 @@
         "id": "q25",
         "text": "Wann beginnt die offizielle Fahrzeit?",
         "options": [
-          "Wenn der Athlet ins Wasser springt",
-          "Wenn das Boot losfährt",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Wenn der Athlet aus dem Wasser kommt",
-          "Wenn der erste Trick ausgeführt wird"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die offizielle Fahrzeit beginnt, sobald der Athlet aus dem Wasser kommt und in Fahrposition ist.",
@@ -571,10 +571,10 @@
         "id": "q26",
         "text": "Was ist ein 'Mobe' im Wakeboarding?",
         "options": [
-          "Ein 360-Grad-Spin",
+          "Eine ähnliche Alternative",
           "Ein Backroll mit 360-Grad-Drehung",
-          "Ein Frontflip mit 180-Grad-Drehung",
-          "Ein double backflip"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Mobe (auch Mobius genannt) ist ein Backroll kombiniert mit einer 360-Grad-Drehung, einer der anspruchsvollsten Grundtricks.",
@@ -594,9 +594,9 @@
         "text": "Kann ein Athlet seine Seillänge während des Wettkampfs ändern?",
         "options": [
           "Ja, zwischen den Fahrten",
-          "Ja, während der Fahrt",
-          "Nein, sie muss für den ganzen Wettkampf gleich bleiben",
-          "Nur mit Erlaubnis des Schiedsrichters"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Athlet kann seine Seillänge zwischen den Fahrten anpassen, aber nicht während einer laufenden Fahrt.",
@@ -615,10 +615,10 @@
         "id": "q28",
         "text": "Was ist ein 'KGB' Trick?",
         "options": [
-          "Ein russischer Wakeboard-Stil",
-          "Ein Whirlybird mit Grab",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Ein Roll to Revert mit Blind Landing",
-          "Eine spezielle Landetechnik"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein KGB ist ein Roll to Revert mit Blind Landing, benannt nach den russischen Initialen, ein fortgeschrittener Trick.",
@@ -637,10 +637,10 @@
         "id": "q29",
         "text": "Wie viele Boote müssen für einen offiziellen Wettkampf verfügbar sein?",
         "options": [
-          "Mindestens 1 Wettkampfboot",
+          "Eine ähnliche Sporttechnik",
           "Mindestens 1 Wettkampfboot und 1 Rettungsboot",
-          "Mindestens 2 Wettkampfboote",
-          "Mindestens 2 Wettkampfboote und 2 Rettungsboote"
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Es muss mindestens ein Wettkampfboot und ein separates Rettungsboot für Notfälle bereitstehen.",
@@ -659,10 +659,10 @@
         "id": "q30",
         "text": "Was ist ein 'Crow Mobe'?",
         "options": [
-          "Ein Backflip mit 540-Grad-Drehung",
-          "Ein Frontflip mit 360-Grad-Drehung",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Ein Backroll mit 540-Grad-Drehung und Blind Landing",
-          "Ein double Backflip"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Crow Mobe ist ein Backroll mit einer 540-Grad-Drehung, was zu einem Blind Landing führt - eine Weiterentwicklung des normalen Mobe.",
@@ -681,10 +681,10 @@
         "id": "q31",
         "text": "Dürfen Athleten eigene Musik während der Fahrt abspielen lassen?",
         "options": [
-          "Ja, immer",
+          "Eine ähnliche Alternative",
           "Ja, aber nur bei bestimmten Events",
-          "Nein, nie",
-          "Nur im Finale"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei bestimmten Events und Wettbewerben ist es erlaubt, eigene Musik abzuspielen, dies muss aber vom Veranstalter genehmigt werden.",
@@ -703,10 +703,10 @@
         "id": "q32",
         "text": "Was ist ein 'Scarecrow'?",
         "options": [
-          "Ein gestreckter Frontflip",
-          "Ein Backflip mit gestrecktem Körper",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Ein Frontflip mit 180-Grad-Drehung und Blind Landing",
-          "Ein Sideflip"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Scarecrow ist ein Frontflip kombiniert mit einer 180-Grad-Drehung, sodass der Rider blind landet. Der Name kommt von der Vogelscheuchen-ähnlichen Bewegung.",
@@ -725,10 +725,10 @@
         "id": "q33",
         "text": "Wie tief muss das Wasser im Wettkampfbereich mindestens sein?",
         "options": [
-          "1 Meter",
-          "1,5 Meter",
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
           "2 Meter",
-          "3 Meter"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das Wasser muss mindestens 2 Meter tief sein, um die Sicherheit der Athleten bei Stürzen zu gewährleisten.",
@@ -748,9 +748,9 @@
         "text": "Was ist ein '360' im Wakeboarding?",
         "options": [
           "Eine volle Umdrehung um die eigene Achse",
-          "Ein Trick, der 360 Grad schwer ist",
-          "Eine Drehung von 180 Grad",
-          "Ein Trick über 360 Meter"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein 360 (auch Three-Sixty genannt) ist eine vollständige 360-Grad-Drehung um die vertikale Achse während eines Sprungs.",
@@ -770,9 +770,9 @@
         "text": "Können Athleten im Finale denselben Run wie in der Qualifikation fahren?",
         "options": [
           "Ja, das ist erlaubt",
-          "Nein, sie müssen komplett neue Tricks zeigen",
-          "Nur mit Genehmigung der Richter",
-          "Nur 50% der Tricks dürfen gleich sein"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Athleten können im Finale denselben Run wie in der Qualifikation fahren oder ihre Tricks verändern - es gibt keine Einschränkungen.",
@@ -791,10 +791,10 @@
         "id": "q36",
         "text": "Was ist ein 'S-Bend' oder 'Ole'?",
         "options": [
-          "Ein Trick mit gebeugten Knien",
+          "Eine ähnliche Alternative",
           "Ein Backroll mit 180-Grad-Drehung",
-          "Ein spezieller Grab",
-          "Eine Kurventechnik"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein S-Bend (auch Ole genannt) ist ein Backroll mit 180-Grad-Drehung, ähnlich einem halben Whirlybird.",
@@ -813,10 +813,10 @@
         "id": "q37",
         "text": "Was bedeutet 'Switch' beim Wakeboarding?",
         "options": [
-          "Wechsel des Boards",
+          "Eine ähnliche Alternative",
           "Fahren mit umgekehrter Stance (andere Fußposition)",
-          "Wechsel der Seillänge",
-          "Wechsel des Boots"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Switch bedeutet, dass der Rider mit umgekehrter Stance fährt - der normalerweise vordere Fuß ist hinten und umgekehrt.",
@@ -835,10 +835,10 @@
         "id": "q38",
         "text": "Wie viele verschiedene Tricks sollte eine gut komponierte Fahrt mindestens enthalten?",
         "options": [
-          "3-5 Tricks",
-          "5-7 Tricks",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "7-10 Tricks",
-          "10-15 Tricks"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Eine gut komponierte Fahrt sollte etwa 7-10 verschiedene, gut ausgeführte Tricks enthalten, um eine hohe Composition-Wertung zu erhalten.",
@@ -857,10 +857,10 @@
         "id": "q39",
         "text": "Was ist ein 'Heelside' Approach?",
         "options": [
-          "Annäherung auf den Fersen",
+          "Eine ähnliche Alternative",
           "Annäherung mit der Heelside-Kante nach vorne",
-          "Ein Trick mit den Fersen",
-          "Eine spezielle Landetechnik"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Heelside Approach bedeutet, dass der Rider mit der Heelside-Kante (Fersenseite) des Boards zur Wake fährt.",
@@ -879,10 +879,10 @@
         "id": "q40",
         "text": "Können Athleten während einer Fahrt pausieren?",
         "options": [
-          "Ja, beliebig oft",
-          "Ja, aber nur einmal für 30 Sekunden",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Nein, die Fahrt muss kontinuierlich sein",
-          "Nur bei technischen Problemen"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Eine Fahrt muss kontinuierlich sein. Pausen sind nicht erlaubt, außer bei technischen Problemen, die zu einem Neustart führen können.",
@@ -901,10 +901,10 @@
         "id": "q41",
         "text": "Was ist ein 'HS/TS' Trick?",
         "options": [
-          "High Speed / Top Speed",
+          "Eine ähnliche Alternative",
           "Heelside / Toeside Kombination",
-          "Half Spin / Total Spin",
-          "Hand Stand / Toe Stand"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "HS/TS bezeichnet eine Kombination von Heelside und Toeside Tricks, was Vielseitigkeit in der Fahrt demonstriert.",
@@ -923,10 +923,10 @@
         "id": "q42",
         "text": "Was passiert bei einem technischen Defekt während der Fahrt?",
         "options": [
-          "Die Fahrt wird nicht gewertet",
+          "Eine ähnliche Alternative",
           "Der Athlet bekommt einen Re-Ride (Wiederholung)",
-          "Die Fahrt wird bis zum Defekt gewertet",
-          "Der Athlet wird disqualifiziert"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei einem technischen Defekt (Boot, Seil, etc.), der nicht vom Athleten verschuldet ist, erhält dieser einen Re-Ride.",
@@ -945,10 +945,10 @@
         "id": "q43",
         "text": "Was ist ein 'Method' Grab?",
         "options": [
-          "Eine spezielle Technik",
+          "Eine ähnliche Alternative",
           "Ein Grab der Heelside mit gleichzeitigem Arch des Körpers",
-          "Ein Grab mit beiden Händen",
-          "Ein Grab der Nose"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Method ist ein stylischer Grab der Heelside-Kante mit gleichzeitigem Bogen (Arch) des Körpers, inspiriert vom Snowboarding.",
@@ -967,9 +967,9 @@
         "id": "q44",
         "text": "Wie werden Punktegleichstände aufgelöst?",
         "options": [
-          "Durch eine zusätzliche Fahrt",
-          "Der Athlet mit der höheren Execution-Wertung gewinnt",
-          "Der Athlet mit der höheren Intensity-Wertung gewinnt",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren",
           "Die höchste zweite Wertung entscheidet"
         ],
         "correctIndex": 3,
@@ -989,10 +989,10 @@
         "id": "q45",
         "text": "Was ist ein 'HS Backroll'?",
         "options": [
-          "Ein schneller Backroll",
+          "Eine ähnliche Alternative",
           "Ein Backroll vom Heelside Approach",
-          "Ein halber Backroll",
-          "Ein Backroll mit High Speed"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein HS Backroll ist ein Backroll, der von einem Heelside Approach ausgeführt wird, was eine andere Technik erfordert.",
@@ -1011,10 +1011,10 @@
         "id": "q46",
         "text": "Müssen alle Tricks über die Wake ausgeführt werden?",
         "options": [
-          "Ja, alle Tricks müssen über die Wake gehen",
+          "Eine ähnliche Alternative",
           "Nein, auch Tricks auf dem Flachs werden gewertet",
-          "Nur im Finale müssen alle über die Wake gehen",
-          "Mindestens 80% müssen über die Wake sein"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Tricks können sowohl über die Wake als auch auf dem flachen Wasser (Flachs) ausgeführt werden und werden beide gewertet, wobei Wake-Tricks meist höher bewertet werden.",
@@ -1033,10 +1033,10 @@
         "id": "q47",
         "text": "Was ist ein 'Pete Rose'?",
         "options": [
-          "Ein Baseball-inspirierter Trick",
+          "Eine ähnliche Alternative",
           "Ein Frontroll mit 360-Grad-Drehung",
-          "Ein spezieller Grab",
-          "Ein Trick benannt nach einem Athleten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Pete Rose ist ein Frontroll kombiniert mit einer 360-Grad-Drehung, ähnlich einem Scarecrow aber mit voller Rotation.",
@@ -1055,10 +1055,10 @@
         "id": "q48",
         "text": "Wie lange haben Richter Zeit, um ihre Wertung abzugeben?",
         "options": [
-          "30 Sekunden nach Fahrtende",
+          "Eine ähnliche Alternative",
           "1 Minute nach Fahrtende",
-          "2 Minuten nach Fahrtende",
-          "Sofort nach Fahrtende"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Richter haben üblicherweise 1 Minute nach Fahrtende Zeit, um ihre Wertungen einzugeben und zu bestätigen.",
@@ -1077,10 +1077,10 @@
         "id": "q49",
         "text": "Was ist ein 'Nose Grab'?",
         "options": [
-          "Greifen der Nase des Boards",
+          "Eine ähnliche Alternative",
           "Greifen des vorderen Teils des Boards",
-          "Greifen mit der Nase",
-          "Ein Trick ohne Greifen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Nose Grab ist das Greifen des vorderen (Nose) Teils des Boards während eines Tricks.",
@@ -1100,9 +1100,9 @@
         "text": "Können Athleten ihr eigenes Board verwenden?",
         "options": [
           "Ja, jeder kann sein eigenes Board nutzen",
-          "Nein, alle müssen das gleiche Modell verwenden",
-          "Nur gesponserte Boards sind erlaubt",
-          "Nur mit Genehmigung des Veranstalters"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Athleten können ihr eigenes Board verwenden, solange es den Sicherheitsstandards entspricht und keine unerlaubten Modifikationen hat.",
@@ -1122,9 +1122,9 @@
         "text": "Was ist ein 'Tail Grab'?",
         "options": [
           "Greifen des hinteren Teils (Tail) des Boards",
-          "Greifen mit dem Schwanz",
-          "Ein Trick auf dem Tail",
-          "Greifen der Finne"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Tail Grab ist das Greifen des hinteren (Tail) Teils des Boards während eines Tricks, meist mit der hinteren Hand.",
@@ -1143,10 +1143,10 @@
         "id": "q52",
         "text": "Was ist ein 'Double' im Wakeboarding?",
         "options": [
-          "Zwei Athleten auf einem Board",
-          "Ein Trick mit doppelter Drehung (720°)",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Ein Trick mit zwei Flips",
-          "Zwei Grabs gleichzeitig"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Double bezeichnet einen Trick mit zwei Flips/Rotationen (z.B. Double Backroll = zwei Backrolls in einem Sprung).",
@@ -1165,10 +1165,10 @@
         "id": "q53",
         "text": "Wie wird ein 'unvollständiger' Trick bewertet?",
         "options": [
-          "Er bekommt volle Punkte",
-          "Er bekommt Teilpunkte",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Er wird nicht gewertet",
-          "Er führt zu Punktabzug"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein nicht vollständig ausgeführter Trick (z.B. nicht volle Rotation oder schlechte Landung) wird nicht gewertet und beeinflusst die Gesamtwertung negativ.",
@@ -1187,10 +1187,10 @@
         "id": "q54",
         "text": "Was ist ein 'Backside' Approach?",
         "options": [
-          "Annäherung von hinten",
+          "Eine ähnliche Alternative",
           "Annäherung mit dem Rücken zur Wake",
-          "Annäherung im Rückwärtsgang",
-          "Annäherung von der Backside-Seite"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Backside Approach bedeutet, dass der Rider mit dem Rücken zur Wake fährt, also in einer Switch- oder Fakie-Position.",
@@ -1209,10 +1209,10 @@
         "id": "q55",
         "text": "Können Videoaufnahmen für Protest-Entscheidungen verwendet werden?",
         "options": [
-          "Ja, immer",
+          "Eine ähnliche Alternative",
           "Ja, aber nur auf Anfrage des Head Judges",
-          "Nein, nur Live-Entscheidungen zählen",
-          "Nur bei nationalen Meisterschaften"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Videoaufnahmen können auf Anfrage des Head Judges zur Überprüfung von Protest-Entscheidungen verwendet werden.",
@@ -1231,10 +1231,10 @@
         "id": "q56",
         "text": "Was ist ein 'Krypt'?",
         "options": [
-          "Ein geheimer Trick",
+          "Eine ähnliche Alternative",
           "Ein Backroll mit 360-Grad-Drehung und Grab",
-          "Ein verschlüsselter Trick",
-          "Ein Trick im Dunkeln"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Krypt ist ein fortgeschrittener Trick: ein Backroll kombiniert mit einer 360-Grad-Drehung und einem Grab.",
@@ -1253,9 +1253,9 @@
         "id": "q57",
         "text": "Wie viele Ersatzfahrer darf ein Team haben?",
         "options": [
-          "Keine",
-          "1 Ersatzfahrer",
-          "2 Ersatzfahrer",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren",
           "Unbegrenzt"
         ],
         "correctIndex": 3,
@@ -1275,10 +1275,10 @@
         "id": "q58",
         "text": "Was ist ein 'Butter Slide'?",
         "options": [
-          "Ein Trick auf Butter",
-          "Ein smooth Trick über die Wake",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Ein Slide auf der Oberfläche des Wassers",
-          "Ein gleitender Rail-Trick"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Butter Slide ist ein smooth Slide-Trick auf der Wasseroberfläche, ähnlich einem Jib im Snowboarding.",
@@ -1297,10 +1297,10 @@
         "id": "q59",
         "text": "Dürfen Coaches während der Fahrt mit dem Athleten kommunizieren?",
         "options": [
-          "Ja, über Funk",
-          "Ja, durch Handzeichen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Nein, keine Kommunikation erlaubt",
-          "Nur in Notfällen"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Während der Fahrt ist keine Kommunikation zwischen Coach und Athlet erlaubt. Der Athlet muss unabhängig agieren.",
@@ -1319,10 +1319,10 @@
         "id": "q60",
         "text": "Was ist ein 'Speedball'?",
         "options": [
-          "Ein sehr schneller Trick",
+          "Eine ähnliche Alternative",
           "Ein Backroll mit 720-Grad-Drehung",
-          "Ein Trick mit hoher Geschwindigkeit",
-          "Ein doppelter Mobe"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Speedball ist ein extrem fortgeschrittener Trick: ein Backroll mit einer kompletten 720-Grad-Drehung (zwei volle Umdrehungen).",
@@ -1341,10 +1341,10 @@
         "id": "q61",
         "text": "Wie viele Minuten vor dem Start muss ein Athlet bereit sein?",
         "options": [
-          "2 Minuten",
+          "Eine ähnliche Alternative",
           "5 Minuten",
-          "10 Minuten",
-          "15 Minuten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Athlet muss mindestens 5 Minuten vor seinem geplanten Start bereit sein, sonst kann er disqualifiziert werden.",
@@ -1363,10 +1363,10 @@
         "id": "q62",
         "text": "Was ist ein 'TS Backroll'?",
         "options": [
-          "Ein schneller Backroll",
+          "Eine ähnliche Alternative",
           "Ein Backroll vom Toeside Approach",
-          "Ein halber Backroll",
-          "Ein Backroll mit Two Spins"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein TS Backroll ist ein Backroll, der von einem Toeside Approach ausgeführt wird, was eine andere Technik und Körperhaltung erfordert.",
@@ -1385,10 +1385,10 @@
         "id": "q63",
         "text": "Können Athleten während des Wettkampfs ihr Helm tragen?",
         "options": [
-          "Ja, Helme sind Pflicht",
+          "Eine ähnliche Sporttechnik",
           "Ja, aber nur freiwillig",
-          "Nein, Helme sind verboten",
-          "Nur bei Junioren"
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das Tragen eines Helms ist freiwillig aber empfohlen. Es gibt keine Helmpflicht bei Wakeboard-Wettkämpfen.",
@@ -1407,10 +1407,10 @@
         "id": "q64",
         "text": "Was ist ein 'HS Frontroll'?",
         "options": [
-          "Ein schneller Frontroll",
+          "Eine ähnliche Alternative",
           "Ein Frontroll vom Heelside Approach",
-          "Ein halber Frontroll",
-          "Ein Frontroll mit High Speed"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein HS Frontroll ist ein Frontroll, der von einem Heelside Approach ausgeführt wird.",
@@ -1429,10 +1429,10 @@
         "id": "q65",
         "text": "Wie wird eine perfekte Landung definiert?",
         "options": [
-          "Beide Füße auf dem Board",
+          "Eine ähnliche Alternative",
           "Vollständige Kontrolle ohne Wackeln oder Spritzen",
-          "Landung mit geradem Board",
-          "Weiterfahren ohne zu fallen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine perfekte Landung wird definiert durch vollständige Kontrolle, minimales Spritzen, stabiles Board und flüssiges Weiterfahren.",
@@ -1451,10 +1451,10 @@
         "id": "q66",
         "text": "Was ist ein 'Melon Grab'?",
         "options": [
-          "Ein Grab mit beiden Händen",
+          "Eine ähnliche Alternative",
           "Greifen der Heelside-Kante mit der vorderen Hand",
-          "Ein Grab der Melone",
-          "Ein Grab während eines Spins"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Melon Grab ist das Greifen der Heelside-Kante zwischen den Füßen mit der vorderen Hand.",
@@ -1473,10 +1473,10 @@
         "id": "q67",
         "text": "Kann ein Protest nach Veröffentlichung der Ergebnisse eingereicht werden?",
         "options": [
-          "Ja, bis zu 24 Stunden später",
+          "Eine ähnliche Alternative",
           "Ja, innerhalb von 15 Minuten",
-          "Nein, nur während des Wettkampfs",
-          "Ja, bis zum Ende des Events"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Proteste müssen innerhalb von 15 Minuten nach Veröffentlichung der betreffenden Wertung eingereicht werden.",
@@ -1495,10 +1495,10 @@
         "id": "q68",
         "text": "Was ist ein 'Wrapped' Trick?",
         "options": [
-          "Ein eingewickelter Trick",
+          "Eine ähnliche Alternative",
           "Ein Trick mit Seil-Wrap um den Körper",
-          "Ein komplizierter Trick",
-          "Ein Trick mit Geschenken"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Wrapped Trick ist ein Trick, bei dem das Seil während der Ausführung um einen Teil des Körpers gewickelt wird.",
@@ -1517,9 +1517,9 @@
         "id": "q69",
         "text": "Welche Altersklassen gibt es beim Wakeboard?",
         "options": [
-          "Nur Open (alle Altersgruppen zusammen)",
-          "Junior (unter 18) und Open (18+)",
-          "Junior, Open, Master (40+)",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren",
           "Verschiedene Kategorien nach Jahren"
         ],
         "correctIndex": 3,
@@ -1539,10 +1539,10 @@
         "id": "q70",
         "text": "Was ist ein 'Nuclear' Grab?",
         "options": [
-          "Ein explosiver Grab",
+          "Eine ähnliche Alternative",
           "Ein Grab mit beiden Händen am Tail",
-          "Ein sehr schwieriger Grab",
-          "Ein radioaktiver Grab"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Nuclear Grab ist ein stylischer Grab, bei dem beide Hände das Tail des Boards greifen, während die Knie gebeugt sind.",
@@ -1561,10 +1561,10 @@
         "id": "q71",
         "text": "Wer entscheidet bei Uneinigkeit der Richter?",
         "options": [
-          "Der älteste Richter",
+          "Eine ähnliche Alternative",
           "Der Head Judge",
-          "Abstimmung aller Richter",
-          "Der Athlet"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei Uneinigkeit der Richter hat der Head Judge die finale Entscheidungskraft.",
@@ -1583,10 +1583,10 @@
         "id": "q72",
         "text": "Was ist ein 'Half Cab'?",
         "options": [
-          "Ein halbes Taxi",
+          "Eine ähnliche Alternative",
           "Ein Switch Frontside 180",
-          "Eine halbe Kabine",
-          "Ein 90-Grad-Spin"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Half Cab ist ein Switch Frontside 180, benannt nach dem legendären Skateboarder Steve Caballero.",
@@ -1605,10 +1605,10 @@
         "id": "q73",
         "text": "Müssen Finnen am Board befestigt sein?",
         "options": [
-          "Ja, immer",
+          "Eine ähnliche Alternative",
           "Nein, Finnen sind optional",
-          "Nur bei Anfängern",
-          "Nur bei Wettkämpfen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Finnen sind optional. Viele fortgeschrittene Fahrer verzichten auf Finnen für mehr Freiheit bei Tricks.",
@@ -1627,10 +1627,10 @@
         "id": "q74",
         "text": "Was ist ein 'Stalefish' Grab?",
         "options": [
-          "Ein Grab von altem Fisch",
+          "Eine ähnliche Alternative",
           "Greifen der Heelside-Kante mit der hinteren Hand zwischen den Beinen",
-          "Ein Grab während eines alten Tricks",
-          "Ein langsamer Grab"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Stalefish ist das Greifen der Heelside-Kante mit der hinteren Hand, wobei die Hand zwischen die Beine geführt wird.",
@@ -1649,9 +1649,9 @@
         "id": "q75",
         "text": "Welche Windstärke ist maximal für einen Wettkampf erlaubt?",
         "options": [
-          "20 km/h",
-          "30 km/h",
-          "40 km/h",
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren",
           "Es gibt keine Windgrenze, nur Empfehlungen"
         ],
         "correctIndex": 3,
@@ -1672,9 +1672,9 @@
         "text": "Was ist ein 'Roll to Revert'?",
         "options": [
           "Ein Backroll mit 270-Grad-Drehung",
-          "Ein Frontroll mit 180-Grad-Drehung",
-          "Ein Backroll mit 180-Grad-Drehung",
-          "Eine Umkehrung der Fahrtrichtung"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Roll to Revert ist ein Backroll mit 270-Grad-Drehung, sodass der Rider in Switch-Position landet.",
@@ -1693,10 +1693,10 @@
         "id": "q77",
         "text": "Gibt es eine Mindestanzahl an Tricks pro Fahrt?",
         "options": [
-          "Ja, mindestens 5 Tricks",
-          "Ja, mindestens 10 Tricks",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Nein, aber zu wenige Tricks beeinflussen die Wertung",
-          "Ja, mindestens 3 Tricks"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Es gibt keine Mindestanzahl, aber zu wenige Tricks führen zu einer niedrigen Composition-Wertung und beeinflussen das Gesamtergebnis negativ.",
@@ -1715,10 +1715,10 @@
         "id": "q78",
         "text": "Was ist ein 'Shuv-it'?",
         "options": [
-          "Ein Trick auf Schnee",
+          "Eine ähnliche Alternative",
           "Eine 180-Grad-Drehung des Boards ohne Körperrotation",
-          "Ein Push-Trick",
-          "Ein schneller Spin"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Shuv-it ist eine 180-Grad-Drehung des Boards unter den Füßen, während der Körper minimal rotiert - ein stylischer Surface-Trick.",
@@ -1737,10 +1737,10 @@
         "id": "q79",
         "text": "Kann ein Athlet die Startposition wählen?",
         "options": [
-          "Ja, frei wählbar",
-          "Ja, aber nur zwischen zwei Optionen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Nein, wird zugelost",
-          "Nein, nach Ranking"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Startposition wird ausgelost oder nach Ranking festgelegt, Athleten können sie nicht frei wählen.",
@@ -1759,10 +1759,10 @@
         "id": "q80",
         "text": "Was ist ein 'Air Raley'?",
         "options": [
-          "Ein hoher Sprung",
+          "Ein verwandter KI-Algorithmus",
           "Ein Raley mit mehr Höhe und Extension",
-          "Ein Raley in der Luft",
-          "Ein Raley mit Grab"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Air Raley ist eine Variation des Raley mit mehr Höhe, Extension und stylischerer Ausführung.",
@@ -1781,10 +1781,10 @@
         "id": "q81",
         "text": "Sind Drohnen zur Aufnahme während des Wettkampfs erlaubt?",
         "options": [
-          "Ja, immer",
+          "Eine ähnliche Sporttechnik",
           "Ja, mit Genehmigung",
-          "Nein, nie",
-          "Nur vom Veranstalter"
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Drohnen sind nur mit ausdrücklicher Genehmigung des Veranstalters und unter Einhaltung von Sicherheitsabständen erlaubt.",
@@ -1803,10 +1803,10 @@
         "id": "q82",
         "text": "Was ist ein 'Heart Attack'?",
         "options": [
-          "Ein medizinischer Notfall",
+          "Eine ähnliche Alternative",
           "Ein Raley mit Backroll-Rotation",
-          "Ein sehr schwieriger Trick",
-          "Ein Trick mit Herzform"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Heart Attack ist ein fortgeschrittener Trick, bei dem ein Raley mit einer Backroll-Rotation kombiniert wird.",
@@ -1825,10 +1825,10 @@
         "id": "q83",
         "text": "Wie wird die finale Platzierung bei mehreren Fahrten im Finale ermittelt?",
         "options": [
-          "Durchschnitt aller Fahrten",
-          "Summe aller Fahrten",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Beste Fahrt zählt",
-          "Letzte Fahrt zählt"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Im Finale zählt die beste Fahrt eines Athleten für die finale Platzierung.",
@@ -1847,10 +1847,10 @@
         "id": "q84",
         "text": "Was ist ein 'Slim Chance'?",
         "options": [
-          "Eine geringe Chance",
+          "Eine ähnliche Alternative",
           "Ein Backroll to Blind mit Grab",
-          "Ein sehr schwieriger Trick",
-          "Ein schmaler Trick"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Slim Chance ist ein stylischer Trick: ein Backroll to Blind kombiniert mit einem Grab während der Rotation.",
@@ -1869,10 +1869,10 @@
         "id": "q85",
         "text": "Gibt es Punkte für Style und Kreativität?",
         "options": [
-          "Ja, als separates Kriterium",
+          "Eine ähnliche Alternative",
           "Ja, einbezogen in Composition und Execution",
-          "Nein, nur technische Ausführung zählt",
-          "Nur bei bestimmten Events"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Style und Kreativität werden in den Kriterien Composition und Execution berücksichtigt, sind aber keine separaten Bewertungskategorien.",
@@ -1891,10 +1891,10 @@
         "id": "q86",
         "text": "Was ist ein 'Hoochie Glide'?",
         "options": [
-          "Ein gleitender Trick",
+          "Eine ähnliche Alternative",
           "Ein Frontroll mit 360-Grad-Drehung und Grab",
-          "Ein Surface-Slide",
-          "Ein langsamer Trick"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Hoochie Glide ist ein fortgeschrittener Trick: ein Frontroll kombiniert mit einer 360-Grad-Drehung und einem Grab.",
@@ -1913,10 +1913,10 @@
         "id": "q87",
         "text": "Können Athleten ihre Musik selbst auswählen bei Events mit Musikbegleitung?",
         "options": [
-          "Ja, immer",
+          "Eine ähnliche Alternative",
           "Ja, aber sie muss genehmigt werden",
-          "Nein, der Veranstalter wählt",
-          "Nur im Finale"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Athleten können ihre Musik auswählen, aber sie muss vorab beim Veranstalter eingereicht und genehmigt werden (keine unangemessenen Inhalte).",
@@ -1935,10 +1935,10 @@
         "id": "q88",
         "text": "Was ist ein 'Tootsie Roll'?",
         "options": [
-          "Ein Süßigkeiten-Trick",
+          "Eine ähnliche Alternative",
           "Ein Backroll mit Handle Pass",
-          "Ein Roll-Trick",
-          "Ein gedrehter Grab"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Tootsie Roll ist ein Backroll, bei dem das Handle während der Rotation hinter dem Rücken übergeben wird.",
@@ -1957,9 +1957,9 @@
         "id": "q89",
         "text": "Wie viele offizielle Trainingsfahrten gibt es vor dem Wettkampf?",
         "options": [
-          "Keine",
-          "1 Trainingsfahrt",
-          "2 Trainingsfahrten",
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren",
           "Unbegrenzt während der Trainingszeit"
         ],
         "correctIndex": 3,
@@ -1979,10 +1979,10 @@
         "id": "q90",
         "text": "Was ist ein 'Elephant'?",
         "options": [
-          "Ein großer Trick",
+          "Eine ähnliche Alternative",
           "Ein Backroll to Blind mit Nose Grab",
-          "Ein Trick mit Rüssel",
-          "Ein schwerer Trick"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Elephant ist ein stylischer Trick: ein Backroll to Blind kombiniert mit einem Nose Grab während der Rotation.",
@@ -2001,10 +2001,10 @@
         "id": "q91",
         "text": "Werden negative Punkte für Stürze vergeben?",
         "options": [
-          "Ja, -10 Punkte pro Sturz",
-          "Ja, -5 Punkte pro Sturz",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Nein, aber die Fahrt endet",
-          "Nur bei mehreren Stürzen"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Es gibt keine negativen Punkte für Stürze, aber die Fahrt endet und nur erfolgreich ausgeführte Tricks vor dem Sturz werden gewertet.",
@@ -2023,10 +2023,10 @@
         "id": "q92",
         "text": "Was ist ein 'Vulcan'?",
         "options": [
-          "Ein Star Trek Trick",
+          "Eine ähnliche Alternative",
           "Ein Tantrum to Blind",
-          "Ein heißer Trick",
-          "Ein Griff-Trick"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Vulcan ist ein Tantrum (Backflip vorwärts) kombiniert mit einer 180-Grad-Drehung zu einem Blind Landing.",
@@ -2045,10 +2045,10 @@
         "id": "q93",
         "text": "Gibt es unterschiedliche Wertungsskalen für Männer und Frauen?",
         "options": [
-          "Ja, Frauen haben niedrigere Standards",
-          "Ja, Männer haben höhere Standards",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Nein, die Wertung ist identisch",
-          "Nur bei bestimmten Tricks"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Wertungsskala und -kriterien sind für alle Geschlechter identisch. Jeder Trick wird nach denselben Standards bewertet.",
@@ -2067,10 +2067,10 @@
         "id": "q94",
         "text": "Was ist ein 'Fruit Loop'?",
         "options": [
-          "Ein bunter Trick",
+          "Eine ähnliche Alternative",
           "Ein Backroll mit Handle Pass und Blind Landing",
-          "Ein Frühstücks-Trick",
-          "Ein Loop-Trick"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Fruit Loop ist ein fortgeschrittener Trick: ein Backroll mit Handle Pass hinter dem Rücken und Blind Landing.",
@@ -2089,10 +2089,10 @@
         "id": "q95",
         "text": "Müssen alle Tricks unterschiedliche Namen haben?",
         "options": [
-          "Ja, jeder Trick braucht einen einzigartigen Namen",
+          "Eine ähnliche Alternative",
           "Nein, es geht um die tatsächliche Ausführung",
-          "Nur bei neuen Tricks",
-          "Nur bei Wettkämpfen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Namen sind für Kommunikation wichtig, aber gewertet wird die tatsächliche Ausführung. Verschiedene Variationen können ähnliche Namen haben.",
@@ -2111,10 +2111,10 @@
         "id": "q96",
         "text": "Was ist ein 'Dum Dum'?",
         "options": [
-          "Ein einfacher Trick",
+          "Eine ähnliche Alternative",
           "Ein Tantrum to Blind mit Grab",
-          "Ein dummer Trick",
-          "Ein doppelter Trick"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Dum Dum ist ein stylischer Trick: ein Tantrum to Blind kombiniert mit einem Grab während der Rotation.",
@@ -2133,9 +2133,9 @@
         "id": "q97",
         "text": "Können Richter ihre Wertung nach Abgabe ändern?",
         "options": [
-          "Ja, jederzeit",
-          "Ja, innerhalb von 1 Minute",
-          "Nein, Wertungen sind final",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren",
           "Nur bei offensichtlichen Fehlern"
         ],
         "correctIndex": 3,
@@ -2155,10 +2155,10 @@
         "id": "q98",
         "text": "Was ist ein 'Blind Judge'?",
         "options": [
-          "Ein blinder Richter",
+          "Eine ähnliche Alternative",
           "Ein Richter, der die vorherigen Wertungen nicht sieht",
-          "Ein unparteiischer Richter",
-          "Ein Richter für Blind Landings"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Blind Judge ist ein Richter, der die Wertungen der anderen Richter nicht sieht, um unabhängige Bewertungen sicherzustellen.",
@@ -2177,10 +2177,10 @@
         "id": "q99",
         "text": "Was ist ein 'Roast Beef' Grab?",
         "options": [
-          "Ein Fleisch-Grab",
+          "Eine ähnliche Alternative",
           "Greifen der Heelside mit hinteren Hand hinter dem hinteren Bein",
-          "Ein warmer Grab",
-          "Ein deftiger Grab"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Roast Beef ist ein stylischer Grab: Greifen der Heelside-Kante mit der hinteren Hand, die hinter dem hinteren Bein durchgeführt wird.",
@@ -2199,10 +2199,10 @@
         "id": "q100",
         "text": "Gibt es Bonuspunkte für besonders schwierige Tricks?",
         "options": [
-          "Ja, bis zu 20 Bonuspunkte",
-          "Ja, bis zu 10 Bonuspunkte",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Nein, aber sie erhöhen die Intensity-Wertung",
-          "Nur bei Weltmeisterschaften"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Es gibt keine separaten Bonuspunkte, aber schwierige Tricks erhöhen die Intensity-Wertung signifikant und tragen so zur Gesamtpunktzahl bei.",

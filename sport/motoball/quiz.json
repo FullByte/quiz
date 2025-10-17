@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Wie viele Feldspieler und Torwarte umfasst eine Motoball-Mannschaft zu Spielbeginn?",
         "options": [
-          "5 Feldspieler und 1 Torwart",
+          "Eine ähnliche Alternative",
           "4 Feldspieler und 1 Torwart",
-          "6 Feldspieler und 1 Torwart",
-          "4 Feldspieler ohne Torwart"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Motoball-Mannschaft besteht zu Spielbeginn aus 4 Feldspielern und 1 Torwart. Andere Konstellationen sind unzulässig und führen zum Spielabbruch.",
@@ -47,10 +47,10 @@
         "id": "q2",
         "text": "Welche Spielflächen sind für Motoball-Spiele zugelassen?",
         "options": [
-          "Nur Rasenplätze",
-          "Nur Hartplätze",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Hart-, Rasen-, Asphalt-, Beton- oder Tartanplätze mit Sandauflage",
-          "Nur Kunstrasenplätze"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Motoball darf auf Hart-, Rasen-, Asphalt-, Beton- oder Tartanplätzen mit gleichmäßiger Sandauflage gespielt werden. Kunstrasen ist nicht zugelassen.",
@@ -69,10 +69,10 @@
         "id": "q3",
         "text": "Wie groß ist der Mittelkreis eines Motoball-Spielfeldes?",
         "options": [
-          "5,00 m Radius",
+          "Eine ähnliche Alternative",
           "9,15 m Radius",
-          "7,32 m Radius",
-          "11,00 m Radius"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Mittelkreis im Motoball hat einen Radius von 9,15 m. Die Werte 7,32 m und 11,00 m beziehen sich auf andere Spielfeldmaße.",
@@ -91,10 +91,10 @@
         "id": "q4",
         "text": "Welche Ballgrößen sind im Motoball erlaubt?",
         "options": [
-          "Umfang 110–120 cm, Gewicht 800–1000 g",
+          "Eine ähnliche Alternative",
           "Umfang 119–126 cm, Gewicht 900–1200 g",
-          "Umfang 100–110 cm, Gewicht 850–950 g",
-          "Umfang 120–128 cm, Gewicht 950–1150 g"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Ball muss einen Umfang von 119–126 cm und ein Gewicht von 900–1200 g haben. Abweichungen sind nicht zulässig.",
@@ -113,10 +113,10 @@
         "id": "q5",
         "text": "Wie lange dauert ein Motoball-Spiel bei den Senioren?",
         "options": [
-          "2 Halbzeiten à 30 Minuten",
-          "4 Viertel à 15 Minuten",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "4 Viertel à 20 Minuten",
-          "2 Halbzeiten à 25 Minuten"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Senioren-Motoball-Spiel dauert 4 Viertel zu je 20 Minuten, getrennt durch Pausen von 10 Minuten.",
@@ -135,10 +135,10 @@
         "id": "q6",
         "text": "Welche Mindest- und Höchstmaße gelten für die Spielfeldlänge im Motoball?",
         "options": [
-          "80–100 m",
+          "Eine ähnliche Alternative",
           "85–110 m",
-          "90–120 m",
-          "75–105 m"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Spielfeldlänge im Motoball muss zwischen 85 und 110 m liegen. Abweichungen sind nur mit ausdrücklicher Zulassung des VM erlaubt.",
@@ -157,10 +157,10 @@
         "id": "q7",
         "text": "Wie hoch ist die Querlatte eines Motoball-Tores über dem Boden angebracht?",
         "options": [
-          "2,00 m",
+          "Eine ähnliche Alternative",
           "2,44 m",
-          "2,20 m",
-          "2,50 m"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Unterkante der Querlatte ist 2,44 m über dem Boden. Andere Angaben sind unzutreffend.",
@@ -179,10 +179,10 @@
         "id": "q8",
         "text": "Welche Kartenarten stehen dem Schiedsrichter im Motoball zur Verfügung?",
         "options": [
-          "Gelb, Rot, Blau",
+          "Eine ähnliche Alternative",
           "Grün, Gelb, Gelb-Rot, Rot",
-          "Weiß, Gelb, Rot",
-          "Grün, Blau, Rot"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Schiedsrichter kann grüne, gelbe, gelb-rote und rote Karten vergeben. Blau oder Weiß sind nicht vorgesehen.",
@@ -201,10 +201,10 @@
         "id": "q9",
         "text": "Wie lange darf eine Auszeit (Timeout) im Motoball dauern?",
         "options": [
-          "1 Minute",
+          "Eine ähnliche Alternative",
           "2 Minuten",
-          "3 Minuten",
-          "5 Minuten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Jede Mannschaft darf einmalig pro Spiel eine Auszeit von 2 Minuten nehmen. Längere oder kürzere Zeiten sind nicht zulässig.",
@@ -223,10 +223,10 @@
         "id": "q10",
         "text": "Wie weit entfernt von der Torlinie befindet sich die Strafstoßmarke im Motoball?",
         "options": [
-          "Eine Lösung für 9 m",
-          "Eine Lösung für 10 m",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Eine Lösung für 11 m",
-          "Eine Lösung für 12 m"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Strafstoßmarke ist 11 m von der Mitte der Torlinie entfernt. Dies entspricht auch internationalen Standards.",
@@ -245,10 +245,10 @@
         "id": "q11",
         "text": "Welche Mindestbreite muss ein Motoball-Spielfeld haben?",
         "options": [
-          "Eine Lösung für 40 m",
+          "Eine ähnliche Alternative",
           "Eine Lösung für 45 m",
-          "Eine Lösung für 50 m",
-          "Eine Lösung für 55 m"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Breite eines Motoball-Spielfelds muss mindestens 45 m betragen. Kleinere Breiten sind nicht zulässig.",
@@ -267,10 +267,10 @@
         "id": "q12",
         "text": "Welchen Radius hat der Torraum im Motoball?",
         "options": [
-          "4,00 m",
+          "Eine ähnliche Alternative",
           "5,75 m",
-          "6,00 m",
-          "7,00 m"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Torraum wird durch einen Halbkreis mit 5,75 m Radius markiert. Andere Maße sind nicht zulässig.",
@@ -289,10 +289,10 @@
         "id": "q13",
         "text": "Wie viele Spieler darf eine Mannschaft maximal für ein Spiel benennen?",
         "options": [
-          "8 Spieler, 7 Motorräder",
-          "9 Spieler, 8 Motorräder",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "10 Spieler, 9 Motorräder",
-          "11 Spieler, 10 Motorräder"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Eine Mannschaft darf bis zu 10 Spieler und 9 Motorräder für ein Spiel benennen. Diese müssen im Spielbericht aufgeführt sein.",
@@ -312,9 +312,9 @@
         "text": "Welche Schutzkleidung ist für Feldspieler im Motoball vorgeschrieben?",
         "options": [
           "Helm, knöchelhohe Schuhe, Schienbeinschutz, Handschuhe",
-          "Nur Helm und Handschuhe",
-          "Helm, Trikot und Knieschoner",
-          "Helm und Lederkombi"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Spieler müssen einen Helm nach DMSB-Bestimmungen, knöchelhohe Schuhe, stabilen Schienbeinschutz und Handschuhe aus schwer entflammbarem Material tragen.",
@@ -333,10 +333,10 @@
         "id": "q15",
         "text": "Wie viele Schiedsrichter leiten regulär ein Motoballspiel?",
         "options": [
-          "Einer",
+          "Eine ähnliche Alternative",
           "Eine Lösung für zwei",
-          "Eine Lösung für drei",
-          "Eine Lösung für vier"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Motoballspiel wird regulär von zwei lizenzierten Schiedsrichtern geleitet, je einer auf jeder Platzseite.",
@@ -356,9 +356,9 @@
         "text": "Welche Strafe zieht eine grüne Karte im Motoball nach sich?",
         "options": [
           "2 Minuten Zeitstrafe",
-          "5 Minuten Zeitstrafe",
-          "Sofortiger Spielausschluss",
-          "Gelb-Rote Karte nach Wiederholung"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die grüne Karte bedeutet eine Zeitstrafe von maximal 2 Minuten, die bis zu zweimal verhängt werden kann.",
@@ -377,10 +377,10 @@
         "id": "q17",
         "text": "Wie weit müssen Gegenspieler bei der Ausführung eines Freistoßes vom Ball entfernt sein?",
         "options": [
-          "Eine Lösung für 5 m",
-          "7,5 m",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "9,15 m",
-          "Eine Lösung für 10 m"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Bei der Ausführung eines Freistoßes müssen alle Gegenspieler mindestens 9,15 m vom Ball entfernt sein.",
@@ -399,10 +399,10 @@
         "id": "q18",
         "text": "Was passiert, wenn ein Spieler im eigenen Strafraum ein grobes Foul begeht?",
         "options": [
-          "Indirekter Freistoß für den Gegner",
+          "Eine ähnliche Alternative",
           "Elfmeter für den Gegner",
-          "Eckball für den Gegner",
-          "Anstoß vom Mittelpunkt"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein grobes Foul im eigenen Strafraum führt zu einem Elfmeter für die gegnerische Mannschaft.",
@@ -421,10 +421,10 @@
         "id": "q19",
         "text": "Wann gilt ein Tor im Motoball als erzielt?",
         "options": [
-          "Wenn der Ball die Torlinie teilweise überquert",
+          "Eine ähnliche Alternative",
           "Wenn der Ball die Torlinie mit vollem Durchmesser zwischen den Pfosten und unterhalb der Latte überquert",
-          "Wenn der Ball den Torwart berührt",
-          "Wenn der Ball ins Netz geht, egal wie"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Tor zählt nur, wenn der Ball die Torlinie mit vollem Durchmesser zwischen Pfosten und unter der Querlatte überschreitet.",
@@ -443,10 +443,10 @@
         "id": "q20",
         "text": "Wie weit müssen Spieler bei einem Eckball mindestens vom Ball entfernt sein?",
         "options": [
-          "Eine Lösung für 5 m",
-          "7,5 m",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "9,15 m",
-          "Eine Lösung für 10 m"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Bei einem Eckball müssen alle Spieler der gegnerischen Mannschaft mindestens 9,15 m vom Ball entfernt sein.",
@@ -465,10 +465,10 @@
         "id": "q21",
         "text": "Wer darf während eines Spiels in das Fahrerlager einer Mannschaft?",
         "options": [
-          "Nur Spieler und Schiedsrichter",
+          "Eine ähnliche Alternative",
           "Spieler, Trainer, Mannschaftsleiter, Mechaniker, Arzt/Physio",
-          "Alle Vereinsmitglieder",
-          "Zuschauer mit Sondergenehmigung"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Im Fahrerlager dürfen sich nur maximal 10 Spieler, ein Trainer, ein Mannschaftsleiter, zwei Mechaniker und ein Arzt/Physio aufhalten.",
@@ -487,10 +487,10 @@
         "id": "q22",
         "text": "Wie viele Motorräder darf eine Mannschaft bei einem Motoballspiel maximal einsetzen?",
         "options": [
-          "8 Motorräder",
+          "Eine ähnliche Alternative",
           "9 Motorräder",
-          "10 Motorräder",
-          "11 Motorräder"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Mannschaft darf maximal 9 fahrbereite Motorräder einsetzen, die den technischen Bestimmungen entsprechen müssen.",
@@ -509,10 +509,10 @@
         "id": "q23",
         "text": "Wie muss der Kraftstoff für Motoball-Motorräder beschaffen sein?",
         "options": [
-          "Benzin mit beliebigen Zusätzen",
+          "Eine ähnliche Alternative",
           "Unverbleiter Kraftstoff ohne Zusätze außer handelsüblichen Schmiermitteln",
-          "Nur Diesel",
-          "Benzin mit Nitro-Zusatz"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Motorräder dürfen nur mit unverbleitem Kraftstoff ohne Zusätze betrieben werden, Schmiermittel sind erlaubt.",
@@ -531,10 +531,10 @@
         "id": "q24",
         "text": "Welche Rückennummer ist für den Torwart reserviert?",
         "options": [
-          "Nr. 10",
-          "Nr. 7",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Nr. 1",
-          "Nr. 0"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Nummer 1 ist für einen Torwart reserviert, muss aber nicht vergeben werden.",
@@ -553,10 +553,10 @@
         "id": "q25",
         "text": "Was gilt für Proteste gegen Schiedsrichterentscheidungen?",
         "options": [
-          "Sind zulässig, wenn schriftlich eingereicht",
+          "Eine ähnliche Alternative",
           "Sind unzulässig",
-          "Sind nur bei Endspielen erlaubt",
-          "Sind nur vom Kapitän erlaubt"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Proteste gegen Tatsachenentscheidungen der Schiedsrichter sind unzulässig.",
@@ -575,10 +575,10 @@
         "id": "q26",
         "text": "Welche Mindestanzahl an Linienrichtern ist für ein offizielles Spiel erforderlich?",
         "options": [
-          "Einer",
+          "Eine ähnliche Alternative",
           "Eine Lösung für zwei",
-          "Eine Lösung für drei",
-          "Eine Lösung für vier"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein offizielles Spiel kann nur angepfiffen werden, wenn zwei Linienrichter mit gleicher Kleidung wie die Schiedsrichter anwesend sind.",
@@ -597,10 +597,10 @@
         "id": "q27",
         "text": "Wie alt muss eine Person mindestens sein, um Linienrichter im Motoball zu werden?",
         "options": [
-          "14 Jahre",
-          "15 Jahre",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "16 Jahre",
-          "18 Jahre"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Linienrichter müssen mindestens 16 Jahre alt sein und entweder eine Lizenz besitzen oder einen Haftungsverzicht abgeben.",
@@ -619,10 +619,10 @@
         "id": "q28",
         "text": "Wie viele Viertel zu je 20 Minuten umfasst ein Senioren-Motoballspiel?",
         "options": [
-          "Eine Lösung für zwei",
-          "Eine Lösung für drei",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Eine Lösung für vier",
-          "Eine Lösung für fünf"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Senioren-Motoballspiel besteht aus vier Vierteln zu je 20 Minuten.",
@@ -641,10 +641,10 @@
         "id": "q29",
         "text": "Wie lange dauern die Pausen zwischen den Spielvierteln im Motoball?",
         "options": [
-          "5 Minuten",
+          "Eine ähnliche Alternative",
           "10 Minuten",
-          "15 Minuten",
-          "20 Minuten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Zwischen den Vierteln gibt es jeweils Pausen von 10 Minuten.",
@@ -663,10 +663,10 @@
         "id": "q30",
         "text": "Welche Besonderheit gilt bei einem Strafstoß im Motoball?",
         "options": [
-          "Der Ball darf vorher rollen",
+          "Eine ähnliche Alternative",
           "Der Torwart muss auf der Torlinie bleiben",
-          "Der ausführende Spieler darf zweimal schießen",
-          "Alle Spieler dürfen im Strafraum stehen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Beim Elfmeter muss der Torwart auf seiner Torlinie bleiben, bis der Schuss ausgeführt ist.",
@@ -685,10 +685,10 @@
         "id": "q31",
         "text": "Wie erfolgt die Platzwahl vor Spielbeginn im Motoball?",
         "options": [
-          "Durch Losentscheid",
+          "Eine ähnliche Alternative",
           "Durch Münzwurf des Schiedsrichters",
-          "Durch Entscheidung des Heimvereins",
-          "Durch Wahl des Kapitäns der Gastmannschaft"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Vor Spielbeginn entscheidet ein Münzwurf des Schiedsrichters über Platzwahl und Anspiel.",
@@ -707,10 +707,10 @@
         "id": "q32",
         "text": "Wie weit entfernt müssen Gegenspieler beim Anstoß mindestens stehen?",
         "options": [
-          "Eine Lösung für 5 m",
-          "Eine Lösung für 7 m",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "9,15 m",
-          "Eine Lösung für 10 m"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Beim Anstoß müssen die Gegenspieler mindestens 9,15 m vom Ball entfernt sein.",
@@ -729,10 +729,10 @@
         "id": "q33",
         "text": "Was ist beim Spielen des Balles durch Feldspieler vorgeschrieben?",
         "options": [
-          "Der Ball darf auch mit der Hand gespielt werden",
+          "Eine ähnliche Alternative",
           "Der Motor muss laufen",
-          "Der Ball darf in der Luft geführt werden",
-          "Ball darf eingeklemmt werden"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Beim Spielen des Balles muss der Motor des Motorrads laufen. Ball einklemmen ist verboten.",
@@ -751,10 +751,10 @@
         "id": "q34",
         "text": "Wie lange hat der Torwart Zeit, den Ball nach Ballbesitz im Torraum wieder ins Spiel zu bringen?",
         "options": [
-          "5 Sekunden",
+          "Eine ähnliche Alternative",
           "10 Sekunden",
-          "15 Sekunden",
-          "20 Sekunden"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach Ballbesitz muss der Torwart innerhalb von 10 Sekunden wieder anspielen.",
@@ -773,10 +773,10 @@
         "id": "q35",
         "text": "Was passiert, wenn ein ballführender Spieler die Mittellinie mit dem Ball überfährt?",
         "options": [
-          "Das Spiel läuft normal weiter",
-          "Das Spiel wird unterbrochen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Der Gegner erhält einen Freistoß",
-          "Es wird ein Tor anerkannt"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Der Spieler muss den Ball vor Überqueren der Mittellinie abspielen. Ansonsten erhält der Gegner einen Freistoß.",
@@ -795,10 +795,10 @@
         "id": "q36",
         "text": "Wann ist der Ball im Motoball aus dem Spiel?",
         "options": [
-          "Wenn er den Schiedsrichter berührt",
+          "Eine ähnliche Alternative",
           "Wenn er eine Linie mit vollem Durchmesser überschreitet und Spiel unterbrochen wird",
-          "Wenn er in die Zuschauerränge fliegt",
-          "Wenn er das Tornetz berührt"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Ball ist aus dem Spiel, wenn er die Seiten- oder Torlinie mit vollem Durchmesser überschreitet und die Partie unterbrochen ist.",
@@ -817,10 +817,10 @@
         "id": "q37",
         "text": "Wann wird ein Schiedsrichter-Ball ausgeführt?",
         "options": [
-          "Immer nach einem Foul",
+          "Eine ähnliche Alternative",
           "Wenn der Ball durch den Schiedsrichter unterbrochen wird ohne Regelgrund",
-          "Nach einem Tor",
-          "Nach Abstoß"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Schiedsrichter-Ball wird ausgeführt, wenn der Schiedsrichter das Spiel ohne Regelgrund unterbricht.",
@@ -839,10 +839,10 @@
         "id": "q38",
         "text": "Welche Mindestlichtstärke ist für Flutlichtspiele erforderlich?",
         "options": [
-          "100 Lux",
-          "150 Lux",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "200 Lux",
-          "250 Lux"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Flutlichtspiele dürfen nur stattfinden, wenn mindestens 200 Lux über das gesamte Spielfeld gegeben sind.",
@@ -861,10 +861,10 @@
         "id": "q39",
         "text": "Wie muss ein Seitenaus ausgeführt werden?",
         "options": [
-          "Mit der Hand",
+          "Eine ähnliche Alternative",
           "Mit dem Fuß, ohne gleichzeitige Motorradbewegung",
-          "Durch Abwurf",
-          "Durch Einrollen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Seitenaus wird mit dem Fuß ausgeführt, der Ball muss dabei mindestens eine Umdrehung machen. Motorrad darf sich nicht bewegen.",
@@ -884,9 +884,9 @@
         "text": "Kann aus einem Eckball direkt ein Tor erzielt werden?",
         "options": [
           "Eine Lösung für ja",
-          "Eine Lösung für nein",
-          "Nur nach Berührung des Torwarts",
-          "Nur nach Berührung eines anderen Spielers"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Aus einem Eckball kann direkt ein Tor erzielt werden, wenn die Regeln eingehalten werden.",
@@ -905,10 +905,10 @@
         "id": "q41",
         "text": "Welche Aufgabe hat der Mannschaftsleiter beim Motoballspiel?",
         "options": [
-          "Er darf das Spielfeld betreten",
+          "Eine ähnliche Alternative",
           "Er ist offizieller Vertreter, füllt Spielbericht aus und ist Ansprechpartner",
-          "Er entscheidet über Schiedsrichter-Einsätze",
-          "Er darf Spieler direkt auswechseln"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Mannschaftsleiter vertritt die Mannschaft offiziell, füllt den Spielbericht aus und dient als Ansprechpartner für den Schiedsrichter.",
@@ -927,10 +927,10 @@
         "id": "q42",
         "text": "Wie lange vor und nach einer Veranstaltung ist der Mannschaftsleiter verantwortlich?",
         "options": [
-          "30 Minuten vor und nach dem Spiel",
+          "Eine ähnliche Alternative",
           "60 Minuten vor bis 30 Minuten nach Spielende",
-          "Nur während des Spiels",
-          "Ab Anpfiff bis Abpfiff"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Verantwortung des Mannschaftsleiters beginnt 60 Minuten vor Veranstaltungsbeginn und endet 30 Minuten nach Spielende.",
@@ -949,10 +949,10 @@
         "id": "q43",
         "text": "Welche Pflicht hat der Veranstalter hinsichtlich Platzordnern?",
         "options": [
-          "1 Ordner pro 50 Zuschauer",
+          "Eine ähnliche Alternative",
           "1 Ordner pro 100 Zuschauer, mind. einer je Spielfeldseite",
-          "Nur bei Endspielen Ordner",
-          "Ordner sind optional"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Es muss mindestens 1 Ordner pro 100 Zuschauer bereitstehen, jedoch mindestens einer pro Spielfeldseite.",
@@ -971,10 +971,10 @@
         "id": "q44",
         "text": "Welche medizinische Ausstattung ist bei Motoballveranstaltungen vorgeschrieben?",
         "options": [
-          "Sanitäter vor Ort",
+          "Eine ähnliche Alternative",
           "Medizinische Mindestausstattung laut BRM",
-          "Nur ein Arzt bei Endspielen",
-          "Nur Erste-Hilfe-Kasten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Veranstalter muss die medizinische Mindestausstattung gemäß BRM bereitstellen.",
@@ -993,10 +993,10 @@
         "id": "q45",
         "text": "Wie viele farblich einheitliche Linienrichter-Flaggen muss ein Veranstalter stellen?",
         "options": [
-          "Eine Lösung für 1",
+          "Eine ähnliche rechtliche Bestimmung",
           "Eine Lösung für 2",
-          "Eine Lösung für 3",
-          "Eine Lösung für 4"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Der Veranstalter muss zwei einheitliche Linienrichter-Flaggen (40x40 cm) bereitstellen.",
@@ -1015,10 +1015,10 @@
         "id": "q46",
         "text": "Wie viele funktionsbereite Handsprechgeräte für Schiedsrichter muss der Veranstalter bereitstellen?",
         "options": [
-          "Eine Lösung für 1",
+          "Eine ähnliche Alternative",
           "Eine Lösung für 2",
-          "Eine Lösung für 3",
-          "Eine Lösung für 4"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Es müssen zwei Handsprechgeräte für die Schiedsrichter bereitgestellt werden.",
@@ -1037,10 +1037,10 @@
         "id": "q47",
         "text": "Was passiert, wenn ein Verein seiner Verantwortung für Zuschauer oder Spieler nicht nachkommt?",
         "options": [
-          "Keine Folgen",
+          "Eine ähnliche Alternative",
           "Kann durch VM, Promotor oder DMSB sanktioniert werden",
-          "Wird nur verwarnt",
-          "Darf nächstes Spiel nicht austragen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kommt ein Verein seiner Verantwortung nicht nach, können VM, Promotor oder DMSB Sanktionen verhängen.",
@@ -1060,9 +1060,9 @@
         "text": "Welche Verhaltensweisen gelten im Motoball als unsportlich?",
         "options": [
           "Politisch, extremistisch, obszön, beleidigend",
-          "Nur Foulspiel",
-          "Langsames Spiel",
-          "Kritik am Schiedsrichter"
+          "Eine ähnliche Sporttechnik",
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Politische, extremistische, obszöne oder beleidigende Verhaltensweisen gelten als unsportlich und werden sanktioniert.",
@@ -1081,10 +1081,10 @@
         "id": "q49",
         "text": "Was ist erforderlich, damit internationale Vereins- oder Auswahlspiele stattfinden dürfen?",
         "options": [
-          "Nur Zustimmung des Heimvereins",
+          "Eine ähnliche Alternative",
           "Genehmigung der zuständigen FMN",
-          "Keine Genehmigung nötig",
-          "Zustimmung aller Spieler"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Internationale Spiele müssen von der zuständigen FMN genehmigt werden.",
@@ -1103,10 +1103,10 @@
         "id": "q50",
         "text": "Welche Spiele benötigen keine Genehmigung des DMSB?",
         "options": [
-          "Länderspiele",
-          "Nationale Spiele",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Freundschaftsspiele",
-          "Internationale Spiele"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Freundschaftsspiele werden von den Vereinen selbst organisiert und benötigen keine Genehmigung.",
@@ -1125,10 +1125,10 @@
         "id": "q51",
         "text": "Wann gilt ein Ball im Motoball als im Spiel?",
         "options": [
-          "Immer, wenn er rollt",
+          "Eine ähnliche Alternative",
           "Wenn er die Linie nicht vollständig überschritten hat",
-          "Nur nach Freigabe des Schiedsrichters",
-          "Nur innerhalb des Strafraums"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Ball ist im Spiel, solange er die Linie nicht vollständig überschritten hat.",
@@ -1147,10 +1147,10 @@
         "id": "q52",
         "text": "Wann darf ein Spieler nach einem Anstoß den Ball erneut berühren?",
         "options": [
-          "Sofort nach dem Anstoß",
+          "Eine ähnliche Alternative",
           "Erst nachdem ein anderer Spieler den Ball berührt hat",
-          "Er darf immer zweimal schießen",
-          "Nur nach einem Tor"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der ausführende Spieler darf den Ball nach dem Anstoß erst wieder berühren, wenn ein anderer Spieler ihn gespielt hat.",
@@ -1170,9 +1170,9 @@
         "text": "Welche Strafe erhält ein Spieler mindestens für ein grobes Foul im Strafraum?",
         "options": [
           "Grüne Karte",
-          "Gelbe Karte",
-          "Rote Karte",
-          "Keine Strafe"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bei einem groben Foul im Strafraum erhält der Spieler mindestens eine Grüne Karte und es gibt Elfmeter.",
@@ -1191,10 +1191,10 @@
         "id": "q54",
         "text": "Wie weit müssen Spieler bei einem Freistoß mindestens von der direkten Anfahrtslinie entfernt sein?",
         "options": [
-          "Eine Lösung für 1 m",
+          "Eine ähnliche Alternative",
           "Eine Lösung für 2 m",
-          "Eine Lösung für 3 m",
-          "Eine Lösung für 5 m"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei einem Freistoß müssen die Gegenspieler mindestens 9,15 m vom Ball und zusätzlich 2 m von der Anfahrtslinie entfernt sein.",
@@ -1213,10 +1213,10 @@
         "id": "q55",
         "text": "Was passiert, wenn ein Spieler mit gelb-roter Karte bestraft wird?",
         "options": [
-          "Sofortiger Ausschluss ohne Ersatz",
+          "Eine ähnliche Alternative",
           "5 Minuten Strafe, danach darf ein anderer Spieler rein",
-          "2 Minuten Strafe, danach Rückkehr",
-          "Spiel wird abgebrochen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei Gelb-Rot muss der Spieler sofort raus, darf aber nach 5 Minuten durch einen anderen ersetzt werden.",
@@ -1235,10 +1235,10 @@
         "id": "q56",
         "text": "Was gilt für den Torwart beim Elfmeter?",
         "options": [
-          "Darf frei im Strafraum stehen",
+          "Eine ähnliche Alternative",
           "Muss auf der Torlinie bleiben",
-          "Muss mindestens 2 m vor der Torlinie stehen",
-          "Darf im Torraum herumlaufen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Torwart muss beim Elfmeter auf seiner Torlinie bleiben, bis der Ball gespielt wird.",
@@ -1257,10 +1257,10 @@
         "id": "q57",
         "text": "Was ist beim Angriff auf einen ballführenden Spieler verboten?",
         "options": [
-          "Nur von vorne attackieren",
+          "8 Handgriffe für mittlere Schwierigkeit",
           "Gefährliches Schneiden, plötzliche Richtungsänderung",
-          "Seitlich angreifen",
-          "Ball mit Fuß spielen"
+          "10 Handgriffe für fortgeschrittene Routen",
+          "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 1,
         "explanation": "Es ist verboten, durch Schneiden oder plötzliche Richtungsänderung den Gegenspieler zu gefährden.",
@@ -1279,10 +1279,10 @@
         "id": "q58",
         "text": "Was gilt, wenn eine Mannschaft zu Spielbeginn nicht die vorgeschriebene Spielerzahl stellt?",
         "options": [
-          "Das Spiel beginnt mit weniger Spielern",
+          "Eine ähnliche Alternative",
           "Das Spiel wird abgebrochen",
-          "Die Mannschaft darf unbegrenzt nachmelden",
-          "Es gibt eine Geldstrafe"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Beginnt eine Mannschaft nicht mit 4 Feldspielern und 1 Torwart, führt das zum Spielabbruch.",
@@ -1302,9 +1302,9 @@
         "text": "Wer darf beim Anspiel nach Toraus den Ball ins Spiel bringen?",
         "options": [
           "Der Torwart",
-          "Ein beliebiger Feldspieler",
-          "Der Mannschaftsleiter",
-          "Ein Mechaniker"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach Toraus bringt der Torwart der verteidigenden Mannschaft den Ball wieder ins Spiel.",
@@ -1323,10 +1323,10 @@
         "id": "q60",
         "text": "Wie lange hat der Torwart Zeit, den Ball nach Toraus wieder ins Spiel zu bringen?",
         "options": [
-          "5 Sekunden",
+          "Eine ähnliche Alternative",
           "10 Sekunden",
-          "15 Sekunden",
-          "20 Sekunden"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Torwart muss den Ball nach Toraus innerhalb von 10 Sekunden wieder ins Spiel bringen.",
@@ -1345,10 +1345,10 @@
         "id": "q61",
         "text": "Was passiert, wenn der Torwart die Torraumlinie überschreitet?",
         "options": [
-          "Das Spiel läuft normal weiter",
+          "Eine ähnliche Alternative",
           "Es liegt ein Regelverstoß vor",
-          "Es wird Eckball gegeben",
-          "Der Gegner erhält einen Einwurf"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Torwart darf die Torraumlinie nicht überschreiten. Ein Überschreiten gilt als Regelverstoß.",
@@ -1367,10 +1367,10 @@
         "id": "q62",
         "text": "Wie viele Spieler dürfen sich gleichzeitig beim Einwechseln auf dem Spielfeld befinden?",
         "options": [
-          "Maximal 2",
+          "Eine ähnliche Alternative",
           "Nur einer",
-          "Beliebig viele",
-          "Abhängig von Schiedsrichterentscheid"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Beim Ein- und Auswechseln dürfen sich nicht gleichzeitig beide Spieler auf dem Spielfeld befinden.",
@@ -1389,10 +1389,10 @@
         "id": "q63",
         "text": "Wo dürfen Feldspieler beim Einwechseln ins Spielfeld einfahren?",
         "options": [
-          "An der Seitenauslinie",
+          "Eine ähnliche Alternative",
           "Nur auf Höhe der Mittellinie",
-          "Am Strafraum",
-          "Am Torraum"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Spieler dürfen nur auf Höhe der Mittellinie ins Spielfeld einfahren. Seitliches Einfahren ist verboten.",
@@ -1411,10 +1411,10 @@
         "id": "q64",
         "text": "Wie darf der Ball beim Anspiel nach Seitenaus ins Spiel gebracht werden?",
         "options": [
-          "Mit Handwurf",
+          "Eine ähnliche Alternative",
           "Mit Fußstoß, Ball muss eine Umdrehung machen",
-          "Mit Kopfstoß",
-          "Mit Motorradstoß"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach Seitenaus wird der Ball mit dem Fuß ins Spiel gebracht, er muss dabei mindestens eine Umdrehung machen.",
@@ -1433,10 +1433,10 @@
         "id": "q65",
         "text": "Wie viele Auszeiten hat jede Mannschaft pro Spiel?",
         "options": [
-          "Keine",
+          "Eine ähnliche Alternative",
           "Eine Auszeit von 2 Minuten",
-          "Zwei Auszeiten à 2 Minuten",
-          "Eine Auszeit von 5 Minuten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Jede Mannschaft darf einmal pro Spiel eine Auszeit von 2 Minuten nehmen.",
@@ -1455,10 +1455,10 @@
         "id": "q66",
         "text": "Wann darf ein Torwart im Motoball den Ball mit den Händen spielen?",
         "options": [
-          "Nur im Strafraum",
+          "Eine ähnliche Alternative",
           "Nur im Torraum",
-          "Überall auf dem Feld",
-          "Eine Lösung für nie"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Torwart darf den Ball nur im Torraum mit den Händen spielen.",
@@ -1478,9 +1478,9 @@
         "text": "Welche Bedingungen gelten für die Ausrüstung von Helmen im Motoball?",
         "options": [
           "Sie müssen DMSB-Schutzhelmbestimmungen entsprechen",
-          "Sie müssen nur bunt sein",
-          "Sie dürfen selbstgebaut sein",
-          "Helme sind optional"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Helme müssen den DMSB-Schutzhelmbestimmungen entsprechen und bei der technischen Abnahme vorgeführt werden.",
@@ -1499,10 +1499,10 @@
         "id": "q68",
         "text": "Welche Mindesthöhe müssen Rückennummern im Motoball haben?",
         "options": [
-          "100 mm",
-          "120 mm",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "140 mm",
-          "160 mm"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Rückennummern müssen mindestens 140 mm hoch und 90 mm breit sein.",
@@ -1521,10 +1521,10 @@
         "id": "q69",
         "text": "Wann darf ein ausgewechselter Torwart wieder eingewechselt werden, wenn er eine Zeitstrafe erhalten hat?",
         "options": [
-          "Sofort nach Strafe",
+          "Eine ähnliche Alternative",
           "Erst bei nächster Spielunterbrechung nach Ablauf",
-          "Eine Lösung für nie",
-          "Nur bei Verlängerung"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Torwart darf nach Zeitstrafe erst bei der nächsten Spielunterbrechung nach Ablauf wieder eingewechselt werden.",
@@ -1543,10 +1543,10 @@
         "id": "q70",
         "text": "Welche Maße müssen Fahnenstangen an den Ecken des Spielfeldes mindestens haben?",
         "options": [
-          "1,20 m hoch",
+          "Eine ähnliche Alternative",
           "1,50 m hoch, nicht spitz",
-          "2,00 m hoch",
-          "1,00 m hoch"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Fahnenstangen müssen mindestens 1,50 m hoch und dürfen oben nicht spitz sein.",
@@ -1565,10 +1565,10 @@
         "id": "q71",
         "text": "Welche maximale Breite dürfen Torpfosten im Motoball haben?",
         "options": [
-          "10 cm",
+          "Eine ähnliche Alternative",
           "12 cm",
-          "14 cm",
-          "15 cm"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Torp Pfosten und Querlatte dürfen höchstens 12 cm breit und tief sein.",
@@ -1587,10 +1587,10 @@
         "id": "q72",
         "text": "Was gilt für Trikots von Feldspielern im Motoball?",
         "options": [
-          "Müssen unterschiedliche Farben haben",
+          "Eine ähnliche Alternative",
           "Müssen gleichfarbig sein",
-          "Sind optional",
-          "Müssen schwarz sein"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Alle Feldspieler einer Mannschaft müssen gleichfarbige Trikots tragen.",
@@ -1610,9 +1610,9 @@
         "text": "Welche Pflichtausstattung muss jede Mannschaft im Fahrerlager haben?",
         "options": [
           "Einen Feuerlöscher mit mindestens 2 kg",
-          "Einen Ersatzmotor",
-          "Einen Schiedsrichterstuhl",
-          "Eine Fahne"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Jede Mannschaft muss im Fahrerlager einen Feuerlöscher mit mindestens 2 kg haben.",
@@ -1631,10 +1631,10 @@
         "id": "q74",
         "text": "Welche Aufgabe haben Linienrichter bei Ballüberschreiten der Seitenlinie?",
         "options": [
-          "Nichts",
+          "Eine ähnliche Alternative",
           "Anzeige an Schiedsrichter",
-          "Selbst Anstoß ausführen",
-          "Spielzeit stoppen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Linienrichter zeigen den Schiedsrichtern an, wenn der Ball die Seitenlinie mit vollem Durchmesser überschritten hat.",
@@ -1653,10 +1653,10 @@
         "id": "q75",
         "text": "Wie muss ein Eckball im Motoball ausgeführt werden?",
         "options": [
-          "Von der Ecke des Strafraums",
+          "Eine ähnliche Alternative",
           "Vom Kreuzungspunkt der Torauslinie mit der Strafraumlinie",
-          "Von der Mitte der Torlinie",
-          "Vom Mittelpunkt des Feldes"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Eckball wird am Kreuzungspunkt von Torauslinie und Strafraumlinie ausgeführt.",
@@ -1675,10 +1675,10 @@
         "id": "q76",
         "text": "Wie viele Schiedsrichter dürfen bei Play-Off-Endspielen zusätzlich eingesetzt werden?",
         "options": [
-          "Keine",
+          "Eine ähnliche rechtliche Bestimmung",
           "Zwei zusätzliche Linienrichter",
-          "Drei zusätzliche Schiedsrichter",
-          "Ein zusätzlicher Schiedsrichter"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Bei Play-Off-Endspielen übernehmen zusätzlich lizenzierte Schiedsrichter die Aufgaben der Linienrichter.",
@@ -1697,10 +1697,10 @@
         "id": "q77",
         "text": "Wann darf ein Spieler nach einem Elfmeter den Ball erneut spielen?",
         "options": [
-          "Sofort nach Schuss",
+          "Eine ähnliche Alternative",
           "Erst nach Kontakt mit anderem Spieler/Motorrad oder Pfosten/Latte",
-          "Immer sofort",
-          "Nur nach Tor"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Schütze darf den Ball nach einem Elfmeter erst wieder spielen, wenn ein anderer Spieler oder Pfosten/Latte Kontakt hatten.",
@@ -1719,9 +1719,9 @@
         "id": "q78",
         "text": "Welche Mindestbreite muss die Mittellinie im Motoball haben?",
         "options": [
-          "12 cm",
-          "18 cm",
-          "20 cm",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren",
           "24 cm"
         ],
         "correctIndex": 3,
@@ -1742,9 +1742,9 @@
         "text": "Wie viele Personen dürfen sich während eines Spiels im Fahrerlager aufhalten (exkl. Schiedsrichter)?",
         "options": [
           "10 Spieler, 1 Trainer, 1 Mannschaftsleiter, 2 Mechaniker, 1 Arzt/Physio",
-          "Beliebig viele",
-          "Nur 10 Spieler",
-          "Nur Spieler und Trainer"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Im Fahrerlager dürfen sich 10 Spieler, 1 Trainer, 1 Mannschaftsleiter, 2 Mechaniker und 1 Arzt/Physio aufhalten.",
@@ -1763,10 +1763,10 @@
         "id": "q80",
         "text": "Was gilt, wenn ein ballführender Spieler nicht innerhalb von 15 Sekunden die Mittellinie überquert?",
         "options": [
-          "Nichts, Spiel läuft normal",
+          "Eine ähnliche Alternative",
           "Schiedsrichter unterbricht Spiel",
-          "Der Spieler wird verwarnt",
-          "Der Gegner bekommt Elfmeter"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei Zeitspiel oder Nichtüberqueren der Mittellinie innerhalb von 15 Sekunden unterbricht der Schiedsrichter das Spiel.",
@@ -1785,10 +1785,10 @@
         "id": "q81",
         "text": "Wer entscheidet, ob ein Spiel wegen Wetterbedingungen zugelassen wird?",
         "options": [
-          "Der Heimverein",
+          "Eine ähnliche Alternative",
           "Der Schiedsrichter",
-          "Der Mannschaftsleiter",
-          "Der Linienrichter"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Schiedsrichter entscheidet, ob Wetter- oder Platzbedingungen ein Spiel zulassen.",
@@ -1807,10 +1807,10 @@
         "id": "q82",
         "text": "Wann darf ein verletzter Spieler wieder ins Spiel zurückkehren?",
         "options": [
-          "Sofort nach Behandlung",
+          "Eine ähnliche Alternative",
           "Nur nach Zustimmung des Schiedsrichters",
-          "Immer nach 5 Minuten",
-          "Erst nach Ende des Viertels"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein verletzter Spieler darf nur mit Zustimmung des Schiedsrichters ins Spiel zurückkehren.",
@@ -1829,10 +1829,10 @@
         "id": "q83",
         "text": "Welche Strafe zieht eine gelbe Karte im Motoball nach sich?",
         "options": [
-          "2 Minuten Strafe",
+          "Eine ähnliche Alternative",
           "5 Minuten Strafe",
-          "Spielausschluss",
-          "Keine Strafe"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die gelbe Karte bedeutet eine 5-minütige Zeitstrafe.",
@@ -1851,10 +1851,10 @@
         "id": "q84",
         "text": "Was passiert, wenn eine Mannschaft nach roter Karte in Unterzahl spielt und ein Tor kassiert?",
         "options": [
-          "Spieler darf zurückkehren",
+          "Eine ähnliche Alternative",
           "Spieler mit geringster Zeitstrafe darf zurück",
-          "Keine Änderung, weiter Unterzahl",
-          "Spiel wird abgebrochen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Wenn eine Mannschaft in Unterzahl (außer bei roter Karte) ein Tor kassiert, darf der Spieler mit der geringsten Zeitstrafe zurückkehren.",
@@ -1873,10 +1873,10 @@
         "id": "q85",
         "text": "Wo muss der Ball beim Strafstoß platziert werden?",
         "options": [
-          "9 m von der Torlinie",
-          "10 m von der Torlinie",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "11 m von der Torlinie",
-          "12 m von der Torlinie"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Der Strafstoß wird von einem Punkt ausgeführt, der 11 m von der Torlinie entfernt ist.",
@@ -1896,9 +1896,9 @@
         "text": "Welche Pflicht hat der Schiedsrichter beim Zeitspiel?",
         "options": [
           "Er zeigt den Spielern die Uhr und unterbricht ggf. das Spiel",
-          "Er gibt sofort einen Elfmeter",
-          "Er gibt Verwarnung",
-          "Er beendet das Spiel"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Schiedsrichter muss den Spielern die Uhr zeigen und unterbricht das Spiel nach 15 Sekunden ohne Angriffsabsicht.",
@@ -1917,10 +1917,10 @@
         "id": "q87",
         "text": "Wie groß muss der Abstand der Gegenspieler bei einem Eckball sein?",
         "options": [
-          "Eine Lösung für 5 m",
-          "Eine Lösung für 7 m",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "9,15 m",
-          "Eine Lösung für 10 m"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Bei Eckbällen müssen Gegenspieler mindestens 9,15 m Abstand halten.",
@@ -1939,10 +1939,10 @@
         "id": "q88",
         "text": "Welche Pflicht haben Vereine bei Diskriminierungsvorfällen?",
         "options": [
-          "Sie müssen nichts tun",
+          "Eine ähnliche Alternative",
           "Sie haften und können sanktioniert werden",
-          "Sie dürfen nur ermahnen",
-          "Sie können Spielabbruch beantragen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Vereine haften bei Diskriminierungsvorfällen und können vom DMSB sanktioniert werden.",
@@ -1961,10 +1961,10 @@
         "id": "q89",
         "text": "Wann darf ein Linienrichter eingesetzt werden, der keine Lizenz hat?",
         "options": [
-          "Eine Lösung für nie",
+          "Eine ähnliche rechtliche Bestimmung",
           "Nur mit unterschriebenem Haftungsverzicht",
-          "Nur bei Freundschaftsspielen",
-          "Nur mit Vereinsgenehmigung"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Linienrichter ohne Lizenz müssen einen unterschriebenen Haftungsverzicht vorlegen.",
@@ -1983,10 +1983,10 @@
         "id": "q90",
         "text": "Wer darf die Spielfläche im Fahrerlager betreten?",
         "options": [
-          "Alle Zuschauer",
+          "Eine ähnliche Alternative",
           "Nur zugelassene Personen wie Spieler, Trainer, Mechaniker",
-          "Alle Vereinsmitglieder",
-          "Journalisten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Im Fahrerlager sind nur zugelassene Personen erlaubt, darunter Spieler, Trainer, Mannschaftsleiter, Mechaniker und Arzt/Physio.",
@@ -2005,10 +2005,10 @@
         "id": "q91",
         "text": "Wie groß ist der Abstand zwischen den Innenkanten der Torpfosten?",
         "options": [
-          "7,00 m",
+          "Eine ähnliche Alternative",
           "7,32 m",
-          "7,50 m",
-          "8,00 m"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Abstand zwischen den Innenkanten der Torpfosten beträgt 7,32 m.",
@@ -2027,10 +2027,10 @@
         "id": "q92",
         "text": "Wie hoch ist die Unterkante der Querlatte über dem Boden?",
         "options": [
-          "2,20 m",
-          "2,40 m",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "2,44 m",
-          "2,50 m"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Querlatte ist 2,44 m über dem Boden angebracht.",
@@ -2049,10 +2049,10 @@
         "id": "q93",
         "text": "Wie viele Viertel umfasst ein Motoballspiel der Senioren?",
         "options": [
-          "2 Viertel",
-          "3 Viertel",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "4 Viertel",
-          "5 Viertel"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Senioren-Motoballspiel hat 4 Viertel zu je 20 Minuten.",
@@ -2072,9 +2072,9 @@
         "text": "Wer darf nach einem Toraus den Ball wieder ins Spiel bringen?",
         "options": [
           "Der Torwart",
-          "Ein Feldspieler",
-          "Der Linienrichter",
-          "Der Schiedsrichter"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach Toraus bringt der Torwart der verteidigenden Mannschaft den Ball ins Spiel.",
@@ -2093,10 +2093,10 @@
         "id": "q95",
         "text": "Wie lange hat der Torwart nach einem Toraus Zeit für das Anspiel?",
         "options": [
-          "5 Sekunden",
+          "Eine ähnliche Alternative",
           "10 Sekunden",
-          "15 Sekunden",
-          "20 Sekunden"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Torwart muss den Ball innerhalb von 10 Sekunden wieder ins Spiel bringen.",
@@ -2115,10 +2115,10 @@
         "id": "q96",
         "text": "Was passiert, wenn ein Spieler den Ball bei Seitenaus nicht korrekt ins Spiel bringt?",
         "options": [
-          "Wiederholung des Einwurfs",
-          "Freiwurf für die eigene Mannschaft",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Anspiel für den Gegner",
-          "Keine Konsequenz"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein falsches Anspiel nach Seitenaus führt zu Anspiel für den Gegner.",
@@ -2137,10 +2137,10 @@
         "id": "q97",
         "text": "Welche Spiele gelten bei einer Jahresmeldung automatisch als genehmigt?",
         "options": [
-          "Länderspiele",
-          "Freundschaftsspiele",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Deutsche Motoball Meisterschaft (DMM)",
-          "Internationale Spiele"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Spiele der Deutschen Motoball Meisterschaft gelten mit Jahresmeldung automatisch als genehmigt.",
@@ -2159,10 +2159,10 @@
         "id": "q98",
         "text": "Was passiert, wenn ein Spieler den Ball mit dem Motorrad einklemmt?",
         "options": [
-          "Spiel läuft normal",
+          "Eine ähnliche Alternative",
           "Es ist verboten",
-          "Es gibt Elfmeter",
-          "Es ist nur im Torraum erlaubt"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das Einklemmen des Balls zwischen Spielern oder Motorrädern ist verboten.",
@@ -2181,10 +2181,10 @@
         "id": "q99",
         "text": "Wie viele Linienrichter muss jede Mannschaft stellen, wenn nichts anderes geregelt ist?",
         "options": [
-          "Keinen",
+          "Eine ähnliche Sporttechnik",
           "Einen pro Seite",
-          "Einen pro Spielfeldhälfte",
-          "Zwei pro Mannschaft"
+          "Eine verwandte Regelung",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Jede Mannschaft muss einen Linienrichter für eine Platzseite stellen.",
@@ -2203,10 +2203,10 @@
         "id": "q100",
         "text": "Welcher Bereich ist nur für den Torwart im Motoball erlaubt?",
         "options": [
-          "Strafraum",
+          "Eine ähnliche Alternative",
           "Torraum",
-          "Mittelfeld",
-          "Seitenausbereich"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nur der Torwart darf sich im Torraum aufhalten. Feldspielern ist der Zutritt verboten.",

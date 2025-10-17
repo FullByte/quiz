@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Wann beginnt nach dem BGB die Rechtsfähigkeit eines Menschen?",
         "options": [
-          "Mit der Empfängnis",
+          "Eine ähnliche rechtliche Bestimmung",
           "Mit der Vollendung der Geburt",
-          "Mit der Vollendung des 18. Lebensjahres",
-          "Mit der Vollendung des 21. Lebensjahres"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Die Rechtsfähigkeit beginnt mit der Vollendung der Geburt (§ 1 BGB). Empfängnis, Volljährigkeit oder 21. Lebensjahr sind unzutreffend.",
@@ -47,10 +47,10 @@
         "id": "q2",
         "text": "Ab welchem Alter tritt nach dem BGB die Volljährigkeit ein?",
         "options": [
-          "Mit 16 Jahren",
+          "Eine ähnliche Alternative",
           "Mit 18 Jahren",
-          "Mit 21 Jahren",
-          "Mit 25 Jahren"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Volljährigkeit tritt mit Vollendung des 18. Lebensjahres ein (§ 2 BGB).",
@@ -70,9 +70,9 @@
         "text": "Wer gilt nach § 13 BGB als Verbraucher?",
         "options": [
           "Jede natürliche Person, die ein Rechtsgeschäft zu privaten Zwecken abschließt",
-          "Jede juristische Person",
-          "Jeder Unternehmer",
-          "Jede Personengesellschaft"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu überwiegend privaten Zwecken tätigt (§ 13 BGB).",
@@ -90,10 +90,10 @@
         "id": "q4",
         "text": "Wie definiert das BGB den Unternehmer (§ 14)?",
         "options": [
-          "Nur juristische Personen",
-          "Nur natürliche Personen",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Natürliche oder juristische Personen sowie rechtsfähige Personengesellschaften, die in Ausübung gewerblicher oder selbständiger beruflicher Tätigkeit handeln",
-          "Nur Kaufleute im Sinne des HGB"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Unternehmer ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts gewerblich oder beruflich handelt (§ 14 BGB).",
@@ -112,9 +112,9 @@
         "text": "Wo muss ein Verein eingetragen werden, um Rechtsfähigkeit zu erlangen?",
         "options": [
           "Beim Amtsgericht im Vereinsregister",
-          "Beim Notar",
-          "Beim Handelsregister",
-          "Beim Finanzamt"
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 0,
         "explanation": "Ein nicht wirtschaftlicher Verein erlangt Rechtsfähigkeit durch Eintragung in das Vereinsregister beim zuständigen Amtsgericht (§ 21 BGB).",
@@ -133,10 +133,10 @@
         "id": "q6",
         "text": "Welches Mindestalter ist für die Gründung eines eingetragenen Vereins erforderlich?",
         "options": [
-          "3 Mitglieder",
-          "5 Mitglieder",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "7 Mitglieder",
-          "10 Mitglieder"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Eintragung in das Vereinsregister setzt voraus, dass der Verein mindestens sieben Mitglieder hat (§ 56 BGB).",
@@ -156,9 +156,9 @@
         "text": "Wann tritt Geschäftsunfähigkeit nach BGB ein?",
         "options": [
           "Vor Vollendung des 7. Lebensjahres",
-          "Vor Vollendung des 10. Lebensjahres",
-          "Vor Vollendung des 14. Lebensjahres",
-          "Ab Geburt"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Geschäftsunfähig ist, wer das 7. Lebensjahr nicht vollendet hat oder sich in einem die freie Willensbestimmung ausschließenden Zustand krankhafter Störung befindet (§ 104 BGB).",
@@ -177,10 +177,10 @@
         "id": "q8",
         "text": "Wie bezeichnet man das Rechtsgeschäft eines Minderjährigen ohne Einwilligung des gesetzlichen Vertreters, das lediglich rechtlich vorteilhaft ist?",
         "options": [
-          "Nichtig",
-          "Schwebend unwirksam",
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
           "Wirksam",
-          "Unwirksam"
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 2,
         "explanation": "Ein Minderjähriger kann ohne Zustimmung seines Vertreters wirksame Rechtsgeschäfte abschließen, wenn sie ihm lediglich rechtliche Vorteile bringen (§ 107 BGB).",
@@ -198,10 +198,10 @@
         "id": "q9",
         "text": "Wie lange beträgt die regelmäßige Verjährungsfrist nach § 195 BGB?",
         "options": [
-          "1 Jahr",
-          "2 Jahre",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "3 Jahre",
-          "5 Jahre"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Die regelmäßige Verjährungsfrist beträgt 3 Jahre (§ 195 BGB).",
@@ -219,10 +219,10 @@
         "id": "q10",
         "text": "Wann beginnt die regelmäßige Verjährungsfrist nach § 199 BGB?",
         "options": [
-          "Mit dem Tag der Anspruchsentstehung",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Mit dem Ende des Jahres der Anspruchsentstehung und Kenntnis",
-          "Mit der Zustellung einer Mahnung",
-          "Mit Ablauf eines Monats nach Anspruchsentstehung"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die regelmäßige Verjährung beginnt mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger Kenntnis hat oder hätte haben müssen (§ 199 BGB).",
@@ -241,10 +241,10 @@
         "id": "q11",
         "text": "Wie hoch ist der gesetzliche Zinssatz nach § 246 BGB, wenn keine andere Vereinbarung getroffen wurde?",
         "options": [
-          "2 % jährlich",
-          "3 % jährlich",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "4 % jährlich",
-          "5 % jährlich"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Der gesetzliche Zinssatz beträgt 4 % jährlich (§ 246 BGB).",
@@ -262,10 +262,10 @@
         "id": "q12",
         "text": "Was ist eine Gattungsschuld (§ 243 BGB)?",
         "options": [
-          "Eine Schuld, die auf eine konkrete individuelle Sache gerichtet ist",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Eine Schuld, die nur der Art nach bestimmt ist",
-          "Eine Schuld, die nicht erfüllbar ist",
-          "Eine Schuld, die nicht einklagbar ist"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Gattungsschuld ist die Verpflichtung zur Leistung einer Sache, die nur nach der Gattung bestimmt ist (§ 243 BGB).",
@@ -283,10 +283,10 @@
         "id": "q13",
         "text": "Welche Verjährungsfrist gilt für Rechte an einem Grundstück (§ 196 BGB)?",
         "options": [
-          "3 Jahre",
-          "5 Jahre",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "10 Jahre",
-          "30 Jahre"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Ansprüche auf Übertragung oder Änderung von Rechten an Grundstücken verjähren in 10 Jahren (§ 196 BGB).",
@@ -304,9 +304,9 @@
         "id": "q14",
         "text": "Welche Frist gilt für Schadensersatzansprüche aus vorsätzlicher Körperverletzung (§ 197 BGB)?",
         "options": [
-          "3 Jahre",
-          "10 Jahre",
-          "20 Jahre",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten",
           "30 Jahre"
         ],
         "correctIndex": 3,
@@ -325,10 +325,10 @@
         "id": "q15",
         "text": "Was versteht man unter Notwehr nach § 227 BGB?",
         "options": [
-          "Die Verteidigung durch staatliche Organe",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Die Verteidigung gegen einen gegenwärtigen rechtswidrigen Angriff",
-          "Die Verteidigung nur durch die Polizei",
-          "Die Verteidigung gegen vergangene Angriffe"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Notwehr ist die erforderliche Verteidigung, um einen gegenwärtigen, rechtswidrigen Angriff abzuwehren (§ 227 BGB).",
@@ -346,10 +346,10 @@
         "id": "q16",
         "text": "Wie hoch ist der Verzugszinssatz bei Rechtsgeschäften mit Verbrauchern nach § 288 BGB?",
         "options": [
-          "3 Prozentpunkte über Basiszinssatz",
-          "4 Prozentpunkte über Basiszinssatz",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "5 Prozentpunkte über Basiszinssatz",
-          "9 Prozentpunkte über Basiszinssatz"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Bei Verbrauchern beträgt der Verzugszinssatz 5 Prozentpunkte über dem Basiszinssatz (§ 288 Abs. 1 BGB).",
@@ -367,10 +367,10 @@
         "id": "q17",
         "text": "Was ist eine Willenserklärung (§ 116 ff. BGB)?",
         "options": [
-          "Ein rein innerlicher Wille",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Eine Erklärung, die auf die Herbeiführung einer Rechtsfolge gerichtet ist",
-          "Ein tatsächliches Handeln ohne Rechtsfolgewillen",
-          "Eine staatliche Anordnung"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Eine Willenserklärung ist eine Äußerung, die auf die Herbeiführung einer Rechtsfolge gerichtet ist (§§ 116 ff. BGB).",
@@ -388,10 +388,10 @@
         "id": "q18",
         "text": "Was passiert, wenn eine Willenserklärung unter einem geheimen Vorbehalt abgegeben wird (§ 116 BGB)?",
         "options": [
-          "Sie ist unwirksam",
-          "Sie ist anfechtbar",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Sie ist nicht nichtig, es sei denn der andere kennt den Vorbehalt",
-          "Sie wird automatisch wirksam"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Eine Willenserklärung ist nicht nichtig, weil der Erklärende sich etwas anderes vorbehalten hat, außer der Empfänger kennt den Vorbehalt (§ 116 BGB).",
@@ -409,10 +409,10 @@
         "id": "q19",
         "text": "Wie lange beträgt die Widerrufsfrist bei Verbraucherverträgen (§ 355 BGB)?",
         "options": [
-          "7 Tage",
-          "10 Tage",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "14 Tage",
-          "30 Tage"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Die Widerrufsfrist beträgt 14 Tage (§ 355 Abs. 2 BGB).",
@@ -430,10 +430,10 @@
         "id": "q20",
         "text": "Was ist die Rechtsfolge des Widerrufs nach § 355 BGB?",
         "options": [
-          "Die Verträge bleiben bestehen",
-          "Nur der Verbraucher ist gebunden",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Beide Parteien sind nicht mehr an den Vertrag gebunden",
-          "Es wird automatisch Schadensersatz geschuldet"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Nach einem Widerruf sind Verbraucher und Unternehmer nicht mehr an ihre Willenserklärungen gebunden (§ 355 Abs. 1 BGB).",
@@ -452,9 +452,9 @@
         "text": "Welche Hauptpflichten ergeben sich beim Kaufvertrag nach § 433 BGB?",
         "options": [
           "Übergabe der Sache und Zahlung des Kaufpreises",
-          "Nur Zahlung des Kaufpreises",
-          "Nur Übereignung des Geldes",
-          "Miete der Sache und Nutzung"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Der Verkäufer muss die Sache übergeben und Eigentum verschaffen; der Käufer den Kaufpreis zahlen und die Sache abnehmen (§ 433 BGB).",
@@ -473,10 +473,10 @@
         "id": "q22",
         "text": "Welche Rechte hat der Käufer bei Mängeln (§ 437 BGB)?",
         "options": [
-          "Nur Rücktritt",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Ersatz vergeblicher Aufwendungen",
-          "Nur Nacherfüllung oder Minderung",
-          "Nur Schadensersatz"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "§ 437 BGB gewährt dem Käufer bei Mangel: Nacherfüllung sowie bei Vorliegen der Voraussetzungen Rücktritt, Minderung, Schadensersatz oder Ersatz vergeblicher Aufwendungen.",
@@ -495,10 +495,10 @@
         "id": "q23",
         "text": "Wann gerät der Schuldner in Verzug (§ 286 BGB)?",
         "options": [
-          "Erst nach gerichtlicher Klageerhebung",
-          "Mit Fälligkeit automatisch",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Nach Mahnung oder kalendermäßiger Bestimmung der Leistung",
-          "Nur bei Vorsatz"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Verzug tritt grundsätzlich nach Mahnung ein; er kann auch ohne Mahnung eintreten, wenn die Leistung kalendermäßig bestimmt ist oder besondere Voraussetzungen vorliegen (§ 286 BGB).",
@@ -517,10 +517,10 @@
         "id": "q24",
         "text": "Welche Rechtsfolge hat Unmöglichkeit der Leistung (§ 275 BGB)?",
         "options": [
-          "Der Anspruch bleibt bestehen",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Der Anspruch ist ausgeschlossen",
-          "Es entsteht immer Schadensersatzpflicht",
-          "Die Leistung wird gestundet"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Bei Unmöglichkeit ist der Anspruch auf Leistung ausgeschlossen (§ 275 Abs. 1 BGB); Schadensersatz richtet sich nach §§ 280, 283 BGB.",
@@ -538,10 +538,10 @@
         "id": "q25",
         "text": "Welche Voraussetzungen hat der Rücktritt wegen nicht oder nicht vertragsgemäß erbrachter Leistung (§ 323 BGB)?",
         "options": [
-          "Keine Fristsetzung erforderlich",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Fristsetzung oder Entbehrlichkeit der Frist in gesetzlich geregelten Fällen",
-          "Immer Zustimmung des Schuldners nötig",
-          "Nur bei Geldschulden möglich"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Grundsätzlich muss eine angemessene Frist zur Leistung oder Nacherfüllung bestimmt werden; sie ist in bestimmten Fällen entbehrlich (§ 323 BGB).",
@@ -560,10 +560,10 @@
         "id": "q26",
         "text": "Welche Form ist für einen Grundstückskaufvertrag erforderlich (§ 311b BGB)?",
         "options": [
-          "Einfache Schriftform",
-          "Textform",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Notarielle Beurkundung",
-          "Elektronische Form mit qualifizierter Signatur"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Verträge, durch die man sich verpflichtet, Eigentum an einem Grundstück zu übertragen, bedürfen der notariellen Beurkundung (§ 311b Abs. 1 BGB).",
@@ -582,10 +582,10 @@
         "id": "q27",
         "text": "Was ist eine Schenkung im Sinne von § 516 BGB?",
         "options": [
-          "Ein Austauschvertrag mit Gegenleistung",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Eine unentgeltliche Zuwendung, wodurch der Beschenkte aus dem Vermögen des Schenkers bereichert wird",
-          "Eine Miete ohne Entgelt",
-          "Eine Leihe gegen Entgelt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Schenkung ist eine unentgeltliche Zuwendung, durch die der Beschenkte auf Kosten des Schenkers bereichert wird (§ 516 BGB).",
@@ -603,10 +603,10 @@
         "id": "q28",
         "text": "Welche Pflichten hat der Vermieter aus § 535 BGB?",
         "options": [
-          "Nur Zahlung der Miete",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Überlassung der Mietsache zum Gebrauch und Erhaltung in vertragsgemäßem Zustand",
-          "Nur Instandhaltung",
-          "Nur Betriebskostenabrechnung"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Der Vermieter muss die Mietsache zum Gebrauch überlassen und sie in vertragsgemäßem Zustand erhalten (§ 535 Abs. 1 BGB).",
@@ -624,10 +624,10 @@
         "id": "q29",
         "text": "Wann kann der Mieter die Miete mindern (§ 536 BGB)?",
         "options": [
-          "Nur bei Zahlungsunfähigkeit",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Bei Mängeln, die die Tauglichkeit zum vertragsgemäßen Gebrauch aufheben oder mindern",
-          "Nur mit Zustimmung des Vermieters",
-          "Eine Lösung für nie"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Tritt ein Mangel auf, der die Tauglichkeit zum vertragsgemäßen Gebrauch mindert oder aufhebt, ist die Miete kraft Gesetzes gemindert (§ 536 BGB).",
@@ -646,10 +646,10 @@
         "id": "q30",
         "text": "Was kennzeichnet den Dienstvertrag (§ 611a BGB) im Unterschied zum Werkvertrag (§ 631 BGB)?",
         "options": [
-          "Dienstvertrag schuldet Erfolg, Werkvertrag nur Tätigkeit",
-          "Beide schulden nur Tätigkeit",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Dienstvertrag schuldet Tätigkeit, Werkvertrag schuldet Erfolg",
-          "Werkvertrag enthält kein Entgelt"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Beim Dienstvertrag wird eine Tätigkeit geschuldet, beim Werkvertrag der herbeizuführende Erfolg (§ 611a, § 631 BGB).",
@@ -667,10 +667,10 @@
         "id": "q31",
         "text": "Welche Voraussetzung hat ein wirksamer Abtretungsvertrag (§ 398 BGB)?",
         "options": [
-          "Zustimmung des Schuldners ist erforderlich",
-          "Schriftform ist zwingend",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Einigung zwischen Altgläubiger und Neugläubiger über Forderungsübergang",
-          "Gerichtliche Genehmigung"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Die Abtretung erfolgt durch Vertrag zwischen dem bisherigen Gläubiger und dem neuen Gläubiger; Zustimmung des Schuldners ist grundsätzlich nicht erforderlich (§ 398 BGB).",
@@ -690,9 +690,9 @@
         "text": "Welche Voraussetzungen hat die Aufrechnung (§ 387 BGB)?",
         "options": [
           "Gleichartigkeit der Forderungen und Fälligkeit der Gegenforderung",
-          "Nur schriftliche Erklärung",
-          "Voraussetzung ist ein gerichtliches Urteil",
-          "Nur bei Geldforderungen möglich"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Erforderlich sind Gegenseitigkeit, Gleichartigkeit der Forderungen und Durchsetzbarkeit der Gegenforderung (insb. Fälligkeit) (§ 387 BGB).",
@@ -711,10 +711,10 @@
         "id": "q33",
         "text": "Welche Anspruchsgrundlage regelt den Schadensersatz wegen Pflichtverletzung (§ 280 BGB)?",
         "options": [
-          "§ 241 BGB",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "§ 280 BGB",
-          "§ 311b BGB",
-          "§ 122 BGB"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "§ 280 BGB regelt den Schadensersatz wegen Pflichtverletzung aus Schuldverhältnissen.",
@@ -732,10 +732,10 @@
         "id": "q34",
         "text": "Wann ist eine Anfechtung wegen Irrtums möglich (§ 119 BGB)?",
         "options": [
-          "Bei jedem beliebigen Motivirrtum",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Nur bei Erklärungs- oder Inhaltsirrtum sowie Eigenschaftsirrtum nach § 119 Abs. 2",
-          "Nur bei arglistiger Täuschung",
-          "Nur innerhalb von 14 Tagen"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Anfechtbar sind Erklärungs- und Inhaltsirrtum (§ 119 Abs. 1) sowie der Eigenschaftsirrtum (§ 119 Abs. 2). Motivirrtümer sind grundsätzlich irrelevant.",
@@ -755,9 +755,9 @@
         "text": "Welche Frist gilt für die Anfechtung wegen Irrtums (§ 121 BGB)?",
         "options": [
           "Unverzüglich nach Kenntnis",
-          "Ein Jahr",
-          "Drei Jahre",
-          "Zehn Jahre"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Die Anfechtung muss unverzüglich nach Kenntnis des Anfechtungsgrundes erfolgen (§ 121 BGB).",
@@ -775,10 +775,10 @@
         "id": "q36",
         "text": "Welche Wirkung hat die Anfechtung (§ 142 BGB)?",
         "options": [
-          "Nichtigkeit ex nunc",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Nichtigkeit ex tunc",
-          "Kündigung des Vertrags",
-          "Nur Minderung"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Wird eine anfechtbare Willenserklärung angefochten, ist sie von Anfang an (ex tunc) nichtig (§ 142 Abs. 1 BGB).",
@@ -796,10 +796,10 @@
         "id": "q37",
         "text": "Welche besondere Verjährungsfrist gilt bei Mängelansprüchen beim Kauf beweglicher Sachen (§ 438 BGB)?",
         "options": [
-          "6 Monate",
-          "1 Jahr",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "2 Jahre",
-          "3 Jahre"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Die regelmäßige Gewährleistungsfrist beim Kauf beweglicher Sachen beträgt zwei Jahre (§ 438 Abs. 1 Nr. 3 BGB).",
@@ -817,10 +817,10 @@
         "id": "q38",
         "text": "Wann ist der Schuldner zum Schadensersatz statt der Leistung verpflichtet (§§ 280, 281 BGB)?",
         "options": [
-          "Immer bei Verspätung",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Bei Pflichtverletzung und erfolgloser Fristsetzung zur Leistung oder Nacherfüllung",
-          "Nur bei Vorsatz",
-          "Nur wenn ein Rücktritt erklärt wurde"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Schadensersatz statt der Leistung setzt eine Pflichtverletzung und grundsätzlich eine erfolglos gesetzte angemessene Frist voraus (§§ 280, 281 BGB).",
@@ -839,10 +839,10 @@
         "id": "q39",
         "text": "Welche Formvorschrift gilt für Bürgschaften von Verbrauchern (§ 766 BGB)?",
         "options": [
-          "Mündliche Erklärung genügt",
-          "Einfache Textform",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Schriftform (eigenhändige Unterschrift), soweit nicht notariell beurkundet",
-          "Notwendige notarielle Beurkundung in jedem Fall"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Die Verpflichtungserklärung des Bürgen bedarf der Schriftform, sofern sie nicht notariell beurkundet ist (§ 766 BGB).",
@@ -861,10 +861,10 @@
         "id": "q40",
         "text": "Was setzt der Annahmeverzug des Gläubigers voraus (§ 293 BGB)?",
         "options": [
-          "Nur Fälligkeit",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Angebot der Leistung durch den Schuldner und Nichtannahme durch den Gläubiger",
-          "Gerichtliche Feststellung",
-          "Schuldnerschuldnerspezifikation"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Gläubigerverzug erfordert ein ordnungsgemäßes Angebot der Leistung durch den Schuldner und das Ausbleiben der Annahme (§ 293 BGB).",
@@ -884,9 +884,9 @@
         "text": "Wann liegt ein gegenseitiger Vertrag im Sinne des BGB vor?",
         "options": [
           "Wenn beide Parteien unterschiedliche Leistungen schulden",
-          "Wenn nur eine Partei leistet",
-          "Wenn der Staat beteiligt ist",
-          "Wenn es um Arbeitsverträge geht"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein gegenseitiger Vertrag liegt vor, wenn beide Parteien Leistungen schulden, die im Verhältnis zueinander stehen (§ 320 BGB).",
@@ -905,10 +905,10 @@
         "id": "q42",
         "text": "Welche Folge hat der Rücktritt nach § 346 BGB?",
         "options": [
-          "Nur der Käufer muss zurückgeben",
-          "Nur der Verkäufer muss zurückgeben",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Die empfangenen Leistungen sind zurückzugewähren",
-          "Es tritt Schadensersatzpflicht ein"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Beim Rücktritt sind die empfangenen Leistungen zurückzugewähren (§ 346 BGB).",
@@ -926,10 +926,10 @@
         "id": "q43",
         "text": "Wann kann ein Gläubiger Schadensersatz statt der Leistung verlangen (§ 281 BGB)?",
         "options": [
-          "Immer",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Nur wenn eine Pflichtverletzung vorliegt und eine Frist erfolglos gesetzt wurde",
-          "Nur bei arglistigem Verhalten",
-          "Nur bei Rücktritt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Schadensersatz statt der Leistung setzt eine Pflichtverletzung und erfolglose Fristsetzung zur Leistung voraus (§ 281 BGB).",
@@ -947,10 +947,10 @@
         "id": "q44",
         "text": "Wann ist eine Schenkung nach § 518 BGB formwirksam?",
         "options": [
-          "Mündlich",
-          "Immer formfrei",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Durch notarielle Beurkundung",
-          "Durch einfache Schriftform"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Ein Schenkungsversprechen bedarf der notariellen Beurkundung, außer die Leistung ist bereits vollzogen (§ 518 BGB).",
@@ -970,9 +970,9 @@
         "text": "Welche Ansprüche gewährt das Eigentum nach § 903 BGB?",
         "options": [
           "Beliebige Nutzung, soweit Gesetz oder Rechte Dritter nicht entgegenstehen",
-          "Unbeschränkte Nutzung ohne Rücksicht auf andere",
-          "Nur Nutzungsrecht, kein Verfügungsrecht",
-          "Nur Besitzrecht"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Der Eigentümer darf mit der Sache nach Belieben verfahren, soweit nicht Gesetze oder Rechte Dritter entgegenstehen (§ 903 BGB).",
@@ -990,10 +990,10 @@
         "id": "q61",
         "text": "Wann ist eine Ehe nach § 1314 BGB aufhebbar?",
         "options": [
-          "Bei schwerer Krankheit",
-          "Bei Geschäftsunfähigkeit eines Ehegatten",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Wenn einer der Ehegatten minderjährig ist und keine Befreiung vorliegt",
-          "Bei Arbeitslosigkeit"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Eine Ehe ist aufhebbar, wenn ein Ehegatte bei der Eheschließung minderjährig war und keine Befreiung vorlag (§ 1314 BGB).",
@@ -1011,10 +1011,10 @@
         "id": "q62",
         "text": "Was regelt der gesetzliche Güterstand der Zugewinngemeinschaft (§ 1363 BGB)?",
         "options": [
-          "Das Vermögen wird gemeinschaftlich Eigentum beider Ehegatten",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Jeder Ehegatte bleibt Eigentümer seines Vermögens, Zugewinnausgleich erfolgt bei Beendigung",
-          "Es gilt automatisch Gütertrennung",
-          "Alles Vermögen gehört dem Staat"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Beim gesetzlichen Güterstand bleibt das Vermögen getrennt, es findet aber ein Zugewinnausgleich im Falle der Beendigung der Ehe statt (§ 1363 BGB).",
@@ -1033,10 +1033,10 @@
         "id": "q63",
         "text": "Wann ist die Scheidung einer Ehe nach § 1565 BGB möglich?",
         "options": [
-          "Immer sofort nach Antragstellung",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Wenn die Ehe gescheitert ist",
-          "Nur bei Zustimmung beider Ehegatten",
-          "Nur nach 10 Jahren Trennung"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Eine Ehe kann geschieden werden, wenn sie gescheitert ist (§ 1565 BGB).",
@@ -1055,10 +1055,10 @@
         "id": "q64",
         "text": "Welche Rangfolge gilt im Unterhaltsrecht nach § 1609 BGB?",
         "options": [
-          "Eltern zuerst",
-          "Geschiedene Ehegatten zuerst",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Kinder und Ehegatten zuerst",
-          "Geschwister zuerst"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Nach § 1609 BGB haben minderjährige Kinder und Ehegatten Vorrang vor anderen Unterhaltsberechtigten.",
@@ -1077,10 +1077,10 @@
         "id": "q65",
         "text": "Wie kann ein Testament nach § 2247 BGB wirksam errichtet werden?",
         "options": [
-          "Mündlich vor Zeugen",
-          "Durch einfache E-Mail",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Eigenhändig geschrieben und unterschrieben",
-          "Durch notarielle Beurkundung zwingend"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Ein eigenhändiges Testament muss handschriftlich verfasst und unterschrieben sein (§ 2247 BGB).",
@@ -1099,10 +1099,10 @@
         "id": "q81",
         "text": "Was ist nach § 929 BGB für die Übereignung einer beweglichen Sache erforderlich?",
         "options": [
-          "Ein schriftlicher Vertrag",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Einigung und Übergabe",
-          "Ein notarieller Vertrag",
-          "Nur die Zahlung des Kaufpreises"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Zur Übertragung des Eigentums an einer beweglichen Sache ist Einigung und Übergabe erforderlich (§ 929 BGB).",
@@ -1122,9 +1122,9 @@
         "text": "Wann erwirbt man Eigentum durch Ersitzung (§ 937 BGB)?",
         "options": [
           "Nach 10 Jahren Eigenbesitz",
-          "Nach 20 Jahren Eigenbesitz",
-          "Nach 30 Jahren Eigenbesitz",
-          "Nie, Ersitzung gibt es nicht"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Der Eigenbesitzer einer beweglichen Sache wird nach 10 Jahren Eigentümer, sofern er nicht unredlich war (§ 937 BGB).",
@@ -1143,10 +1143,10 @@
         "id": "q83",
         "text": "Welche Form ist für einen Grundstückskaufvertrag nach § 311b BGB vorgeschrieben?",
         "options": [
-          "Formfrei möglich",
-          "Schriftform",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Notarielle Beurkundung",
-          "Beglaubigte E-Mail"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Ein Grundstückskaufvertrag bedarf der notariellen Beurkundung (§ 311b BGB).",
@@ -1165,10 +1165,10 @@
         "id": "q84",
         "text": "Welche Voraussetzung gilt für die Anfechtung einer Willenserklärung wegen Irrtums (§ 119 BGB)?",
         "options": [
-          "Nur bei arglistigem Täuschungsversuch",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Der Irrtum muss wesentlich sein",
-          "Immer möglich",
-          "Nur bei Zustimmung des Vertragspartners"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Eine Willenserklärung kann wegen Irrtums angefochten werden, wenn der Irrtum wesentlich ist (§ 119 BGB).",
@@ -1186,10 +1186,10 @@
         "id": "q85",
         "text": "Wie lange beträgt die Erbfolgefrist nach § 1944 BGB zur Ausschlagung einer Erbschaft?",
         "options": [
-          "1 Woche",
-          "2 Wochen",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "6 Wochen",
-          "3 Monate"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Die Frist zur Ausschlagung einer Erbschaft beträgt 6 Wochen (§ 1944 BGB).",
@@ -1208,9 +1208,9 @@
         "text": "Welche Wirkung hat die Annahme eines Erbscheins (§ 1943 BGB)?",
         "options": [
           "Die Erbschaft ist bindend angenommen",
-          "Die Erbschaft kann jederzeit widerrufen werden",
-          "Die Erbschaft verfällt",
-          "Die Erbschaft ist formnichtig"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Mit Annahme oder Ablauf der Ausschlagungsfrist ist die Erbschaft bindend angenommen (§ 1943 BGB).",
@@ -1228,10 +1228,10 @@
         "id": "q87",
         "text": "Was bedeutet Nießbrauch nach § 1030 BGB?",
         "options": [
-          "Recht, Eigentum zu übertragen",
-          "Recht, Besitz dauerhaft zu erwerben",
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
           "Recht, die Nutzungen einer Sache zu ziehen",
-          "Recht, eine Sache zu zerstören"
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
         "explanation": "Nießbrauch ist das Recht, die Nutzungen einer Sache zu ziehen (§ 1030 BGB).",
@@ -1249,10 +1249,10 @@
         "id": "q88",
         "text": "Welche Kündigungsfrist gilt bei einem Mietverhältnis auf unbestimmte Zeit (§ 573c BGB)?",
         "options": [
-          "1 Monat",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "3 Monate",
-          "6 Monate",
-          "12 Monate"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Bei einem Mietverhältnis auf unbestimmte Zeit beträgt die Kündigungsfrist für den Mieter 3 Monate (§ 573c BGB).",
@@ -1270,10 +1270,10 @@
         "id": "q89",
         "text": "Wann tritt Verzug des Schuldners nach § 286 BGB ein?",
         "options": [
-          "Erst nach gerichtlichem Urteil",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Nach Mahnung oder spätestens 30 Tage nach Fälligkeit und Zugang der Rechnung",
-          "Sofort mit Vertragsschluss",
-          "Nach 6 Monaten"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Der Schuldner gerät durch Mahnung oder spätestens 30 Tage nach Fälligkeit und Zugang der Rechnung in Verzug (§ 286 BGB).",
@@ -1292,10 +1292,10 @@
         "id": "q90",
         "text": "Welche Voraussetzung gilt für die Entstehung einer Bürgschaft (§ 766 BGB)?",
         "options": [
-          "Formfrei",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Schriftform",
-          "Notariell",
-          "Mündlich vor Gericht"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Bürgschaftserklärung bedarf der Schriftform (§ 766 BGB).",

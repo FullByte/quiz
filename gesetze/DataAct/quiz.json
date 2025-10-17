@@ -21,10 +21,10 @@
         "id": "q1",
         "text": "Wann wurde die Data Act Verordnung im Amtsblatt der EU veröffentlicht?",
         "options": [
-          "22. Dezember 2022",
+          "Eine ähnliche Alternative",
           "27. Dezember 2023",
-          "1. Januar 2024",
-          "11. Januar 2024"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Data Act Verordnung (EU) 2023/2854 wurde am 27. Dezember 2023 im Amtsblatt der Europäischen Union veröffentlicht.",
@@ -43,10 +43,10 @@
         "id": "q2",
         "text": "Ab wann ist die Data Act Verordnung anwendbar?",
         "options": [
-          "27. Dezember 2023",
-          "1. Januar 2024",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "12. September 2025",
-          "1. Januar 2026"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Verordnung ist ab dem 12. September 2025 anwendbar, also 20 Monate nach ihrer Veröffentlichung im Amtsblatt.",
@@ -66,9 +66,9 @@
         "text": "Was ist das Hauptziel des Data Acts?",
         "options": [
           "Förderung des Wettbewerbs auf Datenmärkten",
-          "Schutz personenbezogener Daten",
-          "Verbesserung der Cybersicherheit",
-          "Harmonisierung von Datenbankrechten"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Data Act zielt darauf ab, faire Bedingungen für den Datenzugang zu schaffen und den Wettbewerb auf Datenmärkten zu fördern.",
@@ -87,10 +87,10 @@
         "id": "q4",
         "text": "Auf welche Arten von Produkten ist der Data Act anwendbar?",
         "options": [
-          "Nur auf digitale Produkte",
-          "Nur auf vernetzte Produkte",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Auf vernetzte Produkte und damit zusammenhängende Dienste",
-          "Auf alle kommerziellen Produkte"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Der Data Act gilt für vernetzte Produkte und damit zusammenhängende Dienste, die Daten generieren oder erheben.",
@@ -109,10 +109,10 @@
         "id": "q5",
         "text": "Was versteht man unter 'Daten' im Sinne des Data Acts?",
         "options": [
-          "Nur personenbezogene Daten",
+          "Ein verwandter KI-Algorithmus",
           "Jede digitale Darstellung von Handlungen, Tatsachen oder Informationen",
-          "Nur strukturierte Datensätze",
-          "Ausschließlich Metadaten"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Daten werden definiert als jede digitale Darstellung von Handlungen, Tatsachen oder Informationen sowie jede Zusammenstellung solcher Handlungen, Tatsachen oder Informationen.",
@@ -131,10 +131,10 @@
         "id": "q6",
         "text": "Wer hat nach dem Data Act ein Recht auf Zugang zu Daten, die durch die Nutzung eines Produkts generiert werden?",
         "options": [
-          "Nur der Hersteller",
-          "Nur der Nutzer",
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
           "Der Nutzer und, auf dessen Veranlassung, Dritte",
-          "Jede interessierte Person"
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 2,
         "explanation": "Der Nutzer hat das Recht auf Zugang zu den durch seine Nutzung generierten Daten und kann auf seine Veranlassung hin diese Daten auch Dritten zugänglich machen lassen.",
@@ -153,10 +153,10 @@
         "id": "q7",
         "text": "Innerhalb welcher Frist muss der Dateninhaber dem Nutzer Zugang zu den Daten gewähren?",
         "options": [
-          "Sofort",
-          "Innerhalb von 24 Stunden",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Unverzüglich und in jedem Fall spätestens innerhalb von 30 Kalendertagen",
-          "Innerhalb von 3 Monaten"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Der Dateninhaber muss die Daten unverzüglich und in jedem Fall spätestens innerhalb von 30 Kalendertagen nach Eingang des Antrags zur Verfügung stellen.",
@@ -175,10 +175,10 @@
         "id": "q8",
         "text": "Dürfen Hersteller für die Bereitstellung von Daten an Nutzer Gebühren verlangen?",
         "options": [
-          "Ja, in unbegrenzter Höhe",
-          "Ja, aber nur in angemessener Höhe",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Nein, die Bereitstellung muss kostenlos sein",
-          "Nur wenn dies vertraglich vereinbart wurde"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Der Dateninhaber stellt dem Nutzer die Daten kostenlos zur Verfügung, es sei denn, eine Gebühr wurde in den Vertragsbedingungen vereinbart und ist angemessen.",
@@ -197,10 +197,10 @@
         "id": "q9",
         "text": "Was müssen Hersteller vernetzter Produkte standardmäßig bereitstellen?",
         "options": [
-          "Eine kostenlose Cloud-Speicherung",
+          "Eine ähnliche Alternative",
           "Informationen über Art, Format und Zugang zu Daten",
-          "Eine mobile App",
-          "Technischen Support rund um die Uhr"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Hersteller müssen den Nutzern klare und leicht zugängliche Informationen über Art, Format und ungefähres Volumen der generierten Daten sowie die Modalitäten des Zugangs bereitstellen.",
@@ -219,10 +219,10 @@
         "id": "q10",
         "text": "Was gilt für vertragliche Klauseln, die das Datenzugangsrecht des Nutzers einschränken?",
         "options": [
-          "Sie sind immer zulässig",
-          "Sie sind nur bei KMU zulässig",
+          "Eine ähnliche rechtliche Bestimmung",
+          "Ein verwandtes Rechtsprinzip",
           "Sie sind unwirksam",
-          "Sie müssen von einer Behörde genehmigt werden"
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 2,
         "explanation": "Vertragliche Bestimmungen, die den Nutzer daran hindern, die Rechte aus dem Data Act wahrzunehmen, sind unwirksam.",
@@ -241,10 +241,10 @@
         "id": "q11",
         "text": "Können öffentliche Stellen Zugang zu Daten von Unternehmen verlangen?",
         "options": [
-          "Nein, niemals",
-          "Ja, jederzeit ohne Begründung",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Ja, bei außergewöhnlichem Bedarf im öffentlichen Interesse",
-          "Nur mit Zustimmung des Unternehmens"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Öffentliche Stellen können bei außergewöhnlichem Bedarf, der zur Erfüllung einer Aufgabe im öffentlichen Interesse erforderlich ist, Zugang zu Daten verlangen.",
@@ -263,10 +263,10 @@
         "id": "q12",
         "text": "Was ist ein 'Dateninhaber' nach dem Data Act?",
         "options": [
-          "Nur juristische Personen",
-          "Jeder, der Daten besitzt",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Eine juristische Person mit dem Recht, über bestimmte Daten zu verfügen",
-          "Nur Hersteller vernetzter Produkte"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Dateninhaber ist eine juristische Person, die aufgrund des anwendbaren Rechts oder der Datenverwaltung das Recht hat, über bestimmte Daten zu verfügen.",
@@ -285,10 +285,10 @@
         "id": "q13",
         "text": "Was sind 'vernetzte Produkte' im Sinne des Data Acts?",
         "options": [
-          "Nur Smartphones und Computer",
+          "Eine ähnliche Alternative",
           "Artikel, die Daten über Nutzung oder Umgebung erheben und übermitteln können",
-          "Produkte mit Internetzugang",
-          "Alle elektronischen Geräte"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Vernetzte Produkte sind Artikel, die durch eine elektronische Kommunikationsdienst- oder physische Datenverbindung Daten über ihre Nutzung oder Umgebung erheben, generieren oder erheben und übermitteln können.",
@@ -307,10 +307,10 @@
         "id": "q14",
         "text": "Welche Anforderung gilt für die Gestaltung vernetzter Produkte?",
         "options": [
-          "Sie müssen Open Source sein",
+          "Eine ähnliche Alternative",
           "Sie müssen standardmäßig Datenzugang ermöglichen (Design by Default)",
-          "Sie müssen in der EU hergestellt werden",
-          "Sie müssen eine Garantie von 5 Jahren haben"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Vernetzte Produkte müssen so gestaltet sein, dass die bei ihrer Nutzung erzeugten Daten für den Nutzer standardmäßig leicht, sicher und, soweit anwendbar, direkt zugänglich sind.",
@@ -329,10 +329,10 @@
         "id": "q15",
         "text": "Was ist mit 'damit zusammenhängenden Diensten' gemeint?",
         "options": [
-          "Nur Cloud-Dienste",
+          "Eine ähnliche Alternative",
           "Digitale Dienste, die mit dem vernetzten Produkt verbunden sind",
-          "Reparaturdienste",
-          "Verkaufs- und Marketingdienste"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Damit zusammenhängende Dienste sind digitale Dienste, die mit dem vernetzten Produkt so verbunden sind, dass ihr Fehlen das vernetzte Produkt daran hindern würde, seine Funktionen zu erfüllen.",
@@ -351,10 +351,10 @@
         "id": "q16",
         "text": "Welche Unternehmen gelten als 'Gate keeper' im Kontext des Data Acts?",
         "options": [
-          "Alle großen Unternehmen",
+          "Eine ähnliche Alternative",
           "Unternehmen, die nach dem Digital Markets Act als solche benannt sind",
-          "Alle Cloud-Anbieter",
-          "Telekommunikationsunternehmen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Gatekeepers sind Unternehmen, die gemäß Artikel 3 der Verordnung (EU) 2022/1925 (Digital Markets Act) als solche benannt wurden.",
@@ -373,10 +373,10 @@
         "id": "q17",
         "text": "Darf ein Dateninhaber den Zugang zu Daten verweigern?",
         "options": [
-          "Ja, ohne Angabe von Gründen",
+          "Ein verwandter KI-Algorithmus",
           "Nur in begründeten Ausnahmefällen, z.B. Geschäftsgeheimnisse",
-          "Nein, niemals",
-          "Nur mit gerichtlicher Genehmigung"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Dateninhaber kann den Zugang nur in begründeten Fällen verweigern, etwa wenn dies erforderlich ist, um Geschäftsgeheimnisse zu wahren oder technisch unmöglich ist.",
@@ -395,10 +395,10 @@
         "id": "q18",
         "text": "Was muss der Dateninhaber tun, wenn er den Datenzugang verweigert?",
         "options": [
-          "Nichts weiter",
+          "Ein verwandter KI-Algorithmus",
           "Eine Begründung vorlegen",
-          "Eine Entschädigung zahlen",
-          "Eine alternative Datenquelle bereitstellen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Dateninhaber muss eine Begründung für die Verweigerung des Datenzugangs vorlegen.",
@@ -417,10 +417,10 @@
         "id": "q19",
         "text": "Können Dritte direkt vom Dateninhaber Zugang zu Daten verlangen?",
         "options": [
-          "Ja, jederzeit",
+          "Ein verwandter KI-Algorithmus",
           "Ja, aber nur auf Veranlassung des Nutzers",
-          "Nein, niemals",
-          "Nur mit behördlicher Genehmigung"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Dritte können Zugang zu Daten verlangen, aber nur auf Veranlassung des Nutzers, der das ursprüngliche Recht auf Datenzugang hat.",
@@ -439,10 +439,10 @@
         "id": "q20",
         "text": "Welche Verpflichtung hat ein Datenempfänger bezüglich der erhaltenen Daten?",
         "options": [
-          "Er kann sie beliebig verwenden",
+          "Ein verwandter KI-Algorithmus",
           "Er darf sie nicht weitergeben ohne Zustimmung",
-          "Er muss sie nach einem Monat löschen",
-          "Er muss sie verschlüsseln"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Datenempfänger darf die Daten nicht ohne ausdrückliche Zustimmung des Nutzers an einen anderen Dritten weitergeben.",
@@ -461,10 +461,10 @@
         "id": "q21",
         "text": "Was ist ein 'Anbieterwechsel' (Switching) im Kontext des Data Acts?",
         "options": [
-          "Wechsel des Internetanbieters",
+          "Eine ähnliche Alternative",
           "Wechsel von einem Datenverarbeitungsdienst zu einem anderen",
-          "Wechsel des Mobilfunkanbieters",
-          "Wechsel des Energieversorgers"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Anbieterwechsel bezeichnet den Prozess, bei dem ein Kunde von einem Anbieter von Datenverarbeitungsdiensten zu einem anderen Anbieter wechselt.",
@@ -483,10 +483,10 @@
         "id": "q22",
         "text": "Welche Kündigungsfrist gilt für Cloud-Dienste nach dem Data Act?",
         "options": [
-          "1 Monat",
-          "3 Monate",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Maximal 30 Kalendertage",
-          "6 Monate"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Kündigungsfrist für Datenverarbeitungsdienste darf 30 Kalendertage nicht überschreiten.",
@@ -505,10 +505,10 @@
         "id": "q23",
         "text": "Dürfen Anbieter von Cloud-Diensten Gebühren für den Wechsel zu einem anderen Anbieter erheben?",
         "options": [
-          "Ja, in unbegrenzter Höhe",
-          "Ja, aber nur angemessene und nachvollziehbare Gebühren",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Nein, Wechselgebühren sind verboten",
-          "Nur bei Geschäftskunden"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Anbieter dürfen keine Gebühren für Funktionen im Zusammenhang mit dem Anbieterwechsel erheben.",
@@ -527,10 +527,10 @@
         "id": "q24",
         "text": "Was müssen Anbieter von Datenverarbeitungsdiensten bezüglich Interoperabilität gewährleisten?",
         "options": [
-          "Nichts Besonderes",
+          "Ein verwandter KI-Algorithmus",
           "Offene Schnittstellen und Standards",
-          "Kompatibilität nur mit eigenen Produkten",
-          "Kostenlose API-Nutzung"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Anbieter müssen offene Schnittstellen bereitstellen und europäische oder internationale Standards verwenden, um effektiven Wechsel und Multi-Cloud-Nutzung zu ermöglichen.",
@@ -549,10 +549,10 @@
         "id": "q25",
         "text": "Welche Rolle spielt die Kommission bei der Interoperabilität?",
         "options": [
-          "Keine",
-          "Sie entwickelt selbst alle Standards",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Sie kann bestimmte Standards als verpflichtend festlegen",
-          "Sie bestraft Unternehmen direkt"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Kommission kann bestimmte europäische oder internationale Standards für die Interoperabilität von Datenverarbeitungsdiensten als verpflichtend festlegen.",
@@ -571,10 +571,10 @@
         "id": "q26",
         "text": "Was sind 'Geschäftsgeheimnisse' im Kontext des Data Acts?",
         "options": [
-          "Alle Unternehmensinformationen",
-          "Nur Patente und Marken",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Informationen mit kommerziellem Wert, die geheim gehalten werden",
-          "Personenbezogene Daten von Mitarbeitern"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Geschäftsgeheimnisse sind Informationen, die einen kommerziellen Wert haben, weil sie geheim sind, und die Gegenstand angemessener Geheimhaltungsmaßnahmen sind.",
@@ -593,10 +593,10 @@
         "id": "q27",
         "text": "Wer ist für die Durchsetzung des Data Acts in den Mitgliedstaaten zuständig?",
         "options": [
-          "Die Europäische Kommission direkt",
+          "Eine ähnliche Alternative",
           "Zuständige Behörden der Mitgliedstaaten",
-          "Der Europäische Gerichtshof",
-          "Private Schiedsgerichte"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Jeder Mitgliedstaat benennt eine oder mehrere zuständige Behörden, die für die Durchsetzung der Verordnung verantwortlich sind.",
@@ -616,9 +616,9 @@
         "text": "Wie hoch können Geldbußen bei Verstößen gegen den Data Act maximal sein?",
         "options": [
           "Bis zu 1% des weltweiten Jahresumsatzes",
-          "Bis zu 2% des weltweiten Jahresumsatzes",
-          "Bis zu 10 Millionen Euro",
-          "Bis zu 20 Millionen Euro"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Geldbußen können bis zu 1% des weltweiten Gesamtumsatzes des Unternehmens im vorangegangenen Geschäftsjahr betragen.",
@@ -637,10 +637,10 @@
         "id": "q29",
         "text": "Gilt der Data Act auch für personenbezogene Daten?",
         "options": [
-          "Ja, ausschließlich",
-          "Nein, überhaupt nicht",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Ja, aber die DSGVO hat Vorrang",
-          "Nur für anonymisierte Daten"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Der Data Act gilt auch für personenbezogene Daten, berührt aber nicht die DSGVO, die bei personenbezogenen Daten weiterhin Anwendung findet.",
@@ -659,10 +659,10 @@
         "id": "q30",
         "text": "Was versteht man unter 'Smart Contracts' im Data Act?",
         "options": [
-          "Intelligente Verträge auf Papier",
+          "Eine ähnliche Alternative",
           "Computerprotokolle in dezentralen Registern zur automatischen Ausführung",
-          "Verträge zwischen KI-Systemen",
-          "Online-Verträge mit digitaler Signatur"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Smart Contract ist ein Computerprotokoll in einem dezentralen Register zur automatischen Ausführung einer Vereinbarung.",
@@ -681,10 +681,10 @@
         "id": "q31",
         "text": "Müssen Smart Contracts nach dem Data Act bestimmte Anforderungen erfüllen?",
         "options": [
-          "Nein, keine besonderen Anforderungen",
+          "Eine ähnliche Alternative",
           "Ja, sie müssen unterbrechbar und beendigbar sein",
-          "Nur wenn sie in der EU entwickelt wurden",
-          "Nur für Transaktionen über 10.000 Euro"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Smart Contracts für Datenteilungsvereinbarungen müssen Funktionen zur sicheren Unterbrechung und Beendigung enthalten.",
@@ -703,10 +703,10 @@
         "id": "q32",
         "text": "Was ist bei der Weitergabe von Daten an Drittländer zu beachten?",
         "options": [
-          "Es ist immer erlaubt",
-          "Es ist grundsätzlich verboten",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Schutzmaßnahmen gegen unrechtmäßigen Zugriff sind erforderlich",
-          "Nur mit Genehmigung der EU-Kommission"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Bei internationalen Datentransfers müssen alle angemessenen Maßnahmen getroffen werden, um unrechtmäßigen Zugriff durch Regierungen von Drittländern zu verhindern.",
@@ -725,10 +725,10 @@
         "id": "q33",
         "text": "Was ist ein 'Datenverarbeitungsdienst'?",
         "options": [
-          "Jeder IT-Service",
+          "Ein verwandter KI-Algorithmus",
           "Ein digitaler Dienst zur Bereitstellung skalierbarer IT-Kapazitäten",
-          "Nur Cloud-Storage",
-          "Software-Entwicklungsdienstleistungen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Datenverarbeitungsdienst ist ein digitaler Dienst, der die Bereitstellung skalierbarer und elastischer Rechen-, Speicher- oder Netzwerkkapazitäten ermöglicht.",
@@ -747,10 +747,10 @@
         "id": "q34",
         "text": "Gilt der Data Act für Kleinstunternehmen?",
         "options": [
-          "Ja, ohne Ausnahmen",
-          "Nein, sie sind vollständig ausgenommen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Ja, aber mit Erleichterungen bei den Verpflichtungen",
-          "Nur wenn sie mehr als 5 Mitarbeiter haben"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Kleinstunternehmen müssen die Anforderungen erfüllen, aber es werden ihre besonderen Bedürfnisse berücksichtigt und sie erhalten Unterstützung.",
@@ -770,9 +770,9 @@
         "text": "Was bedeutet 'B2B-Datenteilung' im Data Act?",
         "options": [
           "Business-to-Business Datenaustausch",
-          "Back-to-Back Datensicherung",
-          "Blockchain-to-Blockchain Transfer",
-          "Bank-to-Bank Transaktionen"
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 0,
         "explanation": "B2B-Datenteilung bezieht sich auf die Weitergabe von Daten zwischen Unternehmen, insbesondere vom Dateninhaber an einen Datenempfänger.",
@@ -791,10 +791,10 @@
         "id": "q36",
         "text": "Können Dateninhaber und Datenempfänger frei über die Bedingungen der Datenteilung verhandeln?",
         "options": [
-          "Ja, völlig frei",
+          "Ein verwandter KI-Algorithmus",
           "Ja, aber unter Beachtung fairer Vertragsbedingungen",
-          "Nein, die Bedingungen sind gesetzlich festgelegt",
-          "Nur mit Genehmigung einer Behörde"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Parteien können die Bedingungen frei verhandeln, aber sie müssen fair, angemessen und diskriminierungsfrei sein.",
@@ -813,10 +813,10 @@
         "id": "q37",
         "text": "Was gilt für die Nutzung von Daten durch öffentliche Stellen?",
         "options": [
-          "Sie können die Daten beliebig nutzen",
+          "Ein verwandter KI-Algorithmus",
           "Sie dürfen die Daten nur für den ursprünglichen Zweck nutzen",
-          "Sie müssen die Daten nach 30 Tagen löschen",
-          "Sie dürfen die Daten verkaufen"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Öffentliche Stellen dürfen die Daten nur für den spezifischen Zweck nutzen, für den sie angefordert wurden.",
@@ -835,10 +835,10 @@
         "id": "q38",
         "text": "Wie müssen Daten bereitgestellt werden?",
         "options": [
-          "Nur als PDF",
+          "Ein verwandter KI-Algorithmus",
           "In einem strukturierten, gängigen und maschinenlesbaren Format",
-          "Nur auf physischen Datenträgern",
-          "Als Papierausdruck"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Daten müssen in einem strukturierten, gängigen und maschinenlesbaren Format bereitgestellt werden.",
@@ -857,10 +857,10 @@
         "id": "q39",
         "text": "Was ist eine 'Datenübermittlung' im Sinne des Data Acts?",
         "options": [
-          "Nur physischer Transport von Datenträgern",
+          "Ein verwandter KI-Algorithmus",
           "Die Bereitstellung von Daten durch den Dateninhaber",
-          "E-Mail-Versand",
-          "Cloud-Synchronisierung"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Datenübermittlung ist die Bereitstellung von Daten durch den Dateninhaber an einen Nutzer oder Datenempfänger gemäß den Bestimmungen der Verordnung.",
@@ -879,10 +879,10 @@
         "id": "q40",
         "text": "Welche Informationen müssen Hersteller über Datenzugang bereitstellen?",
         "options": [
-          "Nur die Datenmenge",
+          "Ein verwandter KI-Algorithmus",
           "Art, Format, Volumen und Zugangsmodalitäten der Daten",
-          "Nur die Speicherdauer",
-          "Keine Informationen erforderlich"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Hersteller müssen Informationen über Art, Format, ungefähres Volumen und die Modalitäten des Zugangs zu den Daten bereitstellen.",
@@ -901,10 +901,10 @@
         "id": "q41",
         "text": "Können Nutzer den Datenzugang für einen Dritten automatisieren?",
         "options": [
-          "Nein, das ist nicht erlaubt",
+          "Ein verwandter KI-Algorithmus",
           "Ja, durch APIs oder ähnliche Mittel",
-          "Nur mit schriftlicher Genehmigung",
-          "Nur einmal im Monat"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nutzer können den direkten Zugang von Dritten zu Daten durch APIs oder ähnliche Mittel ermöglichen.",
@@ -923,10 +923,10 @@
         "id": "q42",
         "text": "Was gilt für Wettbewerber des Dateninhabers?",
         "options": [
-          "Sie haben keinen Anspruch auf Daten",
+          "Ein verwandter KI-Algorithmus",
           "Sie können Zugang als Dritte erhalten, wenn der Nutzer zustimmt",
-          "Sie müssen immer Zugang erhalten",
-          "Sie brauchen eine behördliche Genehmigung"
+          "Eine ähnliche Machine-Learning-Methode",
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Auch Wettbewerber können als Dritte Zugang zu Daten erhalten, wenn der Nutzer dies wünscht, aber es gelten besondere Schutzmaßnahmen für Geschäftsgeheimnisse.",
@@ -945,10 +945,10 @@
         "id": "q43",
         "text": "Was ist eine 'technische Schutzvorkehrung' nach dem Data Act?",
         "options": [
-          "Physische Sicherheitsmaßnahmen",
+          "Eine ähnliche Alternative",
           "Maßnahmen zum Schutz vor unbefugtem Zugriff auf Daten",
-          "Firewall-Systeme",
-          "Passwörter"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Technische Schutzvorkehrungen sind Maßnahmen wie Verschlüsselung, die den unbefugten Zugriff auf Daten verhindern sollen.",
@@ -967,10 +967,10 @@
         "id": "q44",
         "text": "Welche Rolle spielt der 'außergewöhnliche Bedarf' bei öffentlichen Stellen?",
         "options": [
-          "Keine besondere Rolle",
+          "Eine ähnliche Alternative",
           "Es muss eine Notsituation oder dringender Bedarf vorliegen",
-          "Jede Anfrage gilt als außergewöhnlich",
-          "Nur bei Naturkatastrophen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Öffentliche Stellen können nur bei außergewöhnlichem Bedarf, wie öffentlichen Notlagen oder erheblichen Effizienzgewinnen, Zugang verlangen.",
@@ -989,10 +989,10 @@
         "id": "q45",
         "text": "Können öffentliche Stellen für die erhaltenen Daten bezahlen müssen?",
         "options": [
-          "Nein, niemals",
-          "Ja, immer",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Ja, eine angemessene Vergütung ist möglich",
-          "Nur bei privaten Unternehmen"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Öffentliche Stellen können eine angemessene Vergütung für die Bereitstellung der Daten zahlen müssen.",
@@ -1011,10 +1011,10 @@
         "id": "q46",
         "text": "Was ist das Ziel der Bestimmungen zum Cloud-Wechsel?",
         "options": [
-          "Monopole zu schaffen",
+          "Eine ähnliche Alternative",
           "Vendor Lock-in zu verhindern",
-          "Cloud-Anbieter zu schützen",
-          "Die Cloud-Nutzung zu verbieten"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Bestimmungen sollen verhindern, dass Kunden durch technische oder vertragliche Barrieren an einen Cloud-Anbieter gebunden sind (Vendor Lock-in).",
@@ -1033,10 +1033,10 @@
         "id": "q47",
         "text": "Welche Frist gilt für die Datenübertragung beim Cloud-Wechsel?",
         "options": [
-          "Sofort",
-          "Innerhalb von 7 Tagen",
+          "Ein verwandter KI-Algorithmus",
+          "Eine ähnliche Machine-Learning-Methode",
           "Innerhalb von 30 Tagen nach Vertragsende",
-          "Innerhalb von 3 Monaten"
+          "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Der Anbieter muss eine Übertragung der Daten innerhalb von 30 Kalendertagen nach Vertragsende ermöglichen.",
@@ -1055,10 +1055,10 @@
         "id": "q48",
         "text": "Was müssen Cloud-Anbieter über Wechselkosten offenlegen?",
         "options": [
-          "Nichts",
+          "Eine ähnliche Alternative",
           "Alle potenziellen Kosten vor Vertragsabschluss",
-          "Nur auf Anfrage",
-          "Nur bei Kündigung"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cloud-Anbieter müssen vor Vertragsabschluss transparent über alle möglichen Kosten und Hindernisse beim Anbieterwechsel informieren.",
@@ -1078,9 +1078,9 @@
         "text": "Was ist eine 'Multi-Cloud-Nutzung'?",
         "options": [
           "Nutzung mehrerer Cloud-Services gleichzeitig",
-          "Speicherung in der Wolke",
-          "Private Cloud-Lösung",
-          "Cloud-Backup"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Multi-Cloud-Nutzung bedeutet, dass Kunden Dienste mehrerer Cloud-Anbieter parallel nutzen können.",
@@ -1099,10 +1099,10 @@
         "id": "q50",
         "text": "Welche Behörde überwacht die Einhaltung des Data Acts auf europäischer Ebene?",
         "options": [
-          "Der Europäische Datenschutzbeauftragte",
+          "Eine ähnliche Alternative",
           "Die Europäische Kommission",
-          "Der Europäische Gerichtshof",
-          "Die Europäische Zentralbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Europäische Kommission überwacht die Anwendung der Verordnung und kann Leitlinien erlassen.",

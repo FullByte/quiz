@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Welche Voraussetzung gilt für die Zulassung eines Kraftfahrzeugs im öffentlichen Straßenverkehr?",
         "options": [
-          "Eine bestandene Hauptuntersuchung durch eine Prüfstelle",
+          "Eine ähnliche Alternative",
           "Die vorherige Zuteilung eines amtlichen Kennzeichens durch die Zulassungsbehörde",
-          "Der Abschluss einer privaten Kfz-Haftpflichtversicherung",
-          "Ein gültiger Führerschein des Fahrzeughalters"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Zulassung erfolgt nach Antrag bei der Behörde durch Zuteilung eines amtlichen Kennzeichens. Versicherung und Führerschein sind zwar notwendig, aber nicht Zulassungsvoraussetzung im StVG selbst.",
@@ -48,9 +48,9 @@
         "text": "Welche Fahrzeuge gelten NICHT als Kraftfahrzeuge im Sinne des StVG?",
         "options": [
           "Elektrofahrräder mit max. 0,25 kW Unterstützung bis 25 km/h",
-          "Leichtkrafträder bis 50 ccm",
-          "Krafträder mit Elektromotor",
-          "PKW mit Hybridantrieb"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fahrzeuge mit Muskelkraftantrieb und elektrischem Hilfsantrieb bis 0,25 kW, der bei 25 km/h abschaltet, gelten als Fahrräder, nicht als Kraftfahrzeuge.",
@@ -68,10 +68,10 @@
         "id": "q3",
         "text": "Wann ist der Betrieb eines Kraftfahrzeugs mit hoch- oder vollautomatisierter Fahrfunktion zulässig?",
         "options": [
-          "Nur wenn ein Fahrlehrer anwesend ist",
+          "Eine ähnliche Alternative",
           "Wenn die Funktion bestimmungsgemäß verwendet wird",
-          "Wenn die Geschwindigkeit 30 km/h nicht überschreitet",
-          "Nur nach gesonderter Fahrerlaubnis"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Betrieb ist erlaubt, wenn die hoch- oder vollautomatisierte Funktion bestimmungsgemäß verwendet wird. Es ist keine zusätzliche Fahrerlaubnis erforderlich.",
@@ -90,10 +90,10 @@
         "id": "q1",
         "text": "Welche Voraussetzung gilt für die Zulassung eines Kraftfahrzeugs im öffentlichen Straßenverkehr?",
         "options": [
-          "Eine bestandene Hauptuntersuchung durch eine Prüfstelle",
+          "Eine ähnliche Alternative",
           "Die vorherige Zuteilung eines amtlichen Kennzeichens durch die Zulassungsbehörde",
-          "Der Abschluss einer privaten Kfz-Haftpflichtversicherung",
-          "Ein gültiger Führerschein des Fahrzeughalters"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Zulassung erfolgt nach Antrag bei der Behörde durch Zuteilung eines amtlichen Kennzeichens. Versicherung und Führerschein sind zwar notwendig, aber nicht Zulassungsvoraussetzung im StVG selbst.",
@@ -113,9 +113,9 @@
         "text": "Welche Fahrzeuge gelten NICHT als Kraftfahrzeuge im Sinne des StVG?",
         "options": [
           "Elektrofahrräder mit max. 0,25 kW Unterstützung bis 25 km/h",
-          "Leichtkrafträder bis 50 ccm",
-          "Krafträder mit Elektromotor",
-          "PKW mit Hybridantrieb"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fahrzeuge mit Muskelkraftantrieb und elektrischem Hilfsantrieb bis 0,25 kW, der bei 25 km/h abschaltet, gelten als Fahrräder, nicht als Kraftfahrzeuge.",
@@ -133,10 +133,10 @@
         "id": "q3",
         "text": "Wann ist der Betrieb eines Kraftfahrzeugs mit hoch- oder vollautomatisierter Fahrfunktion zulässig?",
         "options": [
-          "Nur wenn ein Fahrlehrer anwesend ist",
+          "Eine ähnliche Alternative",
           "Wenn die Funktion bestimmungsgemäß verwendet wird",
-          "Wenn die Geschwindigkeit 30 km/h nicht überschreitet",
-          "Nur nach gesonderter Fahrerlaubnis"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Betrieb ist erlaubt, wenn die hoch- oder vollautomatisierte Funktion bestimmungsgemäß verwendet wird. Es ist keine zusätzliche Fahrerlaubnis erforderlich.",
@@ -155,10 +155,10 @@
         "id": "q1",
         "text": "Welche Voraussetzung gilt für die Zulassung eines Kraftfahrzeugs im öffentlichen Straßenverkehr?",
         "options": [
-          "Eine bestandene Hauptuntersuchung durch eine Prüfstelle",
+          "Eine ähnliche Alternative",
           "Die vorherige Zuteilung eines amtlichen Kennzeichens durch die Zulassungsbehörde",
-          "Der Abschluss einer privaten Kfz-Haftpflichtversicherung",
-          "Ein gültiger Führerschein des Fahrzeughalters"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Zulassung erfolgt nach Antrag bei der Behörde durch Zuteilung eines amtlichen Kennzeichens. Versicherung und Führerschein sind zwar notwendig, aber nicht Zulassungsvoraussetzung im StVG selbst.",
@@ -178,9 +178,9 @@
         "text": "Welche Fahrzeuge gelten NICHT als Kraftfahrzeuge im Sinne des StVG?",
         "options": [
           "Elektrofahrräder mit max. 0,25 kW Unterstützung bis 25 km/h",
-          "Leichtkrafträder bis 50 ccm",
-          "Krafträder mit Elektromotor",
-          "PKW mit Hybridantrieb"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fahrzeuge mit Muskelkraftantrieb und elektrischem Hilfsantrieb bis 0,25 kW, der bei 25 km/h abschaltet, gelten als Fahrräder, nicht als Kraftfahrzeuge.",
@@ -198,10 +198,10 @@
         "id": "q3",
         "text": "Wann ist der Betrieb eines Kraftfahrzeugs mit hoch- oder vollautomatisierter Fahrfunktion zulässig?",
         "options": [
-          "Nur wenn ein Fahrlehrer anwesend ist",
+          "Eine ähnliche Alternative",
           "Wenn die Funktion bestimmungsgemäß verwendet wird",
-          "Wenn die Geschwindigkeit 30 km/h nicht überschreitet",
-          "Nur nach gesonderter Fahrerlaubnis"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Betrieb ist erlaubt, wenn die hoch- oder vollautomatisierte Funktion bestimmungsgemäß verwendet wird. Es ist keine zusätzliche Fahrerlaubnis erforderlich.",
@@ -220,10 +220,10 @@
         "id": "q1",
         "text": "Welche Voraussetzung gilt für die Zulassung eines Kraftfahrzeugs im öffentlichen Straßenverkehr?",
         "options": [
-          "Eine bestandene Hauptuntersuchung durch eine Prüfstelle",
+          "Eine ähnliche Alternative",
           "Die vorherige Zuteilung eines amtlichen Kennzeichens durch die Zulassungsbehörde",
-          "Der Abschluss einer privaten Kfz-Haftpflichtversicherung",
-          "Ein gültiger Führerschein des Fahrzeughalters"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Zulassung erfolgt nach Antrag bei der Behörde durch Zuteilung eines amtlichen Kennzeichens. Versicherung und Führerschein sind zwar notwendig, aber nicht Zulassungsvoraussetzung im StVG selbst.",
@@ -243,9 +243,9 @@
         "text": "Welche Fahrzeuge gelten NICHT als Kraftfahrzeuge im Sinne des StVG?",
         "options": [
           "Elektrofahrräder mit max. 0,25 kW Unterstützung bis 25 km/h",
-          "Leichtkrafträder bis 50 ccm",
-          "Krafträder mit Elektromotor",
-          "PKW mit Hybridantrieb"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fahrzeuge mit Muskelkraftantrieb und elektrischem Hilfsantrieb bis 0,25 kW, der bei 25 km/h abschaltet, gelten als Fahrräder, nicht als Kraftfahrzeuge.",
@@ -263,10 +263,10 @@
         "id": "q3",
         "text": "Wann ist der Betrieb eines Kraftfahrzeugs mit hoch- oder vollautomatisierter Fahrfunktion zulässig?",
         "options": [
-          "Nur wenn ein Fahrlehrer anwesend ist",
+          "Eine ähnliche Alternative",
           "Wenn die Funktion bestimmungsgemäß verwendet wird",
-          "Wenn die Geschwindigkeit 30 km/h nicht überschreitet",
-          "Nur nach gesonderter Fahrerlaubnis"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Betrieb ist erlaubt, wenn die hoch- oder vollautomatisierte Funktion bestimmungsgemäß verwendet wird. Es ist keine zusätzliche Fahrerlaubnis erforderlich.",
@@ -285,10 +285,10 @@
         "id": "q1",
         "text": "Welche Voraussetzung gilt für die Zulassung eines Kraftfahrzeugs im öffentlichen Straßenverkehr?",
         "options": [
-          "Eine bestandene Hauptuntersuchung durch eine Prüfstelle",
+          "Eine ähnliche Alternative",
           "Die vorherige Zuteilung eines amtlichen Kennzeichens durch die Zulassungsbehörde",
-          "Der Abschluss einer privaten Kfz-Haftpflichtversicherung",
-          "Ein gültiger Führerschein des Fahrzeughalters"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Zulassung erfolgt nach Antrag bei der Behörde durch Zuteilung eines amtlichen Kennzeichens. Versicherung und Führerschein sind zwar notwendig, aber nicht Zulassungsvoraussetzung im StVG selbst.",
@@ -308,9 +308,9 @@
         "text": "Welche Fahrzeuge gelten NICHT als Kraftfahrzeuge im Sinne des StVG?",
         "options": [
           "Elektrofahrräder mit max. 0,25 kW Unterstützung bis 25 km/h",
-          "Leichtkrafträder bis 50 ccm",
-          "Krafträder mit Elektromotor",
-          "PKW mit Hybridantrieb"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fahrzeuge mit Muskelkraftantrieb und elektrischem Hilfsantrieb bis 0,25 kW, der bei 25 km/h abschaltet, gelten als Fahrräder, nicht als Kraftfahrzeuge.",
@@ -328,10 +328,10 @@
         "id": "q3",
         "text": "Wann ist der Betrieb eines Kraftfahrzeugs mit hoch- oder vollautomatisierter Fahrfunktion zulässig?",
         "options": [
-          "Nur wenn ein Fahrlehrer anwesend ist",
+          "Eine ähnliche Alternative",
           "Wenn die Funktion bestimmungsgemäß verwendet wird",
-          "Wenn die Geschwindigkeit 30 km/h nicht überschreitet",
-          "Nur nach gesonderter Fahrerlaubnis"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Betrieb ist erlaubt, wenn die hoch- oder vollautomatisierte Funktion bestimmungsgemäß verwendet wird. Es ist keine zusätzliche Fahrerlaubnis erforderlich.",
@@ -350,10 +350,10 @@
         "id": "q1",
         "text": "Welche Voraussetzung gilt für die Zulassung eines Kraftfahrzeugs im öffentlichen Straßenverkehr?",
         "options": [
-          "Eine bestandene Hauptuntersuchung durch eine Prüfstelle",
+          "Eine ähnliche Alternative",
           "Die vorherige Zuteilung eines amtlichen Kennzeichens durch die Zulassungsbehörde",
-          "Der Abschluss einer privaten Kfz-Haftpflichtversicherung",
-          "Ein gültiger Führerschein des Fahrzeughalters"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Zulassung erfolgt nach Antrag bei der Behörde durch Zuteilung eines amtlichen Kennzeichens. Versicherung und Führerschein sind zwar notwendig, aber nicht Zulassungsvoraussetzung im StVG selbst.",
@@ -373,9 +373,9 @@
         "text": "Welche Fahrzeuge gelten NICHT als Kraftfahrzeuge im Sinne des StVG?",
         "options": [
           "Elektrofahrräder mit max. 0,25 kW Unterstützung bis 25 km/h",
-          "Leichtkrafträder bis 50 ccm",
-          "Krafträder mit Elektromotor",
-          "PKW mit Hybridantrieb"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fahrzeuge mit Muskelkraftantrieb und elektrischem Hilfsantrieb bis 0,25 kW, der bei 25 km/h abschaltet, gelten als Fahrräder, nicht als Kraftfahrzeuge.",
@@ -393,10 +393,10 @@
         "id": "q3",
         "text": "Wann ist der Betrieb eines Kraftfahrzeugs mit hoch- oder vollautomatisierter Fahrfunktion zulässig?",
         "options": [
-          "Nur wenn ein Fahrlehrer anwesend ist",
+          "Eine ähnliche Alternative",
           "Wenn die Funktion bestimmungsgemäß verwendet wird",
-          "Wenn die Geschwindigkeit 30 km/h nicht überschreitet",
-          "Nur nach gesonderter Fahrerlaubnis"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Betrieb ist erlaubt, wenn die hoch- oder vollautomatisierte Funktion bestimmungsgemäß verwendet wird. Es ist keine zusätzliche Fahrerlaubnis erforderlich.",
@@ -415,10 +415,10 @@
         "id": "q1",
         "text": "Welche Voraussetzung gilt für die Zulassung eines Kraftfahrzeugs im öffentlichen Straßenverkehr?",
         "options": [
-          "Eine bestandene Hauptuntersuchung durch eine Prüfstelle",
+          "Eine ähnliche Alternative",
           "Die vorherige Zuteilung eines amtlichen Kennzeichens durch die Zulassungsbehörde",
-          "Der Abschluss einer privaten Kfz-Haftpflichtversicherung",
-          "Ein gültiger Führerschein des Fahrzeughalters"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Zulassung erfolgt nach Antrag bei der Behörde durch Zuteilung eines amtlichen Kennzeichens. Versicherung und Führerschein sind zwar notwendig, aber nicht Zulassungsvoraussetzung im StVG selbst.",
@@ -438,9 +438,9 @@
         "text": "Welche Fahrzeuge gelten NICHT als Kraftfahrzeuge im Sinne des StVG?",
         "options": [
           "Elektrofahrräder mit max. 0,25 kW Unterstützung bis 25 km/h",
-          "Leichtkrafträder bis 50 ccm",
-          "Krafträder mit Elektromotor",
-          "PKW mit Hybridantrieb"
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fahrzeuge mit Muskelkraftantrieb und elektrischem Hilfsantrieb bis 0,25 kW, der bei 25 km/h abschaltet, gelten als Fahrräder, nicht als Kraftfahrzeuge.",
@@ -458,10 +458,10 @@
         "id": "q39",
         "text": "Wer benötigt grundsätzlich eine Fahrerlaubnis nach dem StVG?",
         "options": [
-          "Jede Person, die ein Fahrrad mit Hilfsmotor fährt",
+          "Eine ähnliche Alternative",
           "Jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt",
-          "Jede Person, die ein Mofa bis 25 km/h nutzt",
-          "Nur Personen, die gewerblich Fahrzeuge nutzen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 2 StVG muss jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt, im Besitz einer gültigen Fahrerlaubnis sein.",
@@ -480,10 +480,10 @@
         "id": "q40",
         "text": "Welches Mindestalter ist nach dem StVG für den Erwerb einer Fahrerlaubnis Voraussetzung?",
         "options": [
-          "16 Jahre für alle Klassen",
-          "18 Jahre für alle Klassen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Das gesetzlich vorgeschriebene Mindestalter je nach Führerscheinklasse",
-          "Kein Mindestalter, nur eine Eignungsprüfung"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das StVG legt fest, dass die Fahrerlaubnis nur erteilt wird, wenn das gesetzlich vorgeschriebene Mindestalter für die jeweilige Klasse erreicht ist (§ 2 Abs. 2 Nr. 2).",
@@ -502,10 +502,10 @@
         "id": "q38",
         "text": "Welche Pflicht hat die Fahrerlaubnisbehörde bei Bedenken an der Fahreignung eines Bewerbers?",
         "options": [
-          "Sie muss automatisch die Fahrerlaubnis verweigern",
-          "Sie darf nur eine praktische Fahrprüfung verlangen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Sie kann ein ärztliches oder fachpsychologisches Gutachten anordnen",
-          "Sie überträgt die Entscheidung an die Polizei"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Nach § 2 Abs. 8 StVG kann die Behörde bei Bedenken an der Fahreignung Gutachten oder Zeugnisse anordnen. Eine automatische Verweigerung ist nicht vorgesehen.",
@@ -524,10 +524,10 @@
         "id": "q39",
         "text": "Wer benötigt grundsätzlich eine Fahrerlaubnis nach dem StVG?",
         "options": [
-          "Jede Person, die ein Fahrrad mit Hilfsmotor fährt",
+          "Eine ähnliche Alternative",
           "Jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt",
-          "Jede Person, die ein Mofa bis 25 km/h nutzt",
-          "Nur Personen, die gewerblich Fahrzeuge nutzen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 2 StVG muss jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt, im Besitz einer gültigen Fahrerlaubnis sein.",
@@ -546,10 +546,10 @@
         "id": "q40",
         "text": "Welches Mindestalter ist nach dem StVG für den Erwerb einer Fahrerlaubnis Voraussetzung?",
         "options": [
-          "16 Jahre für alle Klassen",
-          "18 Jahre für alle Klassen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Das gesetzlich vorgeschriebene Mindestalter je nach Führerscheinklasse",
-          "Kein Mindestalter, nur eine Eignungsprüfung"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das StVG legt fest, dass die Fahrerlaubnis nur erteilt wird, wenn das gesetzlich vorgeschriebene Mindestalter für die jeweilige Klasse erreicht ist (§ 2 Abs. 2 Nr. 2).",
@@ -568,10 +568,10 @@
         "id": "q38",
         "text": "Welche Pflicht hat die Fahrerlaubnisbehörde bei Bedenken an der Fahreignung eines Bewerbers?",
         "options": [
-          "Sie muss automatisch die Fahrerlaubnis verweigern",
-          "Sie darf nur eine praktische Fahrprüfung verlangen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Sie kann ein ärztliches oder fachpsychologisches Gutachten anordnen",
-          "Sie überträgt die Entscheidung an die Polizei"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Nach § 2 Abs. 8 StVG kann die Behörde bei Bedenken an der Fahreignung Gutachten oder Zeugnisse anordnen. Eine automatische Verweigerung ist nicht vorgesehen.",
@@ -590,10 +590,10 @@
         "id": "q39",
         "text": "Wer benötigt grundsätzlich eine Fahrerlaubnis nach dem StVG?",
         "options": [
-          "Jede Person, die ein Fahrrad mit Hilfsmotor fährt",
+          "Eine ähnliche Alternative",
           "Jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt",
-          "Jede Person, die ein Mofa bis 25 km/h nutzt",
-          "Nur Personen, die gewerblich Fahrzeuge nutzen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 2 StVG muss jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt, im Besitz einer gültigen Fahrerlaubnis sein.",
@@ -612,10 +612,10 @@
         "id": "q40",
         "text": "Welches Mindestalter ist nach dem StVG für den Erwerb einer Fahrerlaubnis Voraussetzung?",
         "options": [
-          "16 Jahre für alle Klassen",
-          "18 Jahre für alle Klassen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Das gesetzlich vorgeschriebene Mindestalter je nach Führerscheinklasse",
-          "Kein Mindestalter, nur eine Eignungsprüfung"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das StVG legt fest, dass die Fahrerlaubnis nur erteilt wird, wenn das gesetzlich vorgeschriebene Mindestalter für die jeweilige Klasse erreicht ist (§ 2 Abs. 2 Nr. 2).",
@@ -634,10 +634,10 @@
         "id": "q38",
         "text": "Welche Pflicht hat die Fahrerlaubnisbehörde bei Bedenken an der Fahreignung eines Bewerbers?",
         "options": [
-          "Sie muss automatisch die Fahrerlaubnis verweigern",
-          "Sie darf nur eine praktische Fahrprüfung verlangen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Sie kann ein ärztliches oder fachpsychologisches Gutachten anordnen",
-          "Sie überträgt die Entscheidung an die Polizei"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Nach § 2 Abs. 8 StVG kann die Behörde bei Bedenken an der Fahreignung Gutachten oder Zeugnisse anordnen. Eine automatische Verweigerung ist nicht vorgesehen.",
@@ -656,10 +656,10 @@
         "id": "q39",
         "text": "Wer benötigt grundsätzlich eine Fahrerlaubnis nach dem StVG?",
         "options": [
-          "Jede Person, die ein Fahrrad mit Hilfsmotor fährt",
+          "Eine ähnliche Alternative",
           "Jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt",
-          "Jede Person, die ein Mofa bis 25 km/h nutzt",
-          "Nur Personen, die gewerblich Fahrzeuge nutzen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 2 StVG muss jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt, im Besitz einer gültigen Fahrerlaubnis sein.",
@@ -678,10 +678,10 @@
         "id": "q40",
         "text": "Welches Mindestalter ist nach dem StVG für den Erwerb einer Fahrerlaubnis Voraussetzung?",
         "options": [
-          "16 Jahre für alle Klassen",
-          "18 Jahre für alle Klassen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Das gesetzlich vorgeschriebene Mindestalter je nach Führerscheinklasse",
-          "Kein Mindestalter, nur eine Eignungsprüfung"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das StVG legt fest, dass die Fahrerlaubnis nur erteilt wird, wenn das gesetzlich vorgeschriebene Mindestalter für die jeweilige Klasse erreicht ist (§ 2 Abs. 2 Nr. 2).",
@@ -700,10 +700,10 @@
         "id": "q38",
         "text": "Welche Pflicht hat die Fahrerlaubnisbehörde bei Bedenken an der Fahreignung eines Bewerbers?",
         "options": [
-          "Sie muss automatisch die Fahrerlaubnis verweigern",
-          "Sie darf nur eine praktische Fahrprüfung verlangen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Sie kann ein ärztliches oder fachpsychologisches Gutachten anordnen",
-          "Sie überträgt die Entscheidung an die Polizei"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Nach § 2 Abs. 8 StVG kann die Behörde bei Bedenken an der Fahreignung Gutachten oder Zeugnisse anordnen. Eine automatische Verweigerung ist nicht vorgesehen.",
@@ -722,10 +722,10 @@
         "id": "q39",
         "text": "Wer benötigt grundsätzlich eine Fahrerlaubnis nach dem StVG?",
         "options": [
-          "Jede Person, die ein Fahrrad mit Hilfsmotor fährt",
+          "Eine ähnliche Alternative",
           "Jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt",
-          "Jede Person, die ein Mofa bis 25 km/h nutzt",
-          "Nur Personen, die gewerblich Fahrzeuge nutzen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 2 StVG muss jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt, im Besitz einer gültigen Fahrerlaubnis sein.",
@@ -744,10 +744,10 @@
         "id": "q40",
         "text": "Welches Mindestalter ist nach dem StVG für den Erwerb einer Fahrerlaubnis Voraussetzung?",
         "options": [
-          "16 Jahre für alle Klassen",
-          "18 Jahre für alle Klassen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Das gesetzlich vorgeschriebene Mindestalter je nach Führerscheinklasse",
-          "Kein Mindestalter, nur eine Eignungsprüfung"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das StVG legt fest, dass die Fahrerlaubnis nur erteilt wird, wenn das gesetzlich vorgeschriebene Mindestalter für die jeweilige Klasse erreicht ist (§ 2 Abs. 2 Nr. 2).",
@@ -766,10 +766,10 @@
         "id": "q38",
         "text": "Welche Pflicht hat die Fahrerlaubnisbehörde bei Bedenken an der Fahreignung eines Bewerbers?",
         "options": [
-          "Sie muss automatisch die Fahrerlaubnis verweigern",
-          "Sie darf nur eine praktische Fahrprüfung verlangen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Sie kann ein ärztliches oder fachpsychologisches Gutachten anordnen",
-          "Sie überträgt die Entscheidung an die Polizei"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Nach § 2 Abs. 8 StVG kann die Behörde bei Bedenken an der Fahreignung Gutachten oder Zeugnisse anordnen. Eine automatische Verweigerung ist nicht vorgesehen.",
@@ -788,10 +788,10 @@
         "id": "q39",
         "text": "Wer benötigt grundsätzlich eine Fahrerlaubnis nach dem StVG?",
         "options": [
-          "Jede Person, die ein Fahrrad mit Hilfsmotor fährt",
+          "Eine ähnliche Alternative",
           "Jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt",
-          "Jede Person, die ein Mofa bis 25 km/h nutzt",
-          "Nur Personen, die gewerblich Fahrzeuge nutzen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 2 StVG muss jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt, im Besitz einer gültigen Fahrerlaubnis sein.",
@@ -810,10 +810,10 @@
         "id": "q40",
         "text": "Welches Mindestalter ist nach dem StVG für den Erwerb einer Fahrerlaubnis Voraussetzung?",
         "options": [
-          "16 Jahre für alle Klassen",
-          "18 Jahre für alle Klassen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Das gesetzlich vorgeschriebene Mindestalter je nach Führerscheinklasse",
-          "Kein Mindestalter, nur eine Eignungsprüfung"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das StVG legt fest, dass die Fahrerlaubnis nur erteilt wird, wenn das gesetzlich vorgeschriebene Mindestalter für die jeweilige Klasse erreicht ist (§ 2 Abs. 2 Nr. 2).",
@@ -832,10 +832,10 @@
         "id": "q38",
         "text": "Welche Pflicht hat die Fahrerlaubnisbehörde bei Bedenken an der Fahreignung eines Bewerbers?",
         "options": [
-          "Sie muss automatisch die Fahrerlaubnis verweigern",
-          "Sie darf nur eine praktische Fahrprüfung verlangen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Sie kann ein ärztliches oder fachpsychologisches Gutachten anordnen",
-          "Sie überträgt die Entscheidung an die Polizei"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Nach § 2 Abs. 8 StVG kann die Behörde bei Bedenken an der Fahreignung Gutachten oder Zeugnisse anordnen. Eine automatische Verweigerung ist nicht vorgesehen.",
@@ -854,10 +854,10 @@
         "id": "q39",
         "text": "Wer benötigt grundsätzlich eine Fahrerlaubnis nach dem StVG?",
         "options": [
-          "Jede Person, die ein Fahrrad mit Hilfsmotor fährt",
+          "Eine ähnliche Alternative",
           "Jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt",
-          "Jede Person, die ein Mofa bis 25 km/h nutzt",
-          "Nur Personen, die gewerblich Fahrzeuge nutzen"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 2 StVG muss jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt, im Besitz einer gültigen Fahrerlaubnis sein.",
@@ -876,10 +876,10 @@
         "id": "q40",
         "text": "Welches Mindestalter ist nach dem StVG für den Erwerb einer Fahrerlaubnis Voraussetzung?",
         "options": [
-          "16 Jahre für alle Klassen",
-          "18 Jahre für alle Klassen",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Das gesetzlich vorgeschriebene Mindestalter je nach Führerscheinklasse",
-          "Kein Mindestalter, nur eine Eignungsprüfung"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das StVG legt fest, dass die Fahrerlaubnis nur erteilt wird, wenn das gesetzlich vorgeschriebene Mindestalter für die jeweilige Klasse erreicht ist (§ 2 Abs. 2 Nr. 2).",
@@ -898,10 +898,10 @@
         "id": "q59",
         "text": "Wann verlängert sich die Probezeit einer Fahrerlaubnis auf vier Jahre?",
         "options": [
-          "Wenn der Führerscheininhaber eine Verkehrsunfallanzeige erhält",
+          "Eine ähnliche Alternative",
           "Wenn ein Aufbauseminar nach einer Zuwiderhandlung angeordnet wird",
-          "Wenn die Fahrerlaubnisbehörde eine Verwarnung ausspricht",
-          "Wenn die Fahrerlaubnis entzogen und neu erteilt wird"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Probezeit verlängert sich nach § 2a Abs. 2a StVG um zwei Jahre (insgesamt vier Jahre), wenn ein Aufbauseminar angeordnet wurde.",
@@ -920,10 +920,10 @@
         "id": "q60",
         "text": "Welche Maßnahme ergreift die Fahrerlaubnisbehörde bei acht Punkten im Fahreignungsregister?",
         "options": [
-          "Eine schriftliche Ermahnung",
-          "Eine Verwarnung mit Hinweis auf ein Seminar",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Die Entziehung der Fahrerlaubnis",
-          "Ein Fahrverbot für einen Monat"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ab acht Punkten gilt der Fahrer als ungeeignet, die Fahrerlaubnis ist zwingend zu entziehen (§ 4 Abs. 5 StVG).",
@@ -942,10 +942,10 @@
         "id": "q58",
         "text": "Welche Funktion hat das Fahreignungsseminar nach § 4a StVG?",
         "options": [
-          "Es dient der medizinischen Untersuchung der Fahrtüchtigkeit",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Es soll sicherheitsrelevante Mängel im Verkehrsverhalten abbauen",
-          "Es ersetzt die theoretische Fahrprüfung",
-          "Es ermöglicht den Erwerb einer neuen Führerscheinklasse"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Das Fahreignungsseminar dient der Verhaltensänderung: Teilnehmer sollen sicherheitsrelevante Mängel im Verkehrsverhalten erkennen und abbauen.",
@@ -964,10 +964,10 @@
         "id": "q59",
         "text": "Wann verlängert sich die Probezeit einer Fahrerlaubnis auf vier Jahre?",
         "options": [
-          "Wenn der Führerscheininhaber eine Verkehrsunfallanzeige erhält",
+          "Eine ähnliche Alternative",
           "Wenn ein Aufbauseminar nach einer Zuwiderhandlung angeordnet wird",
-          "Wenn die Fahrerlaubnisbehörde eine Verwarnung ausspricht",
-          "Wenn die Fahrerlaubnis entzogen und neu erteilt wird"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Probezeit verlängert sich nach § 2a Abs. 2a StVG um zwei Jahre (insgesamt vier Jahre), wenn ein Aufbauseminar angeordnet wurde.",
@@ -986,10 +986,10 @@
         "id": "q60",
         "text": "Welche Maßnahme ergreift die Fahrerlaubnisbehörde bei acht Punkten im Fahreignungsregister?",
         "options": [
-          "Eine schriftliche Ermahnung",
-          "Eine Verwarnung mit Hinweis auf ein Seminar",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Die Entziehung der Fahrerlaubnis",
-          "Ein Fahrverbot für einen Monat"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ab acht Punkten gilt der Fahrer als ungeeignet, die Fahrerlaubnis ist zwingend zu entziehen (§ 4 Abs. 5 StVG).",
@@ -1008,10 +1008,10 @@
         "id": "q58",
         "text": "Welche Funktion hat das Fahreignungsseminar nach § 4a StVG?",
         "options": [
-          "Es dient der medizinischen Untersuchung der Fahrtüchtigkeit",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Es soll sicherheitsrelevante Mängel im Verkehrsverhalten abbauen",
-          "Es ersetzt die theoretische Fahrprüfung",
-          "Es ermöglicht den Erwerb einer neuen Führerscheinklasse"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Das Fahreignungsseminar dient der Verhaltensänderung: Teilnehmer sollen sicherheitsrelevante Mängel im Verkehrsverhalten erkennen und abbauen.",
@@ -1030,10 +1030,10 @@
         "id": "q59",
         "text": "Wann verlängert sich die Probezeit einer Fahrerlaubnis auf vier Jahre?",
         "options": [
-          "Wenn der Führerscheininhaber eine Verkehrsunfallanzeige erhält",
+          "Eine ähnliche Alternative",
           "Wenn ein Aufbauseminar nach einer Zuwiderhandlung angeordnet wird",
-          "Wenn die Fahrerlaubnisbehörde eine Verwarnung ausspricht",
-          "Wenn die Fahrerlaubnis entzogen und neu erteilt wird"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Probezeit verlängert sich nach § 2a Abs. 2a StVG um zwei Jahre (insgesamt vier Jahre), wenn ein Aufbauseminar angeordnet wurde.",
@@ -1052,10 +1052,10 @@
         "id": "q60",
         "text": "Welche Maßnahme ergreift die Fahrerlaubnisbehörde bei acht Punkten im Fahreignungsregister?",
         "options": [
-          "Eine schriftliche Ermahnung",
-          "Eine Verwarnung mit Hinweis auf ein Seminar",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Die Entziehung der Fahrerlaubnis",
-          "Ein Fahrverbot für einen Monat"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ab acht Punkten gilt der Fahrer als ungeeignet, die Fahrerlaubnis ist zwingend zu entziehen (§ 4 Abs. 5 StVG).",
@@ -1074,10 +1074,10 @@
         "id": "q58",
         "text": "Welche Funktion hat das Fahreignungsseminar nach § 4a StVG?",
         "options": [
-          "Es dient der medizinischen Untersuchung der Fahrtüchtigkeit",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Es soll sicherheitsrelevante Mängel im Verkehrsverhalten abbauen",
-          "Es ersetzt die theoretische Fahrprüfung",
-          "Es ermöglicht den Erwerb einer neuen Führerscheinklasse"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Das Fahreignungsseminar dient der Verhaltensänderung: Teilnehmer sollen sicherheitsrelevante Mängel im Verkehrsverhalten erkennen und abbauen.",
@@ -1096,10 +1096,10 @@
         "id": "q59",
         "text": "Wann verlängert sich die Probezeit einer Fahrerlaubnis auf vier Jahre?",
         "options": [
-          "Wenn der Führerscheininhaber eine Verkehrsunfallanzeige erhält",
+          "Eine ähnliche Alternative",
           "Wenn ein Aufbauseminar nach einer Zuwiderhandlung angeordnet wird",
-          "Wenn die Fahrerlaubnisbehörde eine Verwarnung ausspricht",
-          "Wenn die Fahrerlaubnis entzogen und neu erteilt wird"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Probezeit verlängert sich nach § 2a Abs. 2a StVG um zwei Jahre (insgesamt vier Jahre), wenn ein Aufbauseminar angeordnet wurde.",
@@ -1118,10 +1118,10 @@
         "id": "q60",
         "text": "Welche Maßnahme ergreift die Fahrerlaubnisbehörde bei acht Punkten im Fahreignungsregister?",
         "options": [
-          "Eine schriftliche Ermahnung",
-          "Eine Verwarnung mit Hinweis auf ein Seminar",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Die Entziehung der Fahrerlaubnis",
-          "Ein Fahrverbot für einen Monat"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ab acht Punkten gilt der Fahrer als ungeeignet, die Fahrerlaubnis ist zwingend zu entziehen (§ 4 Abs. 5 StVG).",
@@ -1140,10 +1140,10 @@
         "id": "q58",
         "text": "Welche Funktion hat das Fahreignungsseminar nach § 4a StVG?",
         "options": [
-          "Es dient der medizinischen Untersuchung der Fahrtüchtigkeit",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Es soll sicherheitsrelevante Mängel im Verkehrsverhalten abbauen",
-          "Es ersetzt die theoretische Fahrprüfung",
-          "Es ermöglicht den Erwerb einer neuen Führerscheinklasse"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Das Fahreignungsseminar dient der Verhaltensänderung: Teilnehmer sollen sicherheitsrelevante Mängel im Verkehrsverhalten erkennen und abbauen.",
@@ -1162,10 +1162,10 @@
         "id": "q59",
         "text": "Wann verlängert sich die Probezeit einer Fahrerlaubnis auf vier Jahre?",
         "options": [
-          "Wenn der Führerscheininhaber eine Verkehrsunfallanzeige erhält",
+          "Eine ähnliche Alternative",
           "Wenn ein Aufbauseminar nach einer Zuwiderhandlung angeordnet wird",
-          "Wenn die Fahrerlaubnisbehörde eine Verwarnung ausspricht",
-          "Wenn die Fahrerlaubnis entzogen und neu erteilt wird"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Probezeit verlängert sich nach § 2a Abs. 2a StVG um zwei Jahre (insgesamt vier Jahre), wenn ein Aufbauseminar angeordnet wurde.",
@@ -1184,10 +1184,10 @@
         "id": "q60",
         "text": "Welche Maßnahme ergreift die Fahrerlaubnisbehörde bei acht Punkten im Fahreignungsregister?",
         "options": [
-          "Eine schriftliche Ermahnung",
-          "Eine Verwarnung mit Hinweis auf ein Seminar",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Die Entziehung der Fahrerlaubnis",
-          "Ein Fahrverbot für einen Monat"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ab acht Punkten gilt der Fahrer als ungeeignet, die Fahrerlaubnis ist zwingend zu entziehen (§ 4 Abs. 5 StVG).",
@@ -1206,10 +1206,10 @@
         "id": "q58",
         "text": "Welche Funktion hat das Fahreignungsseminar nach § 4a StVG?",
         "options": [
-          "Es dient der medizinischen Untersuchung der Fahrtüchtigkeit",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Es soll sicherheitsrelevante Mängel im Verkehrsverhalten abbauen",
-          "Es ersetzt die theoretische Fahrprüfung",
-          "Es ermöglicht den Erwerb einer neuen Führerscheinklasse"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Das Fahreignungsseminar dient der Verhaltensänderung: Teilnehmer sollen sicherheitsrelevante Mängel im Verkehrsverhalten erkennen und abbauen.",
@@ -1228,10 +1228,10 @@
         "id": "q59",
         "text": "Wann verlängert sich die Probezeit einer Fahrerlaubnis auf vier Jahre?",
         "options": [
-          "Wenn der Führerscheininhaber eine Verkehrsunfallanzeige erhält",
+          "Eine ähnliche Alternative",
           "Wenn ein Aufbauseminar nach einer Zuwiderhandlung angeordnet wird",
-          "Wenn die Fahrerlaubnisbehörde eine Verwarnung ausspricht",
-          "Wenn die Fahrerlaubnis entzogen und neu erteilt wird"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Probezeit verlängert sich nach § 2a Abs. 2a StVG um zwei Jahre (insgesamt vier Jahre), wenn ein Aufbauseminar angeordnet wurde.",
@@ -1250,10 +1250,10 @@
         "id": "q60",
         "text": "Welche Maßnahme ergreift die Fahrerlaubnisbehörde bei acht Punkten im Fahreignungsregister?",
         "options": [
-          "Eine schriftliche Ermahnung",
-          "Eine Verwarnung mit Hinweis auf ein Seminar",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Die Entziehung der Fahrerlaubnis",
-          "Ein Fahrverbot für einen Monat"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ab acht Punkten gilt der Fahrer als ungeeignet, die Fahrerlaubnis ist zwingend zu entziehen (§ 4 Abs. 5 StVG).",
@@ -1272,10 +1272,10 @@
         "id": "q58",
         "text": "Welche Funktion hat das Fahreignungsseminar nach § 4a StVG?",
         "options": [
-          "Es dient der medizinischen Untersuchung der Fahrtüchtigkeit",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Es soll sicherheitsrelevante Mängel im Verkehrsverhalten abbauen",
-          "Es ersetzt die theoretische Fahrprüfung",
-          "Es ermöglicht den Erwerb einer neuen Führerscheinklasse"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Das Fahreignungsseminar dient der Verhaltensänderung: Teilnehmer sollen sicherheitsrelevante Mängel im Verkehrsverhalten erkennen und abbauen.",
@@ -1294,10 +1294,10 @@
         "id": "q59",
         "text": "Wann verlängert sich die Probezeit einer Fahrerlaubnis auf vier Jahre?",
         "options": [
-          "Wenn der Führerscheininhaber eine Verkehrsunfallanzeige erhält",
+          "Eine ähnliche Alternative",
           "Wenn ein Aufbauseminar nach einer Zuwiderhandlung angeordnet wird",
-          "Wenn die Fahrerlaubnisbehörde eine Verwarnung ausspricht",
-          "Wenn die Fahrerlaubnis entzogen und neu erteilt wird"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Probezeit verlängert sich nach § 2a Abs. 2a StVG um zwei Jahre (insgesamt vier Jahre), wenn ein Aufbauseminar angeordnet wurde.",
@@ -1316,10 +1316,10 @@
         "id": "q60",
         "text": "Welche Maßnahme ergreift die Fahrerlaubnisbehörde bei acht Punkten im Fahreignungsregister?",
         "options": [
-          "Eine schriftliche Ermahnung",
-          "Eine Verwarnung mit Hinweis auf ein Seminar",
+          "Eine ähnliche Alternative",
+          "Ein verwandtes Konzept",
           "Die Entziehung der Fahrerlaubnis",
-          "Ein Fahrverbot für einen Monat"
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ab acht Punkten gilt der Fahrer als ungeeignet, die Fahrerlaubnis ist zwingend zu entziehen (§ 4 Abs. 5 StVG).",
@@ -1338,10 +1338,10 @@
         "id": "q79",
         "text": "Welche Höchstgrenze gilt für die Haftung bei Sachschäden nach § 12 StVG (ohne automatisierte Fahrfunktionen)?",
         "options": [
-          "500.000 Euro",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "1 Million Euro",
-          "2 Millionen Euro",
-          "Unbegrenzt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Haftung für Sachschäden ist auf 1 Million Euro begrenzt. Bei automatisierten Fahrfunktionen gilt eine höhere Grenze (§ 12 Abs. 1 Nr. 2 StVG).",
@@ -1360,10 +1360,10 @@
         "id": "q80",
         "text": "Wann entfällt die Ersatzpflicht des Halters nach § 7 StVG?",
         "options": [
-          "Wenn der Fahrer alkoholisiert ist",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Wenn der Unfall durch höhere Gewalt verursacht wird",
-          "Wenn der Geschädigte eine Vollkaskoversicherung hat",
-          "Wenn der Schaden unter 1.000 Euro liegt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Ersatzpflicht entfällt nur bei höherer Gewalt (§ 7 Abs. 2 StVG). Versicherungen oder Schadenshöhen sind im Gesetz nicht als Ausnahme genannt.",
@@ -1382,10 +1382,10 @@
         "id": "q78",
         "text": "Welche besondere Pflicht trifft den Fahrzeugführer bei Nutzung hoch- oder vollautomatisierter Fahrfunktionen nach § 1b StVG?",
         "options": [
-          "Er darf sich vollständig vom Verkehrsgeschehen abwenden",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Er muss jederzeit wahrnehmungsbereit bleiben, um die Steuerung übernehmen zu können",
-          "Er muss die Fahrt mit einem zweiten Fahrer absichern",
-          "Er benötigt eine zusätzliche schriftliche Genehmigung"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Der Fahrer darf sich zwar abwenden, muss aber jederzeit in der Lage sein, die Steuerung zu übernehmen (§ 1b Abs. 1–2 StVG).",
@@ -1404,10 +1404,10 @@
         "id": "q79",
         "text": "Welche Höchstgrenze gilt für die Haftung bei Sachschäden nach § 12 StVG (ohne automatisierte Fahrfunktionen)?",
         "options": [
-          "500.000 Euro",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "1 Million Euro",
-          "2 Millionen Euro",
-          "Unbegrenzt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Haftung für Sachschäden ist auf 1 Million Euro begrenzt. Bei automatisierten Fahrfunktionen gilt eine höhere Grenze (§ 12 Abs. 1 Nr. 2 StVG).",
@@ -1426,10 +1426,10 @@
         "id": "q80",
         "text": "Wann entfällt die Ersatzpflicht des Halters nach § 7 StVG?",
         "options": [
-          "Wenn der Fahrer alkoholisiert ist",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Wenn der Unfall durch höhere Gewalt verursacht wird",
-          "Wenn der Geschädigte eine Vollkaskoversicherung hat",
-          "Wenn der Schaden unter 1.000 Euro liegt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Ersatzpflicht entfällt nur bei höherer Gewalt (§ 7 Abs. 2 StVG). Versicherungen oder Schadenshöhen sind im Gesetz nicht als Ausnahme genannt.",
@@ -1448,10 +1448,10 @@
         "id": "q78",
         "text": "Welche besondere Pflicht trifft den Fahrzeugführer bei Nutzung hoch- oder vollautomatisierter Fahrfunktionen nach § 1b StVG?",
         "options": [
-          "Er darf sich vollständig vom Verkehrsgeschehen abwenden",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Er muss jederzeit wahrnehmungsbereit bleiben, um die Steuerung übernehmen zu können",
-          "Er muss die Fahrt mit einem zweiten Fahrer absichern",
-          "Er benötigt eine zusätzliche schriftliche Genehmigung"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Der Fahrer darf sich zwar abwenden, muss aber jederzeit in der Lage sein, die Steuerung zu übernehmen (§ 1b Abs. 1–2 StVG).",
@@ -1470,10 +1470,10 @@
         "id": "q79",
         "text": "Welche Höchstgrenze gilt für die Haftung bei Sachschäden nach § 12 StVG (ohne automatisierte Fahrfunktionen)?",
         "options": [
-          "500.000 Euro",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "1 Million Euro",
-          "2 Millionen Euro",
-          "Unbegrenzt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Haftung für Sachschäden ist auf 1 Million Euro begrenzt. Bei automatisierten Fahrfunktionen gilt eine höhere Grenze (§ 12 Abs. 1 Nr. 2 StVG).",
@@ -1492,10 +1492,10 @@
         "id": "q80",
         "text": "Wann entfällt die Ersatzpflicht des Halters nach § 7 StVG?",
         "options": [
-          "Wenn der Fahrer alkoholisiert ist",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Wenn der Unfall durch höhere Gewalt verursacht wird",
-          "Wenn der Geschädigte eine Vollkaskoversicherung hat",
-          "Wenn der Schaden unter 1.000 Euro liegt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Ersatzpflicht entfällt nur bei höherer Gewalt (§ 7 Abs. 2 StVG). Versicherungen oder Schadenshöhen sind im Gesetz nicht als Ausnahme genannt.",
@@ -1514,10 +1514,10 @@
         "id": "q78",
         "text": "Welche besondere Pflicht trifft den Fahrzeugführer bei Nutzung hoch- oder vollautomatisierter Fahrfunktionen nach § 1b StVG?",
         "options": [
-          "Er darf sich vollständig vom Verkehrsgeschehen abwenden",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Er muss jederzeit wahrnehmungsbereit bleiben, um die Steuerung übernehmen zu können",
-          "Er muss die Fahrt mit einem zweiten Fahrer absichern",
-          "Er benötigt eine zusätzliche schriftliche Genehmigung"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Der Fahrer darf sich zwar abwenden, muss aber jederzeit in der Lage sein, die Steuerung zu übernehmen (§ 1b Abs. 1–2 StVG).",
@@ -1536,10 +1536,10 @@
         "id": "q79",
         "text": "Welche Höchstgrenze gilt für die Haftung bei Sachschäden nach § 12 StVG (ohne automatisierte Fahrfunktionen)?",
         "options": [
-          "500.000 Euro",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "1 Million Euro",
-          "2 Millionen Euro",
-          "Unbegrenzt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Haftung für Sachschäden ist auf 1 Million Euro begrenzt. Bei automatisierten Fahrfunktionen gilt eine höhere Grenze (§ 12 Abs. 1 Nr. 2 StVG).",
@@ -1558,10 +1558,10 @@
         "id": "q80",
         "text": "Wann entfällt die Ersatzpflicht des Halters nach § 7 StVG?",
         "options": [
-          "Wenn der Fahrer alkoholisiert ist",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Wenn der Unfall durch höhere Gewalt verursacht wird",
-          "Wenn der Geschädigte eine Vollkaskoversicherung hat",
-          "Wenn der Schaden unter 1.000 Euro liegt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Ersatzpflicht entfällt nur bei höherer Gewalt (§ 7 Abs. 2 StVG). Versicherungen oder Schadenshöhen sind im Gesetz nicht als Ausnahme genannt.",
@@ -1580,10 +1580,10 @@
         "id": "q78",
         "text": "Welche besondere Pflicht trifft den Fahrzeugführer bei Nutzung hoch- oder vollautomatisierter Fahrfunktionen nach § 1b StVG?",
         "options": [
-          "Er darf sich vollständig vom Verkehrsgeschehen abwenden",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Er muss jederzeit wahrnehmungsbereit bleiben, um die Steuerung übernehmen zu können",
-          "Er muss die Fahrt mit einem zweiten Fahrer absichern",
-          "Er benötigt eine zusätzliche schriftliche Genehmigung"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Der Fahrer darf sich zwar abwenden, muss aber jederzeit in der Lage sein, die Steuerung zu übernehmen (§ 1b Abs. 1–2 StVG).",
@@ -1602,10 +1602,10 @@
         "id": "q79",
         "text": "Welche Höchstgrenze gilt für die Haftung bei Sachschäden nach § 12 StVG (ohne automatisierte Fahrfunktionen)?",
         "options": [
-          "500.000 Euro",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "1 Million Euro",
-          "2 Millionen Euro",
-          "Unbegrenzt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Haftung für Sachschäden ist auf 1 Million Euro begrenzt. Bei automatisierten Fahrfunktionen gilt eine höhere Grenze (§ 12 Abs. 1 Nr. 2 StVG).",
@@ -1624,10 +1624,10 @@
         "id": "q80",
         "text": "Wann entfällt die Ersatzpflicht des Halters nach § 7 StVG?",
         "options": [
-          "Wenn der Fahrer alkoholisiert ist",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Wenn der Unfall durch höhere Gewalt verursacht wird",
-          "Wenn der Geschädigte eine Vollkaskoversicherung hat",
-          "Wenn der Schaden unter 1.000 Euro liegt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Ersatzpflicht entfällt nur bei höherer Gewalt (§ 7 Abs. 2 StVG). Versicherungen oder Schadenshöhen sind im Gesetz nicht als Ausnahme genannt.",
@@ -1646,10 +1646,10 @@
         "id": "q78",
         "text": "Welche besondere Pflicht trifft den Fahrzeugführer bei Nutzung hoch- oder vollautomatisierter Fahrfunktionen nach § 1b StVG?",
         "options": [
-          "Er darf sich vollständig vom Verkehrsgeschehen abwenden",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Er muss jederzeit wahrnehmungsbereit bleiben, um die Steuerung übernehmen zu können",
-          "Er muss die Fahrt mit einem zweiten Fahrer absichern",
-          "Er benötigt eine zusätzliche schriftliche Genehmigung"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Der Fahrer darf sich zwar abwenden, muss aber jederzeit in der Lage sein, die Steuerung zu übernehmen (§ 1b Abs. 1–2 StVG).",
@@ -1668,10 +1668,10 @@
         "id": "q79",
         "text": "Welche Höchstgrenze gilt für die Haftung bei Sachschäden nach § 12 StVG (ohne automatisierte Fahrfunktionen)?",
         "options": [
-          "500.000 Euro",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "1 Million Euro",
-          "2 Millionen Euro",
-          "Unbegrenzt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Haftung für Sachschäden ist auf 1 Million Euro begrenzt. Bei automatisierten Fahrfunktionen gilt eine höhere Grenze (§ 12 Abs. 1 Nr. 2 StVG).",
@@ -1690,10 +1690,10 @@
         "id": "q80",
         "text": "Wann entfällt die Ersatzpflicht des Halters nach § 7 StVG?",
         "options": [
-          "Wenn der Fahrer alkoholisiert ist",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Wenn der Unfall durch höhere Gewalt verursacht wird",
-          "Wenn der Geschädigte eine Vollkaskoversicherung hat",
-          "Wenn der Schaden unter 1.000 Euro liegt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Ersatzpflicht entfällt nur bei höherer Gewalt (§ 7 Abs. 2 StVG). Versicherungen oder Schadenshöhen sind im Gesetz nicht als Ausnahme genannt.",
@@ -1712,10 +1712,10 @@
         "id": "q78",
         "text": "Welche besondere Pflicht trifft den Fahrzeugführer bei Nutzung hoch- oder vollautomatisierter Fahrfunktionen nach § 1b StVG?",
         "options": [
-          "Er darf sich vollständig vom Verkehrsgeschehen abwenden",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Er muss jederzeit wahrnehmungsbereit bleiben, um die Steuerung übernehmen zu können",
-          "Er muss die Fahrt mit einem zweiten Fahrer absichern",
-          "Er benötigt eine zusätzliche schriftliche Genehmigung"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Der Fahrer darf sich zwar abwenden, muss aber jederzeit in der Lage sein, die Steuerung zu übernehmen (§ 1b Abs. 1–2 StVG).",
@@ -1734,10 +1734,10 @@
         "id": "q79",
         "text": "Welche Höchstgrenze gilt für die Haftung bei Sachschäden nach § 12 StVG (ohne automatisierte Fahrfunktionen)?",
         "options": [
-          "500.000 Euro",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "1 Million Euro",
-          "2 Millionen Euro",
-          "Unbegrenzt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Haftung für Sachschäden ist auf 1 Million Euro begrenzt. Bei automatisierten Fahrfunktionen gilt eine höhere Grenze (§ 12 Abs. 1 Nr. 2 StVG).",
@@ -1756,10 +1756,10 @@
         "id": "q80",
         "text": "Wann entfällt die Ersatzpflicht des Halters nach § 7 StVG?",
         "options": [
-          "Wenn der Fahrer alkoholisiert ist",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Wenn der Unfall durch höhere Gewalt verursacht wird",
-          "Wenn der Geschädigte eine Vollkaskoversicherung hat",
-          "Wenn der Schaden unter 1.000 Euro liegt"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Die Ersatzpflicht entfällt nur bei höherer Gewalt (§ 7 Abs. 2 StVG). Versicherungen oder Schadenshöhen sind im Gesetz nicht als Ausnahme genannt.",
@@ -1778,10 +1778,10 @@
         "id": "q99",
         "text": "Welche Strafe droht nach § 21 StVG beim Fahren ohne Fahrerlaubnis?",
         "options": [
-          "Eine Geldbuße bis 5.000 Euro",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Freiheitsstrafe bis zu einem Jahr oder Geldstrafe",
-          "Nur eine schriftliche Verwarnung",
-          "Ein Fahrverbot von drei Monaten"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 21 Abs. 1 StVG wird Fahren ohne Fahrerlaubnis mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.",
@@ -1801,9 +1801,9 @@
         "text": "Welche Promillegrenze gilt nach § 24a StVG für Fahranfänger?",
         "options": [
           "0,0 Promille",
-          "0,3 Promille",
-          "0,5 Promille",
-          "1,1 Promille"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Für Fahranfänger unter 21 Jahren und in der Probezeit gilt ein absolutes Alkoholverbot (§ 24c StVG).",
@@ -1822,10 +1822,10 @@
         "id": "q98",
         "text": "Welche Verwaltungsbehörde ist für Ordnungswidrigkeiten nach § 24 StVG zuständig?",
         "options": [
-          "Die örtliche Führerscheinstelle",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Die nach Landesrecht bestimmte Polizeibehörde",
-          "Das Amtsgericht",
-          "Die Bundespolizei ohne Einschränkungen"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 26 Abs. 1 StVG ist die nach Landesrecht bestimmte Polizeibehörde zuständig für Ordnungswidrigkeiten nach § 24.",
@@ -1844,10 +1844,10 @@
         "id": "q99",
         "text": "Welche Strafe droht nach § 21 StVG beim Fahren ohne Fahrerlaubnis?",
         "options": [
-          "Eine Geldbuße bis 5.000 Euro",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Freiheitsstrafe bis zu einem Jahr oder Geldstrafe",
-          "Nur eine schriftliche Verwarnung",
-          "Ein Fahrverbot von drei Monaten"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 21 Abs. 1 StVG wird Fahren ohne Fahrerlaubnis mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.",
@@ -1867,9 +1867,9 @@
         "text": "Welche Promillegrenze gilt nach § 24a StVG für Fahranfänger?",
         "options": [
           "0,0 Promille",
-          "0,3 Promille",
-          "0,5 Promille",
-          "1,1 Promille"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Für Fahranfänger unter 21 Jahren und in der Probezeit gilt ein absolutes Alkoholverbot (§ 24c StVG).",
@@ -1888,10 +1888,10 @@
         "id": "q98",
         "text": "Welche Verwaltungsbehörde ist für Ordnungswidrigkeiten nach § 24 StVG zuständig?",
         "options": [
-          "Die örtliche Führerscheinstelle",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Die nach Landesrecht bestimmte Polizeibehörde",
-          "Das Amtsgericht",
-          "Die Bundespolizei ohne Einschränkungen"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 26 Abs. 1 StVG ist die nach Landesrecht bestimmte Polizeibehörde zuständig für Ordnungswidrigkeiten nach § 24.",
@@ -1910,10 +1910,10 @@
         "id": "q99",
         "text": "Welche Strafe droht nach § 21 StVG beim Fahren ohne Fahrerlaubnis?",
         "options": [
-          "Eine Geldbuße bis 5.000 Euro",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Freiheitsstrafe bis zu einem Jahr oder Geldstrafe",
-          "Nur eine schriftliche Verwarnung",
-          "Ein Fahrverbot von drei Monaten"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 21 Abs. 1 StVG wird Fahren ohne Fahrerlaubnis mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.",
@@ -1933,9 +1933,9 @@
         "text": "Welche Promillegrenze gilt nach § 24a StVG für Fahranfänger?",
         "options": [
           "0,0 Promille",
-          "0,3 Promille",
-          "0,5 Promille",
-          "1,1 Promille"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Für Fahranfänger unter 21 Jahren und in der Probezeit gilt ein absolutes Alkoholverbot (§ 24c StVG).",
@@ -1954,10 +1954,10 @@
         "id": "q98",
         "text": "Welche Verwaltungsbehörde ist für Ordnungswidrigkeiten nach § 24 StVG zuständig?",
         "options": [
-          "Die örtliche Führerscheinstelle",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Die nach Landesrecht bestimmte Polizeibehörde",
-          "Das Amtsgericht",
-          "Die Bundespolizei ohne Einschränkungen"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 26 Abs. 1 StVG ist die nach Landesrecht bestimmte Polizeibehörde zuständig für Ordnungswidrigkeiten nach § 24.",
@@ -1976,10 +1976,10 @@
         "id": "q99",
         "text": "Welche Strafe droht nach § 21 StVG beim Fahren ohne Fahrerlaubnis?",
         "options": [
-          "Eine Geldbuße bis 5.000 Euro",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Freiheitsstrafe bis zu einem Jahr oder Geldstrafe",
-          "Nur eine schriftliche Verwarnung",
-          "Ein Fahrverbot von drei Monaten"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 21 Abs. 1 StVG wird Fahren ohne Fahrerlaubnis mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.",
@@ -1999,9 +1999,9 @@
         "text": "Welche Promillegrenze gilt nach § 24a StVG für Fahranfänger?",
         "options": [
           "0,0 Promille",
-          "0,3 Promille",
-          "0,5 Promille",
-          "1,1 Promille"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Für Fahranfänger unter 21 Jahren und in der Probezeit gilt ein absolutes Alkoholverbot (§ 24c StVG).",
@@ -2020,10 +2020,10 @@
         "id": "q98",
         "text": "Welche Verwaltungsbehörde ist für Ordnungswidrigkeiten nach § 24 StVG zuständig?",
         "options": [
-          "Die örtliche Führerscheinstelle",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Die nach Landesrecht bestimmte Polizeibehörde",
-          "Das Amtsgericht",
-          "Die Bundespolizei ohne Einschränkungen"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 26 Abs. 1 StVG ist die nach Landesrecht bestimmte Polizeibehörde zuständig für Ordnungswidrigkeiten nach § 24.",
@@ -2042,10 +2042,10 @@
         "id": "q99",
         "text": "Welche Strafe droht nach § 21 StVG beim Fahren ohne Fahrerlaubnis?",
         "options": [
-          "Eine Geldbuße bis 5.000 Euro",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Freiheitsstrafe bis zu einem Jahr oder Geldstrafe",
-          "Nur eine schriftliche Verwarnung",
-          "Ein Fahrverbot von drei Monaten"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 21 Abs. 1 StVG wird Fahren ohne Fahrerlaubnis mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.",
@@ -2065,9 +2065,9 @@
         "text": "Welche Promillegrenze gilt nach § 24a StVG für Fahranfänger?",
         "options": [
           "0,0 Promille",
-          "0,3 Promille",
-          "0,5 Promille",
-          "1,1 Promille"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Für Fahranfänger unter 21 Jahren und in der Probezeit gilt ein absolutes Alkoholverbot (§ 24c StVG).",
@@ -2086,10 +2086,10 @@
         "id": "q98",
         "text": "Welche Verwaltungsbehörde ist für Ordnungswidrigkeiten nach § 24 StVG zuständig?",
         "options": [
-          "Die örtliche Führerscheinstelle",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Die nach Landesrecht bestimmte Polizeibehörde",
-          "Das Amtsgericht",
-          "Die Bundespolizei ohne Einschränkungen"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 26 Abs. 1 StVG ist die nach Landesrecht bestimmte Polizeibehörde zuständig für Ordnungswidrigkeiten nach § 24.",
@@ -2108,10 +2108,10 @@
         "id": "q99",
         "text": "Welche Strafe droht nach § 21 StVG beim Fahren ohne Fahrerlaubnis?",
         "options": [
-          "Eine Geldbuße bis 5.000 Euro",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Freiheitsstrafe bis zu einem Jahr oder Geldstrafe",
-          "Nur eine schriftliche Verwarnung",
-          "Ein Fahrverbot von drei Monaten"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 21 Abs. 1 StVG wird Fahren ohne Fahrerlaubnis mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.",
@@ -2131,9 +2131,9 @@
         "text": "Welche Promillegrenze gilt nach § 24a StVG für Fahranfänger?",
         "options": [
           "0,0 Promille",
-          "0,3 Promille",
-          "0,5 Promille",
-          "1,1 Promille"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Für Fahranfänger unter 21 Jahren und in der Probezeit gilt ein absolutes Alkoholverbot (§ 24c StVG).",
@@ -2152,10 +2152,10 @@
         "id": "q98",
         "text": "Welche Verwaltungsbehörde ist für Ordnungswidrigkeiten nach § 24 StVG zuständig?",
         "options": [
-          "Die örtliche Führerscheinstelle",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Die nach Landesrecht bestimmte Polizeibehörde",
-          "Das Amtsgericht",
-          "Die Bundespolizei ohne Einschränkungen"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 26 Abs. 1 StVG ist die nach Landesrecht bestimmte Polizeibehörde zuständig für Ordnungswidrigkeiten nach § 24.",
@@ -2174,10 +2174,10 @@
         "id": "q99",
         "text": "Welche Strafe droht nach § 21 StVG beim Fahren ohne Fahrerlaubnis?",
         "options": [
-          "Eine Geldbuße bis 5.000 Euro",
+          "Ein verwandter Paragraph aus dem Gesetz",
           "Freiheitsstrafe bis zu einem Jahr oder Geldstrafe",
-          "Nur eine schriftliche Verwarnung",
-          "Ein Fahrverbot von drei Monaten"
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 21 Abs. 1 StVG wird Fahren ohne Fahrerlaubnis mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.",
@@ -2197,9 +2197,9 @@
         "text": "Welche Promillegrenze gilt nach § 24a StVG für Fahranfänger?",
         "options": [
           "0,0 Promille",
-          "0,3 Promille",
-          "0,5 Promille",
-          "1,1 Promille"
+          "Ein verwandter Paragraph aus dem Gesetz",
+          "Ein ähnlicher Paragraph mit anderen Regelungen",
+          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 0,
         "explanation": "Für Fahranfänger unter 21 Jahren und in der Probezeit gilt ein absolutes Alkoholverbot (§ 24c StVG).",

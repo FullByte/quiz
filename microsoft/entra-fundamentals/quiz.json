@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist Microsoft Entra?",
         "options": [
-          "Ein Betriebssystem",
+          "Ein verwandtes Microsoft-Tool",
           "Eine Identitäts- und Zugriffsverwaltungslösung",
-          "Eine Datenbank",
-          "Eine Programmiersprache"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Entra ist eine umfassende Identitäts- und Zugriffsverwaltungslösung, die früher als Azure Active Directory bekannt war.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Hauptfunktionen bietet Microsoft Entra?",
         "options": [
-          "Nur Benutzerauthentifizierung",
+          "Ein verwandtes Microsoft-Tool",
           "Identitätsverwaltung, Authentifizierung, Autorisierung und Zugriffskontrolle",
-          "Nur Passwort-Management",
-          "Nur Single Sign-On"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Entra bietet umfassende Funktionen für Identitätsverwaltung, Authentifizierung, Autorisierung und Zugriffskontrolle in Cloud- und Hybrid-Umgebungen.",
@@ -71,10 +71,10 @@
         "id": "q3",
         "text": "Was ist Single Sign-On (SSO)?",
         "options": [
-          "Ein Betriebssystem",
+          "Eine ähnliche Alternative",
           "Ein Authentifizierungsverfahren, das Benutzern den Zugriff auf mehrere Anwendungen mit einem Satz von Anmeldeinformationen ermöglicht",
-          "Eine Datenbank",
-          "Ein Netzwerk-Protokoll"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Single Sign-On ermöglicht es Benutzern, sich einmal anzumelden und dann ohne erneute Authentifizierung auf alle autorisierten Anwendungen und Services zuzugreifen.",
@@ -94,10 +94,10 @@
         "id": "q4",
         "text": "Was ist Multi-Factor Authentication (MFA)?",
         "options": [
-          "Ein einfaches Passwort-System",
+          "Eine ähnliche Alternative",
           "Ein Sicherheitsverfahren, das mehrere Authentifizierungsmethoden erfordert",
-          "Ein Netzwerk-Service",
-          "Ein Backup-System"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "MFA ist ein Sicherheitsverfahren, das zwei oder mehr Authentifizierungsfaktoren erfordert, um die Identität eines Benutzers zu verifizieren.",
@@ -117,10 +117,10 @@
         "id": "q5",
         "text": "Was ist Conditional Access?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Sicherheitsfeature, das Zugriffsrichtlinien basierend auf Bedingungen erzwingt",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Conditional Access ermöglicht es, Zugriffsrichtlinien basierend auf verschiedenen Bedingungen wie Gerät, Standort oder Risiko zu definieren und durchzusetzen.",
@@ -140,10 +140,10 @@
         "id": "q6",
         "text": "Welche Arten von Benutzern kann Microsoft Entra verwalten?",
         "options": [
-          "Nur Cloud-Benutzer",
+          "Ein verwandtes Microsoft-Tool",
           "Cloud-Benutzer, lokale Benutzer und Gastbenutzer",
-          "Nur lokale Benutzer",
-          "Nur Gastbenutzer"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Entra kann verschiedene Benutzertypen verwalten: reine Cloud-Benutzer, synchronisierte lokale Benutzer und externe Gastbenutzer.",
@@ -164,10 +164,10 @@
         "id": "q7",
         "text": "Was ist Azure AD Connect?",
         "options": [
-          "Ein Backup-Tool",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Tool zur Synchronisation zwischen lokalen Active Directory und Microsoft Entra",
-          "Ein Netzwerk-Monitor",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure AD Connect synchronisiert Benutzer, Gruppen und andere Objekte zwischen dem lokalen Active Directory und Microsoft Entra.",
@@ -187,10 +187,10 @@
         "id": "q8",
         "text": "Welche Sicherheitsfeatures bietet Microsoft Entra?",
         "options": [
-          "Nur Basis-Authentifizierung",
+          "Ein verwandtes Microsoft-Tool",
           "MFA, Conditional Access, Identity Protection und Risikoerkennung",
-          "Nur Passwort-Policies",
-          "Nur Audit-Logs"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Entra bietet umfassende Sicherheitsfeatures wie MFA, Conditional Access, Identity Protection und erweiterte Risikoerkennung.",
@@ -210,10 +210,10 @@
         "id": "q9",
         "text": "Was ist Identity Protection?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche Alternative",
           "Ein Service zur Erkennung und Abwehr von Identitätsrisiken",
-          "Ein Netzwerk-Monitor",
-          "Eine Datenbank"
+          "Ein verwandtes Konzept",
+          "Ein vergleichbares Verfahren"
         ],
         "correctIndex": 1,
         "explanation": "Identity Protection ist ein Service, der verdächtige Aktivitäten erkennt und automatische Schutzmaßnahmen gegen Identitätsrisiken ergreift.",
@@ -233,10 +233,10 @@
         "id": "q10",
         "text": "Welche Lizenzierungsoptionen gibt es für Microsoft Entra?",
         "options": [
-          "Nur kostenpflichtige Lizenzen",
+          "Ein verwandtes Microsoft-Tool",
           "Kostenlose, Basic, Premium P1 und Premium P2 Lizenzen",
-          "Nur kostenlose Lizenzen",
-          "Nur Enterprise-Lizenzen"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Entra bietet verschiedene Lizenzierungsstufen: kostenlose Basis-Features, Basic, Premium P1 und Premium P2 mit erweiterten Sicherheitsfeatures.",
@@ -256,10 +256,10 @@
         "id": "q11",
         "text": "Was ist Azure AD Privileged Identity Management (PIM)?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für das Just-in-Time-Zugriff auf privilegierte Rollen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure AD Privileged Identity Management (PIM) ermöglicht Just-in-Time-Zugriff auf privilegierte Rollen mit Genehmigung und Zeitbeschränkungen.",
@@ -279,10 +279,10 @@
         "id": "q12",
         "text": "Was ist Azure AD Application Proxy?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für den sicheren Remote-Zugriff auf lokale Anwendungen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure AD Application Proxy ermöglicht den sicheren Remote-Zugriff auf lokale Web-Anwendungen ohne VPN.",
@@ -302,10 +302,10 @@
         "id": "q13",
         "text": "Was ist Azure AD B2C?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Identity-as-a-Service für Konsumenten-Identitäten",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure AD B2C ist ein Identity-as-a-Service für Konsumenten-Identitäten in Business-to-Consumer-Anwendungen.",
@@ -325,10 +325,10 @@
         "id": "q14",
         "text": "Was ist Azure AD B2B?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für die Zusammenarbeit mit externen Partnern",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure AD B2B ermöglicht die sichere Zusammenarbeit mit externen Partnern durch Gast-Zugriff auf Unternehmensressourcen.",
@@ -348,10 +348,10 @@
         "id": "q15",
         "text": "Was ist Azure AD Identity Protection?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service zur Erkennung und Abwehr von Identitätsrisiken",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure AD Identity Protection erkennt verdächtige Aktivitäten und automatische Schutzmaßnahmen gegen Identitätsrisiken.",
@@ -371,10 +371,10 @@
         "id": "q16",
         "text": "Welche Azure AD-Verwaltungstools gibt es?",
         "options": [
-          "Nur Azure-Portal",
+          "Ein verwandtes Microsoft-Tool",
           "Azure-Portal, PowerShell, Graph API und Azure AD Connect Health",
-          "Nur PowerShell",
-          "Nur Graph API"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure AD bietet verschiedene Verwaltungstools: Azure-Portal, PowerShell, Microsoft Graph API und Azure AD Connect Health für Monitoring.",
@@ -394,10 +394,10 @@
         "id": "q17",
         "text": "Was ist Microsoft Graph API?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Eine REST-API für den Zugriff auf Microsoft 365-Daten und -Services",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Graph API ist eine REST-API, die den Zugriff auf Microsoft 365-Daten und -Services ermöglicht.",
@@ -417,10 +417,10 @@
         "id": "q18",
         "text": "Was ist Azure AD Domain Services?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein verwalteter Domain-Service für die Integration mit lokalen Workloads",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure AD Domain Services ist ein verwalteter Domain-Service, der die Integration von Azure-Workloads mit lokalen Active Directory-Domänen ermöglicht.",
@@ -440,10 +440,10 @@
         "id": "q19",
         "text": "Welche Azure AD-Monitoring-Features gibt es?",
         "options": [
-          "Nur Audit-Logs",
+          "Ein verwandtes Microsoft-Tool",
           "Audit-Logs, Sign-in-Logs, Risiko-Ereignisse und Azure AD Connect Health",
-          "Nur Sign-in-Logs",
-          "Nur Risiko-Ereignisse"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure AD bietet umfassende Monitoring-Features: Audit-Logs, Sign-in-Logs, Risiko-Ereignisse und Azure AD Connect Health für Hybrid-Umgebungen.",
@@ -463,10 +463,10 @@
         "id": "q20",
         "text": "Was ist Azure AD Self-Service Password Reset?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für die selbstständige Passwort-Zurücksetzung durch Benutzer",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Azure AD Self-Service Password Reset ermöglicht es Benutzern, ihre Passwörter selbstständig zurückzusetzen, ohne IT-Support zu benötigen.",
@@ -486,10 +486,10 @@
         "id": "q21",
         "text": "Was ist Grundlagen in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für grundlagen und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Grundlagen ist ein wichtiger Service in Microsoft Entra Fundamentals, der grundlagen und verwandte Funktionen bereitstellt.",
@@ -509,10 +509,10 @@
         "id": "q22",
         "text": "Was ist Konfiguration in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für konfiguration und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Konfiguration ist ein wichtiger Service in Microsoft Entra Fundamentals, der konfiguration und verwandte Funktionen bereitstellt.",
@@ -532,10 +532,10 @@
         "id": "q23",
         "text": "Was ist Verwaltung in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für verwaltung und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Verwaltung ist ein wichtiger Service in Microsoft Entra Fundamentals, der verwaltung und verwandte Funktionen bereitstellt.",
@@ -555,10 +555,10 @@
         "id": "q24",
         "text": "Was ist Sicherheit in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für sicherheit und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Sicherheit ist ein wichtiger Service in Microsoft Entra Fundamentals, der sicherheit und verwandte Funktionen bereitstellt.",
@@ -578,10 +578,10 @@
         "id": "q25",
         "text": "Was ist Performance in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für performance und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Performance ist ein wichtiger Service in Microsoft Entra Fundamentals, der performance und verwandte Funktionen bereitstellt.",
@@ -601,10 +601,10 @@
         "id": "q26",
         "text": "Was ist Skalierung in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für skalierung und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Skalierung ist ein wichtiger Service in Microsoft Entra Fundamentals, der skalierung und verwandte Funktionen bereitstellt.",
@@ -624,10 +624,10 @@
         "id": "q27",
         "text": "Was ist Monitoring in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für monitoring und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Monitoring ist ein wichtiger Service in Microsoft Entra Fundamentals, der monitoring und verwandte Funktionen bereitstellt.",
@@ -647,10 +647,10 @@
         "id": "q28",
         "text": "Was ist Logging in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche rechtliche Bestimmung",
           "Ein Service für logging und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Logging ist ein wichtiger Service in Microsoft Entra Fundamentals, der logging und verwandte Funktionen bereitstellt.",
@@ -670,10 +670,10 @@
         "id": "q29",
         "text": "Was ist Backup in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für backup und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Backup ist ein wichtiger Service in Microsoft Entra Fundamentals, der backup und verwandte Funktionen bereitstellt.",
@@ -693,10 +693,10 @@
         "id": "q30",
         "text": "Was ist Recovery in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für recovery und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Recovery ist ein wichtiger Service in Microsoft Entra Fundamentals, der recovery und verwandte Funktionen bereitstellt.",
@@ -716,10 +716,10 @@
         "id": "q31",
         "text": "Was ist Disaster Recovery in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für disaster recovery und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Disaster Recovery ist ein wichtiger Service in Microsoft Entra Fundamentals, der disaster recovery und verwandte Funktionen bereitstellt.",
@@ -739,10 +739,10 @@
         "id": "q32",
         "text": "Was ist High Availability in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für high availability und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "High Availability ist ein wichtiger Service in Microsoft Entra Fundamentals, der high availability und verwandte Funktionen bereitstellt.",
@@ -762,10 +762,10 @@
         "id": "q33",
         "text": "Was ist Load Balancing in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für load balancing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Load Balancing ist ein wichtiger Service in Microsoft Entra Fundamentals, der load balancing und verwandte Funktionen bereitstellt.",
@@ -785,10 +785,10 @@
         "id": "q34",
         "text": "Was ist Caching in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für caching und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Caching ist ein wichtiger Service in Microsoft Entra Fundamentals, der caching und verwandte Funktionen bereitstellt.",
@@ -808,10 +808,10 @@
         "id": "q35",
         "text": "Was ist Optimierung in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für optimierung und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Optimierung ist ein wichtiger Service in Microsoft Entra Fundamentals, der optimierung und verwandte Funktionen bereitstellt.",
@@ -831,10 +831,10 @@
         "id": "q36",
         "text": "Was ist Integration in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für integration und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Integration ist ein wichtiger Service in Microsoft Entra Fundamentals, der integration und verwandte Funktionen bereitstellt.",
@@ -854,10 +854,10 @@
         "id": "q37",
         "text": "Was ist APIs in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für apis und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "APIs ist ein wichtiger Service in Microsoft Entra Fundamentals, der apis und verwandte Funktionen bereitstellt.",
@@ -877,10 +877,10 @@
         "id": "q38",
         "text": "Was ist SDKs in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für sdks und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "SDKs ist ein wichtiger Service in Microsoft Entra Fundamentals, der sdks und verwandte Funktionen bereitstellt.",
@@ -900,10 +900,10 @@
         "id": "q39",
         "text": "Was ist CLI in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für cli und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "CLI ist ein wichtiger Service in Microsoft Entra Fundamentals, der cli und verwandte Funktionen bereitstellt.",
@@ -923,10 +923,10 @@
         "id": "q40",
         "text": "Was ist PowerShell in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für powershell und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell ist ein wichtiger Service in Microsoft Entra Fundamentals, der powershell und verwandte Funktionen bereitstellt.",
@@ -946,10 +946,10 @@
         "id": "q41",
         "text": "Was ist Templates in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für templates und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Templates ist ein wichtiger Service in Microsoft Entra Fundamentals, der templates und verwandte Funktionen bereitstellt.",
@@ -969,10 +969,10 @@
         "id": "q42",
         "text": "Was ist Automation in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für automation und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Automation ist ein wichtiger Service in Microsoft Entra Fundamentals, der automation und verwandte Funktionen bereitstellt.",
@@ -992,10 +992,10 @@
         "id": "q43",
         "text": "Was ist DevOps in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für devops und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "DevOps ist ein wichtiger Service in Microsoft Entra Fundamentals, der devops und verwandte Funktionen bereitstellt.",
@@ -1015,10 +1015,10 @@
         "id": "q44",
         "text": "Was ist CI/CD in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für ci/cd und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "CI/CD ist ein wichtiger Service in Microsoft Entra Fundamentals, der ci/cd und verwandte Funktionen bereitstellt.",
@@ -1038,10 +1038,10 @@
         "id": "q45",
         "text": "Was ist Deployment in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für deployment und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Deployment ist ein wichtiger Service in Microsoft Entra Fundamentals, der deployment und verwandte Funktionen bereitstellt.",
@@ -1061,10 +1061,10 @@
         "id": "q46",
         "text": "Was ist Testing in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für testing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Testing ist ein wichtiger Service in Microsoft Entra Fundamentals, der testing und verwandte Funktionen bereitstellt.",
@@ -1084,10 +1084,10 @@
         "id": "q47",
         "text": "Was ist Debugging in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche rechtliche Bestimmung",
           "Ein Service für debugging und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Debugging ist ein wichtiger Service in Microsoft Entra Fundamentals, der debugging und verwandte Funktionen bereitstellt.",
@@ -1107,10 +1107,10 @@
         "id": "q48",
         "text": "Was ist Troubleshooting in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für troubleshooting und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Troubleshooting ist ein wichtiger Service in Microsoft Entra Fundamentals, der troubleshooting und verwandte Funktionen bereitstellt.",
@@ -1130,10 +1130,10 @@
         "id": "q49",
         "text": "Was ist Best Practices in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für best practices und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Best Practices ist ein wichtiger Service in Microsoft Entra Fundamentals, der best practices und verwandte Funktionen bereitstellt.",
@@ -1153,10 +1153,10 @@
         "id": "q50",
         "text": "Was ist Architecture in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für architecture und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Architecture ist ein wichtiger Service in Microsoft Entra Fundamentals, der architecture und verwandte Funktionen bereitstellt.",
@@ -1176,10 +1176,10 @@
         "id": "q51",
         "text": "Was ist Design Patterns in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für design patterns und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Design Patterns ist ein wichtiger Service in Microsoft Entra Fundamentals, der design patterns und verwandte Funktionen bereitstellt.",
@@ -1199,10 +1199,10 @@
         "id": "q52",
         "text": "Was ist Microservices in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für microservices und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Microservices ist ein wichtiger Service in Microsoft Entra Fundamentals, der microservices und verwandte Funktionen bereitstellt.",
@@ -1222,10 +1222,10 @@
         "id": "q53",
         "text": "Was ist Containers in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für containers und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Containers ist ein wichtiger Service in Microsoft Entra Fundamentals, der containers und verwandte Funktionen bereitstellt.",
@@ -1245,10 +1245,10 @@
         "id": "q54",
         "text": "Was ist Kubernetes in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für kubernetes und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Kubernetes ist ein wichtiger Service in Microsoft Entra Fundamentals, der kubernetes und verwandte Funktionen bereitstellt.",
@@ -1268,10 +1268,10 @@
         "id": "q55",
         "text": "Was ist Docker in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für docker und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Docker ist ein wichtiger Service in Microsoft Entra Fundamentals, der docker und verwandte Funktionen bereitstellt.",
@@ -1291,10 +1291,10 @@
         "id": "q56",
         "text": "Was ist Networking in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für networking und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Networking ist ein wichtiger Service in Microsoft Entra Fundamentals, der networking und verwandte Funktionen bereitstellt.",
@@ -1314,10 +1314,10 @@
         "id": "q57",
         "text": "Was ist Storage in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für storage und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Storage ist ein wichtiger Service in Microsoft Entra Fundamentals, der storage und verwandte Funktionen bereitstellt.",
@@ -1337,10 +1337,10 @@
         "id": "q58",
         "text": "Was ist Database in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für database und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Database ist ein wichtiger Service in Microsoft Entra Fundamentals, der database und verwandte Funktionen bereitstellt.",
@@ -1360,10 +1360,10 @@
         "id": "q59",
         "text": "Was ist Authentication in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für authentication und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Authentication ist ein wichtiger Service in Microsoft Entra Fundamentals, der authentication und verwandte Funktionen bereitstellt.",
@@ -1383,10 +1383,10 @@
         "id": "q60",
         "text": "Was ist Authorization in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für authorization und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Authorization ist ein wichtiger Service in Microsoft Entra Fundamentals, der authorization und verwandte Funktionen bereitstellt.",
@@ -1406,10 +1406,10 @@
         "id": "q61",
         "text": "Was ist Compliance in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für compliance und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Compliance ist ein wichtiger Service in Microsoft Entra Fundamentals, der compliance und verwandte Funktionen bereitstellt.",
@@ -1429,10 +1429,10 @@
         "id": "q62",
         "text": "Was ist Governance in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für governance und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Governance ist ein wichtiger Service in Microsoft Entra Fundamentals, der governance und verwandte Funktionen bereitstellt.",
@@ -1452,10 +1452,10 @@
         "id": "q63",
         "text": "Was ist Cost Management in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für cost management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Cost Management ist ein wichtiger Service in Microsoft Entra Fundamentals, der cost management und verwandte Funktionen bereitstellt.",
@@ -1475,10 +1475,10 @@
         "id": "q64",
         "text": "Was ist Resource Management in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für resource management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Resource Management ist ein wichtiger Service in Microsoft Entra Fundamentals, der resource management und verwandte Funktionen bereitstellt.",
@@ -1498,10 +1498,10 @@
         "id": "q65",
         "text": "Was ist Tagging in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Eine ähnliche rechtliche Bestimmung",
           "Ein Service für tagging und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Ein verwandtes Rechtsprinzip",
+          "Eine vergleichbare gesetzliche Regelung"
         ],
         "correctIndex": 1,
         "explanation": "Tagging ist ein wichtiger Service in Microsoft Entra Fundamentals, der tagging und verwandte Funktionen bereitstellt.",
@@ -1521,10 +1521,10 @@
         "id": "q66",
         "text": "Was ist Policies in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für policies und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Policies ist ein wichtiger Service in Microsoft Entra Fundamentals, der policies und verwandte Funktionen bereitstellt.",
@@ -1544,10 +1544,10 @@
         "id": "q67",
         "text": "Was ist Blueprints in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für blueprints und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Blueprints ist ein wichtiger Service in Microsoft Entra Fundamentals, der blueprints und verwandte Funktionen bereitstellt.",
@@ -1567,10 +1567,10 @@
         "id": "q68",
         "text": "Was ist RBAC in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für rbac und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "RBAC ist ein wichtiger Service in Microsoft Entra Fundamentals, der rbac und verwandte Funktionen bereitstellt.",
@@ -1590,10 +1590,10 @@
         "id": "q69",
         "text": "Was ist IAM in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für iam und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "IAM ist ein wichtiger Service in Microsoft Entra Fundamentals, der iam und verwandte Funktionen bereitstellt.",
@@ -1613,10 +1613,10 @@
         "id": "q70",
         "text": "Was ist Secrets Management in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für secrets management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Secrets Management ist ein wichtiger Service in Microsoft Entra Fundamentals, der secrets management und verwandte Funktionen bereitstellt.",
@@ -1636,10 +1636,10 @@
         "id": "q71",
         "text": "Was ist Key Management in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für key management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Key Management ist ein wichtiger Service in Microsoft Entra Fundamentals, der key management und verwandte Funktionen bereitstellt.",
@@ -1659,10 +1659,10 @@
         "id": "q72",
         "text": "Was ist Certificate Management in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für certificate management und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Certificate Management ist ein wichtiger Service in Microsoft Entra Fundamentals, der certificate management und verwandte Funktionen bereitstellt.",
@@ -1682,10 +1682,10 @@
         "id": "q73",
         "text": "Was ist Encryption in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für encryption und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Encryption ist ein wichtiger Service in Microsoft Entra Fundamentals, der encryption und verwandte Funktionen bereitstellt.",
@@ -1705,10 +1705,10 @@
         "id": "q74",
         "text": "Was ist Decryption in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für decryption und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Decryption ist ein wichtiger Service in Microsoft Entra Fundamentals, der decryption und verwandte Funktionen bereitstellt.",
@@ -1728,10 +1728,10 @@
         "id": "q75",
         "text": "Was ist Hashing in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für hashing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Hashing ist ein wichtiger Service in Microsoft Entra Fundamentals, der hashing und verwandte Funktionen bereitstellt.",
@@ -1751,10 +1751,10 @@
         "id": "q76",
         "text": "Was ist Signing in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für signing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Signing ist ein wichtiger Service in Microsoft Entra Fundamentals, der signing und verwandte Funktionen bereitstellt.",
@@ -1774,10 +1774,10 @@
         "id": "q77",
         "text": "Was ist Verification in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für verification und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Verification ist ein wichtiger Service in Microsoft Entra Fundamentals, der verification und verwandte Funktionen bereitstellt.",
@@ -1797,10 +1797,10 @@
         "id": "q78",
         "text": "Was ist Auditing in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für auditing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Auditing ist ein wichtiger Service in Microsoft Entra Fundamentals, der auditing und verwandte Funktionen bereitstellt.",
@@ -1820,10 +1820,10 @@
         "id": "q79",
         "text": "Was ist Reporting in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für reporting und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Reporting ist ein wichtiger Service in Microsoft Entra Fundamentals, der reporting und verwandte Funktionen bereitstellt.",
@@ -1843,10 +1843,10 @@
         "id": "q80",
         "text": "Was ist Analytics in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für analytics und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Analytics ist ein wichtiger Service in Microsoft Entra Fundamentals, der analytics und verwandte Funktionen bereitstellt.",
@@ -1866,10 +1866,10 @@
         "id": "q81",
         "text": "Was ist Machine Learning in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für machine learning und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Machine Learning ist ein wichtiger Service in Microsoft Entra Fundamentals, der machine learning und verwandte Funktionen bereitstellt.",
@@ -1889,10 +1889,10 @@
         "id": "q82",
         "text": "Was ist Artificial Intelligence in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für artificial intelligence und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Artificial Intelligence ist ein wichtiger Service in Microsoft Entra Fundamentals, der artificial intelligence und verwandte Funktionen bereitstellt.",
@@ -1912,10 +1912,10 @@
         "id": "q83",
         "text": "Was ist Data Science in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für data science und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Data Science ist ein wichtiger Service in Microsoft Entra Fundamentals, der data science und verwandte Funktionen bereitstellt.",
@@ -1935,10 +1935,10 @@
         "id": "q84",
         "text": "Was ist Big Data in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für big data und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Big Data ist ein wichtiger Service in Microsoft Entra Fundamentals, der big data und verwandte Funktionen bereitstellt.",
@@ -1958,10 +1958,10 @@
         "id": "q85",
         "text": "Was ist Streaming in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für streaming und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Streaming ist ein wichtiger Service in Microsoft Entra Fundamentals, der streaming und verwandte Funktionen bereitstellt.",
@@ -1981,10 +1981,10 @@
         "id": "q86",
         "text": "Was ist Event Processing in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für event processing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Event Processing ist ein wichtiger Service in Microsoft Entra Fundamentals, der event processing und verwandte Funktionen bereitstellt.",
@@ -2004,10 +2004,10 @@
         "id": "q87",
         "text": "Was ist Message Queues in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für message queues und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Message Queues ist ein wichtiger Service in Microsoft Entra Fundamentals, der message queues und verwandte Funktionen bereitstellt.",
@@ -2027,10 +2027,10 @@
         "id": "q88",
         "text": "Was ist Service Bus in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für service bus und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Service Bus ist ein wichtiger Service in Microsoft Entra Fundamentals, der service bus und verwandte Funktionen bereitstellt.",
@@ -2050,10 +2050,10 @@
         "id": "q89",
         "text": "Was ist Event Grid in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für event grid und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Event Grid ist ein wichtiger Service in Microsoft Entra Fundamentals, der event grid und verwandte Funktionen bereitstellt.",
@@ -2073,10 +2073,10 @@
         "id": "q90",
         "text": "Was ist Event Hubs in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für event hubs und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Event Hubs ist ein wichtiger Service in Microsoft Entra Fundamentals, der event hubs und verwandte Funktionen bereitstellt.",
@@ -2096,10 +2096,10 @@
         "id": "q91",
         "text": "Was ist IoT in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für iot und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "IoT ist ein wichtiger Service in Microsoft Entra Fundamentals, der iot und verwandte Funktionen bereitstellt.",
@@ -2119,10 +2119,10 @@
         "id": "q92",
         "text": "Was ist Edge Computing in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für edge computing und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Edge Computing ist ein wichtiger Service in Microsoft Entra Fundamentals, der edge computing und verwandte Funktionen bereitstellt.",
@@ -2142,10 +2142,10 @@
         "id": "q93",
         "text": "Was ist Serverless in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für serverless und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Serverless ist ein wichtiger Service in Microsoft Entra Fundamentals, der serverless und verwandte Funktionen bereitstellt.",
@@ -2165,10 +2165,10 @@
         "id": "q94",
         "text": "Was ist Functions in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für functions und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Functions ist ein wichtiger Service in Microsoft Entra Fundamentals, der functions und verwandte Funktionen bereitstellt.",
@@ -2188,10 +2188,10 @@
         "id": "q95",
         "text": "Was ist Logic Apps in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für logic apps und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Logic Apps ist ein wichtiger Service in Microsoft Entra Fundamentals, der logic apps und verwandte Funktionen bereitstellt.",
@@ -2211,10 +2211,10 @@
         "id": "q96",
         "text": "Was ist Power Apps in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für power apps und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Power Apps ist ein wichtiger Service in Microsoft Entra Fundamentals, der power apps und verwandte Funktionen bereitstellt.",
@@ -2234,10 +2234,10 @@
         "id": "q97",
         "text": "Was ist Power Automate in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für power automate und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Power Automate ist ein wichtiger Service in Microsoft Entra Fundamentals, der power automate und verwandte Funktionen bereitstellt.",
@@ -2257,10 +2257,10 @@
         "id": "q98",
         "text": "Was ist Power BI in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für power bi und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Power BI ist ein wichtiger Service in Microsoft Entra Fundamentals, der power bi und verwandte Funktionen bereitstellt.",
@@ -2280,10 +2280,10 @@
         "id": "q99",
         "text": "Was ist Cognitive Services in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für cognitive services und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Cognitive Services ist ein wichtiger Service in Microsoft Entra Fundamentals, der cognitive services und verwandte Funktionen bereitstellt.",
@@ -2303,10 +2303,10 @@
         "id": "q100",
         "text": "Was ist Bot Framework in Microsoft Entra Fundamentals?",
         "options": [
-          "Ein Backup-Service",
+          "Ein verwandtes Microsoft-Tool",
           "Ein Service für bot framework und verwandte Funktionen",
-          "Ein Netzwerk-Protokoll",
-          "Eine Datenbank"
+          "Eine ähnliche Azure-Service",
+          "Eine vergleichbare Windows-Funktion"
         ],
         "correctIndex": 1,
         "explanation": "Bot Framework ist ein wichtiger Service in Microsoft Entra Fundamentals, der bot framework und verwandte Funktionen bereitstellt.",
