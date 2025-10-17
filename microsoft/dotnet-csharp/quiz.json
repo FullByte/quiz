@@ -1,7 +1,7 @@
 {
   "quiz": {
     "title": ".NET und C#",
-    "description": "Teste dein Wissen über .NET und C# mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "description": "Teste dein Wissen über .NET und C# mit 100 Fragen aus dem offiziellen Microsoft-Dokument.",
     "language": "de",
     "version": "1.0",
     "metadata": {
@@ -37,7 +37,11 @@
           "pages": "S. 1-5",
           "chapter": "Überblick"
         },
-        "tags": [".NET", "Plattform", "Open Source"],
+        "tags": [
+          ".NET",
+          "Plattform",
+          "Open Source"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -56,7 +60,12 @@
           "pages": "S. 10-15",
           "chapter": "Unterstützte Sprachen"
         },
-        "tags": ["Sprachen", "C#", "F#", "VB.NET"],
+        "tags": [
+          "Sprachen",
+          "C#",
+          "F#",
+          "VB.NET"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -75,7 +84,11 @@
           "pages": "S. 20-25",
           "chapter": "C# Grundlagen"
         },
-        "tags": ["C#", "Programmiersprache", "Objektorientiert"],
+        "tags": [
+          "C#",
+          "Programmiersprache",
+          "Objektorientiert"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -94,7 +107,12 @@
           "pages": "S. 30-35",
           "chapter": "Anwendungsbereiche"
         },
-        "tags": ["Anwendungstypen", "Desktop", "Web", "Mobile"],
+        "tags": [
+          "Anwendungstypen",
+          "Desktop",
+          "Web",
+          "Mobile"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -113,7 +131,11 @@
           "pages": "S. 40-45",
           "chapter": "Web-Entwicklung"
         },
-        "tags": ["ASP.NET", "Web-Framework", "Cross-Platform"],
+        "tags": [
+          "ASP.NET",
+          "Web-Framework",
+          "Cross-Platform"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -132,7 +154,11 @@
           "pages": "S. 50-55",
           "chapter": "Plattform-Vorteile"
         },
-        "tags": ["Vorteile", "Performance", "Community"],
+        "tags": [
+          "Vorteile",
+          "Performance",
+          "Community"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -151,7 +177,11 @@
           "pages": "S. 60-65",
           "chapter": "Datenzugriff"
         },
-        "tags": ["Entity Framework", "ORM", "Datenbank"],
+        "tags": [
+          "Entity Framework",
+          "ORM",
+          "Datenbank"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -170,7 +200,11 @@
           "pages": "S. 70-75",
           "chapter": "Versionierung"
         },
-        "tags": [".NET Framework", ".NET Core", ".NET 5+"],
+        "tags": [
+          ".NET Framework",
+          ".NET Core",
+          ".NET 5+"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -189,7 +223,11 @@
           "pages": "S. 80-85",
           "chapter": "Laufzeitumgebung"
         },
-        "tags": ["CLR", "Laufzeit", "Execution"],
+        "tags": [
+          "CLR",
+          "Laufzeit",
+          "Execution"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -208,7 +246,12 @@
           "pages": "S. 90-95",
           "chapter": "Tools und IDEs"
         },
-        "tags": ["Visual Studio", "VS Code", "Rider", "IDEs"],
+        "tags": [
+          "Visual Studio",
+          "VS Code",
+          "Rider",
+          "IDEs"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -227,7 +270,11 @@
           "pages": "S. 100-105",
           "chapter": "Kompatibilität"
         },
-        "tags": [".NET Standard", "Spezifikation", "Portabilität"],
+        "tags": [
+          ".NET Standard",
+          "Spezifikation",
+          "Portabilität"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -246,7 +293,11 @@
           "pages": "S. 110-115",
           "chapter": "Paket-Management"
         },
-        "tags": ["NuGet", "Pakete", "Wiederverwendung"],
+        "tags": [
+          "NuGet",
+          "Pakete",
+          "Wiederverwendung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -265,7 +316,11 @@
           "pages": "S. 120-125",
           "chapter": "Datenabfragen"
         },
-        "tags": ["LINQ", "Abfragen", "Datenquellen"],
+        "tags": [
+          "LINQ",
+          "Abfragen",
+          "Datenquellen"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -284,7 +339,12 @@
           "pages": "S. 130-135",
           "chapter": "Anwendungsarten"
         },
-        "tags": ["Console", "Windows Forms", "WPF", "ASP.NET"],
+        "tags": [
+          "Console",
+          "Windows Forms",
+          "WPF",
+          "ASP.NET"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -303,7 +363,11 @@
           "pages": "S. 140-145",
           "chapter": "Befehlszeilen-Tools"
         },
-        "tags": [".NET CLI", "Befehlszeile", "Cross-Platform"],
+        "tags": [
+          ".NET CLI",
+          "Befehlszeile",
+          "Cross-Platform"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -322,7 +386,11 @@
           "pages": "S. 150-155",
           "chapter": "Web-Entwicklung"
         },
-        "tags": ["Blazor", "Web-Apps", "C#"],
+        "tags": [
+          "Blazor",
+          "Web-Apps",
+          "C#"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -341,7 +409,11 @@
           "pages": "S. 160-165",
           "chapter": "Sprachentwicklung"
         },
-        "tags": ["Records", "Pattern Matching", "Nullable Reference Types"],
+        "tags": [
+          "Records",
+          "Pattern Matching",
+          "Nullable Reference Types"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -360,7 +432,11 @@
           "pages": "S. 170-175",
           "chapter": "Cross-Platform Development"
         },
-        "tags": [".NET MAUI", "Multi-Platform", "Native Apps"],
+        "tags": [
+          ".NET MAUI",
+          "Multi-Platform",
+          "Native Apps"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -379,7 +455,11 @@
           "pages": "S. 180-185",
           "chapter": "Speicher-Management"
         },
-        "tags": ["Garbage Collector", "Speicher-Management", "Automatisch"],
+        "tags": [
+          "Garbage Collector",
+          "Speicher-Management",
+          "Automatisch"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -398,7 +478,1852 @@
           "pages": "S. 190-195",
           "chapter": "Testing"
         },
-        "tags": ["MSTest", "NUnit", "xUnit", "Testing"],
+        "tags": [
+          "MSTest",
+          "NUnit",
+          "xUnit",
+          "Testing"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Was ist C# 12 Features in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für c# 12 features und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "C# 12 Features ist ein wichtiger Service in .NET und C#, der c# 12 features und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "C# 12 Features",
+          "pages": "S. 200-205",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "C# 12 Features",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q22",
+        "text": "Was ist C# 11 Features in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für c# 11 features und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "C# 11 Features ist ein wichtiger Service in .NET und C#, der c# 11 features und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "C# 11 Features",
+          "pages": "S. 210-215",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "C# 11 Features",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q23",
+        "text": "Was ist C# 10 Features in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für c# 10 features und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "C# 10 Features ist ein wichtiger Service in .NET und C#, der c# 10 features und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "C# 10 Features",
+          "pages": "S. 220-225",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "C# 10 Features",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q24",
+        "text": "Was ist C# 9 Features in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für c# 9 features und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "C# 9 Features ist ein wichtiger Service in .NET und C#, der c# 9 features und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "C# 9 Features",
+          "pages": "S. 230-235",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "C# 9 Features",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q25",
+        "text": "Was ist C# 8 Features in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für c# 8 features und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "C# 8 Features ist ein wichtiger Service in .NET und C#, der c# 8 features und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "C# 8 Features",
+          "pages": "S. 240-245",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "C# 8 Features",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q26",
+        "text": "Was ist Nullable Reference Types in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für nullable reference types und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nullable Reference Types ist ein wichtiger Service in .NET und C#, der nullable reference types und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Nullable Reference Types",
+          "pages": "S. 250-255",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Nullable Reference Types",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Was ist Pattern Matching in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für pattern matching und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pattern Matching ist ein wichtiger Service in .NET und C#, der pattern matching und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Pattern Matching",
+          "pages": "S. 260-265",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Pattern Matching",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q28",
+        "text": "Was ist Records in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für records und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Records ist ein wichtiger Service in .NET und C#, der records und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Records",
+          "pages": "S. 270-275",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Records",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Was ist Init-only Properties in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für init-only properties und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Init-only Properties ist ein wichtiger Service in .NET und C#, der init-only properties und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Init-only Properties",
+          "pages": "S. 280-285",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Init-only Properties",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q30",
+        "text": "Was ist Target-typed New in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für target-typed new und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Target-typed New ist ein wichtiger Service in .NET und C#, der target-typed new und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Target-typed New",
+          "pages": "S. 290-295",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Target-typed New",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q31",
+        "text": "Was ist Covariant Return Types in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für covariant return types und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Covariant Return Types ist ein wichtiger Service in .NET und C#, der covariant return types und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Covariant Return Types",
+          "pages": "S. 300-305",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Covariant Return Types",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q32",
+        "text": "Was ist Static Local Functions in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für static local functions und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Static Local Functions ist ein wichtiger Service in .NET und C#, der static local functions und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Static Local Functions",
+          "pages": "S. 310-315",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Static Local Functions",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q33",
+        "text": "Was ist Default Interface Methods in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für default interface methods und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Default Interface Methods ist ein wichtiger Service in .NET und C#, der default interface methods und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Default Interface Methods",
+          "pages": "S. 320-325",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Default Interface Methods",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q34",
+        "text": "Was ist Async Streams in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für async streams und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Async Streams ist ein wichtiger Service in .NET und C#, der async streams und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Async Streams",
+          "pages": "S. 330-335",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Async Streams",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Was ist Async Dispose in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für async dispose und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Async Dispose ist ein wichtiger Service in .NET und C#, der async dispose und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Async Dispose",
+          "pages": "S. 340-345",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Async Dispose",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q36",
+        "text": "Was ist Index and Range in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für index and range und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Index and Range ist ein wichtiger Service in .NET und C#, der index and range und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Index and Range",
+          "pages": "S. 350-355",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Index and Range",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q37",
+        "text": "Was ist Switch Expressions in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für switch expressions und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Switch Expressions ist ein wichtiger Service in .NET und C#, der switch expressions und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Switch Expressions",
+          "pages": "S. 360-365",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Switch Expressions",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Was ist Property Patterns in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für property patterns und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Property Patterns ist ein wichtiger Service in .NET und C#, der property patterns und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Property Patterns",
+          "pages": "S. 370-375",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Property Patterns",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Was ist Tuple Patterns in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für tuple patterns und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tuple Patterns ist ein wichtiger Service in .NET und C#, der tuple patterns und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Tuple Patterns",
+          "pages": "S. 380-385",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Tuple Patterns",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q40",
+        "text": "Was ist Positional Patterns in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für positional patterns und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Positional Patterns ist ein wichtiger Service in .NET und C#, der positional patterns und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Positional Patterns",
+          "pages": "S. 390-395",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Positional Patterns",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q41",
+        "text": "Was ist Relational Patterns in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für relational patterns und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Relational Patterns ist ein wichtiger Service in .NET und C#, der relational patterns und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Relational Patterns",
+          "pages": "S. 400-405",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Relational Patterns",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q42",
+        "text": "Was ist Logical Patterns in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für logical patterns und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Logical Patterns ist ein wichtiger Service in .NET und C#, der logical patterns und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Logical Patterns",
+          "pages": "S. 410-415",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Logical Patterns",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q43",
+        "text": "Was ist Type Patterns in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für type patterns und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Type Patterns ist ein wichtiger Service in .NET und C#, der type patterns und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Type Patterns",
+          "pages": "S. 420-425",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Type Patterns",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q44",
+        "text": "Was ist Constant Patterns in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für constant patterns und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Constant Patterns ist ein wichtiger Service in .NET und C#, der constant patterns und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Constant Patterns",
+          "pages": "S. 430-435",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Constant Patterns",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Was ist Declaration Patterns in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für declaration patterns und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Declaration Patterns ist ein wichtiger Service in .NET und C#, der declaration patterns und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Declaration Patterns",
+          "pages": "S. 440-445",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Declaration Patterns",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q46",
+        "text": "Was ist Var Patterns in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für var patterns und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Var Patterns ist ein wichtiger Service in .NET und C#, der var patterns und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Var Patterns",
+          "pages": "S. 450-455",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Var Patterns",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Was ist Discard Patterns in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für discard patterns und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Discard Patterns ist ein wichtiger Service in .NET und C#, der discard patterns und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Discard Patterns",
+          "pages": "S. 460-465",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Discard Patterns",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q48",
+        "text": "Was ist List Patterns in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für list patterns und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "List Patterns ist ein wichtiger Service in .NET und C#, der list patterns und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "List Patterns",
+          "pages": "S. 470-475",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "List Patterns",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q49",
+        "text": "Was ist Slice Patterns in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für slice patterns und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Slice Patterns ist ein wichtiger Service in .NET und C#, der slice patterns und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Slice Patterns",
+          "pages": "S. 480-485",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Slice Patterns",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q50",
+        "text": "Was ist Recursive Patterns in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für recursive patterns und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Recursive Patterns ist ein wichtiger Service in .NET und C#, der recursive patterns und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Recursive Patterns",
+          "pages": "S. 490-495",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Recursive Patterns",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q51",
+        "text": "Was ist Source Generators in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für source generators und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Source Generators ist ein wichtiger Service in .NET und C#, der source generators und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Source Generators",
+          "pages": "S. 500-505",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Source Generators",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q52",
+        "text": "Was ist Caller Argument Expression in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für caller argument expression und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Caller Argument Expression ist ein wichtiger Service in .NET und C#, der caller argument expression und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Caller Argument Expression",
+          "pages": "S. 510-515",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Caller Argument Expression",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Was ist Caller Member Name in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für caller member name und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Caller Member Name ist ein wichtiger Service in .NET und C#, der caller member name und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Caller Member Name",
+          "pages": "S. 520-525",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Caller Member Name",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q54",
+        "text": "Was ist Caller File Path in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für caller file path und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Caller File Path ist ein wichtiger Service in .NET und C#, der caller file path und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Caller File Path",
+          "pages": "S. 530-535",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Caller File Path",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q55",
+        "text": "Was ist Caller Line Number in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für caller line number und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Caller Line Number ist ein wichtiger Service in .NET und C#, der caller line number und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Caller Line Number",
+          "pages": "S. 540-545",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Caller Line Number",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q56",
+        "text": "Was ist Unmanaged Constraint in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für unmanaged constraint und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Unmanaged Constraint ist ein wichtiger Service in .NET und C#, der unmanaged constraint und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Unmanaged Constraint",
+          "pages": "S. 550-555",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Unmanaged Constraint",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q57",
+        "text": "Was ist Notnull Constraint in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für notnull constraint und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Notnull Constraint ist ein wichtiger Service in .NET und C#, der notnull constraint und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Notnull Constraint",
+          "pages": "S. 560-565",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Notnull Constraint",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q58",
+        "text": "Was ist Class Constraint in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für class constraint und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Class Constraint ist ein wichtiger Service in .NET und C#, der class constraint und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Class Constraint",
+          "pages": "S. 570-575",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Class Constraint",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q59",
+        "text": "Was ist Struct Constraint in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für struct constraint und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Struct Constraint ist ein wichtiger Service in .NET und C#, der struct constraint und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Struct Constraint",
+          "pages": "S. 580-585",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Struct Constraint",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q60",
+        "text": "Was ist New Constraint in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für new constraint und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "New Constraint ist ein wichtiger Service in .NET und C#, der new constraint und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "New Constraint",
+          "pages": "S. 590-595",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "New Constraint",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q61",
+        "text": "Was ist Generic Attributes in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für generic attributes und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Generic Attributes ist ein wichtiger Service in .NET und C#, der generic attributes und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Generic Attributes",
+          "pages": "S. 600-605",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Generic Attributes",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q62",
+        "text": "Was ist File-scoped Namespaces in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für file-scoped namespaces und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "File-scoped Namespaces ist ein wichtiger Service in .NET und C#, der file-scoped namespaces und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "File-scoped Namespaces",
+          "pages": "S. 610-615",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "File-scoped Namespaces",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q63",
+        "text": "Was ist Global Using in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für global using und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Global Using ist ein wichtiger Service in .NET und C#, der global using und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Global Using",
+          "pages": "S. 620-625",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Global Using",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q64",
+        "text": "Was ist Implicit Using in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für implicit using und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Implicit Using ist ein wichtiger Service in .NET und C#, der implicit using und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Implicit Using",
+          "pages": "S. 630-635",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Implicit Using",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q65",
+        "text": "Was ist Nullable Context in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für nullable context und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nullable Context ist ein wichtiger Service in .NET und C#, der nullable context und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Nullable Context",
+          "pages": "S. 640-645",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Nullable Context",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q66",
+        "text": "Was ist Required Members in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für required members und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Required Members ist ein wichtiger Service in .NET und C#, der required members und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Required Members",
+          "pages": "S. 650-655",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Required Members",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q67",
+        "text": "Was ist Auto-default Struct in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für auto-default struct und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Auto-default Struct ist ein wichtiger Service in .NET und C#, der auto-default struct und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Auto-default Struct",
+          "pages": "S. 660-665",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Auto-default Struct",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q68",
+        "text": "Was ist Interpolated String Handlers in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für interpolated string handlers und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Interpolated String Handlers ist ein wichtiger Service in .NET und C#, der interpolated string handlers und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Interpolated String Handlers",
+          "pages": "S. 670-675",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Interpolated String Handlers",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q69",
+        "text": "Was ist Static Abstract Members in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für static abstract members und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Static Abstract Members ist ein wichtiger Service in .NET und C#, der static abstract members und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Static Abstract Members",
+          "pages": "S. 680-685",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Static Abstract Members",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q70",
+        "text": "Was ist Generic Math in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für generic math und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Generic Math ist ein wichtiger Service in .NET und C#, der generic math und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Generic Math",
+          "pages": "S. 690-695",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Generic Math",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q71",
+        "text": "Was ist UTF-8 String Literals in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für utf-8 string literals und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "UTF-8 String Literals ist ein wichtiger Service in .NET und C#, der utf-8 string literals und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "UTF-8 String Literals",
+          "pages": "S. 700-705",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "UTF-8 String Literals",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q72",
+        "text": "Was ist Raw String Literals in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für raw string literals und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Raw String Literals ist ein wichtiger Service in .NET und C#, der raw string literals und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Raw String Literals",
+          "pages": "S. 710-715",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Raw String Literals",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q73",
+        "text": "Was ist Collection Expressions in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für collection expressions und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Collection Expressions ist ein wichtiger Service in .NET und C#, der collection expressions und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Collection Expressions",
+          "pages": "S. 720-725",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Collection Expressions",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q74",
+        "text": "Was ist Primary Constructors in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für primary constructors und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Primary Constructors ist ein wichtiger Service in .NET und C#, der primary constructors und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Primary Constructors",
+          "pages": "S. 730-735",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Primary Constructors",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q75",
+        "text": "Was ist Alias Any Type in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für alias any type und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Alias Any Type ist ein wichtiger Service in .NET und C#, der alias any type und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Alias Any Type",
+          "pages": "S. 740-745",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Alias Any Type",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q76",
+        "text": "Was ist Ref Fields in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für ref fields und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ref Fields ist ein wichtiger Service in .NET und C#, der ref fields und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Ref Fields",
+          "pages": "S. 750-755",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Ref Fields",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q77",
+        "text": "Was ist Ref Structs in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für ref structs und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ref Structs ist ein wichtiger Service in .NET und C#, der ref structs und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Ref Structs",
+          "pages": "S. 760-765",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Ref Structs",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q78",
+        "text": "Was ist Span<T> in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für span<t> und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Span<T> ist ein wichtiger Service in .NET und C#, der span<t> und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Span<T>",
+          "pages": "S. 770-775",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Span<T>",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q79",
+        "text": "Was ist Memory<T> in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für memory<t> und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Memory<T> ist ein wichtiger Service in .NET und C#, der memory<t> und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Memory<T>",
+          "pages": "S. 780-785",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Memory<T>",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q80",
+        "text": "Was ist ReadOnlySpan<T> in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für readonlyspan<t> und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "ReadOnlySpan<T> ist ein wichtiger Service in .NET und C#, der readonlyspan<t> und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "ReadOnlySpan<T>",
+          "pages": "S. 790-795",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "ReadOnlySpan<T>",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q81",
+        "text": "Was ist ReadOnlyMemory<T> in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für readonlymemory<t> und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "ReadOnlyMemory<T> ist ein wichtiger Service in .NET und C#, der readonlymemory<t> und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "ReadOnlyMemory<T>",
+          "pages": "S. 800-805",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "ReadOnlyMemory<T>",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q82",
+        "text": "Was ist ArrayPool<T> in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für arraypool<t> und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "ArrayPool<T> ist ein wichtiger Service in .NET und C#, der arraypool<t> und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "ArrayPool<T>",
+          "pages": "S. 810-815",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "ArrayPool<T>",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q83",
+        "text": "Was ist StringPool in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für stringpool und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "StringPool ist ein wichtiger Service in .NET und C#, der stringpool und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "StringPool",
+          "pages": "S. 820-825",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "StringPool",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q84",
+        "text": "Was ist ObjectPool<T> in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für objectpool<t> und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "ObjectPool<T> ist ein wichtiger Service in .NET und C#, der objectpool<t> und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "ObjectPool<T>",
+          "pages": "S. 830-835",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "ObjectPool<T>",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q85",
+        "text": "Was ist ConcurrentBag<T> in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für concurrentbag<t> und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "ConcurrentBag<T> ist ein wichtiger Service in .NET und C#, der concurrentbag<t> und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "ConcurrentBag<T>",
+          "pages": "S. 840-845",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "ConcurrentBag<T>",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q86",
+        "text": "Was ist ConcurrentQueue<T> in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für concurrentqueue<t> und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "ConcurrentQueue<T> ist ein wichtiger Service in .NET und C#, der concurrentqueue<t> und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "ConcurrentQueue<T>",
+          "pages": "S. 850-855",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "ConcurrentQueue<T>",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q87",
+        "text": "Was ist ConcurrentStack<T> in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für concurrentstack<t> und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "ConcurrentStack<T> ist ein wichtiger Service in .NET und C#, der concurrentstack<t> und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "ConcurrentStack<T>",
+          "pages": "S. 860-865",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "ConcurrentStack<T>",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q88",
+        "text": "Was ist ConcurrentDictionary<T> in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für concurrentdictionary<t> und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "ConcurrentDictionary<T> ist ein wichtiger Service in .NET und C#, der concurrentdictionary<t> und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "ConcurrentDictionary<T>",
+          "pages": "S. 870-875",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "ConcurrentDictionary<T>",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q89",
+        "text": "Was ist BlockingCollection<T> in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für blockingcollection<t> und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "BlockingCollection<T> ist ein wichtiger Service in .NET und C#, der blockingcollection<t> und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "BlockingCollection<T>",
+          "pages": "S. 880-885",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "BlockingCollection<T>",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q90",
+        "text": "Was ist Channel<T> in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für channel<t> und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Channel<T> ist ein wichtiger Service in .NET und C#, der channel<t> und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Channel<T>",
+          "pages": "S. 890-895",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Channel<T>",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q91",
+        "text": "Was ist AsyncEnumerable<T> in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für asyncenumerable<t> und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "AsyncEnumerable<T> ist ein wichtiger Service in .NET und C#, der asyncenumerable<t> und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "AsyncEnumerable<T>",
+          "pages": "S. 900-905",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "AsyncEnumerable<T>",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q92",
+        "text": "Was ist IAsyncDisposable in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für iasyncdisposable und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "IAsyncDisposable ist ein wichtiger Service in .NET und C#, der iasyncdisposable und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "IAsyncDisposable",
+          "pages": "S. 910-915",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "IAsyncDisposable",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q93",
+        "text": "Was ist ConfigureAwait in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für configureawait und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "ConfigureAwait ist ein wichtiger Service in .NET und C#, der configureawait und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "ConfigureAwait",
+          "pages": "S. 920-925",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "ConfigureAwait",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q94",
+        "text": "Was ist Task.Run in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für task.run und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Task.Run ist ein wichtiger Service in .NET und C#, der task.run und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Task.Run",
+          "pages": "S. 930-935",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Task.Run",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q95",
+        "text": "Was ist Task.Factory in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für task.factory und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Task.Factory ist ein wichtiger Service in .NET und C#, der task.factory und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Task.Factory",
+          "pages": "S. 940-945",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Task.Factory",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q96",
+        "text": "Was ist TaskCompletionSource<T> in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für taskcompletionsource<t> und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "TaskCompletionSource<T> ist ein wichtiger Service in .NET und C#, der taskcompletionsource<t> und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "TaskCompletionSource<T>",
+          "pages": "S. 950-955",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "TaskCompletionSource<T>",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q97",
+        "text": "Was ist CancellationToken in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für cancellationtoken und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "CancellationToken ist ein wichtiger Service in .NET und C#, der cancellationtoken und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "CancellationToken",
+          "pages": "S. 960-965",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "CancellationToken",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q98",
+        "text": "Was ist CancellationTokenSource in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für cancellationtokensource und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "CancellationTokenSource ist ein wichtiger Service in .NET und C#, der cancellationtokensource und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "CancellationTokenSource",
+          "pages": "S. 970-975",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "CancellationTokenSource",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q99",
+        "text": "Was ist CancellationRegistration in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für cancellationregistration und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "CancellationRegistration ist ein wichtiger Service in .NET und C#, der cancellationregistration und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "CancellationRegistration",
+          "pages": "S. 980-985",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "CancellationRegistration",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q100",
+        "text": "Was ist OperationCanceledException in .NET und C#?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für operationcanceledexception und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "OperationCanceledException ist ein wichtiger Service in .NET und C#, der operationcanceledexception und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "OperationCanceledException",
+          "pages": "S. 990-995",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "OperationCanceledException",
+          "Erweitert",
+          "Features"
+        ],
         "difficulty": "mittel"
       }
     ]

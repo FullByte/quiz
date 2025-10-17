@@ -1,7 +1,7 @@
 {
   "quiz": {
     "title": "Microsoft Fabric Fundamentals",
-    "description": "Teste dein Wissen über Microsoft Fabric mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "description": "Teste dein Wissen über Microsoft Fabric mit 100 Fragen aus dem offiziellen Microsoft-Dokument.",
     "language": "de",
     "version": "1.0",
     "metadata": {
@@ -37,7 +37,11 @@
           "pages": "S. 1-5",
           "chapter": "Überblick"
         },
-        "tags": ["Fabric", "Datenanalyse", "Plattform"],
+        "tags": [
+          "Fabric",
+          "Datenanalyse",
+          "Plattform"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -56,7 +60,11 @@
           "pages": "S. 10-15",
           "chapter": "Architektur"
         },
-        "tags": ["Komponenten", "Data Engineering", "Power BI"],
+        "tags": [
+          "Komponenten",
+          "Data Engineering",
+          "Power BI"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -75,7 +83,11 @@
           "pages": "S. 20-25",
           "chapter": "Data Warehouse"
         },
-        "tags": ["Data Warehouse", "SQL", "Skalierbar"],
+        "tags": [
+          "Data Warehouse",
+          "SQL",
+          "Skalierbar"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -94,7 +106,11 @@
           "pages": "S. 30-35",
           "chapter": "Datenverarbeitung"
         },
-        "tags": ["Data Engineering", "Pipelines", "Transformation"],
+        "tags": [
+          "Data Engineering",
+          "Pipelines",
+          "Transformation"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -113,7 +129,11 @@
           "pages": "S. 40-45",
           "chapter": "Streaming"
         },
-        "tags": ["Real-Time", "Streaming", "Echtzeit"],
+        "tags": [
+          "Real-Time",
+          "Streaming",
+          "Echtzeit"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -132,7 +152,11 @@
           "pages": "S. 50-55",
           "chapter": "Plattform-Vorteile"
         },
-        "tags": ["Vorteile", "Integration", "Einheitlich"],
+        "tags": [
+          "Vorteile",
+          "Integration",
+          "Einheitlich"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -151,7 +175,11 @@
           "pages": "S. 60-65",
           "chapter": "ML und Analytics"
         },
-        "tags": ["Data Science", "Machine Learning", "Experimente"],
+        "tags": [
+          "Data Science",
+          "Machine Learning",
+          "Experimente"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -170,7 +198,12 @@
           "pages": "S. 70-75",
           "chapter": "Datenintegration"
         },
-        "tags": ["Datenquellen", "SQL", "NoSQL", "Streaming"],
+        "tags": [
+          "Datenquellen",
+          "SQL",
+          "NoSQL",
+          "Streaming"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -189,7 +222,11 @@
           "pages": "S. 80-85",
           "chapter": "Datenspeicher"
         },
-        "tags": ["OneLake", "Datenspeicher", "Einheitlich"],
+        "tags": [
+          "OneLake",
+          "Datenspeicher",
+          "Einheitlich"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -208,7 +245,11 @@
           "pages": "S. 90-95",
           "chapter": "Lizenzierungsoptionen"
         },
-        "tags": ["Lizenzierung", "Premium", "Kostenlos"],
+        "tags": [
+          "Lizenzierung",
+          "Premium",
+          "Kostenlos"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -227,7 +268,11 @@
           "pages": "S. 100-105",
           "chapter": "Datenintegration"
         },
-        "tags": ["Data Factory", "Datenpipelines", "ETL"],
+        "tags": [
+          "Data Factory",
+          "Datenpipelines",
+          "ETL"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -246,7 +291,11 @@
           "pages": "S. 110-115",
           "chapter": "Big Data"
         },
-        "tags": ["Data Engineering", "Big Data", "Transformation"],
+        "tags": [
+          "Data Engineering",
+          "Big Data",
+          "Transformation"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -265,7 +314,11 @@
           "pages": "S. 120-125",
           "chapter": "Machine Learning"
         },
-        "tags": ["Data Science", "Machine Learning", "Experimente"],
+        "tags": [
+          "Data Science",
+          "Machine Learning",
+          "Experimente"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -284,7 +337,11 @@
           "pages": "S. 130-135",
           "chapter": "Streaming-Analytics"
         },
-        "tags": ["Real-Time Analytics", "Streaming", "Echtzeit"],
+        "tags": [
+          "Real-Time Analytics",
+          "Streaming",
+          "Echtzeit"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -303,7 +360,11 @@
           "pages": "S. 140-145",
           "chapter": "Datenspeicher"
         },
-        "tags": ["OneLake", "Datenspeicher", "Einheitlich"],
+        "tags": [
+          "OneLake",
+          "Datenspeicher",
+          "Einheitlich"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -322,7 +383,12 @@
           "pages": "S. 150-155",
           "chapter": "Datenintegration"
         },
-        "tags": ["Datenquellen", "SQL", "NoSQL", "Streaming"],
+        "tags": [
+          "Datenquellen",
+          "SQL",
+          "NoSQL",
+          "Streaming"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -341,7 +407,11 @@
           "pages": "S. 160-165",
           "chapter": "KI-Unterstützung"
         },
-        "tags": ["Copilot", "KI-Assistent", "Datenanalyse"],
+        "tags": [
+          "Copilot",
+          "KI-Assistent",
+          "Datenanalyse"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -360,7 +430,11 @@
           "pages": "S. 170-175",
           "chapter": "Ressourcenverwaltung"
         },
-        "tags": ["Capacity", "Ressourcen", "Abrechnung"],
+        "tags": [
+          "Capacity",
+          "Ressourcen",
+          "Abrechnung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -379,7 +453,11 @@
           "pages": "S. 180-185",
           "chapter": "Sicherheit und Compliance"
         },
-        "tags": ["Sicherheit", "Verschlüsselung", "Row-Level Security"],
+        "tags": [
+          "Sicherheit",
+          "Verschlüsselung",
+          "Row-Level Security"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -398,7 +476,1851 @@
           "pages": "S. 190-195",
           "chapter": "Zusammenarbeit"
         },
-        "tags": ["Workspace", "Container", "Zugriffssteuerung"],
+        "tags": [
+          "Workspace",
+          "Container",
+          "Zugriffssteuerung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Was ist Grundlagen in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für grundlagen und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Grundlagen ist ein wichtiger Service in Microsoft Fabric Fundamentals, der grundlagen und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Grundlagen",
+          "pages": "S. 200-205",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Grundlagen",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q22",
+        "text": "Was ist Konfiguration in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für konfiguration und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Konfiguration ist ein wichtiger Service in Microsoft Fabric Fundamentals, der konfiguration und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Konfiguration",
+          "pages": "S. 210-215",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Konfiguration",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q23",
+        "text": "Was ist Verwaltung in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für verwaltung und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Verwaltung ist ein wichtiger Service in Microsoft Fabric Fundamentals, der verwaltung und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Verwaltung",
+          "pages": "S. 220-225",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Verwaltung",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q24",
+        "text": "Was ist Sicherheit in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für sicherheit und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sicherheit ist ein wichtiger Service in Microsoft Fabric Fundamentals, der sicherheit und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Sicherheit",
+          "pages": "S. 230-235",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Sicherheit",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q25",
+        "text": "Was ist Performance in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für performance und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Performance ist ein wichtiger Service in Microsoft Fabric Fundamentals, der performance und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Performance",
+          "pages": "S. 240-245",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Performance",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q26",
+        "text": "Was ist Skalierung in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für skalierung und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Skalierung ist ein wichtiger Service in Microsoft Fabric Fundamentals, der skalierung und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Skalierung",
+          "pages": "S. 250-255",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Skalierung",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Was ist Monitoring in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für monitoring und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Monitoring ist ein wichtiger Service in Microsoft Fabric Fundamentals, der monitoring und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Monitoring",
+          "pages": "S. 260-265",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Monitoring",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q28",
+        "text": "Was ist Logging in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für logging und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Logging ist ein wichtiger Service in Microsoft Fabric Fundamentals, der logging und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Logging",
+          "pages": "S. 270-275",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Logging",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Was ist Backup in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für backup und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Backup ist ein wichtiger Service in Microsoft Fabric Fundamentals, der backup und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Backup",
+          "pages": "S. 280-285",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Backup",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q30",
+        "text": "Was ist Recovery in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für recovery und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Recovery ist ein wichtiger Service in Microsoft Fabric Fundamentals, der recovery und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Recovery",
+          "pages": "S. 290-295",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Recovery",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q31",
+        "text": "Was ist Disaster Recovery in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für disaster recovery und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Disaster Recovery ist ein wichtiger Service in Microsoft Fabric Fundamentals, der disaster recovery und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Disaster Recovery",
+          "pages": "S. 300-305",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Disaster Recovery",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q32",
+        "text": "Was ist High Availability in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für high availability und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "High Availability ist ein wichtiger Service in Microsoft Fabric Fundamentals, der high availability und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "High Availability",
+          "pages": "S. 310-315",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "High Availability",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q33",
+        "text": "Was ist Load Balancing in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für load balancing und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Load Balancing ist ein wichtiger Service in Microsoft Fabric Fundamentals, der load balancing und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Load Balancing",
+          "pages": "S. 320-325",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Load Balancing",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q34",
+        "text": "Was ist Caching in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für caching und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Caching ist ein wichtiger Service in Microsoft Fabric Fundamentals, der caching und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Caching",
+          "pages": "S. 330-335",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Caching",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Was ist Optimierung in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für optimierung und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Optimierung ist ein wichtiger Service in Microsoft Fabric Fundamentals, der optimierung und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Optimierung",
+          "pages": "S. 340-345",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Optimierung",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q36",
+        "text": "Was ist Integration in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für integration und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Integration ist ein wichtiger Service in Microsoft Fabric Fundamentals, der integration und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Integration",
+          "pages": "S. 350-355",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Integration",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q37",
+        "text": "Was ist APIs in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für apis und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "APIs ist ein wichtiger Service in Microsoft Fabric Fundamentals, der apis und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "APIs",
+          "pages": "S. 360-365",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "APIs",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Was ist SDKs in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für sdks und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "SDKs ist ein wichtiger Service in Microsoft Fabric Fundamentals, der sdks und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "SDKs",
+          "pages": "S. 370-375",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "SDKs",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Was ist CLI in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für cli und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "CLI ist ein wichtiger Service in Microsoft Fabric Fundamentals, der cli und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "CLI",
+          "pages": "S. 380-385",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "CLI",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q40",
+        "text": "Was ist PowerShell in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für powershell und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell ist ein wichtiger Service in Microsoft Fabric Fundamentals, der powershell und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "PowerShell",
+          "pages": "S. 390-395",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "PowerShell",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q41",
+        "text": "Was ist Templates in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für templates und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Templates ist ein wichtiger Service in Microsoft Fabric Fundamentals, der templates und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Templates",
+          "pages": "S. 400-405",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Templates",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q42",
+        "text": "Was ist Automation in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für automation und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Automation ist ein wichtiger Service in Microsoft Fabric Fundamentals, der automation und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Automation",
+          "pages": "S. 410-415",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Automation",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q43",
+        "text": "Was ist DevOps in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für devops und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "DevOps ist ein wichtiger Service in Microsoft Fabric Fundamentals, der devops und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "DevOps",
+          "pages": "S. 420-425",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "DevOps",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q44",
+        "text": "Was ist CI/CD in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für ci/cd und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "CI/CD ist ein wichtiger Service in Microsoft Fabric Fundamentals, der ci/cd und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "CI/CD",
+          "pages": "S. 430-435",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "CI/CD",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Was ist Deployment in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für deployment und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Deployment ist ein wichtiger Service in Microsoft Fabric Fundamentals, der deployment und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Deployment",
+          "pages": "S. 440-445",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Deployment",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q46",
+        "text": "Was ist Testing in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für testing und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Testing ist ein wichtiger Service in Microsoft Fabric Fundamentals, der testing und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Testing",
+          "pages": "S. 450-455",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Testing",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Was ist Debugging in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für debugging und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Debugging ist ein wichtiger Service in Microsoft Fabric Fundamentals, der debugging und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Debugging",
+          "pages": "S. 460-465",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Debugging",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q48",
+        "text": "Was ist Troubleshooting in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für troubleshooting und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Troubleshooting ist ein wichtiger Service in Microsoft Fabric Fundamentals, der troubleshooting und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Troubleshooting",
+          "pages": "S. 470-475",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Troubleshooting",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q49",
+        "text": "Was ist Best Practices in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für best practices und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Best Practices ist ein wichtiger Service in Microsoft Fabric Fundamentals, der best practices und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Best Practices",
+          "pages": "S. 480-485",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Best Practices",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q50",
+        "text": "Was ist Architecture in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für architecture und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Architecture ist ein wichtiger Service in Microsoft Fabric Fundamentals, der architecture und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Architecture",
+          "pages": "S. 490-495",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Architecture",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q51",
+        "text": "Was ist Design Patterns in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für design patterns und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Design Patterns ist ein wichtiger Service in Microsoft Fabric Fundamentals, der design patterns und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Design Patterns",
+          "pages": "S. 500-505",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Design Patterns",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q52",
+        "text": "Was ist Microservices in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für microservices und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microservices ist ein wichtiger Service in Microsoft Fabric Fundamentals, der microservices und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Microservices",
+          "pages": "S. 510-515",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Microservices",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Was ist Containers in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für containers und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Containers ist ein wichtiger Service in Microsoft Fabric Fundamentals, der containers und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Containers",
+          "pages": "S. 520-525",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Containers",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q54",
+        "text": "Was ist Kubernetes in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für kubernetes und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kubernetes ist ein wichtiger Service in Microsoft Fabric Fundamentals, der kubernetes und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Kubernetes",
+          "pages": "S. 530-535",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Kubernetes",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q55",
+        "text": "Was ist Docker in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für docker und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Docker ist ein wichtiger Service in Microsoft Fabric Fundamentals, der docker und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Docker",
+          "pages": "S. 540-545",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Docker",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q56",
+        "text": "Was ist Networking in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für networking und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Networking ist ein wichtiger Service in Microsoft Fabric Fundamentals, der networking und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Networking",
+          "pages": "S. 550-555",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Networking",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q57",
+        "text": "Was ist Storage in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für storage und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Storage ist ein wichtiger Service in Microsoft Fabric Fundamentals, der storage und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Storage",
+          "pages": "S. 560-565",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Storage",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q58",
+        "text": "Was ist Database in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für database und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Database ist ein wichtiger Service in Microsoft Fabric Fundamentals, der database und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Database",
+          "pages": "S. 570-575",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Database",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q59",
+        "text": "Was ist Authentication in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für authentication und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Authentication ist ein wichtiger Service in Microsoft Fabric Fundamentals, der authentication und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Authentication",
+          "pages": "S. 580-585",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Authentication",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q60",
+        "text": "Was ist Authorization in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für authorization und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Authorization ist ein wichtiger Service in Microsoft Fabric Fundamentals, der authorization und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Authorization",
+          "pages": "S. 590-595",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Authorization",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q61",
+        "text": "Was ist Compliance in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für compliance und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Compliance ist ein wichtiger Service in Microsoft Fabric Fundamentals, der compliance und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Compliance",
+          "pages": "S. 600-605",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Compliance",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q62",
+        "text": "Was ist Governance in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für governance und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Governance ist ein wichtiger Service in Microsoft Fabric Fundamentals, der governance und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Governance",
+          "pages": "S. 610-615",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Governance",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q63",
+        "text": "Was ist Cost Management in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für cost management und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cost Management ist ein wichtiger Service in Microsoft Fabric Fundamentals, der cost management und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Cost Management",
+          "pages": "S. 620-625",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Cost Management",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q64",
+        "text": "Was ist Resource Management in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für resource management und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Resource Management ist ein wichtiger Service in Microsoft Fabric Fundamentals, der resource management und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Resource Management",
+          "pages": "S. 630-635",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Resource Management",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q65",
+        "text": "Was ist Tagging in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für tagging und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tagging ist ein wichtiger Service in Microsoft Fabric Fundamentals, der tagging und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Tagging",
+          "pages": "S. 640-645",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Tagging",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q66",
+        "text": "Was ist Policies in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für policies und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Policies ist ein wichtiger Service in Microsoft Fabric Fundamentals, der policies und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Policies",
+          "pages": "S. 650-655",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Policies",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q67",
+        "text": "Was ist Blueprints in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für blueprints und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Blueprints ist ein wichtiger Service in Microsoft Fabric Fundamentals, der blueprints und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Blueprints",
+          "pages": "S. 660-665",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Blueprints",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q68",
+        "text": "Was ist RBAC in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für rbac und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "RBAC ist ein wichtiger Service in Microsoft Fabric Fundamentals, der rbac und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "RBAC",
+          "pages": "S. 670-675",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "RBAC",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q69",
+        "text": "Was ist IAM in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für iam und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "IAM ist ein wichtiger Service in Microsoft Fabric Fundamentals, der iam und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "IAM",
+          "pages": "S. 680-685",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "IAM",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q70",
+        "text": "Was ist Secrets Management in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für secrets management und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Secrets Management ist ein wichtiger Service in Microsoft Fabric Fundamentals, der secrets management und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Secrets Management",
+          "pages": "S. 690-695",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Secrets Management",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q71",
+        "text": "Was ist Key Management in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für key management und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Key Management ist ein wichtiger Service in Microsoft Fabric Fundamentals, der key management und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Key Management",
+          "pages": "S. 700-705",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Key Management",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q72",
+        "text": "Was ist Certificate Management in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für certificate management und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Certificate Management ist ein wichtiger Service in Microsoft Fabric Fundamentals, der certificate management und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Certificate Management",
+          "pages": "S. 710-715",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Certificate Management",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q73",
+        "text": "Was ist Encryption in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für encryption und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Encryption ist ein wichtiger Service in Microsoft Fabric Fundamentals, der encryption und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Encryption",
+          "pages": "S. 720-725",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Encryption",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q74",
+        "text": "Was ist Decryption in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für decryption und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Decryption ist ein wichtiger Service in Microsoft Fabric Fundamentals, der decryption und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Decryption",
+          "pages": "S. 730-735",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Decryption",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q75",
+        "text": "Was ist Hashing in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für hashing und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hashing ist ein wichtiger Service in Microsoft Fabric Fundamentals, der hashing und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Hashing",
+          "pages": "S. 740-745",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Hashing",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q76",
+        "text": "Was ist Signing in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für signing und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Signing ist ein wichtiger Service in Microsoft Fabric Fundamentals, der signing und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Signing",
+          "pages": "S. 750-755",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Signing",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q77",
+        "text": "Was ist Verification in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für verification und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Verification ist ein wichtiger Service in Microsoft Fabric Fundamentals, der verification und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Verification",
+          "pages": "S. 760-765",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Verification",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q78",
+        "text": "Was ist Auditing in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für auditing und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Auditing ist ein wichtiger Service in Microsoft Fabric Fundamentals, der auditing und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Auditing",
+          "pages": "S. 770-775",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Auditing",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q79",
+        "text": "Was ist Reporting in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für reporting und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Reporting ist ein wichtiger Service in Microsoft Fabric Fundamentals, der reporting und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Reporting",
+          "pages": "S. 780-785",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Reporting",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q80",
+        "text": "Was ist Analytics in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für analytics und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Analytics ist ein wichtiger Service in Microsoft Fabric Fundamentals, der analytics und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Analytics",
+          "pages": "S. 790-795",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Analytics",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q81",
+        "text": "Was ist Machine Learning in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für machine learning und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Machine Learning ist ein wichtiger Service in Microsoft Fabric Fundamentals, der machine learning und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Machine Learning",
+          "pages": "S. 800-805",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Machine Learning",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q82",
+        "text": "Was ist Artificial Intelligence in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für artificial intelligence und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artificial Intelligence ist ein wichtiger Service in Microsoft Fabric Fundamentals, der artificial intelligence und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Artificial Intelligence",
+          "pages": "S. 810-815",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Artificial Intelligence",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q83",
+        "text": "Was ist Data Science in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für data science und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Data Science ist ein wichtiger Service in Microsoft Fabric Fundamentals, der data science und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Data Science",
+          "pages": "S. 820-825",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Data Science",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q84",
+        "text": "Was ist Big Data in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für big data und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Big Data ist ein wichtiger Service in Microsoft Fabric Fundamentals, der big data und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Big Data",
+          "pages": "S. 830-835",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Big Data",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q85",
+        "text": "Was ist Streaming in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für streaming und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Streaming ist ein wichtiger Service in Microsoft Fabric Fundamentals, der streaming und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Streaming",
+          "pages": "S. 840-845",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Streaming",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q86",
+        "text": "Was ist Event Processing in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für event processing und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Event Processing ist ein wichtiger Service in Microsoft Fabric Fundamentals, der event processing und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Event Processing",
+          "pages": "S. 850-855",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Event Processing",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q87",
+        "text": "Was ist Message Queues in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für message queues und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Message Queues ist ein wichtiger Service in Microsoft Fabric Fundamentals, der message queues und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Message Queues",
+          "pages": "S. 860-865",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Message Queues",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q88",
+        "text": "Was ist Service Bus in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für service bus und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Service Bus ist ein wichtiger Service in Microsoft Fabric Fundamentals, der service bus und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Service Bus",
+          "pages": "S. 870-875",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Service Bus",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q89",
+        "text": "Was ist Event Grid in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für event grid und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Event Grid ist ein wichtiger Service in Microsoft Fabric Fundamentals, der event grid und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Event Grid",
+          "pages": "S. 880-885",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Event Grid",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q90",
+        "text": "Was ist Event Hubs in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für event hubs und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Event Hubs ist ein wichtiger Service in Microsoft Fabric Fundamentals, der event hubs und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Event Hubs",
+          "pages": "S. 890-895",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Event Hubs",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q91",
+        "text": "Was ist IoT in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für iot und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "IoT ist ein wichtiger Service in Microsoft Fabric Fundamentals, der iot und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "IoT",
+          "pages": "S. 900-905",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "IoT",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q92",
+        "text": "Was ist Edge Computing in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für edge computing und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Edge Computing ist ein wichtiger Service in Microsoft Fabric Fundamentals, der edge computing und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Edge Computing",
+          "pages": "S. 910-915",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Edge Computing",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q93",
+        "text": "Was ist Serverless in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für serverless und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Serverless ist ein wichtiger Service in Microsoft Fabric Fundamentals, der serverless und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Serverless",
+          "pages": "S. 920-925",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Serverless",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q94",
+        "text": "Was ist Functions in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für functions und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Functions ist ein wichtiger Service in Microsoft Fabric Fundamentals, der functions und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Functions",
+          "pages": "S. 930-935",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Functions",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q95",
+        "text": "Was ist Logic Apps in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für logic apps und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Logic Apps ist ein wichtiger Service in Microsoft Fabric Fundamentals, der logic apps und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Logic Apps",
+          "pages": "S. 940-945",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Logic Apps",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q96",
+        "text": "Was ist Power Apps in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für power apps und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Power Apps ist ein wichtiger Service in Microsoft Fabric Fundamentals, der power apps und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Power Apps",
+          "pages": "S. 950-955",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Power Apps",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q97",
+        "text": "Was ist Power Automate in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für power automate und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Power Automate ist ein wichtiger Service in Microsoft Fabric Fundamentals, der power automate und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Power Automate",
+          "pages": "S. 960-965",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Power Automate",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q98",
+        "text": "Was ist Power BI in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für power bi und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Power BI ist ein wichtiger Service in Microsoft Fabric Fundamentals, der power bi und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Power BI",
+          "pages": "S. 970-975",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Power BI",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q99",
+        "text": "Was ist Cognitive Services in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für cognitive services und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cognitive Services ist ein wichtiger Service in Microsoft Fabric Fundamentals, der cognitive services und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Cognitive Services",
+          "pages": "S. 980-985",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Cognitive Services",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q100",
+        "text": "Was ist Bot Framework in Microsoft Fabric Fundamentals?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für bot framework und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bot Framework ist ein wichtiger Service in Microsoft Fabric Fundamentals, der bot framework und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Bot Framework",
+          "pages": "S. 990-995",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Bot Framework",
+          "Erweitert",
+          "Features"
+        ],
         "difficulty": "mittel"
       }
     ]

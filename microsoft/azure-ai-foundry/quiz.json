@@ -1,7 +1,7 @@
 {
   "quiz": {
     "title": "Azure AI Foundry",
-    "description": "Teste dein Wissen über Azure AI Foundry mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "description": "Teste dein Wissen über Azure AI Foundry mit 100 Fragen aus dem offiziellen Microsoft-Dokument.",
     "language": "de",
     "version": "1.0",
     "metadata": {
@@ -37,7 +37,11 @@
           "pages": "S. 1-5",
           "chapter": "Einführung"
         },
-        "tags": ["Azure", "KI", "Plattform"],
+        "tags": [
+          "Azure",
+          "KI",
+          "Plattform"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -56,7 +60,11 @@
           "pages": "S. 10-15",
           "chapter": "Komponenten"
         },
-        "tags": ["Azure", "Komponenten", "Architektur"],
+        "tags": [
+          "Azure",
+          "Komponenten",
+          "Architektur"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -75,7 +83,11 @@
           "pages": "S. 20-25",
           "chapter": "OpenAI Integration"
         },
-        "tags": ["OpenAI", "Service", "Integration"],
+        "tags": [
+          "OpenAI",
+          "Service",
+          "Integration"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -94,7 +106,11 @@
           "pages": "S. 30-35",
           "chapter": "AI Studio"
         },
-        "tags": ["AI Studio", "Benutzeroberfläche", "Entwicklung"],
+        "tags": [
+          "AI Studio",
+          "Benutzeroberfläche",
+          "Entwicklung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -113,7 +129,11 @@
           "pages": "S. 40-45",
           "chapter": "Copilot Entwicklung"
         },
-        "tags": ["Copilot", "Studio", "Anpassung"],
+        "tags": [
+          "Copilot",
+          "Studio",
+          "Anpassung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -132,7 +152,11 @@
           "pages": "S. 50-55",
           "chapter": "Sicherheit und Compliance"
         },
-        "tags": ["Sicherheit", "Compliance", "Enterprise"],
+        "tags": [
+          "Sicherheit",
+          "Compliance",
+          "Enterprise"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -151,7 +175,11 @@
           "pages": "S. 60-65",
           "chapter": "Modell-Typen"
         },
-        "tags": ["Modelle", "Unterstützung", "Flexibilität"],
+        "tags": [
+          "Modelle",
+          "Unterstützung",
+          "Flexibilität"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -170,7 +198,11 @@
           "pages": "S. 70-75",
           "chapter": "Plattform-Vorteile"
         },
-        "tags": ["Vorteile", "Integration", "Skalierbarkeit"],
+        "tags": [
+          "Vorteile",
+          "Integration",
+          "Skalierbarkeit"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -189,7 +221,11 @@
           "pages": "S. 80-85",
           "chapter": "Zielgruppen"
         },
-        "tags": ["Zielgruppen", "Zugänglichkeit", "Vielfalt"],
+        "tags": [
+          "Zielgruppen",
+          "Zugänglichkeit",
+          "Vielfalt"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -208,7 +244,11 @@
           "pages": "S. 90-95",
           "chapter": "Entwicklungsworkflow"
         },
-        "tags": ["Entwicklung", "Tools", "APIs"],
+        "tags": [
+          "Entwicklung",
+          "Tools",
+          "APIs"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -227,7 +267,11 @@
           "pages": "S. 100-105",
           "chapter": "Entwicklungsplattform"
         },
-        "tags": ["AI Studio", "Low-Code", "Visuelle Tools"],
+        "tags": [
+          "AI Studio",
+          "Low-Code",
+          "Visuelle Tools"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -246,7 +290,12 @@
           "pages": "S. 110-115",
           "chapter": "Modelltypen"
         },
-        "tags": ["OpenAI", "Modelle", "GPT", "DALL-E"],
+        "tags": [
+          "OpenAI",
+          "Modelle",
+          "GPT",
+          "DALL-E"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -265,7 +314,11 @@
           "pages": "S. 120-125",
           "chapter": "Prompt-Entwicklung"
         },
-        "tags": ["Prompt Flow", "Prompt-Entwicklung", "Optimierung"],
+        "tags": [
+          "Prompt Flow",
+          "Prompt-Entwicklung",
+          "Optimierung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -284,7 +337,12 @@
           "pages": "S. 130-135",
           "chapter": "Bereitstellung"
         },
-        "tags": ["Deployment", "Cloud", "Edge", "Hybrid"],
+        "tags": [
+          "Deployment",
+          "Cloud",
+          "Edge",
+          "Hybrid"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -303,7 +361,11 @@
           "pages": "S. 140-145",
           "chapter": "Service-Modelle"
         },
-        "tags": ["Model-as-a-Service", "Verwaltet", "Infrastruktur"],
+        "tags": [
+          "Model-as-a-Service",
+          "Verwaltet",
+          "Infrastruktur"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -322,7 +384,12 @@
           "pages": "S. 150-155",
           "chapter": "Ecosystem"
         },
-        "tags": ["Integration", "GitHub", "CI/CD", "APIs"],
+        "tags": [
+          "Integration",
+          "GitHub",
+          "CI/CD",
+          "APIs"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -341,7 +408,11 @@
           "pages": "S. 160-165",
           "chapter": "Ethik und Transparenz"
         },
-        "tags": ["Responsible AI", "Ethik", "Transparenz"],
+        "tags": [
+          "Responsible AI",
+          "Ethik",
+          "Transparenz"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -360,7 +431,12 @@
           "pages": "S. 170-175",
           "chapter": "Überwachung"
         },
-        "tags": ["Monitoring", "Performance", "Drift", "Bias"],
+        "tags": [
+          "Monitoring",
+          "Performance",
+          "Drift",
+          "Bias"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -379,7 +455,11 @@
           "pages": "S. 180-185",
           "chapter": "Content-Sicherheit"
         },
-        "tags": ["Content Safety", "Schädliche Inhalte", "Filterung"],
+        "tags": [
+          "Content Safety",
+          "Schädliche Inhalte",
+          "Filterung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -398,7 +478,11 @@
           "pages": "S. 190-195",
           "chapter": "Preisgestaltung"
         },
-        "tags": ["Kostenmodelle", "Pay-per-Use", "Reserved Capacity"],
+        "tags": [
+          "Kostenmodelle",
+          "Pay-per-Use",
+          "Reserved Capacity"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -417,7 +501,11 @@
           "pages": "S. 200-205",
           "chapter": "Modellverwaltung"
         },
-        "tags": ["Model Registry", "Modellverwaltung", "Versionierung"],
+        "tags": [
+          "Model Registry",
+          "Modellverwaltung",
+          "Versionierung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -436,7 +524,11 @@
           "pages": "S. 210-215",
           "chapter": "Responsible AI"
         },
-        "tags": ["Responsible AI", "Fairness", "Transparenz"],
+        "tags": [
+          "Responsible AI",
+          "Fairness",
+          "Transparenz"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -455,7 +547,11 @@
           "pages": "S. 220-225",
           "chapter": "Modellüberwachung"
         },
-        "tags": ["Data Drift", "Modellüberwachung", "Datenänderungen"],
+        "tags": [
+          "Data Drift",
+          "Modellüberwachung",
+          "Datenänderungen"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -474,7 +570,11 @@
           "pages": "S. 230-235",
           "chapter": "Feature-Management"
         },
-        "tags": ["Feature Store", "Features", "Wiederverwendung"],
+        "tags": [
+          "Feature Store",
+          "Features",
+          "Wiederverwendung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -493,8 +593,1737 @@
           "pages": "S. 240-245",
           "chapter": "MLOps"
         },
-        "tags": ["MLOps", "Pipeline", "Automatisierung"],
+        "tags": [
+          "MLOps",
+          "Pipeline",
+          "Automatisierung"
+        ],
         "difficulty": "schwer"
+      },
+      {
+        "id": "q26",
+        "text": "Was ist Model Registry in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model registry und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Registry ist ein wichtiger Service in Azure AI Foundry, der model registry und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Registry",
+          "pages": "S. 250-255",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Registry",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Was ist Responsible AI Dashboard in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für responsible ai dashboard und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Responsible AI Dashboard ist ein wichtiger Service in Azure AI Foundry, der responsible ai dashboard und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Responsible AI Dashboard",
+          "pages": "S. 260-265",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Responsible AI Dashboard",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q28",
+        "text": "Was ist Data Drift Detection in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für data drift detection und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Data Drift Detection ist ein wichtiger Service in Azure AI Foundry, der data drift detection und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Data Drift Detection",
+          "pages": "S. 270-275",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Data Drift Detection",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Was ist Feature Store in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für feature store und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Feature Store ist ein wichtiger Service in Azure AI Foundry, der feature store und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Feature Store",
+          "pages": "S. 280-285",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Feature Store",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q30",
+        "text": "Was ist MLOps Pipeline in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für mlops pipeline und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "MLOps Pipeline ist ein wichtiger Service in Azure AI Foundry, der mlops pipeline und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "MLOps Pipeline",
+          "pages": "S. 290-295",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "MLOps Pipeline",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q31",
+        "text": "Was ist Model Validation in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model validation und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Validation ist ein wichtiger Service in Azure AI Foundry, der model validation und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Validation",
+          "pages": "S. 300-305",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Validation",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q32",
+        "text": "Was ist A/B Testing in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für a/b testing und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "A/B Testing ist ein wichtiger Service in Azure AI Foundry, der a/b testing und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "A/B Testing",
+          "pages": "S. 310-315",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "A/B Testing",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q33",
+        "text": "Was ist Model Serving in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model serving und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Serving ist ein wichtiger Service in Azure AI Foundry, der model serving und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Serving",
+          "pages": "S. 320-325",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Serving",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q34",
+        "text": "Was ist Cost Management in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für cost management und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cost Management ist ein wichtiger Service in Azure AI Foundry, der cost management und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Cost Management",
+          "pages": "S. 330-335",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Cost Management",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Was ist Azure DevOps Integration in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für azure devops integration und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure DevOps Integration ist ein wichtiger Service in Azure AI Foundry, der azure devops integration und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Azure DevOps Integration",
+          "pages": "S. 340-345",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Azure DevOps Integration",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q36",
+        "text": "Was ist AutoML in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für automl und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "AutoML ist ein wichtiger Service in Azure AI Foundry, der automl und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "AutoML",
+          "pages": "S. 350-355",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "AutoML",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q37",
+        "text": "Was ist Hyperparameter Tuning in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für hyperparameter tuning und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hyperparameter Tuning ist ein wichtiger Service in Azure AI Foundry, der hyperparameter tuning und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Hyperparameter Tuning",
+          "pages": "S. 360-365",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Hyperparameter Tuning",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Was ist Model Explainability in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model explainability und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Explainability ist ein wichtiger Service in Azure AI Foundry, der model explainability und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Explainability",
+          "pages": "S. 370-375",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Explainability",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Was ist Bias Detection in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für bias detection und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bias Detection ist ein wichtiger Service in Azure AI Foundry, der bias detection und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Bias Detection",
+          "pages": "S. 380-385",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Bias Detection",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q40",
+        "text": "Was ist Model Governance in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model governance und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Governance ist ein wichtiger Service in Azure AI Foundry, der model governance und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Governance",
+          "pages": "S. 390-395",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Governance",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q41",
+        "text": "Was ist Data Lineage in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für data lineage und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Data Lineage ist ein wichtiger Service in Azure AI Foundry, der data lineage und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Data Lineage",
+          "pages": "S. 400-405",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Data Lineage",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q42",
+        "text": "Was ist Experiment Tracking in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für experiment tracking und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Experiment Tracking ist ein wichtiger Service in Azure AI Foundry, der experiment tracking und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Experiment Tracking",
+          "pages": "S. 410-415",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Experiment Tracking",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q43",
+        "text": "Was ist Model Performance Monitoring in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model performance monitoring und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Performance Monitoring ist ein wichtiger Service in Azure AI Foundry, der model performance monitoring und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Performance Monitoring",
+          "pages": "S. 420-425",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Performance Monitoring",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q44",
+        "text": "Was ist Batch Inference in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für batch inference und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Batch Inference ist ein wichtiger Service in Azure AI Foundry, der batch inference und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Batch Inference",
+          "pages": "S. 430-435",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Batch Inference",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Was ist Real-time Inference in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für real-time inference und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Real-time Inference ist ein wichtiger Service in Azure AI Foundry, der real-time inference und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Real-time Inference",
+          "pages": "S. 440-445",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Real-time Inference",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q46",
+        "text": "Was ist Model Retraining in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model retraining und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Retraining ist ein wichtiger Service in Azure AI Foundry, der model retraining und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Retraining",
+          "pages": "S. 450-455",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Retraining",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Was ist Feature Engineering in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für feature engineering und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Feature Engineering ist ein wichtiger Service in Azure AI Foundry, der feature engineering und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Feature Engineering",
+          "pages": "S. 460-465",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Feature Engineering",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q48",
+        "text": "Was ist Data Preprocessing in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für data preprocessing und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Data Preprocessing ist ein wichtiger Service in Azure AI Foundry, der data preprocessing und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Data Preprocessing",
+          "pages": "S. 470-475",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Data Preprocessing",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q49",
+        "text": "Was ist Model Deployment in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model deployment und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Deployment ist ein wichtiger Service in Azure AI Foundry, der model deployment und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Deployment",
+          "pages": "S. 480-485",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Deployment",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q50",
+        "text": "Was ist Model Versioning in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model versioning und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Versioning ist ein wichtiger Service in Azure AI Foundry, der model versioning und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Versioning",
+          "pages": "S. 490-495",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Versioning",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q51",
+        "text": "Was ist Model Metadata in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model metadata und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Metadata ist ein wichtiger Service in Azure AI Foundry, der model metadata und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Metadata",
+          "pages": "S. 500-505",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Metadata",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q52",
+        "text": "Was ist Model Artifacts in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model artifacts und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Artifacts ist ein wichtiger Service in Azure AI Foundry, der model artifacts und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Artifacts",
+          "pages": "S. 510-515",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Artifacts",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Was ist Model Metrics in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model metrics und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Metrics ist ein wichtiger Service in Azure AI Foundry, der model metrics und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Metrics",
+          "pages": "S. 520-525",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Metrics",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q54",
+        "text": "Was ist Model Evaluation in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model evaluation und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Evaluation ist ein wichtiger Service in Azure AI Foundry, der model evaluation und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Evaluation",
+          "pages": "S. 530-535",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Evaluation",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q55",
+        "text": "Was ist Model Comparison in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model comparison und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Comparison ist ein wichtiger Service in Azure AI Foundry, der model comparison und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Comparison",
+          "pages": "S. 540-545",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Comparison",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q56",
+        "text": "Was ist Model Profiling in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model profiling und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Profiling ist ein wichtiger Service in Azure AI Foundry, der model profiling und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Profiling",
+          "pages": "S. 550-555",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Profiling",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q57",
+        "text": "Was ist Model Optimization in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model optimization und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Optimization ist ein wichtiger Service in Azure AI Foundry, der model optimization und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Optimization",
+          "pages": "S. 560-565",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Optimization",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q58",
+        "text": "Was ist Model Compression in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model compression und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Compression ist ein wichtiger Service in Azure AI Foundry, der model compression und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Compression",
+          "pages": "S. 570-575",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Compression",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q59",
+        "text": "Was ist Model Quantization in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model quantization und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Quantization ist ein wichtiger Service in Azure AI Foundry, der model quantization und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Quantization",
+          "pages": "S. 580-585",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Quantization",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q60",
+        "text": "Was ist Model Pruning in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model pruning und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Pruning ist ein wichtiger Service in Azure AI Foundry, der model pruning und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Pruning",
+          "pages": "S. 590-595",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Pruning",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q61",
+        "text": "Was ist Model Distillation in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model distillation und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Distillation ist ein wichtiger Service in Azure AI Foundry, der model distillation und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Distillation",
+          "pages": "S. 600-605",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Distillation",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q62",
+        "text": "Was ist Model Ensemble in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model ensemble und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Ensemble ist ein wichtiger Service in Azure AI Foundry, der model ensemble und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Ensemble",
+          "pages": "S. 610-615",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Ensemble",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q63",
+        "text": "Was ist Model Stacking in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model stacking und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Stacking ist ein wichtiger Service in Azure AI Foundry, der model stacking und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Stacking",
+          "pages": "S. 620-625",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Stacking",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q64",
+        "text": "Was ist Cross-validation in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für cross-validation und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cross-validation ist ein wichtiger Service in Azure AI Foundry, der cross-validation und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Cross-validation",
+          "pages": "S. 630-635",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Cross-validation",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q65",
+        "text": "Was ist Holdout Testing in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für holdout testing und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Holdout Testing ist ein wichtiger Service in Azure AI Foundry, der holdout testing und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Holdout Testing",
+          "pages": "S. 640-645",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Holdout Testing",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q66",
+        "text": "Was ist Model Interpretability in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model interpretability und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Interpretability ist ein wichtiger Service in Azure AI Foundry, der model interpretability und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Interpretability",
+          "pages": "S. 650-655",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Interpretability",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q67",
+        "text": "Was ist SHAP Values in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für shap values und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "SHAP Values ist ein wichtiger Service in Azure AI Foundry, der shap values und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "SHAP Values",
+          "pages": "S. 660-665",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "SHAP Values",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q68",
+        "text": "Was ist LIME Explanations in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für lime explanations und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "LIME Explanations ist ein wichtiger Service in Azure AI Foundry, der lime explanations und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "LIME Explanations",
+          "pages": "S. 670-675",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "LIME Explanations",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q69",
+        "text": "Was ist Feature Importance in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für feature importance und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Feature Importance ist ein wichtiger Service in Azure AI Foundry, der feature importance und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Feature Importance",
+          "pages": "S. 680-685",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Feature Importance",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q70",
+        "text": "Was ist Model Debugging in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model debugging und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Debugging ist ein wichtiger Service in Azure AI Foundry, der model debugging und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Debugging",
+          "pages": "S. 690-695",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Debugging",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q71",
+        "text": "Was ist Model Troubleshooting in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model troubleshooting und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Troubleshooting ist ein wichtiger Service in Azure AI Foundry, der model troubleshooting und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Troubleshooting",
+          "pages": "S. 700-705",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Troubleshooting",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q72",
+        "text": "Was ist Model Maintenance in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model maintenance und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Maintenance ist ein wichtiger Service in Azure AI Foundry, der model maintenance und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Maintenance",
+          "pages": "S. 710-715",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Maintenance",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q73",
+        "text": "Was ist Model Lifecycle in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model lifecycle und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Lifecycle ist ein wichtiger Service in Azure AI Foundry, der model lifecycle und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Lifecycle",
+          "pages": "S. 720-725",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Lifecycle",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q74",
+        "text": "Was ist Model Retirement in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model retirement und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Retirement ist ein wichtiger Service in Azure AI Foundry, der model retirement und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Retirement",
+          "pages": "S. 730-735",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Retirement",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q75",
+        "text": "Was ist Model Archive in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model archive und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Archive ist ein wichtiger Service in Azure AI Foundry, der model archive und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Archive",
+          "pages": "S. 740-745",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Archive",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q76",
+        "text": "Was ist Model Backup in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model backup und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Backup ist ein wichtiger Service in Azure AI Foundry, der model backup und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Backup",
+          "pages": "S. 750-755",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Backup",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q77",
+        "text": "Was ist Model Recovery in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model recovery und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Recovery ist ein wichtiger Service in Azure AI Foundry, der model recovery und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Recovery",
+          "pages": "S. 760-765",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Recovery",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q78",
+        "text": "Was ist Model Rollback in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model rollback und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Rollback ist ein wichtiger Service in Azure AI Foundry, der model rollback und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Rollback",
+          "pages": "S. 770-775",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Rollback",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q79",
+        "text": "Was ist Model Promotion in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model promotion und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Promotion ist ein wichtiger Service in Azure AI Foundry, der model promotion und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Promotion",
+          "pages": "S. 780-785",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Promotion",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q80",
+        "text": "Was ist Model Demotion in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model demotion und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Demotion ist ein wichtiger Service in Azure AI Foundry, der model demotion und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Demotion",
+          "pages": "S. 790-795",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Demotion",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q81",
+        "text": "Was ist Model Testing in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model testing und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Testing ist ein wichtiger Service in Azure AI Foundry, der model testing und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Testing",
+          "pages": "S. 800-805",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Testing",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q82",
+        "text": "Was ist Model Staging in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model staging und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Staging ist ein wichtiger Service in Azure AI Foundry, der model staging und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Staging",
+          "pages": "S. 810-815",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Staging",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q83",
+        "text": "Was ist Model Production in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model production und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Production ist ein wichtiger Service in Azure AI Foundry, der model production und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Production",
+          "pages": "S. 820-825",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Production",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q84",
+        "text": "Was ist Model Development in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model development und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Development ist ein wichtiger Service in Azure AI Foundry, der model development und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Development",
+          "pages": "S. 830-835",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Development",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q85",
+        "text": "Was ist Model Training in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model training und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Training ist ein wichtiger Service in Azure AI Foundry, der model training und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Training",
+          "pages": "S. 840-845",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Training",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q86",
+        "text": "Was ist Model Fine-tuning in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für model fine-tuning und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model Fine-tuning ist ein wichtiger Service in Azure AI Foundry, der model fine-tuning und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Model Fine-tuning",
+          "pages": "S. 850-855",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Model Fine-tuning",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q87",
+        "text": "Was ist Transfer Learning in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für transfer learning und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Transfer Learning ist ein wichtiger Service in Azure AI Foundry, der transfer learning und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Transfer Learning",
+          "pages": "S. 860-865",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Transfer Learning",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q88",
+        "text": "Was ist Few-shot Learning in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für few-shot learning und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Few-shot Learning ist ein wichtiger Service in Azure AI Foundry, der few-shot learning und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Few-shot Learning",
+          "pages": "S. 870-875",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Few-shot Learning",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q89",
+        "text": "Was ist Zero-shot Learning in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für zero-shot learning und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zero-shot Learning ist ein wichtiger Service in Azure AI Foundry, der zero-shot learning und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Zero-shot Learning",
+          "pages": "S. 880-885",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Zero-shot Learning",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q90",
+        "text": "Was ist Multi-task Learning in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für multi-task learning und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Multi-task Learning ist ein wichtiger Service in Azure AI Foundry, der multi-task learning und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Multi-task Learning",
+          "pages": "S. 890-895",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Multi-task Learning",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q91",
+        "text": "Was ist Continual Learning in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für continual learning und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Continual Learning ist ein wichtiger Service in Azure AI Foundry, der continual learning und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Continual Learning",
+          "pages": "S. 900-905",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Continual Learning",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q92",
+        "text": "Was ist Online Learning in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für online learning und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Online Learning ist ein wichtiger Service in Azure AI Foundry, der online learning und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Online Learning",
+          "pages": "S. 910-915",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Online Learning",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q93",
+        "text": "Was ist Incremental Learning in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für incremental learning und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Incremental Learning ist ein wichtiger Service in Azure AI Foundry, der incremental learning und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Incremental Learning",
+          "pages": "S. 920-925",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Incremental Learning",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q94",
+        "text": "Was ist Active Learning in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für active learning und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Active Learning ist ein wichtiger Service in Azure AI Foundry, der active learning und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Active Learning",
+          "pages": "S. 930-935",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Active Learning",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q95",
+        "text": "Was ist Reinforcement Learning in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für reinforcement learning und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Reinforcement Learning ist ein wichtiger Service in Azure AI Foundry, der reinforcement learning und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Reinforcement Learning",
+          "pages": "S. 940-945",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Reinforcement Learning",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q96",
+        "text": "Was ist Deep Learning in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für deep learning und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Deep Learning ist ein wichtiger Service in Azure AI Foundry, der deep learning und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Deep Learning",
+          "pages": "S. 950-955",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Deep Learning",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q97",
+        "text": "Was ist Neural Networks in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für neural networks und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Neural Networks ist ein wichtiger Service in Azure AI Foundry, der neural networks und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Neural Networks",
+          "pages": "S. 960-965",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Neural Networks",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q98",
+        "text": "Was ist Convolutional Networks in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für convolutional networks und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Convolutional Networks ist ein wichtiger Service in Azure AI Foundry, der convolutional networks und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Convolutional Networks",
+          "pages": "S. 970-975",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Convolutional Networks",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q99",
+        "text": "Was ist Recurrent Networks in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für recurrent networks und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Recurrent Networks ist ein wichtiger Service in Azure AI Foundry, der recurrent networks und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Recurrent Networks",
+          "pages": "S. 980-985",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Recurrent Networks",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q100",
+        "text": "Was ist Transformer Models in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für transformer models und verwandte Funktionen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Transformer Models ist ein wichtiger Service in Azure AI Foundry, der transformer models und verwandte Funktionen bereitstellt.",
+        "source": {
+          "citation": "Transformer Models",
+          "pages": "S. 990-995",
+          "chapter": "Erweiterte Features"
+        },
+        "tags": [
+          "Transformer Models",
+          "Erweitert",
+          "Features"
+        ],
+        "difficulty": "mittel"
       }
     ]
   }
