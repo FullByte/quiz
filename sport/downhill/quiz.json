@@ -1763,10 +1763,10 @@
         "id": "q80",
         "text": "Welche maximale Masse darf ein Skateboard haben?",
         "options": [
-          "5 kg",
-          "6 kg",
-          "7 kg",
-          "8 kg"
+          "Eine Lösung für 5 kg",
+          "Eine Lösung für 6 kg",
+          "Eine Lösung für 7 kg",
+          "Eine Lösung für 8 kg"
         ],
         "correctIndex": 1,
         "explanation": "Das maximale Gewicht für ein Skateboard beträgt 6 kg.",

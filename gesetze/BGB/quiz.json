@@ -460,7 +460,7 @@
         "explanation": "Der Verkäufer muss die Sache übergeben und Eigentum verschaffen; der Käufer den Kaufpreis zahlen und die Sache abnehmen (§ 433 BGB).",
         "source": {
           "citation": "BGB § 433",
-          "pages": "S. 203–204",
+          "pages": "S. 203-204",
           "chapter": "Buch 2, Schuldrecht, Besonderer Teil, Kaufrecht"
         },
         "tags": [
@@ -482,7 +482,7 @@
         "explanation": "§ 437 BGB gewährt dem Käufer bei Mangel: Nacherfüllung sowie bei Vorliegen der Voraussetzungen Rücktritt, Minderung, Schadensersatz oder Ersatz vergeblicher Aufwendungen.",
         "source": {
           "citation": "BGB § 437",
-          "pages": "S. 210–211",
+          "pages": "S. 210-211",
           "chapter": "Buch 2, Schuldrecht, Besonderer Teil, Kaufrecht"
         },
         "tags": [
@@ -504,7 +504,7 @@
         "explanation": "Verzug tritt grundsätzlich nach Mahnung ein; er kann auch ohne Mahnung eintreten, wenn die Leistung kalendermäßig bestimmt ist oder besondere Voraussetzungen vorliegen (§ 286 BGB).",
         "source": {
           "citation": "BGB § 286",
-          "pages": "S. 189–190",
+          "pages": "S. 189-190",
           "chapter": "Buch 2, Allgemeines Schuldrecht"
         },
         "tags": [
@@ -526,7 +526,7 @@
         "explanation": "Bei Unmöglichkeit ist der Anspruch auf Leistung ausgeschlossen (§ 275 Abs. 1 BGB); Schadensersatz richtet sich nach §§ 280, 283 BGB.",
         "source": {
           "citation": "BGB § 275",
-          "pages": "S. 182–183",
+          "pages": "S. 182-183",
           "chapter": "Buch 2, Allgemeines Schuldrecht"
         },
         "tags": [
@@ -547,7 +547,7 @@
         "explanation": "Grundsätzlich muss eine angemessene Frist zur Leistung oder Nacherfüllung bestimmt werden; sie ist in bestimmten Fällen entbehrlich (§ 323 BGB).",
         "source": {
           "citation": "BGB § 323",
-          "pages": "S. 197–198",
+          "pages": "S. 197-198",
           "chapter": "Buch 2, Allgemeines Schuldrecht"
         },
         "tags": [
@@ -612,7 +612,7 @@
         "explanation": "Der Vermieter muss die Mietsache zum Gebrauch überlassen und sie in vertragsgemäßem Zustand erhalten (§ 535 Abs. 1 BGB).",
         "source": {
           "citation": "BGB § 535",
-          "pages": "S. 259–260",
+          "pages": "S. 259-260",
           "chapter": "Buch 2, Schuldrecht, Besonderer Teil, Mietrecht"
         },
         "tags": [
@@ -627,13 +627,13 @@
           "Nur bei Zahlungsunfähigkeit",
           "Bei Mängeln, die die Tauglichkeit zum vertragsgemäßen Gebrauch aufheben oder mindern",
           "Nur mit Zustimmung des Vermieters",
-          "Nie"
+          "Eine Lösung für nie"
         ],
         "correctIndex": 1,
         "explanation": "Tritt ein Mangel auf, der die Tauglichkeit zum vertragsgemäßen Gebrauch mindert oder aufhebt, ist die Miete kraft Gesetzes gemindert (§ 536 BGB).",
         "source": {
           "citation": "BGB § 536",
-          "pages": "S. 260–261",
+          "pages": "S. 260-261",
           "chapter": "Buch 2, Schuldrecht, Besonderer Teil, Mietrecht"
         },
         "tags": [
@@ -655,7 +655,7 @@
         "explanation": "Beim Dienstvertrag wird eine Tätigkeit geschuldet, beim Werkvertrag der herbeizuführende Erfolg (§ 611a, § 631 BGB).",
         "source": {
           "citation": "BGB §§ 611a, 631",
-          "pages": "S. 236, 270",
+          "pages": "S. 236-270",
           "chapter": "Buch 2, Schuldrecht, Besonderer Teil"
         },
         "tags": [
@@ -698,7 +698,7 @@
         "explanation": "Erforderlich sind Gegenseitigkeit, Gleichartigkeit der Forderungen und Durchsetzbarkeit der Gegenforderung (insb. Fälligkeit) (§ 387 BGB).",
         "source": {
           "citation": "BGB § 387",
-          "pages": "S. 169–170",
+          "pages": "S. 169-170",
           "chapter": "Buch 2, Allgemeines Schuldrecht"
         },
         "tags": [
@@ -741,7 +741,7 @@
         "explanation": "Anfechtbar sind Erklärungs- und Inhaltsirrtum (§ 119 Abs. 1) sowie der Eigenschaftsirrtum (§ 119 Abs. 2). Motivirrtümer sind grundsätzlich irrelevant.",
         "source": {
           "citation": "BGB § 119",
-          "pages": "S. 50–51",
+          "pages": "S. 50-51",
           "chapter": "Buch 1, Allgemeiner Teil"
         },
         "tags": [
@@ -826,7 +826,7 @@
         "explanation": "Schadensersatz statt der Leistung setzt eine Pflichtverletzung und grundsätzlich eine erfolglos gesetzte angemessene Frist voraus (§§ 280, 281 BGB).",
         "source": {
           "citation": "BGB §§ 280, 281",
-          "pages": "S. 185–186, 192",
+          "pages": "S. 185-192",
           "chapter": "Buch 2, Allgemeines Schuldrecht"
         },
         "tags": [

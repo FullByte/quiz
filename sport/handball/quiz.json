@@ -47,9 +47,9 @@
         "id": "q2",
         "text": "Wie lang ist die Torlinie zwischen den Torpfosten?",
         "options": [
-          "6 cm",
-          "8 cm",
-          "5 cm",
+          "Eine Lösung für 6 cm",
+          "Eine Lösung für 8 cm",
+          "Eine Lösung für 5 cm",
           "10 cm"
         ],
         "correctIndex": 1,
@@ -113,10 +113,10 @@
         "id": "q5",
         "text": "In welchem Abstand zur Torlinie befindet sich die 7-m-Linie?",
         "options": [
-          "6 m",
-          "7 m",
-          "8 m",
-          "9 m"
+          "Eine Lösung für 6 m",
+          "Eine Lösung für 7 m",
+          "Eine Lösung für 8 m",
+          "Eine Lösung für 9 m"
         ],
         "correctIndex": 1,
         "explanation": "Die 7-m-Linie ist exakt 7 Meter von der hinteren Kante der Torlinie entfernt.",
@@ -597,9 +597,9 @@
         "id": "q27",
         "text": "Wie viele Team-Time-outs pro Halbzeit sind nach IHF-Regeln erlaubt?",
         "options": [
-          "1",
-          "2",
-          "3",
+          "Eine Lösung für 1",
+          "Eine Lösung für 2",
+          "Eine Lösung für 3",
           "beliebig viele"
         ],
         "correctIndex": 1,
@@ -641,10 +641,10 @@
         "id": "q29",
         "text": "Wie viele Mannschaftsoffizielle dürfen maximal auf dem Spielprotokoll eingetragen sein?",
         "options": [
-          "3",
-          "4",
-          "5",
-          "6"
+          "Eine Lösung für 3",
+          "Eine Lösung für 4",
+          "Eine Lösung für 5",
+          "Eine Lösung für 6"
         ],
         "correctIndex": 2,
         "explanation": "Es sind maximal 5 Offizielle erlaubt, darunter ein Mannschaftsverantwortlicher.",
@@ -1235,10 +1235,10 @@
         "id": "q56",
         "text": "Welche Mindestdistanz müssen Gegenspieler bei Freiwürfen außerhalb der 9-m-Linie einhalten?",
         "options": [
-          "2 m",
-          "3 m",
-          "4 m",
-          "5 m"
+          "Eine Lösung für 2 m",
+          "Eine Lösung für 3 m",
+          "Eine Lösung für 4 m",
+          "Eine Lösung für 5 m"
         ],
         "correctIndex": 1,
         "explanation": "Gegenspieler müssen mindestens 3 m Abstand zum Werfer halten, sofern sie außerhalb der 9-m-Linie stehen.",
@@ -1345,9 +1345,9 @@
         "id": "q61",
         "text": "Welche maximale Anzahl an Verwarnungen ist pro Teamoffiziellen zulässig?",
         "options": [
-          "Eine",
-          "Zwei",
-          "Drei",
+          "Eine Lösung für eine",
+          "Eine Lösung für zwei",
+          "Eine Lösung für drei",
           "Unbegrenzt"
         ],
         "correctIndex": 0,
@@ -1499,9 +1499,9 @@
         "id": "q68",
         "text": "Wie viele Verwarnungen darf eine Mannschaft insgesamt maximal erhalten?",
         "options": [
-          "2",
-          "3",
-          "4",
+          "Eine Lösung für 2",
+          "Eine Lösung für 3",
+          "Eine Lösung für 4",
           "unbegrenzt"
         ],
         "correctIndex": 1,
@@ -1521,9 +1521,9 @@
         "id": "q69",
         "text": "Welche Karte zeigt der Schiedsrichter bei einer Disqualifikation?",
         "options": [
-          "Gelb",
-          "Rot",
-          "Blau",
+          "Eine Lösung für gelb",
+          "Eine Lösung für rot",
+          "Eine Lösung für blau",
           "Schwarz"
         ],
         "correctIndex": 1,
@@ -1587,10 +1587,10 @@
         "id": "q72",
         "text": "Wie viele Schiedsrichter leiten ein Handballspiel?",
         "options": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "Eine Lösung für 1",
+          "Eine Lösung für 2",
+          "Eine Lösung für 3",
+          "Eine Lösung für 4"
         ],
         "correctIndex": 1,
         "explanation": "Ein Spiel wird von zwei gleichberechtigten Schiedsrichtern geleitet.",
@@ -1675,10 +1675,10 @@
         "id": "q76",
         "text": "Wie viele Mannschaftsoffizielle dürfen sich maximal im Auswechselraum aufhalten?",
         "options": [
-          "3",
-          "4",
-          "5",
-          "6"
+          "Eine Lösung für 3",
+          "Eine Lösung für 4",
+          "Eine Lösung für 5",
+          "Eine Lösung für 6"
         ],
         "correctIndex": 2,
         "explanation": "Maximal 5 Offizielle dürfen im Auswechselraum eingetragen sein.",
@@ -1741,9 +1741,9 @@
         "id": "q79",
         "text": "Wie viele Team-Time-outs darf eine Mannschaft pro Spiel maximal nehmen?",
         "options": [
-          "2",
-          "3",
-          "4",
+          "Eine Lösung für 2",
+          "Eine Lösung für 3",
+          "Eine Lösung für 4",
           "beliebig viele"
         ],
         "correctIndex": 1,

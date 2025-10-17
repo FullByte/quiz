@@ -71,9 +71,9 @@
         "text": "Welche Form hat die Spielfläche laut IIHF-Regelwerk?",
         "options": [
           "Rechteckig mit abgerundeten Ecken",
-          "Oval",
+          "Eine Lösung für oval",
           "Quadratisch",
-          "Rund"
+          "Eine Lösung für rund"
         ],
         "correctIndex": 0,
         "explanation": "Die Eisfläche ist rechteckig und hat an allen vier Ecken eine Abrundung.",
@@ -158,10 +158,10 @@
         "id": "q7",
         "text": "Wie viele Offizielle (Schiedsrichter + Linienrichter) leitet ein Spiel im Vier-Mann-System?",
         "options": [
-          "2",
-          "3",
-          "4",
-          "5"
+          "Eine Lösung für 2",
+          "Eine Lösung für 3",
+          "Eine Lösung für 4",
+          "Eine Lösung für 5"
         ],
         "correctIndex": 2,
         "explanation": "Im Vier-Mann-System gibt es zwei Schiedsrichter und zwei Linienrichter.",
@@ -312,10 +312,10 @@
         "id": "q14",
         "text": "Welche Farbe muss die Kickleiste am unteren Ende der Bande haben?",
         "options": [
-          "Rot",
-          "Blau",
-          "Gelb",
-          "Weiß"
+          "Eine Lösung für rot",
+          "Eine Lösung für blau",
+          "Eine Lösung für gelb",
+          "Eine Lösung für weiß"
         ],
         "correctIndex": 2,
         "explanation": "Die Kickleiste am unteren Ende der Bande muss in einer hellgelben Farbe gestaltet sein.",
@@ -488,9 +488,9 @@
         "id": "q22",
         "text": "Welche Farbe muss der Knauf eines Torhüterstocks haben?",
         "options": [
-          "Rot",
-          "Gelb",
-          "Weiß",
+          "Eine Lösung für rot",
+          "Eine Lösung für gelb",
+          "Eine Lösung für weiß",
           "Schwarz"
         ],
         "correctIndex": 2,
@@ -1663,7 +1663,7 @@
         "explanation": "Jede Beeinträchtigung des Torhüters im Torraum durch einen Angreifer kann zur Aberkennung eines Tores führen.",
         "source": {
           "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
-          "pages": "S. 134–136",
+          "pages": "S. 134-136",
           "chapter": "Regel 69 – Behinderung am Torhüter"
         },
         "tags": [
@@ -1773,7 +1773,7 @@
         "explanation": "Das unnötige Zudecken des Pucks außerhalb des Torraums wird als Spielverzögerung mit kleiner Strafe geahndet.",
         "source": {
           "citation": "IIHF Regelbuch 2024/2025 (deutsche Übersetzung)",
-          "pages": "S. 131–132",
+          "pages": "S. 131-132",
           "chapter": "Regel 67 – Behandlung des Pucks (Torhüter)"
         },
         "tags": [

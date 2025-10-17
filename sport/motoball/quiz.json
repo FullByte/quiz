@@ -223,10 +223,10 @@
         "id": "q10",
         "text": "Wie weit entfernt von der Torlinie befindet sich die Strafstoßmarke im Motoball?",
         "options": [
-          "9 m",
-          "10 m",
-          "11 m",
-          "12 m"
+          "Eine Lösung für 9 m",
+          "Eine Lösung für 10 m",
+          "Eine Lösung für 11 m",
+          "Eine Lösung für 12 m"
         ],
         "correctIndex": 2,
         "explanation": "Die Strafstoßmarke ist 11 m von der Mitte der Torlinie entfernt. Dies entspricht auch internationalen Standards.",
@@ -245,10 +245,10 @@
         "id": "q11",
         "text": "Welche Mindestbreite muss ein Motoball-Spielfeld haben?",
         "options": [
-          "40 m",
-          "45 m",
-          "50 m",
-          "55 m"
+          "Eine Lösung für 40 m",
+          "Eine Lösung für 45 m",
+          "Eine Lösung für 50 m",
+          "Eine Lösung für 55 m"
         ],
         "correctIndex": 1,
         "explanation": "Die Breite eines Motoball-Spielfelds muss mindestens 45 m betragen. Kleinere Breiten sind nicht zulässig.",
@@ -334,9 +334,9 @@
         "text": "Wie viele Schiedsrichter leiten regulär ein Motoballspiel?",
         "options": [
           "Einer",
-          "Zwei",
-          "Drei",
-          "Vier"
+          "Eine Lösung für zwei",
+          "Eine Lösung für drei",
+          "Eine Lösung für vier"
         ],
         "correctIndex": 1,
         "explanation": "Ein Motoballspiel wird regulär von zwei lizenzierten Schiedsrichtern geleitet, je einer auf jeder Platzseite.",
@@ -377,10 +377,10 @@
         "id": "q17",
         "text": "Wie weit müssen Gegenspieler bei der Ausführung eines Freistoßes vom Ball entfernt sein?",
         "options": [
-          "5 m",
+          "Eine Lösung für 5 m",
           "7,5 m",
           "9,15 m",
-          "10 m"
+          "Eine Lösung für 10 m"
         ],
         "correctIndex": 2,
         "explanation": "Bei der Ausführung eines Freistoßes müssen alle Gegenspieler mindestens 9,15 m vom Ball entfernt sein.",
@@ -443,10 +443,10 @@
         "id": "q20",
         "text": "Wie weit müssen Spieler bei einem Eckball mindestens vom Ball entfernt sein?",
         "options": [
-          "5 m",
+          "Eine Lösung für 5 m",
           "7,5 m",
           "9,15 m",
-          "10 m"
+          "Eine Lösung für 10 m"
         ],
         "correctIndex": 2,
         "explanation": "Bei einem Eckball müssen alle Spieler der gegnerischen Mannschaft mindestens 9,15 m vom Ball entfernt sein.",
@@ -576,9 +576,9 @@
         "text": "Welche Mindestanzahl an Linienrichtern ist für ein offizielles Spiel erforderlich?",
         "options": [
           "Einer",
-          "Zwei",
-          "Drei",
-          "Vier"
+          "Eine Lösung für zwei",
+          "Eine Lösung für drei",
+          "Eine Lösung für vier"
         ],
         "correctIndex": 1,
         "explanation": "Ein offizielles Spiel kann nur angepfiffen werden, wenn zwei Linienrichter mit gleicher Kleidung wie die Schiedsrichter anwesend sind.",
@@ -619,10 +619,10 @@
         "id": "q28",
         "text": "Wie viele Viertel zu je 20 Minuten umfasst ein Senioren-Motoballspiel?",
         "options": [
-          "Zwei",
-          "Drei",
-          "Vier",
-          "Fünf"
+          "Eine Lösung für zwei",
+          "Eine Lösung für drei",
+          "Eine Lösung für vier",
+          "Eine Lösung für fünf"
         ],
         "correctIndex": 2,
         "explanation": "Ein Senioren-Motoballspiel besteht aus vier Vierteln zu je 20 Minuten.",
@@ -707,10 +707,10 @@
         "id": "q32",
         "text": "Wie weit entfernt müssen Gegenspieler beim Anstoß mindestens stehen?",
         "options": [
-          "5 m",
-          "7 m",
+          "Eine Lösung für 5 m",
+          "Eine Lösung für 7 m",
           "9,15 m",
-          "10 m"
+          "Eine Lösung für 10 m"
         ],
         "correctIndex": 2,
         "explanation": "Beim Anstoß müssen die Gegenspieler mindestens 9,15 m vom Ball entfernt sein.",
@@ -883,8 +883,8 @@
         "id": "q40",
         "text": "Kann aus einem Eckball direkt ein Tor erzielt werden?",
         "options": [
-          "Ja",
-          "Nein",
+          "Eine Lösung für ja",
+          "Eine Lösung für nein",
           "Nur nach Berührung des Torwarts",
           "Nur nach Berührung eines anderen Spielers"
         ],
@@ -993,10 +993,10 @@
         "id": "q45",
         "text": "Wie viele farblich einheitliche Linienrichter-Flaggen muss ein Veranstalter stellen?",
         "options": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "Eine Lösung für 1",
+          "Eine Lösung für 2",
+          "Eine Lösung für 3",
+          "Eine Lösung für 4"
         ],
         "correctIndex": 1,
         "explanation": "Der Veranstalter muss zwei einheitliche Linienrichter-Flaggen (40x40 cm) bereitstellen.",
@@ -1015,10 +1015,10 @@
         "id": "q46",
         "text": "Wie viele funktionsbereite Handsprechgeräte für Schiedsrichter muss der Veranstalter bereitstellen?",
         "options": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "Eine Lösung für 1",
+          "Eine Lösung für 2",
+          "Eine Lösung für 3",
+          "Eine Lösung für 4"
         ],
         "correctIndex": 1,
         "explanation": "Es müssen zwei Handsprechgeräte für die Schiedsrichter bereitgestellt werden.",
@@ -1191,10 +1191,10 @@
         "id": "q54",
         "text": "Wie weit müssen Spieler bei einem Freistoß mindestens von der direkten Anfahrtslinie entfernt sein?",
         "options": [
-          "1 m",
-          "2 m",
-          "3 m",
-          "5 m"
+          "Eine Lösung für 1 m",
+          "Eine Lösung für 2 m",
+          "Eine Lösung für 3 m",
+          "Eine Lösung für 5 m"
         ],
         "correctIndex": 1,
         "explanation": "Bei einem Freistoß müssen die Gegenspieler mindestens 9,15 m vom Ball und zusätzlich 2 m von der Anfahrtslinie entfernt sein.",
@@ -1458,7 +1458,7 @@
           "Nur im Strafraum",
           "Nur im Torraum",
           "Überall auf dem Feld",
-          "Nie"
+          "Eine Lösung für nie"
         ],
         "correctIndex": 1,
         "explanation": "Der Torwart darf den Ball nur im Torraum mit den Händen spielen.",
@@ -1523,7 +1523,7 @@
         "options": [
           "Sofort nach Strafe",
           "Erst bei nächster Spielunterbrechung nach Ablauf",
-          "Nie",
+          "Eine Lösung für nie",
           "Nur bei Verlängerung"
         ],
         "correctIndex": 1,
@@ -1917,10 +1917,10 @@
         "id": "q87",
         "text": "Wie groß muss der Abstand der Gegenspieler bei einem Eckball sein?",
         "options": [
-          "5 m",
-          "7 m",
+          "Eine Lösung für 5 m",
+          "Eine Lösung für 7 m",
           "9,15 m",
-          "10 m"
+          "Eine Lösung für 10 m"
         ],
         "correctIndex": 2,
         "explanation": "Bei Eckbällen müssen Gegenspieler mindestens 9,15 m Abstand halten.",
@@ -1961,7 +1961,7 @@
         "id": "q89",
         "text": "Wann darf ein Linienrichter eingesetzt werden, der keine Lizenz hat?",
         "options": [
-          "Nie",
+          "Eine Lösung für nie",
           "Nur mit unterschriebenem Haftungsverzicht",
           "Nur bei Freundschaftsspielen",
           "Nur mit Vereinsgenehmigung"

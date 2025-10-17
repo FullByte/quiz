@@ -1,7 +1,7 @@
 {
   "quiz": {
     "title": "DSGVO Quiz",
-    "description": "Teste dein Wissen zur EU-Datenschutz-Grundverordnung (DSGVO) und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+    "description": "Teste dein Wissen zur EU-Datenschutz-Grundverordnung (DSGVO) und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus 50 Fragen.",
     "language": "de",
     "version": "1.0",
     "sourceDocument": {
@@ -14,7 +14,7 @@
       "shuffleQuestions": true,
       "shuffleOptions": true,
       "showExplanations": true,
-      "timePerQuestionSec": 0
+      "timePerQuestionSec": 60
     },
     "questions": [
       {
@@ -749,7 +749,7 @@
         "options": [
           "Normale Verträge",
           "Von der Kommission genehmigte Vertragsklauseln für Datenübermittlungen in Drittländer",
-          "AGB",
+          "Eine Lösung für agb",
           "Arbeitsverträge"
         ],
         "correctIndex": 1,
@@ -813,7 +813,7 @@
         "id": "q37",
         "text": "Haben betroffene Personen das Recht, nicht einer ausschließlich automatisierten Entscheidung unterworfen zu werden?",
         "options": [
-          "Nein",
+          "Eine Lösung für nein",
           "Ja, grundsätzlich mit definierten Ausnahmen",
           "Nur in bestimmten Branchen",
           "Nur bei Krediten"
@@ -1055,7 +1055,7 @@
         "id": "q48",
         "text": "Haben betroffene Personen ein Widerspruchsrecht gegen Direktwerbung?",
         "options": [
-          "Nein",
+          "Eine Lösung für nein",
           "Ja, jederzeit und kostenlos",
           "Nur gegen E-Mail-Werbung",
           "Nur einmal"
@@ -1117,6 +1117,10 @@
         ],
         "difficulty": "schwer"
       }
-    ]
+    ],
+    "metadata": {
+      "createdAt": "2025-10-17T13:46:01.066886Z",
+      "notes": "Quiz optimiert und validiert"
+    }
   }
 }

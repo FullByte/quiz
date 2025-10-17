@@ -1,7 +1,7 @@
 {
   "quiz": {
     "title": "Bias in KI-Systemen",
-    "description": "Teste dein Wissen über Bias, Diskriminierung und Fairness in KI-Systemen. Der Fragenkatalog umfasst {questionCount} Fragen zu verschiedenen Arten von Bias, deren Ursachen und Gegenmaßnahmen.",
+    "description": "Teste dein Wissen über Bias, Diskriminierung und Fairness in KI-Systemen. Der Fragenkatalog umfasst 40 Fragen zu verschiedenen Arten von Bias, deren Ursachen und Gegenmaßnahmen.",
     "language": "de",
     "version": "1.0",
     "sourceDocument": {
@@ -10,7 +10,9 @@
       "metadata": {
         "createdAt": "2025-10-01T12:00:00Z",
         "version": "1.0"
-      }
+      },
+      "version": "1.0",
+      "year": 2025
     },
     "settings": {
       "shuffleQuestions": true,
@@ -35,7 +37,11 @@
           "pages": "S. 3",
           "chapter": "1 Einführung"
         },
-        "tags": ["Grundlagen", "Definition", "Bias"],
+        "tags": [
+          "Grundlagen",
+          "Definition",
+          "Bias"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -54,7 +60,11 @@
           "pages": "S. 5",
           "chapter": "2 Bias-Typen"
         },
-        "tags": ["Selection Bias", "Trainingsdaten", "Datenqualität"],
+        "tags": [
+          "Selection Bias",
+          "Trainingsdaten",
+          "Datenqualität"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -73,7 +83,11 @@
           "pages": "S. 6",
           "chapter": "2.1 Historical Bias"
         },
-        "tags": ["Historical Bias", "Gesellschaft", "Diskriminierung"],
+        "tags": [
+          "Historical Bias",
+          "Gesellschaft",
+          "Diskriminierung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -92,7 +106,11 @@
           "pages": "S. 7",
           "chapter": "2.2 Algorithmic Bias"
         },
-        "tags": ["Algorithmic Bias", "Algorithmen", "Modellwahl"],
+        "tags": [
+          "Algorithmic Bias",
+          "Algorithmen",
+          "Modellwahl"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -111,7 +129,11 @@
           "pages": "S. 8",
           "chapter": "2.3 Measurement Bias"
         },
-        "tags": ["Measurement Bias", "Features", "Datenerfassung"],
+        "tags": [
+          "Measurement Bias",
+          "Features",
+          "Datenerfassung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -130,7 +152,11 @@
           "pages": "S. 9",
           "chapter": "2.4 Representation Bias"
         },
-        "tags": ["Representation Bias", "Unterrepräsentation", "Diversität"],
+        "tags": [
+          "Representation Bias",
+          "Unterrepräsentation",
+          "Diversität"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -149,7 +175,11 @@
           "pages": "S. 10",
           "chapter": "2.5 Automation Bias"
         },
-        "tags": ["Automation Bias", "Menschliches Verhalten", "Vertrauen"],
+        "tags": [
+          "Automation Bias",
+          "Menschliches Verhalten",
+          "Vertrauen"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -168,7 +198,11 @@
           "pages": "S. 12",
           "chapter": "3 Fairness-Konzepte"
         },
-        "tags": ["Fairness", "Gleichbehandlung", "Ethik"],
+        "tags": [
+          "Fairness",
+          "Gleichbehandlung",
+          "Ethik"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -187,7 +221,11 @@
           "pages": "S. 13",
           "chapter": "3.1 Statistische Fairness-Metriken"
         },
-        "tags": ["Demographic Parity", "Fairness-Metriken", "Statistische Fairness"],
+        "tags": [
+          "Demographic Parity",
+          "Fairness-Metriken",
+          "Statistische Fairness"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -206,7 +244,11 @@
           "pages": "S. 14",
           "chapter": "3.2 Equal Opportunity"
         },
-        "tags": ["Equal Opportunity", "True Positive Rate", "Chancengleichheit"],
+        "tags": [
+          "Equal Opportunity",
+          "True Positive Rate",
+          "Chancengleichheit"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -225,7 +267,11 @@
           "pages": "S. 15",
           "chapter": "3.3 Equalized Odds"
         },
-        "tags": ["Equalized Odds", "Fairness-Metriken", "TPR/FPR"],
+        "tags": [
+          "Equalized Odds",
+          "Fairness-Metriken",
+          "TPR/FPR"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -244,7 +290,11 @@
           "pages": "S. 16",
           "chapter": "4 Sensible Merkmale"
         },
-        "tags": ["Protected Attributes", "Sensible Daten", "Diskriminierung"],
+        "tags": [
+          "Protected Attributes",
+          "Sensible Daten",
+          "Diskriminierung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -263,7 +313,11 @@
           "pages": "S. 17",
           "chapter": "4.1 Indirekte Diskriminierung"
         },
-        "tags": ["Proxy Discrimination", "Indirekte Diskriminierung", "Korrelation"],
+        "tags": [
+          "Proxy Discrimination",
+          "Indirekte Diskriminierung",
+          "Korrelation"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -282,7 +336,11 @@
           "pages": "S. 18",
           "chapter": "4.2 Disparate Impact"
         },
-        "tags": ["Disparate Impact", "Diskriminierung", "Rechtliche Aspekte"],
+        "tags": [
+          "Disparate Impact",
+          "Diskriminierung",
+          "Rechtliche Aspekte"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -301,7 +359,11 @@
           "pages": "S. 19",
           "chapter": "4.3 Intersektionale Fairness"
         },
-        "tags": ["Intersectionality", "Mehrfachdiskriminierung", "Komplexität"],
+        "tags": [
+          "Intersectionality",
+          "Mehrfachdiskriminierung",
+          "Komplexität"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -320,7 +382,11 @@
           "pages": "S. 20",
           "chapter": "5 Fairness-Ansätze"
         },
-        "tags": ["Fairness through Unawareness", "Naive Ansätze", "Unzureichend"],
+        "tags": [
+          "Fairness through Unawareness",
+          "Naive Ansätze",
+          "Unzureichend"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -339,7 +405,11 @@
           "pages": "S. 22",
           "chapter": "5.1 Pre-processing Methoden"
         },
-        "tags": ["Pre-processing", "Bias-Mitigation", "Datenaufbereitung"],
+        "tags": [
+          "Pre-processing",
+          "Bias-Mitigation",
+          "Datenaufbereitung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -358,7 +428,11 @@
           "pages": "S. 23",
           "chapter": "5.2 In-processing Methoden"
         },
-        "tags": ["In-processing", "Fairness-Constraints", "Algorithmus-Anpassung"],
+        "tags": [
+          "In-processing",
+          "Fairness-Constraints",
+          "Algorithmus-Anpassung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -377,7 +451,11 @@
           "pages": "S. 24",
           "chapter": "5.3 Post-processing Methoden"
         },
-        "tags": ["Post-processing", "Schwellenanpassung", "Nachbearbeitung"],
+        "tags": [
+          "Post-processing",
+          "Schwellenanpassung",
+          "Nachbearbeitung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -396,7 +474,11 @@
           "pages": "S. 25",
           "chapter": "6 Fallbeispiele"
         },
-        "tags": ["COMPAS", "Fallbeispiel", "Rassendiskriminierung"],
+        "tags": [
+          "COMPAS",
+          "Fallbeispiel",
+          "Rassendiskriminierung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -415,7 +497,11 @@
           "pages": "S. 26",
           "chapter": "6.1 Amazon Recruiting Fall"
         },
-        "tags": ["Amazon", "Gender Bias", "Recruiting"],
+        "tags": [
+          "Amazon",
+          "Gender Bias",
+          "Recruiting"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -434,7 +520,11 @@
           "pages": "S. 27",
           "chapter": "6.2 Gesichtserkennungs-Bias"
         },
-        "tags": ["Gesichtserkennung", "Gender Bias", "Racial Bias"],
+        "tags": [
+          "Gesichtserkennung",
+          "Gender Bias",
+          "Racial Bias"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -453,7 +543,11 @@
           "pages": "S. 28",
           "chapter": "7 Dynamische Effekte"
         },
-        "tags": ["Feedback Loops", "Selbstverstärkung", "Dynamik"],
+        "tags": [
+          "Feedback Loops",
+          "Selbstverstärkung",
+          "Dynamik"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -472,7 +566,11 @@
           "pages": "S. 29",
           "chapter": "7.1 Label Bias"
         },
-        "tags": ["Label Bias", "Zielvariablen", "Ground Truth"],
+        "tags": [
+          "Label Bias",
+          "Zielvariablen",
+          "Ground Truth"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -491,7 +589,11 @@
           "pages": "S. 30",
           "chapter": "8 Trade-offs"
         },
-        "tags": ["Trade-off", "Fairness vs Accuracy", "Optimierung"],
+        "tags": [
+          "Trade-off",
+          "Fairness vs Accuracy",
+          "Optimierung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -510,7 +612,11 @@
           "pages": "S. 31",
           "chapter": "8.1 Messung von Fairness"
         },
-        "tags": ["Fairness Metrics", "Messung", "Quantifizierung"],
+        "tags": [
+          "Fairness Metrics",
+          "Messung",
+          "Quantifizierung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -529,7 +635,11 @@
           "pages": "S. 32",
           "chapter": "8.2 Konflikte zwischen Fairness-Kriterien"
         },
-        "tags": ["Impossibility Theorem", "Konflikte", "Mathematische Grenzen"],
+        "tags": [
+          "Impossibility Theorem",
+          "Konflikte",
+          "Mathematische Grenzen"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -548,7 +658,11 @@
           "pages": "S. 33",
           "chapter": "9 Fortgeschrittene Techniken"
         },
-        "tags": ["Adversarial Debiasing", "Deep Learning", "Representation Learning"],
+        "tags": [
+          "Adversarial Debiasing",
+          "Deep Learning",
+          "Representation Learning"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -567,7 +681,11 @@
           "pages": "S. 34",
           "chapter": "9.1 Calibration Fairness"
         },
-        "tags": ["Calibration", "Wahrscheinlichkeiten", "Gruppenfairness"],
+        "tags": [
+          "Calibration",
+          "Wahrscheinlichkeiten",
+          "Gruppenfairness"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -586,7 +704,11 @@
           "pages": "S. 35",
           "chapter": "9.2 Individual vs. Group Fairness"
         },
-        "tags": ["Individual Fairness", "Ähnlichkeit", "Individuelle Ebene"],
+        "tags": [
+          "Individual Fairness",
+          "Ähnlichkeit",
+          "Individuelle Ebene"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -605,7 +727,11 @@
           "pages": "S. 36",
           "chapter": "9.3 Kausale Fairness"
         },
-        "tags": ["Counterfactual Fairness", "Kausalität", "Was-wäre-wenn"],
+        "tags": [
+          "Counterfactual Fairness",
+          "Kausalität",
+          "Was-wäre-wenn"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -624,7 +750,11 @@
           "pages": "S. 37",
           "chapter": "10 Governance und Oversight"
         },
-        "tags": ["Audits", "Überprüfung", "Transparenz"],
+        "tags": [
+          "Audits",
+          "Überprüfung",
+          "Transparenz"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -643,7 +773,11 @@
           "pages": "S. 38",
           "chapter": "10.1 Transparenz und Erklärbarkeit"
         },
-        "tags": ["Explainability", "Transparenz", "Nachvollziehbarkeit"],
+        "tags": [
+          "Explainability",
+          "Transparenz",
+          "Nachvollziehbarkeit"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -662,7 +796,11 @@
           "pages": "S. 39",
           "chapter": "10.2 Stakeholder-Einbindung"
         },
-        "tags": ["Participatory Design", "Community", "Stakeholder"],
+        "tags": [
+          "Participatory Design",
+          "Community",
+          "Stakeholder"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -681,7 +819,11 @@
           "pages": "S. 40",
           "chapter": "11 Datentechniken"
         },
-        "tags": ["Synthetic Data", "Datengenerierung", "Ausbalancierung"],
+        "tags": [
+          "Synthetic Data",
+          "Datengenerierung",
+          "Ausbalancierung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -700,7 +842,11 @@
           "pages": "S. 41",
           "chapter": "11.1 Datenvergrößerung"
         },
-        "tags": ["Data Augmentation", "Transformation", "Unterrepräsentation"],
+        "tags": [
+          "Data Augmentation",
+          "Transformation",
+          "Unterrepräsentation"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -719,7 +865,11 @@
           "pages": "S. 42",
           "chapter": "11.2 Reweighting-Methoden"
         },
-        "tags": ["Reweighting", "Sample Weights", "Ausbalancierung"],
+        "tags": [
+          "Reweighting",
+          "Sample Weights",
+          "Ausbalancierung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -738,7 +888,11 @@
           "pages": "S. 43",
           "chapter": "11.3 Schwellen-Anpassung"
         },
-        "tags": ["Threshold Optimization", "Post-processing", "Gruppenschwellen"],
+        "tags": [
+          "Threshold Optimization",
+          "Post-processing",
+          "Gruppenschwellen"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -757,7 +911,11 @@
           "pages": "S. 44",
           "chapter": "12 Best Practices"
         },
-        "tags": ["Documentation", "Transparenz", "Model Cards"],
+        "tags": [
+          "Documentation",
+          "Transparenz",
+          "Model Cards"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -776,10 +934,17 @@
           "pages": "S. 45",
           "chapter": "13 Zusammenfassung"
         },
-        "tags": ["Verantwortungsvolle KI", "Best Practices", "Ganzheitlich"],
+        "tags": [
+          "Verantwortungsvolle KI",
+          "Best Practices",
+          "Ganzheitlich"
+        ],
         "difficulty": "leicht"
       }
-    ]
+    ],
+    "metadata": {
+      "createdAt": "2025-10-17T13:46:00.942500Z",
+      "notes": "Quiz optimiert und validiert"
+    }
   }
 }
-

@@ -1,7 +1,7 @@
 {
   "quiz": {
     "title": "Fußball-Regeln 2025/2026",
-    "description": "Dieses Quiz umfasst Fragen zu Definitionen, Regeln, Fristen und Verfahren aus dem offiziellen Fußball-Regelwerk 2025/2026. Es enthält {questionCount} Fragen, die über mehrere Kapitel verteilt sind.",
+    "description": "Dieses Quiz umfasst Fragen zu Definitionen, Regeln, Fristen und Verfahren aus dem offiziellen Fußball-Regelwerk 2025/2026. Es enthält 100 Fragen, die über mehrere Kapitel verteilt sind.",
     "language": "de",
     "version": "1.0",
     "metadata": {
@@ -37,7 +37,10 @@
           "pages": "S. 17",
           "chapter": "Regel 3 – Spieler"
         },
-        "tags": ["Regel", "Definition"],
+        "tags": [
+          "Regel",
+          "Definition"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -56,15 +59,18 @@
           "pages": "S. 8",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Maße"],
+        "tags": [
+          "Spielfeld",
+          "Maße"
+        ],
         "difficulty": "leicht"
       },
       {
         "id": "q3",
         "text": "Welche maximale Anzahl an Auswechslungen ist bei offiziellen Wettbewerben zulässig?",
         "options": [
-          "Drei",
-          "Fünf",
+          "Eine Lösung für drei",
+          "Eine Lösung für fünf",
           "Sechs",
           "Unbegrenzt"
         ],
@@ -72,10 +78,13 @@
         "explanation": "Bei offiziellen Wettbewerben sind maximal fünf Auswechslungen erlaubt. Mehr Auswechslungen sind nur im Amateur- oder Jugendbereich möglich.",
         "source": {
           "citation": "Fußball-Regeln 2025/2026",
-          "pages": "S. 17–18",
+          "pages": "S. 17-18",
           "chapter": "Regel 3 – Spieler"
         },
-        "tags": ["Regel", "Spieler"],
+        "tags": [
+          "Regel",
+          "Spieler"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -94,7 +103,10 @@
           "pages": "S. 53",
           "chapter": "Regel 7 – Dauer des Spiels"
         },
-        "tags": ["Frist", "Regel"],
+        "tags": [
+          "Frist",
+          "Regel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -113,7 +125,10 @@
           "pages": "S. 60",
           "chapter": "Regel 10 – Bestimmung des Spielausgangs"
         },
-        "tags": ["Definition", "Tor"],
+        "tags": [
+          "Definition",
+          "Tor"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -132,7 +147,10 @@
           "pages": "S. 7",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Maße"],
+        "tags": [
+          "Spielfeld",
+          "Maße"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -151,7 +169,10 @@
           "pages": "S. 15",
           "chapter": "Regel 2 – Ball"
         },
-        "tags": ["Definition", "Ausrüstung"],
+        "tags": [
+          "Definition",
+          "Ausrüstung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -170,7 +191,10 @@
           "pages": "S. 17",
           "chapter": "Regel 3 – Spieler"
         },
-        "tags": ["Regel", "Spielerzahl"],
+        "tags": [
+          "Regel",
+          "Spielerzahl"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -186,10 +210,13 @@
         "explanation": "Die Mauer und alle Gegenspieler müssen bei einem Freistoß mindestens 9,15 Meter entfernt sein. Dieser Abstand ist international einheitlich.",
         "source": {
           "citation": "Fußball-Regeln 2025/2026",
-          "pages": "S. 87–89",
+          "pages": "S. 87-89",
           "chapter": "Regel 13 – Freistöße"
         },
-        "tags": ["Spielfortsetzung", "Regel"],
+        "tags": [
+          "Spielfortsetzung",
+          "Regel"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -208,7 +235,10 @@
           "pages": "S. 97",
           "chapter": "Regel 15 – Einwurf"
         },
-        "tags": ["Spielfortsetzung", "Technik"],
+        "tags": [
+          "Spielfortsetzung",
+          "Technik"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -227,7 +257,10 @@
           "pages": "S. 9",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Maße"],
+        "tags": [
+          "Spielfeld",
+          "Maße"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -246,7 +279,10 @@
           "pages": "S. 15",
           "chapter": "Regel 2 – Ball"
         },
-        "tags": ["Ball", "Ausrüstung"],
+        "tags": [
+          "Ball",
+          "Ausrüstung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -265,7 +301,10 @@
           "pages": "S. 62",
           "chapter": "Regel 10 – Bestimmung des Spielausgangs"
         },
-        "tags": ["Elfmeterschießen", "Regel"],
+        "tags": [
+          "Elfmeterschießen",
+          "Regel"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -284,7 +323,10 @@
           "pages": "S. 101",
           "chapter": "Regel 17 – Eckstoß"
         },
-        "tags": ["Spielfortsetzung", "Regel"],
+        "tags": [
+          "Spielfortsetzung",
+          "Regel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -303,7 +345,10 @@
           "pages": "S. 97",
           "chapter": "Regel 15 – Einwurf"
         },
-        "tags": ["Spielfortsetzung", "Regel"],
+        "tags": [
+          "Spielfortsetzung",
+          "Regel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -322,7 +367,10 @@
           "pages": "S. 54",
           "chapter": "Regel 7 – Dauer des Spiels"
         },
-        "tags": ["Frist", "Zeit"],
+        "tags": [
+          "Frist",
+          "Zeit"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -338,10 +386,13 @@
         "explanation": "Der Torhüter darf den Ball nur innerhalb des eigenen Strafraums mit den Händen aufnehmen. Rückpässe oder Einwürfe vom Mitspieler sind ausgeschlossen.",
         "source": {
           "citation": "Fußball-Regeln 2025/2026",
-          "pages": "S. 73–74",
+          "pages": "S. 73-74",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Torhüter", "Regel"],
+        "tags": [
+          "Torhüter",
+          "Regel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -360,7 +411,10 @@
           "pages": "S. 53",
           "chapter": "Regel 7 – Dauer des Spiels"
         },
-        "tags": ["Regel", "Definition"],
+        "tags": [
+          "Regel",
+          "Definition"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -379,7 +433,10 @@
           "pages": "S. 26",
           "chapter": "Regel 4 – Ausrüstung der Spieler"
         },
-        "tags": ["Ausrüstung", "Regel"],
+        "tags": [
+          "Ausrüstung",
+          "Regel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -395,10 +452,13 @@
         "explanation": "Beleidigungen gegenüber Schiedsrichtern sind feldverweiswürdig und führen zur roten Karte.",
         "source": {
           "citation": "Fußball-Regeln 2025/2026",
-          "pages": "S. 80–82",
+          "pages": "S. 80-82",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Disziplin", "Strafe"],
+        "tags": [
+          "Disziplin",
+          "Strafe"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -417,7 +477,10 @@
           "pages": "S. 87",
           "chapter": "Regel 13 – Freistöße"
         },
-        "tags": ["Schiedsrichter", "Zeichen"],
+        "tags": [
+          "Schiedsrichter",
+          "Zeichen"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -436,7 +499,10 @@
           "pages": "S. 59",
           "chapter": "Regel 9 – Ball im und aus dem Spiel"
         },
-        "tags": ["Ball", "Definition"],
+        "tags": [
+          "Ball",
+          "Definition"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -452,10 +518,13 @@
         "explanation": "Ein Feldverweis wird immer durch die rote Karte angezeigt. Die Gelb-Rote Karte bedeutet ebenfalls Platzverweis, aber aus zwei Verwarnungen.",
         "source": {
           "citation": "Fußball-Regeln 2025/2026",
-          "pages": "S. 75–82",
+          "pages": "S. 75-82",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Strafe", "Disziplin"],
+        "tags": [
+          "Strafe",
+          "Disziplin"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -474,7 +543,10 @@
           "pages": "S. 21",
           "chapter": "Regel 3 – Spieler"
         },
-        "tags": ["Spieler", "Auswechslung"],
+        "tags": [
+          "Spieler",
+          "Auswechslung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -490,10 +562,13 @@
         "explanation": "Absichtliches Handspiel wird mit einem direkten Freistoß geahndet. Im Strafraum führt dies zu einem Strafstoß.",
         "source": {
           "citation": "Fußball-Regeln 2025/2026",
-          "pages": "S. 71–73",
+          "pages": "S. 71-73",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Handspiel", "Strafe"],
+        "tags": [
+          "Handspiel",
+          "Strafe"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -503,7 +578,7 @@
           "Nur mit den Händen außerhalb des Strafraums",
           "Mit jedem Körperteil außer Hand/Arm",
           "Nur mit den Füßen",
-          "Nie"
+          "Eine Lösung für nie"
         ],
         "correctIndex": 1,
         "explanation": "Eine Torverhinderungsaktion liegt vor, wenn ein Spieler den Ball, der aufs Tor geht, mit einem Körperteil außer Hand/Arm abwehrt. Nur der Torhüter im Strafraum darf die Hände benutzen.",
@@ -512,16 +587,19 @@
           "pages": "S. 67",
           "chapter": "Regel 11 – Abseits"
         },
-        "tags": ["Regel", "Tor"],
+        "tags": [
+          "Regel",
+          "Tor"
+        ],
         "difficulty": "mittel"
       },
       {
         "id": "q27",
         "text": "Wie viele Spieler darf ein Team maximal auf dem Feld haben?",
         "options": [
-          "10",
-          "11",
-          "12",
+          "Eine Lösung für 10",
+          "Eine Lösung für 11",
+          "Eine Lösung für 12",
           "Unbegrenzt"
         ],
         "correctIndex": 1,
@@ -531,7 +609,10 @@
           "pages": "S. 17",
           "chapter": "Regel 3 – Spieler"
         },
-        "tags": ["Regel", "Spielerzahl"],
+        "tags": [
+          "Regel",
+          "Spielerzahl"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -550,7 +631,10 @@
           "pages": "S. 12",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Sicherheit"],
+        "tags": [
+          "Spielfeld",
+          "Sicherheit"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -569,7 +653,10 @@
           "pages": "S. 59",
           "chapter": "Regel 9 – Ball im und aus dem Spiel"
         },
-        "tags": ["Schiedsrichter", "Spielfortsetzung"],
+        "tags": [
+          "Schiedsrichter",
+          "Spielfortsetzung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -588,7 +675,10 @@
           "pages": "S. 75",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Torhüter", "Regel"],
+        "tags": [
+          "Torhüter",
+          "Regel"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -607,26 +697,32 @@
           "pages": "S. 12",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Maße"],
+        "tags": [
+          "Spielfeld",
+          "Maße"
+        ],
         "difficulty": "leicht"
       },
       {
         "id": "q32",
         "text": "Wie viele Auswechselgelegenheiten stehen einem Team bei fünf erlaubten Auswechslungen während der regulären Spielzeit zu?",
         "options": [
-          "Zwei",
-          "Drei",
-          "Vier",
-          "Fünf"
+          "Eine Lösung für zwei",
+          "Eine Lösung für drei",
+          "Eine Lösung für vier",
+          "Eine Lösung für fünf"
         ],
         "correctIndex": 1,
         "explanation": "Ein Team hat bei fünf erlaubten Auswechslungen maximal drei Gelegenheiten während des Spiels sowie eine zusätzliche in der Halbzeitpause.",
         "source": {
           "citation": "Fußball-Regeln 2025/2026",
-          "pages": "S. 17–18",
+          "pages": "S. 17-18",
           "chapter": "Regel 3 – Spieler"
         },
-        "tags": ["Auswechslung", "Regel"],
+        "tags": [
+          "Auswechslung",
+          "Regel"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -645,7 +741,10 @@
           "pages": "S. 7",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Maße"],
+        "tags": [
+          "Spielfeld",
+          "Maße"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -661,10 +760,13 @@
         "explanation": "Ein direkter Freistoß wird u. a. bei absichtlichem Handspiel oder Foul mit Körperkontakt verhängt. Gefährliches Spiel ohne Kontakt führt hingegen zu einem indirekten Freistoß.",
         "source": {
           "citation": "Fußball-Regeln 2025/2026",
-          "pages": "S. 70–71",
+          "pages": "S. 70-71",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Foul", "Strafe"],
+        "tags": [
+          "Foul",
+          "Strafe"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -680,10 +782,13 @@
         "explanation": "Nur Spieler des verteidigenden Teams dürfen eine Mauer bilden. Angreifer müssen mindestens 1 m Abstand halten, wenn drei oder mehr Spieler in der Mauer stehen.",
         "source": {
           "citation": "Fußball-Regeln 2025/2026",
-          "pages": "S. 88–89",
+          "pages": "S. 88-89",
           "chapter": "Regel 13 – Freistöße"
         },
-        "tags": ["Freistoß", "Regel"],
+        "tags": [
+          "Freistoß",
+          "Regel"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -702,7 +807,10 @@
           "pages": "S. 75",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Torhüter", "Zeit"],
+        "tags": [
+          "Torhüter",
+          "Zeit"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -721,7 +829,10 @@
           "pages": "S. 57",
           "chapter": "Regel 8 – Beginn und Fortsetzung des Spiels"
         },
-        "tags": ["Anstoß", "Regel"],
+        "tags": [
+          "Anstoß",
+          "Regel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -740,7 +851,10 @@
           "pages": "S. 32",
           "chapter": "Regel 5 – Schiedsrichter"
         },
-        "tags": ["Schiedsrichter", "VAR"],
+        "tags": [
+          "Schiedsrichter",
+          "VAR"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -759,7 +873,10 @@
           "pages": "S. 7",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Definition"],
+        "tags": [
+          "Spielfeld",
+          "Definition"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -778,7 +895,10 @@
           "pages": "S. 97",
           "chapter": "Regel 15 – Einwurf"
         },
-        "tags": ["Spielfortsetzung", "Technik"],
+        "tags": [
+          "Spielfortsetzung",
+          "Technik"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -797,7 +917,10 @@
           "pages": "S. 94",
           "chapter": "Regel 14 – Strafstoß"
         },
-        "tags": ["Strafstoß", "Regel"],
+        "tags": [
+          "Strafstoß",
+          "Regel"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -813,10 +936,13 @@
         "explanation": "Geht ein direkter Freistoß ins eigene Tor, wird auf Eckstoß für das gegnerische Team entschieden.",
         "source": {
           "citation": "Fußball-Regeln 2025/2026",
-          "pages": "S. 87–89",
+          "pages": "S. 87-89",
           "chapter": "Regel 13 – Freistöße"
         },
-        "tags": ["Freistoß", "Tor"],
+        "tags": [
+          "Freistoß",
+          "Tor"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -826,7 +952,7 @@
           "Wenn der Ball im Spiel ist",
           "Wenn er das Spielfeld nach Halbzeit verlassen hat",
           "Wenn er eine Entscheidung schon angekündigt hat",
-          "Nie"
+          "Eine Lösung für nie"
         ],
         "correctIndex": 1,
         "explanation": "Der Schiedsrichter darf eine Spielfortsetzung nicht mehr ändern, wenn er das Spielfeld nach Halbzeitende verlassen hat, außer er betritt die Review Area.",
@@ -835,15 +961,18 @@
           "pages": "S. 32",
           "chapter": "Regel 5 – Schiedsrichter"
         },
-        "tags": ["Schiedsrichter", "Regel"],
+        "tags": [
+          "Schiedsrichter",
+          "Regel"
+        ],
         "difficulty": "schwer"
       },
       {
         "id": "q44",
         "text": "Welches Mindestmaß gilt für die Länge der Seitenlinie bei internationalen Spielen?",
         "options": [
-          "90 m",
-          "95 m",
+          "Eine Lösung für 90 m",
+          "Eine Lösung für 95 m",
           "100 m",
           "105 m"
         ],
@@ -854,7 +983,10 @@
           "pages": "S. 9",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Maße"],
+        "tags": [
+          "Spielfeld",
+          "Maße"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -870,10 +1002,13 @@
         "explanation": "Ein verletzter Torhüter darf im Elfmeterschießen durch einen gemeldeten Einwechselspieler ersetzt werden, wenn noch nicht alle Auswechslungen genutzt sind.",
         "source": {
           "citation": "Fußball-Regeln 2025/2026",
-          "pages": "S. 62–64",
+          "pages": "S. 62-64",
           "chapter": "Regel 10 – Bestimmung des Spielausgangs"
         },
-        "tags": ["Elfmeterschießen", "Torhüter"],
+        "tags": [
+          "Elfmeterschießen",
+          "Torhüter"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -889,10 +1024,13 @@
         "explanation": "Beim Strafstoß dürfen sich nur der Torhüter und der Schütze im Strafraum befinden, alle anderen Spieler müssen außerhalb sein.",
         "source": {
           "citation": "Fußball-Regeln 2025/2026",
-          "pages": "S. 91–93",
+          "pages": "S. 91-93",
           "chapter": "Regel 14 – Strafstoß"
         },
-        "tags": ["Strafstoß", "Regel"],
+        "tags": [
+          "Strafstoß",
+          "Regel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -900,9 +1038,9 @@
         "text": "Wie groß ist der Radius des Anstoßkreises?",
         "options": [
           "7,32 m",
-          "8 m",
+          "Eine Lösung für 8 m",
           "9,15 m",
-          "10 m"
+          "Eine Lösung für 10 m"
         ],
         "correctIndex": 2,
         "explanation": "Der Anstoßkreis hat einen Radius von 9,15 m. Dieser Abstand sorgt für genügend Platz beim Anstoß.",
@@ -911,7 +1049,10 @@
           "pages": "S. 8",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Maße"],
+        "tags": [
+          "Spielfeld",
+          "Maße"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -930,7 +1071,10 @@
           "pages": "S. 95",
           "chapter": "Regel 14 – Strafstoß"
         },
-        "tags": ["Strafstoß", "Disziplin"],
+        "tags": [
+          "Strafstoß",
+          "Disziplin"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -949,7 +1093,10 @@
           "pages": "S. 7",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Definition"],
+        "tags": [
+          "Spielfeld",
+          "Definition"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -968,7 +1115,10 @@
           "pages": "S. 99",
           "chapter": "Regel 16 – Abstoß"
         },
-        "tags": ["Abstoß", "Regel"],
+        "tags": [
+          "Abstoß",
+          "Regel"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -987,7 +1137,10 @@
           "pages": "S. 10",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Strafraum", "Maße"],
+        "tags": [
+          "Strafraum",
+          "Maße"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1006,7 +1159,10 @@
           "pages": "S. 74",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Torhüter", "Einwurf"],
+        "tags": [
+          "Torhüter",
+          "Einwurf"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1022,10 +1178,13 @@
         "explanation": "Spieler, die nicht auf der offiziellen Teamliste stehen, gelten als Drittpersonen. Ausgewechselte und Assistenten sind regulär registriert.",
         "source": {
           "citation": "Fußball-Regeln 2025/2026",
-          "pages": "S. 22–23",
+          "pages": "S. 22-23",
           "chapter": "Regel 3 – Spieler"
         },
-        "tags": ["Definition", "Spieler"],
+        "tags": [
+          "Definition",
+          "Spieler"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1044,7 +1203,10 @@
           "pages": "S. 12",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Maße"],
+        "tags": [
+          "Spielfeld",
+          "Maße"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1063,7 +1225,10 @@
           "pages": "S. 74",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Torhüter", "Regel"],
+        "tags": [
+          "Torhüter",
+          "Regel"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1082,7 +1247,10 @@
           "pages": "S. 25",
           "chapter": "Regel 3 – Spieler"
         },
-        "tags": ["Kapitän", "Regel"],
+        "tags": [
+          "Kapitän",
+          "Regel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1101,7 +1269,10 @@
           "pages": "S. 5",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Vorschrift"],
+        "tags": [
+          "Spielfeld",
+          "Vorschrift"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1120,7 +1291,10 @@
           "pages": "S. 12",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Ausrüstung"],
+        "tags": [
+          "Spielfeld",
+          "Ausrüstung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1139,7 +1313,10 @@
           "pages": "S. 7",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Disziplin", "Spielfeld"],
+        "tags": [
+          "Disziplin",
+          "Spielfeld"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1158,17 +1335,20 @@
           "pages": "S. 54",
           "chapter": "Regel 7 – Dauer des Spiels"
         },
-        "tags": ["Zeit", "Nachspielzeit"],
+        "tags": [
+          "Zeit",
+          "Nachspielzeit"
+        ],
         "difficulty": "schwer"
       },
       {
         "id": "q61",
         "text": "Welche Distanz muss beim Schiedsrichterball eingehalten werden?",
         "options": [
-          "2 m",
-          "3 m",
-          "4 m",
-          "5 m"
+          "Eine Lösung für 2 m",
+          "Eine Lösung für 3 m",
+          "Eine Lösung für 4 m",
+          "Eine Lösung für 5 m"
         ],
         "correctIndex": 2,
         "explanation": "Alle Spieler müssen mindestens 4 Meter Abstand halten, bis der Ball beim Schiedsrichterball den Boden berührt hat.",
@@ -1177,7 +1357,10 @@
           "pages": "S. 58",
           "chapter": "Regel 8 – Beginn und Fortsetzung des Spiels"
         },
-        "tags": ["Schiedsrichterball", "Regel"],
+        "tags": [
+          "Schiedsrichterball",
+          "Regel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1196,7 +1379,10 @@
           "pages": "S. 55",
           "chapter": "Regel 7 – Dauer des Spiels"
         },
-        "tags": ["Verlängerung", "Regel"],
+        "tags": [
+          "Verlängerung",
+          "Regel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1215,7 +1401,10 @@
           "pages": "S. 59",
           "chapter": "Regel 9 – Ball im und aus dem Spiel"
         },
-        "tags": ["Torlinie", "Regel"],
+        "tags": [
+          "Torlinie",
+          "Regel"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1223,9 +1412,9 @@
         "text": "Welcher Mindestdurchmesser gilt für den Eckbereich?",
         "options": [
           "0,5 m",
-          "1 m",
+          "Eine Lösung für 1 m",
           "1,5 m",
-          "2 m"
+          "Eine Lösung für 2 m"
         ],
         "correctIndex": 1,
         "explanation": "Der Eckbereich wird durch einen Viertelkreis mit einem Radius von 1 m markiert. Das ist der vorgeschriebene Standard.",
@@ -1234,7 +1423,10 @@
           "pages": "S. 10",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Maße"],
+        "tags": [
+          "Spielfeld",
+          "Maße"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1253,7 +1445,10 @@
           "pages": "S. 79",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Torjubel", "Disziplin"],
+        "tags": [
+          "Torjubel",
+          "Disziplin"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1272,7 +1467,10 @@
           "pages": "S. 99",
           "chapter": "Regel 16 – Abstoß"
         },
-        "tags": ["Abstoß", "Tor"],
+        "tags": [
+          "Abstoß",
+          "Tor"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1291,17 +1489,20 @@
           "pages": "S. 16",
           "chapter": "Regel 1 – Spielfeld (Zusätzliche Erläuterungen DFB)"
         },
-        "tags": ["Schiedsrichter", "Pflicht"],
+        "tags": [
+          "Schiedsrichter",
+          "Pflicht"
+        ],
         "difficulty": "leicht"
       },
       {
         "id": "q68",
         "text": "Welche maximale Anzahl an Einwechselspielern darf ein A-Nationalteam melden?",
         "options": [
-          "12",
-          "13",
-          "15",
-          "18"
+          "Eine Lösung für 12",
+          "Eine Lösung für 13",
+          "Eine Lösung für 15",
+          "Eine Lösung für 18"
         ],
         "correctIndex": 2,
         "explanation": "Ein A-Nationalteam darf bis zu 15 Einwechselspieler melden. Das ist die Höchstgrenze laut Regelwerk.",
@@ -1310,7 +1511,10 @@
           "pages": "S. 18",
           "chapter": "Regel 3 – Spieler"
         },
-        "tags": ["Spieler", "Regel"],
+        "tags": [
+          "Spieler",
+          "Regel"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1329,7 +1533,10 @@
           "pages": "S. 12",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Tor", "Spielfeld"],
+        "tags": [
+          "Tor",
+          "Spielfeld"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1348,7 +1555,10 @@
           "pages": "S. 60",
           "chapter": "Regel 10 – Bestimmung des Spielausgangs"
         },
-        "tags": ["Tor", "Regel"],
+        "tags": [
+          "Tor",
+          "Regel"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1367,7 +1577,10 @@
           "pages": "S. 100",
           "chapter": "Regel 15 – Einwurf"
         },
-        "tags": ["Einwurf", "Regel"],
+        "tags": [
+          "Einwurf",
+          "Regel"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1376,7 +1589,7 @@
         "options": [
           "3,5 m",
           "5,5 m",
-          "6 m",
+          "Eine Lösung für 6 m",
           "7,32 m"
         ],
         "correctIndex": 1,
@@ -1386,7 +1599,10 @@
           "pages": "S. 8",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Maße"],
+        "tags": [
+          "Spielfeld",
+          "Maße"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1405,7 +1621,10 @@
           "pages": "S. 74",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Torhüter", "Regel"],
+        "tags": [
+          "Torhüter",
+          "Regel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1424,7 +1643,10 @@
           "pages": "S. 99",
           "chapter": "Regel 16 – Abstoß"
         },
-        "tags": ["Abstoß", "Regel"],
+        "tags": [
+          "Abstoß",
+          "Regel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1443,7 +1665,10 @@
           "pages": "S. 12",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Tor", "Maße"],
+        "tags": [
+          "Tor",
+          "Maße"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1462,14 +1687,17 @@
           "pages": "S. 88",
           "chapter": "Regel 13 – Freistöße"
         },
-        "tags": ["Freistoß", "Technik"],
+        "tags": [
+          "Freistoß",
+          "Technik"
+        ],
         "difficulty": "mittel"
       },
       {
         "id": "q77",
         "text": "Wann darf ein Spieler ohne Erlaubnis des Schiedsrichters das Spielfeld betreten?",
         "options": [
-          "Nie",
+          "Eine Lösung für nie",
           "Nur nach Torerzielung",
           "Während einer Unterbrechung",
           "Während des Torjubels"
@@ -1481,7 +1709,10 @@
           "pages": "S. 24",
           "chapter": "Regel 3 – Spieler"
         },
-        "tags": ["Spieler", "Regel"],
+        "tags": [
+          "Spieler",
+          "Regel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1500,17 +1731,20 @@
           "pages": "S. 93",
           "chapter": "Regel 14 – Strafstoß"
         },
-        "tags": ["Strafstoß", "Zeit"],
+        "tags": [
+          "Strafstoß",
+          "Zeit"
+        ],
         "difficulty": "mittel"
       },
       {
         "id": "q79",
         "text": "Wie viele Meter beträgt der Abstand vom Elfmeterpunkt zum Teilkreis außerhalb des Strafraums?",
         "options": [
-          "8 m",
+          "Eine Lösung für 8 m",
           "9,15 m",
-          "10 m",
-          "11 m"
+          "Eine Lösung für 10 m",
+          "Eine Lösung für 11 m"
         ],
         "correctIndex": 1,
         "explanation": "Der Teilkreis außerhalb des Strafraums hat einen Radius von 9,15 m um den Elfmeterpunkt.",
@@ -1519,7 +1753,10 @@
           "pages": "S. 10",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Strafraum", "Maße"],
+        "tags": [
+          "Strafraum",
+          "Maße"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1538,7 +1775,10 @@
           "pages": "S. 74",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Torhüter", "Trick"],
+        "tags": [
+          "Torhüter",
+          "Trick"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1547,8 +1787,8 @@
         "options": [
           "Keine",
           "Einer",
-          "Zwei",
-          "Drei"
+          "Eine Lösung für zwei",
+          "Eine Lösung für drei"
         ],
         "correctIndex": 2,
         "explanation": "Normalerweise gibt es zwei Schiedsrichterassistenten, die den Hauptschiedsrichter unterstützen.",
@@ -1557,7 +1797,10 @@
           "pages": "S. 44",
           "chapter": "Regel 6 – Weitere Spieloffizielle"
         },
-        "tags": ["Schiedsrichter", "Organisation"],
+        "tags": [
+          "Schiedsrichter",
+          "Organisation"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1576,7 +1819,10 @@
           "pages": "S. 59",
           "chapter": "Regel 9 – Ball im und aus dem Spiel"
         },
-        "tags": ["Schiedsrichter", "Ball"],
+        "tags": [
+          "Schiedsrichter",
+          "Ball"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1595,7 +1841,10 @@
           "pages": "S. 80",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Foul", "Disziplin"],
+        "tags": [
+          "Foul",
+          "Disziplin"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1611,10 +1860,13 @@
         "explanation": "Ein Spieler darf das Spielfeld verlassen, um nicht aktiv ins Spiel einzugreifen. Er darf danach wieder ins Spiel zurückkehren.",
         "source": {
           "citation": "Fußball-Regeln 2025/2026",
-          "pages": "S. 68–70",
+          "pages": "S. 68-70",
           "chapter": "Regel 11 – Abseits"
         },
-        "tags": ["Abseits", "Regel"],
+        "tags": [
+          "Abseits",
+          "Regel"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1633,7 +1885,10 @@
           "pages": "S. 94",
           "chapter": "Regel 14 – Strafstoß"
         },
-        "tags": ["Strafstoß", "Disziplin"],
+        "tags": [
+          "Strafstoß",
+          "Disziplin"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1652,7 +1907,10 @@
           "pages": "S. 65",
           "chapter": "Regel 11 – Abseits"
         },
-        "tags": ["Abseits", "Definition"],
+        "tags": [
+          "Abseits",
+          "Definition"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1671,7 +1929,10 @@
           "pages": "S. 103",
           "chapter": "Regel 17 – Eckstoß"
         },
-        "tags": ["Eckstoß", "Regel"],
+        "tags": [
+          "Eckstoß",
+          "Regel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1690,7 +1951,10 @@
           "pages": "S. 9",
           "chapter": "Regel 1 – Spielfeld"
         },
-        "tags": ["Spielfeld", "Maße"],
+        "tags": [
+          "Spielfeld",
+          "Maße"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1709,7 +1973,10 @@
           "pages": "S. 94",
           "chapter": "Regel 14 – Strafstoß"
         },
-        "tags": ["Torhüter", "Strafstoß"],
+        "tags": [
+          "Torhüter",
+          "Strafstoß"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1728,7 +1995,10 @@
           "pages": "S. 85",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Foul", "Regel"],
+        "tags": [
+          "Foul",
+          "Regel"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1747,7 +2017,10 @@
           "pages": "S. 57",
           "chapter": "Regel 8 – Beginn und Fortsetzung des Spiels"
         },
-        "tags": ["Anstoß", "Tor"],
+        "tags": [
+          "Anstoß",
+          "Tor"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1766,7 +2039,10 @@
           "pages": "S. 83",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Teamoffizieller", "Disziplin"],
+        "tags": [
+          "Teamoffizieller",
+          "Disziplin"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1785,7 +2061,10 @@
           "pages": "S. 73",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Torhüter", "Regel"],
+        "tags": [
+          "Torhüter",
+          "Regel"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1804,7 +2083,10 @@
           "pages": "S. 57",
           "chapter": "Regel 7 – Dauer des Spiels (DFB-Erläuterungen)"
         },
-        "tags": ["Junioren", "Zeit"],
+        "tags": [
+          "Junioren",
+          "Zeit"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1823,7 +2105,10 @@
           "pages": "S. 85",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Foul", "Sanktion"],
+        "tags": [
+          "Foul",
+          "Sanktion"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1842,7 +2127,10 @@
           "pages": "S. 62",
           "chapter": "Regel 10 – Bestimmung des Spielausgangs"
         },
-        "tags": ["Elfmeterschießen", "Regel"],
+        "tags": [
+          "Elfmeterschießen",
+          "Regel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1858,10 +2146,13 @@
         "explanation": "Geht der Ball aus einem Eckstoß direkt ins eigene Tor, wird auf Abstoß entschieden.",
         "source": {
           "citation": "Fußball-Regeln 2025/2026",
-          "pages": "S. 101–103",
+          "pages": "S. 101-103",
           "chapter": "Regel 17 – Eckstoß"
         },
-        "tags": ["Eckstoß", "Tor"],
+        "tags": [
+          "Eckstoß",
+          "Tor"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1880,7 +2171,10 @@
           "pages": "S. 78",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Disziplin", "Täuschung"],
+        "tags": [
+          "Disziplin",
+          "Täuschung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1899,7 +2193,10 @@
           "pages": "S. 118",
           "chapter": "Glossar – Kühlpause"
         },
-        "tags": ["Pause", "Spielzeit"],
+        "tags": [
+          "Pause",
+          "Spielzeit"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1918,7 +2215,10 @@
           "pages": "S. 78",
           "chapter": "Regel 12 – Fouls und sonstiges Fehlverhalten"
         },
-        "tags": ["Handspiel", "Disziplin"],
+        "tags": [
+          "Handspiel",
+          "Disziplin"
+        ],
         "difficulty": "schwer"
       }
     ]

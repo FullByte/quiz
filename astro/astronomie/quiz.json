@@ -37,7 +37,11 @@
           "pages": "S. 15-25",
           "chapter": "Grundlagen der Teleskope"
         },
-        "tags": ["Teleskop", "Grundlagen", "Optik"],
+        "tags": [
+          "Teleskop",
+          "Grundlagen",
+          "Optik"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -46,8 +50,8 @@
         "options": [
           "Venus",
           "Merkur",
-          "Erde",
-          "Mars"
+          "Eine Lösung für erde",
+          "Eine Lösung für mars"
         ],
         "correctIndex": 1,
         "explanation": "Merkur ist der sonnennächste Planet in unserem Sonnensystem. Er umkreist die Sonne in nur 88 Tagen und hat keine Atmosphäre.",
@@ -56,7 +60,11 @@
           "pages": "S. 45-50",
           "chapter": "Das Sonnensystem"
         },
-        "tags": ["Planeten", "Sonnensystem", "Merkur"],
+        "tags": [
+          "Planeten",
+          "Sonnensystem",
+          "Merkur"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -75,7 +83,11 @@
           "pages": "S. 120-130",
           "chapter": "Stellare Phänomene"
         },
-        "tags": ["Sterne", "Supernova", "Explosion"],
+        "tags": [
+          "Sterne",
+          "Supernova",
+          "Explosion"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -94,7 +106,11 @@
           "pages": "S. 30-40",
           "chapter": "Teleskop-Typen"
         },
-        "tags": ["Teleskop", "Reflektor", "Größe"],
+        "tags": [
+          "Teleskop",
+          "Reflektor",
+          "Größe"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -113,7 +129,11 @@
           "pages": "S. 60-65",
           "chapter": "Beobachtungsbedingungen"
         },
-        "tags": ["Seeing", "Atmosphäre", "Beobachtung"],
+        "tags": [
+          "Seeing",
+          "Atmosphäre",
+          "Beobachtung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -132,7 +152,11 @@
           "pages": "S. 100-110",
           "chapter": "Nächste Sterne"
         },
-        "tags": ["Sterne", "Entfernung", "Proxima Centauri"],
+        "tags": [
+          "Sterne",
+          "Entfernung",
+          "Proxima Centauri"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -151,7 +175,11 @@
           "pages": "S. 140-150",
           "chapter": "Galaxien"
         },
-        "tags": ["Milchstraße", "Galaxie", "Heimat"],
+        "tags": [
+          "Milchstraße",
+          "Galaxie",
+          "Heimat"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -170,7 +198,11 @@
           "pages": "S. 55-65",
           "chapter": "Gasriesen"
         },
-        "tags": ["Saturn", "Monde", "Gasriesen"],
+        "tags": [
+          "Saturn",
+          "Monde",
+          "Gasriesen"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -189,17 +221,21 @@
           "pages": "S. 130-140",
           "chapter": "Interstellare Materie"
         },
-        "tags": ["Nebel", "Gas", "Staub"],
+        "tags": [
+          "Nebel",
+          "Gas",
+          "Staub"
+        ],
         "difficulty": "mittel"
       },
       {
         "id": "q10",
         "text": "Welche Farbe haben die heißesten Sterne?",
         "options": [
-          "Rot",
-          "Gelb",
-          "Blau",
-          "Grün"
+          "Eine Lösung für rot",
+          "Eine Lösung für gelb",
+          "Eine Lösung für blau",
+          "Eine Lösung für grün"
         ],
         "correctIndex": 2,
         "explanation": "Die heißesten Sterne sind blau-weiß, da sie bei sehr hohen Temperaturen (über 10.000°C) strahlen. Rote Sterne sind dagegen kühler (unter 3.500°C). Die Farbe gibt Auskunft über die Oberflächentemperatur.",
@@ -208,7 +244,11 @@
           "pages": "S. 110-120",
           "chapter": "Sterneigenschaften"
         },
-        "tags": ["Sterne", "Farbe", "Temperatur"],
+        "tags": [
+          "Sterne",
+          "Farbe",
+          "Temperatur"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -227,7 +267,11 @@
           "pages": "S. 80-90",
           "chapter": "Himmelsmechanik"
         },
-        "tags": ["Ekliptik", "Sonne", "Bahn"],
+        "tags": [
+          "Ekliptik",
+          "Sonne",
+          "Bahn"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -236,7 +280,7 @@
         "options": [
           "Merkur",
           "Venus",
-          "Mars",
+          "Eine Lösung für mars",
           "Jupiter"
         ],
         "correctIndex": 1,
@@ -246,7 +290,11 @@
           "pages": "S. 45-55",
           "chapter": "Planetenbeobachtung"
         },
-        "tags": ["Venus", "Helligkeit", "Planeten"],
+        "tags": [
+          "Venus",
+          "Helligkeit",
+          "Planeten"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -265,7 +313,11 @@
           "pages": "S. 160-170",
           "chapter": "Extreme Objekte"
         },
-        "tags": ["Schwarzes Loch", "Gravitation", "Extrem"],
+        "tags": [
+          "Schwarzes Loch",
+          "Gravitation",
+          "Extrem"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -284,7 +336,11 @@
           "pages": "S. 55-65",
           "chapter": "Gasriesen"
         },
-        "tags": ["Jupiter", "Größe", "Gasriese"],
+        "tags": [
+          "Jupiter",
+          "Größe",
+          "Gasriese"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -303,7 +359,11 @@
           "pages": "S. 170-180",
           "chapter": "Physikalische Grundlagen"
         },
-        "tags": ["Lichtgeschwindigkeit", "Physik", "Konstante"],
+        "tags": [
+          "Lichtgeschwindigkeit",
+          "Physik",
+          "Konstante"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -312,7 +372,7 @@
         "options": [
           "Sirius",
           "Polaris (Nordstern)",
-          "Vega",
+          "Eine Lösung für vega",
           "Arktur"
         ],
         "correctIndex": 1,
@@ -322,7 +382,11 @@
           "pages": "S. 90-100",
           "chapter": "Himmelsnavigation"
         },
-        "tags": ["Polaris", "Nordstern", "Navigation"],
+        "tags": [
+          "Polaris",
+          "Nordstern",
+          "Navigation"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -341,7 +405,11 @@
           "pages": "S. 70-80",
           "chapter": "Kleine Körper"
         },
-        "tags": ["Meteorit", "Gestein", "Einschlag"],
+        "tags": [
+          "Meteorit",
+          "Gestein",
+          "Einschlag"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -360,7 +428,11 @@
           "pages": "S. 80-90",
           "chapter": "Himmelsmechanik"
         },
-        "tags": ["Erdbahn", "Ellipse", "Umlaufbahn"],
+        "tags": [
+          "Erdbahn",
+          "Ellipse",
+          "Umlaufbahn"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -379,7 +451,11 @@
           "pages": "S. 40-45",
           "chapter": "Die Sonne"
         },
-        "tags": ["Sonne", "Wasserstoff", "Kernfusion"],
+        "tags": [
+          "Sonne",
+          "Wasserstoff",
+          "Kernfusion"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -398,7 +474,11 @@
           "pages": "S. 25-35",
           "chapter": "Teleskop-Auswahl"
         },
-        "tags": ["Anfänger", "Refraktor", "Teleskop"],
+        "tags": [
+          "Anfänger",
+          "Refraktor",
+          "Teleskop"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -417,7 +497,11 @@
           "pages": "S. 120-125",
           "chapter": "Doppelsterne"
         },
-        "tags": ["Doppelstern", "Binärsystem", "Sterne"],
+        "tags": [
+          "Doppelstern",
+          "Binärsystem",
+          "Sterne"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -436,7 +520,11 @@
           "pages": "S. 55-65",
           "chapter": "Saturn und seine Ringe"
         },
-        "tags": ["Saturn", "Ringe", "Gasriese"],
+        "tags": [
+          "Saturn",
+          "Ringe",
+          "Gasriese"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -455,7 +543,11 @@
           "pages": "S. 90-95",
           "chapter": "Finsternisse"
         },
-        "tags": ["Sonnenfinsternis", "Mond", "Finsternis"],
+        "tags": [
+          "Sonnenfinsternis",
+          "Mond",
+          "Finsternis"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -465,7 +557,7 @@
           "Ceres",
           "Vesta",
           "Pallas",
-          "Juno"
+          "Eine Lösung für juno"
         ],
         "correctIndex": 0,
         "explanation": "Ceres ist das größte Objekt im Asteroidengürtel zwischen Mars und Jupiter. Sie ist so groß, dass sie als Zwergplanet klassifiziert wurde und sogar eine eigene Atmosphäre haben kann.",
@@ -474,7 +566,11 @@
           "pages": "S. 70-75",
           "chapter": "Asteroiden"
         },
-        "tags": ["Ceres", "Asteroid", "Zwergplanet"],
+        "tags": [
+          "Ceres",
+          "Asteroid",
+          "Zwergplanet"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -493,7 +589,11 @@
           "pages": "S. 150-160",
           "chapter": "Neutronensterne"
         },
-        "tags": ["Pulsar", "Neutronenstern", "Radio"],
+        "tags": [
+          "Pulsar",
+          "Neutronenstern",
+          "Radio"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -512,7 +612,11 @@
           "pages": "S. 40-45",
           "chapter": "Sonnenstruktur"
         },
-        "tags": ["Sonne", "Temperatur", "Photosphäre"],
+        "tags": [
+          "Sonne",
+          "Temperatur",
+          "Photosphäre"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -531,7 +635,11 @@
           "pages": "S. 75-80",
           "chapter": "Kometen"
         },
-        "tags": ["Komet", "Schweif", "Verdampfung"],
+        "tags": [
+          "Komet",
+          "Schweif",
+          "Verdampfung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -550,7 +658,11 @@
           "pages": "S. 65-70",
           "chapter": "Äußere Planeten"
         },
-        "tags": ["Neptun", "Gasriese", "Äußerster Planet"],
+        "tags": [
+          "Neptun",
+          "Gasriese",
+          "Äußerster Planet"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -569,7 +681,11 @@
           "pages": "S. 140-145",
           "chapter": "Nachbargalaxien"
         },
-        "tags": ["Andromedagalaxie", "Spiralgalaxie", "Nachbargalaxie"],
+        "tags": [
+          "Andromedagalaxie",
+          "Spiralgalaxie",
+          "Nachbargalaxie"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -588,7 +704,11 @@
           "pages": "S. 35-40",
           "chapter": "Beobachtungstechniken"
         },
-        "tags": ["Planetenbeobachtung", "Refraktor", "Vergrößerung"],
+        "tags": [
+          "Planetenbeobachtung",
+          "Refraktor",
+          "Vergrößerung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -607,7 +727,11 @@
           "pages": "S. 125-130",
           "chapter": "Sternentwicklung"
         },
-        "tags": ["Roter Riese", "Sternentwicklung", "Alter Stern"],
+        "tags": [
+          "Roter Riese",
+          "Sternentwicklung",
+          "Alter Stern"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -626,7 +750,11 @@
           "pages": "S. 50-55",
           "chapter": "Planetenrotation"
         },
-        "tags": ["Venus", "Rotation", "Retrograde"],
+        "tags": [
+          "Venus",
+          "Rotation",
+          "Retrograde"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -645,7 +773,11 @@
           "pages": "S. 130-135",
           "chapter": "Stellare Überreste"
         },
-        "tags": ["Weißer Zwerg", "Stellarer Überrest", "Endstadium"],
+        "tags": [
+          "Weißer Zwerg",
+          "Stellarer Überrest",
+          "Endstadium"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -654,7 +786,7 @@
         "options": [
           "Polaris",
           "Sirius",
-          "Vega",
+          "Eine Lösung für vega",
           "Arktur"
         ],
         "correctIndex": 1,
@@ -664,7 +796,11 @@
           "pages": "S. 100-105",
           "chapter": "Helle Sterne"
         },
-        "tags": ["Sirius", "Hundsstern", "Helligster Stern"],
+        "tags": [
+          "Sirius",
+          "Hundsstern",
+          "Helligster Stern"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -683,7 +819,11 @@
           "pages": "S. 45-50",
           "chapter": "Sonnenaktivität"
         },
-        "tags": ["Sonnenflecken", "Magnetfelder", "Sonnenaktivität"],
+        "tags": [
+          "Sonnenflecken",
+          "Magnetfelder",
+          "Sonnenaktivität"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -702,7 +842,11 @@
           "pages": "S. 65-70",
           "chapter": "Planetenringe"
         },
-        "tags": ["Uranus", "Ringe", "Anzahl"],
+        "tags": [
+          "Uranus",
+          "Ringe",
+          "Anzahl"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -721,7 +865,11 @@
           "pages": "S. 180-185",
           "chapter": "Aktive Galaxien"
         },
-        "tags": ["Quasar", "Aktiver Galaxienkern", "Schwarzes Loch"],
+        "tags": [
+          "Quasar",
+          "Aktiver Galaxienkern",
+          "Schwarzes Loch"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -740,7 +888,11 @@
           "pages": "S. 55-60",
           "chapter": "Jupiter-Stürme"
         },
-        "tags": ["Jupiter", "Großer Roter Fleck", "Stürme"],
+        "tags": [
+          "Jupiter",
+          "Großer Roter Fleck",
+          "Stürme"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -759,7 +911,11 @@
           "pages": "S. 185-190",
           "chapter": "Kosmologie"
         },
-        "tags": ["Hubble-Konstante", "Universum", "Expansion"],
+        "tags": [
+          "Hubble-Konstante",
+          "Universum",
+          "Expansion"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -778,7 +934,11 @@
           "pages": "S. 45-50",
           "chapter": "Innere Planeten"
         },
-        "tags": ["Merkur", "Sonnennächster Planet", "Abstand"],
+        "tags": [
+          "Merkur",
+          "Sonnennächster Planet",
+          "Abstand"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -797,17 +957,21 @@
           "pages": "S. 150-155",
           "chapter": "Neutronensterne"
         },
-        "tags": ["Neutronenstern", "Supernova", "Dichte"],
+        "tags": [
+          "Neutronenstern",
+          "Supernova",
+          "Dichte"
+        ],
         "difficulty": "schwer"
       },
       {
         "id": "q42",
         "text": "Welcher Planet hat die größte Dichte?",
         "options": [
-          "Erde",
+          "Eine Lösung für erde",
           "Merkur",
           "Venus",
-          "Mars"
+          "Eine Lösung für mars"
         ],
         "correctIndex": 0,
         "explanation": "Die Erde hat die größte Dichte aller Planeten im Sonnensystem mit etwa 5,5 g/cm³. Dies liegt an ihrem großen Eisenkern, der etwa ein Drittel der Erdmasse ausmacht.",
@@ -816,7 +980,11 @@
           "pages": "S. 50-55",
           "chapter": "Planeteneigenschaften"
         },
-        "tags": ["Erde", "Dichte", "Eisenkern"],
+        "tags": [
+          "Erde",
+          "Dichte",
+          "Eisenkern"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -835,7 +1003,11 @@
           "pages": "S. 85-90",
           "chapter": "Erdrotation"
         },
-        "tags": ["Corioliskraft", "Erdrotation", "Scheinkraft"],
+        "tags": [
+          "Corioliskraft",
+          "Erdrotation",
+          "Scheinkraft"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -845,7 +1017,7 @@
           "Uranus",
           "Neptun",
           "Pluto",
-          "Eris"
+          "Eine Lösung für eris"
         ],
         "correctIndex": 1,
         "explanation": "Neptun hat die längste Umlaufzeit aller Planeten mit etwa 165 Erdjahren. Pluto als Zwergplanet braucht sogar 248 Jahre, aber Neptun ist der äußerste Planet.",
@@ -854,7 +1026,11 @@
           "pages": "S. 65-70",
           "chapter": "Umlaufzeiten"
         },
-        "tags": ["Neptun", "Umlaufzeit", "Äußerster Planet"],
+        "tags": [
+          "Neptun",
+          "Umlaufzeit",
+          "Äußerster Planet"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -873,7 +1049,11 @@
           "pages": "S. 95-100",
           "chapter": "Sternbilder"
         },
-        "tags": ["Sternbild", "Muster", "Orientierung"],
+        "tags": [
+          "Sternbild",
+          "Muster",
+          "Orientierung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -892,7 +1072,11 @@
           "pages": "S. 50-55",
           "chapter": "Venus-Atmosphäre"
         },
-        "tags": ["Venus", "Atmosphäre", "Druck"],
+        "tags": [
+          "Venus",
+          "Atmosphäre",
+          "Druck"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -911,7 +1095,11 @@
           "pages": "S. 70-75",
           "chapter": "Meteore"
         },
-        "tags": ["Meteor", "Sternschnuppe", "Leuchtspur"],
+        "tags": [
+          "Meteor",
+          "Sternschnuppe",
+          "Leuchtspur"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -930,7 +1118,11 @@
           "pages": "S. 55-65",
           "chapter": "Saturn-Monde"
         },
-        "tags": ["Saturn", "Monde", "Anzahl"],
+        "tags": [
+          "Saturn",
+          "Monde",
+          "Anzahl"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -949,7 +1141,11 @@
           "pages": "S. 40-45",
           "chapter": "Sonnenkorona"
         },
-        "tags": ["Sonnenkorona", "Atmosphäre", "Temperatur"],
+        "tags": [
+          "Sonnenkorona",
+          "Atmosphäre",
+          "Temperatur"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -959,7 +1155,7 @@
           "Uranus",
           "Neptun",
           "Pluto",
-          "Eris"
+          "Eine Lösung für eris"
         ],
         "correctIndex": 1,
         "explanation": "Neptun ist der am weitesten von der Sonne entfernte Planet mit einem durchschnittlichen Abstand von etwa 4,5 Milliarden Kilometern. Pluto ist weiter entfernt, aber seit 2006 als Zwergplanet klassifiziert.",
@@ -968,7 +1164,11 @@
           "pages": "S. 65-70",
           "chapter": "Äußerste Planeten"
         },
-        "tags": ["Neptun", "Entfernung", "Äußerster Planet"],
+        "tags": [
+          "Neptun",
+          "Entfernung",
+          "Äußerster Planet"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -987,7 +1187,11 @@
           "pages": "S. 115-120",
           "chapter": "Sternklassen"
         },
-        "tags": ["Roter Zwerg", "Kleiner Stern", "Häufig"],
+        "tags": [
+          "Roter Zwerg",
+          "Kleiner Stern",
+          "Häufig"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1006,7 +1210,11 @@
           "pages": "S. 55-60",
           "chapter": "Jupiter-Rotation"
         },
-        "tags": ["Jupiter", "Rotation", "Schnell"],
+        "tags": [
+          "Jupiter",
+          "Rotation",
+          "Schnell"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1025,7 +1233,11 @@
           "pages": "S. 145-150",
           "chapter": "Galaxienhaufen"
         },
-        "tags": ["Galaxienhaufen", "Gruppe", "Gravitation"],
+        "tags": [
+          "Galaxienhaufen",
+          "Gruppe",
+          "Gravitation"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1044,7 +1256,11 @@
           "pages": "S. 55-60",
           "chapter": "Jupiter-Magnetfeld"
         },
-        "tags": ["Jupiter", "Magnetfeld", "Magnetosphäre"],
+        "tags": [
+          "Jupiter",
+          "Magnetfeld",
+          "Magnetosphäre"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1063,7 +1279,11 @@
           "pages": "S. 70-75",
           "chapter": "Asteroiden"
         },
-        "tags": ["Asteroid", "Gesteinsbrocken", "Asteroidengürtel"],
+        "tags": [
+          "Asteroid",
+          "Gesteinsbrocken",
+          "Asteroidengürtel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1082,7 +1302,11 @@
           "pages": "S. 50-55",
           "chapter": "Venus-Rotation"
         },
-        "tags": ["Venus", "Tagesdauer", "Rotation"],
+        "tags": [
+          "Venus",
+          "Tagesdauer",
+          "Rotation"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1101,7 +1325,11 @@
           "pages": "S. 190-195",
           "chapter": "Sonnensystem-Entstehung"
         },
-        "tags": ["Planetesimal", "Entstehung", "Baustein"],
+        "tags": [
+          "Planetesimal",
+          "Entstehung",
+          "Baustein"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1120,7 +1348,11 @@
           "pages": "S. 65-70",
           "chapter": "Uranus-Ringe"
         },
-        "tags": ["Uranus", "Ringe", "Anzahl"],
+        "tags": [
+          "Uranus",
+          "Ringe",
+          "Anzahl"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1139,7 +1371,11 @@
           "pages": "S. 135-140",
           "chapter": "Sternhaufen"
         },
-        "tags": ["Sternhaufen", "Gemeinsame Entstehung", "Gruppe"],
+        "tags": [
+          "Sternhaufen",
+          "Gemeinsame Entstehung",
+          "Gruppe"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1158,7 +1394,11 @@
           "pages": "S. 55-60",
           "chapter": "Jupiter-Gravitation"
         },
-        "tags": ["Jupiter", "Schwerkraft", "Gravitation"],
+        "tags": [
+          "Jupiter",
+          "Schwerkraft",
+          "Gravitation"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1177,7 +1417,11 @@
           "pages": "S. 135-140",
           "chapter": "Kugelsternhaufen"
         },
-        "tags": ["Kugelsternhaufen", "Alte Sterne", "Halo"],
+        "tags": [
+          "Kugelsternhaufen",
+          "Alte Sterne",
+          "Halo"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1187,7 +1431,7 @@
           "Uranus",
           "Neptun",
           "Pluto",
-          "Eris"
+          "Eine Lösung für eris"
         ],
         "correctIndex": 1,
         "explanation": "Neptun hat die längste Umlaufzeit aller Planeten mit etwa 165 Erdjahren. Als äußerster Planet ist er etwa 30-mal weiter von der Sonne entfernt als die Erde.",
@@ -1196,7 +1440,11 @@
           "pages": "S. 65-70",
           "chapter": "Neptun-Umlaufzeit"
         },
-        "tags": ["Neptun", "Umlaufzeit", "165 Jahre"],
+        "tags": [
+          "Neptun",
+          "Umlaufzeit",
+          "165 Jahre"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1215,7 +1463,11 @@
           "pages": "S. 85-90",
           "chapter": "Erdform"
         },
-        "tags": ["Rotationsellipsoid", "Erdform", "Fliehkraft"],
+        "tags": [
+          "Rotationsellipsoid",
+          "Erdform",
+          "Fliehkraft"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1234,7 +1486,11 @@
           "pages": "S. 65-70",
           "chapter": "Ring-Systeme"
         },
-        "tags": ["Uranus", "Ringe", "13 Ringe"],
+        "tags": [
+          "Uranus",
+          "Ringe",
+          "13 Ringe"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1253,7 +1509,11 @@
           "pages": "S. 135-140",
           "chapter": "Offene Sternhaufen"
         },
-        "tags": ["Offener Sternhaufen", "Junge Sterne", "Lockere Gruppe"],
+        "tags": [
+          "Offener Sternhaufen",
+          "Junge Sterne",
+          "Lockere Gruppe"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1272,7 +1532,11 @@
           "pages": "S. 50-55",
           "chapter": "Planetenrotation"
         },
-        "tags": ["Venus", "Rotationsperiode", "243 Tage"],
+        "tags": [
+          "Venus",
+          "Rotationsperiode",
+          "243 Tage"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1291,7 +1555,11 @@
           "pages": "S. 130-135",
           "chapter": "Planetarische Nebel"
         },
-        "tags": ["Planetarischer Nebel", "Sterbender Stern", "Gashülle"],
+        "tags": [
+          "Planetarischer Nebel",
+          "Sterbender Stern",
+          "Gashülle"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1310,7 +1578,11 @@
           "pages": "S. 50-55",
           "chapter": "Venus-Atmosphäre"
         },
-        "tags": ["Venus", "Atmosphäre", "92 bar"],
+        "tags": [
+          "Venus",
+          "Atmosphäre",
+          "92 bar"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1329,7 +1601,11 @@
           "pages": "S. 70-75",
           "chapter": "Meteoroiden"
         },
-        "tags": ["Meteoroid", "Gesteinsbrocken", "Klein"],
+        "tags": [
+          "Meteoroid",
+          "Gesteinsbrocken",
+          "Klein"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1348,7 +1624,11 @@
           "pages": "S. 65-70",
           "chapter": "Ring-Vergleich"
         },
-        "tags": ["Uranus", "Ringe", "13 Ringe"],
+        "tags": [
+          "Uranus",
+          "Ringe",
+          "13 Ringe"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1367,7 +1647,11 @@
           "pages": "S. 85-90",
           "chapter": "Körperform"
         },
-        "tags": ["Rotationsellipsoid", "Abgeflacht", "Fliehkraft"],
+        "tags": [
+          "Rotationsellipsoid",
+          "Abgeflacht",
+          "Fliehkraft"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1377,7 +1661,7 @@
           "Uranus",
           "Neptun",
           "Pluto",
-          "Eris"
+          "Eine Lösung für eris"
         ],
         "correctIndex": 1,
         "explanation": "Neptun hat die längste Umlaufzeit aller Planeten mit etwa 165 Erdjahren. Als äußerster Planet ist er etwa 30-mal weiter von der Sonne entfernt als die Erde und bewegt sich entsprechend langsam.",
@@ -1386,7 +1670,11 @@
           "pages": "S. 65-70",
           "chapter": "Umlaufzeiten-Vergleich"
         },
-        "tags": ["Neptun", "Umlaufzeit", "165 Jahre"],
+        "tags": [
+          "Neptun",
+          "Umlaufzeit",
+          "165 Jahre"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1405,7 +1693,11 @@
           "pages": "S. 85-90",
           "chapter": "Rotationsform"
         },
-        "tags": ["Rotationsellipsoid", "Form", "Rotation"],
+        "tags": [
+          "Rotationsellipsoid",
+          "Form",
+          "Rotation"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1424,7 +1716,11 @@
           "pages": "S. 65-70",
           "chapter": "Ring-Systeme"
         },
-        "tags": ["Uranus", "Ringe", "13 Ringe"],
+        "tags": [
+          "Uranus",
+          "Ringe",
+          "13 Ringe"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1443,7 +1739,11 @@
           "pages": "S. 85-90",
           "chapter": "Körperform"
         },
-        "tags": ["Rotationsellipsoid", "Abgeflacht", "Fliehkraft"],
+        "tags": [
+          "Rotationsellipsoid",
+          "Abgeflacht",
+          "Fliehkraft"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1453,7 +1753,7 @@
           "Uranus",
           "Neptun",
           "Pluto",
-          "Eris"
+          "Eine Lösung für eris"
         ],
         "correctIndex": 1,
         "explanation": "Neptun hat die längste Umlaufzeit aller Planeten mit etwa 165 Erdjahren. Als äußerster Planet ist er etwa 30-mal weiter von der Sonne entfernt als die Erde und bewegt sich entsprechend langsam.",
@@ -1462,7 +1762,11 @@
           "pages": "S. 65-70",
           "chapter": "Umlaufzeiten"
         },
-        "tags": ["Neptun", "Umlaufzeit", "165 Jahre"],
+        "tags": [
+          "Neptun",
+          "Umlaufzeit",
+          "165 Jahre"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1481,7 +1785,11 @@
           "pages": "S. 85-90",
           "chapter": "Rotationsform"
         },
-        "tags": ["Rotationsellipsoid", "Form", "Rotation"],
+        "tags": [
+          "Rotationsellipsoid",
+          "Form",
+          "Rotation"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1500,7 +1808,11 @@
           "pages": "S. 65-70",
           "chapter": "Ring-Systeme"
         },
-        "tags": ["Uranus", "Ringe", "13 Ringe"],
+        "tags": [
+          "Uranus",
+          "Ringe",
+          "13 Ringe"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1519,7 +1831,11 @@
           "pages": "S. 85-90",
           "chapter": "Körperform"
         },
-        "tags": ["Rotationsellipsoid", "Abgeflacht", "Fliehkraft"],
+        "tags": [
+          "Rotationsellipsoid",
+          "Abgeflacht",
+          "Fliehkraft"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1529,7 +1845,7 @@
           "Uranus",
           "Neptun",
           "Pluto",
-          "Eris"
+          "Eine Lösung für eris"
         ],
         "correctIndex": 1,
         "explanation": "Neptun hat die längste Umlaufzeit aller Planeten mit etwa 165 Erdjahren. Als äußerster Planet ist er etwa 30-mal weiter von der Sonne entfernt als die Erde und bewegt sich entsprechend langsam.",
@@ -1538,7 +1854,11 @@
           "pages": "S. 65-70",
           "chapter": "Umlaufzeiten"
         },
-        "tags": ["Neptun", "Umlaufzeit", "165 Jahre"],
+        "tags": [
+          "Neptun",
+          "Umlaufzeit",
+          "165 Jahre"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1557,7 +1877,11 @@
           "pages": "S. 45-50",
           "chapter": "Sonnenzyklen"
         },
-        "tags": ["Sonnenfleckenzyklus", "11 Jahre", "Sonnenaktivität"],
+        "tags": [
+          "Sonnenfleckenzyklus",
+          "11 Jahre",
+          "Sonnenaktivität"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1576,7 +1900,11 @@
           "pages": "S. 50-55",
           "chapter": "Venus-Eigenschaften"
         },
-        "tags": ["Venus", "Tagesdauer", "243 Tage"],
+        "tags": [
+          "Venus",
+          "Tagesdauer",
+          "243 Tage"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1595,7 +1923,11 @@
           "pages": "S. 145-150",
           "chapter": "Galaxienhaufen"
         },
-        "tags": ["Galaxienhaufen", "Gruppe", "Gravitation"],
+        "tags": [
+          "Galaxienhaufen",
+          "Gruppe",
+          "Gravitation"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1614,7 +1946,11 @@
           "pages": "S. 55-60",
           "chapter": "Jupiter-Magnetfeld"
         },
-        "tags": ["Jupiter", "Magnetfeld", "Magnetosphäre"],
+        "tags": [
+          "Jupiter",
+          "Magnetfeld",
+          "Magnetosphäre"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1633,7 +1969,11 @@
           "pages": "S. 70-75",
           "chapter": "Asteroiden"
         },
-        "tags": ["Asteroid", "Gesteinsbrocken", "Asteroidengürtel"],
+        "tags": [
+          "Asteroid",
+          "Gesteinsbrocken",
+          "Asteroidengürtel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1652,7 +1992,11 @@
           "pages": "S. 50-55",
           "chapter": "Venus-Eigenschaften"
         },
-        "tags": ["Venus", "Tagesdauer", "243 Tage"],
+        "tags": [
+          "Venus",
+          "Tagesdauer",
+          "243 Tage"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1671,7 +2015,11 @@
           "pages": "S. 190-195",
           "chapter": "Sonnensystem-Entstehung"
         },
-        "tags": ["Planetesimal", "Entstehung", "Baustein"],
+        "tags": [
+          "Planetesimal",
+          "Entstehung",
+          "Baustein"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1690,7 +2038,11 @@
           "pages": "S. 65-70",
           "chapter": "Uranus-Ringe"
         },
-        "tags": ["Uranus", "Ringe", "Anzahl"],
+        "tags": [
+          "Uranus",
+          "Ringe",
+          "Anzahl"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1709,7 +2061,11 @@
           "pages": "S. 135-140",
           "chapter": "Sternhaufen"
         },
-        "tags": ["Sternhaufen", "Gemeinsame Entstehung", "Gruppe"],
+        "tags": [
+          "Sternhaufen",
+          "Gemeinsame Entstehung",
+          "Gruppe"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1728,7 +2084,11 @@
           "pages": "S. 55-60",
           "chapter": "Jupiter-Gravitation"
         },
-        "tags": ["Jupiter", "Schwerkraft", "Gravitation"],
+        "tags": [
+          "Jupiter",
+          "Schwerkraft",
+          "Gravitation"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1747,7 +2107,11 @@
           "pages": "S. 135-140",
           "chapter": "Kugelsternhaufen"
         },
-        "tags": ["Kugelsternhaufen", "Alte Sterne", "Halo"],
+        "tags": [
+          "Kugelsternhaufen",
+          "Alte Sterne",
+          "Halo"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1757,7 +2121,7 @@
           "Uranus",
           "Neptun",
           "Pluto",
-          "Eris"
+          "Eine Lösung für eris"
         ],
         "correctIndex": 1,
         "explanation": "Neptun hat die längste Umlaufzeit aller Planeten mit etwa 165 Erdjahren. Als äußerster Planet ist er etwa 30-mal weiter von der Sonne entfernt als die Erde.",
@@ -1766,7 +2130,11 @@
           "pages": "S. 65-70",
           "chapter": "Neptun-Umlaufzeit"
         },
-        "tags": ["Neptun", "Umlaufzeit", "165 Jahre"],
+        "tags": [
+          "Neptun",
+          "Umlaufzeit",
+          "165 Jahre"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1785,7 +2153,11 @@
           "pages": "S. 85-90",
           "chapter": "Erdform"
         },
-        "tags": ["Rotationsellipsoid", "Erdform", "Fliehkraft"],
+        "tags": [
+          "Rotationsellipsoid",
+          "Erdform",
+          "Fliehkraft"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1804,7 +2176,11 @@
           "pages": "S. 65-70",
           "chapter": "Ring-Systeme"
         },
-        "tags": ["Uranus", "Ringe", "13 Ringe"],
+        "tags": [
+          "Uranus",
+          "Ringe",
+          "13 Ringe"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1823,7 +2199,11 @@
           "pages": "S. 135-140",
           "chapter": "Offene Sternhaufen"
         },
-        "tags": ["Offener Sternhaufen", "Junge Sterne", "Lockere Gruppe"],
+        "tags": [
+          "Offener Sternhaufen",
+          "Junge Sterne",
+          "Lockere Gruppe"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1842,7 +2222,11 @@
           "pages": "S. 50-55",
           "chapter": "Planetenrotation"
         },
-        "tags": ["Venus", "Rotationsperiode", "243 Tage"],
+        "tags": [
+          "Venus",
+          "Rotationsperiode",
+          "243 Tage"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1861,7 +2245,11 @@
           "pages": "S. 130-135",
           "chapter": "Planetarische Nebel"
         },
-        "tags": ["Planetarischer Nebel", "Sterbender Stern", "Gashülle"],
+        "tags": [
+          "Planetarischer Nebel",
+          "Sterbender Stern",
+          "Gashülle"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1880,7 +2268,11 @@
           "pages": "S. 50-55",
           "chapter": "Venus-Atmosphäre"
         },
-        "tags": ["Venus", "Atmosphäre", "92 bar"],
+        "tags": [
+          "Venus",
+          "Atmosphäre",
+          "92 bar"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1899,7 +2291,11 @@
           "pages": "S. 70-75",
           "chapter": "Meteoroiden"
         },
-        "tags": ["Meteoroid", "Gesteinsbrocken", "Klein"],
+        "tags": [
+          "Meteoroid",
+          "Gesteinsbrocken",
+          "Klein"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1918,7 +2314,11 @@
           "pages": "S. 65-70",
           "chapter": "Ring-Vergleich"
         },
-        "tags": ["Uranus", "Ringe", "13 Ringe"],
+        "tags": [
+          "Uranus",
+          "Ringe",
+          "13 Ringe"
+        ],
         "difficulty": "schwer"
       }
     ]

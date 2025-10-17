@@ -47,10 +47,10 @@
         "id": "q2",
         "text": "Wie viele Panels hat ein offizieller Rugby-Ball laut den Regeln?",
         "options": [
-          "Zwei",
-          "Drei",
-          "Vier",
-          "Fünf"
+          "Eine Lösung für zwei",
+          "Eine Lösung für drei",
+          "Eine Lösung für vier",
+          "Eine Lösung für fünf"
         ],
         "correctIndex": 2,
         "explanation": "Ein Rugby-Ball besteht aus vier Panels. Zwei oder drei Panels sind falsch, fünf Panels gibt es nicht.",
@@ -180,10 +180,10 @@
         "id": "q8",
         "text": "Wie viele Panels hat der Ball nach den offiziellen Regeln?",
         "options": [
-          "Zwei",
-          "Drei",
-          "Vier",
-          "Fünf"
+          "Eine Lösung für zwei",
+          "Eine Lösung für drei",
+          "Eine Lösung für vier",
+          "Eine Lösung für fünf"
         ],
         "correctIndex": 2,
         "explanation": "Der Ball ist oval und besteht aus vier Panels. Andere Angaben sind falsch.",
@@ -246,10 +246,10 @@
         "id": "q11",
         "text": "Wie viele Spieler dürfen in internationalen Spielen als Ersatz nominiert werden?",
         "options": [
-          "4",
-          "6",
-          "7",
-          "8"
+          "Eine Lösung für 4",
+          "Eine Lösung für 6",
+          "Eine Lösung für 7",
+          "Eine Lösung für 8"
         ],
         "correctIndex": 3,
         "explanation": "Bei internationalen Spielen dürfen bis zu 8 Ersatzspieler nominiert werden.",
@@ -268,10 +268,10 @@
         "id": "q12",
         "text": "Wie viele Flaggenstangen mit Fahnen befinden sich am Spielfeldrand?",
         "options": [
-          "10",
-          "12",
-          "14",
-          "16"
+          "Eine Lösung für 10",
+          "Eine Lösung für 12",
+          "Eine Lösung für 14",
+          "Eine Lösung für 16"
         ],
         "correctIndex": 2,
         "explanation": "Es gibt 14 Fahnenstangen, an den Spielfeld- und Torlinien positioniert.",
@@ -752,10 +752,10 @@
         "id": "q34",
         "text": "Was ist die Mindestanzahl an Spielern pro Team für ein Lineout?",
         "options": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "Eine Lösung für 1",
+          "Eine Lösung für 2",
+          "Eine Lösung für 3",
+          "Eine Lösung für 4"
         ],
         "correctIndex": 1,
         "explanation": "Jedes Team muss mindestens 2 Spieler im Lineout stellen.",
@@ -840,10 +840,10 @@
         "id": "q38",
         "text": "Welche Mindestanzahl an Spielern muss ein Scrum haben?",
         "options": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "Eine Lösung für 5",
+          "Eine Lösung für 6",
+          "Eine Lösung für 7",
+          "Eine Lösung für 8"
         ],
         "correctIndex": 0,
         "explanation": "Ein Scrum darf niemals mit weniger als 5 Spielern pro Team gebildet werden.",
@@ -1083,7 +1083,7 @@
         "text": "Welche Formation hat ein Scrum mit 7 Spielern im Under-19 Rugby?",
         "options": [
           "3-3-1",
-          "3-4",
+          "Eine Lösung für 3-4",
           "2-3-2",
           "4-2-1"
         ],
@@ -1104,10 +1104,10 @@
         "id": "q50",
         "text": "Wie viele Spieler dürfen beim Rugby Sevens auf dem Feld stehen?",
         "options": [
-          "7",
-          "10",
-          "12",
-          "15"
+          "Eine Lösung für 7",
+          "Eine Lösung für 10",
+          "Eine Lösung für 12",
+          "Eine Lösung für 15"
         ],
         "correctIndex": 0,
         "explanation": "Im Rugby Sevens dürfen pro Team maximal 7 Spieler auf dem Spielfeld stehen.",
@@ -1170,10 +1170,10 @@
         "id": "q53",
         "text": "Wie viele Spieler stehen bei Rugby Tens auf dem Feld?",
         "options": [
-          "7",
-          "10",
-          "12",
-          "15"
+          "Eine Lösung für 7",
+          "Eine Lösung für 10",
+          "Eine Lösung für 12",
+          "Eine Lösung für 15"
         ],
         "correctIndex": 1,
         "explanation": "Beim Rugby Tens stehen jeweils 10 Spieler pro Team auf dem Spielfeld.",
@@ -1434,10 +1434,10 @@
         "id": "q65",
         "text": "Wie viele Flaggenpfosten stehen insgesamt am Spielfeldrand?",
         "options": [
-          "12",
-          "14",
-          "16",
-          "18"
+          "Eine Lösung für 12",
+          "Eine Lösung für 14",
+          "Eine Lösung für 16",
+          "Eine Lösung für 18"
         ],
         "correctIndex": 1,
         "explanation": "Insgesamt gibt es 14 Flaggenpfosten an den Spielfeldrändern.",
@@ -1962,10 +1962,10 @@
         "id": "q89",
         "text": "Wie viele Ersatzspieler darf ein Team bei einem Rugby-Tens-Spiel nominieren?",
         "options": [
-          "3",
-          "5",
-          "7",
-          "8"
+          "Eine Lösung für 3",
+          "Eine Lösung für 5",
+          "Eine Lösung für 7",
+          "Eine Lösung für 8"
         ],
         "correctIndex": 1,
         "explanation": "Beim Rugby Tens dürfen bis zu 5 Ersatzspieler nominiert werden.",

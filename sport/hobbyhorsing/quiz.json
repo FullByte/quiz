@@ -86,7 +86,7 @@
       },
       {
         "id": "q004",
-        "text": "Die Zuordnung zu einer inklusiven Prüfungsform erfolgt laut Regelwerk …",
+        "text": "Die Zuordnung zu einer inklusiven Prüfungsform erfolgt laut Regelwerk …?",
         "options": [
           "unabhängig von der allgemeinen Altersklasse der Prüfung.",
           "nur innerhalb der allgemeinen Altersklasse U15.",
@@ -186,7 +186,7 @@
         "explanation": "Für Jugendliche ab 14 Jahren ist eine Handbreit Bauchfreiheit ab dem Hosenbund erlaubt; ansonsten gelten die allgemeinen Bekleidungsregeln.",
         "source": {
           "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
-          "pages": "S. 7–8",
+          "pages": "S. 7-8",
           "chapter": "1.3 Ausrüstung"
         },
         "tags": [
@@ -299,7 +299,7 @@
         "explanation": "Zylinder sind in der Dressur, Westernhüte nur im Western erlaubt; harte Helme sind grundsätzlich nicht erlaubt, außer bei entsprechender körperlicher Einschränkung.",
         "source": {
           "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
-          "pages": "S. 8–9",
+          "pages": "S. 8-9",
           "chapter": "1.3 Ausrüstung"
         },
         "tags": [
@@ -521,7 +521,7 @@
         "explanation": "Der Mittelschritt ist das normale Grundtempo mit ruhigem Tempo und gleichmäßigem Rhythmus; der Hobby-Horse-Kopf wird entspannt in mittlerer Position gehalten.",
         "source": {
           "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
-          "pages": "S. 13–14",
+          "pages": "S. 13-14",
           "chapter": "1.5.2.1 Schritt"
         },
         "tags": [
@@ -697,7 +697,7 @@
         "explanation": "Als Variante wird ein Springen nach A- und B-Note erwähnt.",
         "source": {
           "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
-          "pages": "S. 90–91",
+          "pages": "S. 90-91",
           "chapter": "Springen – Bewertungsvarianten"
         },
         "tags": [
@@ -828,7 +828,7 @@
         "explanation": "Bei der Stilbewertung zählen Orientierung, Linienführung und mittiges Überwinden der Hindernisse, nicht riskante Abkürzungen.",
         "source": {
           "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
-          "pages": "S. 90–91",
+          "pages": "S. 90-91",
           "chapter": "Springen – Stilbewertung"
         },
         "tags": [
@@ -850,7 +850,7 @@
         "explanation": "Das Schulterherein wird im Regelwerk als Seitengang aufgeführt.",
         "source": {
           "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
-          "pages": "S. 2–3",
+          "pages": "S. 2-3",
           "chapter": "Dressur – Bewegungen"
         },
         "tags": [
@@ -872,7 +872,7 @@
         "explanation": "Die Pirouette wird unter den Dressurbewegungen gelistet.",
         "source": {
           "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
-          "pages": "S. 2–3",
+          "pages": "S. 2-3",
           "chapter": "Dressur – Bewegungen"
         },
         "tags": [
@@ -894,7 +894,7 @@
         "explanation": "Die Passage wird als spezielle Dressurbewegung genannt.",
         "source": {
           "citation": "DtHHV Regelwerk – Dressur | Springen, Version 1.0 (30.06.2024)",
-          "pages": "S. 2–3",
+          "pages": "S. 2-3",
           "chapter": "Dressur – Bewegungen"
         },
         "tags": [
@@ -903,6 +903,10 @@
         ],
         "difficulty": "mittel"
       }
-    ]
+    ],
+    "metadata": {
+      "createdAt": "2025-10-17T13:46:01.297381Z",
+      "notes": "Quiz optimiert und validiert"
+    }
   }
 }

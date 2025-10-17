@@ -1,7 +1,7 @@
 {
   "quiz": {
     "title": "BMI KI-Leitlinien für die Bundesverwaltung",
-    "description": "Teste dein Wissen über die Leitlinien für den Einsatz Künstlicher Intelligenz in der Bundesverwaltung. Der Fragenkatalog umfasst {questionCount} Fragen zu wertebasierten Leitprinzipien, Leitsätzen für Nutzende und Behörden sowie praktischen Aspekten des KI-Einsatzes.",
+    "description": "Teste dein Wissen über die Leitlinien für den Einsatz Künstlicher Intelligenz in der Bundesverwaltung. Der Fragenkatalog umfasst 100 Fragen zu wertebasierten Leitprinzipien, Leitsätzen für Nutzende und Behörden sowie praktischen Aspekten des KI-Einsatzes.",
     "language": "de",
     "version": "1.0",
     "sourceDocument": {
@@ -12,7 +12,7 @@
     },
     "settings": {
       "shuffleQuestions": true,
-      "shuffleOptions": true, 
+      "shuffleOptions": true,
       "showExplanations": true,
       "timePerQuestionSec": 60
     },
@@ -33,7 +33,11 @@
           "pages": "S. 3",
           "chapter": "1. Einleitung"
         },
-        "tags": ["Definition", "KI-Verordnung", "Grundlagen"],
+        "tags": [
+          "Definition",
+          "KI-Verordnung",
+          "Grundlagen"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -52,7 +56,11 @@
           "pages": "S. 5",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Leitprinzipien", "Werte", "Grundlagen"],
+        "tags": [
+          "Leitprinzipien",
+          "Werte",
+          "Grundlagen"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -71,7 +79,11 @@
           "pages": "S. 5-6",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Menschliche Aufsicht", "Verantwortung", "Grundsätze"],
+        "tags": [
+          "Menschliche Aufsicht",
+          "Verantwortung",
+          "Grundsätze"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -90,7 +102,11 @@
           "pages": "S. 17",
           "chapter": "3.2 Leitsatz B2"
         },
-        "tags": ["KI-Verordnung", "Verbotene Systeme", "Social Scoring"],
+        "tags": [
+          "KI-Verordnung",
+          "Verbotene Systeme",
+          "Social Scoring"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -109,7 +125,11 @@
           "pages": "S. 4",
           "chapter": "1. Einleitung - Anwendungsbeispiel"
         },
-        "tags": ["LLM", "Definition", "Neuronale Netze"],
+        "tags": [
+          "LLM",
+          "Definition",
+          "Neuronale Netze"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -128,7 +148,11 @@
           "pages": "S. 14-15",
           "chapter": "3.1 Leitsatz A3"
         },
-        "tags": ["Dateneingabe", "Öffentliche Daten", "Beschränkungen"],
+        "tags": [
+          "Dateneingabe",
+          "Öffentliche Daten",
+          "Beschränkungen"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -147,7 +171,11 @@
           "pages": "S. 16",
           "chapter": "3.1 Leitsatz A4"
         },
-        "tags": ["LLM", "Halluzinieren", "Fehler"],
+        "tags": [
+          "LLM",
+          "Halluzinieren",
+          "Fehler"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -166,7 +194,11 @@
           "pages": "S. 11-12",
           "chapter": "3.1 Leitsatz A2"
         },
-        "tags": ["Registrierung", "Datenschutz", "Pseudonymisierung"],
+        "tags": [
+          "Registrierung",
+          "Datenschutz",
+          "Pseudonymisierung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -185,7 +217,11 @@
           "pages": "S. 13",
           "chapter": "3.1 Leitsatz A3"
         },
-        "tags": ["Sensible Daten", "Geheimnisse", "Datenschutz"],
+        "tags": [
+          "Sensible Daten",
+          "Geheimnisse",
+          "Datenschutz"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -204,7 +240,11 @@
           "pages": "S. 16",
           "chapter": "3.1 Leitsatz A5"
         },
-        "tags": ["Kennzeichnung", "Transparenz", "Fachliche Prüfung"],
+        "tags": [
+          "Kennzeichnung",
+          "Transparenz",
+          "Fachliche Prüfung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -223,7 +263,11 @@
           "pages": "S. 17",
           "chapter": "3.2 Leitsatz B1"
         },
-        "tags": ["Behördenleitung", "Entscheidung", "Governance"],
+        "tags": [
+          "Behördenleitung",
+          "Entscheidung",
+          "Governance"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -242,7 +286,11 @@
           "pages": "S. 7",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Vertrauenswürdigkeit", "Ethik", "Robustheit"],
+        "tags": [
+          "Vertrauenswürdigkeit",
+          "Ethik",
+          "Robustheit"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -261,7 +309,11 @@
           "pages": "S. 6",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Diskriminierung", "Bias", "Fairness"],
+        "tags": [
+          "Diskriminierung",
+          "Bias",
+          "Fairness"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -280,7 +332,11 @@
           "pages": "S. 8",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Automatisierungsbias", "Psychologie", "Schulung"],
+        "tags": [
+          "Automatisierungsbias",
+          "Psychologie",
+          "Schulung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -299,7 +355,11 @@
           "pages": "S. 8",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Interessenvertretung", "Personalrat", "Beteiligung"],
+        "tags": [
+          "Interessenvertretung",
+          "Personalrat",
+          "Beteiligung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -318,7 +378,11 @@
           "pages": "S. 8",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Nachhaltigkeit", "Standards", "Gemeinschaftlich"],
+        "tags": [
+          "Nachhaltigkeit",
+          "Standards",
+          "Gemeinschaftlich"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -337,7 +401,11 @@
           "pages": "S. 9",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Lock-in", "Digitale Souveränität", "Anbieterabhängigkeit"],
+        "tags": [
+          "Lock-in",
+          "Digitale Souveränität",
+          "Anbieterabhängigkeit"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -356,7 +424,11 @@
           "pages": "S. 28",
           "chapter": "Anlage: LLM-Einsatz"
         },
-        "tags": ["Prompting", "LLM", "Qualität"],
+        "tags": [
+          "Prompting",
+          "LLM",
+          "Qualität"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -375,7 +447,11 @@
           "pages": "S. 28",
           "chapter": "Anlage: LLM-Einsatz"
         },
-        "tags": ["Prompting", "Bias-Vermeidung", "Gleichberechtigung"],
+        "tags": [
+          "Prompting",
+          "Bias-Vermeidung",
+          "Gleichberechtigung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -394,7 +470,11 @@
           "pages": "S. 17",
           "chapter": "3.2 Leitsatz B1"
         },
-        "tags": ["Rechtmäßigkeit", "Sicherheit", "Compliance"],
+        "tags": [
+          "Rechtmäßigkeit",
+          "Sicherheit",
+          "Compliance"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -413,7 +493,11 @@
           "pages": "S. 18",
           "chapter": "3.2 Leitsatz B3"
         },
-        "tags": ["Performanz", "Digitale Souveränität", "Systemauswahl"],
+        "tags": [
+          "Performanz",
+          "Digitale Souveränität",
+          "Systemauswahl"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -432,7 +516,11 @@
           "pages": "S. 24",
           "chapter": "3.2 Leitsatz B8"
         },
-        "tags": ["IT-Infrastruktur", "Betriebsumgebung", "Cloud"],
+        "tags": [
+          "IT-Infrastruktur",
+          "Betriebsumgebung",
+          "Cloud"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -451,7 +539,11 @@
           "pages": "S. 25-26",
           "chapter": "3.2 Leitsatz B9"
         },
-        "tags": ["Datenschutz", "DSGVO", "Personenbezogene Daten"],
+        "tags": [
+          "Datenschutz",
+          "DSGVO",
+          "Personenbezogene Daten"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -470,7 +562,11 @@
           "pages": "S. 26",
           "chapter": "3.2 Leitsatz B9"
         },
-        "tags": ["Datenschutz-Folgenabschätzung", "DSGVO", "Risikobewertung"],
+        "tags": [
+          "Datenschutz-Folgenabschätzung",
+          "DSGVO",
+          "Risikobewertung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -489,7 +585,11 @@
           "pages": "S. 22",
           "chapter": "3.2 Leitsatz B6"
         },
-        "tags": ["MaKI", "Transparenz", "Koordination"],
+        "tags": [
+          "MaKI",
+          "Transparenz",
+          "Koordination"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -508,7 +608,11 @@
           "pages": "S. 21",
           "chapter": "3.2 Leitsatz B5"
         },
-        "tags": ["Schulung", "BAköV", "Fortbildung"],
+        "tags": [
+          "Schulung",
+          "BAköV",
+          "Fortbildung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -527,7 +631,11 @@
           "pages": "S. 19",
           "chapter": "3.2 Leitsatz B4"
         },
-        "tags": ["Ethik", "Abwägung", "Zielkonflikte"],
+        "tags": [
+          "Ethik",
+          "Abwägung",
+          "Zielkonflikte"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -546,7 +654,11 @@
           "pages": "S. 11",
           "chapter": "3.1 Leitsatz A1"
         },
-        "tags": ["Red-Teaming", "Sicherheit", "Schwachstellen"],
+        "tags": [
+          "Red-Teaming",
+          "Sicherheit",
+          "Schwachstellen"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -565,7 +677,11 @@
           "pages": "S. 14",
           "chapter": "3.1 Leitsatz A3"
         },
-        "tags": ["KIPITZ", "PLAIN", "Interne Systeme"],
+        "tags": [
+          "KIPITZ",
+          "PLAIN",
+          "Interne Systeme"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -584,7 +700,11 @@
           "pages": "S. 18",
           "chapter": "3.2 Leitsatz B2"
         },
-        "tags": ["Verwaltungsakt", "Automatisierung", "Rechtmäßigkeit"],
+        "tags": [
+          "Verwaltungsakt",
+          "Automatisierung",
+          "Rechtmäßigkeit"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -603,7 +723,11 @@
           "pages": "S. 17",
           "chapter": "3.2 Leitsatz B1"
         },
-        "tags": ["Rechtsgrundlagen", "Gesetze", "Compliance"],
+        "tags": [
+          "Rechtsgrundlagen",
+          "Gesetze",
+          "Compliance"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -622,7 +746,11 @@
           "pages": "S. 6",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Barrierefreiheit", "Inklusion", "Standards"],
+        "tags": [
+          "Barrierefreiheit",
+          "Inklusion",
+          "Standards"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -641,7 +769,11 @@
           "pages": "S. 7",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Explainable AI", "Transparenz", "Nachvollziehbarkeit"],
+        "tags": [
+          "Explainable AI",
+          "Transparenz",
+          "Nachvollziehbarkeit"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -657,10 +789,14 @@
         "explanation": "Mitarbeitende müssen in den Grenzen und Fähigkeiten von KI-Systemen geschult werden, damit sie die Ausgaben regelmäßig prüfen können. Schulungen umfassen auch ethische Grundsätze und rechtlichen Rahmen.",
         "source": {
           "citation": "BMI KI-Leitlinien, Schulungsanforderungen",
-          "pages": "S. 8 und S. 21",
+          "pages": "S. 8-21",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B5"
         },
-        "tags": ["Schulung", "Kompetenz", "Verantwortung"],
+        "tags": [
+          "Schulung",
+          "Kompetenz",
+          "Verantwortung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -679,7 +815,11 @@
           "pages": "S. 9",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Nachhaltigkeit", "Energieeffizienz", "Umwelt"],
+        "tags": [
+          "Nachhaltigkeit",
+          "Energieeffizienz",
+          "Umwelt"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -698,7 +838,11 @@
           "pages": "S. 9",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Open Source", "Transparenz", "Digitale Souveränität"],
+        "tags": [
+          "Open Source",
+          "Transparenz",
+          "Digitale Souveränität"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -717,7 +861,11 @@
           "pages": "S. 8",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Experimentierung", "Sicherheit", "Trennung"],
+        "tags": [
+          "Experimentierung",
+          "Sicherheit",
+          "Trennung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -736,7 +884,11 @@
           "pages": "S. 8",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["BeKI", "Beratung", "Austausch"],
+        "tags": [
+          "BeKI",
+          "Beratung",
+          "Austausch"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -755,7 +907,11 @@
           "pages": "S. 13-14",
           "chapter": "3.1 Leitsatz A3"
         },
-        "tags": ["Sensible Daten", "DSGVO", "Artikel 9"],
+        "tags": [
+          "Sensible Daten",
+          "DSGVO",
+          "Artikel 9"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -774,7 +930,11 @@
           "pages": "S. 22",
           "chapter": "3.2 Leitsatz B6"
         },
-        "tags": ["Kennzeichnung", "KI-VO", "Transparenz"],
+        "tags": [
+          "Kennzeichnung",
+          "KI-VO",
+          "Transparenz"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -793,7 +953,11 @@
           "pages": "S. 18",
           "chapter": "3.2 Leitsatz B3"
         },
-        "tags": ["Wirtschaftlichkeit", "Lebenszyklus", "Kosten-Nutzen"],
+        "tags": [
+          "Wirtschaftlichkeit",
+          "Lebenszyklus",
+          "Kosten-Nutzen"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -812,7 +976,11 @@
           "pages": "S. 18",
           "chapter": "3.2 Leitsatz B3"
         },
-        "tags": ["Systemauswahl", "Bewertungskriterien", "Abwägung"],
+        "tags": [
+          "Systemauswahl",
+          "Bewertungskriterien",
+          "Abwägung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -831,7 +999,11 @@
           "pages": "S. 8-9",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Interoperabilität", "Zusammenarbeit", "Standards"],
+        "tags": [
+          "Interoperabilität",
+          "Zusammenarbeit",
+          "Standards"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -847,10 +1019,14 @@
         "explanation": "Eine umfassende Dokumentation der KI-Systeme, ihrer Eigenschaften, Risiken und getroffenen Entscheidungen ist essentiell für Transparenz, Nachvollziehbarkeit und Verantwortlichkeit.",
         "source": {
           "citation": "BMI KI-Leitlinien, Dokumentation",
-          "pages": "S. 7 und S. 19",
+          "pages": "S. 7-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["Dokumentation", "Transparenz", "Nachvollziehbarkeit"],
+        "tags": [
+          "Dokumentation",
+          "Transparenz",
+          "Nachvollziehbarkeit"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -869,7 +1045,11 @@
           "pages": "S. 5-6",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Entscheidungsunterstützung", "Menschliche Aufsicht", "Verantwortung"],
+        "tags": [
+          "Entscheidungsunterstützung",
+          "Menschliche Aufsicht",
+          "Verantwortung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -888,7 +1068,11 @@
           "pages": "S. 7",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Robustheit", "Zuverlässigkeit", "Sicherheit"],
+        "tags": [
+          "Robustheit",
+          "Zuverlässigkeit",
+          "Sicherheit"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -907,7 +1091,11 @@
           "pages": "S. 4",
           "chapter": "1. Einleitung"
         },
-        "tags": ["Foundation Models", "Basismodelle", "Multimodal"],
+        "tags": [
+          "Foundation Models",
+          "Basismodelle",
+          "Multimodal"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -926,7 +1114,11 @@
           "pages": "S. 17",
           "chapter": "3.2 Leitsatz B2"
         },
-        "tags": ["Hochrisiko-Systeme", "KI-VO", "Compliance"],
+        "tags": [
+          "Hochrisiko-Systeme",
+          "KI-VO",
+          "Compliance"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -942,10 +1134,14 @@
         "explanation": "Neue KI-Technologien sollten schrittweise eingeführt werden, beginnend mit Pilotprojekten, umfassender Evaluation und kontinuierlicher Überwachung der Auswirkungen.",
         "source": {
           "citation": "BMI KI-Leitlinien, Technologie-Einführung",
-          "pages": "S. 8 und S. 19",
+          "pages": "S. 8-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["Technologie-Einführung", "Pilotprojekte", "Evaluation"],
+        "tags": [
+          "Technologie-Einführung",
+          "Pilotprojekte",
+          "Evaluation"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -964,7 +1160,11 @@
           "pages": "S. 9",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Datensouveränität", "Kontrolle", "Datenverarbeitung"],
+        "tags": [
+          "Datensouveränität",
+          "Kontrolle",
+          "Datenverarbeitung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -980,10 +1180,14 @@
         "explanation": "Eine systematische Versionskontrolle von KI-Modellen ist wichtig für Nachvollziehbarkeit, Qualitätssicherung und die Möglichkeit, bei Problemen auf frühere Versionen zurückzugreifen.",
         "source": {
           "citation": "BMI KI-Leitlinien, Versionskontrolle",
-          "pages": "S. 7 und S. 19",
+          "pages": "S. 7-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["Versionskontrolle", "Dokumentation", "Qualitätssicherung"],
+        "tags": [
+          "Versionskontrolle",
+          "Dokumentation",
+          "Qualitätssicherung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -999,10 +1203,14 @@
         "explanation": "Bias kann durch verzerrte Trainingsdaten, unfaire Algorithmus-Designs oder die Reproduktion gesellschaftlicher Vorurteile entstehen und muss systematisch identifiziert und minimiert werden.",
         "source": {
           "citation": "BMI KI-Leitlinien, Bias-Arten",
-          "pages": "S. 6 und S. 8",
+          "pages": "S. 6-8",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Bias", "Verzerrungen", "Fairness"],
+        "tags": [
+          "Bias",
+          "Verzerrungen",
+          "Fairness"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1018,10 +1226,14 @@
         "explanation": "Privacy by Design bedeutet, dass Datenschutz von Beginn der Entwicklung an als Grundprinzip in die Systemarchitektur und -prozesse integriert wird, nicht nachträglich hinzugefügt.",
         "source": {
           "citation": "BMI KI-Leitlinien, Privacy by Design",
-          "pages": "S. 6 und S. 25",
+          "pages": "S. 6-25",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B9"
         },
-        "tags": ["Privacy by Design", "Datenschutz", "Systemarchitektur"],
+        "tags": [
+          "Privacy by Design",
+          "Datenschutz",
+          "Systemarchitektur"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1037,10 +1249,14 @@
         "explanation": "Kontinuierliches Monitoring ist essentiell, um die Leistung, Fairness und Sicherheit von KI-Systemen im laufenden Betrieb zu überwachen und unerwünschte Entwicklungen frühzeitig zu erkennen.",
         "source": {
           "citation": "BMI KI-Leitlinien, Kontinuierliches Monitoring",
-          "pages": "S. 7 und S. 19",
+          "pages": "S. 7-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["Monitoring", "Überwachung", "Kontinuierlich"],
+        "tags": [
+          "Monitoring",
+          "Überwachung",
+          "Kontinuierlich"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1056,10 +1272,14 @@
         "explanation": "Bei Cloud-basierten KI-Services müssen Datenschutz, Informationssicherheit, rechtliche Anforderungen und die Kontrolle über Daten und Verarbeitungsprozesse sorgfältig bewertet werden.",
         "source": {
           "citation": "BMI KI-Leitlinien, Cloud-Services",
-          "pages": "S. 9 und S. 24",
+          "pages": "S. 9-24",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B8"
         },
-        "tags": ["Cloud", "Datenschutz", "Sicherheit"],
+        "tags": [
+          "Cloud",
+          "Datenschutz",
+          "Sicherheit"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1075,10 +1295,14 @@
         "explanation": "Algorithmic Auditing umfasst die regelmäßige, systematische Überprüfung von KI-Algorithmen auf Fairness, Transparenz, Korrektheit und Einhaltung ethischer Standards.",
         "source": {
           "citation": "BMI KI-Leitlinien, Algorithmic Auditing",
-          "pages": "S. 7 und S. 19",
+          "pages": "S. 7-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["Auditing", "Algorithmus-Prüfung", "Qualitätskontrolle"],
+        "tags": [
+          "Auditing",
+          "Algorithmus-Prüfung",
+          "Qualitätskontrolle"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1094,10 +1318,14 @@
         "explanation": "Adversarial Attacks sind gezielte Manipulationen von Eingabedaten, die darauf abzielen, KI-Systeme zu falschen oder schädlichen Ausgaben zu verleiten. Robuste Systeme müssen dagegen geschützt sein.",
         "source": {
           "citation": "BMI KI-Leitlinien, Adversarial Attacks",
-          "pages": "S. 7 und S. 11",
+          "pages": "S. 7-11",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.1 Leitsatz A1"
         },
-        "tags": ["Adversarial Attacks", "Sicherheit", "Manipulation"],
+        "tags": [
+          "Adversarial Attacks",
+          "Sicherheit",
+          "Manipulation"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1113,10 +1341,14 @@
         "explanation": "KI-Systeme in kritischen Infrastrukturen unterliegen erhöhten Anforderungen an Sicherheit, Zuverlässigkeit, Verfügbarkeit und Resilienz, da Ausfälle weitreichende gesellschaftliche Folgen haben können.",
         "source": {
           "citation": "BMI KI-Leitlinien, Kritische Infrastrukturen",
-          "pages": "S. 7 und S. 17",
+          "pages": "S. 7-17",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B2"
         },
-        "tags": ["Kritische Infrastrukturen", "Sicherheit", "Zuverlässigkeit"],
+        "tags": [
+          "Kritische Infrastrukturen",
+          "Sicherheit",
+          "Zuverlässigkeit"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1135,7 +1367,11 @@
           "pages": "S. 8-9",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Federated Learning", "Datenschutz", "Verteiltes Lernen"],
+        "tags": [
+          "Federated Learning",
+          "Datenschutz",
+          "Verteiltes Lernen"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1151,10 +1387,14 @@
         "explanation": "Standards und Zertifizierungen helfen dabei, Qualität, Sicherheit, Interoperabilität und Vertrauen in KI-Systeme zu gewährleisten und erleichtern die behördenübergreifende Zusammenarbeit.",
         "source": {
           "citation": "BMI KI-Leitlinien, Standards und Zertifizierungen",
-          "pages": "S. 8-9 und S. 22",
+          "pages": "S. 8-22",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B6"
         },
-        "tags": ["Standards", "Zertifizierung", "Qualitätssicherung"],
+        "tags": [
+          "Standards",
+          "Zertifizierung",
+          "Qualitätssicherung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1173,7 +1413,11 @@
           "pages": "S. 25-26",
           "chapter": "3.2 Leitsatz B9"
         },
-        "tags": ["Archivierung", "Löschung", "Aufbewahrungsfristen"],
+        "tags": [
+          "Archivierung",
+          "Löschung",
+          "Aufbewahrungsfristen"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1189,10 +1433,14 @@
         "explanation": "Differential Privacy ist ein mathematisches Framework, das sicherstellt, dass die Privatsphäre von Individuen in Datensätzen geschützt wird, auch wenn statistische Analysen durchgeführt werden.",
         "source": {
           "citation": "BMI KI-Leitlinien, Differential Privacy",
-          "pages": "S. 6 und S. 25",
+          "pages": "S. 6-25",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B9"
         },
-        "tags": ["Differential Privacy", "Datenschutz", "Privatsphäre"],
+        "tags": [
+          "Differential Privacy",
+          "Datenschutz",
+          "Privatsphäre"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1208,10 +1456,14 @@
         "explanation": "Synthetic Data sind künstlich erzeugte Daten, die statistische Eigenschaften echter Daten nachbilden, aber keine echten personenbezogenen Informationen enthalten, wodurch Datenschutzrisiken reduziert werden.",
         "source": {
           "citation": "BMI KI-Leitlinien, Synthetic Data",
-          "pages": "S. 6 und S. 13",
+          "pages": "S. 6-13",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.1 Leitsatz A3"
         },
-        "tags": ["Synthetic Data", "Künstliche Daten", "Datenschutz"],
+        "tags": [
+          "Synthetic Data",
+          "Künstliche Daten",
+          "Datenschutz"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1230,7 +1482,11 @@
           "pages": "S. 5-6",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Human-in-the-Loop", "Menschliche Kontrolle", "Entscheidungsprozesse"],
+        "tags": [
+          "Human-in-the-Loop",
+          "Menschliche Kontrolle",
+          "Entscheidungsprozesse"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1246,10 +1502,14 @@
         "explanation": "Transfer Learning zwischen Domänen erfordert sorgfältige Anpassung, Validierung und Prüfung, ob das Modell in der neuen Anwendungsdomäne angemessen und fair funktioniert.",
         "source": {
           "citation": "BMI KI-Leitlinien, Transfer Learning",
-          "pages": "S. 6-7 und S. 19",
+          "pages": "S. 6-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["Transfer Learning", "Domänenanpassung", "Validierung"],
+        "tags": [
+          "Transfer Learning",
+          "Domänenanpassung",
+          "Validierung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1268,7 +1528,11 @@
           "pages": "S. 7",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Graceful Degradation", "Robustheit", "Ausfallsicherheit"],
+        "tags": [
+          "Graceful Degradation",
+          "Robustheit",
+          "Ausfallsicherheit"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1284,10 +1548,14 @@
         "explanation": "Edge AI führt KI-Berechnungen direkt auf lokalen Geräten durch, was Latenz reduziert, Bandbreite spart und Datenschutz verbessert, da Daten nicht an externe Server gesendet werden müssen.",
         "source": {
           "citation": "BMI KI-Leitlinien, Edge AI",
-          "pages": "S. 9 und S. 24",
+          "pages": "S. 9-24",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B8"
         },
-        "tags": ["Edge AI", "Lokale Verarbeitung", "Datenschutz"],
+        "tags": [
+          "Edge AI",
+          "Lokale Verarbeitung",
+          "Datenschutz"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1303,10 +1571,14 @@
         "explanation": "KI-Entscheidungen müssen nachvollziehbar dokumentiert werden, einschließlich der verwendeten Daten, Algorithmen, Parameter und Entscheidungslogik, um Transparenz und Rechenschaftspflicht zu gewährleisten.",
         "source": {
           "citation": "BMI KI-Leitlinien, Entscheidungsdokumentation",
-          "pages": "S. 7 und S. 19",
+          "pages": "S. 7-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["Dokumentation", "Entscheidungsgrundlagen", "Nachvollziehbarkeit"],
+        "tags": [
+          "Dokumentation",
+          "Entscheidungsgrundlagen",
+          "Nachvollziehbarkeit"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1322,10 +1594,14 @@
         "explanation": "KI sollte schrittweise in bestehende Prozesse integriert werden, mit sorgfältiger Bewertung der Auswirkungen auf Arbeitsabläufe, Mitarbeitende und die Qualität der Ergebnisse.",
         "source": {
           "citation": "BMI KI-Leitlinien, Prozessintegration",
-          "pages": "S. 8 und S. 19",
+          "pages": "S. 8-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["Prozessintegration", "Arbeitsabläufe", "Schrittweise Einführung"],
+        "tags": [
+          "Prozessintegration",
+          "Arbeitsabläufe",
+          "Schrittweise Einführung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1344,7 +1620,11 @@
           "pages": "S. 7",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Ensemble Learning", "Modellkombination", "Robustheit"],
+        "tags": [
+          "Ensemble Learning",
+          "Modellkombination",
+          "Robustheit"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1363,7 +1643,11 @@
           "pages": "S. 9",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Energieeffizienz", "Nachhaltigkeit", "Lebenszyklus"],
+        "tags": [
+          "Energieeffizienz",
+          "Nachhaltigkeit",
+          "Lebenszyklus"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1379,10 +1663,14 @@
         "explanation": "Model Governance umfasst die systematische Steuerung des gesamten Lebenszyklus von KI-Modellen, von der Entwicklung über den Einsatz bis zur Außerbetriebnahme, einschließlich Qualitätssicherung und Compliance.",
         "source": {
           "citation": "BMI KI-Leitlinien, Model Governance",
-          "pages": "S. 7 und S. 19",
+          "pages": "S. 7-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["Model Governance", "Steuerung", "Lebenszyklus"],
+        "tags": [
+          "Model Governance",
+          "Steuerung",
+          "Lebenszyklus"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1398,10 +1686,14 @@
         "explanation": "Multimodale KI-Systeme verarbeiten und kombinieren verschiedene Datentypen (Text, Bild, Audio, Video), was zusätzliche Herausforderungen bei Datenschutz, Bias-Erkennung und Qualitätssicherung mit sich bringt.",
         "source": {
           "citation": "BMI KI-Leitlinien, Multimodale Systeme",
-          "pages": "S. 4 und S. 6",
+          "pages": "S. 4-6",
           "chapter": "1. Einleitung und 2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Multimodal", "Datentypen", "Komplexität"],
+        "tags": [
+          "Multimodal",
+          "Datentypen",
+          "Komplexität"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1417,10 +1709,14 @@
         "explanation": "Incident Response für KI-Systeme umfasst die systematische Vorbereitung, Erkennung, Reaktion und Nachbereitung von Vorfällen wie Bias, Fehlfunktionen oder Sicherheitsproblemen.",
         "source": {
           "citation": "BMI KI-Leitlinien, Incident Response",
-          "pages": "S. 7 und S. 19",
+          "pages": "S. 7-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["Incident Response", "Vorfälle", "Fehlfunktionen"],
+        "tags": [
+          "Incident Response",
+          "Vorfälle",
+          "Fehlfunktionen"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1436,10 +1732,14 @@
         "explanation": "KI-Systeme sollten an verschiedene Nutzergruppen, deren Kompetenzniveaus und spezifische Anwendungsbereiche angepasst werden, um optimale Ergebnisse und sichere Nutzung zu gewährleisten.",
         "source": {
           "citation": "BMI KI-Leitlinien, Nutzergruppenanpassung",
-          "pages": "S. 8 und S. 21",
+          "pages": "S. 8-21",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B5"
         },
-        "tags": ["Nutzergruppen", "Anpassung", "Kompetenzniveaus"],
+        "tags": [
+          "Nutzergruppen",
+          "Anpassung",
+          "Kompetenzniveaus"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1455,10 +1755,14 @@
         "explanation": "CI/CD für KI ermöglicht die automatisierte, aber kontrollierte Integration und Bereitstellung von KI-Modell-Updates, einschließlich automatisierter Tests auf Qualität, Fairness und Performance.",
         "source": {
           "citation": "BMI KI-Leitlinien, CI/CD für KI",
-          "pages": "S. 7 und S. 19",
+          "pages": "S. 7-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["CI/CD", "Automatisierung", "Modell-Updates"],
+        "tags": [
+          "CI/CD",
+          "Automatisierung",
+          "Modell-Updates"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1474,10 +1778,14 @@
         "explanation": "Guardrails sind technische und prozessuale Schutzmaßnahmen, die verhindern, dass KI-Systeme schädliche, diskriminierende oder unangemessene Ausgaben produzieren oder Grenzen überschreiten.",
         "source": {
           "citation": "BMI KI-Leitlinien, Guardrails",
-          "pages": "S. 6-7 und S. 11",
+          "pages": "S. 6-11",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.1 Leitsatz A1"
         },
-        "tags": ["Guardrails", "Schutzmaßnahmen", "Sicherheit"],
+        "tags": [
+          "Guardrails",
+          "Schutzmaßnahmen",
+          "Sicherheit"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1493,10 +1801,14 @@
         "explanation": "Data Lineage ermöglicht die vollständige Nachverfolgung der Datenverarbeitung durch KI-Systeme, was für Transparenz, Compliance und die Identifikation von Bias-Quellen essentiell ist.",
         "source": {
           "citation": "BMI KI-Leitlinien, Data Lineage",
-          "pages": "S. 7 und S. 25",
+          "pages": "S. 7-25",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B9"
         },
-        "tags": ["Data Lineage", "Datenverarbeitung", "Nachverfolgung"],
+        "tags": [
+          "Data Lineage",
+          "Datenverarbeitung",
+          "Nachverfolgung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1512,10 +1824,14 @@
         "explanation": "Fairness-Bewertung erfordert die Anwendung etablierter Metriken und die Berücksichtigung verschiedener Fairness-Konzepte, da unterschiedliche Definitionen von Fairness zu verschiedenen Ergebnissen führen können.",
         "source": {
           "citation": "BMI KI-Leitlinien, Fairness-Bewertung",
-          "pages": "S. 6 und S. 8",
+          "pages": "S. 6-8",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Fairness", "Metriken", "Bewertung"],
+        "tags": [
+          "Fairness",
+          "Metriken",
+          "Bewertung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1531,10 +1847,14 @@
         "explanation": "Führungskräfte benötigen Schulungen zu strategischen Implikationen von KI, Risikomanagement, ethischen Aspekten und Governance-Anforderungen, um fundierte Entscheidungen treffen zu können.",
         "source": {
           "citation": "BMI KI-Leitlinien, Führungskräfte-Schulung",
-          "pages": "S. 8 und S. 21",
+          "pages": "S. 8-21",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B5"
         },
-        "tags": ["Führungskräfte", "Schulung", "Strategische Implikationen"],
+        "tags": [
+          "Führungskräfte",
+          "Schulung",
+          "Strategische Implikationen"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1550,10 +1870,14 @@
         "explanation": "Zero Trust für KI bedeutet kontinuierliche Verifikation aller KI-Komponenten, minimale Zugriffsprivilegien, Segmentierung und ständige Überwachung, auch für interne Systeme.",
         "source": {
           "citation": "BMI KI-Leitlinien, Zero Trust Sicherheit",
-          "pages": "S. 7 und S. 24",
+          "pages": "S. 7-24",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B8"
         },
-        "tags": ["Zero Trust", "Sicherheitsmodell", "Kontinuierliche Verifikation"],
+        "tags": [
+          "Zero Trust",
+          "Sicherheitsmodell",
+          "Kontinuierliche Verifikation"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1569,10 +1893,14 @@
         "explanation": "Concept Drift beschreibt die allmähliche Verschlechterung der KI-Modellleistung durch sich ändernde reale Datenverteilungen und erfordert kontinuierliches Monitoring und regelmäßige Modellanpassungen.",
         "source": {
           "citation": "BMI KI-Leitlinien, Concept Drift",
-          "pages": "S. 7 und S. 19",
+          "pages": "S. 7-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["Concept Drift", "Modellleistung", "Datenverteilung"],
+        "tags": [
+          "Concept Drift",
+          "Modellleistung",
+          "Datenverteilung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1588,10 +1916,14 @@
         "explanation": "Adversarial Examples sind speziell manipulierte Eingaben, die KI-Systeme täuschen sollen. Schutzmaßnahmen umfassen robuste Trainingsverfahren, Eingabevalidierung und Anomalieerkennung.",
         "source": {
           "citation": "BMI KI-Leitlinien, Adversarial Examples",
-          "pages": "S. 7 und S. 11",
+          "pages": "S. 7-11",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.1 Leitsatz A1"
         },
-        "tags": ["Adversarial Examples", "Manipulation", "Robustheit"],
+        "tags": [
+          "Adversarial Examples",
+          "Manipulation",
+          "Robustheit"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1610,7 +1942,11 @@
           "pages": "S. 7",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Explainability", "Interpretability", "Verständlichkeit"],
+        "tags": [
+          "Explainability",
+          "Interpretability",
+          "Verständlichkeit"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1626,10 +1962,14 @@
         "explanation": "Pre-trained Models erfordern sorgfältige Bewertung der ursprünglichen Trainingsdaten, möglicher Bias-Quellen und Anpassung an den spezifischen Anwendungsfall der Behörde.",
         "source": {
           "citation": "BMI KI-Leitlinien, Pre-trained Models",
-          "pages": "S. 6-7 und S. 18",
+          "pages": "S. 6-18",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B3"
         },
-        "tags": ["Pre-trained Models", "Bias-Bewertung", "Anpassung"],
+        "tags": [
+          "Pre-trained Models",
+          "Bias-Bewertung",
+          "Anpassung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1645,10 +1985,14 @@
         "explanation": "KI-Systeme müssen erweiterte Sicherheitsanforderungen erfüllen, die über Standardmaßnahmen hinausgehen und dem BSI IT-Grundschutz sowie spezifischen KI-Sicherheitsstandards entsprechen.",
         "source": {
           "citation": "BMI KI-Leitlinien, IT-Sicherheit",
-          "pages": "S. 7 und S. 17",
+          "pages": "S. 7-17",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B1"
         },
-        "tags": ["IT-Sicherheit", "BSI", "Sicherheitsstandards"],
+        "tags": [
+          "IT-Sicherheit",
+          "BSI",
+          "Sicherheitsstandards"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1664,10 +2008,14 @@
         "explanation": "Algorithmic Transparency erfordert angemessene Offenlegung von KI-Entscheidungsprozessen gegenüber Bürgern und Betroffenen, ohne dabei Sicherheit oder geistiges Eigentum zu gefährden.",
         "source": {
           "citation": "BMI KI-Leitlinien, Algorithmic Transparency",
-          "pages": "S. 7 und S. 22",
+          "pages": "S. 7-22",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B6"
         },
-        "tags": ["Algorithmic Transparency", "Öffentliche Verwaltung", "Offenlegung"],
+        "tags": [
+          "Algorithmic Transparency",
+          "Öffentliche Verwaltung",
+          "Offenlegung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1683,10 +2031,14 @@
         "explanation": "Change Management ist essentiell für die erfolgreiche KI-Einführung und umfasst die systematische Begleitung organisatorischer, kultureller und prozessualer Veränderungen in der Behörde.",
         "source": {
           "citation": "BMI KI-Leitlinien, Change Management",
-          "pages": "S. 8 und S. 21",
+          "pages": "S. 8-21",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B5"
         },
-        "tags": ["Change Management", "Organisatorische Veränderung", "Kulturwandel"],
+        "tags": [
+          "Change Management",
+          "Organisatorische Veränderung",
+          "Kulturwandel"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1702,10 +2054,14 @@
         "explanation": "Die Bewertung gesellschaftlicher Auswirkungen von KI erfordert eine umfassende Analyse der Effekte auf verschiedene Bevölkerungsgruppen, Gleichberechtigung und gesellschaftliche Teilhabe.",
         "source": {
           "citation": "BMI KI-Leitlinien, Gesellschaftliche Auswirkungen",
-          "pages": "S. 5-6 und S. 19",
+          "pages": "S. 5-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["Gesellschaftliche Auswirkungen", "Gleichberechtigung", "Teilhabe"],
+        "tags": [
+          "Gesellschaftliche Auswirkungen",
+          "Gleichberechtigung",
+          "Teilhabe"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1721,10 +2077,14 @@
         "explanation": "Stress Tests prüfen die Robustheit und Zuverlässigkeit von KI-Systemen unter extremen Bedingungen, hoher Last oder unerwarteten Eingaben und sind wichtig für die Risikobewertung.",
         "source": {
           "citation": "BMI KI-Leitlinien, Stress Tests",
-          "pages": "S. 7 und S. 11",
+          "pages": "S. 7-11",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.1 Leitsatz A1"
         },
-        "tags": ["Stress Tests", "Robustheit", "Extreme Bedingungen"],
+        "tags": [
+          "Stress Tests",
+          "Robustheit",
+          "Extreme Bedingungen"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1743,7 +2103,11 @@
           "pages": "S. 25-26",
           "chapter": "3.2 Leitsatz B9"
         },
-        "tags": ["Data Minimization", "DSGVO", "Zweckbindung"],
+        "tags": [
+          "Data Minimization",
+          "DSGVO",
+          "Zweckbindung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1759,10 +2123,14 @@
         "explanation": "Vendor Risk Management umfasst die systematische Bewertung von Sicherheits-, Datenschutz- und Compliance-Risiken externer KI-Anbieter sowie deren kontinuierliche Überwachung.",
         "source": {
           "citation": "BMI KI-Leitlinien, Vendor Risk Management",
-          "pages": "S. 9 und S. 24",
+          "pages": "S. 9-24",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B8"
         },
-        "tags": ["Vendor Risk Management", "Externe Anbieter", "Risikobewertung"],
+        "tags": [
+          "Vendor Risk Management",
+          "Externe Anbieter",
+          "Risikobewertung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1778,10 +2146,14 @@
         "explanation": "Privacy-Preserving Machine Learning nutzt Techniken wie Federated Learning, Differential Privacy und Secure Multi-Party Computation, um Datenschutz während des ML-Trainings zu gewährleisten.",
         "source": {
           "citation": "BMI KI-Leitlinien, Privacy-Preserving ML",
-          "pages": "S. 6 und S. 25",
+          "pages": "S. 6-25",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B9"
         },
-        "tags": ["Privacy-Preserving ML", "Datenschutz", "Federated Learning"],
+        "tags": [
+          "Privacy-Preserving ML",
+          "Datenschutz",
+          "Federated Learning"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1797,10 +2169,14 @@
         "explanation": "Algorithmic Impact Assessment bewertet systematisch die Auswirkungen von KI-Algorithmen auf Grundrechte, Fairness, Diskriminierung und gesellschaftliche Effekte.",
         "source": {
           "citation": "BMI KI-Leitlinien, Algorithmic Impact Assessment",
-          "pages": "S. 6-7 und S. 19",
+          "pages": "S. 6-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["Algorithmic Impact Assessment", "Auswirkungsbewertung", "Grundrechte"],
+        "tags": [
+          "Algorithmic Impact Assessment",
+          "Auswirkungsbewertung",
+          "Grundrechte"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1816,10 +2192,14 @@
         "explanation": "Hybrid AI-Systeme kombinieren verschiedene KI-Technologien mit menschlicher Expertise und erfordern sorgfältige Integration, Koordination und Qualitätssicherung der verschiedenen Komponenten.",
         "source": {
           "citation": "BMI KI-Leitlinien, Hybrid AI-Systeme",
-          "pages": "S. 5-6 und S. 8",
+          "pages": "S. 5-8",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Hybrid AI", "Integration", "Menschliche Expertise"],
+        "tags": [
+          "Hybrid AI",
+          "Integration",
+          "Menschliche Expertise"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1835,10 +2215,14 @@
         "explanation": "Traceability erfordert die vollständige Dokumentation aller Eingaben, Verarbeitungsschritte, verwendeten Modelle und Ausgaben, um KI-Entscheidungen nachvollziehen und auditieren zu können.",
         "source": {
           "citation": "BMI KI-Leitlinien, Traceability",
-          "pages": "S. 7 und S. 19",
+          "pages": "S. 7-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["Traceability", "Rückverfolgbarkeit", "Auditierbarkeit"],
+        "tags": [
+          "Traceability",
+          "Rückverfolgbarkeit",
+          "Auditierbarkeit"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1854,10 +2238,14 @@
         "explanation": "Responsible AI Governance umfasst die umfassende ethische, rechtliche und organisatorische Steuerung des KI-Einsatzes mit klaren Verantwortlichkeiten, Prozessen und Kontrollmechanismen.",
         "source": {
           "citation": "BMI KI-Leitlinien, Responsible AI Governance",
-          "pages": "S. 5 und S. 17",
+          "pages": "S. 5-17",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B1"
         },
-        "tags": ["Responsible AI", "Governance", "Ethische Steuerung"],
+        "tags": [
+          "Responsible AI",
+          "Governance",
+          "Ethische Steuerung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1873,10 +2261,14 @@
         "explanation": "Continuous Learning ermöglicht KI-Systemen die kontinuierliche Anpassung an neue Daten und sich ändernde Anforderungen, erfordert aber sorgfältige Überwachung und Kontrolle.",
         "source": {
           "citation": "BMI KI-Leitlinien, Continuous Learning",
-          "pages": "S. 7 und S. 19",
+          "pages": "S. 7-19",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B4"
         },
-        "tags": ["Continuous Learning", "Anpassung", "Überwachung"],
+        "tags": [
+          "Continuous Learning",
+          "Anpassung",
+          "Überwachung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1895,7 +2287,11 @@
           "pages": "S. 9",
           "chapter": "2. Wertebasierte Leitprinzipien"
         },
-        "tags": ["Carbon Footprint", "CO2-Bilanz", "Nachhaltigkeit"],
+        "tags": [
+          "Carbon Footprint",
+          "CO2-Bilanz",
+          "Nachhaltigkeit"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1911,12 +2307,20 @@
         "explanation": "Nachhaltige KI-Strategie erfordert systematischen Aufbau interner Kompetenzen, einheitlicher Standards, digitaler Souveränität und langfristiger Planung für die gesamte Bundesverwaltung.",
         "source": {
           "citation": "BMI KI-Leitlinien, Langfristige Strategie",
-          "pages": "S. 8-9 und S. 22",
+          "pages": "S. 8-22",
           "chapter": "2. Wertebasierte Leitprinzipien und 3.2 Leitsatz B6"
         },
-        "tags": ["Langfristige Strategie", "Digitale Souveränität", "Nachhaltigkeit"],
+        "tags": [
+          "Langfristige Strategie",
+          "Digitale Souveränität",
+          "Nachhaltigkeit"
+        ],
         "difficulty": "schwer"
       }
-    ]
+    ],
+    "metadata": {
+      "createdAt": "2025-10-17T13:46:00.967796Z",
+      "notes": "Quiz optimiert und validiert"
+    }
   }
 }

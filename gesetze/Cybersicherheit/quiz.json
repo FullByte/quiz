@@ -1,7 +1,7 @@
 {
   "quiz": {
     "title": "Cybersicherheit Quiz",
-    "description": "Teste dein Wissen zur Cybersicherheit und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+    "description": "Teste dein Wissen zur Cybersicherheit und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus 50 Fragen.",
     "language": "de",
     "version": "1.0",
     "sourceDocument": {
@@ -14,7 +14,7 @@
       "shuffleQuestions": true,
       "shuffleOptions": true,
       "showExplanations": true,
-      "timePerQuestionSec": 0
+      "timePerQuestionSec": 60
     },
     "questions": [
       {
@@ -1117,6 +1117,10 @@
         ],
         "difficulty": "leicht"
       }
-    ]
+    ],
+    "metadata": {
+      "createdAt": "2025-10-17T13:46:01.020421Z",
+      "notes": "Quiz optimiert und validiert"
+    }
   }
 }

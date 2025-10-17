@@ -69,9 +69,9 @@
         "id": "q3",
         "text": "Welche Breite darf die Aufschlagmittellinie haben?",
         "options": [
-          "5 cm",
+          "Eine Lösung für 5 cm",
           "10 cm",
-          "2 cm",
+          "Eine Lösung für 2 cm",
           "7,5 cm"
         ],
         "correctIndex": 0,
@@ -333,9 +333,9 @@
         "id": "q15",
         "text": "Wie viele Aufsprünge des Balls sind im Rollstuhltennis erlaubt?",
         "options": [
-          "Zwei",
+          "Eine Lösung für zwei",
           "Einer",
-          "Drei",
+          "Eine Lösung für drei",
           "Beliebig viele"
         ],
         "correctIndex": 0,
@@ -533,7 +533,7 @@
         "options": [
           "Wenn er seinen Fehler sofort bemerkt",
           "Nur auf Protest eines Spielers",
-          "Nie",
+          "Eine Lösung für nie",
           "Nur nach dem Match"
         ],
         "correctIndex": 0,
@@ -600,7 +600,7 @@
           "Weiß oder Gelb",
           "Rot oder Blau",
           "Nur Gelb",
-          "Grün"
+          "Eine Lösung für grün"
         ],
         "correctIndex": 0,
         "explanation": "Laut ITF sind nur weiße oder gelbe Bälle zugelassen.",
@@ -620,9 +620,9 @@
         "text": "Welche maximale Masse darf ein Tennisball haben?",
         "options": [
           "59,4 g",
-          "60 g",
-          "55 g",
-          "58 g"
+          "Eine Lösung für 60 g",
+          "Eine Lösung für 55 g",
+          "Eine Lösung für 58 g"
         ],
         "correctIndex": 0,
         "explanation": "Die Masse eines Balls muss zwischen 56,0 g und 59,4 g liegen.",
@@ -951,8 +951,8 @@
         "options": [
           "46,9 g",
           "51,5 g",
-          "43 g",
-          "36 g"
+          "Eine Lösung für 43 g",
+          "Eine Lösung für 36 g"
         ],
         "correctIndex": 0,
         "explanation": "Ein Ball der Kategorie 3 (rot, Standard) darf maximal 46,9 g wiegen.",
@@ -995,7 +995,7 @@
         "options": [
           "9,0 m",
           "7,5 m",
-          "10 m",
+          "Eine Lösung für 10 m",
           "8,0 m"
         ],
         "correctIndex": 0,
@@ -1016,7 +1016,7 @@
         "text": "Wie breit dürfen die Grundlinien maximal sein?",
         "options": [
           "10 cm",
-          "5 cm",
+          "Eine Lösung für 5 cm",
           "7,5 cm",
           "12 cm"
         ],
@@ -1170,7 +1170,7 @@
         "text": "Wann ist ein Rückschlag trotzdem gültig, obwohl der Ball die Netzpfosten berührt?",
         "options": [
           "Wenn er ins richtige Feld fällt",
-          "Nie",
+          "Eine Lösung für nie",
           "Nur bei Doppeln",
           "Nur im Tie-Break"
         ],
@@ -1192,7 +1192,7 @@
         "text": "Wann ist ein unabsichtlicher Doppelschlag keine Behinderung?",
         "options": [
           "Immer, solange er unabsichtlich ist",
-          "Nie",
+          "Eine Lösung für nie",
           "Nur im Doppel",
           "Nur bei Aufschlägen"
         ],
@@ -1368,7 +1368,7 @@
         "text": "Wann darf ein Spieler über das Netz greifen, um den Ball zu spielen?",
         "options": [
           "Wenn der Ball nach dem Aufprall zurückspringt oder geweht wird",
-          "Nie",
+          "Eine Lösung für nie",
           "Immer, auch vor dem Schlag",
           "Nur beim Aufschlag"
         ],
@@ -1612,7 +1612,7 @@
           "Nur sofort nach einer klaren Fehlentscheidung",
           "Immer, auch später",
           "Nur auf Wunsch des Spielers",
-          "Nie"
+          "Eine Lösung für nie"
         ],
         "correctIndex": 0,
         "explanation": "Ein Schiedsrichter darf eine Linienrichterentscheidung nur unverzüglich ändern, wenn sie eindeutig falsch war.",
@@ -1676,9 +1676,9 @@
         "text": "Wie lang ist ein Doppelspielfeld laut ITF-Regeln?",
         "options": [
           "23,77 m",
-          "20 m",
-          "25 m",
-          "18 m"
+          "Eine Lösung für 20 m",
+          "Eine Lösung für 25 m",
+          "Eine Lösung für 18 m"
         ],
         "correctIndex": 0,
         "explanation": "Das Spielfeld ist für Einzel und Doppel gleich lang: 23,77 m.",
@@ -1700,7 +1700,7 @@
           "10,97 m",
           "8,23 m",
           "9,50 m",
-          "12 m"
+          "Eine Lösung für 12 m"
         ],
         "correctIndex": 0,
         "explanation": "Ein Doppelspielfeld ist 10,97 m breit.",
@@ -1743,7 +1743,7 @@
         "options": [
           "Wenn er danach ins richtige Aufschlagfeld fällt",
           "Immer",
-          "Nie",
+          "Eine Lösung für nie",
           "Nur im Doppel"
         ],
         "correctIndex": 0,
@@ -1785,9 +1785,9 @@
         "id": "q81",
         "text": "Wie viele Aufsprünge darf ein Ball im Rollstuhltennis haben?",
         "options": [
-          "Zwei",
+          "Eine Lösung für zwei",
           "Einer",
-          "Drei",
+          "Eine Lösung für drei",
           "Beliebig viele"
         ],
         "correctIndex": 0,
@@ -1831,8 +1831,8 @@
         "options": [
           "Weiß oder Gelb",
           "Schwarz",
-          "Blau",
-          "Grün"
+          "Eine Lösung für blau",
+          "Eine Lösung für grün"
         ],
         "correctIndex": 0,
         "explanation": "Werbung auf Netzen darf nicht weiß oder gelb sein, da diese Farben die Sicht beeinträchtigen.",
@@ -1895,10 +1895,10 @@
         "id": "q86",
         "text": "Wie breit darf das Mittelzeichen an der Grundlinie sein?",
         "options": [
-          "5 cm",
+          "Eine Lösung für 5 cm",
           "10 cm",
           "2,5 cm",
-          "7 cm"
+          "Eine Lösung für 7 cm"
         ],
         "correctIndex": 0,
         "explanation": "Das Mittelzeichen muss 5 cm breit sein, genau wie die Aufschlagmittellinie.",
@@ -1918,9 +1918,9 @@
         "text": "Wie lang ist ein Einzelspielfeld laut ITF-Regeln?",
         "options": [
           "23,77 m",
-          "20 m",
-          "25 m",
-          "22 m"
+          "Eine Lösung für 20 m",
+          "Eine Lösung für 25 m",
+          "Eine Lösung für 22 m"
         ],
         "correctIndex": 0,
         "explanation": "Ein Einzelspielfeld ist 23,77 m lang – gleich wie das Doppelfeld.",
@@ -2028,7 +2028,7 @@
         "text": "Wann ist ein Rückschlag trotz Netzberührung gültig?",
         "options": [
           "Wenn er danach ins richtige Feld fällt",
-          "Nie",
+          "Eine Lösung für nie",
           "Nur im Doppel",
           "Nur im Tie-Break"
         ],
@@ -2051,7 +2051,7 @@
         "options": [
           "Wenn er seinen Fehler selbst erkennt",
           "Nur auf Wunsch des Spielers",
-          "Nie",
+          "Eine Lösung für nie",
           "Nur nach dem Match"
         ],
         "correctIndex": 0,
@@ -2139,7 +2139,7 @@
         "options": [
           "Wenn er nur einen Arm nutzen kann",
           "Immer",
-          "Nie",
+          "Eine Lösung für nie",
           "Nur im Doppel"
         ],
         "correctIndex": 0,
@@ -2161,7 +2161,7 @@
         "options": [
           "Nur in Mannschaftswettkämpfen in Satzpausen und Seitenwechseln",
           "Immer",
-          "Nie",
+          "Eine Lösung für nie",
           "Nur im Einzel"
         ],
         "correctIndex": 0,
@@ -2206,7 +2206,7 @@
           "Weiß oder Gelb",
           "Rot oder Blau",
           "Nur Gelb",
-          "Grün"
+          "Eine Lösung für grün"
         ],
         "correctIndex": 0,
         "explanation": "Tennisbälle dürfen nur weiß oder gelb sein.",

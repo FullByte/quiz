@@ -1,8 +1,8 @@
 {
   "quiz": {
     "title": "Wasserball-Regeln",
-    "description": "Teste dein Wissen über die offiziellen Wasserball-Wettkampfregeln. Der Fragenkatalog umfasst {questionCount} Fragen zu Spielregeln, Fouls, Ausrüstung und Wettkampfbestimmungen.",
-    "language": "de", 
+    "description": "Teste dein Wissen über die offiziellen Wasserball-Wettkampfregeln. Der Fragenkatalog umfasst 100 Fragen zu Spielregeln, Fouls, Ausrüstung und Wettkampfbestimmungen.",
+    "language": "de",
     "version": "1.0",
     "sourceDocument": {
       "title": "FINA Competition Regulations - Water Polo",
@@ -11,11 +11,13 @@
         "createdAt": "2025-10-01T13:00:00Z",
         "version": "June 2025",
         "year": 2025
-      }
+      },
+      "version": "1.0",
+      "year": 2025
     },
     "settings": {
       "shuffleQuestions": true,
-      "shuffleOptions": true, 
+      "shuffleOptions": true,
       "showExplanations": true,
       "timePerQuestionSec": 60
     },
@@ -33,7 +35,7 @@
         "explanation": "Ein Wasserball-Team besteht aus 7 Spielern im Wasser: 6 Feldspielern und 1 Torwart. Insgesamt darf ein Team bis zu 13 Spieler (7 aktive + 6 Auswechselspieler) registrieren.",
         "source": {
           "citation": "FINA Water Polo Regulations, Team Composition",
-          "pages": "WP 4.1",
+          "pages": "S. 4-1",
           "chapter": "Rule WP 4"
         },
         "tags": [
@@ -56,7 +58,7 @@
         "explanation": "Ein Wasserballspiel besteht aus 4 Vierteln à 8 Minuten Nettozeit (die Uhr stoppt bei Unterbrechungen). Zwischen den Vierteln gibt es 2-minütige Pausen, nach dem 2. Viertel eine 5-minütige Halbzeitpause.",
         "source": {
           "citation": "FINA Water Polo Regulations, Duration of Game",
-          "pages": "WP 10.1",
+          "pages": "S. 10-1",
           "chapter": "Rule WP 10"
         },
         "tags": [
@@ -79,7 +81,7 @@
         "explanation": "Ein Team trägt weiße Kappen, das andere blaue. Die Torwarte tragen rote Kappen (Nummer 1 oder 13). Bei neutralem Spielort entscheidet der Münzwurf, welches Team welche Farbe trägt.",
         "source": {
           "citation": "FINA Water Polo Regulations, Caps",
-          "pages": "WP 5.1, WP 5.2",
+          "pages": "S. 5-2",
           "chapter": "Rule WP 5"
         },
         "tags": [
@@ -102,7 +104,7 @@
         "explanation": "Die Shot Clock beträgt 30 Sekunden. Das Team muss innerhalb dieser Zeit einen Torschuss abgeben, sonst geht der Ballbesitz an den Gegner.",
         "source": {
           "citation": "FINA Water Polo Regulations, Possession Time",
-          "pages": "WP 20.1",
+          "pages": "S. 20-1",
           "chapter": "Rule WP 20"
         },
         "tags": [
@@ -125,7 +127,7 @@
         "explanation": "Exclusion Fouls sind schwere Regelverstöße. Der Spieler muss für 20 Sekunden das Wasser verlassen oder bis zum nächsten Tor (je nachdem was zuerst eintritt).",
         "source": {
           "citation": "FINA Water Polo Regulations, Exclusion Fouls",
-          "pages": "WP 22.1",
+          "pages": "S. 22-1",
           "chapter": "Rule WP 22"
         },
         "tags": [
@@ -148,10 +150,14 @@
         "explanation": "Ein Penalty wird vergeben, wenn ein Verteidiger ein wahrscheinliches Tor durch ein Foul verhindert, oder wenn ein Torwart im letzten Moment der Angriffszeit fouled. Der Penalty wird von der 5m-Linie geschossen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Penalty Throw",
-          "pages": "WP 23.1",
+          "pages": "S. 23-1",
           "chapter": "Rule WP 23"
         },
-        "tags": ["Penalty", "Strafwurf", "Fouls"],
+        "tags": [
+          "Penalty",
+          "Strafwurf",
+          "Fouls"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -167,10 +173,14 @@
         "explanation": "Feldspieler dürfen den Ball nur mit einer Hand berühren. Beide Hände gleichzeitig ist ein Foul. Nur der Torwart darf in der eigenen 5m-Zone beide Hände nutzen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Playing the Ball",
-          "pages": "WP 15.2",
+          "pages": "S. 15-2",
           "chapter": "Rule WP 15"
         },
-        "tags": ["Ballkontrolle", "Hände", "Grundregeln"],
+        "tags": [
+          "Ballkontrolle",
+          "Hände",
+          "Grundregeln"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -186,10 +196,14 @@
         "explanation": "In K.O.-Runden bei Gleichstand: Zuerst Verlängerung (2 x 3 Minuten). Steht es danach immer noch unentschieden, folgt ein Penaltyschießen (Best-of-5, bei Bedarf Sudden Death).",
         "source": {
           "citation": "FINA Water Polo Regulations, Extra Time",
-          "pages": "WP 10.4, WP 10.5",
+          "pages": "S. 10-5",
           "chapter": "Rule WP 10"
         },
-        "tags": ["Verlängerung", "Penalty", "Gleichstand"],
+        "tags": [
+          "Verlängerung",
+          "Penalty",
+          "Gleichstand"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -205,10 +219,14 @@
         "explanation": "Brutality ist die schwerste Foulkategorie: vorsätzliche extreme Gewalt. Der Spieler wird sofort disqualifiziert, das Team spielt 4 Minuten in Unterzahl, und der Gegner erhält einen Penalty.",
         "source": {
           "citation": "FINA Water Polo Regulations, Brutality",
-          "pages": "WP 22.13",
+          "pages": "S. 22-13",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Brutality", "Disqualifikation", "Schweres Foul"],
+        "tags": [
+          "Brutality",
+          "Disqualifikation",
+          "Schweres Foul"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -224,10 +242,14 @@
         "explanation": "Das Wasserballtor ist 3 Meter breit und 0,9 Meter (90cm) hoch. Die Torlinie befindet sich mindestens 0,3m vor der Poolwand.",
         "source": {
           "citation": "FINA Water Polo Regulations, Goals",
-          "pages": "WP 2.1",
+          "pages": "S. 2-1",
           "chapter": "Rule WP 2"
         },
-        "tags": ["Tor", "Abmessungen", "Spielfeld"],
+        "tags": [
+          "Tor",
+          "Abmessungen",
+          "Spielfeld"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -243,10 +265,14 @@
         "explanation": "Ein Corner Throw wird an der 2m-Linie vergeben, wenn ein Verteidiger (außer Torwart) den Ball über die eigene Torlinie ins Aus spielt.",
         "source": {
           "citation": "FINA Water Polo Regulations, Corner Throw",
-          "pages": "WP 19.2",
+          "pages": "S. 19-2",
           "chapter": "Rule WP 19"
         },
-        "tags": ["Corner Throw", "Einwurf", "Standardsituationen"],
+        "tags": [
+          "Corner Throw",
+          "Einwurf",
+          "Standardsituationen"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -262,10 +288,14 @@
         "explanation": "Den Ball unter Wasser zu drücken ist zu jeder Zeit ein Ordinary Foul. Der Ball muss an der Wasseroberfläche bleiben.",
         "source": {
           "citation": "FINA Water Polo Regulations, Ball Under Water",
-          "pages": "WP 21.8",
+          "pages": "S. 21-8",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Ballführung", "Ordinary Foul", "Wasseroberfläche"],
+        "tags": [
+          "Ballführung",
+          "Ordinary Foul",
+          "Wasseroberfläche"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -281,10 +311,14 @@
         "explanation": "Die Shot Clock wird auf 20 Sekunden gesetzt (statt 30) bei Corner Throws und wenn die verteidigende Mannschaft ein Exclusion Foul begeht.",
         "source": {
           "citation": "FINA Water Polo Regulations, 20-Second Reset",
-          "pages": "WP 20.3",
+          "pages": "S. 20-3",
           "chapter": "Rule WP 20"
         },
-        "tags": ["Shot Clock", "20 Sekunden", "Reset"],
+        "tags": [
+          "Shot Clock",
+          "20 Sekunden",
+          "Reset"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -300,10 +334,14 @@
         "explanation": "Holding ist das Festhalten, Ziehen oder Greifen eines Gegners oder dessen Ausrüstung. Dies ist ein Ordinary Foul, kann aber bei Verhinderung einer Torchance zum Exclusion Foul werden.",
         "source": {
           "citation": "FINA Water Polo Regulations, Holding",
-          "pages": "WP 21.3",
+          "pages": "S. 21-3",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Holding", "Festhalten", "Ordinary Foul"],
+        "tags": [
+          "Holding",
+          "Festhalten",
+          "Ordinary Foul"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -312,17 +350,21 @@
         "options": [
           "1-13, wobei 1 und 13 für Torwarte reserviert sind",
           "Beliebige Nummern",
-          "1-11",
-          "1-20"
+          "Eine Lösung für 1-11",
+          "Eine Lösung für 1-20"
         ],
         "correctIndex": 0,
         "explanation": "Spieler tragen Nummern von 1-13. Die Nummern 1 und 13 sind für die beiden Torwarte reserviert, die restlichen Nummern 2-12 für Feldspieler.",
         "source": {
           "citation": "FINA Water Polo Regulations, Player Numbers",
-          "pages": "WP 5.3",
+          "pages": "S. 5-3",
           "chapter": "Rule WP 5"
         },
-        "tags": ["Nummern", "Kappen", "Torwart"],
+        "tags": [
+          "Nummern",
+          "Kappen",
+          "Torwart"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -338,10 +380,14 @@
         "explanation": "Impeding ist die Behinderung eines Gegners, der nicht im Ballbesitz ist. Dies ist ein Ordinary Foul. Schwere Behinderung kann ein Exclusion Foul sein.",
         "source": {
           "citation": "FINA Water Polo Regulations, Impeding",
-          "pages": "WP 21.2",
+          "pages": "S. 21-2",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Impeding", "Behinderung", "Ordinary Foul"],
+        "tags": [
+          "Impeding",
+          "Behinderung",
+          "Ordinary Foul"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -357,10 +403,14 @@
         "explanation": "Jedes Team hat 2 Timeouts pro Spiel, jeweils 1 Minute lang. Sie können nur bei eigenem Ballbesitz genommen werden.",
         "source": {
           "citation": "FINA Water Polo Regulations, Timeouts",
-          "pages": "WP 26.1",
+          "pages": "S. 26-1",
           "chapter": "Rule WP 26"
         },
-        "tags": ["Timeout", "Auszeit", "Taktik"],
+        "tags": [
+          "Timeout",
+          "Auszeit",
+          "Taktik"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -376,10 +426,14 @@
         "explanation": "Der Torwart darf den Ball nicht über die Mittellinie werfen oder schlagen (Ordinary Foul). Er kann ihn aber zu einem Mitspieler passen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Goalkeeper Restrictions",
-          "pages": "WP 21.7",
+          "pages": "S. 21-7",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Torwart", "Mittellinie", "Beschränkungen"],
+        "tags": [
+          "Torwart",
+          "Mittellinie",
+          "Beschränkungen"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -395,10 +449,14 @@
         "explanation": "Misconduct umfasst unsportliches Verhalten: Beleidigungen, Respektlosigkeit, absichtliche Spielverzögerung. Je nach Schwere: Verwarnungen, Ausschlüsse oder Disqualifikationen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Misconduct",
-          "pages": "WP 22.11, WP 22.12",
+          "pages": "S. 22-12",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Misconduct", "Unsportlich", "Verhalten"],
+        "tags": [
+          "Misconduct",
+          "Unsportlich",
+          "Verhalten"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -414,10 +472,14 @@
         "explanation": "Nach der dritten persönlichen Strafe (Exclusion/Penalty) wird ein Spieler disqualifiziert und muss das Spielfeld verlassen. Ein Ersatz darf nach 4 Minuten eintreten.",
         "source": {
           "citation": "FINA Water Polo Regulations, Three Personal Fouls",
-          "pages": "WP 22.15",
+          "pages": "S. 22-15",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Persönliche Strafen", "3-Fouls-Regel", "Disqualifikation"],
+        "tags": [
+          "Persönliche Strafen",
+          "3-Fouls-Regel",
+          "Disqualifikation"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -433,29 +495,37 @@
         "explanation": "Sinking (Unterwasser-Drücken eines Gegners) ist ein Exclusion Foul und kann je nach Schwere auch als Brutality gewertet werden.",
         "source": {
           "citation": "FINA Water Polo Regulations, Sinking",
-          "pages": "WP 22.2",
+          "pages": "S. 22-2",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Sinking", "Exclusion Foul", "Gefährlich"],
+        "tags": [
+          "Sinking",
+          "Exclusion Foul",
+          "Gefährlich"
+        ],
         "difficulty": "mittel"
       },
       {
         "id": "q22",
         "text": "Welche Farbe hat die 2m-Linie?",
         "options": [
-          "Gelb",
-          "Rot",
-          "Weiß",
-          "Blau"
+          "Eine Lösung für gelb",
+          "Eine Lösung für rot",
+          "Eine Lösung für weiß",
+          "Eine Lösung für blau"
         ],
         "correctIndex": 0,
         "explanation": "Die 2m-Linie wird in Gelb markiert. Die 5m-Linie ist rot, die Mittellinie weiß.",
         "source": {
           "citation": "FINA Water Polo Regulations, Field Markings",
-          "pages": "WP 1.4",
+          "pages": "S. 1-4",
           "chapter": "Rule WP 1"
         },
-        "tags": ["Markierungen", "2m-Linie", "Farbcodierung"],
+        "tags": [
+          "Markierungen",
+          "2m-Linie",
+          "Farbcodierung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -471,10 +541,14 @@
         "explanation": "Spieler dürfen sich nicht am Beckenrand festhalten oder darauf stehen (außer bei Verletzung). Dies ist ein Ordinary Foul.",
         "source": {
           "citation": "FINA Water Polo Regulations, Standing",
-          "pages": "WP 21.11",
+          "pages": "S. 21-11",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Beckenrand", "Boden", "Ordinary Foul"],
+        "tags": [
+          "Beckenrand",
+          "Boden",
+          "Ordinary Foul"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -490,10 +564,14 @@
         "explanation": "Ein Goal Throw wird dem Torwart zugesprochen, wenn ein angreifender Spieler den Ball über die Torlinie (aber nicht ins Tor) spielt. Der Torwart führt ihn von seiner 2m-Linie aus.",
         "source": {
           "citation": "FINA Water Polo Regulations, Goal Throw",
-          "pages": "WP 19.3",
+          "pages": "S. 19-3",
           "chapter": "Rule WP 19"
         },
-        "tags": ["Goal Throw", "Torwart", "Ballbesitz"],
+        "tags": [
+          "Goal Throw",
+          "Torwart",
+          "Ballbesitz"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -509,10 +587,14 @@
         "explanation": "Absichtliches Spritzen von Wasser ins Gesicht eines Gegners zur Behinderung ist ein Ordinary Foul. Unbeabsichtigtes Spritzen ist erlaubt.",
         "source": {
           "citation": "FINA Water Polo Regulations, Splashing",
-          "pages": "WP 21.13",
+          "pages": "S. 21-13",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Splashing", "Behinderung", "Ordinary Foul"],
+        "tags": [
+          "Splashing",
+          "Behinderung",
+          "Ordinary Foul"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -528,10 +610,14 @@
         "explanation": "Der offizielle Wasserball wiegt 400-450g für Männer (Umfang 68-71cm) und 400-450g für Frauen (Umfang 65-67cm).",
         "source": {
           "citation": "FINA Water Polo Regulations, The Ball",
-          "pages": "WP 3.1",
+          "pages": "S. 3-1",
           "chapter": "Rule WP 3"
         },
-        "tags": ["Ball", "Gewicht", "Ausrüstung"],
+        "tags": [
+          "Ball",
+          "Gewicht",
+          "Ausrüstung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -547,10 +633,14 @@
         "explanation": "Pushing Off ist das Abstoßen vom Körper eines Gegners, um sich Vorteil zu verschaffen (z.B. höher aus dem Wasser). Dies ist ein Ordinary Foul.",
         "source": {
           "citation": "FINA Water Polo Regulations, Pushing Off",
-          "pages": "WP 21.4",
+          "pages": "S. 21-4",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Pushing Off", "Abstoßen", "Ordinary Foul"],
+        "tags": [
+          "Pushing Off",
+          "Abstoßen",
+          "Ordinary Foul"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -566,10 +656,14 @@
         "explanation": "Die Advantage Rule erlaubt dem Schiedsrichter, ein Foul nicht zu pfeifen, wenn das gefoulte Team dadurch im Vorteil wäre.",
         "source": {
           "citation": "FINA Water Polo Regulations, Advantage",
-          "pages": "WP 17.1",
+          "pages": "S. 17-1",
           "chapter": "Rule WP 17"
         },
-        "tags": ["Advantage", "Vorteil", "Schiedsrichter"],
+        "tags": [
+          "Advantage",
+          "Vorteil",
+          "Schiedsrichter"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -585,10 +679,14 @@
         "explanation": "Ein Tor zählt, wenn der Ball die Torlinie vollständig überquert hat. Der Wurf muss vor Zeitablauf erfolgt sein, aber der Ball kann noch danach ins Tor gehen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Goal Scored",
-          "pages": "WP 18.1",
+          "pages": "S. 18-1",
           "chapter": "Rule WP 18"
         },
-        "tags": ["Tor", "Gültigkeit", "Zeitregel"],
+        "tags": [
+          "Tor",
+          "Gültigkeit",
+          "Zeitregel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -604,10 +702,14 @@
         "explanation": "Absichtliches Kicken des Balls ist ein Ordinary Foul. Unbeabsichtigtes Berühren beim Schwimmen ist normalerweise erlaubt.",
         "source": {
           "citation": "FINA Water Polo Regulations, Kicking Ball",
-          "pages": "WP 21.9",
+          "pages": "S. 21-9",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Kicken", "Ballkontakt", "Ordinary Foul"],
+        "tags": [
+          "Kicken",
+          "Ballkontakt",
+          "Ordinary Foul"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -623,10 +725,14 @@
         "explanation": "Beim Penaltyschießen schießen abwechselnd je 5 Spieler pro Team. Bei Gleichstand danach folgt Sudden Death (jeder weitere Schuss ist entscheidend).",
         "source": {
           "citation": "FINA Water Polo Regulations, Penalty Shootout",
-          "pages": "WP 10.7",
+          "pages": "S. 10-7",
           "chapter": "Rule WP 10"
         },
-        "tags": ["Penaltyschießen", "Sudden Death", "Entscheidung"],
+        "tags": [
+          "Penaltyschießen",
+          "Sudden Death",
+          "Entscheidung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -642,10 +748,14 @@
         "explanation": "Interference bei der Ausführung eines Freiwurfs ist ein Exclusion Foul. Verteidiger müssen dem ausführenden Spieler ermöglichen, den Freiwurf ohne Behinderung auszuführen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Interference",
-          "pages": "WP 22.5",
+          "pages": "S. 22-5",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Interference", "Freiwurf", "Exclusion"],
+        "tags": [
+          "Interference",
+          "Freiwurf",
+          "Exclusion"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -661,10 +771,14 @@
         "explanation": "Nach einem Exclusion Foul muss der Spieler für 20 Sekunden raus. Ein Ersatzspieler darf eintreten nach Ablauf der 20 Sekunden ODER wenn ein Tor fällt.",
         "source": {
           "citation": "FINA Water Polo Regulations, Re-entry After Exclusion",
-          "pages": "WP 22.3",
+          "pages": "S. 22-3",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Exclusion", "Wiedereintritt", "Auswechslung"],
+        "tags": [
+          "Exclusion",
+          "Wiedereintritt",
+          "Auswechslung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -680,10 +794,14 @@
         "explanation": "Striking (Schlagen, Treten) eines Gegners ist ein schweres Foul. Je nach Absicht und Härte ist es ein Exclusion Foul oder bei extremer Gewalt Brutality.",
         "source": {
           "citation": "FINA Water Polo Regulations, Striking",
-          "pages": "WP 22.7",
+          "pages": "S. 22-7",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Striking", "Gewalt", "Exclusion"],
+        "tags": [
+          "Striking",
+          "Gewalt",
+          "Exclusion"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -699,10 +817,14 @@
         "explanation": "Bei offiziellen Spielen gibt es 2 Schiedsrichter (die Seiten wechseln nach jedem Viertel), 2 Torrichter, einen Zeitnehmer (Shot Clock) und einen Sekretär.",
         "source": {
           "citation": "FINA Water Polo Regulations, Officials",
-          "pages": "WP 13.1",
+          "pages": "S. 13-1",
           "chapter": "Rule WP 13"
         },
-        "tags": ["Schiedsrichter", "Offizielle", "Organisation"],
+        "tags": [
+          "Schiedsrichter",
+          "Offizielle",
+          "Organisation"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -718,10 +840,14 @@
         "explanation": "Ein Neutral Throw wird gegeben, wenn der Schiedsrichter nicht eindeutig entscheiden kann, welches Team den Ball zuletzt berührt hat, oder bei gleichzeitigen Fouls.",
         "source": {
           "citation": "FINA Water Polo Regulations, Neutral Throw",
-          "pages": "WP 19.4",
+          "pages": "S. 19-4",
           "chapter": "Rule WP 19"
         },
-        "tags": ["Neutral Throw", "Einwurf", "Unklare Situation"],
+        "tags": [
+          "Neutral Throw",
+          "Einwurf",
+          "Unklare Situation"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -737,10 +863,14 @@
         "explanation": "Der Ball darf die Wasseroberfläche komplett verlassen (fliegen), sowohl bei Pässen als auch Torschüssen. Nur unter Wasser drücken ist verboten.",
         "source": {
           "citation": "FINA Water Polo Regulations, Ball in Play",
-          "pages": "WP 12.2",
+          "pages": "S. 12-2",
           "chapter": "Rule WP 12"
         },
-        "tags": ["Ball", "Flugbahn", "Spielregeln"],
+        "tags": [
+          "Ball",
+          "Flugbahn",
+          "Spielregeln"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -756,10 +886,14 @@
         "explanation": "Die Gelbe Karte ist eine formelle Verwarnung für unsportliches Verhalten. Eine zweite Gelbe Karte für denselben Spieler führt zu Ausschluss (Rote Karte).",
         "source": {
           "citation": "FINA Water Polo Regulations, Yellow Card",
-          "pages": "WP 22.12",
+          "pages": "S. 22-12",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Gelbe Karte", "Verwarnung", "Misconduct"],
+        "tags": [
+          "Gelbe Karte",
+          "Verwarnung",
+          "Misconduct"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -775,10 +909,14 @@
         "explanation": "Nach jedem Tor wird wie beim Spielbeginn verfahren: Spieler starten von ihrer Torlinie, beim Pfiff schwimmen alle zur Mittellinie wo der Ball liegt.",
         "source": {
           "citation": "FINA Water Polo Regulations, Restart After Goal",
-          "pages": "WP 11.2",
+          "pages": "S. 11-2",
           "chapter": "Rule WP 11"
         },
-        "tags": ["Spielbeginn", "Nach Tor", "Restart"],
+        "tags": [
+          "Spielbeginn",
+          "Nach Tor",
+          "Restart"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -794,10 +932,14 @@
         "explanation": "Verliert ein Spieler seine Kappe, muss er sie schnellstmöglich wieder aufsetzen. Kann er sie nicht erreichen, muss er das Wasser verlassen und darf erst mit Kappe wieder eintreten.",
         "source": {
           "citation": "FINA Water Polo Regulations, Cap Loss",
-          "pages": "WP 5.7",
+          "pages": "S. 5-7",
           "chapter": "Rule WP 5"
         },
-        "tags": ["Kappe", "Verlust", "Spielunterbrechung"],
+        "tags": [
+          "Kappe",
+          "Verlust",
+          "Spielunterbrechung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -813,10 +955,14 @@
         "explanation": "Die 2m-Linie markiert den Bereich 2m vor jedem Tor (gelbe Markierung). Von Freiwürfen innerhalb dieser Zone darf nicht direkt aufs Tor geworfen werden.",
         "source": {
           "citation": "FINA Water Polo Regulations, 2m Area",
-          "pages": "WP 1.4",
+          "pages": "S. 1-4",
           "chapter": "Rule WP 1"
         },
-        "tags": ["2m-Gebiet", "Markierungen", "Freiwurf"],
+        "tags": [
+          "2m-Gebiet",
+          "Markierungen",
+          "Freiwurf"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -832,10 +978,14 @@
         "explanation": "Verboten sind: Fettcremes/Öle (erschweren Greifen), Handschuhe, sowie Gegenstände die Gegner verletzen könnten. Schwimmbrillen und Nasenklammern sind erlaubt.",
         "source": {
           "citation": "FINA Water Polo Regulations, Prohibited Equipment",
-          "pages": "WP 5.5, WP 5.6",
+          "pages": "S. 5-6",
           "chapter": "Rule WP 5"
         },
-        "tags": ["Ausrüstung", "Verboten", "Fairplay"],
+        "tags": [
+          "Ausrüstung",
+          "Verboten",
+          "Fairplay"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -851,10 +1001,14 @@
         "explanation": "Wasting Time ist absichtliches Verzögern (z.B. langsames Ausführen von Freiwürfen). Dies ist ein Ordinary Foul, bei Wiederholung kann es zu Exclusion führen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Wasting Time",
-          "pages": "WP 21.14",
+          "pages": "S. 21-14",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Zeitverschwendung", "Verzögerung", "Fairplay"],
+        "tags": [
+          "Zeitverschwendung",
+          "Verzögerung",
+          "Fairplay"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -870,10 +1024,14 @@
         "explanation": "Der Torwart darf das gesamte Feld nutzen, auch über die Mittellinie. Außerhalb der 5m-Zone gelten für ihn die gleichen Regeln wie für Feldspieler.",
         "source": {
           "citation": "FINA Water Polo Regulations, Goalkeeper Movement",
-          "pages": "WP 15.3, WP 15.4",
+          "pages": "S. 15-4",
           "chapter": "Rule WP 15"
         },
-        "tags": ["Torwart", "Bewegungsfreiheit", "Taktik"],
+        "tags": [
+          "Torwart",
+          "Bewegungsfreiheit",
+          "Taktik"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -889,10 +1047,14 @@
         "explanation": "Wenn die 30-Sekunden-Shot-Clock abläuft ohne Torschuss, geht der Ballbesitz an das gegnerische Team über.",
         "source": {
           "citation": "FINA Water Polo Regulations, Shot Clock Violation",
-          "pages": "WP 20.2",
+          "pages": "S. 20-2",
           "chapter": "Rule WP 20"
         },
-        "tags": ["Shot Clock", "Ballverlust", "Zeitüberschreitung"],
+        "tags": [
+          "Shot Clock",
+          "Ballverlust",
+          "Zeitüberschreitung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -908,10 +1070,14 @@
         "explanation": "Nach einem Penalty bleibt der Ball im Spiel, auch wenn er vom Tor oder Torwart abprallt. Jeder Spieler kann den Rebound spielen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Penalty Rebound",
-          "pages": "WP 23.4",
+          "pages": "S. 23-4",
           "chapter": "Rule WP 23"
         },
-        "tags": ["Penalty", "Rebound", "Spielfortsetzung"],
+        "tags": [
+          "Penalty",
+          "Rebound",
+          "Spielfortsetzung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -927,10 +1093,14 @@
         "explanation": "Jeder Spieler muss seine Kappe tragen, sobald er im Wasser ist, auch Auswechselspieler beim Aufwärmen. Die Kappe muss fest sitzen mit geschlossenem Kinnriemen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Wearing Caps",
-          "pages": "WP 5.4",
+          "pages": "S. 5-4",
           "chapter": "Rule WP 5"
         },
-        "tags": ["Kappen", "Pflicht", "Auswechselspieler"],
+        "tags": [
+          "Kappen",
+          "Pflicht",
+          "Auswechselspieler"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -946,10 +1116,14 @@
         "explanation": "Von Freiwürfen außerhalb der 2m-Linie darf direkt aufs Tor geworfen werden. Innerhalb muss der Ball erst einen anderen Spieler berühren oder mindestens 2m gespielt werden.",
         "source": {
           "citation": "FINA Water Polo Regulations, Free Throw Direct Shot",
-          "pages": "WP 19.1",
+          "pages": "S. 19-1",
           "chapter": "Rule WP 19"
         },
-        "tags": ["Freiwurf", "Direkter Wurf", "2m-Regel"],
+        "tags": [
+          "Freiwurf",
+          "Direkter Wurf",
+          "2m-Regel"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -965,10 +1139,14 @@
         "explanation": "Eine Man-Up (Power-Play) Situation entsteht, wenn das Team in Überzahl spielt, weil ein gegnerischer Spieler ausgeschlossen wurde. Höhere Torwahrscheinlichkeit.",
         "source": {
           "citation": "FINA Water Polo Regulations, Man-Up",
-          "pages": "WP 22.3",
+          "pages": "S. 22-3",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Überzahl", "Man-Up", "Power-Play"],
+        "tags": [
+          "Überzahl",
+          "Man-Up",
+          "Power-Play"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -984,10 +1162,14 @@
         "explanation": "Das Spielfeld muss mindestens 20m lang und 10m breit sein. Die Wassertiefe muss mindestens 1,80m betragen - Spieler dürfen den Boden nicht berühren.",
         "source": {
           "citation": "FINA Water Polo Regulations, Field Dimensions",
-          "pages": "WP 1.1, WP 1.2",
+          "pages": "S. 1-2",
           "chapter": "Rule WP 1"
         },
-        "tags": ["Spielfeld", "Abmessungen", "Mindestmaße"],
+        "tags": [
+          "Spielfeld",
+          "Abmessungen",
+          "Mindestmaße"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1003,10 +1185,14 @@
         "explanation": "Die Re-entry Area ist ein markierter Bereich an der Seite, von dem aus ausgeschlossene Spieler nach Ablauf ihrer Strafe wieder ins Wasser dürfen. Sie dürfen nur von dort und nur beim eigenen Ballbesitz eintreten.",
         "source": {
           "citation": "FINA Water Polo Regulations, Re-entry Area",
-          "pages": "WP 22.4",
+          "pages": "S. 22-4",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Re-entry", "Wiedereintritt", "Markierungen"],
+        "tags": [
+          "Re-entry",
+          "Wiedereintritt",
+          "Markierungen"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1022,10 +1208,14 @@
         "explanation": "Bei einem Double Exclusion werden Spieler beider Teams gleichzeitig ausgeschlossen. Beide müssen 20 Sekunden raus, die Teams spielen weiter in gleicher Stärke (z.B. 6 gegen 6).",
         "source": {
           "citation": "FINA Water Polo Regulations, Simultaneous Exclusions",
-          "pages": "WP 22.8",
+          "pages": "S. 22-8",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Double Exclusion", "Gleichzeitig", "Unterzahl"],
+        "tags": [
+          "Double Exclusion",
+          "Gleichzeitig",
+          "Unterzahl"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1041,10 +1231,14 @@
         "explanation": "Der Ball ist im Aus, wenn er die Spielfläche komplett verlässt, die Deckenkonstruktion berührt, oder vom Schiedsrichter gestoppt wird.",
         "source": {
           "citation": "FINA Water Polo Regulations, Ball Out",
-          "pages": "WP 12.1",
+          "pages": "S. 12-1",
           "chapter": "Rule WP 12"
         },
-        "tags": ["Aus", "Spielunterbrechung", "Grenzen"],
+        "tags": [
+          "Aus",
+          "Spielunterbrechung",
+          "Grenzen"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1060,10 +1254,14 @@
         "explanation": "Nach Disqualifikation (außer Brutality) darf ein Ersatz nach 4 Minuten Spielzeit ODER nach 2 Toren des Gegners eintreten, je nachdem was zuerst eintritt.",
         "source": {
           "citation": "FINA Water Polo Regulations, Substitution After Disqualification",
-          "pages": "WP 22.16",
+          "pages": "S. 22-16",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Disqualifikation", "Ersatz", "4-Minuten-Regel"],
+        "tags": [
+          "Disqualifikation",
+          "Ersatz",
+          "4-Minuten-Regel"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1079,10 +1277,14 @@
         "explanation": "Pulling Back ist das Zurückziehen oder Festhalten eines Gegners, besonders von hinten. Dies ist mindestens ein Ordinary Foul, kann aber zum Exclusion Foul werden wenn eine Torchance verhindert wird.",
         "source": {
           "citation": "FINA Water Polo Regulations, Pulling Back",
-          "pages": "WP 21.5",
+          "pages": "S. 21-5",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Pulling Back", "Festhalten", "Foul"],
+        "tags": [
+          "Pulling Back",
+          "Festhalten",
+          "Foul"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1098,10 +1300,14 @@
         "explanation": "Mit dem Ball komplett unterzutauchen oder den Ball unter Wasser zu bringen ist ein Ordinary Foul. Der Ball muss stets an der Wasseroberfläche bleiben.",
         "source": {
           "citation": "FINA Water Polo Regulations, Taking Ball Under",
-          "pages": "WP 21.8",
+          "pages": "S. 21-8",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Untertauchen", "Ball", "Ordinary Foul"],
+        "tags": [
+          "Untertauchen",
+          "Ball",
+          "Ordinary Foul"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1117,10 +1323,14 @@
         "explanation": "Delay of Game ist absichtliches Verzögern des Spielflusses. Dies wird als Ordinary Foul geahndet, wiederholtes Verzögern kann zu schwereren Strafen führen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Delay",
-          "pages": "WP 21.14",
+          "pages": "S. 21-14",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Verzögerung", "Delay", "Ordinary Foul"],
+        "tags": [
+          "Verzögerung",
+          "Delay",
+          "Ordinary Foul"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1136,10 +1346,14 @@
         "explanation": "Persistent Fouling ist wiederholtes, systematisches Foulen. Dies kann von Ordinary zu Exclusion Foul hochgestuft werden oder zu Misconduct-Strafen führen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Persistent Fouling",
-          "pages": "WP 22.6",
+          "pages": "S. 22-6",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Persistent Fouling", "Wiederholtes Foulen", "Eskalation"],
+        "tags": [
+          "Persistent Fouling",
+          "Wiederholtes Foulen",
+          "Eskalation"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1155,10 +1369,14 @@
         "explanation": "Es gibt keine Begrenzung der Auswechslungen. Spieler können während Spielunterbrechungen beliebig oft gewechselt werden, solange die Auswechselregeln beachtet werden.",
         "source": {
           "citation": "FINA Water Polo Regulations, Substitutions",
-          "pages": "WP 8.1",
+          "pages": "S. 8-1",
           "chapter": "Rule WP 8"
         },
-        "tags": ["Auswechslung", "Unbegrenzt", "Spielerwechsel"],
+        "tags": [
+          "Auswechslung",
+          "Unbegrenzt",
+          "Spielerwechsel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1174,10 +1392,14 @@
         "explanation": "Der Center Forward (auch 'Hole Set' oder 'Center') ist die taktisch wichtige Position zentral vor dem gegnerischen Tor. Dieser Spieler ist oft Zielpunkt für Pässe und Torschüsse.",
         "source": {
           "citation": "FINA Water Polo Regulations, Positions",
-          "pages": "WP 14.3",
+          "pages": "S. 14-3",
           "chapter": "Rule WP 14"
         },
-        "tags": ["Center Forward", "Position", "Taktik"],
+        "tags": [
+          "Center Forward",
+          "Position",
+          "Taktik"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1193,10 +1415,14 @@
         "explanation": "Blocking ist das Behindern oder Blockieren der Bewegung eines Gegners, der nicht aktiv am Ballspiel beteiligt ist. Dies ist ein Ordinary Foul.",
         "source": {
           "citation": "FINA Water Polo Regulations, Blocking",
-          "pages": "WP 21.1",
+          "pages": "S. 21-1",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Blocking", "Behinderung", "Ordinary Foul"],
+        "tags": [
+          "Blocking",
+          "Behinderung",
+          "Ordinary Foul"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1212,10 +1438,14 @@
         "explanation": "Zwischen dem 1./2. und 3./4. Viertel gibt es jeweils 2 Minuten Pause. Die Halbzeitpause (zwischen 2. und 3. Viertel) dauert 5 Minuten.",
         "source": {
           "citation": "FINA Water Polo Regulations, Intervals",
-          "pages": "WP 10.2",
+          "pages": "S. 10-2",
           "chapter": "Rule WP 10"
         },
-        "tags": ["Pausen", "Halbzeit", "Zeitregeln"],
+        "tags": [
+          "Pausen",
+          "Halbzeit",
+          "Zeitregeln"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1231,10 +1461,14 @@
         "explanation": "Eine Rote Karte wird gezeigt bei der zweiten Gelben Karte für denselben Spieler/Offiziellen oder direkt bei besonders schwerem unsportlichem Verhalten. Der Betroffene muss das Spielfeld verlassen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Red Card",
-          "pages": "WP 22.12",
+          "pages": "S. 22-12",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Rote Karte", "Ausschluss", "Misconduct"],
+        "tags": [
+          "Rote Karte",
+          "Ausschluss",
+          "Misconduct"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1250,10 +1484,14 @@
         "explanation": "Das Berühren des Poolbodens während des Spiels ist ein Ordinary Foul. Die Mindesttiefe von 1,80m soll dies verhindern, aber auch in tieferem Wasser ist es verboten.",
         "source": {
           "citation": "FINA Water Polo Regulations, Standing on Bottom",
-          "pages": "WP 21.12",
+          "pages": "S. 21-12",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Boden", "Berühren", "Ordinary Foul"],
+        "tags": [
+          "Boden",
+          "Berühren",
+          "Ordinary Foul"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1269,29 +1507,37 @@
         "explanation": "Ungentlemanly Conduct (unsportliches Verhalten) umfasst Beleidigungen, Provokationen, Respektlosigkeit gegenüber Offiziellen. Dies wird mit Gelber oder Roter Karte bestraft.",
         "source": {
           "citation": "FINA Water Polo Regulations, Ungentlemanly Conduct",
-          "pages": "WP 22.11",
+          "pages": "S. 22-11",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Unsportlich", "Verhalten", "Misconduct"],
+        "tags": [
+          "Unsportlich",
+          "Verhalten",
+          "Misconduct"
+        ],
         "difficulty": "leicht"
       },
       {
         "id": "q66",
         "text": "Welche Farbe hat die 5m-Linie?",
         "options": [
-          "Rot",
-          "Gelb",
-          "Weiß",
-          "Blau"
+          "Eine Lösung für rot",
+          "Eine Lösung für gelb",
+          "Eine Lösung für weiß",
+          "Eine Lösung für blau"
         ],
         "correctIndex": 0,
         "explanation": "Die 5m-Linie wird in Rot markiert. Sie definiert den Bereich, in dem der Torwart seine besonderen Rechte (beide Hände) hat.",
         "source": {
           "citation": "FINA Water Polo Regulations, 5m Line Marking",
-          "pages": "WP 1.4",
+          "pages": "S. 1-4",
           "chapter": "Rule WP 1"
         },
-        "tags": ["5m-Linie", "Rot", "Markierungen"],
+        "tags": [
+          "5m-Linie",
+          "Rot",
+          "Markierungen"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1307,10 +1553,14 @@
         "explanation": "Ein Team darf einen Timeout nehmen, wenn es im Ballbesitz ist - unabhängig davon, ob es in Unterzahl oder voller Stärke spielt.",
         "source": {
           "citation": "FINA Water Polo Regulations, Timeout Conditions",
-          "pages": "WP 26.2",
+          "pages": "S. 26-2",
           "chapter": "Rule WP 26"
         },
-        "tags": ["Timeout", "Unterzahl", "Ballbesitz"],
+        "tags": [
+          "Timeout",
+          "Unterzahl",
+          "Ballbesitz"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1326,10 +1576,14 @@
         "explanation": "Der Swim-Off ist der Sprint vom eigenen Tor zur Mittellinie beim Spielbeginn und nach jedem Tor. Das schnellere Team gewinnt den Ballbesitz.",
         "source": {
           "citation": "FINA Water Polo Regulations, Swim-Off",
-          "pages": "WP 11.1",
+          "pages": "S. 11-1",
           "chapter": "Rule WP 11"
         },
-        "tags": ["Swim-Off", "Spielbeginn", "Sprint"],
+        "tags": [
+          "Swim-Off",
+          "Spielbeginn",
+          "Sprint"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1345,10 +1599,14 @@
         "explanation": "Wenn die verteidigende Mannschaft in den letzten 30 Sekunden der Angriffszeit ein Exclusion Foul begeht, wird die Shot Clock auf 20 Sekunden zurückgesetzt.",
         "source": {
           "citation": "FINA Water Polo Regulations, 20-Second Reset Rule",
-          "pages": "WP 20.3",
+          "pages": "S. 20-3",
           "chapter": "Rule WP 20"
         },
-        "tags": ["Shot Clock", "20-Sekunden-Reset", "Letzte 30 Sekunden"],
+        "tags": [
+          "Shot Clock",
+          "20-Sekunden-Reset",
+          "Letzte 30 Sekunden"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1364,10 +1622,14 @@
         "explanation": "Ein ausgeschlossener Spieler muss in der Re-entry Area warten bis seine Strafe abgelaufen ist. Zu frühes Betreten des Wassers ist ein schweres Vergehen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Illegal Re-entry",
-          "pages": "WP 22.9",
+          "pages": "S. 22-9",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Re-entry", "Zu frühes Eintreten", "Regelverstöße"],
+        "tags": [
+          "Re-entry",
+          "Zu frühes Eintreten",
+          "Regelverstöße"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1383,10 +1645,14 @@
         "explanation": "Der Torwart darf den Ball innerhalb der 5m-Zone auch mit der Faust schlagen oder boxen. Außerhalb der 5m-Zone gelten die normalen Regeln.",
         "source": {
           "citation": "FINA Water Polo Regulations, Goalkeeper Ball Handling",
-          "pages": "WP 15.3",
+          "pages": "S. 15-3",
           "chapter": "Rule WP 15"
         },
-        "tags": ["Torwart", "Faust", "5m-Zone"],
+        "tags": [
+          "Torwart",
+          "Faust",
+          "5m-Zone"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1402,10 +1668,14 @@
         "explanation": "Disrespect (Respektlosigkeit) gegenüber Schiedsrichtern, Offiziellen oder Gegnern wird als Misconduct gewertet und mit Gelber/Roter Karte bestraft.",
         "source": {
           "citation": "FINA Water Polo Regulations, Disrespect",
-          "pages": "WP 22.11",
+          "pages": "S. 22-11",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Disrespect", "Respektlosigkeit", "Misconduct"],
+        "tags": [
+          "Disrespect",
+          "Respektlosigkeit",
+          "Misconduct"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1421,10 +1691,14 @@
         "explanation": "Goal Throw: Torwart-Einwurf von 2m-Linie wenn Angreifer den Ball über Torlinie spielt. Corner Throw: Angreifer-Einwurf von 2m-Linie wenn Verteidiger (nicht Torwart) über Torlinie spielt.",
         "source": {
           "citation": "FINA Water Polo Regulations, Goal vs Corner Throw",
-          "pages": "WP 19.2, WP 19.3",
+          "pages": "S. 19-3",
           "chapter": "Rule WP 19"
         },
-        "tags": ["Goal Throw", "Corner Throw", "Unterschied"],
+        "tags": [
+          "Goal Throw",
+          "Corner Throw",
+          "Unterschied"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1440,10 +1714,14 @@
         "explanation": "Von den 13 registrierten Spielern sind 7 im Wasser und 6 auf der Bank als Auswechselspieler. Dazu kommen Trainer und Betreuer.",
         "source": {
           "citation": "FINA Water Polo Regulations, Team Bench",
-          "pages": "WP 4.2",
+          "pages": "S. 4-2",
           "chapter": "Rule WP 4"
         },
-        "tags": ["Teambank", "Auswechselspieler", "Organisation"],
+        "tags": [
+          "Teambank",
+          "Auswechselspieler",
+          "Organisation"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1459,10 +1737,14 @@
         "explanation": "Wenn ein Torwart in den letzten Sekunden der Angriffszeit (wenn Shot Clock unter 5 Sekunden) ein Foul begeht, gibt es einen Penalty, auch wenn keine klare Torchance bestand.",
         "source": {
           "citation": "FINA Water Polo Regulations, Goalkeeper Penalty",
-          "pages": "WP 23.2",
+          "pages": "S. 23-2",
           "chapter": "Rule WP 23"
         },
-        "tags": ["Torwart-Penalty", "Shot Clock", "Letzte Sekunden"],
+        "tags": [
+          "Torwart-Penalty",
+          "Shot Clock",
+          "Letzte Sekunden"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1478,10 +1760,14 @@
         "explanation": "Ein Spieler darf nicht mit dem Ball komplett unter Wasser schwimmen oder tauchen. Der Ball muss stets an der Oberfläche und für alle sichtbar sein.",
         "source": {
           "citation": "FINA Water Polo Regulations, Swimming Under Water with Ball",
-          "pages": "WP 21.8",
+          "pages": "S. 21-8",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Untertauchen", "Ball", "Sichtbarkeit"],
+        "tags": [
+          "Untertauchen",
+          "Ball",
+          "Sichtbarkeit"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1497,10 +1783,14 @@
         "explanation": "Ein Penalty Foul ist jedes Foul, das zu einem Strafwurf führt: Verhinderung wahrscheinlichen Tores, Torwart-Foul in letzten Sekunden, oder Betreten des Tors während Verteidigung.",
         "source": {
           "citation": "FINA Water Polo Regulations, Penalty Foul Definition",
-          "pages": "WP 23.1, WP 23.2",
+          "pages": "S. 23-2",
           "chapter": "Rule WP 23"
         },
-        "tags": ["Penalty Foul", "Definition", "Strafwurf"],
+        "tags": [
+          "Penalty Foul",
+          "Definition",
+          "Strafwurf"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1516,10 +1806,14 @@
         "explanation": "Ein Tor zählt auch wenn es vom Torwart berührt wurde, solange es die Torlinie vollständig überquert. Die Berührung spielt keine Rolle.",
         "source": {
           "citation": "FINA Water Polo Regulations, Goal Validity",
-          "pages": "WP 18.1",
+          "pages": "S. 18-1",
           "chapter": "Rule WP 18"
         },
-        "tags": ["Tor", "Torwart-Berührung", "Gültigkeit"],
+        "tags": [
+          "Tor",
+          "Torwart-Berührung",
+          "Gültigkeit"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1535,10 +1829,14 @@
         "explanation": "Obstruction ist das Behindern eines Gegners durch die eigene Körperposition, ohne selbst aktiv am Ball zu sein. Dies ist ein Ordinary Foul.",
         "source": {
           "citation": "FINA Water Polo Regulations, Obstruction",
-          "pages": "WP 21.6",
+          "pages": "S. 21-6",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Obstruction", "Behinderung", "Positionierung"],
+        "tags": [
+          "Obstruction",
+          "Behinderung",
+          "Positionierung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1554,10 +1852,14 @@
         "explanation": "Beim Penaltyschießen schießen erst je 5 Spieler pro Team. Bei Gleichstand danach folgt Sudden Death: Das erste Team das nach gleicher Anzahl Schüsse führt, gewinnt.",
         "source": {
           "citation": "FINA Water Polo Regulations, Penalty Shootout Procedure",
-          "pages": "WP 10.7",
+          "pages": "S. 10-7",
           "chapter": "Rule WP 10"
         },
-        "tags": ["Penaltyschießen", "Sudden Death", "Entscheidungsverfahren"],
+        "tags": [
+          "Penaltyschießen",
+          "Sudden Death",
+          "Entscheidungsverfahren"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1573,10 +1875,14 @@
         "explanation": "Die Shot Clock beginnt zu laufen, sobald ein Team die Kontrolle über den Ball erlangt. Bei Ballbesitzwechsel wird sie auf 30 Sekunden zurückgesetzt.",
         "source": {
           "citation": "FINA Water Polo Regulations, Shot Clock Start",
-          "pages": "WP 20.1",
+          "pages": "S. 20-1",
           "chapter": "Rule WP 20"
         },
-        "tags": ["Shot Clock", "Start", "Ballkontrolle"],
+        "tags": [
+          "Shot Clock",
+          "Start",
+          "Ballkontrolle"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1592,10 +1898,14 @@
         "explanation": "Während eines Timeouts dürfen die Spieler im Wasser bleiben. Sie dürfen aber auch zur Bank schwimmen für Anweisungen vom Trainer.",
         "source": {
           "citation": "FINA Water Polo Regulations, Timeout Procedure",
-          "pages": "WP 26.3",
+          "pages": "S. 26-3",
           "chapter": "Rule WP 26"
         },
-        "tags": ["Timeout", "Spieler", "Wasser"],
+        "tags": [
+          "Timeout",
+          "Spieler",
+          "Wasser"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1611,10 +1921,14 @@
         "explanation": "Wenn ein Feldspieler den Ball mit beiden Händen gleichzeitig berührt oder hält, ist dies ein Ordinary Foul. Nur der Torwart darf in der 5m-Zone beide Hände verwenden.",
         "source": {
           "citation": "FINA Water Polo Regulations, Two Hands",
-          "pages": "WP 15.2",
+          "pages": "S. 15-2",
           "chapter": "Rule WP 15"
         },
-        "tags": ["Zwei Hände", "Feldspieler", "Ordinary Foul"],
+        "tags": [
+          "Zwei Hände",
+          "Feldspieler",
+          "Ordinary Foul"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1630,10 +1944,14 @@
         "explanation": "Ein Probable Goal (wahrscheinliches Tor) ist eine Situation, in der ein Spieler eine klare, ungehinderte Torchance hätte. Wird diese durch ein Foul verhindert, gibt es einen Penalty.",
         "source": {
           "citation": "FINA Water Polo Regulations, Probable Goal",
-          "pages": "WP 23.1",
+          "pages": "S. 23-1",
           "chapter": "Rule WP 23"
         },
-        "tags": ["Probable Goal", "Torchance", "Penalty"],
+        "tags": [
+          "Probable Goal",
+          "Torchance",
+          "Penalty"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1649,10 +1967,14 @@
         "explanation": "Nach einer Verletzungsunterbrechung wird das Spiel fortgesetzt wie vor der Unterbrechung: Bei klarem Ballbesitz mit Freiwurf für dieses Team, sonst mit Neutral Throw.",
         "source": {
           "citation": "FINA Water Polo Regulations, Injury",
-          "pages": "WP 9.1",
+          "pages": "S. 9-1",
           "chapter": "Rule WP 9"
         },
-        "tags": ["Verletzung", "Spielfortsetzung", "Neutral Throw"],
+        "tags": [
+          "Verletzung",
+          "Spielfortsetzung",
+          "Neutral Throw"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1668,10 +1990,14 @@
         "explanation": "Das absichtliche Herunterziehen oder Entfernen der Kappe eines Gegners ist mindestens ein Ordinary Foul, kann aber je nach Situation ein Exclusion Foul sein.",
         "source": {
           "citation": "FINA Water Polo Regulations, Pulling Cap",
-          "pages": "WP 21.3",
+          "pages": "S. 21-3",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Kappe", "Herunterziehen", "Foul"],
+        "tags": [
+          "Kappe",
+          "Herunterziehen",
+          "Foul"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1687,10 +2013,14 @@
         "explanation": "Die Half-Distance Line (Mittellinie) teilt das Spielfeld in zwei gleiche Hälften und ist in Weiß markiert. Sie ist wichtig für die Torwart-Regel (Ball nicht direkt über Mittellinie werfen).",
         "source": {
           "citation": "FINA Water Polo Regulations, Half-Distance Line",
-          "pages": "WP 1.3",
+          "pages": "S. 1-3",
           "chapter": "Rule WP 1"
         },
-        "tags": ["Mittellinie", "Half-Distance", "Weiß"],
+        "tags": [
+          "Mittellinie",
+          "Half-Distance",
+          "Weiß"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1706,10 +2036,14 @@
         "explanation": "Attacking Play bezeichnet die Angriffsphase, in der ein Team im Ballbesitz ist und versucht, innerhalb der 30 Sekunden Shot Clock ein Tor zu erzielen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Attacking",
-          "pages": "WP 14.2",
+          "pages": "S. 14-2",
           "chapter": "Rule WP 14"
         },
-        "tags": ["Angriff", "Ballbesitz", "Taktik"],
+        "tags": [
+          "Angriff",
+          "Ballbesitz",
+          "Taktik"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1725,10 +2059,14 @@
         "explanation": "Violent Conduct (gewalttätiges Verhalten) ist ähnlich wie Brutality: vorsätzliche Gewalt gegen Spieler. Es führt zu sofortiger Disqualifikation, Penalty für den Gegner und Spielsperre.",
         "source": {
           "citation": "FINA Water Polo Regulations, Violent Conduct",
-          "pages": "WP 22.13",
+          "pages": "S. 22-13",
           "chapter": "Rule WP 22"
         },
-        "tags": ["Violent Conduct", "Gewalt", "Disqualifikation"],
+        "tags": [
+          "Violent Conduct",
+          "Gewalt",
+          "Disqualifikation"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1744,10 +2082,14 @@
         "explanation": "Wasserball-Schiedsrichter verwenden ein umfangreiches System von über 30 standardisierten Handsignalen, um Fouls, Spielsituationen und Entscheidungen zu kommunizieren.",
         "source": {
           "citation": "FINA Water Polo Regulations, Referee Signals",
-          "pages": "WP 16",
+          "pages": "S. 16",
           "chapter": "Rule WP 16"
         },
-        "tags": ["Schiedsrichter", "Signale", "Kommunikation"],
+        "tags": [
+          "Schiedsrichter",
+          "Signale",
+          "Kommunikation"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1763,10 +2105,14 @@
         "explanation": "Bei gleichzeitigen Fouls beider Teams (Double Foul) wird ein Neutral Throw an der Stelle gegeben, wo die Fouls auftraten. Waren es Exclusion Fouls, werden beide Spieler ausgeschlossen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Simultaneous Fouls",
-          "pages": "WP 19.4",
+          "pages": "S. 19-4",
           "chapter": "Rule WP 19"
         },
-        "tags": ["Gleichzeitige Fouls", "Neutral Throw", "Double Foul"],
+        "tags": [
+          "Gleichzeitige Fouls",
+          "Neutral Throw",
+          "Double Foul"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1782,10 +2128,14 @@
         "explanation": "Beim Penalty oder Penaltyschießen darf jeder Spieler, der zum Zeitpunkt der Zusprechung im Wasser war, den Schuss ausführen - auch der Torwart.",
         "source": {
           "citation": "FINA Water Polo Regulations, Penalty Taker",
-          "pages": "WP 23.3",
+          "pages": "S. 23-3",
           "chapter": "Rule WP 23"
         },
-        "tags": ["Penalty", "Torwart", "Schütze"],
+        "tags": [
+          "Penalty",
+          "Torwart",
+          "Schütze"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1801,10 +2151,14 @@
         "explanation": "Wenn ein Verteidiger das Tor von hinten betritt während der Gegner angreift (z.B. hängt sich rein), ist dies ein Penalty Foul. Das Tor soll von vorne verteidigt werden.",
         "source": {
           "citation": "FINA Water Polo Regulations, Entering Goal",
-          "pages": "WP 23.2",
+          "pages": "S. 23-2",
           "chapter": "Rule WP 23"
         },
-        "tags": ["Entering Goal", "Penalty", "Verteidigung"],
+        "tags": [
+          "Entering Goal",
+          "Penalty",
+          "Verteidigung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1820,10 +2174,14 @@
         "explanation": "Die Verlängerung bei K.O.-Spielen besteht aus 2 Vierteln à 3 Minuten mit 2 Minuten Pause dazwischen. Jedes Team erhält 1 zusätzlichen Timeout.",
         "source": {
           "citation": "FINA Water Polo Regulations, Extra Time Duration",
-          "pages": "WP 10.4",
+          "pages": "S. 10-4",
           "chapter": "Rule WP 10"
         },
-        "tags": ["Verlängerung", "Dauer", "Overtime"],
+        "tags": [
+          "Verlängerung",
+          "Dauer",
+          "Overtime"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1839,10 +2197,14 @@
         "explanation": "Ein Free Throw (Freiwurf) wird nach Ordinary Fouls vergeben. Der Ball wird an der Stelle ins Spiel gebracht, wo das Foul auftrat (nicht näher als 2m vom Tor).",
         "source": {
           "citation": "FINA Water Polo Regulations, Free Throw",
-          "pages": "WP 19.1",
+          "pages": "S. 19-1",
           "chapter": "Rule WP 19"
         },
-        "tags": ["Free Throw", "Freiwurf", "Ordinary Foul"],
+        "tags": [
+          "Free Throw",
+          "Freiwurf",
+          "Ordinary Foul"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1858,10 +2220,14 @@
         "explanation": "Normale Schwimmbewegungen mit den Beinen (Kraulbeinschlag, Wassertreten) sind erlaubt. Absichtliches Treten oder Schlagen von Gegnern ist jedoch ein Foul.",
         "source": {
           "citation": "FINA Water Polo Regulations, Swimming Actions",
-          "pages": "WP 14.1",
+          "pages": "S. 14-1",
           "chapter": "Rule WP 14"
         },
-        "tags": ["Schwimmen", "Beinarbeit", "Erlaubt"],
+        "tags": [
+          "Schwimmen",
+          "Beinarbeit",
+          "Erlaubt"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1877,10 +2243,14 @@
         "explanation": "Ball Under Water bedeutet, den Ball ganz oder teilweise unter die Wasseroberfläche zu drücken. Dies ist immer ein Ordinary Foul, da der Ball für alle Spieler sichtbar und erreichbar sein muss.",
         "source": {
           "citation": "FINA Water Polo Regulations, Ball Under Water Definition",
-          "pages": "WP 21.8",
+          "pages": "S. 21-8",
           "chapter": "Rule WP 21"
         },
-        "tags": ["Ball Under Water", "Definition", "Sichtbarkeit"],
+        "tags": [
+          "Ball Under Water",
+          "Definition",
+          "Sichtbarkeit"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1896,10 +2266,14 @@
         "explanation": "Nach jedem Viertel wechseln die Teams die Seiten (Ends). Dies sorgt für faire Bedingungen bei unterschiedlichen Pool-Bedingungen (Licht, Tiefe, etc.).",
         "source": {
           "citation": "FINA Water Polo Regulations, Changing Ends",
-          "pages": "WP 10.3",
+          "pages": "S. 10-3",
           "chapter": "Rule WP 10"
         },
-        "tags": ["Seitenwechsel", "Viertel", "Fairness"],
+        "tags": [
+          "Seitenwechsel",
+          "Viertel",
+          "Fairness"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1915,10 +2289,14 @@
         "explanation": "Bei der Ausführung eines Freiwurfs müssen gegnerische Spieler mindestens 2 Meter vom Ball entfernt sein. Nicht-Einhalten kann zu Interference (Exclusion Foul) führen.",
         "source": {
           "citation": "FINA Water Polo Regulations, Free Throw Distance",
-          "pages": "WP 19.5",
+          "pages": "S. 19-5",
           "chapter": "Rule WP 19"
         },
-        "tags": ["Freiwurf", "Abstand", "2 Meter"],
+        "tags": [
+          "Freiwurf",
+          "Abstand",
+          "2 Meter"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1934,12 +2312,20 @@
         "explanation": "Die zwei Torrichter (je einer pro Tor) sind verantwortlich für: Bestätigung von Toren, Erkennen von Aus-Situationen an der Torlinie, und Melden von Fouls die hinter dem Tor außerhalb der Sicht der Schiedsrichter passieren.",
         "source": {
           "citation": "FINA Water Polo Regulations, Goal Judges",
-          "pages": "WP 13.2",
+          "pages": "S. 13-2",
           "chapter": "Rule WP 13"
         },
-        "tags": ["Torrichter", "Verantwortlichkeiten", "Offizielle"],
+        "tags": [
+          "Torrichter",
+          "Verantwortlichkeiten",
+          "Offizielle"
+        ],
         "difficulty": "mittel"
       }
-    ]
+    ],
+    "metadata": {
+      "createdAt": "2025-10-17T13:46:01.365130Z",
+      "notes": "Quiz optimiert und validiert"
+    }
   }
 }

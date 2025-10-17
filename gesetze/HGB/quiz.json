@@ -69,12 +69,12 @@
       },
       {
         "id": "q3",
-        "text": "Platzhalter-Frage 3 zum HGB.",
+        "text": "Platzhalter-Frage 3 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 3.",
@@ -91,12 +91,12 @@
       },
       {
         "id": "q4",
-        "text": "Platzhalter-Frage 4 zum HGB.",
+        "text": "Platzhalter-Frage 4 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 4.",
@@ -113,12 +113,12 @@
       },
       {
         "id": "q5",
-        "text": "Platzhalter-Frage 5 zum HGB.",
+        "text": "Platzhalter-Frage 5 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 5.",
@@ -135,12 +135,12 @@
       },
       {
         "id": "q6",
-        "text": "Platzhalter-Frage 6 zum HGB.",
+        "text": "Platzhalter-Frage 6 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 6.",
@@ -157,12 +157,12 @@
       },
       {
         "id": "q7",
-        "text": "Platzhalter-Frage 7 zum HGB.",
+        "text": "Platzhalter-Frage 7 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 7.",
@@ -179,12 +179,12 @@
       },
       {
         "id": "q8",
-        "text": "Platzhalter-Frage 8 zum HGB.",
+        "text": "Platzhalter-Frage 8 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 8.",
@@ -201,12 +201,12 @@
       },
       {
         "id": "q9",
-        "text": "Platzhalter-Frage 9 zum HGB.",
+        "text": "Platzhalter-Frage 9 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 9.",
@@ -223,12 +223,12 @@
       },
       {
         "id": "q10",
-        "text": "Platzhalter-Frage 10 zum HGB.",
+        "text": "Platzhalter-Frage 10 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 10.",
@@ -245,12 +245,12 @@
       },
       {
         "id": "q11",
-        "text": "Platzhalter-Frage 11 zum HGB.",
+        "text": "Platzhalter-Frage 11 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 11.",
@@ -267,12 +267,12 @@
       },
       {
         "id": "q12",
-        "text": "Platzhalter-Frage 12 zum HGB.",
+        "text": "Platzhalter-Frage 12 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 12.",
@@ -289,12 +289,12 @@
       },
       {
         "id": "q13",
-        "text": "Platzhalter-Frage 13 zum HGB.",
+        "text": "Platzhalter-Frage 13 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 13.",
@@ -311,12 +311,12 @@
       },
       {
         "id": "q14",
-        "text": "Platzhalter-Frage 14 zum HGB.",
+        "text": "Platzhalter-Frage 14 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 14.",
@@ -333,12 +333,12 @@
       },
       {
         "id": "q15",
-        "text": "Platzhalter-Frage 15 zum HGB.",
+        "text": "Platzhalter-Frage 15 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 15.",
@@ -355,12 +355,12 @@
       },
       {
         "id": "q16",
-        "text": "Platzhalter-Frage 16 zum HGB.",
+        "text": "Platzhalter-Frage 16 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 16.",
@@ -377,12 +377,12 @@
       },
       {
         "id": "q17",
-        "text": "Platzhalter-Frage 17 zum HGB.",
+        "text": "Platzhalter-Frage 17 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 17.",
@@ -399,12 +399,12 @@
       },
       {
         "id": "q18",
-        "text": "Platzhalter-Frage 18 zum HGB.",
+        "text": "Platzhalter-Frage 18 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 18.",
@@ -421,12 +421,12 @@
       },
       {
         "id": "q19",
-        "text": "Platzhalter-Frage 19 zum HGB.",
+        "text": "Platzhalter-Frage 19 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 19.",
@@ -443,12 +443,12 @@
       },
       {
         "id": "q20",
-        "text": "Platzhalter-Frage 20 zum HGB.",
+        "text": "Platzhalter-Frage 20 zum HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 20.",
@@ -534,12 +534,12 @@
       },
       {
         "id": "q24",
-        "text": "Platzhalter-Frage 24 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 24 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 24.",
@@ -556,12 +556,12 @@
       },
       {
         "id": "q25",
-        "text": "Platzhalter-Frage 25 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 25 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 25.",
@@ -578,12 +578,12 @@
       },
       {
         "id": "q26",
-        "text": "Platzhalter-Frage 26 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 26 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 26.",
@@ -600,12 +600,12 @@
       },
       {
         "id": "q27",
-        "text": "Platzhalter-Frage 27 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 27 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 27.",
@@ -622,12 +622,12 @@
       },
       {
         "id": "q28",
-        "text": "Platzhalter-Frage 28 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 28 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 28.",
@@ -644,12 +644,12 @@
       },
       {
         "id": "q29",
-        "text": "Platzhalter-Frage 29 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 29 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 29.",
@@ -666,12 +666,12 @@
       },
       {
         "id": "q30",
-        "text": "Platzhalter-Frage 30 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 30 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 30.",
@@ -688,12 +688,12 @@
       },
       {
         "id": "q31",
-        "text": "Platzhalter-Frage 31 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 31 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 31.",
@@ -710,12 +710,12 @@
       },
       {
         "id": "q32",
-        "text": "Platzhalter-Frage 32 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 32 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 32.",
@@ -732,12 +732,12 @@
       },
       {
         "id": "q33",
-        "text": "Platzhalter-Frage 33 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 33 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 33.",
@@ -754,12 +754,12 @@
       },
       {
         "id": "q34",
-        "text": "Platzhalter-Frage 34 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 34 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 34.",
@@ -776,12 +776,12 @@
       },
       {
         "id": "q35",
-        "text": "Platzhalter-Frage 35 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 35 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 35.",
@@ -798,12 +798,12 @@
       },
       {
         "id": "q36",
-        "text": "Platzhalter-Frage 36 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 36 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 36.",
@@ -820,12 +820,12 @@
       },
       {
         "id": "q37",
-        "text": "Platzhalter-Frage 37 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 37 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 37.",
@@ -842,12 +842,12 @@
       },
       {
         "id": "q38",
-        "text": "Platzhalter-Frage 38 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 38 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 38.",
@@ -864,12 +864,12 @@
       },
       {
         "id": "q39",
-        "text": "Platzhalter-Frage 39 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 39 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 39.",
@@ -886,12 +886,12 @@
       },
       {
         "id": "q40",
-        "text": "Platzhalter-Frage 40 zu speziellen HGB-Regeln.",
+        "text": "Platzhalter-Frage 40 zu speziellen HGB-Regeln?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 2,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 40.",
@@ -977,12 +977,12 @@
       },
       {
         "id": "q44",
-        "text": "Platzhalter-Frage 44 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 44 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 44.",
@@ -999,12 +999,12 @@
       },
       {
         "id": "q45",
-        "text": "Platzhalter-Frage 45 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 45 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 45.",
@@ -1021,12 +1021,12 @@
       },
       {
         "id": "q46",
-        "text": "Platzhalter-Frage 46 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 46 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 46.",
@@ -1043,12 +1043,12 @@
       },
       {
         "id": "q47",
-        "text": "Platzhalter-Frage 47 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 47 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 47.",
@@ -1065,12 +1065,12 @@
       },
       {
         "id": "q48",
-        "text": "Platzhalter-Frage 48 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 48 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 48.",
@@ -1087,12 +1087,12 @@
       },
       {
         "id": "q49",
-        "text": "Platzhalter-Frage 49 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 49 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 49.",
@@ -1109,12 +1109,12 @@
       },
       {
         "id": "q50",
-        "text": "Platzhalter-Frage 50 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 50 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 50.",
@@ -1131,12 +1131,12 @@
       },
       {
         "id": "q51",
-        "text": "Platzhalter-Frage 51 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 51 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 51.",
@@ -1153,12 +1153,12 @@
       },
       {
         "id": "q52",
-        "text": "Platzhalter-Frage 52 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 52 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 52.",
@@ -1175,12 +1175,12 @@
       },
       {
         "id": "q53",
-        "text": "Platzhalter-Frage 53 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 53 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 53.",
@@ -1197,12 +1197,12 @@
       },
       {
         "id": "q54",
-        "text": "Platzhalter-Frage 54 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 54 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 54.",
@@ -1219,12 +1219,12 @@
       },
       {
         "id": "q55",
-        "text": "Platzhalter-Frage 55 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 55 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 55.",
@@ -1241,12 +1241,12 @@
       },
       {
         "id": "q56",
-        "text": "Platzhalter-Frage 56 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 56 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 56.",
@@ -1263,12 +1263,12 @@
       },
       {
         "id": "q57",
-        "text": "Platzhalter-Frage 57 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 57 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 57.",
@@ -1285,12 +1285,12 @@
       },
       {
         "id": "q58",
-        "text": "Platzhalter-Frage 58 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 58 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 58.",
@@ -1307,12 +1307,12 @@
       },
       {
         "id": "q59",
-        "text": "Platzhalter-Frage 59 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 59 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 59.",
@@ -1329,12 +1329,12 @@
       },
       {
         "id": "q60",
-        "text": "Platzhalter-Frage 60 zu Gesellschaftsformen nach HGB.",
+        "text": "Platzhalter-Frage 60 zu Gesellschaftsformen nach HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 3,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 60.",
@@ -1420,12 +1420,12 @@
       },
       {
         "id": "q64",
-        "text": "Platzhalter-Frage 64 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 64 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 64.",
@@ -1442,12 +1442,12 @@
       },
       {
         "id": "q65",
-        "text": "Platzhalter-Frage 65 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 65 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 65.",
@@ -1464,12 +1464,12 @@
       },
       {
         "id": "q66",
-        "text": "Platzhalter-Frage 66 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 66 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 66.",
@@ -1486,12 +1486,12 @@
       },
       {
         "id": "q67",
-        "text": "Platzhalter-Frage 67 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 67 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 67.",
@@ -1508,12 +1508,12 @@
       },
       {
         "id": "q68",
-        "text": "Platzhalter-Frage 68 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 68 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 68.",
@@ -1530,12 +1530,12 @@
       },
       {
         "id": "q69",
-        "text": "Platzhalter-Frage 69 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 69 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 69.",
@@ -1552,12 +1552,12 @@
       },
       {
         "id": "q70",
-        "text": "Platzhalter-Frage 70 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 70 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 70.",
@@ -1574,12 +1574,12 @@
       },
       {
         "id": "q71",
-        "text": "Platzhalter-Frage 71 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 71 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 71.",
@@ -1596,12 +1596,12 @@
       },
       {
         "id": "q72",
-        "text": "Platzhalter-Frage 72 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 72 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 72.",
@@ -1618,12 +1618,12 @@
       },
       {
         "id": "q73",
-        "text": "Platzhalter-Frage 73 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 73 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 73.",
@@ -1640,12 +1640,12 @@
       },
       {
         "id": "q74",
-        "text": "Platzhalter-Frage 74 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 74 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 74.",
@@ -1662,12 +1662,12 @@
       },
       {
         "id": "q75",
-        "text": "Platzhalter-Frage 75 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 75 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 75.",
@@ -1684,12 +1684,12 @@
       },
       {
         "id": "q76",
-        "text": "Platzhalter-Frage 76 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 76 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 76.",
@@ -1706,12 +1706,12 @@
       },
       {
         "id": "q77",
-        "text": "Platzhalter-Frage 77 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 77 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 77.",
@@ -1728,12 +1728,12 @@
       },
       {
         "id": "q78",
-        "text": "Platzhalter-Frage 78 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 78 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 78.",
@@ -1750,12 +1750,12 @@
       },
       {
         "id": "q79",
-        "text": "Platzhalter-Frage 79 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 79 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 79.",
@@ -1772,12 +1772,12 @@
       },
       {
         "id": "q80",
-        "text": "Platzhalter-Frage 80 zu Rechnungslegungsvorschriften im HGB.",
+        "text": "Platzhalter-Frage 80 zu Rechnungslegungsvorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 0,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 80.",
@@ -1863,12 +1863,12 @@
       },
       {
         "id": "q84",
-        "text": "Platzhalter-Frage 84 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 84 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 84.",
@@ -1885,12 +1885,12 @@
       },
       {
         "id": "q85",
-        "text": "Platzhalter-Frage 85 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 85 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 85.",
@@ -1907,12 +1907,12 @@
       },
       {
         "id": "q86",
-        "text": "Platzhalter-Frage 86 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 86 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 86.",
@@ -1929,12 +1929,12 @@
       },
       {
         "id": "q87",
-        "text": "Platzhalter-Frage 87 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 87 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 87.",
@@ -1951,12 +1951,12 @@
       },
       {
         "id": "q88",
-        "text": "Platzhalter-Frage 88 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 88 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 88.",
@@ -1973,12 +1973,12 @@
       },
       {
         "id": "q89",
-        "text": "Platzhalter-Frage 89 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 89 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 89.",
@@ -1995,12 +1995,12 @@
       },
       {
         "id": "q90",
-        "text": "Platzhalter-Frage 90 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 90 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 90.",
@@ -2017,12 +2017,12 @@
       },
       {
         "id": "q91",
-        "text": "Platzhalter-Frage 91 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 91 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 91.",
@@ -2039,12 +2039,12 @@
       },
       {
         "id": "q92",
-        "text": "Platzhalter-Frage 92 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 92 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 92.",
@@ -2061,12 +2061,12 @@
       },
       {
         "id": "q93",
-        "text": "Platzhalter-Frage 93 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 93 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 93.",
@@ -2083,12 +2083,12 @@
       },
       {
         "id": "q94",
-        "text": "Platzhalter-Frage 94 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 94 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 94.",
@@ -2105,12 +2105,12 @@
       },
       {
         "id": "q95",
-        "text": "Platzhalter-Frage 95 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 95 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 95.",
@@ -2127,12 +2127,12 @@
       },
       {
         "id": "q96",
-        "text": "Platzhalter-Frage 96 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 96 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 96.",
@@ -2149,12 +2149,12 @@
       },
       {
         "id": "q97",
-        "text": "Platzhalter-Frage 97 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 97 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 97.",
@@ -2171,12 +2171,12 @@
       },
       {
         "id": "q98",
-        "text": "Platzhalter-Frage 98 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 98 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 98.",
@@ -2193,12 +2193,12 @@
       },
       {
         "id": "q99",
-        "text": "Platzhalter-Frage 99 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 99 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 99.",
@@ -2215,12 +2215,12 @@
       },
       {
         "id": "q100",
-        "text": "Platzhalter-Frage 100 zu speziellen Vorschriften im HGB.",
+        "text": "Platzhalter-Frage 100 zu speziellen Vorschriften im HGB?",
         "options": [
-          "Option A",
-          "Option B",
-          "Option C",
-          "Option D"
+          "Eine Lösung für option a",
+          "Eine Lösung für option b",
+          "Eine Lösung für option c",
+          "Eine Lösung für option d"
         ],
         "correctIndex": 1,
         "explanation": "Dies ist eine Beispiel-Erklärung für Frage 100.",

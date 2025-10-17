@@ -23,7 +23,7 @@
     "questions": [
       {
         "id": "q1",
-        "text": "Was ist .NET?",
+        "text": "Was ist die Hauptfunktion von .NET?",
         "options": [
           "Eine Programmiersprache",
           "Eine plattformübergreifende Entwicklungsplattform",
@@ -70,7 +70,7 @@
       },
       {
         "id": "q3",
-        "text": "Was ist C#?",
+        "text": "Was ist die Hauptfunktion von C#?",
         "options": [
           "Ein Betriebssystem",
           "Eine moderne, objektorientierte Programmiersprache von Microsoft",

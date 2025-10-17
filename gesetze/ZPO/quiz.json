@@ -24,201 +24,441 @@
       {
         "id": "q1",
         "text": "Welche gesetzliche Grundlage bestimmt die sachliche Zuständigkeit der Gerichte?",
-        "options": ["Die Zivilprozessordnung selbst", "Das Bürgerliche Gesetzbuch", "Das Gerichtsverfassungsgesetz", "Das Grundgesetz"],
+        "options": [
+          "Die Zivilprozessordnung selbst",
+          "Das Bürgerliche Gesetzbuch",
+          "Das Gerichtsverfassungsgesetz",
+          "Das Grundgesetz"
+        ],
         "correctIndex": 2,
         "explanation": "Die sachliche Zuständigkeit richtet sich nach dem Gerichtsverfassungsgesetz, nicht nach der ZPO oder dem BGB.",
-        "source": {"citation": "ZPO", "pages": "S. 36", "chapter": "§ 1 Sachliche Zuständigkeit"},
-        "tags": ["Definition", "Zuständigkeit"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 36",
+          "chapter": "§ 1 Sachliche Zuständigkeit"
+        },
+        "tags": [
+          "Definition",
+          "Zuständigkeit"
+        ],
         "difficulty": "leicht"
       },
       {
         "id": "q2",
         "text": "Nach welchem Maßstab wird der Wert eines Streitgegenstandes vom Gericht festgesetzt?",
-        "options": ["Nach dem Parteivortrag", "Nach freiem Ermessen", "Nach festen Gebührentabellen", "Immer anhand der Klagesumme"],
+        "options": [
+          "Nach dem Parteivortrag",
+          "Nach freiem Ermessen",
+          "Nach festen Gebührentabellen",
+          "Immer anhand der Klagesumme"
+        ],
         "correctIndex": 1,
         "explanation": "Das Gericht setzt den Wert nach freiem Ermessen fest (§ 3 ZPO). Eine feste Tabelle gibt es nicht.",
-        "source": {"citation": "ZPO", "pages": "S. 36", "chapter": "§ 3 Wertfestsetzung nach freiem Ermessen"},
-        "tags": ["Regel", "Wertfestsetzung"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 36",
+          "chapter": "§ 3 Wertfestsetzung nach freiem Ermessen"
+        },
+        "tags": [
+          "Regel",
+          "Wertfestsetzung"
+        ],
         "difficulty": "mittel"
       },
       {
         "id": "q3",
         "text": "Welche Forderungen bleiben bei der Wertberechnung unberücksichtigt, wenn sie Nebenforderungen sind?",
-        "options": ["Kosten und Steuern", "Früchte, Nutzungen, Zinsen und Kosten", "Nur Zinsen", "Nur Nutzungen"],
+        "options": [
+          "Kosten und Steuern",
+          "Früchte, Nutzungen, Zinsen und Kosten",
+          "Nur Zinsen",
+          "Nur Nutzungen"
+        ],
         "correctIndex": 1,
         "explanation": "Nebenforderungen wie Früchte, Nutzungen, Zinsen und Kosten werden nicht berücksichtigt (§ 4 Abs. 1 ZPO).",
-        "source": {"citation": "ZPO", "pages": "S. 36", "chapter": "§ 4 Wertberechnung"},
-        "tags": ["Regel", "Wertberechnung"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 36",
+          "chapter": "§ 4 Wertberechnung"
+        },
+        "tags": [
+          "Regel",
+          "Wertberechnung"
+        ],
         "difficulty": "leicht"
       },
       {
         "id": "q4",
         "text": "Wie wird der allgemeine Gerichtsstand einer natürlichen Person bestimmt?",
-        "options": ["Durch ihren Geburtsort", "Durch ihren Wohnsitz", "Durch ihren Arbeitsplatz", "Durch ihre Staatsangehörigkeit"],
+        "options": [
+          "Durch ihren Geburtsort",
+          "Durch ihren Wohnsitz",
+          "Durch ihren Arbeitsplatz",
+          "Durch ihre Staatsangehörigkeit"
+        ],
         "correctIndex": 1,
         "explanation": "Der allgemeine Gerichtsstand richtet sich nach dem Wohnsitz (§ 13 ZPO).",
-        "source": {"citation": "ZPO", "pages": "S. 37", "chapter": "§ 13 Allgemeiner Gerichtsstand des Wohnsitzes"},
-        "tags": ["Definition", "Gerichtsstand"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 37",
+          "chapter": "§ 13 Allgemeiner Gerichtsstand des Wohnsitzes"
+        },
+        "tags": [
+          "Definition",
+          "Gerichtsstand"
+        ],
         "difficulty": "leicht"
       },
       {
         "id": "q5",
         "text": "Welches Gericht ist für Klagen über Ansprüche aus Miet- oder Pachtverhältnissen über Räume zuständig?",
-        "options": ["Das Gericht des Wohnsitzes des Mieters", "Das Gericht des Sitzes des Vermieters", "Das Gericht, in dessen Bezirk sich die Räume befinden", "Das Amtsgericht am Geschäftssitz der Hausverwaltung"],
+        "options": [
+          "Das Gericht des Wohnsitzes des Mieters",
+          "Das Gericht des Sitzes des Vermieters",
+          "Das Gericht, in dessen Bezirk sich die Räume befinden",
+          "Das Amtsgericht am Geschäftssitz der Hausverwaltung"
+        ],
         "correctIndex": 2,
         "explanation": "Bei Streitigkeiten über Miet- oder Pachtverhältnisse über Räume ist ausschließlich das Gericht zuständig, in dessen Bezirk sich die Räume befinden (§ 29a ZPO).",
-        "source": {"citation": "ZPO", "pages": "S. 39", "chapter": "§ 29a Ausschließlicher Gerichtsstand bei Miet- oder Pachträumen"},
-        "tags": ["Regel", "Zuständigkeit"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 39",
+          "chapter": "§ 29a Ausschließlicher Gerichtsstand bei Miet- oder Pachträumen"
+        },
+        "tags": [
+          "Regel",
+          "Zuständigkeit"
+        ],
         "difficulty": "mittel"
       },
       {
         "id": "q6",
         "text": "Was bedeutet der Begriff ‚Parteifähigkeit‘ im Sinne der ZPO?",
-        "options": ["Fähigkeit, vor Gericht zu erscheinen", "Fähigkeit, Träger von Rechten und Pflichten im Prozess zu sein", "Fähigkeit, einen Anwalt zu wählen", "Fähigkeit, Fristen einzuhalten"],
+        "options": [
+          "Fähigkeit, vor Gericht zu erscheinen",
+          "Fähigkeit, Träger von Rechten und Pflichten im Prozess zu sein",
+          "Fähigkeit, einen Anwalt zu wählen",
+          "Fähigkeit, Fristen einzuhalten"
+        ],
         "correctIndex": 1,
         "explanation": "Parteifähig ist, wer rechtsfähig ist (§ 50 ZPO).",
-        "source": {"citation": "ZPO", "pages": "S. 44", "chapter": "§ 50 Parteifähigkeit"},
-        "tags": ["Definition", "Parteien"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 44",
+          "chapter": "§ 50 Parteifähigkeit"
+        },
+        "tags": [
+          "Definition",
+          "Parteien"
+        ],
         "difficulty": "leicht"
       },
       {
         "id": "q7",
         "text": "Wann liegt notwendige Streitgenossenschaft vor?",
-        "options": ["Wenn mehrere Personen freiwillig gemeinsam klagen", "Wenn die Streitgenossen dasselbe Interesse haben", "Wenn das streitige Rechtsverhältnis nur einheitlich festgestellt werden kann", "Wenn die Kosten geteilt werden sollen"],
+        "options": [
+          "Wenn mehrere Personen freiwillig gemeinsam klagen",
+          "Wenn die Streitgenossen dasselbe Interesse haben",
+          "Wenn das streitige Rechtsverhältnis nur einheitlich festgestellt werden kann",
+          "Wenn die Kosten geteilt werden sollen"
+        ],
         "correctIndex": 2,
         "explanation": "Eine notwendige Streitgenossenschaft besteht, wenn das Rechtsverhältnis nur einheitlich festgestellt werden kann (§ 62 ZPO).",
-        "source": {"citation": "ZPO", "pages": "S. 45", "chapter": "§ 62 Notwendige Streitgenossenschaft"},
-        "tags": ["Definition", "Streitgenossenschaft"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 45",
+          "chapter": "§ 62 Notwendige Streitgenossenschaft"
+        },
+        "tags": [
+          "Definition",
+          "Streitgenossenschaft"
+        ],
         "difficulty": "mittel"
       },
       {
         "id": "q8",
         "text": "Wer muss sich vor dem Bundesgerichtshof in Zivilsachen vertreten lassen?",
-        "options": ["Jede Partei durch irgendeinen Anwalt", "Jede Partei durch einen beim BGH zugelassenen Anwalt", "Nur Kläger, nicht Beklagte", "Niemand, Vertretung ist dort nicht vorgeschrieben"],
+        "options": [
+          "Jede Partei durch irgendeinen Anwalt",
+          "Jede Partei durch einen beim BGH zugelassenen Anwalt",
+          "Nur Kläger, nicht Beklagte",
+          "Niemand, Vertretung ist dort nicht vorgeschrieben"
+        ],
         "correctIndex": 1,
         "explanation": "Vor dem BGH besteht Anwaltszwang; nur beim BGH zugelassene Anwälte dürfen auftreten (§ 78 ZPO).",
-        "source": {"citation": "ZPO", "pages": "S. 48", "chapter": "§ 78 Anwaltsprozess"},
-        "tags": ["Regel", "Vertretung"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 48",
+          "chapter": "§ 78 Anwaltsprozess"
+        },
+        "tags": [
+          "Regel",
+          "Vertretung"
+        ],
         "difficulty": "leicht"
       },
       {
         "id": "q9",
         "text": "Was ist Prozesskostenhilfe?",
-        "options": ["Eine staatliche Hilfe zur Begleichung von Gerichtskosten", "Eine Versicherung", "Ein Zuschuss der Anwaltskammer", "Eine Garantie des Beklagten"],
+        "options": [
+          "Eine staatliche Hilfe zur Begleichung von Gerichtskosten",
+          "Eine Versicherung",
+          "Ein Zuschuss der Anwaltskammer",
+          "Eine Garantie des Beklagten"
+        ],
         "correctIndex": 0,
         "explanation": "Prozesskostenhilfe wird gewährt, wenn eine Partei nach ihren Verhältnissen die Kosten nicht tragen kann, aber die Rechtsverfolgung Aussicht auf Erfolg hat (§ 114 ZPO).",
-        "source": {"citation": "ZPO", "pages": "S. 56", "chapter": "§ 114 Voraussetzungen der Prozesskostenhilfe"},
-        "tags": ["Definition", "Kosten"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 56",
+          "chapter": "§ 114 Voraussetzungen der Prozesskostenhilfe"
+        },
+        "tags": [
+          "Definition",
+          "Kosten"
+        ],
         "difficulty": "leicht"
       },
       {
         "id": "q10",
         "text": "Welche Frist gilt für die Beantragung einer Wiedereinsetzung in den vorigen Stand bei Versäumung einer Notfrist?",
-        "options": ["Eine Woche", "Zwei Wochen", "Ein Monat", "Sechs Monate"],
+        "options": [
+          "Eine Woche",
+          "Zwei Wochen",
+          "Ein Monat",
+          "Sechs Monate"
+        ],
         "correctIndex": 1,
         "explanation": "Die Wiedereinsetzung muss innerhalb von zwei Wochen beantragt werden (§ 234 ZPO).",
-        "source": {"citation": "ZPO", "pages": "S. 80", "chapter": "§ 234 Wiedereinsetzungsfrist"},
-        "tags": ["Frist", "Verfahren"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 80",
+          "chapter": "§ 234 Wiedereinsetzungsfrist"
+        },
+        "tags": [
+          "Frist",
+          "Verfahren"
+        ],
         "difficulty": "mittel"
       },
       {
         "id": "q11",
         "text": "Was bewirkt die Erhebung der Klage?",
-        "options": ["Sie beendet das Verfahren", "Sie begründet die Rechtshängigkeit", "Sie ersetzt ein Urteil", "Sie beendet den Anspruch"],
+        "options": [
+          "Sie beendet das Verfahren",
+          "Sie begründet die Rechtshängigkeit",
+          "Sie ersetzt ein Urteil",
+          "Sie beendet den Anspruch"
+        ],
         "correctIndex": 1,
         "explanation": "Mit Erhebung der Klage tritt Rechtshängigkeit ein (§ 261 ZPO).",
-        "source": {"citation": "ZPO", "pages": "S. 84", "chapter": "§ 261 Rechtshängigkeit"},
-        "tags": ["Definition", "Verfahren"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 84",
+          "chapter": "§ 261 Rechtshängigkeit"
+        },
+        "tags": [
+          "Definition",
+          "Verfahren"
+        ],
         "difficulty": "leicht"
       },
       {
         "id": "q12",
         "text": "Wie lange beträgt die Berufungsfrist nach Zustellung eines Urteils?",
-        "options": ["Eine Woche", "Zwei Wochen", "Ein Monat", "Drei Monate"],
+        "options": [
+          "Eine Woche",
+          "Zwei Wochen",
+          "Ein Monat",
+          "Drei Monate"
+        ],
         "correctIndex": 2,
         "explanation": "Die Berufungsfrist beträgt einen Monat (§ 517 ZPO).",
-        "source": {"citation": "ZPO", "pages": "S. 128", "chapter": "§ 517 Berufungsfrist"},
-        "tags": ["Frist", "Rechtsmittel"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 128",
+          "chapter": "§ 517 Berufungsfrist"
+        },
+        "tags": [
+          "Frist",
+          "Rechtsmittel"
+        ],
         "difficulty": "leicht"
       },
       {
         "id": "q13",
         "text": "Was ist Voraussetzung für eine Revision?",
-        "options": ["Sie wird automatisch nach jeder Berufung zugelassen", "Sie muss vom Berufungsgericht oder Revisionsgericht zugelassen werden", "Sie kann immer beantragt werden", "Sie ist nur bei Geldforderungen möglich"],
+        "options": [
+          "Sie wird automatisch nach jeder Berufung zugelassen",
+          "Sie muss vom Berufungsgericht oder Revisionsgericht zugelassen werden",
+          "Sie kann immer beantragt werden",
+          "Sie ist nur bei Geldforderungen möglich"
+        ],
         "correctIndex": 1,
         "explanation": "Revisionen sind nur zulässig, wenn sie zugelassen werden (§ 543 ZPO).",
-        "source": {"citation": "ZPO", "pages": "S. 134", "chapter": "§ 543 Zulassungsrevision"},
-        "tags": ["Regel", "Rechtsmittel"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 134",
+          "chapter": "§ 543 Zulassungsrevision"
+        },
+        "tags": [
+          "Regel",
+          "Rechtsmittel"
+        ],
         "difficulty": "mittel"
       },
       {
         "id": "q14",
         "text": "Welche Klageart dient der Feststellung eines Rechtsverhältnisses?",
-        "options": ["Leistungsklage", "Feststellungsklage", "Gestaltungsklage", "Anfechtungsklage"],
+        "options": [
+          "Leistungsklage",
+          "Feststellungsklage",
+          "Gestaltungsklage",
+          "Anfechtungsklage"
+        ],
         "correctIndex": 1,
         "explanation": "Mit der Feststellungsklage kann das Bestehen oder Nichtbestehen eines Rechtsverhältnisses festgestellt werden (§ 256 ZPO).",
-        "source": {"citation": "ZPO", "pages": "S. 84", "chapter": "§ 256 Feststellungsklage"},
-        "tags": ["Definition", "Klagearten"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 84",
+          "chapter": "§ 256 Feststellungsklage"
+        },
+        "tags": [
+          "Definition",
+          "Klagearten"
+        ],
         "difficulty": "leicht"
       },
       {
         "id": "q15",
         "text": "Welche Wirkung hat ein gerichtliches Geständnis?",
-        "options": ["Es ist unverbindlich", "Es kann jederzeit widerrufen werden", "Es ersetzt die Beweisaufnahme", "Es verpflichtet beide Parteien zur Einigung"],
+        "options": [
+          "Es ist unverbindlich",
+          "Es kann jederzeit widerrufen werden",
+          "Es ersetzt die Beweisaufnahme",
+          "Es verpflichtet beide Parteien zur Einigung"
+        ],
         "correctIndex": 2,
         "explanation": "Ein gerichtliches Geständnis macht eine Beweisaufnahme über die gestandenen Tatsachen entbehrlich (§ 288 ZPO).",
-        "source": {"citation": "ZPO", "pages": "S. 90", "chapter": "§ 288 Gerichtliches Geständnis"},
-        "tags": ["Regel", "Beweis"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 90",
+          "chapter": "§ 288 Gerichtliches Geständnis"
+        },
+        "tags": [
+          "Regel",
+          "Beweis"
+        ],
         "difficulty": "mittel"
       },
       {
         "id": "q16",
         "text": "Welche Klage ermöglicht es, wegen wiederkehrender Leistungen auch zukünftige Forderungen geltend zu machen?",
-        "options": ["Stufenklage", "Leistungsklage", "Feststellungsklage", "Klage auf wiederkehrende Leistungen"],
+        "options": [
+          "Stufenklage",
+          "Leistungsklage",
+          "Feststellungsklage",
+          "Klage auf wiederkehrende Leistungen"
+        ],
         "correctIndex": 3,
         "explanation": "Die Klage auf wiederkehrende Leistungen (§ 258 ZPO) erlaubt die Geltendmachung auch künftiger Forderungen.",
-        "source": {"citation": "ZPO", "pages": "S. 84", "chapter": "§ 258 Klage auf wiederkehrende Leistungen"},
-        "tags": ["Klagearten", "Regel"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 84",
+          "chapter": "§ 258 Klage auf wiederkehrende Leistungen"
+        },
+        "tags": [
+          "Klagearten",
+          "Regel"
+        ],
         "difficulty": "mittel"
       },
       {
         "id": "q17",
         "text": "Welche Wirkung hat ein Anerkenntnis im Prozess?",
-        "options": ["Es führt zur Abweisung der Klage", "Es führt zur sofortigen Verurteilung der Partei", "Es verlängert die Beweisaufnahme", "Es beendet das Verfahren ohne Urteil"],
+        "options": [
+          "Es führt zur Abweisung der Klage",
+          "Es führt zur sofortigen Verurteilung der Partei",
+          "Es verlängert die Beweisaufnahme",
+          "Es beendet das Verfahren ohne Urteil"
+        ],
         "correctIndex": 1,
         "explanation": "Erkennt eine Partei den Anspruch an, ergeht ein Anerkenntnisurteil (§ 307 ZPO).",
-        "source": {"citation": "ZPO", "pages": "S. 96", "chapter": "§ 307 Anerkenntnis"},
-        "tags": ["Regel", "Urteil"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 96",
+          "chapter": "§ 307 Anerkenntnis"
+        },
+        "tags": [
+          "Regel",
+          "Urteil"
+        ],
         "difficulty": "leicht"
       },
       {
         "id": "q18",
         "text": "Welche Klageart dient der Abänderung von Urteilen über wiederkehrende Leistungen bei geänderten Verhältnissen?",
-        "options": ["Anfechtungsklage", "Abänderungsklage", "Restitutionsklage", "Leistungsklage"],
+        "options": [
+          "Anfechtungsklage",
+          "Abänderungsklage",
+          "Restitutionsklage",
+          "Leistungsklage"
+        ],
         "correctIndex": 1,
         "explanation": "Die Abänderungsklage nach § 323 ZPO ermöglicht Anpassungen bei veränderten Umständen.",
-        "source": {"citation": "ZPO", "pages": "S. 100", "chapter": "§ 323 Abänderung von Urteilen"},
-        "tags": ["Klagearten", "Regel"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 100",
+          "chapter": "§ 323 Abänderung von Urteilen"
+        },
+        "tags": [
+          "Klagearten",
+          "Regel"
+        ],
         "difficulty": "schwer"
       },
       {
         "id": "q19",
         "text": "Welche Rechtsfolge tritt ein, wenn eine Partei trotz ordnungsgemäßer Ladung im Termin nicht erscheint?",
-        "options": ["Das Gericht muss vertagen", "Es ergeht ein Versäumnisurteil", "Der Prozess wird eingestellt", "Die Klage wird automatisch gewonnen"],
+        "options": [
+          "Das Gericht muss vertagen",
+          "Es ergeht ein Versäumnisurteil",
+          "Der Prozess wird eingestellt",
+          "Die Klage wird automatisch gewonnen"
+        ],
         "correctIndex": 1,
         "explanation": "Erscheint eine Partei nicht, kann auf Antrag ein Versäumnisurteil ergehen (§§ 330, 331 ZPO).",
-        "source": {"citation": "ZPO", "pages": "S. 102", "chapter": "§§ 330–331 Versäumnisurteil"},
-        "tags": ["Regel", "Urteil"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 102",
+          "chapter": "§§ 330–331 Versäumnisurteil"
+        },
+        "tags": [
+          "Regel",
+          "Urteil"
+        ],
         "difficulty": "mittel"
       },
       {
         "id": "q20",
         "text": "Welche Art der Wiederaufnahme dient der Korrektur eines rechtskräftigen Urteils wegen Täuschung oder neuer Beweise?",
-        "options": ["Nichtigkeitsklage", "Restitutionsklage", "Sprungrevision", "Abänderungsklage"],
+        "options": [
+          "Nichtigkeitsklage",
+          "Restitutionsklage",
+          "Sprungrevision",
+          "Abänderungsklage"
+        ],
         "correctIndex": 1,
         "explanation": "Die Restitutionsklage (§ 580 ZPO) ermöglicht die Wiederaufnahme bei Täuschung oder neuen Beweismitteln.",
-        "source": {"citation": "ZPO", "pages": "S. 19", "chapter": "§ 580 Restitutionsklage"},
-        "tags": ["Rechtsmittel", "Wiederaufnahme"],
+        "source": {
+          "citation": "ZPO",
+          "pages": "S. 19",
+          "chapter": "§ 580 Restitutionsklage"
+        },
+        "tags": [
+          "Rechtsmittel",
+          "Wiederaufnahme"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -842,7 +1082,7 @@
           "Bei wesentlicher Veränderung der Verhältnisse",
           "Stets auf Antrag des Beklagten",
           "Immer nach einem Jahr",
-          "Nie"
+          "Eine Lösung für nie"
         ],
         "correctIndex": 0,
         "explanation": "§ 323 ZPO erlaubt die Abänderung von Urteilen über wiederkehrende Leistungen bei veränderten Verhältnissen.",
@@ -996,7 +1236,7 @@
           "Wenn sie offensichtlich keine Aussicht auf Erfolg hat",
           "Nur auf Antrag des Klägers",
           "Immer nach Ermessen",
-          "Nie"
+          "Eine Lösung für nie"
         ],
         "correctIndex": 0,
         "explanation": "§ 522 Abs. 2 ZPO erlaubt die Zurückweisung ohne mündliche Verhandlung, wenn die Berufung offensichtlich keine Aussicht auf Erfolg hat.",
@@ -1128,7 +1368,7 @@
           "Wenn sie gesetzlich ausdrücklich zugelassen ist",
           "Immer bei Urteilen",
           "Nur bei Berufungen",
-          "Nie"
+          "Eine Lösung für nie"
         ],
         "correctIndex": 0,
         "explanation": "§ 574 ZPO erlaubt die Rechtsbeschwerde, wenn sie gesetzlich vorgesehen oder vom Gericht zugelassen ist.",
@@ -1524,7 +1764,7 @@
           "Mit Rücknahme oder rechtskräftiger Entscheidung",
           "Immer nach 6 Monaten",
           "Automatisch nach 1 Jahr",
-          "Nie"
+          "Eine Lösung für nie"
         ],
         "correctIndex": 0,
         "explanation": "§ 622 ZPO: Wirkung endet mit Rücknahme oder rechtskräftiger Entscheidung.",
@@ -1656,7 +1896,7 @@
           "Wenn Sicherheit geleistet wird",
           "Immer sofort",
           "Nur nach Rechtskraft",
-          "Nie"
+          "Eine Lösung für nie"
         ],
         "correctIndex": 0,
         "explanation": "§ 756 ZPO erlaubt Vollstreckung bei Sicherheitsleistung.",

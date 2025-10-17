@@ -23,7 +23,7 @@
     "questions": [
       {
         "id": "q1",
-        "text": "Was ist IIS?",
+        "text": "Was ist die Hauptfunktion von IIS?",
         "options": [
           "Ein Betriebssystem",
           "Internet Information Services - ein Webserver von Microsoft",

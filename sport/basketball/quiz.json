@@ -1,7 +1,7 @@
 {
   "quiz": {
     "title": "Basketball Quiz",
-    "description": "Teste dein Wissen zu den FIBA 2024-Regeln und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+    "description": "Teste dein Wissen zu den FIBA 2024-Regeln und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus 120 Fragen.",
     "language": "de",
     "version": "1.2",
     "sourceDocument": {
@@ -14,7 +14,7 @@
       "shuffleQuestions": true,
       "shuffleOptions": true,
       "showExplanations": true,
-      "timePerQuestionSec": 0
+      "timePerQuestionSec": 60
     },
     "questions": [
       {
@@ -28,20 +28,38 @@
         ],
         "correctIndex": 1,
         "explanation": "FIBA-Spiele bestehen aus vier Vierteln zu je 10 Minuten Nettospielzeit (Regel IV, Artikel 8.1, S. 20).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 8.1"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 20",
+          "chapter": "Regel IV, Art. 8.1"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q2",
         "text": "Wie viele Spieler müssen pro Team auf dem Spielfeld sein, damit das Spiel beginnen kann?",
         "options": [
-          "4",
-          "3",
-          "5",
-          "2"
+          "Eine Lösung für 4",
+          "Eine Lösung für 3",
+          "Eine Lösung für 5",
+          "Eine Lösung für 2"
         ],
         "correctIndex": 2,
         "explanation": "Das Spiel kann nicht beginnen, wenn eine oder beide Mannschaften nicht mit fünf Spielern antreten (Regel IV, Artikel 9.3, S. 20).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 9.3"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 20",
+          "chapter": "Regel IV, Art. 9.3"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q3",
@@ -54,7 +72,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Ein Spieler, der fünf Fouls begangen hat, muss sofort aus dem Spiel ausscheiden (Regel VII, Artikel 40.1, S. 56).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 40.1"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VII, Art. 40.1"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q4",
@@ -67,7 +94,16 @@
         ],
         "correctIndex": 2,
         "explanation": "Ein Spieler darf sich nicht länger als drei Sekunden in der gegnerischen Zone aufhalten (Regel V, Artikel 26.1, S. 36).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 26.1"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 26.1"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q5",
@@ -80,7 +116,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Die Wurfuhr beträgt 24 Sekunden. Unter bestimmten Umständen wird sie auf 14 Sekunden zurückgesetzt (Regel V, Artikel 29.1, S. 37).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 29.1"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 29.1"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q6",
@@ -93,7 +138,16 @@
         ],
         "correctIndex": 2,
         "explanation": "Ein Korbwurf aus dem Drei-Punkte-Bereich zählt 3 Punkte (Regel IV, Artikel 16.2.1, S. 25).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 16.2.1"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 16.2.1"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q7",
@@ -106,7 +160,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Die 8-Sekunden-Regel startet, wenn ein Spieler im Rückfeld Ballkontrolle erlangt (Regel V, Artikel 28.1, S. 36).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 28.1"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 28.1"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q8",
@@ -119,7 +182,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Es ist eine Regelübertretung, wenn ein Spieler mit Ball in der Hand vom Boden aufsteht oder rollt (Regel V, Artikel 25.2.2, S. 35).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 25.2.2"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 25.2.2"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q9",
@@ -132,7 +204,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Berührt ein Verteidiger den Ball beim Abwärtsflug, wird der Korb gezählt (Regel V, Artikel 31.2.1, S. 40–41).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 31.2.1"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 31.2.1"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q10",
@@ -145,7 +226,16 @@
         ],
         "correctIndex": 2,
         "explanation": "Der Einwerfer darf höchstens 5 Sekunden benötigen, bevor er den Ball abgibt (Regel IV, Artikel 17.3.1, S. 28).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 17.3.1"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 17.3.1"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q11",
@@ -158,7 +248,16 @@
         ],
         "correctIndex": 2,
         "explanation": "Jede Verlängerung dauert 5 Minuten und beginnt mit Einwurfrecht gemäß Wechselbesitzpfeil (kein Sprungball).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 8.4"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 8.4"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q12",
@@ -171,20 +270,38 @@
         ],
         "correctIndex": 1,
         "explanation": "Unsportliche Fouls werden u. a. geahndet, wenn kein legitimer Versuch, den Ball zu spielen, erkennbar ist (Kriterium C1).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 37"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VII, Art. 37"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q13",
         "text": "Wie viele Freiwürfe erhält ein Werfer bei einem nicht erfolgreichen 3-Punkte-Wurf, der gefoult wird?",
         "options": [
-          "1",
-          "2",
-          "3",
+          "Eine Lösung für 1",
+          "Eine Lösung für 2",
+          "Eine Lösung für 3",
           "Es gibt Einwurf an der Seitenlinie"
         ],
         "correctIndex": 2,
         "explanation": "Bei Foul am Werfer eines nicht erfolgreichen 3-Punkte-Wurfs werden 3 Freiwürfe zugesprochen.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 16; Regel VII, Art. 41"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 16; Regel VII, Art. 41"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q14",
@@ -197,7 +314,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Der Schütze darf die 3-Punkte-Linie nicht berühren; beide Füße müssen sich beim Abwurf außerhalb befinden.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 16.2"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 16.2"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q15",
@@ -210,7 +336,16 @@
         ],
         "correctIndex": 2,
         "explanation": "Auszeiten dürfen vom Trainer beantragt werden, indem er am Anschreibetisch ein Zeichen gibt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 18"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 18"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q16",
@@ -223,7 +358,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Nach Beendigung eines Dribblings darf kein weiteres Dribbling begonnen werden; auch gleichzeitiges beidhändiges Dribbling ist illegal.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 24"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 24"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q17",
@@ -236,7 +380,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Sprungballsituationen werden durch Einwurf nach dem Wechselbesitzpfeil fortgesetzt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 12"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 12"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q18",
@@ -249,7 +402,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Korbbehinderung liegt vor, wenn Ring/Netz/Backboard so berührt werden, dass die Ballbewegung zum Korb beeinflusst wird.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 31"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 31"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q19",
@@ -262,20 +424,38 @@
         ],
         "correctIndex": 1,
         "explanation": "Hat eine Mannschaft im Vorfeld Kontrolle erlangt, darf sie den Ball nicht selbst wieder ins Rückfeld zurückbringen (Ausnahmen beachten).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 30"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 30"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q20",
         "text": "Wie viele Schiedsrichter leiten in der Regel ein Spiel nach FIBA-Regeln?",
         "options": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "Eine Lösung für 1",
+          "Eine Lösung für 2",
+          "Eine Lösung für 3",
+          "Eine Lösung für 4"
         ],
         "correctIndex": 2,
         "explanation": "Das Schiedsrichterteam besteht aus Crew Chief und zwei Umpires (3 Offizielle).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel II"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel II"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q21",
@@ -288,7 +468,16 @@
         ],
         "correctIndex": 2,
         "explanation": "Bei Spieler-/Teamkontrollfouls gibt es keine Freiwürfe, auch nicht bei Teamfoulgrenze; Einwurf für das gegnerische Team.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 41.2"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VII, Art. 41.2"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q22",
@@ -301,7 +490,16 @@
         ],
         "correctIndex": 2,
         "explanation": "Ab dem 5. Teamfoul im Viertel gibt es für nicht-wurfbedingte Defensivfouls zwei Freiwürfe.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 41"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VII, Art. 41"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q23",
@@ -314,7 +512,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Aus ist der Ball, wenn er Boden außerhalb berührt oder ein Spieler in Aus mit Ballkontakt steht.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 23"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 23"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q24",
@@ -327,7 +534,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Der Freiwurf muss innerhalb von 5 Sekunden abgegeben werden, nachdem der Ball zur Verfügung gestellt wurde.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VI, Art. 43"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VI, Art. 43"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q25",
@@ -340,7 +556,16 @@
         ],
         "correctIndex": 2,
         "explanation": "Spieler außerhalb der Freiwurflinie/Zone dürfen erst einlaufen, wenn der Ball die Hand des Werfers verlässt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Interpretationen zu Art. 43"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Interpretationen zu Art. 43"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q26",
@@ -353,7 +578,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Nach offensivem Rebound oder bestimmten Fouls/Einwürfen im Vorfeld wird die Wurfuhr auf 14 Sekunden gesetzt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 29"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 29"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q27",
@@ -366,7 +600,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Jeder Spieler hat einen imaginären Zylinder; vertikale Bewegungen innerhalb dieses Zylinders sind erlaubt (Vertikalitätsprinzip).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 33"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VII, Art. 33"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q28",
@@ -379,7 +622,16 @@
         ],
         "correctIndex": 0,
         "explanation": "Ein Korb zählt, wenn der Ball vollständig von oben durch die Ringebene fällt und nicht hängen bleibt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 16"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 16"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q29",
@@ -392,7 +644,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Der Ball wird live beim Loswerfen (Sprungball) oder sobald er beim Ein-/Freiwurf zur Verfügung gestellt wird.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 10"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 10"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q30",
@@ -405,7 +666,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Technische Fouls ahnden unsportliches Verhalten oder Regelverstöße ohne Kontakt (z. B. Gestik, Verzögerung).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 36"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VII, Art. 36"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q31",
@@ -418,7 +688,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Nach einem technischen Foul gibt es 1 Freiwurf. Danach wird am Ort der Unterbrechung fortgesetzt (Punkt der Unterbrechung).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 36"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VII, Art. 36"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q32",
@@ -431,7 +710,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Die Distanz der FIBA-3-Punkte-Linie beträgt 6,75 m (Mitte Korb bis Außenkante Linie).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Spielfeldmaße"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Spielfeldmaße"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q33",
@@ -444,7 +732,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Blocking ist ein illegaler Kontakt durch den Verteidiger, der keinen legalen Verteidigungsstatus rechtzeitig einnimmt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 33"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VII, Art. 33"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q34",
@@ -457,7 +754,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Eine Mannschaft kann mit weniger als 5 Spielern weiterspielen; fällt sie unter 2 einsatzfähige Spieler, endet das Spiel.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 9"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 9"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q35",
@@ -470,20 +776,38 @@
         ],
         "correctIndex": 2,
         "explanation": "Wird das Standbein gehoben bevor der Ball zum Dribbling freigegeben ist, liegt Travelling vor.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 25"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 25"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q36",
         "text": "Wie viele Punkte zählt ein erfolgreicher Freiwurf?",
         "options": [
-          "1",
-          "2",
-          "3",
+          "Eine Lösung für 1",
+          "Eine Lösung für 2",
+          "Eine Lösung für 3",
           "Kommt auf die Situation an"
         ],
         "correctIndex": 0,
         "explanation": "Ein erfolgreicher Freiwurf zählt immer 1 Punkt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 16"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 16"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q37",
@@ -496,7 +820,16 @@
         ],
         "correctIndex": 0,
         "explanation": "Der Verteidiger darf die senkrechte Ebene über der Auslinie nicht durchbrechen, bevor der Ball im Spiel ist (Verwarnung/TF).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 17; Art. 36"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 17; Art. 36"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q38",
@@ -509,7 +842,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Vertikal hochspringen innerhalb des eigenen Zylinders ist legal; Kontakt durch Hineinlehnen/Armschlagen ist illegal.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 33"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VII, Art. 33"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q39",
@@ -522,7 +864,16 @@
         ],
         "correctIndex": 2,
         "explanation": "Korbbehinderung beim Freiwurf durch die Verteidigung führt zur Anerkennung des Punktes.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 31"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 31"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q40",
@@ -535,9 +886,17 @@
         ],
         "correctIndex": 2,
         "explanation": "Bei Doppelfoul gibt es keine Freiwürfe; es wird am Punkt der Unterbrechung fortgesetzt (Teamfoulanzahl wird erhöht).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 35"
-      }
-      ,
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VII, Art. 35"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
+      },
       {
         "id": "q41",
         "text": "Wann endet die Teamkontrolle?",
@@ -549,7 +908,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Teamkontrolle endet u. a. wenn ein Feldwurf den Ring berührt oder die Gegner Ballkontrolle erlangen; während eines Einwurfs besteht keine Teamkontrolle.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Definitionen; Regel IV, Art. 14"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Definitionen; Regel IV, Art. 14"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q42",
@@ -562,7 +930,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Beim Einwurf gibt es noch keine Teamkontrolle auf dem Spielfeld, daher ist ein Pass ins Rückfeld legal.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 17; Regel V, Art. 30"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 17; Regel V, Art. 30"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q43",
@@ -575,7 +952,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Die 5-Sekunden-Regel eng gedeckt gilt beim Halten des Balls im Vorfeld bei aktiver Verteidigung innerhalb von 1 m.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Interpretationen zu Art. 27"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Interpretationen zu Art. 27"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q44",
@@ -588,7 +974,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Ein legaler Screen setzt rechtzeitige, stationäre Position und angemessenen Abstand gegen bewegte Gegner voraus.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 33"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VII, Art. 33"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q45",
@@ -601,7 +996,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Ein Spieler, der aus war, muss wieder Inbounds mit beiden Füßen etablieren, bevor er den Ball berührt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 23"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 23"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q46",
@@ -614,7 +1018,16 @@
         ],
         "correctIndex": 1,
         "explanation": "In der No-Charge-Zone kann der Verteidiger gegen einen ballkontrollierenden Angreifer, der zum Korb zieht, kein Offensivfoul erzwingen.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Spielregeln, Halbrundzone"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Spielregeln, Halbrundzone"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q47",
@@ -627,20 +1040,38 @@
         ],
         "correctIndex": 1,
         "explanation": "Nach Ringberührung ist der Ball frei, außer bei Freiwürfen, wo Eingreifen Korbbehinderung sein kann.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 31"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 31"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q48",
         "text": "Wie viele Auszeiten sind in einer Verlängerung pro Team erlaubt?",
         "options": [
           "Keine",
-          "1",
-          "2",
-          "3"
+          "Eine Lösung für 1",
+          "Eine Lösung für 2",
+          "Eine Lösung für 3"
         ],
         "correctIndex": 1,
         "explanation": "Pro Verlängerung ist pro Team eine Auszeit erlaubt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 18"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 18"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q49",
@@ -653,7 +1084,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Nach Ringberührung wird die Uhr auf 24 gesetzt, wenn die Verteidigung Ballkontrolle erlangt, sonst auf 14 bei Fortsetzung des Angriffs im Vorfeld.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 29"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 29"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q50",
@@ -666,7 +1106,16 @@
         ],
         "correctIndex": 2,
         "explanation": "Ohne Sicherheitsgrund am Ring hängen ist unsportliches Verhalten und wird als technisches Foul geahndet.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 36; Interpretationen"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 36; Interpretationen"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q51",
@@ -679,7 +1128,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Ein eigener Korb zählt 2 Punkte für den Gegner und wird dem gegnerischen Kapitän auf dem Feld zugeschrieben.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 16"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 16"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q52",
@@ -692,7 +1150,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Einwechseln erfolgt nach Meldung am Tisch bei der nächsten Unterbrechung, sofern keine Einschränkungen vorliegen (z. B. nach Freiwürfen).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 19"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 19"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q53",
@@ -705,7 +1172,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Nach dem 5. Foul eines Spielers hat das Team 30 Sekunden, um einen Ersatz zu benennen.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Interpretationen zu Art. 40"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Interpretationen zu Art. 40"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q54",
@@ -718,7 +1194,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Das Standbein darf nicht angehoben werden, bevor der Ball das Dribbling eindeutig begonnen hat.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 25"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 25"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q55",
@@ -731,7 +1216,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Absichtliches Spielen mit dem Bein/Fuß ist eine Regelübertretung; zufällige Berührung ist legal.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 24"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 24"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q56",
@@ -744,7 +1238,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Unsportliches Foul: 2 Freiwürfe für den gefoulten Spieler und Einwurf der gefoulten Mannschaft an der Einwurflinie im Vorfeld (Shotclock i. d. R. 14s).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 37"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 37"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q57",
@@ -752,12 +1255,21 @@
         "options": [
           "Wenn der Ball den Ring berührt",
           "Wenn ein Spieler den Ball während des Fluges zum Korb oder auf dem Ring berührt",
-          "Nie",
+          "Eine Lösung für nie",
           "Nur wenn der Werfer die Linie übertritt"
         ],
         "correctIndex": 1,
         "explanation": "Während des Freiwurfs darf der Ball von keinem Spieler berührt werden, bis er den Ring berührt hat; Eingreifen ist Goaltending/Korbbehinderung.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 31, 43"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 31, 43"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q58",
@@ -770,7 +1282,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Mannschaftsfouls sind kontaktbezogene Fouls der Spieler in einem Viertel oder einer Verlängerung; Regelreihenfolge beachten.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 41"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 41"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q59",
@@ -783,7 +1304,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Bei gleichzeitigem, festem Ballbesitz durch Gegner ohne Lösungsmöglichkeit wird Halteball gegeben (wechselnder Besitz).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 12"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 12"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q60",
@@ -796,7 +1326,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Im FIBA-Spielbetrieb sind 0, 00 und 1–99 zulässig.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Ausrüstungsbestimmungen"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Ausrüstungsbestimmungen"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q61",
@@ -809,7 +1348,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Halten ist das Festhalten eines Gegners mit den Händen/Armen/Körper, um Bewegung einzuschränken.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 34"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 34"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q62",
@@ -822,7 +1370,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Ein von unten durch die Ringebene gespielter Ball zählt nicht und ist eine Regelübertretung.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 31"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 31"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q63",
@@ -835,20 +1392,38 @@
         ],
         "correctIndex": 1,
         "explanation": "Der Einwerfer ist außerhalb; erst nach Abgabe des Einwurfs darf er wieder ins Feld.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 17"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 17"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q64",
         "text": "Wann ist ein Pass mit dem Fuß erlaubt?",
         "options": [
-          "Nie",
+          "Eine Lösung für nie",
           "Wenn der Ball im Aus ist",
           "Nur beim Einwurf",
           "Immer, solange kein Kontakt entsteht"
         ],
         "correctIndex": 0,
         "explanation": "Das absichtliche Spielen des Balls mit dem Bein/Fuß ist nicht erlaubt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 24"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 24"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q65",
@@ -861,7 +1436,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Disqualifizierendes Foul: 2 Freiwürfe (oder 3 bei 3-Punkt-Wurfversuch) und Einwurf im Vorfeld der gefoulten Mannschaft.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 38"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 38"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q66",
@@ -874,7 +1458,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Ein Carry liegt vor, wenn die Hand unter den Ball gelangt und das Dribbling dadurch illegal unterbrochen wird.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 24"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 24"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q67",
@@ -887,7 +1480,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Die Spieluhr startet, wenn der Ball lebendig im Spiel ist: z. B. beim legalen Tipp des Sprungballs oder Berührung im Feld nach Einwurf.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 8, 10, 17"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 8, 10, 17"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q68",
@@ -900,7 +1502,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Nach dem Eröffnungssprung erhält das Team ohne Ballbesitz den Pfeil; jede AP-Fortsetzung wechselt den Pfeil.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 12"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 12"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q69",
@@ -913,7 +1524,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Gegenstände, die Verletzungen verursachen könnten (z. B. Schmuck), sind nicht erlaubt und müssen abgelegt werden.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Ausrüstung"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Ausrüstung"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q70",
@@ -926,20 +1546,38 @@
         ],
         "correctIndex": 2,
         "explanation": "Die Halbzeitpause dauert 15 Minuten, sofern der Veranstalter nichts anderes festlegt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 8"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 8"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q71",
         "text": "Wann wird bei einem Foul an einem erfolgreichen 2-Punkte-Wurf zusätzlich ein Freiwurf zugesprochen?",
         "options": [
-          "Nie",
+          "Eine Lösung für nie",
           "Immer",
           "Wenn der Wurf trotz Foul erfolgreich ist (And-One)",
           "Nur in den letzten 2 Minuten"
         ],
         "correctIndex": 2,
         "explanation": "Bei erfolgreichem Wurf plus Foul erhält der Werfer einen zusätzlichen Freiwurf (And-One).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 41"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 41"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q72",
@@ -952,7 +1590,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Der AOW umfasst die kontinuierliche Wurfbewegung bis zur Landung; relevant für Freiwurfentscheidungen.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 15, 41"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 15, 41"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q73",
@@ -965,7 +1612,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Auszeiten werden in Unterbrechungen gewährt; der Ball muss tot sein und die Uhr gestoppt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 18"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 18"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q74",
@@ -978,7 +1634,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Bei Einwurf im Vorfeld nach Verteidigerfoul wird auf 14 Sekunden gesetzt, wenn 14 oder weniger auf der Uhr waren; sonst bleibt die höhere Zeit bestehen.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 29"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 29"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q75",
@@ -991,20 +1656,38 @@
         ],
         "correctIndex": 2,
         "explanation": "Beim Rebound gelten dieselben Kontaktprinzipien: legale Vertikalität, kein Halten/Schieben/Verhaken.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 33, 34"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 33, 34"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q76",
         "text": "Wann ist ein 'Eurostep' legal?",
         "options": [
-          "Nie",
+          "Eine Lösung für nie",
           "Wenn die Schrittfolge entsprechend den Pivot-Regeln legal ist und kein illegaler Kontakt entsteht",
           "Nur wenn der Spieler größer als 2 m ist",
           "Nur in der NBA"
         ],
         "correctIndex": 1,
         "explanation": "Der Eurostep ist als Schrittfolge legal, solange die Travelling-Regeln eingehalten und kein Foul begangen wird.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 25, 33"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 25, 33"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q77",
@@ -1017,7 +1700,16 @@
         ],
         "correctIndex": 0,
         "explanation": "Beim Freiwurf darf die Freiwurflinie erst nach Freigabe des Balls übertreten werden; Täuschungen ohne Abgabe sind verboten.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 43"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 43"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q78",
@@ -1030,7 +1722,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Die Mittellinie gehört zum Rückfeld; relevant für 8-Sekunden- und Rückspielregeln.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Spielfelddefinitionen"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Spielfelddefinitionen"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q79",
@@ -1039,11 +1740,20 @@
           "Wenn der Verteidiger in legaler Position ist",
           "Wenn der Verteidiger den Blocksteller schiebt oder hält, um hindurchzukommen",
           "Wenn der Verteidiger tief steht",
-          "Nie"
+          "Eine Lösung für nie"
         ],
         "correctIndex": 1,
         "explanation": "Halten/Schieben, um einen Screen zu durchbrechen, ist illegal.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 33, 34"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 33, 34"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q80",
@@ -1056,7 +1766,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Das gleichzeitige Berühren mit beiden Händen beendet das Dribbling; erneutes Dribbeln ist Doppeldribbling.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 24"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 24"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q81",
@@ -1069,7 +1788,16 @@
         ],
         "correctIndex": 1,
         "explanation": "POI sieht Fortsetzung am Unterbrechungsort vor, z. B. nach technischen Fouls und Doppelfoul.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 36, 35"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 36, 35"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q82",
@@ -1082,7 +1810,16 @@
         ],
         "correctIndex": 1,
         "explanation": "C3-Kriterium: Foul ohne legitimen Ballspielversuch, um schnellen Angriff zu stoppen, ist unsportlich.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 37"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 37"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q83",
@@ -1095,7 +1832,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Der Werfer darf die Freiwurflinie/Zone erst betreten, nachdem der Ball den Ring berührt hat.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 43"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 43"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q84",
@@ -1108,7 +1854,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Während des Einwurfs gibt es keine Teamkontrolle auf dem Spielfeld, bis der Ball legal im Feld berührt wird.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 14, 17"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 14, 17"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q85",
@@ -1121,7 +1876,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Berührt der Schütze beim Abwurf die 3-Punkte-Linie, ist es ein 2-Punkte-Wurf.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 16.2"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 16.2"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q86",
@@ -1134,7 +1898,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Berührt der Ball eine Person/Gegenstand im Aus (inkl. Schiedsrichter), ist er aus.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 23"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 23"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q87",
@@ -1147,7 +1920,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Die Spieluhr stoppt u. a. bei Pfiff, bei Korberfolg in der letzten 2 Minuten des 4. Viertels/OT und bei Auszeiten (wettbewerbsabhängig).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 8"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 8"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q88",
@@ -1160,7 +1942,16 @@
         ],
         "correctIndex": 0,
         "explanation": "Klemmt der Ball zwischen Ring und Brett, ist das eine Halteballsituation (AP-Fortsetzung).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 12"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 12"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q89",
@@ -1173,7 +1964,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Charging liegt vor, wenn der Angreifer in einen rechtzeitig, legal positionierten Verteidiger läuft.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 33"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 33"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q90",
@@ -1186,7 +1986,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Die 8-Sekunden-Regel startet mit Ballkontrolle im Rückfeld und endet mit Vorfeldetablierung (Ball und beide Füße eines ballkontrollierenden Spielers).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 28"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 28"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q91",
@@ -1199,7 +2008,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Nach Beginn der kontinuierlichen Wurfbewegung liegt AOW vor; relevante Konsequenzen bei Foulentscheidung.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 15, 41"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 15, 41"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q92",
@@ -1212,7 +2030,16 @@
         ],
         "correctIndex": 0,
         "explanation": "C2 steht für übermäßigen, harten Kontakt, der nichts mit normalem Basketball zu tun hat.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 37"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 37"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q93",
@@ -1225,7 +2052,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Illegales Dribbling umfasst Tragen/Anhalten und erneutes Beginnen (Doppeldribbling).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 24"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 24"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q94",
@@ -1238,7 +2074,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Ab dem 5. Teamfoul pro Viertel setzt die Penalty ein.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 41"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 41"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q95",
@@ -1251,7 +2096,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Das Spielen des Balls von unten durch die Ringebene ist eine Regelübertretung.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 31"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 31"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q96",
@@ -1264,7 +2118,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Mit dem 5. Foul scheidet ein Spieler aus und muss ersetzt werden.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 40"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 40"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q97",
@@ -1277,7 +2140,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Bei unmittelbarer Angriffsaktion (Drive) wird die 3-Sekunden-Regel situativ gelockert (Toleranz).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 26 (Hinweise/Interpretationen)"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 26 (Hinweise/Interpretationen)"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q98",
@@ -1290,7 +2162,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Das Durchbrechen der Einwurfebene oder Kontakt mit dem Einwerfer ist zu ahnden (Verwarnung/Technisches Foul).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 17, 36"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 17, 36"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q99",
@@ -1303,7 +2184,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Die kontinuierliche Wurfbewegung beginnt mit der fließenden, ununterbrochenen Bewegung zum Korb, die direkt zum Wurf führt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Art. 15"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Art. 15"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q100",
@@ -1316,23 +2206,41 @@
         ],
         "correctIndex": 1,
         "explanation": "Nach administrativen Unterbrechungen wird am Punkt der Unterbrechung fortgesetzt (POI).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Allgemeine Bestimmungen, POI"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Allgemeine Bestimmungen, POI"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q101",
         "text": "Wie viele Auszeiten darf ein Team pro Halbzeit maximal nehmen?",
         "options": [
           "2 Auszeiten",
-          "3 Auszeiten", 
+          "3 Auszeiten",
           "4 Auszeiten",
           "5 Auszeiten"
         ],
         "correctIndex": 0,
         "explanation": "Pro Halbzeit sind maximal 2 Auszeiten erlaubt, wobei nur eine davon in den letzten 2 Minuten genommen werden darf.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel V, Art. 18"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel V, Art. 18"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
-        "id": "q102", 
+        "id": "q102",
         "text": "Wann ist das Tragen von Schmuck während des Spiels erlaubt?",
         "options": [
           "Niemals",
@@ -1342,7 +2250,16 @@
         ],
         "correctIndex": 0,
         "explanation": "Das Tragen von Schmuck jeder Art ist während des Spiels verboten, auch religiöser oder medizinischer Schmuck.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel III, Ausrüstung"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel III, Ausrüstung"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q103",
@@ -1355,20 +2272,38 @@
         ],
         "correctIndex": 1,
         "explanation": "Das unerlaubte Betreten des Spielfelds durch den Coach führt zu einem technischen Foul.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 36"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VII, Art. 36"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q104",
         "text": "Wie hoch ist der Basketball-Korb nach FIBA-Regeln?",
         "options": [
           "3,00 m",
-          "3,05 m", 
+          "3,05 m",
           "3,10 m",
           "3,15 m"
         ],
         "correctIndex": 1,
         "explanation": "Der Basketball-Korb hängt 3,05 Meter über dem Spielfeldboden.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Spielfeldmaße, Ausrüstung"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Spielfeldmaße, Ausrüstung"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q105",
@@ -1376,12 +2311,21 @@
         "options": [
           "Nach 15 Minuten nicht antreten",
           "Nach 10 Minuten nicht antreten",
-          "Nach 5 Minuten nicht antreten", 
+          "Nach 5 Minuten nicht antreten",
           "Sofort bei Nichtantreten"
         ],
         "correctIndex": 0,
         "explanation": "Eine Mannschaft wird disqualifiziert, wenn sie 15 Minuten nach der angesetzten Spielzeit nicht spielbereit antritt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 9"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 9"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q106",
@@ -1389,12 +2333,21 @@
         "options": [
           "Größe 5",
           "Größe 6",
-          "Größe 7", 
+          "Größe 7",
           "Größe 8"
         ],
         "correctIndex": 2,
         "explanation": "Im Herren-Basketball wird ein Ball der Größe 7 verwendet (Umfang 75-78 cm, Gewicht 567-650 g).",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel III, Ausrüstung"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel III, Ausrüstung"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q107",
@@ -1407,10 +2360,19 @@
         ],
         "correctIndex": 1,
         "explanation": "Ein Clear-Out Foul liegt vor, wenn der ballführende Spieler den Verteidiger mit Arm oder Hand wegdrückt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 33"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VII, Art. 33"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
-        "id": "q108", 
+        "id": "q108",
         "text": "Wie lange dauert die Pause zwischen den Vierteln?",
         "options": [
           "1 Minute",
@@ -1420,7 +2382,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Die Pause zwischen dem 1./2. und 3./4. Viertel beträgt jeweils 2 Minuten.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 8"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 8"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q109",
@@ -1428,12 +2399,21 @@
         "options": [
           "2 Freiwürfe + Ballbesitz",
           "2 Freiwürfe + Disqualifikation + Ballbesitz",
-          "1 Freiwurf + Ballbesitz", 
+          "1 Freiwurf + Ballbesitz",
           "Nur Disqualifikation"
         ],
         "correctIndex": 1,
         "explanation": "Ein disqualifizierendes Foul führt zu 2 Freiwürfen, Disqualifikation des Spielers und Ballbesitz für die gegnerische Mannschaft.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 38"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VII, Art. 38"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q110",
@@ -1441,12 +2421,21 @@
         "options": [
           "50 cm",
           "75 cm",
-          "1 m",
+          "Eine Lösung für 1 m",
           "Es gibt keinen Mindestabstand"
         ],
         "correctIndex": 2,
         "explanation": "Verteidiger müssen beim Einwurf mindestens 1 Meter Abstand zum Einwerfer halten.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 17"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 17"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q111",
@@ -1459,7 +2448,16 @@
         ],
         "correctIndex": 1,
         "explanation": "Ein Spiel kann bei Sicherheitsrisiken, schwerwiegenden technischen Problemen oder anderen außergewöhnlichen Umständen abgebrochen werden.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Allgemeine Bestimmungen"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Allgemeine Bestimmungen"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q112",
@@ -1472,7 +2470,16 @@
         ],
         "correctIndex": 0,
         "explanation": "Bei gleichzeitigen technischen Fouls beider Teams werden die Strafen aufgehoben und am Punkt der Unterbrechung fortgesetzt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VII, Art. 35"
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VII, Art. 35"
+        },
+        "tags": [
+          "Basketball",
+          "Regeln"
+        ],
+        "difficulty": "mittel"
       },
       {
         "id": "q113",
@@ -1485,8 +2492,16 @@
         ],
         "correctIndex": 0,
         "explanation": "Traveling ist illegale Fortbewegung mit dem Ball. Nach dem Aufnehmen des Balls sind maximal 2 Schritte ohne Dribbling erlaubt, danach muss gepasst oder geworfen werden.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VI, Art. 25",
-        "tags": ["Traveling", "Schrittfehler", "Ballführung"],
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VI, Art. 25"
+        },
+        "tags": [
+          "Traveling",
+          "Schrittfehler",
+          "Ballführung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1500,8 +2515,16 @@
         ],
         "correctIndex": 0,
         "explanation": "Goaltending liegt vor, wenn ein Spieler den Ball berührt während er sich im Abwärtstrend zum Korb befindet und eine Chance hat, in den Korb zu gehen. Das Tor wird als erzielt gewertet.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VI, Art. 31",
-        "tags": ["Goaltending", "Korbverteidigung", "Regelverstoß"],
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VI, Art. 31"
+        },
+        "tags": [
+          "Goaltending",
+          "Korbverteidigung",
+          "Regelverstoß"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1515,8 +2538,16 @@
         ],
         "correctIndex": 0,
         "explanation": "Basket Interference ist die illegale Berührung des Korbs, Bretts oder Balls während der Ball am Ring ist oder im Korbzylinder. Dies wird wie Goaltending behandelt.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VI, Art. 31",
-        "tags": ["Basket Interference", "Korb", "Regelverstoß"],
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VI, Art. 31"
+        },
+        "tags": [
+          "Basket Interference",
+          "Korb",
+          "Regelverstoß"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1530,8 +2561,16 @@
         ],
         "correctIndex": 0,
         "explanation": "Ein Jump Ball wird zu Spielbeginn und bei bestimmten Spielsituationen (z.B. Held Ball) durchgeführt. Der Schiedsrichter wirft den Ball zwischen zwei Gegnern hoch.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 12",
-        "tags": ["Jump Ball", "Sprungball", "Spieleröffnung"],
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 12"
+        },
+        "tags": [
+          "Jump Ball",
+          "Sprungball",
+          "Spieleröffnung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1545,8 +2584,16 @@
         ],
         "correctIndex": 0,
         "explanation": "Ein Angriffsspieler darf sich nicht länger als 3 aufeinanderfolgende Sekunden in der gegnerischen Zone (Paint) aufhalten, während sein Team Ballkontrolle im Vorfeld hat.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VI, Art. 26",
-        "tags": ["3-Sekunden", "Zone", "Zeitregel"],
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VI, Art. 26"
+        },
+        "tags": [
+          "3-Sekunden",
+          "Zone",
+          "Zeitregel"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1560,8 +2607,16 @@
         ],
         "correctIndex": 0,
         "explanation": "Held Ball liegt vor, wenn zwei oder mehr gegnerische Spieler den Ball so fest halten, dass keiner ihn erlangen kann ohne übermäßige Härte. Es folgt ein Wechselballbesitz.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel IV, Art. 12.3",
-        "tags": ["Held Ball", "Wechselballbesitz", "Spielsituation"],
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel IV, Art. 12.3"
+        },
+        "tags": [
+          "Held Ball",
+          "Wechselballbesitz",
+          "Spielsituation"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1575,8 +2630,16 @@
         ],
         "correctIndex": 0,
         "explanation": "Backcourt Violation: Nachdem ein Team Ballkontrolle im Vorfeld erlangt hat, darf der Ball nicht mehr ins Rückfeld zurückgespielt werden. Ballverlust für die Offense.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel VI, Art. 30",
-        "tags": ["Backcourt", "Rückfeld", "Regelverstoß"],
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel VI, Art. 30"
+        },
+        "tags": [
+          "Backcourt",
+          "Rückfeld",
+          "Regelverstoß"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1590,10 +2653,22 @@
         ],
         "correctIndex": 0,
         "explanation": "Die Oberkante des Korbrings befindet sich exakt 3,05 Meter (10 Fuß) über dem Spielfeld. Dies ist eine der grundlegenden Standardmaße im Basketball.",
-        "source": "DBB Offizielle Basketball-Regeln 2024 v1.0 – Regel I, Art. 1",
-        "tags": ["Korbhöhe", "Abmessungen", "Standard"],
+        "source": {
+          "citation": "DBB Offizielle Basketball-Regeln 2024 v1.0",
+          "pages": "S. 1",
+          "chapter": "Regel I, Art. 1"
+        },
+        "tags": [
+          "Korbhöhe",
+          "Abmessungen",
+          "Standard"
+        ],
         "difficulty": "leicht"
       }
-    ]
+    ],
+    "metadata": {
+      "createdAt": "2025-10-17T13:46:01.232932Z",
+      "notes": "Quiz optimiert und validiert"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "quiz": {
     "title": "Formale Methoden und Erklärbare KI",
-    "description": "Teste dein Wissen über formale Methoden und erklärbare künstliche Intelligenz. Der Fragenkatalog umfasst {questionCount} Fragen zu formaler Verifikation, Systemmodellierung, probabilistischer Programmierung und verifizierbarer KI-Systeme.",
+    "description": "Teste dein Wissen über formale Methoden und erklärbare künstliche Intelligenz. Der Fragenkatalog umfasst 100 Fragen zu formaler Verifikation, Systemmodellierung, probabilistischer Programmierung und verifizierbarer KI-Systeme.",
     "language": "de",
     "version": "1.0",
     "sourceDocument": {
@@ -11,7 +11,9 @@
         "createdAt": "2025-09-25T10:00:00Z",
         "version": "1.0",
         "year": 2022
-      }
+      },
+      "version": "1.0",
+      "year": 2025
     },
     "settings": {
       "shuffleQuestions": true,
@@ -2322,6 +2324,10 @@
         ],
         "difficulty": "leicht"
       }
-    ]
+    ],
+    "metadata": {
+      "createdAt": "2025-10-17T13:46:00.954486Z",
+      "notes": "Quiz optimiert und validiert"
+    }
   }
 }

@@ -1,8 +1,8 @@
 {
   "quiz": {
     "title": "Wakeboard Quiz",
-    "description": "Teste dein Wissen zu den IWWF Wakeboard Boat Rules 2024 und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
-    "language": "de", 
+    "description": "Teste dein Wissen zu den IWWF Wakeboard Boat Rules 2024 und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus 100 Fragen.",
+    "language": "de",
     "version": "1.0",
     "sourceDocument": {
       "title": "IWWF Wakeboard Boat Rules",
@@ -12,19 +12,19 @@
     },
     "settings": {
       "shuffleQuestions": true,
-      "shuffleOptions": true, 
+      "shuffleOptions": true,
       "showExplanations": true,
-      "timePerQuestionSec": 0
+      "timePerQuestionSec": 60
     },
     "questions": [
       {
         "id": "q1",
         "text": "Welche Mindesttemperatur muss das Wasser haben, damit ein Wettkampf stattfinden kann?",
         "options": [
-          "10°C",
-          "12°C",
-          "15°C",
-          "18°C"
+          "Eine Lösung für 10°c",
+          "Eine Lösung für 12°c",
+          "Eine Lösung für 15°c",
+          "Eine Lösung für 18°c"
         ],
         "correctIndex": 1,
         "explanation": "Die Wassertemperatur muss mindestens 12°C (54°F) betragen, damit ein Wettkampf durchgeführt werden kann. Dies dient der Sicherheit der Athleten.",
@@ -33,7 +33,10 @@
           "pages": "S. 8",
           "chapter": "Competition Area Requirements"
         },
-        "tags": ["Sicherheit", "Wettkampfbedingungen"],
+        "tags": [
+          "Sicherheit",
+          "Wettkampfbedingungen"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -52,7 +55,10 @@
           "pages": "S. 15",
           "chapter": "Competition Format"
         },
-        "tags": ["Wettkampfformat", "Qualifikation"],
+        "tags": [
+          "Wettkampfformat",
+          "Qualifikation"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -71,7 +77,10 @@
           "pages": "S. 16",
           "chapter": "Ride Time"
         },
-        "tags": ["Zeitlimit", "Wettkampfregeln"],
+        "tags": [
+          "Zeitlimit",
+          "Wettkampfregeln"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -90,7 +99,10 @@
           "pages": "S. 20",
           "chapter": "Judging Panel"
         },
-        "tags": ["Wertung", "Richter"],
+        "tags": [
+          "Wertung",
+          "Richter"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -109,7 +121,10 @@
           "pages": "S. 22",
           "chapter": "Scoring System"
         },
-        "tags": ["Bewertung", "Punktesystem"],
+        "tags": [
+          "Bewertung",
+          "Punktesystem"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -128,7 +143,10 @@
           "pages": "S. 23",
           "chapter": "Judging Criteria"
         },
-        "tags": ["Bewertungskriterien", "Wertung"],
+        "tags": [
+          "Bewertungskriterien",
+          "Wertung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -147,7 +165,10 @@
           "pages": "S. 24",
           "chapter": "Execution Criteria"
         },
-        "tags": ["Execution", "Bewertungskriterien"],
+        "tags": [
+          "Execution",
+          "Bewertungskriterien"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -166,7 +187,10 @@
           "pages": "S. 10",
           "chapter": "Boat Speed"
         },
-        "tags": ["Bootsgeschwindigkeit", "Equipment"],
+        "tags": [
+          "Bootsgeschwindigkeit",
+          "Equipment"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -185,7 +209,10 @@
           "pages": "S. 11",
           "chapter": "Rope Length"
         },
-        "tags": ["Seillänge", "Equipment"],
+        "tags": [
+          "Seillänge",
+          "Equipment"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -204,7 +231,10 @@
           "pages": "S. 17",
           "chapter": "Fall Rules"
         },
-        "tags": ["Sturz", "Wettkampfregeln"],
+        "tags": [
+          "Sturz",
+          "Wettkampfregeln"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -223,7 +253,10 @@
           "pages": "S. 35",
           "chapter": "Trick Definitions"
         },
-        "tags": ["Tricks", "Definitionen"],
+        "tags": [
+          "Tricks",
+          "Definitionen"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -242,7 +275,10 @@
           "pages": "S. 36",
           "chapter": "Trick Definitions"
         },
-        "tags": ["Tricks", "Raley"],
+        "tags": [
+          "Tricks",
+          "Raley"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -261,7 +297,10 @@
           "pages": "S. 15",
           "chapter": "Final Format"
         },
-        "tags": ["Finale", "Wettkampfformat"],
+        "tags": [
+          "Finale",
+          "Wettkampfformat"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -280,7 +319,10 @@
           "pages": "S. 37",
           "chapter": "Landing Definitions"
         },
-        "tags": ["Landing", "Definitionen"],
+        "tags": [
+          "Landing",
+          "Definitionen"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -299,7 +341,10 @@
           "pages": "S. 7-9",
           "chapter": "Safety Requirements"
         },
-        "tags": ["Sicherheit", "Anforderungen"],
+        "tags": [
+          "Sicherheit",
+          "Anforderungen"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -318,7 +363,10 @@
           "pages": "S. 25",
           "chapter": "Intensity Criteria"
         },
-        "tags": ["Intensity", "Bewertungskriterien"],
+        "tags": [
+          "Intensity",
+          "Bewertungskriterien"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -337,7 +385,10 @@
           "pages": "S. 26",
           "chapter": "Composition Criteria"
         },
-        "tags": ["Composition", "Bewertungskriterien"],
+        "tags": [
+          "Composition",
+          "Bewertungskriterien"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -356,7 +407,10 @@
           "pages": "S. 27",
           "chapter": "Trick Repetition"
         },
-        "tags": ["Tricks", "Wettkampfregeln"],
+        "tags": [
+          "Tricks",
+          "Wettkampfregeln"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -375,7 +429,10 @@
           "pages": "S. 38",
           "chapter": "Trick Definitions"
         },
-        "tags": ["Tricks", "Whirlybird"],
+        "tags": [
+          "Tricks",
+          "Whirlybird"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -394,7 +451,10 @@
           "pages": "S. 9",
           "chapter": "Competition Area"
         },
-        "tags": ["Wettkampfstrecke", "Anforderungen"],
+        "tags": [
+          "Wettkampfstrecke",
+          "Anforderungen"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -413,7 +473,10 @@
           "pages": "S. 39",
           "chapter": "Grab Definitions"
         },
-        "tags": ["Grabs", "Tricks"],
+        "tags": [
+          "Grabs",
+          "Tricks"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -432,7 +495,10 @@
           "pages": "S. 39",
           "chapter": "Grab Definitions"
         },
-        "tags": ["Grabs", "Indy"],
+        "tags": [
+          "Grabs",
+          "Indy"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -451,7 +517,10 @@
           "pages": "S. 18",
           "chapter": "Start Procedures"
         },
-        "tags": ["Start", "Wettkampfregeln"],
+        "tags": [
+          "Start",
+          "Wettkampfregeln"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -470,7 +539,10 @@
           "pages": "S. 40",
           "chapter": "Approach Definitions"
         },
-        "tags": ["Technik", "Approach"],
+        "tags": [
+          "Technik",
+          "Approach"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -489,7 +561,10 @@
           "pages": "S. 18",
           "chapter": "Timing"
         },
-        "tags": ["Zeitnahme", "Wettkampfregeln"],
+        "tags": [
+          "Zeitnahme",
+          "Wettkampfregeln"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -508,7 +583,10 @@
           "pages": "S. 41",
           "chapter": "Trick Definitions"
         },
-        "tags": ["Tricks", "Mobe"],
+        "tags": [
+          "Tricks",
+          "Mobe"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -527,7 +605,10 @@
           "pages": "S. 12",
           "chapter": "Equipment Adjustments"
         },
-        "tags": ["Equipment", "Seillänge"],
+        "tags": [
+          "Equipment",
+          "Seillänge"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -546,7 +627,10 @@
           "pages": "S. 42",
           "chapter": "Advanced Tricks"
         },
-        "tags": ["Tricks", "KGB"],
+        "tags": [
+          "Tricks",
+          "KGB"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -565,7 +649,10 @@
           "pages": "S. 10",
           "chapter": "Boat Requirements"
         },
-        "tags": ["Equipment", "Sicherheit"],
+        "tags": [
+          "Equipment",
+          "Sicherheit"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -584,7 +671,10 @@
           "pages": "S. 43",
           "chapter": "Advanced Tricks"
         },
-        "tags": ["Tricks", "Crow Mobe"],
+        "tags": [
+          "Tricks",
+          "Crow Mobe"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -603,7 +693,10 @@
           "pages": "S. 19",
           "chapter": "Entertainment"
         },
-        "tags": ["Wettkampfregeln", "Entertainment"],
+        "tags": [
+          "Wettkampfregeln",
+          "Entertainment"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -622,7 +715,10 @@
           "pages": "S. 44",
           "chapter": "Trick Definitions"
         },
-        "tags": ["Tricks", "Scarecrow"],
+        "tags": [
+          "Tricks",
+          "Scarecrow"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -641,7 +737,10 @@
           "pages": "S. 9",
           "chapter": "Competition Area"
         },
-        "tags": ["Sicherheit", "Wettkampfstrecke"],
+        "tags": [
+          "Sicherheit",
+          "Wettkampfstrecke"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -660,7 +759,10 @@
           "pages": "S. 45",
           "chapter": "Spin Definitions"
         },
-        "tags": ["Tricks", "Spins"],
+        "tags": [
+          "Tricks",
+          "Spins"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -679,7 +781,10 @@
           "pages": "S. 16",
           "chapter": "Final Rules"
         },
-        "tags": ["Finale", "Wettkampfregeln"],
+        "tags": [
+          "Finale",
+          "Wettkampfregeln"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -698,7 +803,10 @@
           "pages": "S. 46",
           "chapter": "Trick Definitions"
         },
-        "tags": ["Tricks", "S-Bend"],
+        "tags": [
+          "Tricks",
+          "S-Bend"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -717,7 +825,10 @@
           "pages": "S. 47",
           "chapter": "Stance Definitions"
         },
-        "tags": ["Technik", "Switch"],
+        "tags": [
+          "Technik",
+          "Switch"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -736,7 +847,10 @@
           "pages": "S. 26",
           "chapter": "Composition Guidelines"
         },
-        "tags": ["Composition", "Wettkampfstrategie"],
+        "tags": [
+          "Composition",
+          "Wettkampfstrategie"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -755,7 +869,10 @@
           "pages": "S. 40",
           "chapter": "Approach Definitions"
         },
-        "tags": ["Technik", "Approach"],
+        "tags": [
+          "Technik",
+          "Approach"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -774,7 +891,10 @@
           "pages": "S. 17",
           "chapter": "Ride Continuity"
         },
-        "tags": ["Wettkampfregeln", "Fahrablauf"],
+        "tags": [
+          "Wettkampfregeln",
+          "Fahrablauf"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -793,7 +913,10 @@
           "pages": "S. 48",
           "chapter": "Trick Combinations"
         },
-        "tags": ["Technik", "Kombinationen"],
+        "tags": [
+          "Technik",
+          "Kombinationen"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -812,7 +935,10 @@
           "pages": "S. 19",
           "chapter": "Technical Issues"
         },
-        "tags": ["Wettkampfregeln", "Re-Ride"],
+        "tags": [
+          "Wettkampfregeln",
+          "Re-Ride"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -831,7 +957,10 @@
           "pages": "S. 49",
           "chapter": "Grab Definitions"
         },
-        "tags": ["Grabs", "Method"],
+        "tags": [
+          "Grabs",
+          "Method"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -850,7 +979,10 @@
           "pages": "S. 28",
           "chapter": "Tiebreaker Rules"
         },
-        "tags": ["Wertung", "Tiebreaker"],
+        "tags": [
+          "Wertung",
+          "Tiebreaker"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -869,7 +1001,10 @@
           "pages": "S. 50",
           "chapter": "Approach Variations"
         },
-        "tags": ["Tricks", "Heelside"],
+        "tags": [
+          "Tricks",
+          "Heelside"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -888,7 +1023,10 @@
           "pages": "S. 27",
           "chapter": "Trick Execution Areas"
         },
-        "tags": ["Tricks", "Wettkampfregeln"],
+        "tags": [
+          "Tricks",
+          "Wettkampfregeln"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -907,7 +1045,10 @@
           "pages": "S. 51",
           "chapter": "Advanced Tricks"
         },
-        "tags": ["Tricks", "Pete Rose"],
+        "tags": [
+          "Tricks",
+          "Pete Rose"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -926,7 +1067,10 @@
           "pages": "S. 21",
           "chapter": "Judging Procedures"
         },
-        "tags": ["Wertung", "Richter"],
+        "tags": [
+          "Wertung",
+          "Richter"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -945,7 +1089,10 @@
           "pages": "S. 52",
           "chapter": "Grab Definitions"
         },
-        "tags": ["Grabs", "Nose"],
+        "tags": [
+          "Grabs",
+          "Nose"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -964,7 +1111,10 @@
           "pages": "S. 13",
           "chapter": "Equipment Regulations"
         },
-        "tags": ["Equipment", "Board"],
+        "tags": [
+          "Equipment",
+          "Board"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -983,7 +1133,10 @@
           "pages": "S. 52",
           "chapter": "Grab Definitions"
         },
-        "tags": ["Grabs", "Tail"],
+        "tags": [
+          "Grabs",
+          "Tail"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1002,7 +1155,10 @@
           "pages": "S. 53",
           "chapter": "Multiple Rotations"
         },
-        "tags": ["Tricks", "Double"],
+        "tags": [
+          "Tricks",
+          "Double"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1021,7 +1177,10 @@
           "pages": "S. 28",
           "chapter": "Incomplete Tricks"
         },
-        "tags": ["Wertung", "Tricks"],
+        "tags": [
+          "Wertung",
+          "Tricks"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1040,7 +1199,10 @@
           "pages": "S. 54",
           "chapter": "Approach Definitions"
         },
-        "tags": ["Technik", "Backside"],
+        "tags": [
+          "Technik",
+          "Backside"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1059,7 +1221,10 @@
           "pages": "S. 29",
           "chapter": "Video Review"
         },
-        "tags": ["Wettkampfregeln", "Protest"],
+        "tags": [
+          "Wettkampfregeln",
+          "Protest"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1078,7 +1243,10 @@
           "pages": "S. 55",
           "chapter": "Advanced Tricks"
         },
-        "tags": ["Tricks", "Krypt"],
+        "tags": [
+          "Tricks",
+          "Krypt"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1097,7 +1265,10 @@
           "pages": "S. 14",
           "chapter": "Team Regulations"
         },
-        "tags": ["Teams", "Wettkampfregeln"],
+        "tags": [
+          "Teams",
+          "Wettkampfregeln"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1116,7 +1287,10 @@
           "pages": "S. 56",
           "chapter": "Surface Tricks"
         },
-        "tags": ["Tricks", "Surface"],
+        "tags": [
+          "Tricks",
+          "Surface"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1135,7 +1309,10 @@
           "pages": "S. 20",
           "chapter": "Coaching Rules"
         },
-        "tags": ["Coaching", "Wettkampfregeln"],
+        "tags": [
+          "Coaching",
+          "Wettkampfregeln"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1154,7 +1331,10 @@
           "pages": "S. 57",
           "chapter": "Expert Tricks"
         },
-        "tags": ["Tricks", "Speedball"],
+        "tags": [
+          "Tricks",
+          "Speedball"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1173,7 +1353,10 @@
           "pages": "S. 18",
           "chapter": "Start Procedures"
         },
-        "tags": ["Wettkampfregeln", "Start"],
+        "tags": [
+          "Wettkampfregeln",
+          "Start"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1192,7 +1375,10 @@
           "pages": "S. 58",
           "chapter": "Approach Variations"
         },
-        "tags": ["Tricks", "Toeside"],
+        "tags": [
+          "Tricks",
+          "Toeside"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1211,7 +1397,10 @@
           "pages": "S. 13",
           "chapter": "Safety Equipment"
         },
-        "tags": ["Sicherheit", "Equipment"],
+        "tags": [
+          "Sicherheit",
+          "Equipment"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1230,7 +1419,10 @@
           "pages": "S. 59",
           "chapter": "Approach Variations"
         },
-        "tags": ["Tricks", "Heelside"],
+        "tags": [
+          "Tricks",
+          "Heelside"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1249,7 +1441,10 @@
           "pages": "S. 30",
           "chapter": "Landing Criteria"
         },
-        "tags": ["Technik", "Landing"],
+        "tags": [
+          "Technik",
+          "Landing"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1268,7 +1463,10 @@
           "pages": "S. 60",
           "chapter": "Grab Definitions"
         },
-        "tags": ["Grabs", "Melon"],
+        "tags": [
+          "Grabs",
+          "Melon"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1287,7 +1485,10 @@
           "pages": "S. 31",
           "chapter": "Protest Procedures"
         },
-        "tags": ["Wettkampfregeln", "Protest"],
+        "tags": [
+          "Wettkampfregeln",
+          "Protest"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1306,7 +1507,10 @@
           "pages": "S. 61",
           "chapter": "Advanced Techniques"
         },
-        "tags": ["Tricks", "Wrapped"],
+        "tags": [
+          "Tricks",
+          "Wrapped"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1325,7 +1529,10 @@
           "pages": "S. 14",
           "chapter": "Age Categories"
         },
-        "tags": ["Wettkampfregeln", "Altersklassen"],
+        "tags": [
+          "Wettkampfregeln",
+          "Altersklassen"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1344,7 +1551,10 @@
           "pages": "S. 62",
           "chapter": "Grab Definitions"
         },
-        "tags": ["Grabs", "Nuclear"],
+        "tags": [
+          "Grabs",
+          "Nuclear"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1363,7 +1573,10 @@
           "pages": "S. 21",
           "chapter": "Head Judge Authority"
         },
-        "tags": ["Richter", "Wettkampfregeln"],
+        "tags": [
+          "Richter",
+          "Wettkampfregeln"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1382,7 +1595,10 @@
           "pages": "S. 63",
           "chapter": "Spin Definitions"
         },
-        "tags": ["Tricks", "Spins"],
+        "tags": [
+          "Tricks",
+          "Spins"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1401,7 +1617,10 @@
           "pages": "S. 13",
           "chapter": "Board Configuration"
         },
-        "tags": ["Equipment", "Board"],
+        "tags": [
+          "Equipment",
+          "Board"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1420,7 +1639,10 @@
           "pages": "S. 64",
           "chapter": "Grab Definitions"
         },
-        "tags": ["Grabs", "Stalefish"],
+        "tags": [
+          "Grabs",
+          "Stalefish"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1439,7 +1661,10 @@
           "pages": "S. 8",
           "chapter": "Weather Conditions"
         },
-        "tags": ["Wettkampfbedingungen", "Wetter"],
+        "tags": [
+          "Wettkampfbedingungen",
+          "Wetter"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1458,7 +1683,10 @@
           "pages": "S. 65",
           "chapter": "Combination Tricks"
         },
-        "tags": ["Tricks", "Roll to Revert"],
+        "tags": [
+          "Tricks",
+          "Roll to Revert"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1477,7 +1705,10 @@
           "pages": "S. 27",
           "chapter": "Composition Requirements"
         },
-        "tags": ["Wettkampfregeln", "Composition"],
+        "tags": [
+          "Wettkampfregeln",
+          "Composition"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1496,7 +1727,10 @@
           "pages": "S. 66",
           "chapter": "Surface Tricks"
         },
-        "tags": ["Tricks", "Surface"],
+        "tags": [
+          "Tricks",
+          "Surface"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1515,7 +1749,10 @@
           "pages": "S. 15",
           "chapter": "Start Order"
         },
-        "tags": ["Wettkampfregeln", "Start"],
+        "tags": [
+          "Wettkampfregeln",
+          "Start"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1534,7 +1771,10 @@
           "pages": "S. 67",
           "chapter": "Raley Variations"
         },
-        "tags": ["Tricks", "Raley"],
+        "tags": [
+          "Tricks",
+          "Raley"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1553,7 +1793,10 @@
           "pages": "S. 32",
           "chapter": "Media Regulations"
         },
-        "tags": ["Wettkampfregeln", "Medien"],
+        "tags": [
+          "Wettkampfregeln",
+          "Medien"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1572,7 +1815,10 @@
           "pages": "S. 68",
           "chapter": "Advanced Tricks"
         },
-        "tags": ["Tricks", "Heart Attack"],
+        "tags": [
+          "Tricks",
+          "Heart Attack"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1591,7 +1837,10 @@
           "pages": "S. 16",
           "chapter": "Final Scoring"
         },
-        "tags": ["Finale", "Wertung"],
+        "tags": [
+          "Finale",
+          "Wertung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1610,7 +1859,10 @@
           "pages": "S. 69",
           "chapter": "Advanced Tricks"
         },
-        "tags": ["Tricks", "Slim Chance"],
+        "tags": [
+          "Tricks",
+          "Slim Chance"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1629,7 +1881,10 @@
           "pages": "S. 26",
           "chapter": "Judging Philosophy"
         },
-        "tags": ["Wertung", "Style"],
+        "tags": [
+          "Wertung",
+          "Style"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1648,7 +1903,10 @@
           "pages": "S. 70",
           "chapter": "Advanced Tricks"
         },
-        "tags": ["Tricks", "Hoochie Glide"],
+        "tags": [
+          "Tricks",
+          "Hoochie Glide"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1667,7 +1925,10 @@
           "pages": "S. 19",
           "chapter": "Music Selection"
         },
-        "tags": ["Wettkampfregeln", "Entertainment"],
+        "tags": [
+          "Wettkampfregeln",
+          "Entertainment"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1686,7 +1947,10 @@
           "pages": "S. 71",
           "chapter": "Handle Pass Tricks"
         },
-        "tags": ["Tricks", "Handle Pass"],
+        "tags": [
+          "Tricks",
+          "Handle Pass"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1705,7 +1969,10 @@
           "pages": "S. 17",
           "chapter": "Practice Sessions"
         },
-        "tags": ["Training", "Wettkampfregeln"],
+        "tags": [
+          "Training",
+          "Wettkampfregeln"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1724,7 +1991,10 @@
           "pages": "S. 72",
           "chapter": "Advanced Tricks"
         },
-        "tags": ["Tricks", "Elephant"],
+        "tags": [
+          "Tricks",
+          "Elephant"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1743,7 +2013,10 @@
           "pages": "S. 28",
           "chapter": "Fall Consequences"
         },
-        "tags": ["Sturz", "Wertung"],
+        "tags": [
+          "Sturz",
+          "Wertung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1762,7 +2035,10 @@
           "pages": "S. 73",
           "chapter": "Tantrum Variations"
         },
-        "tags": ["Tricks", "Vulcan"],
+        "tags": [
+          "Tricks",
+          "Vulcan"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1781,7 +2057,10 @@
           "pages": "S. 23",
           "chapter": "Gender-Neutral Judging"
         },
-        "tags": ["Wertung", "Fairness"],
+        "tags": [
+          "Wertung",
+          "Fairness"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1800,7 +2079,10 @@
           "pages": "S. 74",
           "chapter": "Handle Pass Tricks"
         },
-        "tags": ["Tricks", "Fruit Loop"],
+        "tags": [
+          "Tricks",
+          "Fruit Loop"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1819,7 +2101,10 @@
           "pages": "S. 33",
           "chapter": "Trick Nomenclature"
         },
-        "tags": ["Tricks", "Definitionen"],
+        "tags": [
+          "Tricks",
+          "Definitionen"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1838,7 +2123,10 @@
           "pages": "S. 75",
           "chapter": "Advanced Tricks"
         },
-        "tags": ["Tricks", "Dum Dum"],
+        "tags": [
+          "Tricks",
+          "Dum Dum"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1857,7 +2145,10 @@
           "pages": "S. 21",
           "chapter": "Score Corrections"
         },
-        "tags": ["Richter", "Wertung"],
+        "tags": [
+          "Richter",
+          "Wertung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1876,7 +2167,10 @@
           "pages": "S. 20",
           "chapter": "Judging Procedures"
         },
-        "tags": ["Richter", "Fairness"],
+        "tags": [
+          "Richter",
+          "Fairness"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1895,7 +2189,10 @@
           "pages": "S. 76",
           "chapter": "Grab Definitions"
         },
-        "tags": ["Grabs", "Roast Beef"],
+        "tags": [
+          "Grabs",
+          "Roast Beef"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1914,10 +2211,16 @@
           "pages": "S. 25",
           "chapter": "Difficulty Assessment"
         },
-        "tags": ["Wertung", "Intensity"],
+        "tags": [
+          "Wertung",
+          "Intensity"
+        ],
         "difficulty": "mittel"
       }
-    ]
+    ],
+    "metadata": {
+      "createdAt": "2025-10-17T13:46:01.352606Z",
+      "notes": "Quiz optimiert und validiert"
+    }
   }
 }
-

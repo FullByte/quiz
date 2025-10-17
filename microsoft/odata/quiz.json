@@ -23,7 +23,7 @@
     "questions": [
       {
         "id": "q1",
-        "text": "Was ist OData?",
+        "text": "Was ist die Hauptfunktion von OData?",
         "options": [
           "Ein Betriebssystem",
           "Ein offenes Web-Protokoll für das Abfragen und Aktualisieren von Daten",

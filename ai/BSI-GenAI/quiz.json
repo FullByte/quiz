@@ -1,7 +1,7 @@
 {
   "quiz": {
     "title": "Generative KI-Modelle",
-    "description": "Teste dein Wissen über generative KI-Modelle, Large Language Models, Diffusionsmodelle und deren Sicherheitsaspekte. Der Fragenkatalog umfasst {questionCount} Fragen zu Funktionsweise, Risiken und Best Practices.",
+    "description": "Teste dein Wissen über generative KI-Modelle, Large Language Models, Diffusionsmodelle und deren Sicherheitsaspekte. Der Fragenkatalog umfasst 80 Fragen zu Funktionsweise, Risiken und Best Practices.",
     "language": "de",
     "version": "1.0",
     "sourceDocument": {
@@ -10,7 +10,9 @@
       "metadata": {
         "createdAt": "2025-10-01T12:30:00Z",
         "version": "1.0"
-      }
+      },
+      "version": "1.0",
+      "year": 2025
     },
     "settings": {
       "shuffleQuestions": true,
@@ -35,7 +37,11 @@
           "pages": "S. 5",
           "chapter": "1 Einführung"
         },
-        "tags": ["Grundlagen", "Diskriminativ", "Generativ"],
+        "tags": [
+          "Grundlagen",
+          "Diskriminativ",
+          "Generativ"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -54,7 +60,11 @@
           "pages": "S. 7",
           "chapter": "2 Large Language Models"
         },
-        "tags": ["LLMs", "Transformer", "Sprachmodelle"],
+        "tags": [
+          "LLMs",
+          "Transformer",
+          "Sprachmodelle"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -73,7 +83,11 @@
           "pages": "S. 8",
           "chapter": "2.1 Transformer"
         },
-        "tags": ["Transformer", "Attention", "Architektur"],
+        "tags": [
+          "Transformer",
+          "Attention",
+          "Architektur"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -92,7 +106,11 @@
           "pages": "S. 9",
           "chapter": "2.2 Training-Phasen"
         },
-        "tags": ["Pre-training", "Self-supervised", "Foundation Models"],
+        "tags": [
+          "Pre-training",
+          "Self-supervised",
+          "Foundation Models"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -111,7 +129,11 @@
           "pages": "S. 10",
           "chapter": "2.3 Fine-tuning"
         },
-        "tags": ["Fine-tuning", "Transfer Learning", "Spezialisierung"],
+        "tags": [
+          "Fine-tuning",
+          "Transfer Learning",
+          "Spezialisierung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -130,7 +152,11 @@
           "pages": "S. 12",
           "chapter": "3 Interaktion mit LLMs"
         },
-        "tags": ["Prompt Engineering", "Prompts", "Interaktion"],
+        "tags": [
+          "Prompt Engineering",
+          "Prompts",
+          "Interaktion"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -149,7 +175,11 @@
           "pages": "S. 13",
           "chapter": "3.1 In-Context Learning"
         },
-        "tags": ["Few-Shot Learning", "In-Context Learning", "Prompting"],
+        "tags": [
+          "Few-Shot Learning",
+          "In-Context Learning",
+          "Prompting"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -168,7 +198,11 @@
           "pages": "S. 15",
           "chapter": "4 Risiken und Herausforderungen"
         },
-        "tags": ["Halluzinationen", "Faktentreue", "Risiken"],
+        "tags": [
+          "Halluzinationen",
+          "Faktentreue",
+          "Risiken"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -187,7 +221,11 @@
           "pages": "S. 17",
           "chapter": "4.1 Sicherheitsrisiken"
         },
-        "tags": ["Prompt Injection", "Angriffe", "Sicherheit"],
+        "tags": [
+          "Prompt Injection",
+          "Angriffe",
+          "Sicherheit"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -206,7 +244,11 @@
           "pages": "S. 18",
           "chapter": "4.2 Alignment-Umgehung"
         },
-        "tags": ["Jailbreaking", "Safety", "Adversarial"],
+        "tags": [
+          "Jailbreaking",
+          "Safety",
+          "Adversarial"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -225,7 +267,11 @@
           "pages": "S. 20",
           "chapter": "5 Alignment-Techniken"
         },
-        "tags": ["RLHF", "Alignment", "Human Feedback"],
+        "tags": [
+          "RLHF",
+          "Alignment",
+          "Human Feedback"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -244,7 +290,11 @@
           "pages": "S. 22",
           "chapter": "6 Bildgenerierende Modelle"
         },
-        "tags": ["Diffusionsmodelle", "Bildgenerierung", "Denoising"],
+        "tags": [
+          "Diffusionsmodelle",
+          "Bildgenerierung",
+          "Denoising"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -263,7 +313,11 @@
           "pages": "S. 24",
           "chapter": "6.1 Multimodale Modelle"
         },
-        "tags": ["Text-to-Image", "Multimodal", "DALL-E"],
+        "tags": [
+          "Text-to-Image",
+          "Multimodal",
+          "DALL-E"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -282,7 +336,11 @@
           "pages": "S. 26",
           "chapter": "7 Generierungsparameter"
         },
-        "tags": ["Temperature", "Sampling", "Hyperparameter"],
+        "tags": [
+          "Temperature",
+          "Sampling",
+          "Hyperparameter"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -301,7 +359,11 @@
           "pages": "S. 27",
           "chapter": "7.1 Sampling-Methoden"
         },
-        "tags": ["Top-K Sampling", "Dekodierung", "Qualität"],
+        "tags": [
+          "Top-K Sampling",
+          "Dekodierung",
+          "Qualität"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -320,7 +382,11 @@
           "pages": "S. 28",
           "chapter": "7.2 Generalisierung"
         },
-        "tags": ["Zero-Shot", "Generalisierung", "Transfer"],
+        "tags": [
+          "Zero-Shot",
+          "Generalisierung",
+          "Transfer"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -339,7 +405,11 @@
           "pages": "S. 29",
           "chapter": "7.3 Reasoning-Techniken"
         },
-        "tags": ["Chain-of-Thought", "Reasoning", "Prompting"],
+        "tags": [
+          "Chain-of-Thought",
+          "Reasoning",
+          "Prompting"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -358,7 +428,11 @@
           "pages": "S. 30",
           "chapter": "8 Repräsentationen"
         },
-        "tags": ["Embeddings", "Vektoren", "Semantik"],
+        "tags": [
+          "Embeddings",
+          "Vektoren",
+          "Semantik"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -377,7 +451,11 @@
           "pages": "S. 32",
           "chapter": "8.1 Skalierungseffekte"
         },
-        "tags": ["Scaling Laws", "Modellgröße", "Performance"],
+        "tags": [
+          "Scaling Laws",
+          "Modellgröße",
+          "Performance"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -396,7 +474,11 @@
           "pages": "S. 33",
           "chapter": "8.2 Emergenz"
         },
-        "tags": ["Emergent Abilities", "Skalierung", "Unvorhersehbarkeit"],
+        "tags": [
+          "Emergent Abilities",
+          "Skalierung",
+          "Unvorhersehbarkeit"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -415,7 +497,11 @@
           "pages": "S. 35",
           "chapter": "9 Hybride Ansätze"
         },
-        "tags": ["RAG", "Retrieval", "Wissensdatenbank"],
+        "tags": [
+          "RAG",
+          "Retrieval",
+          "Wissensdatenbank"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -434,7 +520,11 @@
           "pages": "S. 37",
           "chapter": "10 Alternative Architekturen"
         },
-        "tags": ["GANs", "Adversarial", "Generator"],
+        "tags": [
+          "GANs",
+          "Adversarial",
+          "Generator"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -453,7 +543,11 @@
           "pages": "S. 39",
           "chapter": "11 Missbr auchspotenziale"
         },
-        "tags": ["Deepfakes", "Manipulation", "Desinformation"],
+        "tags": [
+          "Deepfakes",
+          "Manipulation",
+          "Desinformation"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -472,7 +566,11 @@
           "pages": "S. 41",
           "chapter": "11.1 Privacy-Angriffe"
         },
-        "tags": ["Model Inversion", "Privacy", "Angriffe"],
+        "tags": [
+          "Model Inversion",
+          "Privacy",
+          "Angriffe"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -491,7 +589,11 @@
           "pages": "S. 42",
           "chapter": "11.2 Membership Inference"
         },
-        "tags": ["Membership Inference", "Privacy", "Trainingsdaten"],
+        "tags": [
+          "Membership Inference",
+          "Privacy",
+          "Trainingsdaten"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -510,7 +612,11 @@
           "pages": "S. 44",
           "chapter": "12 Foundation Models"
         },
-        "tags": ["Foundation Models", "Pre-training", "Basis"],
+        "tags": [
+          "Foundation Models",
+          "Pre-training",
+          "Basis"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -529,7 +635,11 @@
           "pages": "S. 46",
           "chapter": "13 Content Moderation"
         },
-        "tags": ["Toxicity", "Hate Speech", "Content Moderation"],
+        "tags": [
+          "Toxicity",
+          "Hate Speech",
+          "Content Moderation"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -548,7 +658,11 @@
           "pages": "S. 48",
           "chapter": "14 Spezialisiertes Training"
         },
-        "tags": ["Instruction Tuning", "Anweisungen", "Fine-tuning"],
+        "tags": [
+          "Instruction Tuning",
+          "Anweisungen",
+          "Fine-tuning"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -567,7 +681,11 @@
           "pages": "S. 50",
           "chapter": "15 Evaluation-Herausforderungen"
         },
-        "tags": ["Data Contamination", "Evaluation", "Benchmarking"],
+        "tags": [
+          "Data Contamination",
+          "Evaluation",
+          "Benchmarking"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -586,7 +704,11 @@
           "pages": "S. 52",
           "chapter": "16 Herkunftsnachweis"
         },
-        "tags": ["Watermarking", "Authentifizierung", "Provenance"],
+        "tags": [
+          "Watermarking",
+          "Authentifizierung",
+          "Provenance"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -605,7 +727,11 @@
           "pages": "S. 54",
           "chapter": "17 API-Sicherheit"
         },
-        "tags": ["Model Stealing", "API", "Intellectual Property"],
+        "tags": [
+          "Model Stealing",
+          "API",
+          "Intellectual Property"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -624,7 +750,11 @@
           "pages": "S. 56",
           "chapter": "18 Rechtliche Aspekte"
         },
-        "tags": ["Copyright", "Urheberrecht", "Rechtlich"],
+        "tags": [
+          "Copyright",
+          "Urheberrecht",
+          "Rechtlich"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -643,7 +773,11 @@
           "pages": "S. 58",
           "chapter": "19 Langzeitrisiken"
         },
-        "tags": ["Model Collapse", "Qualitätsverlust", "Synthetische Daten"],
+        "tags": [
+          "Model Collapse",
+          "Qualitätsverlust",
+          "Synthetische Daten"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -662,7 +796,11 @@
           "pages": "S. 60",
           "chapter": "20 Technische Limitationen"
         },
-        "tags": ["Context Window", "Token Limit", "Sequenzlänge"],
+        "tags": [
+          "Context Window",
+          "Token Limit",
+          "Sequenzlänge"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -681,7 +819,11 @@
           "pages": "S. 61",
           "chapter": "20.1 Preprocessing"
         },
-        "tags": ["Tokenization", "Preprocessing", "Tokens"],
+        "tags": [
+          "Tokenization",
+          "Preprocessing",
+          "Tokens"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -700,7 +842,11 @@
           "pages": "S. 63",
           "chapter": "21 Multimodalität"
         },
-        "tags": ["Multi-Modal", "Vision-Language", "Modalitäten"],
+        "tags": [
+          "Multi-Modal",
+          "Vision-Language",
+          "Modalitäten"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -719,7 +865,11 @@
           "pages": "S. 65",
           "chapter": "22 Detektion"
         },
-        "tags": ["Detection", "Authentizität", "Klassifikation"],
+        "tags": [
+          "Detection",
+          "Authentizität",
+          "Klassifikation"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -738,7 +888,11 @@
           "pages": "S. 67",
           "chapter": "23 Alternative Alignment-Methoden"
         },
-        "tags": ["Constitutional AI", "Alignment", "Selbst-Kritik"],
+        "tags": [
+          "Constitutional AI",
+          "Alignment",
+          "Selbst-Kritik"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -757,7 +911,11 @@
           "pages": "S. 69",
           "chapter": "24 Sicherheitsarchitektur"
         },
-        "tags": ["Guardrails", "Safety", "Filtering"],
+        "tags": [
+          "Guardrails",
+          "Safety",
+          "Filtering"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -776,7 +934,11 @@
           "pages": "S. 71",
           "chapter": "25 Sicherheitstests"
         },
-        "tags": ["Red Teaming", "Security Testing", "Adversarial"],
+        "tags": [
+          "Red Teaming",
+          "Security Testing",
+          "Adversarial"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -795,7 +957,11 @@
           "pages": "S. 73",
           "chapter": "26 Generative Architekturen"
         },
-        "tags": ["VAE", "Autoencoder", "Latent Space"],
+        "tags": [
+          "VAE",
+          "Autoencoder",
+          "Latent Space"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -814,7 +980,11 @@
           "pages": "S. 75",
           "chapter": "26.1 GAN-Probleme"
         },
-        "tags": ["Mode Collapse", "GANs", "Diversität"],
+        "tags": [
+          "Mode Collapse",
+          "GANs",
+          "Diversität"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -833,7 +1003,11 @@
           "pages": "S. 77",
           "chapter": "27 Effiziente Diffusion"
         },
-        "tags": ["Latent Diffusion", "Stable Diffusion", "Effizienz"],
+        "tags": [
+          "Latent Diffusion",
+          "Stable Diffusion",
+          "Effizienz"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -852,7 +1026,11 @@
           "pages": "S. 79",
           "chapter": "28 Effizientes Fine-tuning"
         },
-        "tags": ["LoRA", "Efficient Training", "Parameter-Efficient"],
+        "tags": [
+          "LoRA",
+          "Efficient Training",
+          "Parameter-Efficient"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -871,7 +1049,11 @@
           "pages": "S. 81",
           "chapter": "29 Modelloptimierung"
         },
-        "tags": ["Quantization", "Kompression", "Effizienz"],
+        "tags": [
+          "Quantization",
+          "Kompression",
+          "Effizienz"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -890,7 +1072,11 @@
           "pages": "S. 83",
           "chapter": "30 Skalierungsarchitekturen"
         },
-        "tags": ["MoE", "Experten", "Sparse Activation"],
+        "tags": [
+          "MoE",
+          "Experten",
+          "Sparse Activation"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -909,7 +1095,11 @@
           "pages": "S. 85",
           "chapter": "31 KI-Sicherheit"
         },
-        "tags": ["Alignment", "Werte", "KI-Sicherheit"],
+        "tags": [
+          "Alignment",
+          "Werte",
+          "KI-Sicherheit"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -928,7 +1118,11 @@
           "pages": "S. 87",
           "chapter": "32 Steuerungstechniken"
         },
-        "tags": ["Inference-Time", "Steuerung", "Guidance"],
+        "tags": [
+          "Inference-Time",
+          "Steuerung",
+          "Guidance"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -947,7 +1141,11 @@
           "pages": "S. 89",
           "chapter": "33 Hybrid-Systeme"
         },
-        "tags": ["RAG", "Retrieval", "Wissensdatenbank"],
+        "tags": [
+          "RAG",
+          "Retrieval",
+          "Wissensdatenbank"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -966,7 +1164,11 @@
           "pages": "S. 91",
           "chapter": "34 BSI-Empfehlungen"
         },
-        "tags": ["BSI", "Sicherheitsmaßnahmen", "Best Practices"],
+        "tags": [
+          "BSI",
+          "Sicherheitsmaßnahmen",
+          "Best Practices"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -985,7 +1187,11 @@
           "pages": "S. 10",
           "chapter": "2.1.1 Self-Attention"
         },
-        "tags": ["Attention", "Transformer", "Mechanismus"],
+        "tags": [
+          "Attention",
+          "Transformer",
+          "Mechanismus"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1004,7 +1210,11 @@
           "pages": "S. 11",
           "chapter": "2.2 Generierungsparadigmen"
         },
-        "tags": ["Autoregressive", "Sequenziell", "Generation"],
+        "tags": [
+          "Autoregressive",
+          "Sequenziell",
+          "Generation"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1023,7 +1233,11 @@
           "pages": "S. 25",
           "chapter": "6.2 Vision-Language Models"
         },
-        "tags": ["CLIP", "Multi-Modal", "Embeddings"],
+        "tags": [
+          "CLIP",
+          "Multi-Modal",
+          "Embeddings"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1042,7 +1256,11 @@
           "pages": "S. 78",
           "chapter": "27 Kontrollierte Generierung"
         },
-        "tags": ["ControlNet", "Steuerung", "Diffusion"],
+        "tags": [
+          "ControlNet",
+          "Steuerung",
+          "Diffusion"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1061,7 +1279,11 @@
           "pages": "S. 14",
           "chapter": "3.2 Adaptivität"
         },
-        "tags": ["In-Context Learning", "Few-Shot", "Adaptivität"],
+        "tags": [
+          "In-Context Learning",
+          "Few-Shot",
+          "Adaptivität"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1080,7 +1302,11 @@
           "pages": "S. 43",
           "chapter": "11.3 Privacy-Risiken"
         },
-        "tags": ["Memorization", "Privacy", "Datenlecks"],
+        "tags": [
+          "Memorization",
+          "Privacy",
+          "Datenlecks"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1099,7 +1325,11 @@
           "pages": "S. 82",
           "chapter": "29.1 Betriebskosten"
         },
-        "tags": ["Inference Cost", "Effizienz", "Nachhaltigkeit"],
+        "tags": [
+          "Inference Cost",
+          "Effizienz",
+          "Nachhaltigkeit"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1118,7 +1348,11 @@
           "pages": "S. 84",
           "chapter": "29.2 Inferenz-Optimierung"
         },
-        "tags": ["Speculative Decoding", "Beschleunigung", "Inferenz"],
+        "tags": [
+          "Speculative Decoding",
+          "Beschleunigung",
+          "Inferenz"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1137,7 +1371,11 @@
           "pages": "S. 16",
           "chapter": "3.3 Prompt-Struktur"
         },
-        "tags": ["System Prompt", "Instruktionen", "Verhalten"],
+        "tags": [
+          "System Prompt",
+          "Instruktionen",
+          "Verhalten"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1156,7 +1394,11 @@
           "pages": "S. 51",
           "chapter": "15.1 Bewertungsherausforderungen"
         },
-        "tags": ["Evaluation", "Metriken", "Qualitätsbewertung"],
+        "tags": [
+          "Evaluation",
+          "Metriken",
+          "Qualitätsbewertung"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1175,7 +1417,11 @@
           "pages": "S. 80",
           "chapter": "28.1 PEFT-Methoden"
         },
-        "tags": ["PEFT", "Effizienz", "Fine-tuning"],
+        "tags": [
+          "PEFT",
+          "Effizienz",
+          "Fine-tuning"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1194,7 +1440,11 @@
           "pages": "S. 92",
           "chapter": "35 Kontinuierliches Lernen"
         },
-        "tags": ["Catastrophic Forgetting", "Continual Learning", "Multi-Task"],
+        "tags": [
+          "Catastrophic Forgetting",
+          "Continual Learning",
+          "Multi-Task"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1213,7 +1463,11 @@
           "pages": "S. 28",
           "chapter": "7.2 Prompt-Techniken"
         },
-        "tags": ["Negative Prompts", "Bildgenerierung", "Steuerung"],
+        "tags": [
+          "Negative Prompts",
+          "Bildgenerierung",
+          "Steuerung"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1232,7 +1486,11 @@
           "pages": "S. 78",
           "chapter": "27.1 Strukturelle Kontrolle"
         },
-        "tags": ["ControlNet", "Kontrolle", "Stable Diffusion"],
+        "tags": [
+          "ControlNet",
+          "Kontrolle",
+          "Stable Diffusion"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1251,7 +1509,11 @@
           "pages": "S. 76",
           "chapter": "27.2 Guidance-Techniken"
         },
-        "tags": ["Classifier-Free Guidance", "Diffusion", "Steuerung"],
+        "tags": [
+          "Classifier-Free Guidance",
+          "Diffusion",
+          "Steuerung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1270,7 +1532,11 @@
           "pages": "S. 53",
           "chapter": "15.2 Evaluation-Metriken"
         },
-        "tags": ["Perplexity", "Metriken", "Evaluation"],
+        "tags": [
+          "Perplexity",
+          "Metriken",
+          "Evaluation"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1289,7 +1555,11 @@
           "pages": "S. 90",
           "chapter": "33.1 Faktentreue"
         },
-        "tags": ["Grounding", "Faktentreue", "Quellen"],
+        "tags": [
+          "Grounding",
+          "Faktentreue",
+          "Quellen"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1308,7 +1578,11 @@
           "pages": "S. 19",
           "chapter": "4.1.1 Informationslecks"
         },
-        "tags": ["Prompt Leaking", "Sicherheit", "Information Disclosure"],
+        "tags": [
+          "Prompt Leaking",
+          "Sicherheit",
+          "Information Disclosure"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1327,7 +1601,11 @@
           "pages": "S. 27",
           "chapter": "7.1.2 Top-P Sampling"
         },
-        "tags": ["Nucleus Sampling", "Top-P", "Dekodierung"],
+        "tags": [
+          "Nucleus Sampling",
+          "Top-P",
+          "Dekodierung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1346,7 +1624,11 @@
           "pages": "S. 86",
           "chapter": "29.3 Trainings-Optimierung"
         },
-        "tags": ["Gradient Checkpointing", "Speicheroptimierung", "Training"],
+        "tags": [
+          "Gradient Checkpointing",
+          "Speicheroptimierung",
+          "Training"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1365,7 +1647,11 @@
           "pages": "S. 88",
           "chapter": "30.1 Modellkompression"
         },
-        "tags": ["Knowledge Distillation", "Kompression", "Student-Teacher"],
+        "tags": [
+          "Knowledge Distillation",
+          "Kompression",
+          "Student-Teacher"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1384,7 +1670,11 @@
           "pages": "S. 31",
           "chapter": "7.3 Dekodierungsstrategien"
         },
-        "tags": ["Beam Search", "Dekodierung", "Suchstrategie"],
+        "tags": [
+          "Beam Search",
+          "Dekodierung",
+          "Suchstrategie"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1403,7 +1693,11 @@
           "pages": "S. 21",
           "chapter": "5.1 AI Feedback"
         },
-        "tags": ["RLAIF", "AI Feedback", "Skalierung"],
+        "tags": [
+          "RLAIF",
+          "AI Feedback",
+          "Skalierung"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1422,7 +1716,11 @@
           "pages": "S. 79",
           "chapter": "27.3 Bildbearbeitung"
         },
-        "tags": ["Inpainting", "Bildbearbeitung", "Completion"],
+        "tags": [
+          "Inpainting",
+          "Bildbearbeitung",
+          "Completion"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1441,7 +1739,11 @@
           "pages": "S. 93",
           "chapter": "36 Kreative Anwendungen"
         },
-        "tags": ["Style Transfer", "Künstlerisch", "Bildmanipulation"],
+        "tags": [
+          "Style Transfer",
+          "Künstlerisch",
+          "Bildmanipulation"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1460,7 +1762,11 @@
           "pages": "S. 94",
           "chapter": "37 Trainingsangriffe"
         },
-        "tags": ["Data Poisoning", "Angriffe", "Backdoors"],
+        "tags": [
+          "Data Poisoning",
+          "Angriffe",
+          "Backdoors"
+        ],
         "difficulty": "mittel"
       },
       {
@@ -1479,7 +1785,11 @@
           "pages": "S. 55",
           "chapter": "17.1 API-Schutzmaßnahmen"
         },
-        "tags": ["Rate Limiting", "API-Sicherheit", "Missbrauchsschutz"],
+        "tags": [
+          "Rate Limiting",
+          "API-Sicherheit",
+          "Missbrauchsschutz"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1498,7 +1808,11 @@
           "pages": "S. 72",
           "chapter": "25.1 Vulnerability Management"
         },
-        "tags": ["Responsible Disclosure", "Sicherheit", "Ethik"],
+        "tags": [
+          "Responsible Disclosure",
+          "Sicherheit",
+          "Ethik"
+        ],
         "difficulty": "leicht"
       },
       {
@@ -1517,7 +1831,11 @@
           "pages": "S. 95",
           "chapter": "37.1 Input-Manipulationen"
         },
-        "tags": ["Adversarial Examples", "Robustheit", "Prompt-Angriffe"],
+        "tags": [
+          "Adversarial Examples",
+          "Robustheit",
+          "Prompt-Angriffe"
+        ],
         "difficulty": "schwer"
       },
       {
@@ -1536,10 +1854,17 @@
           "pages": "S. 96",
           "chapter": "38 Zusammenfassung und Empfehlungen"
         },
-        "tags": ["BSI-Empfehlungen", "Sicherheit", "Best Practices"],
+        "tags": [
+          "BSI-Empfehlungen",
+          "Sicherheit",
+          "Best Practices"
+        ],
         "difficulty": "leicht"
       }
-    ]
+    ],
+    "metadata": {
+      "createdAt": "2025-10-17T13:46:00.971440Z",
+      "notes": "Quiz optimiert und validiert"
+    }
   }
 }
-
