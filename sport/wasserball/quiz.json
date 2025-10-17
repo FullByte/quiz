@@ -27,9 +27,9 @@
         "text": "Wie viele Spieler sind pro Team im Wasser während eines Wasserballspiels?",
         "options": [
           "7 Spieler (6 Feldspieler + 1 Torwart)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Wasserball-Team besteht aus 7 Spielern im Wasser: 6 Feldspielern und 1 Torwart. Insgesamt darf ein Team bis zu 13 Spieler (7 aktive + 6 Auswechselspieler) registrieren.",
@@ -50,9 +50,9 @@
         "text": "Wie lange dauert ein offizielles Wasserballspiel?",
         "options": [
           "4 x 8 Minuten (32 Minuten netto Spielzeit)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Wasserballspiel besteht aus 4 Vierteln à 8 Minuten Nettozeit (die Uhr stoppt bei Unterbrechungen). Zwischen den Vierteln gibt es 2-minütige Pausen, nach dem 2. Viertel eine 5-minütige Halbzeitpause.",
@@ -73,9 +73,9 @@
         "text": "Welche Farben müssen die Spielerkappen haben?",
         "options": [
           "Ein Team weiß, das andere Team blau, Torwarte rot",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Team trägt weiße Kappen, das andere blaue. Die Torwarte tragen rote Kappen (Nummer 1 oder 13). Bei neutralem Spielort entscheidet der Münzwurf, welches Team welche Farbe trägt.",
@@ -119,9 +119,9 @@
         "text": "Was ist ein 'Exclusion Foul'?",
         "options": [
           "Ein schweres Foul, das mit 20 Sekunden Ausschluss bestraft wird",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Exclusion Fouls sind schwere Regelverstöße. Der Spieler muss für 20 Sekunden das Wasser verlassen oder bis zum nächsten Tor (je nachdem was zuerst eintritt).",
@@ -142,9 +142,9 @@
         "text": "Wann wird ein Penalty (Strafwurf) vergeben?",
         "options": [
           "Bei Verhinderung eines wahrscheinlichen Tores durch ein Foul",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Penalty wird vergeben, wenn ein Verteidiger ein wahrscheinliches Tor durch ein Foul verhindert, oder wenn ein Torwart im letzten Moment der Angriffszeit fouled. Der Penalty wird von der 5m-Linie geschossen.",
@@ -165,9 +165,9 @@
         "text": "Darf ein Feldspieler den Ball mit beiden Händen berühren?",
         "options": [
           "Nein, nur der Torwart darf beide Hände verwenden",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Feldspieler dürfen den Ball nur mit einer Hand berühren. Beide Hände gleichzeitig ist ein Foul. Nur der Torwart darf in der eigenen 5m-Zone beide Hände nutzen.",
@@ -188,9 +188,9 @@
         "text": "Was passiert bei einem Gleichstand nach regulärer Spielzeit?",
         "options": [
           "Bei K.O.-Spielen: Verlängerung (2 x 3 Min), dann ggf. Penaltyschießen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "In K.O.-Runden bei Gleichstand: Zuerst Verlängerung (2 x 3 Minuten). Steht es danach immer noch unentschieden, folgt ein Penaltyschießen (Best-of-5, bei Bedarf Sudden Death).",
@@ -211,9 +211,9 @@
         "text": "Was ist ein 'Brutality' (Brutalitäts-Foul)?",
         "options": [
           "Extreme Gewalt, bestraft mit Disqualifikation und Penalty für Gegner",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Brutality ist die schwerste Foulkategorie: vorsätzliche extreme Gewalt. Der Spieler wird sofort disqualifiziert, das Team spielt 4 Minuten in Unterzahl, und der Gegner erhält einen Penalty.",
@@ -234,9 +234,9 @@
         "text": "Wie groß ist das Tor beim Wasserball?",
         "options": [
           "3m breit und 0,9m hoch (90cm)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Wasserballtor ist 3 Meter breit und 0,9 Meter (90cm) hoch. Die Torlinie befindet sich mindestens 0,3m vor der Poolwand.",
@@ -257,9 +257,9 @@
         "text": "Was ist ein 'Corner Throw'?",
         "options": [
           "Einwurf von der 2m-Linie, wenn Verteidiger den Ball über die Torlinie spielt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Corner Throw wird an der 2m-Linie vergeben, wenn ein Verteidiger (außer Torwart) den Ball über die eigene Torlinie ins Aus spielt.",
@@ -280,9 +280,9 @@
         "text": "Darf ein Spieler den Ball unter Wasser drücken?",
         "options": [
           "Nein, das ist immer ein Ordinary Foul",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Den Ball unter Wasser zu drücken ist zu jeder Zeit ein Ordinary Foul. Der Ball muss an der Wasseroberfläche bleiben.",
@@ -326,9 +326,9 @@
         "text": "Was ist 'Holding' als Foul?",
         "options": [
           "Festhalten eines Gegners oder dessen Badehose/Ausrüstung",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Holding ist das Festhalten, Ziehen oder Greifen eines Gegners oder dessen Ausrüstung. Dies ist ein Ordinary Foul, kann aber bei Verhinderung einer Torchance zum Exclusion Foul werden.",
@@ -349,9 +349,9 @@
         "text": "Welche Spielernummern sind erlaubt?",
         "options": [
           "1-13, wobei 1 und 13 für Torwarte reserviert sind",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Spieler tragen Nummern von 1-13. Die Nummern 1 und 13 sind für die beiden Torwarte reserviert, die restlichen Nummern 2-12 für Feldspieler.",
@@ -372,9 +372,9 @@
         "text": "Was ist 'Impeding' (Behinderung)?",
         "options": [
           "Behinderung eines Gegners ohne Ball",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Impeding ist die Behinderung eines Gegners, der nicht im Ballbesitz ist. Dies ist ein Ordinary Foul. Schwere Behinderung kann ein Exclusion Foul sein.",
@@ -395,9 +395,9 @@
         "text": "Wie viele Timeouts hat jedes Team?",
         "options": [
           "2 Timeouts pro Spiel (je 1 Minute)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Jedes Team hat 2 Timeouts pro Spiel, jeweils 1 Minute lang. Sie können nur bei eigenem Ballbesitz genommen werden.",
@@ -418,9 +418,9 @@
         "text": "Darf der Torwart den Ball über die Mittellinie werfen?",
         "options": [
           "Nein, das ist ein Ordinary Foul",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Torwart darf den Ball nicht über die Mittellinie werfen oder schlagen (Ordinary Foul). Er kann ihn aber zu einem Mitspieler passen.",
@@ -441,9 +441,9 @@
         "text": "Was ist ein 'Misconduct' Foul?",
         "options": [
           "Unsportliches Verhalten wie Beleidigungen oder absichtliche Verzögerung",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Misconduct umfasst unsportliches Verhalten: Beleidigungen, Respektlosigkeit, absichtliche Spielverzögerung. Je nach Schwere: Verwarnungen, Ausschlüsse oder Disqualifikationen.",
@@ -464,9 +464,9 @@
         "text": "Wie viele persönliche Strafen darf ein Spieler sammeln?",
         "options": [
           "3 persönliche Strafen, dann Disqualifikation",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach der dritten persönlichen Strafe (Exclusion/Penalty) wird ein Spieler disqualifiziert und muss das Spielfeld verlassen. Ein Ersatz darf nach 4 Minuten eintreten.",
@@ -509,10 +509,10 @@
         "id": "q22",
         "text": "Welche Farbe hat die 2m-Linie?",
         "options": [
-          "Eine Lösung für gelb",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "gelb",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die 2m-Linie wird in Gelb markiert. Die 5m-Linie ist rot, die Mittellinie weiß.",
@@ -533,9 +533,9 @@
         "text": "Darf ein Spieler auf dem Beckenrand stehen?",
         "options": [
           "Nein, das ist ein Ordinary Foul (außer bei Verletzung)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Spieler dürfen sich nicht am Beckenrand festhalten oder darauf stehen (außer bei Verletzung). Dies ist ein Ordinary Foul.",
@@ -556,9 +556,9 @@
         "text": "Was ist ein 'Goal Throw'?",
         "options": [
           "Einwurf des Torwarts, wenn Angreifer den Ball über die Torlinie spielt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Goal Throw wird dem Torwart zugesprochen, wenn ein angreifender Spieler den Ball über die Torlinie (aber nicht ins Tor) spielt. Der Torwart führt ihn von seiner 2m-Linie aus.",
@@ -579,9 +579,9 @@
         "text": "Was ist 'Splashing' als Foul?",
         "options": [
           "Absichtliches Spritzen von Wasser ins Gesicht eines Gegners",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Absichtliches Spritzen von Wasser ins Gesicht eines Gegners zur Behinderung ist ein Ordinary Foul. Unbeabsichtigtes Spritzen ist erlaubt.",
@@ -602,9 +602,9 @@
         "text": "Wie schwer muss der Wasserball sein?",
         "options": [
           "400-450 Gramm",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der offizielle Wasserball wiegt 400-450g für Männer (Umfang 68-71cm) und 400-450g für Frauen (Umfang 65-67cm).",
@@ -625,9 +625,9 @@
         "text": "Was ist 'Pushing Off'?",
         "options": [
           "Sich vom Gegner abstoßen um Vorteil zu erlangen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Pushing Off ist das Abstoßen vom Körper eines Gegners, um sich Vorteil zu verschaffen (z.B. höher aus dem Wasser). Dies ist ein Ordinary Foul.",
@@ -648,9 +648,9 @@
         "text": "Was ist die 'Advantage Rule'?",
         "options": [
           "Schiedsrichter lässt Spiel laufen, wenn gefoultes Team im Vorteil ist",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Advantage Rule erlaubt dem Schiedsrichter, ein Foul nicht zu pfeifen, wenn das gefoulte Team dadurch im Vorteil wäre.",
@@ -671,9 +671,9 @@
         "text": "Wann zählt ein Tor?",
         "options": [
           "Wenn der Ball die Torlinie vollständig überquert hat",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Tor zählt, wenn der Ball die Torlinie vollständig überquert hat. Der Wurf muss vor Zeitablauf erfolgt sein, aber der Ball kann noch danach ins Tor gehen.",
@@ -717,9 +717,9 @@
         "text": "Wie wird beim Penaltyschießen vorgegangen?",
         "options": [
           "Abwechselnd 5 Schützen pro Team, bei Gleichstand Sudden Death",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beim Penaltyschießen schießen abwechselnd je 5 Spieler pro Team. Bei Gleichstand danach folgt Sudden Death (jeder weitere Schuss ist entscheidend).",
@@ -740,9 +740,9 @@
         "text": "Was ist 'Interference' mit dem Freiwurf?",
         "options": [
           "Behinderung der Ausführung eines Freiwurfs - ein Exclusion Foul",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Interference bei der Ausführung eines Freiwurfs ist ein Exclusion Foul. Verteidiger müssen dem ausführenden Spieler ermöglichen, den Freiwurf ohne Behinderung auszuführen.",
@@ -763,9 +763,9 @@
         "text": "Darf ein ausgeschlossener Spieler ersetzt werden?",
         "options": [
           "Ja, nach 20 Sekunden oder nach einem Tor (je nachdem was zuerst)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach einem Exclusion Foul muss der Spieler für 20 Sekunden raus. Ein Ersatzspieler darf eintreten nach Ablauf der 20 Sekunden ODER wenn ein Tor fällt.",
@@ -809,9 +809,9 @@
         "text": "Welche Schiedsrichter gibt es beim Wasserball?",
         "options": [
           "2 Schiedsrichter, 2 Torrichter, 1 Zeitnehmer, 1 Sekretär",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bei offiziellen Spielen gibt es 2 Schiedsrichter (die Seiten wechseln nach jedem Viertel), 2 Torrichter, einen Zeitnehmer (Shot Clock) und einen Sekretär.",
@@ -832,9 +832,9 @@
         "text": "Was ist ein 'Neutral Throw'?",
         "options": [
           "Ball wird neu eingeworfen wenn unklar ist, welches Team Ballbesitz hat",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Neutral Throw wird gegeben, wenn der Schiedsrichter nicht eindeutig entscheiden kann, welches Team den Ball zuletzt berührt hat, oder bei gleichzeitigen Fouls.",
@@ -855,9 +855,9 @@
         "text": "Darf der Ball die Wasseroberfläche komplett verlassen?",
         "options": [
           "Ja, er darf frei fliegen, solange er nicht aus dem Spielfeld geht",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Ball darf die Wasseroberfläche komplett verlassen (fliegen), sowohl bei Pässen als auch Torschüssen. Nur unter Wasser drücken ist verboten.",
@@ -878,9 +878,9 @@
         "text": "Was ist ein 'Yellow Card' Vergehen?",
         "options": [
           "Erste Verwarnung für Misconduct, weitere führen zu Ausschluss",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Gelbe Karte ist eine formelle Verwarnung für unsportliches Verhalten. Eine zweite Gelbe Karte für denselben Spieler führt zu Ausschluss (Rote Karte).",
@@ -901,9 +901,9 @@
         "text": "Wie wird der Spielbeginn nach einem Tor durchgeführt?",
         "options": [
           "Beide Teams starten von ihrer Torlinie und schwimmen zum Ball in der Mitte",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach jedem Tor wird wie beim Spielbeginn verfahren: Spieler starten von ihrer Torlinie, beim Pfiff schwimmen alle zur Mittellinie wo der Ball liegt.",
@@ -924,9 +924,9 @@
         "text": "Was passiert wenn ein Spieler seine Kappe verliert?",
         "options": [
           "Er muss sie so schnell wie möglich wieder aufsetzen oder das Wasser verlassen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Verliert ein Spieler seine Kappe, muss er sie schnellstmöglich wieder aufsetzen. Kann er sie nicht erreichen, muss er das Wasser verlassen und darf erst mit Kappe wieder eintreten.",
@@ -947,9 +947,9 @@
         "text": "Was ist das '2m-Gebiet'?",
         "options": [
           "Der Bereich 2m vor dem Tor, wichtig für Freiwurf-Regelungen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die 2m-Linie markiert den Bereich 2m vor jedem Tor (gelbe Markierung). Von Freiwürfen innerhalb dieser Zone darf nicht direkt aufs Tor geworfen werden.",
@@ -970,9 +970,9 @@
         "text": "Welche Ausrüstung ist für Spieler verboten?",
         "options": [
           "Fettcremes, Öl, Handschuhe, gefährliche Gegenstände",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Verboten sind: Fettcremes/Öle (erschweren Greifen), Handschuhe, sowie Gegenstände die Gegner verletzen könnten. Schwimmbrillen und Nasenklammern sind erlaubt.",
@@ -993,9 +993,9 @@
         "text": "Was ist 'Wasting Time' (Zeitverschwendung)?",
         "options": [
           "Absichtliches Verzögern des Spiels um Zeit zu gewinnen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Wasting Time ist absichtliches Verzögern (z.B. langsames Ausführen von Freiwürfen). Dies ist ein Ordinary Foul, bei Wiederholung kann es zu Exclusion führen.",
@@ -1039,9 +1039,9 @@
         "text": "Was passiert wenn die Shot Clock abläuft?",
         "options": [
           "Ballbesitzwechsel zum gegnerischen Team",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Wenn die 30-Sekunden-Shot-Clock abläuft ohne Torschuss, geht der Ballbesitz an das gegnerische Team über.",
@@ -1062,9 +1062,9 @@
         "text": "Was ist ein 'Rebound' nach einem Penalty?",
         "options": [
           "Ball prallt vom Tor/Torwart ab und bleibt im Spiel",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach einem Penalty bleibt der Ball im Spiel, auch wenn er vom Tor oder Torwart abprallt. Jeder Spieler kann den Rebound spielen.",
@@ -1085,9 +1085,9 @@
         "text": "Wann muss eine Kappe getragen werden?",
         "options": [
           "Sobald ein Spieler im Wasser ist",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Jeder Spieler muss seine Kappe tragen, sobald er im Wasser ist, auch Auswechselspieler beim Aufwärmen. Die Kappe muss fest sitzen mit geschlossenem Kinnriemen.",
@@ -1108,9 +1108,9 @@
         "text": "Darf ein Spieler beim Freiwurf direkt aufs Tor werfen?",
         "options": [
           "Ja, außer bei Freiwürfen innerhalb der 2m-Linie",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Von Freiwürfen außerhalb der 2m-Linie darf direkt aufs Tor geworfen werden. Innerhalb muss der Ball erst einen anderen Spieler berühren oder mindestens 2m gespielt werden.",
@@ -1131,9 +1131,9 @@
         "text": "Was ist eine 'Man-Up' Situation?",
         "options": [
           "Spielen in Überzahl nach Exclusion Foul des Gegners",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Eine Man-Up (Power-Play) Situation entsteht, wenn das Team in Überzahl spielt, weil ein gegnerischer Spieler ausgeschlossen wurde. Höhere Torwahrscheinlichkeit.",
@@ -1154,9 +1154,9 @@
         "text": "Wie groß muss das Wasserballfeld mindestens sein?",
         "options": [
           "Mindestens 20m x 10m, Wassertiefe mindestens 1,80m",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Spielfeld muss mindestens 20m lang und 10m breit sein. Die Wassertiefe muss mindestens 1,80m betragen - Spieler dürfen den Boden nicht berühren.",
@@ -1177,9 +1177,9 @@
         "text": "Was ist die 'Re-entry Area'?",
         "options": [
           "Der Bereich von dem aus ausgeschlossene Spieler wieder eintreten dürfen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Re-entry Area ist ein markierter Bereich an der Seite, von dem aus ausgeschlossene Spieler nach Ablauf ihrer Strafe wieder ins Wasser dürfen. Sie dürfen nur von dort und nur beim eigenen Ballbesitz eintreten.",
@@ -1200,9 +1200,9 @@
         "text": "Was ist ein 'Double Exclusion'?",
         "options": [
           "Zwei Spieler verschiedener Teams werden gleichzeitig ausgeschlossen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bei einem Double Exclusion werden Spieler beider Teams gleichzeitig ausgeschlossen. Beide müssen 20 Sekunden raus, die Teams spielen weiter in gleicher Stärke (z.B. 6 gegen 6).",
@@ -1223,9 +1223,9 @@
         "text": "Wann gilt ein Ball als 'im Aus'?",
         "options": [
           "Wenn er die Spielfläche vollständig verlässt oder Decke berührt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Ball ist im Aus, wenn er die Spielfläche komplett verlässt, die Deckenkonstruktion berührt, oder vom Schiedsrichter gestoppt wird.",
@@ -1269,9 +1269,9 @@
         "text": "Was ist 'Pulling Back' als Foul?",
         "options": [
           "Zurückziehen oder Festhalten eines Gegners von hinten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Pulling Back ist das Zurückziehen oder Festhalten eines Gegners, besonders von hinten. Dies ist mindestens ein Ordinary Foul, kann aber zum Exclusion Foul werden wenn eine Torchance verhindert wird.",
@@ -1292,9 +1292,9 @@
         "text": "Darf mit dem Ball getaucht werden?",
         "options": [
           "Nein, mit Ball komplett untertauchen ist ein Ordinary Foul",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Mit dem Ball komplett unterzutauchen oder den Ball unter Wasser zu bringen ist ein Ordinary Foul. Der Ball muss stets an der Wasseroberfläche bleiben.",
@@ -1315,9 +1315,9 @@
         "text": "Was ist 'Delay of Game'?",
         "options": [
           "Absichtliche Spielverzögerung, z.B. langsames Freiwurf-Nehmen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Delay of Game ist absichtliches Verzögern des Spielflusses. Dies wird als Ordinary Foul geahndet, wiederholtes Verzögern kann zu schwereren Strafen führen.",
@@ -1338,9 +1338,9 @@
         "text": "Was bedeutet 'Persistent Fouling'?",
         "options": [
           "Wiederholtes Foulen, das zu schwereren Strafen führt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Persistent Fouling ist wiederholtes, systematisches Foulen. Dies kann von Ordinary zu Exclusion Foul hochgestuft werden oder zu Misconduct-Strafen führen.",
@@ -1361,9 +1361,9 @@
         "text": "Wie viele Auswechslungen sind pro Team erlaubt?",
         "options": [
           "Unbegrenzt viele während Spielunterbrechungen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Es gibt keine Begrenzung der Auswechslungen. Spieler können während Spielunterbrechungen beliebig oft gewechselt werden, solange die Auswechselregeln beachtet werden.",
@@ -1384,9 +1384,9 @@
         "text": "Was ist das 'Center Forward' Position?",
         "options": [
           "Angreifer der zentral vor dem gegnerischen Tor positioniert ist",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Center Forward (auch 'Hole Set' oder 'Center') ist die taktisch wichtige Position zentral vor dem gegnerischen Tor. Dieser Spieler ist oft Zielpunkt für Pässe und Torschüsse.",
@@ -1430,9 +1430,9 @@
         "text": "Wie lange sind die Pausen zwischen den Vierteln?",
         "options": [
           "2 Minuten zwischen Vierteln, 5 Minuten zur Halbzeit",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Zwischen dem 1./2. und 3./4. Viertel gibt es jeweils 2 Minuten Pause. Die Halbzeitpause (zwischen 2. und 3. Viertel) dauert 5 Minuten.",
@@ -1453,9 +1453,9 @@
         "text": "Was ist ein 'Red Card' Vergehen?",
         "options": [
           "Ausschluss nach zweiter Gelber Karte oder direkt bei schwerem Misconduct",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Eine Rote Karte wird gezeigt bei der zweiten Gelben Karte für denselben Spieler/Offiziellen oder direkt bei besonders schwerem unsportlichem Verhalten. Der Betroffene muss das Spielfeld verlassen.",
@@ -1476,9 +1476,9 @@
         "text": "Darf ein Spieler den Boden des Pools berühren?",
         "options": [
           "Nein, das ist ein Ordinary Foul",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Berühren des Poolbodens während des Spiels ist ein Ordinary Foul. Die Mindesttiefe von 1,80m soll dies verhindern, aber auch in tieferem Wasser ist es verboten.",
@@ -1499,9 +1499,9 @@
         "text": "Was ist 'Ungentlemanly Conduct'?",
         "options": [
           "Unsportliches Verhalten wie Beleidigungen oder Respektlosigkeit",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ungentlemanly Conduct (unsportliches Verhalten) umfasst Beleidigungen, Provokationen, Respektlosigkeit gegenüber Offiziellen. Dies wird mit Gelber oder Roter Karte bestraft.",
@@ -1521,10 +1521,10 @@
         "id": "q66",
         "text": "Welche Farbe hat die 5m-Linie?",
         "options": [
-          "Eine Lösung für rot",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "rot",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die 5m-Linie wird in Rot markiert. Sie definiert den Bereich, in dem der Torwart seine besonderen Rechte (beide Hände) hat.",
@@ -1545,9 +1545,9 @@
         "text": "Darf ein Team einen Timeout während Unterzahl nehmen?",
         "options": [
           "Ja, wenn sie im Ballbesitz sind",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Team darf einen Timeout nehmen, wenn es im Ballbesitz ist - unabhängig davon, ob es in Unterzahl oder voller Stärke spielt.",
@@ -1568,9 +1568,9 @@
         "text": "Was ist ein 'Swim-Off'?",
         "options": [
           "Der Sprint zur Mittellinie beim Spielbeginn oder nach einem Tor",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Swim-Off ist der Sprint vom eigenen Tor zur Mittellinie beim Spielbeginn und nach jedem Tor. Das schnellere Team gewinnt den Ballbesitz.",
@@ -1614,9 +1614,9 @@
         "text": "Was ist 'Entering Re-entry Area' Foul?",
         "options": [
           "Falsches Betreten der Re-entry Area vor Ende der Strafzeit",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein ausgeschlossener Spieler muss in der Re-entry Area warten bis seine Strafe abgelaufen ist. Zu frühes Betreten des Wassers ist ein schweres Vergehen.",
@@ -1637,9 +1637,9 @@
         "text": "Darf der Torwart den Ball mit der Faust schlagen?",
         "options": [
           "Ja, innerhalb der 5m-Zone",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Torwart darf den Ball innerhalb der 5m-Zone auch mit der Faust schlagen oder boxen. Außerhalb der 5m-Zone gelten die normalen Regeln.",
@@ -1660,9 +1660,9 @@
         "text": "Was ist ein 'Disrespect' Vergehen?",
         "options": [
           "Respektloses Verhalten gegenüber Schiedsrichtern oder Gegnern",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Disrespect (Respektlosigkeit) gegenüber Schiedsrichtern, Offiziellen oder Gegnern wird als Misconduct gewertet und mit Gelber/Roter Karte bestraft.",
@@ -1683,9 +1683,9 @@
         "text": "Was ist der Unterschied zwischen Goal Throw und Corner Throw?",
         "options": [
           "Goal Throw für Torwart wenn Angreifer ins Aus spielt, Corner für Angreifer wenn Verteidiger ins Aus spielt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Goal Throw: Torwart-Einwurf von 2m-Linie wenn Angreifer den Ball über Torlinie spielt. Corner Throw: Angreifer-Einwurf von 2m-Linie wenn Verteidiger (nicht Torwart) über Torlinie spielt.",
@@ -1706,9 +1706,9 @@
         "text": "Wie viele Spieler dürfen maximal auf der Teambank sitzen?",
         "options": [
           "6 Auswechselspieler plus Trainer und Betreuer",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Von den 13 registrierten Spielern sind 7 im Wasser und 6 auf der Bank als Auswechselspieler. Dazu kommen Trainer und Betreuer.",
@@ -1752,9 +1752,9 @@
         "text": "Darf ein Spieler mit Ball unter Wasser schwimmen?",
         "options": [
           "Nein, das ist ein Ordinary Foul",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Spieler darf nicht mit dem Ball komplett unter Wasser schwimmen oder tauchen. Der Ball muss stets an der Oberfläche und für alle sichtbar sein.",
@@ -1775,9 +1775,9 @@
         "text": "Was ist ein 'Penalty Foul' genau?",
         "options": [
           "Ein Foul das einen Strafwurf zur Folge hat",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Penalty Foul ist jedes Foul, das zu einem Strafwurf führt: Verhinderung wahrscheinlichen Tores, Torwart-Foul in letzten Sekunden, oder Betreten des Tors während Verteidigung.",
@@ -1798,9 +1798,9 @@
         "text": "Was passiert wenn ein Tor vom Torwart beim Penalty-Versuch berührt wurde?",
         "options": [
           "Das Tor zählt trotzdem",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Tor zählt auch wenn es vom Torwart berührt wurde, solange es die Torlinie vollständig überquert. Die Berührung spielt keine Rolle.",
@@ -1821,9 +1821,9 @@
         "text": "Was ist 'Obstruction' als Foul?",
         "options": [
           "Behindern eines Gegners durch Körper-Positionierung ohne Ballkontakt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Obstruction ist das Behindern eines Gegners durch die eigene Körperposition, ohne selbst aktiv am Ball zu sein. Dies ist ein Ordinary Foul.",
@@ -1844,9 +1844,9 @@
         "text": "Wie wird der Sieger beim Penaltyschießen ermittelt?",
         "options": [
           "Erst Best-of-5, dann bei Gleichstand Sudden Death (Golden Goal)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beim Penaltyschießen schießen erst je 5 Spieler pro Team. Bei Gleichstand danach folgt Sudden Death: Das erste Team das nach gleicher Anzahl Schüsse führt, gewinnt.",
@@ -1867,9 +1867,9 @@
         "text": "Wann beginnt die Shot Clock zu laufen?",
         "options": [
           "Sobald ein Team Ballkontrolle erlangt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Shot Clock beginnt zu laufen, sobald ein Team die Kontrolle über den Ball erlangt. Bei Ballbesitzwechsel wird sie auf 30 Sekunden zurückgesetzt.",
@@ -1890,9 +1890,9 @@
         "text": "Darf ein Spieler während eines Timeouts im Wasser bleiben?",
         "options": [
           "Ja, Spieler dürfen im Wasser bleiben",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Während eines Timeouts dürfen die Spieler im Wasser bleiben. Sie dürfen aber auch zur Bank schwimmen für Anweisungen vom Trainer.",
@@ -1913,9 +1913,9 @@
         "text": "Was ist 'Two-Handed Block'?",
         "options": [
           "Ein Feldspieler berührt den Ball mit beiden Händen - ein Ordinary Foul",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Wenn ein Feldspieler den Ball mit beiden Händen gleichzeitig berührt oder hält, ist dies ein Ordinary Foul. Nur der Torwart darf in der 5m-Zone beide Hände verwenden.",
@@ -1936,9 +1936,9 @@
         "text": "Was ist ein 'Probable Goal'?",
         "options": [
           "Eine klare Torchance die durch Foul verhindert wird - führt zu Penalty",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Probable Goal (wahrscheinliches Tor) ist eine Situation, in der ein Spieler eine klare, ungehinderte Torchance hätte. Wird diese durch ein Foul verhindert, gibt es einen Penalty.",
@@ -1982,9 +1982,9 @@
         "text": "Darf ein Spieler die Kappe eines Gegners herunterziehen?",
         "options": [
           "Nein, das ist ein Ordinary Foul oder Exclusion",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das absichtliche Herunterziehen oder Entfernen der Kappe eines Gegners ist mindestens ein Ordinary Foul, kann aber je nach Situation ein Exclusion Foul sein.",
@@ -2005,9 +2005,9 @@
         "text": "Was ist die 'Half-Distance Line' (Mittellinie)?",
         "options": [
           "Die Linie die das Spielfeld in zwei Hälften teilt, markiert in Weiß",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Half-Distance Line (Mittellinie) teilt das Spielfeld in zwei gleiche Hälften und ist in Weiß markiert. Sie ist wichtig für die Torwart-Regel (Ball nicht direkt über Mittellinie werfen).",
@@ -2051,9 +2051,9 @@
         "text": "Was ist ein 'Violent Conduct'?",
         "options": [
           "Gewalttätiges Verhalten, das zu Disqualifikation und Sperre führt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Violent Conduct (gewalttätiges Verhalten) ist ähnlich wie Brutality: vorsätzliche Gewalt gegen Spieler. Es führt zu sofortiger Disqualifikation, Penalty für den Gegner und Spielsperre.",
@@ -2074,9 +2074,9 @@
         "text": "Wie viele Schiedsrichter-Signale gibt es mindestens?",
         "options": [
           "Über 30 verschiedene Handsignale für Fouls und Spielsituationen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Wasserball-Schiedsrichter verwenden ein umfangreiches System von über 30 standardisierten Handsignalen, um Fouls, Spielsituationen und Entscheidungen zu kommunizieren.",
@@ -2097,9 +2097,9 @@
         "text": "Was passiert wenn beide Teams gleichzeitig foulen?",
         "options": [
           "Neutral Throw - der Ball wird neutral eingeworfen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bei gleichzeitigen Fouls beider Teams (Double Foul) wird ein Neutral Throw an der Stelle gegeben, wo die Fouls auftraten. Waren es Exclusion Fouls, werden beide Spieler ausgeschlossen.",
@@ -2120,9 +2120,9 @@
         "text": "Darf der Torwart den Penalty selbst ausführen?",
         "options": [
           "Ja, jeder Spieler der im Wasser war darf schießen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beim Penalty oder Penaltyschießen darf jeder Spieler, der zum Zeitpunkt der Zusprechung im Wasser war, den Schuss ausführen - auch der Torwart.",
@@ -2143,9 +2143,9 @@
         "text": "Was ist 'Entering Goal' als Foul?",
         "options": [
           "Betreten des Tors von hinten während der Verteidigung - führt zu Penalty",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Wenn ein Verteidiger das Tor von hinten betritt während der Gegner angreift (z.B. hängt sich rein), ist dies ein Penalty Foul. Das Tor soll von vorne verteidigt werden.",
@@ -2166,9 +2166,9 @@
         "text": "Wie lang ist die Verlängerung?",
         "options": [
           "2 Viertel à 3 Minuten (6 Minuten total)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Verlängerung bei K.O.-Spielen besteht aus 2 Vierteln à 3 Minuten mit 2 Minuten Pause dazwischen. Jedes Team erhält 1 zusätzlichen Timeout.",
@@ -2189,9 +2189,9 @@
         "text": "Was ist ein 'Free Throw' (Freiwurf)?",
         "options": [
           "Die Standardstrafe für ein Ordinary Foul",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Free Throw (Freiwurf) wird nach Ordinary Fouls vergeben. Der Ball wird an der Stelle ins Spiel gebracht, wo das Foul auftrat (nicht näher als 2m vom Tor).",
@@ -2212,9 +2212,9 @@
         "text": "Darf ein Spieler beim Schwimmen mit den Beinen treten/schlagen?",
         "options": [
           "Ja, normale Schwimmbewegungen sind erlaubt, aber kein absichtliches Treten von Gegnern",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Normale Schwimmbewegungen mit den Beinen (Kraulbeinschlag, Wassertreten) sind erlaubt. Absichtliches Treten oder Schlagen von Gegnern ist jedoch ein Foul.",
@@ -2235,9 +2235,9 @@
         "text": "Was bedeutet 'Ball Under Water' genau?",
         "options": [
           "Den Ball ganz oder teilweise unter die Wasseroberfläche drücken",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ball Under Water bedeutet, den Ball ganz oder teilweise unter die Wasseroberfläche zu drücken. Dies ist immer ein Ordinary Foul, da der Ball für alle Spieler sichtbar und erreichbar sein muss.",
@@ -2258,9 +2258,9 @@
         "text": "Was ist 'Changing Ends'?",
         "options": [
           "Seitenwechsel nach jedem Viertel",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach jedem Viertel wechseln die Teams die Seiten (Ends). Dies sorgt für faire Bedingungen bei unterschiedlichen Pool-Bedingungen (Licht, Tiefe, etc.).",
@@ -2281,9 +2281,9 @@
         "text": "Wie weit muss ein Verteidiger beim Freiwurf entfernt sein?",
         "options": [
           "Mindestens 2 Meter vom Ball",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bei der Ausführung eines Freiwurfs müssen gegnerische Spieler mindestens 2 Meter vom Ball entfernt sein. Nicht-Einhalten kann zu Interference (Exclusion Foul) führen.",
@@ -2304,9 +2304,9 @@
         "text": "Was sind die Hauptverantwortlichkeiten der Torrichter?",
         "options": [
           "Tore bestätigen, Aus-Situationen an Torlinie erkennen, Fouls hinter dem Tor melden",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die zwei Torrichter (je einer pro Tor) sind verantwortlich für: Bestätigung von Toren, Erkennen von Aus-Situationen an der Torlinie, und Melden von Fouls die hinter dem Tor außerhalb der Sicht der Schiedsrichter passieren.",

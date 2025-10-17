@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Eine einheitliche Plattform für Daten-Governance und Compliance",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Purview ist eine einheitliche Plattform für Daten-Governance, Compliance und Datenschutz in Microsoft 365 und Azure-Umgebungen.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Hauptkomponenten gehören zu Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Data Loss Prevention, Information Protection, Insider Risk Management und Data Lifecycle Management",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Purview umfasst Data Loss Prevention, Information Protection, Insider Risk Management und Data Lifecycle Management als Hauptkomponenten.",
@@ -71,10 +71,10 @@
         "id": "q3",
         "text": "Was ist Data Loss Prevention (DLP) in Purview?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Ein Service zur Erkennung und Verhinderung von Datenverlusten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "Data Loss Prevention in Purview erkennt und verhindert ungewollte Freigaben oder Verluste von sensiblen Daten.",
@@ -94,10 +94,10 @@
         "id": "q4",
         "text": "Was ist Information Protection in Purview?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Ein Service zur Klassifizierung und Schutz von Informationen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "Information Protection in Purview ermöglicht die automatische Klassifizierung, Kennzeichnung und den Schutz von sensiblen Informationen.",
@@ -117,10 +117,10 @@
         "id": "q5",
         "text": "Was ist Insider Risk Management?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Ein Service zur Erkennung und Verwaltung von Insider-Bedrohungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "Insider Risk Management erkennt potenzielle Insider-Bedrohungen und hilft bei der Verwaltung von Risiken durch Mitarbeiter oder Partner.",
@@ -140,10 +140,10 @@
         "id": "q6",
         "text": "Was ist Data Lifecycle Management in Purview?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Ein Service zur Verwaltung des Lebenszyklus von Daten von der Erstellung bis zur Löschung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "Data Lifecycle Management verwaltet den gesamten Lebenszyklus von Daten von der Erstellung über Speicherung und Archivierung bis zur Löschung.",
@@ -163,10 +163,10 @@
         "id": "q7",
         "text": "Welche Compliance-Standards unterstützt Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "GDPR, CCPA, HIPAA, SOX und viele weitere internationale Standards",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Purview unterstützt eine breite Palette von Compliance-Standards: GDPR, CCPA, HIPAA, SOX und viele weitere internationale Standards.",
@@ -187,10 +187,10 @@
         "id": "q8",
         "text": "Was sind Sensitivity Labels in Purview?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Klassifizierungsetiketten für die Kennzeichnung und den Schutz von Dokumenten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "Sensitivity Labels sind Klassifizierungsetiketten, die Dokumenten und E-Mails zugeordnet werden, um deren Schutz und Handhabung zu steuern.",
@@ -210,10 +210,10 @@
         "id": "q9",
         "text": "Was ist Microsoft Purview Data Map?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service zur automatischen Erkennung und Katalogisierung von Datenressourcen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Purview Data Map erkennt und katalogisiert automatisch Datenressourcen in verschiedenen Umgebungen für bessere Daten-Governance.",
@@ -233,10 +233,10 @@
         "id": "q10",
         "text": "Welche Lizenzierungsoptionen gibt es für Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Verschiedene Lizenzierungsstufen als Teil von Microsoft 365 oder als eigenständiger Service",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Purview ist als Teil von Microsoft 365-Lizenzen verfügbar oder kann als eigenständiger Service mit verschiedenen Lizenzierungsstufen erworben werden.",
@@ -256,10 +256,10 @@
         "id": "q11",
         "text": "Was ist Microsoft Purview Data Catalog?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für die automatische Katalogisierung und Entdeckung von Datenassets",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Purview Data Catalog automatisiert die Katalogisierung und Entdeckung von Datenassets in der gesamten Organisation.",
@@ -279,10 +279,10 @@
         "id": "q12",
         "text": "Was ist Microsoft Purview Data Map?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für die Visualisierung und Verwaltung von Datenlandschaften",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Purview Data Map visualisiert und verwaltet die gesamte Datenlandschaft einer Organisation mit automatischer Scannings.",
@@ -302,10 +302,10 @@
         "id": "q13",
         "text": "Was ist Microsoft Purview Data Lineage?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für die Verfolgung der Herkunft und Transformation von Daten",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Purview Data Lineage verfolgt die Herkunft, Transformation und Verwendung von Daten durch die gesamte Organisation.",
@@ -325,10 +325,10 @@
         "id": "q14",
         "text": "Was ist Microsoft Purview Sensitivity Labels?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für die Klassifizierung und Kennzeichnung sensibler Daten",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Purview Sensitivity Labels klassifizieren und kennzeichnen sensible Daten automatisch für bessere Datenschutz-Kontrolle.",
@@ -348,10 +348,10 @@
         "id": "q15",
         "text": "Was ist Microsoft Purview Data Policies?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für die Definition und Durchsetzung von Datenrichtlinien",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Purview Data Policies ermöglichen die Definition und automatische Durchsetzung von Datenrichtlinien in der gesamten Organisation.",
@@ -371,10 +371,10 @@
         "id": "q16",
         "text": "Was ist Microsoft Purview Data Loss Prevention (DLP)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service zur Verhinderung des versehentlichen Verlusts sensibler Daten",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Purview DLP verhindert den versehentlichen Verlust sensibler Daten durch automatische Erkennung und Schutzmaßnahmen.",
@@ -394,10 +394,10 @@
         "id": "q17",
         "text": "Was ist Microsoft Purview Information Protection?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für den Schutz von Informationen durch Verschlüsselung und Zugriffskontrolle",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Purview Information Protection schützt Informationen durch Verschlüsselung, Zugriffskontrolle und Datenschutz-Maßnahmen.",
@@ -417,10 +417,10 @@
         "id": "q18",
         "text": "Welche Microsoft Purview-Integrationen gibt es?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Azure, Microsoft 365, Power BI, SQL Server und viele weitere",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Purview integriert sich mit Azure, Microsoft 365, Power BI, SQL Server und vielen weiteren Microsoft- und Drittanbieter-Services.",
@@ -441,10 +441,10 @@
         "id": "q19",
         "text": "Was ist Microsoft Purview Data Governance?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Framework für die Verwaltung und Kontrolle von Daten in der Organisation",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Purview Data Governance bietet ein umfassendes Framework für die Verwaltung, Kontrolle und Compliance von Daten in der Organisation.",
@@ -464,10 +464,10 @@
         "id": "q20",
         "text": "Was ist Microsoft Purview Compliance Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für die Verwaltung und Überwachung von Compliance-Anforderungen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Purview Compliance Manager hilft bei der Verwaltung und Überwachung von Compliance-Anforderungen wie GDPR, HIPAA und anderen Standards.",
@@ -488,10 +488,10 @@
         "id": "q21",
         "text": "Was ist Grundlagen in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für grundlagen und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Grundlagen ist ein wichtiger Service in Microsoft Purview, der grundlagen und verwandte Funktionen bereitstellt.",
@@ -511,10 +511,10 @@
         "id": "q22",
         "text": "Was ist Konfiguration in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für konfiguration und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Konfiguration ist ein wichtiger Service in Microsoft Purview, der konfiguration und verwandte Funktionen bereitstellt.",
@@ -534,10 +534,10 @@
         "id": "q23",
         "text": "Was ist Verwaltung in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für verwaltung und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Verwaltung ist ein wichtiger Service in Microsoft Purview, der verwaltung und verwandte Funktionen bereitstellt.",
@@ -557,10 +557,10 @@
         "id": "q24",
         "text": "Was ist Sicherheit in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für sicherheit und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Sicherheit ist ein wichtiger Service in Microsoft Purview, der sicherheit und verwandte Funktionen bereitstellt.",
@@ -580,10 +580,10 @@
         "id": "q25",
         "text": "Was ist Performance in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für performance und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Performance ist ein wichtiger Service in Microsoft Purview, der performance und verwandte Funktionen bereitstellt.",
@@ -603,10 +603,10 @@
         "id": "q26",
         "text": "Was ist Skalierung in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für skalierung und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Skalierung ist ein wichtiger Service in Microsoft Purview, der skalierung und verwandte Funktionen bereitstellt.",
@@ -626,10 +626,10 @@
         "id": "q27",
         "text": "Was ist Monitoring in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für monitoring und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Monitoring ist ein wichtiger Service in Microsoft Purview, der monitoring und verwandte Funktionen bereitstellt.",
@@ -672,10 +672,10 @@
         "id": "q29",
         "text": "Was ist Backup in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für backup und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Backup ist ein wichtiger Service in Microsoft Purview, der backup und verwandte Funktionen bereitstellt.",
@@ -695,10 +695,10 @@
         "id": "q30",
         "text": "Was ist Recovery in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für recovery und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Recovery ist ein wichtiger Service in Microsoft Purview, der recovery und verwandte Funktionen bereitstellt.",
@@ -718,10 +718,10 @@
         "id": "q31",
         "text": "Was ist Disaster Recovery in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für disaster recovery und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Disaster Recovery ist ein wichtiger Service in Microsoft Purview, der disaster recovery und verwandte Funktionen bereitstellt.",
@@ -741,10 +741,10 @@
         "id": "q32",
         "text": "Was ist High Availability in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für high availability und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "High Availability ist ein wichtiger Service in Microsoft Purview, der high availability und verwandte Funktionen bereitstellt.",
@@ -764,10 +764,10 @@
         "id": "q33",
         "text": "Was ist Load Balancing in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für load balancing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Load Balancing ist ein wichtiger Service in Microsoft Purview, der load balancing und verwandte Funktionen bereitstellt.",
@@ -787,10 +787,10 @@
         "id": "q34",
         "text": "Was ist Caching in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für caching und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Caching ist ein wichtiger Service in Microsoft Purview, der caching und verwandte Funktionen bereitstellt.",
@@ -810,10 +810,10 @@
         "id": "q35",
         "text": "Was ist Optimierung in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für optimierung und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Optimierung ist ein wichtiger Service in Microsoft Purview, der optimierung und verwandte Funktionen bereitstellt.",
@@ -833,10 +833,10 @@
         "id": "q36",
         "text": "Was ist Integration in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für integration und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Integration ist ein wichtiger Service in Microsoft Purview, der integration und verwandte Funktionen bereitstellt.",
@@ -856,10 +856,10 @@
         "id": "q37",
         "text": "Was ist APIs in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für apis und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "APIs ist ein wichtiger Service in Microsoft Purview, der apis und verwandte Funktionen bereitstellt.",
@@ -879,10 +879,10 @@
         "id": "q38",
         "text": "Was ist SDKs in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für sdks und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "SDKs ist ein wichtiger Service in Microsoft Purview, der sdks und verwandte Funktionen bereitstellt.",
@@ -902,10 +902,10 @@
         "id": "q39",
         "text": "Was ist CLI in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für cli und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "CLI ist ein wichtiger Service in Microsoft Purview, der cli und verwandte Funktionen bereitstellt.",
@@ -925,10 +925,10 @@
         "id": "q40",
         "text": "Was ist PowerShell in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für powershell und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell ist ein wichtiger Service in Microsoft Purview, der powershell und verwandte Funktionen bereitstellt.",
@@ -948,10 +948,10 @@
         "id": "q41",
         "text": "Was ist Templates in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für templates und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Templates ist ein wichtiger Service in Microsoft Purview, der templates und verwandte Funktionen bereitstellt.",
@@ -971,10 +971,10 @@
         "id": "q42",
         "text": "Was ist Automation in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für automation und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Automation ist ein wichtiger Service in Microsoft Purview, der automation und verwandte Funktionen bereitstellt.",
@@ -994,10 +994,10 @@
         "id": "q43",
         "text": "Was ist DevOps in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für devops und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "DevOps ist ein wichtiger Service in Microsoft Purview, der devops und verwandte Funktionen bereitstellt.",
@@ -1017,10 +1017,10 @@
         "id": "q44",
         "text": "Was ist CI/CD in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für ci/cd und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "CI/CD ist ein wichtiger Service in Microsoft Purview, der ci/cd und verwandte Funktionen bereitstellt.",
@@ -1040,10 +1040,10 @@
         "id": "q45",
         "text": "Was ist Deployment in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für deployment und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Deployment ist ein wichtiger Service in Microsoft Purview, der deployment und verwandte Funktionen bereitstellt.",
@@ -1063,10 +1063,10 @@
         "id": "q46",
         "text": "Was ist Testing in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für testing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Testing ist ein wichtiger Service in Microsoft Purview, der testing und verwandte Funktionen bereitstellt.",
@@ -1109,10 +1109,10 @@
         "id": "q48",
         "text": "Was ist Troubleshooting in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für troubleshooting und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Troubleshooting ist ein wichtiger Service in Microsoft Purview, der troubleshooting und verwandte Funktionen bereitstellt.",
@@ -1132,10 +1132,10 @@
         "id": "q49",
         "text": "Was ist Best Practices in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für best practices und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Best Practices ist ein wichtiger Service in Microsoft Purview, der best practices und verwandte Funktionen bereitstellt.",
@@ -1155,10 +1155,10 @@
         "id": "q50",
         "text": "Was ist Architecture in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für architecture und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Architecture ist ein wichtiger Service in Microsoft Purview, der architecture und verwandte Funktionen bereitstellt.",
@@ -1178,10 +1178,10 @@
         "id": "q51",
         "text": "Was ist Design Patterns in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für design patterns und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Design Patterns ist ein wichtiger Service in Microsoft Purview, der design patterns und verwandte Funktionen bereitstellt.",
@@ -1201,10 +1201,10 @@
         "id": "q52",
         "text": "Was ist Microservices in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für microservices und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microservices ist ein wichtiger Service in Microsoft Purview, der microservices und verwandte Funktionen bereitstellt.",
@@ -1224,10 +1224,10 @@
         "id": "q53",
         "text": "Was ist Containers in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für containers und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Containers ist ein wichtiger Service in Microsoft Purview, der containers und verwandte Funktionen bereitstellt.",
@@ -1247,10 +1247,10 @@
         "id": "q54",
         "text": "Was ist Kubernetes in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für kubernetes und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Kubernetes ist ein wichtiger Service in Microsoft Purview, der kubernetes und verwandte Funktionen bereitstellt.",
@@ -1270,10 +1270,10 @@
         "id": "q55",
         "text": "Was ist Docker in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für docker und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Docker ist ein wichtiger Service in Microsoft Purview, der docker und verwandte Funktionen bereitstellt.",
@@ -1293,10 +1293,10 @@
         "id": "q56",
         "text": "Was ist Networking in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für networking und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Networking ist ein wichtiger Service in Microsoft Purview, der networking und verwandte Funktionen bereitstellt.",
@@ -1316,10 +1316,10 @@
         "id": "q57",
         "text": "Was ist Storage in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für storage und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Storage ist ein wichtiger Service in Microsoft Purview, der storage und verwandte Funktionen bereitstellt.",
@@ -1339,10 +1339,10 @@
         "id": "q58",
         "text": "Was ist Database in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für database und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Database ist ein wichtiger Service in Microsoft Purview, der database und verwandte Funktionen bereitstellt.",
@@ -1362,10 +1362,10 @@
         "id": "q59",
         "text": "Was ist Authentication in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für authentication und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Authentication ist ein wichtiger Service in Microsoft Purview, der authentication und verwandte Funktionen bereitstellt.",
@@ -1385,10 +1385,10 @@
         "id": "q60",
         "text": "Was ist Authorization in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für authorization und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Authorization ist ein wichtiger Service in Microsoft Purview, der authorization und verwandte Funktionen bereitstellt.",
@@ -1408,10 +1408,10 @@
         "id": "q61",
         "text": "Was ist Compliance in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für compliance und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Compliance ist ein wichtiger Service in Microsoft Purview, der compliance und verwandte Funktionen bereitstellt.",
@@ -1431,10 +1431,10 @@
         "id": "q62",
         "text": "Was ist Governance in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für governance und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Governance ist ein wichtiger Service in Microsoft Purview, der governance und verwandte Funktionen bereitstellt.",
@@ -1454,10 +1454,10 @@
         "id": "q63",
         "text": "Was ist Cost Management in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für cost management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Cost Management ist ein wichtiger Service in Microsoft Purview, der cost management und verwandte Funktionen bereitstellt.",
@@ -1477,10 +1477,10 @@
         "id": "q64",
         "text": "Was ist Resource Management in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für resource management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Resource Management ist ein wichtiger Service in Microsoft Purview, der resource management und verwandte Funktionen bereitstellt.",
@@ -1523,10 +1523,10 @@
         "id": "q66",
         "text": "Was ist Policies in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für policies und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Policies ist ein wichtiger Service in Microsoft Purview, der policies und verwandte Funktionen bereitstellt.",
@@ -1546,10 +1546,10 @@
         "id": "q67",
         "text": "Was ist Blueprints in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für blueprints und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Blueprints ist ein wichtiger Service in Microsoft Purview, der blueprints und verwandte Funktionen bereitstellt.",
@@ -1569,10 +1569,10 @@
         "id": "q68",
         "text": "Was ist RBAC in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für rbac und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "RBAC ist ein wichtiger Service in Microsoft Purview, der rbac und verwandte Funktionen bereitstellt.",
@@ -1592,10 +1592,10 @@
         "id": "q69",
         "text": "Was ist IAM in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für iam und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "IAM ist ein wichtiger Service in Microsoft Purview, der iam und verwandte Funktionen bereitstellt.",
@@ -1615,10 +1615,10 @@
         "id": "q70",
         "text": "Was ist Secrets Management in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für secrets management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Secrets Management ist ein wichtiger Service in Microsoft Purview, der secrets management und verwandte Funktionen bereitstellt.",
@@ -1638,10 +1638,10 @@
         "id": "q71",
         "text": "Was ist Key Management in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für key management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Key Management ist ein wichtiger Service in Microsoft Purview, der key management und verwandte Funktionen bereitstellt.",
@@ -1661,10 +1661,10 @@
         "id": "q72",
         "text": "Was ist Certificate Management in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für certificate management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Certificate Management ist ein wichtiger Service in Microsoft Purview, der certificate management und verwandte Funktionen bereitstellt.",
@@ -1684,10 +1684,10 @@
         "id": "q73",
         "text": "Was ist Encryption in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für encryption und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Encryption ist ein wichtiger Service in Microsoft Purview, der encryption und verwandte Funktionen bereitstellt.",
@@ -1707,10 +1707,10 @@
         "id": "q74",
         "text": "Was ist Decryption in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für decryption und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Decryption ist ein wichtiger Service in Microsoft Purview, der decryption und verwandte Funktionen bereitstellt.",
@@ -1730,10 +1730,10 @@
         "id": "q75",
         "text": "Was ist Hashing in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für hashing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Hashing ist ein wichtiger Service in Microsoft Purview, der hashing und verwandte Funktionen bereitstellt.",
@@ -1753,10 +1753,10 @@
         "id": "q76",
         "text": "Was ist Signing in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für signing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Signing ist ein wichtiger Service in Microsoft Purview, der signing und verwandte Funktionen bereitstellt.",
@@ -1776,10 +1776,10 @@
         "id": "q77",
         "text": "Was ist Verification in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für verification und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Verification ist ein wichtiger Service in Microsoft Purview, der verification und verwandte Funktionen bereitstellt.",
@@ -1799,10 +1799,10 @@
         "id": "q78",
         "text": "Was ist Auditing in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für auditing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Auditing ist ein wichtiger Service in Microsoft Purview, der auditing und verwandte Funktionen bereitstellt.",
@@ -1822,10 +1822,10 @@
         "id": "q79",
         "text": "Was ist Reporting in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für reporting und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Reporting ist ein wichtiger Service in Microsoft Purview, der reporting und verwandte Funktionen bereitstellt.",
@@ -1845,10 +1845,10 @@
         "id": "q80",
         "text": "Was ist Analytics in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für analytics und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Analytics ist ein wichtiger Service in Microsoft Purview, der analytics und verwandte Funktionen bereitstellt.",
@@ -1868,10 +1868,10 @@
         "id": "q81",
         "text": "Was ist Machine Learning in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für machine learning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Machine Learning ist ein wichtiger Service in Microsoft Purview, der machine learning und verwandte Funktionen bereitstellt.",
@@ -1891,10 +1891,10 @@
         "id": "q82",
         "text": "Was ist Artificial Intelligence in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für artificial intelligence und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Artificial Intelligence ist ein wichtiger Service in Microsoft Purview, der artificial intelligence und verwandte Funktionen bereitstellt.",
@@ -1914,10 +1914,10 @@
         "id": "q83",
         "text": "Was ist Data Science in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für data science und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Data Science ist ein wichtiger Service in Microsoft Purview, der data science und verwandte Funktionen bereitstellt.",
@@ -1937,10 +1937,10 @@
         "id": "q84",
         "text": "Was ist Big Data in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für big data und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Big Data ist ein wichtiger Service in Microsoft Purview, der big data und verwandte Funktionen bereitstellt.",
@@ -1960,10 +1960,10 @@
         "id": "q85",
         "text": "Was ist Streaming in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für streaming und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Streaming ist ein wichtiger Service in Microsoft Purview, der streaming und verwandte Funktionen bereitstellt.",
@@ -1983,10 +1983,10 @@
         "id": "q86",
         "text": "Was ist Event Processing in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für event processing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Event Processing ist ein wichtiger Service in Microsoft Purview, der event processing und verwandte Funktionen bereitstellt.",
@@ -2006,10 +2006,10 @@
         "id": "q87",
         "text": "Was ist Message Queues in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für message queues und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Message Queues ist ein wichtiger Service in Microsoft Purview, der message queues und verwandte Funktionen bereitstellt.",
@@ -2029,10 +2029,10 @@
         "id": "q88",
         "text": "Was ist Service Bus in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für service bus und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Service Bus ist ein wichtiger Service in Microsoft Purview, der service bus und verwandte Funktionen bereitstellt.",
@@ -2052,10 +2052,10 @@
         "id": "q89",
         "text": "Was ist Event Grid in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für event grid und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Event Grid ist ein wichtiger Service in Microsoft Purview, der event grid und verwandte Funktionen bereitstellt.",
@@ -2075,10 +2075,10 @@
         "id": "q90",
         "text": "Was ist Event Hubs in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für event hubs und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Event Hubs ist ein wichtiger Service in Microsoft Purview, der event hubs und verwandte Funktionen bereitstellt.",
@@ -2098,10 +2098,10 @@
         "id": "q91",
         "text": "Was ist IoT in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für iot und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "IoT ist ein wichtiger Service in Microsoft Purview, der iot und verwandte Funktionen bereitstellt.",
@@ -2121,10 +2121,10 @@
         "id": "q92",
         "text": "Was ist Edge Computing in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für edge computing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Edge Computing ist ein wichtiger Service in Microsoft Purview, der edge computing und verwandte Funktionen bereitstellt.",
@@ -2144,10 +2144,10 @@
         "id": "q93",
         "text": "Was ist Serverless in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für serverless und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Serverless ist ein wichtiger Service in Microsoft Purview, der serverless und verwandte Funktionen bereitstellt.",
@@ -2167,10 +2167,10 @@
         "id": "q94",
         "text": "Was ist Functions in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für functions und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Functions ist ein wichtiger Service in Microsoft Purview, der functions und verwandte Funktionen bereitstellt.",
@@ -2190,10 +2190,10 @@
         "id": "q95",
         "text": "Was ist Logic Apps in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für logic apps und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Logic Apps ist ein wichtiger Service in Microsoft Purview, der logic apps und verwandte Funktionen bereitstellt.",
@@ -2213,10 +2213,10 @@
         "id": "q96",
         "text": "Was ist Power Apps in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für power apps und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Power Apps ist ein wichtiger Service in Microsoft Purview, der power apps und verwandte Funktionen bereitstellt.",
@@ -2236,10 +2236,10 @@
         "id": "q97",
         "text": "Was ist Power Automate in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für power automate und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Power Automate ist ein wichtiger Service in Microsoft Purview, der power automate und verwandte Funktionen bereitstellt.",
@@ -2259,10 +2259,10 @@
         "id": "q98",
         "text": "Was ist Power BI in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für power bi und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Power BI ist ein wichtiger Service in Microsoft Purview, der power bi und verwandte Funktionen bereitstellt.",
@@ -2282,10 +2282,10 @@
         "id": "q99",
         "text": "Was ist Cognitive Services in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für cognitive services und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Cognitive Services ist ein wichtiger Service in Microsoft Purview, der cognitive services und verwandte Funktionen bereitstellt.",
@@ -2305,10 +2305,10 @@
         "id": "q100",
         "text": "Was ist Bot Framework in Microsoft Purview?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für bot framework und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Bot Framework ist ein wichtiger Service in Microsoft Purview, der bot framework und verwandte Funktionen bereitstellt.",

@@ -285,10 +285,10 @@
         "id": "q13",
         "text": "Was ist biometrische Fernidentifizierung?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "KI-Systeme zur Identifizierung von Personen aus der Ferne ohne Mitwirkung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Biometrische Fernidentifizierung bezeichnet KI-Systeme zur Identifizierung natürlicher Personen aus der Ferne durch Vergleich biometrischer Daten ohne deren aktive Mitwirkung.",
@@ -307,10 +307,10 @@
         "id": "q14",
         "text": "Ist biometrische Echtzeit-Fernidentifizierung im öffentlichen Raum erlaubt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Nein, grundsätzlich verboten mit eng definierten Ausnahmen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die biometrische Echtzeit-Fernidentifizierung ist grundsätzlich verboten, außer in eng definierten Fällen für Strafverfolgungszwecke unter strengen Bedingungen.",
@@ -329,10 +329,10 @@
         "id": "q15",
         "text": "Was sind 'Emotionserkennungssysteme'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "KI zur Erkennung oder Ableitung von Emotionen natürlicher Personen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Emotionserkennungssysteme sind KI-Systeme zur Erkennung oder Ableitung der Emotionen oder Absichten natürlicher Personen anhand ihrer biometrischen Daten.",
@@ -351,10 +351,10 @@
         "id": "q16",
         "text": "Sind Emotionserkennungssysteme am Arbeitsplatz erlaubt?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Verboten, außer für medizinische oder Sicherheitszwecke",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Der Einsatz von Emotionserkennungssystemen am Arbeitsplatz ist grundsätzlich verboten, außer wenn sie aus medizinischen oder Sicherheitsgründen eingesetzt werden.",
@@ -395,10 +395,10 @@
         "id": "q18",
         "text": "Was ist ein 'Konformitätsbewertungsverfahren'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Verfahren zur Bewertung, ob ein KI-System den Anforderungen entspricht",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das Konformitätsbewertungsverfahren ist der Prozess, mit dem nachgewiesen wird, dass die Anforderungen an ein Hochrisiko-KI-System erfüllt wurden.",
@@ -483,10 +483,10 @@
         "id": "q22",
         "text": "Welche Rolle spielen harmonisierte Normen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sie schaffen eine Konformitätsvermutung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Anwendung harmonisierter Normen schafft eine Vermutung der Konformität mit den entsprechenden Anforderungen der Verordnung.",
@@ -549,10 +549,10 @@
         "id": "q25",
         "text": "Was sind 'Codes of Practice'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Verhaltenskodizes für Anbieter von Allzweck-KI-Modellen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Codes of Practice sind Verhaltenskodizes, die von Anbietern von Allzweck-KI-Modellen entwickelt werden, um die Einhaltung der Anforderungen zu demonstrieren.",
@@ -615,10 +615,10 @@
         "id": "q28",
         "text": "Wer ist 'Anbieter' im Sinne der Verordnung?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Jede Person, die ein KI-System entwickelt oder entwickeln lässt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Anbieter ist eine natürliche oder juristische Person, die ein KI-System entwickelt oder entwickeln lässt und es unter eigenem Namen oder eigener Marke in Verkehr bringt oder in Betrieb nimmt.",
@@ -681,10 +681,10 @@
         "id": "q31",
         "text": "Was ist 'menschliche Aufsicht' (human oversight)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Maßnahmen zur Verhinderung oder Minimierung von Risiken durch menschliche Personen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Menschliche Aufsicht bezeichnet Maßnahmen, durch die sichergestellt wird, dass ein Hochrisiko-KI-System von natürlichen Personen effektiv beaufsichtigt werden kann, um Risiken zu verhindern oder zu minimieren.",
@@ -703,10 +703,10 @@
         "id": "q32",
         "text": "Was ist ein 'schwerwiegender Vorfall'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Vorfall, der zum Tod oder schweren Schäden führt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein schwerwiegender Vorfall ist ein Vorfall oder eine Fehlfunktion eines KI-Systems, der direkt oder indirekt zu Tod, schwerwiegenden Gesundheitsschäden oder erheblichen materiellen Schäden führt.",
@@ -725,10 +725,10 @@
         "id": "q33",
         "text": "Müssen schwerwiegende Vorfälle gemeldet werden?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ja, innerhalb von 15 Tagen an die Marktüberwachungsbehörde",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Anbieter müssen schwerwiegende Vorfälle unverzüglich und spätestens 15 Tage nachdem sie davon Kenntnis erlangt haben, an die Marktüberwachungsbehörden melden.",
@@ -769,10 +769,10 @@
         "id": "q35",
         "text": "Müssen Deepfakes gekennzeichnet werden?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Ja, wenn sie öffentlich verbreitet werden",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Betreiber von KI-Systemen, die synthetische Audio-, Bild-, Video- oder Textinhalte erzeugen, müssen offenlegen, dass die Inhalte künstlich erzeugt oder manipuliert wurden.",
@@ -813,10 +813,10 @@
         "id": "q37",
         "text": "Was ist ein 'Risikomanagementsystem'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein kontinuierlicher Prozess zur Identifizierung und Minderung von Risiken",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Risikomanagementsystem ist ein kontinuierlicher iterativer Prozess zur Identifizierung, Analyse, Bewertung und Minderung von Risiken während des gesamten Lebenszyklus.",
@@ -857,10 +857,10 @@
         "id": "q39",
         "text": "Was ist 'technische Dokumentation'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Umfassende Dokumentation zu Design, Entwicklung und Leistung des Systems",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die technische Dokumentation umfasst alle Informationen, die notwendig sind, um die Konformität des KI-Systems mit den Anforderungen nachzuweisen.",
@@ -879,10 +879,10 @@
         "id": "q40",
         "text": "Wie lange muss die technische Dokumentation aufbewahrt werden?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "10 Jahre nach Inverkehrbringen",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die technische Dokumentation muss 10 Jahre nach dem Inverkehrbringen des KI-Systems oder der Außerbetriebnahme aufbewahrt werden.",
@@ -945,10 +945,10 @@
         "id": "q43",
         "text": "Was sind 'notifizierte Stellen'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Von Mitgliedstaaten benannte Konformitätsbewertungsstellen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Notifizierte (benannte) Stellen sind von den nationalen Behörden benannte und der Kommission notifizierte Stellen, die Konformitätsbewertungen durchführen dürfen.",
@@ -967,10 +967,10 @@
         "id": "q44",
         "text": "Können KMU besondere Unterstützung bei der Umsetzung erhalten?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ja, durch prioritären Zugang zu regulatorischen Sandboxes",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "KMU und Start-ups haben prioritären Zugang zu KI-regulatorischen Sandboxes und können spezifische technische Dokumentationsvorlagen nutzen.",
@@ -989,10 +989,10 @@
         "id": "q45",
         "text": "Was ist eine 'regulatorische Sandbox'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Eine kontrollierte Umgebung zum Testen innovativer KI-Systeme",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine regulatorische Sandbox ist eine kontrollierte Umgebung, in der innovative KI-Systeme unter Aufsicht entwickelt, trainiert und getestet werden können.",
@@ -1077,10 +1077,10 @@
         "id": "q49",
         "text": "Was ist ein 'nachgelagerter Anbieter'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Anbieter, der ein KI-System auf Basis eines GPAI-Modells entwickelt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein nachgelagerter Anbieter ist ein Anbieter von KI-Systemen, der ein Allzweck-KI-Modell in sein eigenes KI-System integriert.",

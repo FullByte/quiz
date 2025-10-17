@@ -47,10 +47,10 @@
         "id": "q2",
         "text": "Ab welchem Alter tritt nach dem BGB die Volljährigkeit ein?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Mit 18 Jahren",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Volljährigkeit tritt mit Vollendung des 18. Lebensjahres ein (§ 2 BGB).",
@@ -133,10 +133,10 @@
         "id": "q6",
         "text": "Welches Mindestalter ist für die Gründung eines eingetragenen Vereins erforderlich?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "7 Mitglieder",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Eintragung in das Vereinsregister setzt voraus, dass der Verein mindestens sieben Mitglieder hat (§ 56 BGB).",
@@ -156,9 +156,9 @@
         "text": "Wann tritt Geschäftsunfähigkeit nach BGB ein?",
         "options": [
           "Vor Vollendung des 7. Lebensjahres",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Geschäftsunfähig ist, wer das 7. Lebensjahr nicht vollendet hat oder sich in einem die freie Willensbestimmung ausschließenden Zustand krankhafter Störung befindet (§ 104 BGB).",
@@ -884,9 +884,9 @@
         "text": "Wann liegt ein gegenseitiger Vertrag im Sinne des BGB vor?",
         "options": [
           "Wenn beide Parteien unterschiedliche Leistungen schulden",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein gegenseitiger Vertrag liegt vor, wenn beide Parteien Leistungen schulden, die im Verhältnis zueinander stehen (§ 320 BGB).",

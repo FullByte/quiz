@@ -28,7 +28,7 @@
           "23,77 m",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Spielfeld für Einzelspiele ist 23,77 m lang. Andere Längen sind nicht in den offiziellen Regeln vorgesehen.",
@@ -48,9 +48,9 @@
         "text": "Welche Höhe hat das Netz in der Mitte des Spielfelds?",
         "options": [
           "91,4 cm",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Netz ist in der Mitte 91,4 cm hoch. 107 cm ist die Höhe an den Netzpfosten.",
@@ -69,10 +69,10 @@
         "id": "q3",
         "text": "Welche Breite darf die Aufschlagmittellinie haben?",
         "options": [
-          "Eine Lösung für 5 cm",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "5 cm",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Aufschlagmittellinie sowie das Mittelzeichen müssen 5 cm breit sein.",
@@ -92,9 +92,9 @@
         "text": "Was gilt, wenn ein Ball eine Spielfeldlinie berührt?",
         "options": [
           "Der Ball gilt als im Spielfeld.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Ball, der eine Linie berührt, gilt als innerhalb des Spielfeldes.",
@@ -115,7 +115,7 @@
         "options": [
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren",
+          "Ein vergleichbares Fachverfahren",
           "Alle genannten Fälle."
         ],
         "correctIndex": 3,
@@ -136,9 +136,9 @@
         "text": "Wie wird ein Standard-Spiel gezählt?",
         "options": [
           "0-15-30-40-Spiel",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Standard-Spiel wird in der Reihenfolge 0, 15, 30, 40 und Spiel gezählt.",
@@ -158,9 +158,9 @@
         "text": "Wie viele Punkte muss ein Spieler im Tie-Break mindestens erreichen, um zu gewinnen?",
         "options": [
           "7 Punkte mit 2 Punkten Vorsprung",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Tie-Break wird gewonnen, wenn ein Spieler mindestens 7 Punkte erreicht und dabei mit 2 Punkten führt.",
@@ -180,9 +180,9 @@
         "text": "Wann müssen die Spieler die Spielfeldseiten wechseln?",
         "options": [
           "Nach jedem ungeraden Spiel",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Seiten werden nach dem 1., 3. und jedem weiteren ungeraden Spiel sowie nach jedem Satz gewechselt.",
@@ -202,9 +202,9 @@
         "text": "Wann liegt ein Fußfehler vor?",
         "options": [
           "Wenn der Aufschläger die Grundlinie mit dem Fuß berührt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Fußfehler liegt vor, wenn der Aufschläger die Grundlinie, das Spielfeld oder die seitliche Begrenzungslinie mit dem Fuß berührt.",
@@ -224,9 +224,9 @@
         "text": "Was geschieht, wenn ein Aufschlag das Netz berührt und danach ins richtige Feld fällt?",
         "options": [
           "Der Aufschlag wird wiederholt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Berührt der Ball beim Aufschlag das Netz, fällt aber ins richtige Feld, so wird der Aufschlag wiederholt.",
@@ -245,9 +245,9 @@
         "id": "q11",
         "text": "Wann verliert ein Spieler sofort den Punkt?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren",
           "Alle genannten Fälle"
         ],
         "correctIndex": 3,
@@ -268,9 +268,9 @@
         "text": "Wie viele Sekunden sind zwischen den Punkten erlaubt?",
         "options": [
           "25 Sekunden",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Zwischen den Punkten sind maximal 25 Sekunden erlaubt.",
@@ -290,9 +290,9 @@
         "text": "Wie lange darf eine Satzpause dauern?",
         "options": [
           "120 Sekunden",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Satzpause darf maximal 120 Sekunden dauern.",
@@ -314,7 +314,7 @@
           "Sie ist nicht erlaubt",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "In Einzelwettspielen ist Beratung grundsätzlich nicht erlaubt, außer es gibt eine spezielle Genehmigung durch die ITF.",
@@ -333,10 +333,10 @@
         "id": "q15",
         "text": "Wie viele Aufsprünge des Balls sind im Rollstuhltennis erlaubt?",
         "options": [
-          "Eine Lösung für zwei",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "zwei",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Im Rollstuhltennis ist die Zwei-Aufsprung-Regel erlaubt: Der Ball darf zweimal aufspringen, bevor er zurückgespielt werden muss.",
@@ -356,9 +356,9 @@
         "text": "Wo muss der Aufschläger bei Beginn eines Spiels stehen?",
         "options": [
           "Hinter der rechten Hälfte des Spielfelds",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Aufschläger beginnt jedes Spiel hinter der rechten Hälfte des Spielfelds.",
@@ -378,9 +378,9 @@
         "text": "Wann gilt ein Aufschlag als Fehler?",
         "options": [
           "Wenn der Ball eine Einzelstütze trifft",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Aufschlag, der eine Einzelstütze berührt, ist ein Fehler, auch wenn der Ball anschließend ins richtige Feld fällt.",
@@ -400,9 +400,9 @@
         "text": "Wann ist der gesamte Punkt zu wiederholen?",
         "options": [
           "Wenn ein Ball während des Spiels aufs Feld rollt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Rollt während des Spiels ein anderer Ball aufs Feld, ist der gesamte Punkt zu wiederholen.",
@@ -422,9 +422,9 @@
         "text": "Wann gilt ein Rückschlag als gut?",
         "options": [
           "Wenn der Ball das Netz berührt und ins richtige Feld fällt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Rückschlag ist gut, wenn der Ball das Netz berührt, dieses überfliegt und im richtigen Feld landet.",
@@ -444,9 +444,9 @@
         "text": "Wie wird bei absichtlicher Behinderung durch den Gegner entschieden?",
         "options": [
           "Der Spieler erhält den Punkt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bei absichtlicher Behinderung durch den Gegner erhält der Spieler den Punkt.",
@@ -466,9 +466,9 @@
         "text": "Was geschieht, wenn ein Spieler beim Aufschlag hinter der falschen Hälfte steht?",
         "options": [
           "Der Irrtum wird berichtigt und das Spiel fortgesetzt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Steht ein Spieler beim Aufschlag auf der falschen Seite, wird der Irrtum berichtigt, ohne dass vorherige Punkte verloren gehen.",
@@ -490,7 +490,7 @@
           "Der Oberschiedsrichter",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Oberschiedsrichter ist die letzte Instanz für alle Regelfragen und seine Entscheidung ist endgültig.",
@@ -510,9 +510,9 @@
         "text": "Wie lange darf die Einschlagzeit vor einem Spiel dauern?",
         "options": [
           "5 Minuten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Einschlagzeit darf maximal 5 Minuten dauern, außer die Veranstalter legen etwas anderes fest.",
@@ -532,9 +532,9 @@
         "text": "Wann darf ein Linienrichter seine Entscheidung ändern?",
         "options": [
           "Wenn er seinen Fehler sofort bemerkt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Linienrichter darf seine Entscheidung ändern, wenn er selbst einen Fehler feststellt, nicht aber aufgrund eines Protests.",
@@ -554,9 +554,9 @@
         "text": "Was geschieht, wenn ein Spieler den Ballabdruck auf Sand wegwischt, bevor der Schiedsrichter entscheidet?",
         "options": [
           "Der Gegner erhält den Punkt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Wischt ein Spieler den Ballabdruck weg, erkennt er damit an, dass der Gegner den Punkt erhält.",
@@ -576,9 +576,9 @@
         "text": "Welche Besonderheit gilt im Rollstuhltennis beim Aufschlag?",
         "options": [
           "Der Spieler darf vor dem Schlag einen Anschub ausführen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Im Rollstuhltennis darf der Aufschläger vor dem Schlag einen Anschub mit dem Rollstuhl ausführen.",
@@ -598,9 +598,9 @@
         "text": "Welche Farbe dürfen Tennisbälle haben?",
         "options": [
           "Weiß oder Gelb",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Laut ITF sind nur weiße oder gelbe Bälle zugelassen.",
@@ -620,9 +620,9 @@
         "text": "Welche maximale Masse darf ein Tennisball haben?",
         "options": [
           "59,4 g",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Masse eines Balls muss zwischen 56,0 g und 59,4 g liegen.",
@@ -642,9 +642,9 @@
         "text": "Welcher Balltyp ist für das Spiel auf schnellen Belägen vorgesehen?",
         "options": [
           "Balltyp 3 (langsam)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Balltyp 3 (langsame Beschleunigung) ist für schnelle Beläge vorgesehen.",
@@ -686,9 +686,9 @@
         "text": "Welche maximale Breite darf die Schlagfläche eines Schlägers haben?",
         "options": [
           "29,2 cm",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Schlagfläche darf höchstens 29,2 cm breit sein.",
@@ -708,9 +708,9 @@
         "text": "Welche Art von Werbung ist auf dem Netz erlaubt?",
         "options": [
           "Nur im Bereich von 91,4 cm von der Netzpfostenmitte",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Werbung ist erlaubt, wenn sie im Bereich von 0,914 m von der Netzpfostenmitte angebracht ist und das Spiel nicht beeinträchtigt.",
@@ -730,9 +730,9 @@
         "text": "Wie wird ein ‚No-Ad-Spiel‘ entschieden?",
         "options": [
           "Durch einen entscheidenden Punkt bei Einstand",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Im ‚No-Ad-Spiel‘ entscheidet ein einzelner Punkt bei Einstand über den Gewinn des Spiels.",
@@ -752,9 +752,9 @@
         "text": "Wie viele Spiele braucht man, um einen Kurzsatz zu gewinnen?",
         "options": [
           "4 Spiele mit 2 Spielen Vorsprung",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Kurzsatz ist gewonnen, sobald ein Spieler 4 Spiele erreicht und 2 Spiele Vorsprung hat.",
@@ -774,9 +774,9 @@
         "text": "Wie viele Punkte sind in einem entscheidenden Match-Tie-Break bis zehn nötig?",
         "options": [
           "10 Punkte mit 2 Punkten Vorsprung",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein entscheidender Match-Tie-Break bis zehn wird gewonnen, wenn 10 Punkte mit mindestens 2 Punkten Vorsprung erreicht sind.",
@@ -796,9 +796,9 @@
         "text": "Wer ist die letzte Instanz für Tatsachenentscheidungen während eines Wettspiels?",
         "options": [
           "Der Schiedsrichter",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Schiedsrichter ist die letzte Instanz für Tatsachenentscheidungen im laufenden Match.",
@@ -818,9 +818,9 @@
         "text": "Wie groß ist das Spielfeld für U10-Spieler auf einem roten Feld?",
         "options": [
           "10,97–12,80 m Länge und 4,27–6,10 m Breite",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein rotes U10-Spielfeld ist 10,97–12,80 m lang und 4,27–6,10 m breit.",
@@ -840,9 +840,9 @@
         "text": "Welche Netzhöhe gilt in der Mitte für ein oranges U10-Feld?",
         "options": [
           "80–91,4 cm",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Für orange U10-Spielfelder beträgt die Netzhöhe in der Mitte 80–91,4 cm.",
@@ -864,7 +864,7 @@
           "Kategorie 3 (rot)",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Für Spieler bis 8 Jahre ist ein Ball der Kategorie 3 (rot) vorgesehen.",
@@ -884,9 +884,9 @@
         "text": "Welche Ballkategorie ist für 8- bis 10-jährige Spieler vorgesehen, die ein oranges Feld nutzen?",
         "options": [
           "Kategorie 2 (orange)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Spieler von 8–10 Jahren spielen mit Kategorie 2 (orange) auf einem orange markierten Feld.",
@@ -906,9 +906,9 @@
         "text": "Welche Ballkategorie ist für fortgeschrittene 9- bis 10-jährige Spieler auf Standardfeldern erlaubt?",
         "options": [
           "Kategorie 1 (grün)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fortgeschrittene 9–10-jährige Spieler verwenden Bälle der Kategorie 1 (grün) auf Standardfeldern.",
@@ -928,9 +928,9 @@
         "text": "Wie lange darf ein Match im U10-Bereich maximal dauern, wenn ein Zeitlimit eingeführt wurde?",
         "options": [
           "Das wird vom Turnierausschuss festgelegt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Für U10-Matches kann der Turnierausschuss ein Zeitlimit festlegen, das die Spieldauer bestimmt.",
@@ -950,9 +950,9 @@
         "text": "Welche maximale Masse darf ein Ball der Kategorie 3 (rot, Standard) haben?",
         "options": [
           "46,9 g",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Ball der Kategorie 3 (rot, Standard) darf maximal 46,9 g wiegen.",
@@ -972,9 +972,9 @@
         "text": "Welche Sprunghöhe ist für grüne Bälle (Kategorie 1) vorgesehen?",
         "options": [
           "118–132 cm",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Grüne Bälle (Kategorie 1) sollen eine Sprunghöhe von 118–132 cm haben.",
@@ -994,9 +994,9 @@
         "text": "Welche Mindestdeckenhöhe wird für Hallenplätze empfohlen?",
         "options": [
           "9,0 m",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die empfohlene Mindestdeckenhöhe beträgt 9,0 m, gemessen am Netz.",
@@ -1016,9 +1016,9 @@
         "text": "Wie breit dürfen die Grundlinien maximal sein?",
         "options": [
           "10 cm",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Grundlinien dürfen bis zu 10 cm breit sein, andere Linien 2,5–5 cm.",
@@ -1038,9 +1038,9 @@
         "text": "Wie weit außerhalb des Doppelfelds müssen die Netzpfosten im Doppel stehen?",
         "options": [
           "91,4 cm",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Netzpfosten im Doppel stehen 91,4 cm außerhalb des Doppelfelds.",
@@ -1060,9 +1060,9 @@
         "text": "Wann darf ein Spieler beim Rückschlag stehen, wo er möchte?",
         "options": [
           "Jederzeit, auch außerhalb der Linien",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Rückschläger darf jede Position innerhalb oder außerhalb des Spielfelds einnehmen.",
@@ -1082,9 +1082,9 @@
         "text": "Wann wechselt im Doppel die Reihenfolge der Aufschläger?",
         "options": [
           "Nach jedem Spiel",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Im Doppel wechselt die Reihenfolge der Aufschläger nach jedem Spiel und bleibt bis Satzende bestehen.",
@@ -1104,9 +1104,9 @@
         "text": "Was geschieht, wenn der Aufschläger den Ball beim Wurf fängt, anstatt ihn zu schlagen?",
         "options": [
           "Kein Fehler, der Ball darf gefangen werden",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Ball darf gefangen oder aufkommen gelassen werden, ohne dass es ein Fehler ist.",
@@ -1126,9 +1126,9 @@
         "text": "Wie viele Bälle dürfen zu Beginn eines Wettspiels bekannt gegeben werden?",
         "options": [
           "2, 3, 4 oder 6",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Anzahl der Bälle pro Match muss vorab festgelegt werden, zulässig sind 2, 3, 4 oder 6 Bälle.",
@@ -1148,9 +1148,9 @@
         "text": "Wann wird ein Punkt sofort verloren, auch wenn der Ball im Spiel ist?",
         "options": [
           "Wenn der Spieler das Netz berührt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Berühren des Netzes während eines Ballwechsels führt zum sofortigen Punktverlust.",
@@ -1170,9 +1170,9 @@
         "text": "Wann ist ein Rückschlag trotzdem gültig, obwohl der Ball die Netzpfosten berührt?",
         "options": [
           "Wenn er ins richtige Feld fällt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Rückschlag ist gültig, wenn der Ball die Netzpfosten berührt, solange er danach ins richtige Feld fällt.",
@@ -1192,9 +1192,9 @@
         "text": "Wann ist ein unabsichtlicher Doppelschlag keine Behinderung?",
         "options": [
           "Immer, solange er unabsichtlich ist",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein unabsichtlicher Doppelschlag wird nicht als Behinderung gewertet.",
@@ -1214,9 +1214,9 @@
         "text": "Was passiert, wenn ein Satz irrtümlich als Tie-Break-Satz begonnen wird, obwohl ein Vorteil-Satz vereinbart war?",
         "options": [
           "Wenn nur 1 Punkt gespielt wurde, sofortige Korrektur",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Wird der Irrtum nach nur einem Punkt bemerkt, wird er sofort korrigiert. Nach mehr Punkten bleibt die Zählweise bestehen.",
@@ -1236,9 +1236,9 @@
         "text": "Was muss ein Aufschläger tun, wenn sein erster Aufschlag ein Fehler war?",
         "options": [
           "Er hat einen zweiten Aufschlag von derselben Seite",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach einem ersten Fehler darf der Aufschläger einen zweiten Aufschlag von derselben Seite ausführen.",
@@ -1260,7 +1260,7 @@
           "Nie, der Aufschlag ist dann keine Fehlerwertung",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Aufschlag zählt nicht als Fehler, wenn der Rückschläger erkennbar nicht bereit war.",
@@ -1280,9 +1280,9 @@
         "text": "Wann ist der gesamte Punkt zu wiederholen?",
         "options": [
           "Wenn ein Ball während des Spiels einen Vogel trifft",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Trifft der Ball während des Spiels einen Vogel, wird der gesamte Punkt wiederholt.",
@@ -1302,9 +1302,9 @@
         "text": "Wann verliert ein Spieler den Punkt beim Rückschlag eines Aufschlags?",
         "options": [
           "Wenn er den Ball annimmt, bevor er den Boden berührt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nimmt der Rückschläger den Ball an, bevor er den Boden berührt, verliert er den Punkt.",
@@ -1324,9 +1324,9 @@
         "text": "Wann ist ein Rückschlag gültig, obwohl der Ball außerhalb der Netzpfosten gespielt wird?",
         "options": [
           "Wenn er ins richtige Spielfeld trifft",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Rückschlag ist gültig, wenn der Ball außerhalb der Netzpfosten gespielt wird und das richtige Feld trifft.",
@@ -1346,9 +1346,9 @@
         "text": "Wann verliert ein Spieler den Punkt, auch wenn er den Ball korrekt zurückschlägt?",
         "options": [
           "Wenn er oder sein Schläger das Netz berührt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Berührt ein Spieler oder sein Schläger das Netz, verliert er den Punkt, auch wenn der Ball korrekt zurückgespielt wurde.",
@@ -1368,9 +1368,9 @@
         "text": "Wann darf ein Spieler über das Netz greifen, um den Ball zu spielen?",
         "options": [
           "Wenn der Ball nach dem Aufprall zurückspringt oder geweht wird",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Wenn der Ball im Feld aufspringt und zurückspringt, darf der Spieler über das Netz greifen, um ihn zurückzuspielen.",
@@ -1390,9 +1390,9 @@
         "text": "Wann darf der Oberschiedsrichter das Spiel unterbrechen?",
         "options": [
           "Bei Dunkelheit, Wetter oder schlechter Platzbeschaffenheit",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Oberschiedsrichter darf das Spiel u. a. wegen Dunkelheit, Wetter oder Platzproblemen unterbrechen.",
@@ -1412,9 +1412,9 @@
         "text": "Wie breit darf die Netzeinfassung sein?",
         "options": [
           "5–6,35 cm",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Netzeinfassung muss auf jeder Seite zwischen 5 cm und 6,35 cm breit sein.",
@@ -1434,9 +1434,9 @@
         "text": "Wann gilt ein Ball als im Spielfeld?",
         "options": [
           "Wenn er eine Linie berührt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Berührt der Ball eine Linie, gilt er als im Spielfeld.",
@@ -1456,9 +1456,9 @@
         "text": "Wie hoch dürfen Netzpfosten maximal sein?",
         "options": [
           "1,07 m",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Netzpfosten dürfen nicht höher als 1,07 m sein, das entspricht der Netzhöhe an den Pfosten.",
@@ -1478,9 +1478,9 @@
         "text": "Wie groß darf der Durchmesser der Netzpfosten maximal sein?",
         "options": [
           "15 cm",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Netzpfosten dürfen maximal 15 cm im Durchmesser haben.",
@@ -1500,9 +1500,9 @@
         "text": "Welche maximale Länge darf die Schlagfläche eines Schlägers haben?",
         "options": [
           "39,4 cm",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Schlagfläche darf höchstens 39,4 cm lang sein.",
@@ -1522,9 +1522,9 @@
         "text": "Wann ist ein Schläger mit Batterie verboten?",
         "options": [
           "Immer, da Batterien als Energiequelle gelten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Schläger mit Batterien oder ähnlichen Energiequellen sind verboten, da sie die Spieleigenschaften beeinflussen.",
@@ -1544,9 +1544,9 @@
         "text": "Welche Eigenschaften müssen alle Tennisbälle laut ITF erfüllen?",
         "options": [
           "Sie müssen auf der offiziellen Liste der zugelassenen Bälle stehen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Alle Turnierbälle müssen auf der offiziellen Liste der ITF zugelassenen Bälle stehen.",
@@ -1566,9 +1566,9 @@
         "text": "Wann darf ein Doppelpaar seine Rückschlagreihenfolge ändern?",
         "options": [
           "Nur zu Beginn eines Satzes",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Rückschlagreihenfolge darf nur zu Beginn eines Satzes festgelegt und dann nicht mehr geändert werden.",
@@ -1588,9 +1588,9 @@
         "text": "Wann gilt ein Ball, der eine ständige Einrichtung berührt, als Punktverlust für den Schlagenden?",
         "options": [
           "Wenn er die Einrichtung berührt, bevor er den Boden trifft",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Berührt der Ball eine ständige Einrichtung, bevor er den Boden trifft, verliert der Schlagende den Punkt.",
@@ -1610,9 +1610,9 @@
         "text": "Wann darf ein Schiedsrichter eine Entscheidung eines Linienrichters ändern?",
         "options": [
           "Nur sofort nach einer klaren Fehlentscheidung",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Schiedsrichter darf eine Linienrichterentscheidung nur unverzüglich ändern, wenn sie eindeutig falsch war.",
@@ -1634,7 +1634,7 @@
           "Mit 9–10 Jahren auf Standardfeld",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der grüne Ball ist für fortgeschrittene Spieler von 9–10 Jahren auf dem Standardfeld vorgesehen.",
@@ -1654,9 +1654,9 @@
         "text": "Wann ist Beratung eines Spielers durch Handzeichen erlaubt?",
         "options": [
           "Nie, Handzeichen gelten auch als unerlaubte Beratung",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Handzeichen gelten als Beratung und sind daher im Einzelspiel nicht erlaubt.",
@@ -1678,7 +1678,7 @@
           "23,77 m",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Spielfeld ist für Einzel und Doppel gleich lang: 23,77 m.",
@@ -1698,9 +1698,9 @@
         "text": "Welche Breite hat ein Doppelspielfeld?",
         "options": [
           "10,97 m",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Doppelspielfeld ist 10,97 m breit.",
@@ -1720,9 +1720,9 @@
         "text": "Wann gilt ein Fußfehler beim Aufschlag?",
         "options": [
           "Wenn der Spieler die Grundlinie mit dem Fuß berührt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Fußfehler liegt vor, wenn der Spieler beim Aufschlag die Grundlinie oder Spielfeldbegrenzung mit dem Fuß berührt.",
@@ -1742,9 +1742,9 @@
         "text": "Wann wird ein Punkt wiederholt, wenn der Ball das Netz berührt?",
         "options": [
           "Wenn er danach ins richtige Aufschlagfeld fällt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Berührt der Ball beim Aufschlag das Netz, fällt aber ins richtige Feld, wird der Aufschlag wiederholt.",
@@ -1764,9 +1764,9 @@
         "text": "Wann ist ein Spieler beim Spielen behindert?",
         "options": [
           "Wenn der Gegner ihn absichtlich stört",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Eine Behinderung liegt vor, wenn der Gegner den Spieler absichtlich stört.",
@@ -1785,10 +1785,10 @@
         "id": "q81",
         "text": "Wie viele Aufsprünge darf ein Ball im Rollstuhltennis haben?",
         "options": [
-          "Eine Lösung für zwei",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "zwei",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Im Rollstuhltennis ist die Zwei-Aufsprung-Regel gültig.",
@@ -1810,7 +1810,7 @@
           "Er wird als Teil des Körpers betrachtet",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Rollstuhl gilt als Teil des Körpers und unterliegt denselben Regeln.",
@@ -1830,9 +1830,9 @@
         "text": "Welche Farben dürfen auf Netzen nicht für Werbung verwendet werden?",
         "options": [
           "Weiß oder Gelb",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Werbung auf Netzen darf nicht weiß oder gelb sein, da diese Farben die Sicht beeinträchtigen.",
@@ -1852,9 +1852,9 @@
         "text": "Wie viel Zeit darf maximal zwischen Punkten liegen?",
         "options": [
           "25 Sekunden",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Zwischen Punkten sind maximal 25 Sekunden erlaubt.",
@@ -1874,9 +1874,9 @@
         "text": "Wie lang darf eine Satzpause höchstens sein?",
         "options": [
           "120 Sekunden",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Eine Satzpause darf maximal 120 Sekunden dauern.",
@@ -1895,10 +1895,10 @@
         "id": "q86",
         "text": "Wie breit darf das Mittelzeichen an der Grundlinie sein?",
         "options": [
-          "Eine Lösung für 5 cm",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "5 cm",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Mittelzeichen muss 5 cm breit sein, genau wie die Aufschlagmittellinie.",
@@ -1920,7 +1920,7 @@
           "23,77 m",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Einzelspielfeld ist 23,77 m lang – gleich wie das Doppelfeld.",
@@ -1940,9 +1940,9 @@
         "text": "Wie breit ist ein Einzelspielfeld?",
         "options": [
           "8,23 m",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Einzelspielfeld ist 8,23 m breit.",
@@ -1962,9 +1962,9 @@
         "text": "Wann darf ein Aufschläger mit einem Fuß außerhalb der gedachten Seitenlinie stehen?",
         "options": [
           "Nie, das gilt als Fußfehler",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Aufschläger darf die gedachte Verlängerung der Seitenlinien nicht mit dem Fuß berühren.",
@@ -1984,9 +1984,9 @@
         "text": "Wann wird ein zweiter Aufschlag ausgeführt?",
         "options": [
           "Wenn der erste Aufschlag ein Fehler war",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein zweiter Aufschlag ist nur nötig, wenn der erste ein Fehler war.",
@@ -2006,9 +2006,9 @@
         "text": "Wann verliert ein Spieler den Punkt, auch wenn der Ball korrekt gespielt wurde?",
         "options": [
           "Wenn er den Ball absichtlich trägt oder fängt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das absichtliche Tragen oder Fangen des Balls führt zum sofortigen Punktverlust.",
@@ -2028,9 +2028,9 @@
         "text": "Wann ist ein Rückschlag trotz Netzberührung gültig?",
         "options": [
           "Wenn er danach ins richtige Feld fällt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Rückschlag ist gültig, wenn der Ball das Netz berührt, es überfliegt und ins richtige Feld fällt.",
@@ -2050,9 +2050,9 @@
         "text": "Wann darf ein Linienrichter seine Entscheidung ändern?",
         "options": [
           "Wenn er seinen Fehler selbst erkennt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Linienrichter darf seine Entscheidung ändern, wenn er selbst erkennt, dass sie falsch war.",
@@ -2072,9 +2072,9 @@
         "text": "Wann darf ein Rollstuhlspieler den Ball ein drittes Mal aufspringen lassen?",
         "options": [
           "Nie, spätestens nach dem zweiten Aufsprung muss er gespielt werden",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Im Rollstuhltennis muss der Ball vor dem dritten Aufsprung gespielt werden.",
@@ -2094,9 +2094,9 @@
         "text": "Wann darf ein Spieler über das Netz springen, um auf die Gegnerseite zu gelangen?",
         "options": [
           "Nie, er verliert sonst den Punkt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Spieler darf nicht über das Netz springen – er verliert den Punkt, wenn er es tut.",
@@ -2116,9 +2116,9 @@
         "text": "Wie hoch darf das Netz an den Pfosten sein?",
         "options": [
           "1,07 m",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Netz ist an den Pfosten 1,07 m hoch, in der Mitte 91,4 cm.",
@@ -2138,9 +2138,9 @@
         "text": "Wann darf ein Spieler beim Aufschlag den Ball mit dem Schläger aufwerfen?",
         "options": [
           "Wenn er nur einen Arm nutzen kann",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Spieler, die nur einen Arm nutzen können, dürfen den Ball mit dem Schläger aufwerfen.",
@@ -2184,7 +2184,7 @@
           "Der Oberschiedsrichter",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Oberschiedsrichter ist die letzte Instanz bei Regelfragen.",
@@ -2204,9 +2204,9 @@
         "text": "Welche Farben dürfen Tennisbälle laut ITF haben?",
         "options": [
           "Weiß oder Gelb",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Tennisbälle dürfen nur weiß oder gelb sein.",

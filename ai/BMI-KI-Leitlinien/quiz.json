@@ -44,10 +44,10 @@
         "id": "q2",
         "text": "Welches der folgenden Leitprinzipien ist NICHT Teil der fünf übergeordneten Leitprinzipien der Bundesverwaltung?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Maximierung des wirtschaftlichen Gewinns durch KI",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die fünf Leitprinzipien sind: chancenorientiert und verantwortungsvoll, wertebasiert und menschenzentriert, vertrauenswürdig, Kompetenzstärkung und nachhaltiger gemeinsamer Einsatz. Gewinnmaximierung ist kein Leitprinzip.",
@@ -113,10 +113,10 @@
         "id": "q5",
         "text": "Was sind Large Language Models (LLMs)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Künstliche neuronale Netze, die auf großen Textkorpora trainiert wurden",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "LLMs sind künstliche neuronale Netze, die auf großen Textkorpora oder anderen Datenformaten trainiert wurden und auf generativen Modellen basieren.",
@@ -159,10 +159,10 @@
         "id": "q7",
         "text": "Was bedeutet 'Halluzinieren' bei LLM-Anwendungen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die Erzeugung falscher Ausgaben, die plausibel wirken",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Halluzinieren bedeutet, dass LLM-Anwendungen fehlerhafte Ausgaben erzeugen, gegebenenfalls mit erfundenen Quellenangaben, die überzeugend als relevante Lösungen präsentiert werden.",
@@ -412,10 +412,10 @@
         "id": "q18",
         "text": "Welche Prompting-Technik kann die Qualität von LLM-Ausgaben verbessern?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Strukturierte Vorgabe von Rolle, Format und Kontext",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Gutes Prompting umfasst die strukturierte Vorgabe von Rolle und Sprachstilen, Format und Kontext sowie schrittweises Vorgehen. Dies hilft, die Qualität der Ausgabe zu maximieren.",
@@ -435,10 +435,10 @@
         "id": "q19",
         "text": "Was sollte bei der Formulierung von Prompts vermieden werden?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Charakteristika wie Herkunft oder Geschlecht ohne sachlichen Grund",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Beschränkung eines Prompts auf bestimmte Charakteristika wie Geschlecht kann Geschlechtervorurteile in den Antworten bewirken. Erwartungstendenzen sollten vermieden werden.",
@@ -665,10 +665,10 @@
         "id": "q29",
         "text": "Welche Beispiele werden für bundesverwaltungsinterne LLM-Anwendungen genannt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "KIPITZ und PLAIN",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Als Beispiele für bundesverwaltungsinterne LLM-Anwendungen werden das KI-Portal des ITZBund (KIPITZ) und PLAIN (Platform Analysis and Information System) der Auslands IT genannt.",
@@ -921,7 +921,7 @@
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
           "Kennzeichnungspflicht für Hochrisiko-Systeme und Transparenzpflichten nach Artikel 48 und 50",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die KI-VO regelt die Kennzeichnungspflicht für Hochrisiko-Systeme (Artikel 48) sowie Transparenzpflichten für Anbieter und Betreiber bestimmter KI-Systeme (Artikel 50).",
@@ -1079,10 +1079,10 @@
         "id": "q47",
         "text": "Was sind 'Foundation Models' oder 'Basismodelle'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Große, vielseitig einsetzbare KI-Modelle, die als Grundlage für verschiedene Anwendungen dienen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Foundation Models sind große, oft multimodal trainierte KI-Modelle, die als Grundlage für verschiedene spezifische Anwendungen und Aufgaben verwendet werden können.",
@@ -1355,10 +1355,10 @@
         "id": "q59",
         "text": "Was bedeutet 'Federated Learning' und welche Vorteile bietet es?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Verteiltes Training ohne Austausch der Rohdaten zwischen Teilnehmern",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Federated Learning ermöglicht das gemeinsame Training von KI-Modellen, ohne dass die Rohdaten der Teilnehmer ausgetauscht werden müssen, was Datenschutz und Datensouveränität stärkt.",
@@ -1447,10 +1447,10 @@
         "id": "q63",
         "text": "Was sind 'Synthetic Data' und welche Vorteile bieten sie?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Künstlich erzeugte Daten, die echte Daten ersetzen und Datenschutz verbessern können",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Synthetic Data sind künstlich erzeugte Daten, die statistische Eigenschaften echter Daten nachbilden, aber keine echten personenbezogenen Informationen enthalten, wodurch Datenschutzrisiken reduziert werden.",
@@ -1654,10 +1654,10 @@
         "id": "q72",
         "text": "Welche Bedeutung hat 'Model Governance' in Behörden?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Umfassende Steuerung von Entwicklung, Einsatz und Überwachung von KI-Modellen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Model Governance umfasst die systematische Steuerung des gesamten Lebenszyklus von KI-Modellen, von der Entwicklung über den Einsatz bis zur Außerbetriebnahme, einschließlich Qualitätssicherung und Compliance.",
@@ -1907,10 +1907,10 @@
         "id": "q83",
         "text": "Was sind 'Adversarial Examples' und welche Schutzmaßnahmen gibt es?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Gezielt manipulierte Eingaben, die KI-Systeme zu falschen Entscheidungen verleiten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Adversarial Examples sind speziell manipulierte Eingaben, die KI-Systeme täuschen sollen. Schutzmaßnahmen umfassen robuste Trainingsverfahren, Eingabevalidierung und Anomalieerkennung.",
@@ -1999,10 +1999,10 @@
         "id": "q87",
         "text": "Was bedeutet 'Algorithmic Transparency' in der öffentlichen Verwaltung?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Angemessene Transparenz über KI-Entscheidungsprozesse gegenüber Betroffenen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Algorithmic Transparency erfordert angemessene Offenlegung von KI-Entscheidungsprozessen gegenüber Bürgern und Betroffenen, ohne dabei Sicherheit oder geistiges Eigentum zu gefährden.",
@@ -2137,10 +2137,10 @@
         "id": "q93",
         "text": "Was ist bei der Implementierung von 'Privacy-Preserving Machine Learning' zu beachten?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Techniken wie Federated Learning, Differential Privacy und Secure Multi-Party Computation",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Privacy-Preserving Machine Learning nutzt Techniken wie Federated Learning, Differential Privacy und Secure Multi-Party Computation, um Datenschutz während des ML-Trainings zu gewährleisten.",

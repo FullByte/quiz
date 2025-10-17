@@ -21,9 +21,9 @@
         "id": "q1",
         "text": "Wann ist die DSGVO in Kraft getreten?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren",
           "25. Mai 2018"
         ],
         "correctIndex": 3,
@@ -153,10 +153,10 @@
         "id": "q7",
         "text": "Was ist eine 'Einwilligung' nach der DSGVO?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Eine freiwillige, spezifische, informierte und unmissverständliche Willensbekundung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Einwilligung muss freiwillig, für einen bestimmten Fall, in informierter Weise und unmissverständlich durch eine eindeutige Handlung abgegeben werden.",
@@ -175,10 +175,10 @@
         "id": "q8",
         "text": "Kann eine Einwilligung jederzeit widerrufen werden?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Ja, jederzeit und ohne Angabe von Gründen",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die betroffene Person hat das Recht, ihre Einwilligung jederzeit zu widerrufen. Der Widerruf berührt nicht die Rechtmäßigkeit der bis dahin erfolgten Verarbeitung.",
@@ -197,10 +197,10 @@
         "id": "q9",
         "text": "Wer ist 'Verantwortlicher' im Sinne der DSGVO?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die Stelle, die über Zwecke und Mittel der Verarbeitung entscheidet",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Verantwortliche ist die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung entscheidet.",
@@ -219,10 +219,10 @@
         "id": "q10",
         "text": "Was ist ein 'Auftragsverarbeiter'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Eine Person, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Auftragsverarbeiter ist eine natürliche oder juristische Person, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet.",
@@ -263,10 +263,10 @@
         "id": "q12",
         "text": "Innerhalb welcher Frist muss ein Auskunftsersuchen beantwortet werden?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Innerhalb von einem Monat, verlängerbar um zwei Monate",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Verantwortliche muss der betroffenen Person unverzüglich, spätestens aber innerhalb eines Monats Auskunft erteilen. Diese Frist kann um zwei weitere Monate verlängert werden.",
@@ -483,10 +483,10 @@
         "id": "q22",
         "text": "Was ist 'Pseudonymisierung'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Verarbeitung so, dass Daten ohne zusätzliche Informationen nicht mehr einer Person zugeordnet werden können",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Pseudonymisierung ist die Verarbeitung personenbezogener Daten in einer Weise, dass die Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer Person zugeordnet werden können.",
@@ -505,10 +505,10 @@
         "id": "q23",
         "text": "Was bedeutet 'Privacy by Design'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Berücksichtigung des Datenschutzes bereits bei der Gestaltung von Systemen und Prozessen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Privacy by Design bedeutet, dass der Verantwortliche technische und organisatorische Maßnahmen bereits bei der Planung der Verarbeitungstätigkeit implementiert, um den Datenschutz zu gewährleisten.",
@@ -527,10 +527,10 @@
         "id": "q24",
         "text": "Was bedeutet 'Privacy by Default'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Standardmäßig höchstmögliche Datenschutzeinstellungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Privacy by Default bedeutet, dass standardmäßig nur diejenigen personenbezogenen Daten verarbeitet werden, die für den jeweiligen Zweck erforderlich sind - die datenschutzfreundlichste Einstellung als Standard.",
@@ -549,10 +549,10 @@
         "id": "q25",
         "text": "Was ist ein 'Verzeichnis von Verarbeitungstätigkeiten'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Verzeichnis aller Verarbeitungsprozesse mit Details zu Zweck, Kategorien, Empfängern etc.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Jeder Verantwortliche muss ein Verzeichnis aller Verarbeitungstätigkeiten führen mit Angaben zu Zwecken, Kategorien betroffener Personen und Daten, Empfängern, Übermittlungen und Löschfristen.",
@@ -571,10 +571,10 @@
         "id": "q26",
         "text": "Gibt es eine Ausnahme von der Pflicht, ein Verzeichnis zu führen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ja, für Unternehmen mit weniger als 250 Mitarbeitern unter bestimmten Bedingungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Unternehmen mit weniger als 250 Mitarbeitern sind ausgenommen, es sei denn, die Verarbeitung birgt ein Risiko, erfolgt nicht nur gelegentlich oder umfasst besondere Datenkategorien.",
@@ -637,10 +637,10 @@
         "id": "q29",
         "text": "Was bedeutet 'Zweckbindung'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Daten nur für festgelegte, eindeutige und legitime Zwecke verarbeiten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Zweckbindung bedeutet, dass personenbezogene Daten für festgelegte, eindeutige und legitime Zwecke erhoben und nicht in einer mit diesen Zwecken nicht vereinbaren Weise weiterverarbeitet werden dürfen.",
@@ -659,10 +659,10 @@
         "id": "q30",
         "text": "Was ist eine 'Aufsichtsbehörde'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Eine unabhängige staatliche Stelle zur Überwachung der DSGVO-Anwendung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Aufsichtsbehörde ist eine von einem Mitgliedstaat eingerichtete unabhängige staatliche Stelle zur Überwachung der Anwendung der DSGVO.",
@@ -681,10 +681,10 @@
         "id": "q31",
         "text": "Wie hoch können Geldbußen bei Verstößen gegen die DSGVO sein?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Bis zu 20 Millionen Euro oder 4% des Jahresumsatzes",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Je nach Schwere des Verstoßes können Geldbußen bis zu 20 Millionen Euro oder bis zu 4% des gesamten weltweit erzielten Jahresumsatzes verhängt werden, je nachdem, welcher Betrag höher ist.",
@@ -703,10 +703,10 @@
         "id": "q32",
         "text": "Was ist ein 'Drittland' im Sinne der DSGVO?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Land außerhalb der EU/des EWR",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Drittland ist ein Land, das nicht Mitglied der Europäischen Union oder des Europäischen Wirtschaftsraums ist.",
@@ -747,10 +747,10 @@
         "id": "q34",
         "text": "Was sind 'Standardvertragsklauseln'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Von der Kommission genehmigte Vertragsklauseln für Datenübermittlungen in Drittländer",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Standardvertragsklauseln sind von der Europäischen Kommission genehmigte Vertragsklauseln, die geeignete Garantien für die Übermittlung personenbezogener Daten in Drittländer bieten.",
@@ -769,10 +769,10 @@
         "id": "q35",
         "text": "Was ist ein 'Angemessenheitsbeschluss'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Beschluss der Kommission, dass ein Drittland ein angemessenes Datenschutzniveau bietet",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Angemessenheitsbeschluss ist eine Entscheidung der Europäischen Kommission, dass ein Drittland ein angemessenes Datenschutzniveau gewährleistet, wodurch Datenübermittlungen dorthin erleichtert werden.",
@@ -791,10 +791,10 @@
         "id": "q36",
         "text": "Was ist 'Profiling'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Jede automatisierte Verarbeitung zur Bewertung persönlicher Aspekte einer Person",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Profiling ist jede Art der automatisierten Verarbeitung personenbezogener Daten zur Bewertung persönlicher Aspekte wie Arbeitsleistung, wirtschaftliche Lage, Gesundheit, Vorlieben oder Aufenthaltsorte.",
@@ -857,10 +857,10 @@
         "id": "q39",
         "text": "Wann müssen Informationen nach der DSGVO bereitgestellt werden?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Zum Zeitpunkt der Erhebung bzw. unverzüglich",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Informationen müssen zum Zeitpunkt der Erhebung der Daten bereitgestellt werden. Werden Daten nicht direkt erhoben, müssen Informationen unverzüglich, spätestens nach einem Monat bereitgestellt werden.",
@@ -879,10 +879,10 @@
         "id": "q40",
         "text": "Was ist eine 'gemeinsame Verantwortlichkeit'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn mehrere Verantwortliche gemeinsam Zwecke und Mittel der Verarbeitung festlegen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine gemeinsame Verantwortlichkeit liegt vor, wenn zwei oder mehr Verantwortliche gemeinsam die Zwecke und Mittel der Verarbeitung festlegen. Sie müssen ihre Verantwortlichkeiten in einer Vereinbarung festlegen.",
@@ -904,7 +904,7 @@
           "Eine ähnliche Sporttechnik",
           "Gegenstand, Dauer, Art der Verarbeitung, Pflichten, Rechte und technische/organisatorische Maßnahmen",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Auftragsverarbeitungsvertrag muss Gegenstand und Dauer der Verarbeitung, Art und Zweck, Kategorien betroffener Personen, Pflichten und Rechte des Verantwortlichen sowie technische und organisatorische Maßnahmen regeln.",
@@ -923,10 +923,10 @@
         "id": "q42",
         "text": "Darf ein Auftragsverarbeiter weitere Auftragsverarbeiter einsetzen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ja, aber nur mit schriftlicher Genehmigung des Verantwortlichen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Auftragsverarbeiter darf weitere Auftragsverarbeiter (Unterauftragsverarbeiter) nur mit vorheriger allgemeiner oder spezifischer schriftlicher Genehmigung des Verantwortlichen einsetzen.",
@@ -945,10 +945,10 @@
         "id": "q43",
         "text": "Was sind 'technische und organisatorische Maßnahmen' (TOM)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Maßnahmen zur Gewährleistung der Sicherheit der Verarbeitung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "TOMs sind technische und organisatorische Maßnahmen zur Gewährleistung eines dem Risiko angemessenen Schutzniveaus, wie Pseudonymisierung, Verschlüsselung, Vertraulichkeit, Integrität und Verfügbarkeit.",
@@ -1011,10 +1011,10 @@
         "id": "q46",
         "text": "Was ist das 'Marktortprinzip' der DSGVO?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die DSGVO gilt auch für Unternehmen außerhalb der EU, die Daten von EU-Bürgern verarbeiten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das Marktortprinzip bedeutet, dass die DSGVO auch für Unternehmen außerhalb der EU gilt, wenn sie Waren oder Dienstleistungen an Personen in der EU anbieten oder ihr Verhalten beobachten.",
@@ -1033,10 +1033,10 @@
         "id": "q47",
         "text": "Was ist 'Direktmarketing'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Jede Form der Werbeansprache bei natürlichen Personen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Direktmarketing umfasst jede Form der Werbung, die sich an natürliche Personen richtet, sei es per E-Mail, Post, Telefon oder über soziale Medien.",
@@ -1077,10 +1077,10 @@
         "id": "q49",
         "text": "Was ist die 'Rechenschaftspflicht' (Accountability)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die Pflicht, die Einhaltung der DSGVO nachweisen zu können",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Rechenschaftspflicht bedeutet, dass der Verantwortliche für die Einhaltung der DSGVO-Grundsätze verantwortlich ist und deren Einhaltung nachweisen können muss.",
@@ -1099,10 +1099,10 @@
         "id": "q50",
         "text": "Welche Rolle spielt die Einwilligung bei Minderjährigen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ab 16 Jahren können Minderjährige selbst einwilligen, darunter ist Zustimmung der Eltern erforderlich",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei Kindern unter 16 Jahren (Mitgliedstaaten können Altersgrenze bis 13 Jahre senken) ist die Einwilligung nur rechtmäßig, wenn sie durch den Träger der elterlichen Verantwortung erteilt oder genehmigt wird.",

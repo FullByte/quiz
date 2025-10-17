@@ -48,9 +48,9 @@
         "text": "Welche Bauleitpläne kennt das BauGB?",
         "options": [
           "Flächennutzungsplan und Bebauungsplan",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach § 1 Abs. 2 BauGB gibt es zwei Bauleitpläne: den vorbereitenden Flächennutzungsplan und den verbindlichen Bebauungsplan.",

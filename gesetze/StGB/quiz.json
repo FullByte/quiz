@@ -26,9 +26,9 @@
         "text": "Was ist nach dem StGB unter Notwehr zu verstehen?",
         "options": [
           "Die Verteidigung, die erforderlich ist, um einen gegenwärtigen rechtswidrigen Angriff abzuwehren.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "§ 32 Abs. 2 definiert Notwehr als erforderliche Verteidigung gegen einen gegenwärtigen rechtswidrigen Angriff; Vergeltung oder vergangene Taten sind nicht umfasst.",
@@ -157,10 +157,10 @@
         "id": "q7",
         "text": "Ist Notwehr auch zugunsten eines anderen zulässig?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ja, Notwehr kann auch zugunsten eines anderen ausgeübt werden.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "§ 32 Abs. 2 nennt ausdrücklich die Abwehr eines Angriffs von sich oder einem anderen.",
@@ -225,7 +225,7 @@
         "options": [
           "Ein verwandter Paragraph aus dem Gesetz",
           "Ein ähnlicher Paragraph mit anderen Regelungen",
-          "Eine Lösung für zorn",
+          "zorn",
           "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
         ],
         "correctIndex": 2,
@@ -663,10 +663,10 @@
         "id": "q30",
         "text": "Platzhalter-Frage 30 zum StGB (wird noch konkretisiert)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -684,10 +684,10 @@
         "id": "q31",
         "text": "Platzhalter-Frage 31 zum StGB (wird noch konkretisiert)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -705,10 +705,10 @@
         "id": "q32",
         "text": "Platzhalter-Frage 32 zum StGB (wird noch konkretisiert)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -726,10 +726,10 @@
         "id": "q33",
         "text": "Platzhalter-Frage 33 zum StGB (wird noch konkretisiert)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -747,10 +747,10 @@
         "id": "q34",
         "text": "Platzhalter-Frage 34 zum StGB (wird noch konkretisiert)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -768,10 +768,10 @@
         "id": "q35",
         "text": "Platzhalter-Frage 35 zum StGB (wird noch konkretisiert)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -789,10 +789,10 @@
         "id": "q36",
         "text": "Platzhalter-Frage 36 zum StGB (wird noch konkretisiert)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -810,10 +810,10 @@
         "id": "q37",
         "text": "Platzhalter-Frage 37 zum StGB (wird noch konkretisiert)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -831,10 +831,10 @@
         "id": "q38",
         "text": "Platzhalter-Frage 38 zum StGB (wird noch konkretisiert)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -852,10 +852,10 @@
         "id": "q39",
         "text": "Platzhalter-Frage 39 zum StGB (wird noch konkretisiert)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -873,10 +873,10 @@
         "id": "q40",
         "text": "Platzhalter-Frage 40 zum StGB (wird noch konkretisiert)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1070,10 +1070,10 @@
         "id": "q49",
         "text": "Platzhalter-Frage 49 zum StGB (Strafen/Verjährung)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1091,10 +1091,10 @@
         "id": "q50",
         "text": "Platzhalter-Frage 50 zum StGB (Strafen/Verjährung)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1112,10 +1112,10 @@
         "id": "q51",
         "text": "Platzhalter-Frage 51 zum StGB (Strafen/Verjährung)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1133,10 +1133,10 @@
         "id": "q52",
         "text": "Platzhalter-Frage 52 zum StGB (Strafen/Verjährung)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1154,10 +1154,10 @@
         "id": "q53",
         "text": "Platzhalter-Frage 53 zum StGB (Strafen/Verjährung)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1175,10 +1175,10 @@
         "id": "q54",
         "text": "Platzhalter-Frage 54 zum StGB (Strafen/Verjährung)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1196,10 +1196,10 @@
         "id": "q55",
         "text": "Platzhalter-Frage 55 zum StGB (Strafen/Verjährung)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1217,10 +1217,10 @@
         "id": "q56",
         "text": "Platzhalter-Frage 56 zum StGB (Strafen/Verjährung)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1238,10 +1238,10 @@
         "id": "q57",
         "text": "Platzhalter-Frage 57 zum StGB (Strafen/Verjährung)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1259,10 +1259,10 @@
         "id": "q58",
         "text": "Platzhalter-Frage 58 zum StGB (Strafen/Verjährung)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1280,10 +1280,10 @@
         "id": "q59",
         "text": "Platzhalter-Frage 59 zum StGB (Strafen/Verjährung)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1301,10 +1301,10 @@
         "id": "q60",
         "text": "Platzhalter-Frage 60 zum StGB (Strafen/Verjährung)?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1450,10 +1450,10 @@
         "id": "q67",
         "text": "Platzhalter-Frage 67 zu Nebenfolgen/Maßregeln/Verjährung?",
         "options": [
-          "Eine Lösung für a",
+          "a",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1471,10 +1471,10 @@
         "id": "q68",
         "text": "Platzhalter-Frage 68 zu Nebenfolgen/Maßregeln/Verjährung?",
         "options": [
-          "Eine Lösung für a",
+          "a",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1492,10 +1492,10 @@
         "id": "q69",
         "text": "Platzhalter-Frage 69 zu Nebenfolgen/Maßregeln/Verjährung?",
         "options": [
-          "Eine Lösung für a",
+          "a",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1513,10 +1513,10 @@
         "id": "q70",
         "text": "Platzhalter-Frage 70 zu Nebenfolgen/Maßregeln/Verjährung?",
         "options": [
-          "Eine Lösung für a",
+          "a",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1534,10 +1534,10 @@
         "id": "q71",
         "text": "Platzhalter-Frage 71 zu Nebenfolgen/Maßregeln/Verjährung?",
         "options": [
-          "Eine Lösung für a",
+          "a",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1555,10 +1555,10 @@
         "id": "q72",
         "text": "Platzhalter-Frage 72 zu Nebenfolgen/Maßregeln/Verjährung?",
         "options": [
-          "Eine Lösung für a",
+          "a",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1576,10 +1576,10 @@
         "id": "q73",
         "text": "Platzhalter-Frage 73 zu Nebenfolgen/Maßregeln/Verjährung?",
         "options": [
-          "Eine Lösung für a",
+          "a",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1597,10 +1597,10 @@
         "id": "q74",
         "text": "Platzhalter-Frage 74 zu Nebenfolgen/Maßregeln/Verjährung?",
         "options": [
-          "Eine Lösung für a",
+          "a",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1618,10 +1618,10 @@
         "id": "q75",
         "text": "Platzhalter-Frage 75 zu Nebenfolgen/Maßregeln/Verjährung?",
         "options": [
-          "Eine Lösung für a",
+          "a",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1639,10 +1639,10 @@
         "id": "q76",
         "text": "Platzhalter-Frage 76 zu Nebenfolgen/Maßregeln/Verjährung?",
         "options": [
-          "Eine Lösung für a",
+          "a",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1660,10 +1660,10 @@
         "id": "q77",
         "text": "Platzhalter-Frage 77 zu Nebenfolgen/Maßregeln/Verjährung?",
         "options": [
-          "Eine Lösung für a",
+          "a",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1681,10 +1681,10 @@
         "id": "q78",
         "text": "Platzhalter-Frage 78 zu Nebenfolgen/Maßregeln/Verjährung?",
         "options": [
-          "Eine Lösung für a",
+          "a",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1702,10 +1702,10 @@
         "id": "q79",
         "text": "Platzhalter-Frage 79 zu Nebenfolgen/Maßregeln/Verjährung?",
         "options": [
-          "Eine Lösung für a",
+          "a",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1723,10 +1723,10 @@
         "id": "q80",
         "text": "Platzhalter-Frage 80 zu Nebenfolgen/Maßregeln/Verjährung?",
         "options": [
-          "Eine Lösung für a",
+          "a",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1853,10 +1853,10 @@
         "id": "q86",
         "text": "Platzhalter-Frage 86 zu allgemeinen Vorschriften / Abschluss?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1874,10 +1874,10 @@
         "id": "q87",
         "text": "Platzhalter-Frage 87 zu allgemeinen Vorschriften / Abschluss?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1895,10 +1895,10 @@
         "id": "q88",
         "text": "Platzhalter-Frage 88 zu allgemeinen Vorschriften / Abschluss?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1916,10 +1916,10 @@
         "id": "q89",
         "text": "Platzhalter-Frage 89 zu allgemeinen Vorschriften / Abschluss?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1937,10 +1937,10 @@
         "id": "q90",
         "text": "Platzhalter-Frage 90 zu allgemeinen Vorschriften / Abschluss?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1958,10 +1958,10 @@
         "id": "q91",
         "text": "Platzhalter-Frage 91 zu allgemeinen Vorschriften / Abschluss?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -1979,10 +1979,10 @@
         "id": "q92",
         "text": "Platzhalter-Frage 92 zu allgemeinen Vorschriften / Abschluss?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -2000,10 +2000,10 @@
         "id": "q93",
         "text": "Platzhalter-Frage 93 zu allgemeinen Vorschriften / Abschluss?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -2021,10 +2021,10 @@
         "id": "q94",
         "text": "Platzhalter-Frage 94 zu allgemeinen Vorschriften / Abschluss?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -2042,10 +2042,10 @@
         "id": "q95",
         "text": "Platzhalter-Frage 95 zu allgemeinen Vorschriften / Abschluss?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -2063,10 +2063,10 @@
         "id": "q96",
         "text": "Platzhalter-Frage 96 zu allgemeinen Vorschriften / Abschluss?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -2084,10 +2084,10 @@
         "id": "q97",
         "text": "Platzhalter-Frage 97 zu allgemeinen Vorschriften / Abschluss?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -2105,10 +2105,10 @@
         "id": "q98",
         "text": "Platzhalter-Frage 98 zu allgemeinen Vorschriften / Abschluss?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -2126,10 +2126,10 @@
         "id": "q99",
         "text": "Platzhalter-Frage 99 zu allgemeinen Vorschriften / Abschluss?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",
@@ -2147,10 +2147,10 @@
         "id": "q100",
         "text": "Platzhalter-Frage 100 zu allgemeinen Vorschriften / Abschluss?",
         "options": [
-          "Eine Lösung für a",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "a",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhafte Erklärung. Dies ist ein wichtiges Konzept, das in der Praxis häufig verwendet wird.",

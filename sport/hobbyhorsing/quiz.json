@@ -24,7 +24,7 @@
           "Die Teilnahme ist nicht gestattet.",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Teilnehmende müssen körperlich fit sein; bei Krankheit oder Verletzung ist eine Teilnahme untersagt.",
@@ -47,7 +47,7 @@
           "Sie sollen mental in der Lage sein, die Herausforderungen der Prüfungen und den Wettbewerbsdruck zu bewältigen.",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Es wird ausdrücklich gefordert, dass Teilnehmende mental in der Lage sind, die Herausforderungen zu bewältigen; ein Gutachten ist nicht gefordert.",
@@ -67,9 +67,9 @@
         "text": "Wie wird über notwendige Ausgleiche im Rahmen der Inklusion entschieden?",
         "options": [
           "In einem Gespräch zwischen Teilnehmendem, Betreuer, Veranstalter und den Vor-Ort-Richtern.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Regelwerk sieht eine individuelle Bewertung in einem Gespräch mit Teilnehmendem, Betreuer, Veranstalter und Vor-Ort-Richtern vor.",
@@ -91,7 +91,7 @@
           "unabhängig von der allgemeinen Altersklasse der Prüfung.",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Inklusion in eine entsprechende Prüfung erfolgt unabhängig von der allgemeinen Altersklasse; ein Behindertenausweis ist nicht gefordert.",
@@ -111,9 +111,9 @@
         "text": "Welche Aussage zur Kleidung ist korrekt?",
         "options": [
           "Sie soll sportlich, flexibel, leicht und eher eng anliegend sein.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Regelwerk empfiehlt sportliche, flexible, leichte und eher eng anliegende Kleidung; Farbzwang gibt es nicht.",
@@ -133,9 +133,9 @@
         "text": "Was ist in Bezug auf kurze Hosen/Röcke untersagt?",
         "options": [
           "Bekleidung, durch die das Gesäß sichtbar wird.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Zu kurze Hosen/Röcke, durch die das Gesäß sichtbar wird, sind nicht gestattet; normale kurze Hosen sind erlaubt.",
@@ -156,9 +156,9 @@
         "text": "Welche Kennzeichnung auf der Kleidung ist untersagt?",
         "options": [
           "Symbole politisch-extremistischer Gesinnung.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Alle Farben sind grundsätzlich erlaubt; verboten sind jedoch Symbole politisch-extremistischer Gesinnung.",
@@ -180,7 +180,7 @@
           "Eine Handbreit Bauchfreiheit ab dem Hosenbund ist zulässig.",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Für Jugendliche ab 14 Jahren ist eine Handbreit Bauchfreiheit ab dem Hosenbund erlaubt; ansonsten gelten die allgemeinen Bekleidungsregeln.",
@@ -203,7 +203,7 @@
           "Bevorzugt werden Sportschuhe mit abriebfester Sohle; Reitschuhe und Reitstiefel sind ungeeignet.",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "In Sporthallen werden Sportschuhe mit abriebfester Sohle bevorzugt; Reitschuhe und Reitstiefel sind auf allen Untergründen ungeeignet.",
@@ -224,9 +224,9 @@
         "text": "Welche Aussage zu Socken und Barfuß ist korrekt?",
         "options": [
           "Rutsch-Socken mit ausreichendem Grip sind erlaubt; normale Socken oder barfuß sind grundsätzlich nicht gestattet (Ausnahme: gesundheitliche Gründe, Entscheidung Vor-Ort-Richter).",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Regelwerk erlaubt rutschfeste Socken, verbietet normale Socken und Barfuß grundsätzlich; Ausnahmen aus gesundheitlichen Gründen entscheiden Vor-Ort-Richter.",
@@ -247,9 +247,9 @@
         "text": "Wie ist mit langen Haaren und Schmuck während der Prüfung umzugehen?",
         "options": [
           "Haare ab Schulterlänge müssen geflochten, gebunden oder hochgesteckt sein; Ketten, Armbänder, Ringe und lange Ohrringe sind nicht erlaubt.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Aus Sicherheitsgründen müssen lange Haare fixiert werden; hängender Schmuck ist verboten, um Verletzungen durch Hängenbleiben zu vermeiden.",
@@ -271,7 +271,7 @@
           "Fest sitzende Bandagen, weiche Gamaschen oder Western-Chaps (nur beim Western) an den Beinen sowie Handschuhe.",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Es sind fest sitzende Bandagen, weiche Gamaschen oder Western-Chaps (nur Western) sowie Handschuhe erlaubt; harte Schützer und Spikes sind untersagt.",
@@ -293,7 +293,7 @@
           "Zylinder (nur Dressur) und Westernhüte (nur Western) sind erlaubt; harte Reit- oder Fahrradhelme sind grundsätzlich unzulässig (Ausnahme bei entsprechender körperlicher Einschränkung).",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Zylinder sind in der Dressur, Westernhüte nur im Western erlaubt; harte Helme sind grundsätzlich nicht erlaubt, außer bei entsprechender körperlicher Einschränkung.",
@@ -314,9 +314,9 @@
         "text": "Dürfen Kopfhörer während einer Prüfung getragen werden?",
         "options": [
           "Nein, außer es liegt ein ärztliches Attest vor.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Während einer Prüfung ist das Tragen jeglicher Art von Kopfhörern nicht gestattet; eine Ausnahme besteht nur mit ärztlichem Attest.",
@@ -336,9 +336,9 @@
         "text": "Welche Ausrüstung ist grundsätzlich untersagt, und was kann in bestimmten Prüfungen zugelassen werden?",
         "options": [
           "Sporn, Stollen und Spikes sind untersagt; Noppensohlen und Gerte können in bestimmten Prüfungen zugelassen werden.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Regelwerk verbietet Sporen, Stollen und Spikes; Noppensohlen (Schuhe mit flächigen Erhöhungen) und Gerte können je nach Prüfung erlaubt sein.",
@@ -361,7 +361,7 @@
           "Zu Beginn und am Ende wird gegrüßt; das Unterlassen kann Maßnahmen bis zur Disqualifikation nach sich ziehen.",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Regelwerk verlangt zu Beginn und in Wertnoten-Prüfungen auch am Ende einen Gruß; das Unterlassen kann sanktioniert werden.",
@@ -383,7 +383,7 @@
           "Maßgeblich ist das Alter, das im laufenden Kalenderjahr erreicht wird; die Einstufung gilt für das gesamte Sportjahr (01.01.–31.12.).",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Einstufung richtet sich nach dem im laufenden Jahr erreichten Alter und gilt für das gesamte Sportjahr vom 01.01. bis 31.12.",
@@ -403,9 +403,9 @@
         "text": "Welcher Altersklasse wird ein Teilnehmender zugeordnet, der im laufenden Jahr 12 Jahre alt wird?",
         "options": [
           "U15 (12–14 Jahre).",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Beispiel im Regelwerk ordnet einen im Jahr 12-Jährigen der U15 (12–14 Jahre) zu.",
@@ -425,9 +425,9 @@
         "text": "Wer darf während einer Prüfung die Bahn/den Dressur- oder Springplatz betreten?",
         "options": [
           "Nur der/die Teilnehmende; Ausnahmen nur bei körperlicher Einschränkung mit notwendiger Begleitung.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Während der Prüfung darf nur der/die Teilnehmende die Fläche betreten; bei körperlicher Einschränkung ist eine notwendige Begleitung erlaubt.",
@@ -447,9 +447,9 @@
         "text": "Dürfen Parcourshelfer sich während einer Prüfung auf dem Springplatz aufhalten?",
         "options": [
           "Grundsätzlich nein; nur aus Sicherheitsgründen in begründeten Ausnahmefällen.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Parcourshelfer sollen sich aus Sicherheitsgründen grundsätzlich nicht auf dem Springplatz aufhalten; Ausnahmen sind eng begrenzt.",
@@ -471,7 +471,7 @@
           "Sportschuhe mit abriebfester Sohle werden bevorzugt.",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "In Hallen sollen abriebfeste Sportschuhe getragen werden, um die Flächen zu schonen und die Sicherheit zu erhöhen.",
@@ -493,7 +493,7 @@
           "Eine schreitende Fortbewegung in verschiedenen Tempi (Mittelschritt, versammelter Schritt, starker Schritt).",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Schritt ist eine schreitende Fortbewegung mit den Tempi Mittelschritt, versammelter Schritt und starker Schritt.",
@@ -513,9 +513,9 @@
         "text": "Welche Aussage trifft auf den Mittelschritt zu?",
         "options": [
           "Er repräsentiert das übliche Grundtempo; ruhiges Tempo, gleichmäßiger Rhythmus, entspannter Kopf in mittlerer Position.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Mittelschritt ist das normale Grundtempo mit ruhigem Tempo und gleichmäßigem Rhythmus; der Hobby-Horse-Kopf wird entspannt in mittlerer Position gehalten.",
@@ -535,9 +535,9 @@
         "text": "Wie unterscheidet sich der versammelte Schritt vom Mittelschritt?",
         "options": [
           "Kürzere, langsamere und etwas höhere Schritte; erhöhte Kopfposition und mehr Körperspannung.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Im versammelten Schritt sind die Schritte kürzer, langsamer und höher; der Kopf wird höher getragen, die Körperspannung ist erhöht.",
@@ -559,7 +559,7 @@
           "Anhalten, Hobby Horse und Zügel in einer Hand vor die Körpermitte, freie Hand entgegengesetzt am Körper, Kopfnicken nach unten.",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Gruß erfolgt mit Anhalten, Positionierung von Hobby Horse und Zügeln in einer Hand vor der Körpermitte, die freie Hand am Körper, dazu ein Kopfnicken.",
@@ -579,9 +579,9 @@
         "text": "Welche Konsequenz hat es, wenn der Parcours durchgehend in der falschen Gangart absolviert wird (z. B. Springen im Trab)?",
         "options": [
           "Dies kann zur Disqualifikation führen, sofern die Ausschreibung keine Ausnahme vorsieht.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Regelwerk nennt als Disqualifikationsgrund das Absolvieren des Parcours durchgehend in der falschen Gangart, sofern nicht abweichend ausgeschrieben.",
@@ -601,9 +601,9 @@
         "text": "Wie werden Gangartfehler im Springen (Zeitwertung) gewertet?",
         "options": [
           "Je Gangartfehler werden 0,5 Strafsekunden zur Endzeit addiert.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beispielhaft wird beschrieben, dass pro Gangartfehler 0,5 Sekunden zur Endzeit addiert werden.",
@@ -623,9 +623,9 @@
         "text": "Was passiert, wenn zwischen zwei Hindernissen mehrfach kein klarer Galopp erkennbar ist?",
         "options": [
           "Für jeden weiteren Fehler werden jeweils 0,5 s addiert; die Zeitstrafe summiert sich.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Regelwerk erläutert, dass sich die Strafsekunden pro weiterem Gangartfehler addieren (z. B. insgesamt 1,0 s für zwei Fehler).",
@@ -645,9 +645,9 @@
         "text": "Wie wirkt sich der Joker-Sprung am Ende eines Parcours auf die Punktewertung aus?",
         "options": [
           "Gelingt er, gibt es Zusatzpunkte; misslingt er, werden diese Punkte vom bisherigen Ergebnis abgezogen.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Joker ist ein anspruchsvoller Sprung: bei Erfolg Zusatzpunkte, bei Fehler werden diese vom bisherigen Ergebnis abgezogen.",
@@ -667,9 +667,9 @@
         "text": "Wie wird ein Fehler an einem Sprung in einer Punktewertung gewertet?",
         "options": [
           "Für den betreffenden Sprung werden keine Punkte vergeben.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bei einem Fehler werden für den betreffenden Sprung keine Punkte vergeben.",
@@ -689,9 +689,9 @@
         "text": "Welche Bewertungsvariante im Springen wird genannt?",
         "options": [
           "Springen nach A- und B-Note (Stil und Ausführung).",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Als Variante wird ein Springen nach A- und B-Note erwähnt.",
@@ -711,9 +711,9 @@
         "text": "Welche Aussage zum Doping ist korrekt?",
         "options": [
           "Die Richtlinien von NADA und WADA sind strikt zu beachten; Verstöße können u. a. zu sofortiger Disqualifikation, Sperre und Geldstrafe führen.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Regelwerk verweist auf NADA/WADA; Verstöße haben harte Sanktionen wie Disqualifikation, Sperre und Geldstrafe.",
@@ -733,9 +733,9 @@
         "text": "Welche witterungsbedingten Kopfbedeckungen sind erlaubt?",
         "options": [
           "Z. B. Stirnband, Mütze oder Caps.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Regelwerk erlaubt witterungsbedingte Kopfbedeckungen wie Stirnband, Mütze oder Caps.",
@@ -755,9 +755,9 @@
         "text": "Sind Handschuhe erlaubt?",
         "options": [
           "Ja, Handschuhe sind zulässig.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Im Abschnitt zu Accessoires werden Handschuhe als zulässig genannt.",
@@ -776,9 +776,9 @@
         "text": "Welcher Haarschmuck ist erlaubt?",
         "options": [
           "Fest sitzender Haarschmuck.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Erlaubt ist fest sitzender Haarschmuck; lose oder gefährliche Accessoires sind aus Sicherheitsgründen nicht zulässig.",
@@ -798,9 +798,9 @@
         "text": "Welche Folge hat das Verlassen des Prüfungsplatzes während der Prüfung?",
         "options": [
           "Es kann zur Disqualifikation führen.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Verlassen des Prüfungsplatzes während der Prüfung wird als Disqualifikationsgrund genannt.",
@@ -820,9 +820,9 @@
         "text": "Welche Aspekte sind bei der stilistischen Bewertung im Springen wichtig?",
         "options": [
           "Orientierung halten, großzügige Wege ohne Abkürzen, gerade Linien vor und nach dem Sprung, mittiges Überwinden.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bei der Stilbewertung zählen Orientierung, Linienführung und mittiges Überwinden der Hindernisse, nicht riskante Abkürzungen.",
@@ -842,9 +842,9 @@
         "text": "Zu welcher Art von Bewegung zählt das Schulterherein?",
         "options": [
           "Zu den Seitengängen.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Schulterherein wird im Regelwerk als Seitengang aufgeführt.",
@@ -864,9 +864,9 @@
         "text": "Welche Aussage trifft auf die Pirouette zu?",
         "options": [
           "Sie gehört zu den dressurspezifischen Bewegungen und wird separat bewertet.",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Pirouette wird unter den Dressurbewegungen gelistet.",
@@ -888,7 +888,7 @@
           "Eine besondere Dressurbewegung, die als schwerer Bewegungsablauf aufgeführt ist.",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Passage wird als spezielle Dressurbewegung genannt.",

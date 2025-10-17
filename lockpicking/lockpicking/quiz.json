@@ -71,10 +71,10 @@
         "id": "q3",
         "text": "Was ist der Zweck des Tension Wrench?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Drehmoment auf den Zylinder auszuüben",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Tension Wrench wird verwendet, um Drehmoment (Tension) auf den Zylinder auszuüben und die Shear Line zu schaffen, an der die Stifte getrennt werden.",
@@ -95,9 +95,9 @@
         "text": "Was ist die Shear Line?",
         "options": [
           "Die Linie zwischen Kern und Gehäuse",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Shear Line ist die Trennlinie zwischen dem inneren Kern (Plug) und dem äußeren Gehäuse (Housing) des Schlosses. Wenn alle Stifte korrekt ausgerichtet sind, kann der Zylinder gedreht werden.",
@@ -117,10 +117,10 @@
         "id": "q5",
         "text": "Welcher Stifttyp ist am schwierigsten zu setzen?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Ein übergesetzter Stift",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein übergesetzter Stift ist der schwierigste, da er zu weit nach oben gedrückt wurde und unter der Shear Line klemmt. Er muss erst gelöst werden, bevor er korrekt gesetzt werden kann.",
@@ -232,10 +232,10 @@
         "id": "q10",
         "text": "Was ist ein Driver Pin?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der obere Stift im Schloss",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Driver Pin ist der obere Stift, der sich zwischen dem Key Pin und der Shear Line befindet. Er wird vom Schlüssel nach oben gedrückt.",
@@ -255,10 +255,10 @@
         "id": "q11",
         "text": "Was ist ein Key Pin?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der untere Stift im Schloss",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Key Pin ist der untere Stift, der direkt vom Schlüssel berührt wird und die unterschiedlichen Längen hat, die dem Schlüssel-Profil entsprechen.",
@@ -278,10 +278,10 @@
         "id": "q12",
         "text": "Was passiert, wenn zu viel Tension angewendet wird?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die Stifte können übergesetzt werden",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Zu viel Tension kann dazu führen, dass Stifte übergesetzt werden, was das Lockpicking erschwert, da die Stifte dann unter der Shear Line kleben.",
@@ -301,10 +301,10 @@
         "id": "q13",
         "text": "Was ist ein Binding Pin?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Stift, der unter Tension klebt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Binding Pin ist ein Stift, der unter der angewendeten Tension klebt und sich nicht frei bewegen kann. Diese Stifte müssen zuerst gesetzt werden.",
@@ -324,10 +324,10 @@
         "id": "q14",
         "text": "Welche Richtung wird für Tension normalerweise verwendet?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Abhängig vom Schloss",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Tension-Richtung hängt vom spezifischen Schloss ab. Die meisten Schlösser öffnen sich in eine bestimmte Richtung, die ausprobiert werden muss.",
@@ -347,10 +347,10 @@
         "id": "q15",
         "text": "Was ist ein False Set?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Stift, der fast richtig gesetzt ist",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein False Set tritt auf, wenn ein Stift fast richtig gesetzt ist, aber noch nicht ganz an der Shear Line ausgerichtet ist. Der Zylinder bewegt sich etwas, aber nicht genug.",
@@ -370,10 +370,10 @@
         "id": "q16",
         "text": "Welche Pick-Form eignet sich am besten für enge Schlösser?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Schmale Hook-Picks",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Schmale Hook-Picks eignen sich am besten für enge Schlösser, da sie in begrenzten Räumen präzise arbeiten können.",
@@ -393,10 +393,10 @@
         "id": "q17",
         "text": "Was ist ein Mushroom Pin?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Stift mit pilzförmiger Spitze",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Mushroom Pin ist ein Driver Pin mit einer pilzförmigen Spitze, der als Sicherheitsmerkmal dient und das Lockpicking erschweren soll.",
@@ -416,10 +416,10 @@
         "id": "q18",
         "text": "Was ist ein Spool Pin?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Stift mit spulenförmiger Mitte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Spool Pin ist ein Driver Pin mit einer eingezogenen Mitte (spulenförmig), der False Sets verursacht und das Lockpicking erschweren soll.",
@@ -439,10 +439,10 @@
         "id": "q19",
         "text": "Welche Technik ist am besten für Anfänger?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Raking",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Raking ist für Anfänger am besten geeignet, da es einfacher zu erlernen ist und schneller zu Ergebnissen führt als Single Pin Picking.",
@@ -463,9 +463,9 @@
         "text": "Was ist ein Tumbler?",
         "options": [
           "Ein anderes Wort für Stift",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Tumbler ist ein anderes Wort für Stift im Schloss. Es bezeichnet die beweglichen Teile, die das Schloss verriegeln.",
@@ -485,10 +485,10 @@
         "id": "q21",
         "text": "Was ist der Plug?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der innere Zylinder",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Plug ist der innere Zylinder des Schlosses, der sich dreht, wenn alle Stifte korrekt ausgerichtet sind. Der Schlüssel wird in den Plug eingeführt.",
@@ -508,10 +508,10 @@
         "id": "q22",
         "text": "Was ist das Housing?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Das äußere Gehäuse",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das Housing ist das äußere Gehäuse des Schlosses, das den Plug umschließt und die Driver Pins enthält.",
@@ -531,10 +531,10 @@
         "id": "q23",
         "text": "Was ist ein Security Pin?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Stift mit Sicherheitsmerkmalen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Security Pins sind Stifte mit speziellen Formen (wie Mushroom oder Spool), die das Lockpicking erschweren sollen, indem sie False Sets verursachen.",
@@ -554,9 +554,9 @@
         "id": "q24",
         "text": "Welche Pick-Technik wird für sehr enge Schlösser verwendet?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren",
           "Rocking"
         ],
         "correctIndex": 3,
@@ -577,10 +577,10 @@
         "id": "q25",
         "text": "Was ist ein Bump Key?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Schlüssel, der zum Bumping verwendet wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Bump Key ist ein speziell geformter Schlüssel, der beim Bumping (einer anderen Öffnungstechnik) verwendet wird, um das Schloss durch Schläge zu öffnen.",
@@ -600,10 +600,10 @@
         "id": "q26",
         "text": "Was ist die beste Position für den Tension Wrench?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Unten im Schloss",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Tension Wrench wird normalerweise unten im Schloss positioniert, um den Pick oben genug Platz zu lassen, um die Stifte zu erreichen.",
@@ -623,10 +623,10 @@
         "id": "q27",
         "text": "Was ist ein Serrated Pin?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Stift mit gezackter Oberfläche",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Serrated Pin ist ein Driver Pin mit gezackter oder geriffelter Oberfläche, der das Lockpicking erschweren soll, indem er zusätzliche Reibung erzeugt.",
@@ -646,10 +646,10 @@
         "id": "q28",
         "text": "Welche Pick-Form eignet sich am besten für sehr flache Schlösser?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Diamond-Pick",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Diamond-Picks eignen sich gut für sehr flache Schlösser, da sie eine kompakte Form haben und in begrenzten Räumen arbeiten können.",
@@ -669,10 +669,10 @@
         "id": "q29",
         "text": "Was ist ein Master Key?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Schlüssel, der mehrere Schlösser öffnet",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Master Key ist ein Schlüssel, der mehrere verschiedene Schlösser in einem System öffnen kann, indem er verschiedene Stift-Kombinationen umgeht.",
@@ -692,10 +692,10 @@
         "id": "q30",
         "text": "Was ist ein Change Key?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Schlüssel für ein einzelnes Schloss",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Change Key ist ein Schlüssel, der nur ein einzelnes Schloss in einem Master Key System öffnet, im Gegensatz zum Master Key.",
@@ -715,10 +715,10 @@
         "id": "q31",
         "text": "Was ist ein Wafer Lock?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Schloss mit Scheiben",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Wafer Lock ist ein Schloss, das Scheiben (Wafer) anstelle von Stiften verwendet. Diese Scheiben müssen alle auf die gleiche Höhe ausgerichtet werden.",
@@ -762,9 +762,9 @@
         "text": "Was ist ein Tubular Lock?",
         "options": [
           "Ein röhrenförmiges Schloss",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Tubular Lock ist ein röhrenförmiges Schloss, das oft in Getränkeautomaten und ähnlichen Geräten verwendet wird und spezielle Werkzeuge zum Öffnen benötigt.",
@@ -784,10 +784,10 @@
         "id": "q34",
         "text": "Was ist ein Latch?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Riegel",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Latch ist ein Riegel oder Bolzen, der das Schloss verriegelt und sich bewegt, wenn der Schlüssel gedreht wird.",
@@ -807,10 +807,10 @@
         "id": "q35",
         "text": "Was ist ein Deadbolt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Riegel ohne Feder",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Deadbolt ist ein Riegel ohne Feder, der manuell verriegelt und entriegelt werden muss und nicht automatisch zurückspringt.",
@@ -831,9 +831,9 @@
         "text": "Was ist ein Spring Latch?",
         "options": [
           "Ein Riegel mit Feder",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Spring Latch ist ein Riegel mit einer Feder, der automatisch zurückspringt und das Schloss schließt, wenn der Schlüssel entfernt wird.",
@@ -854,9 +854,9 @@
         "text": "Was ist ein Lever Lock?",
         "options": [
           "Ein Schloss mit Hebeln",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Lever Lock ist ein Schloss, das Hebel anstelle von Stiften verwendet. Die Hebel müssen alle in die richtige Position gebracht werden.",
@@ -877,9 +877,9 @@
         "text": "Was ist ein Combination Lock?",
         "options": [
           "Ein Schloss mit Zahlenkombination",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Combination Lock ist ein Schloss, das durch das Eingeben einer Zahlenkombination geöffnet wird, anstatt durch einen Schlüssel.",
@@ -899,10 +899,10 @@
         "id": "q39",
         "text": "Was ist ein Warded Lock?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Schloss mit Barrieren",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Warded Lock ist ein einfaches Schloss mit Barrieren (Wards), die verhindern, dass der falsche Schlüssel gedreht werden kann.",
@@ -922,10 +922,10 @@
         "id": "q40",
         "text": "Was ist ein Dimple Lock?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Schloss mit Mulden",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Dimple Lock ist ein Schloss, bei dem der Schlüssel Mulden (Dimples) hat, die die Stifte von der Seite her drücken, anstatt von oben.",
@@ -945,10 +945,10 @@
         "id": "q41",
         "text": "Was ist ein Magnetic Lock?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Schloss mit Magneten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Magnetic Lock ist ein Schloss, das Magnete verwendet, um sich zu verriegeln. Es kann durch starke Magnete oder spezielle Werkzeuge geöffnet werden.",
@@ -968,10 +968,10 @@
         "id": "q42",
         "text": "Was ist ein Sidebar?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein seitlicher Riegel",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Sidebar ist ein seitlicher Riegel in einem Schloss, der zusätzliche Sicherheit bietet und alle Stifte korrekt ausgerichtet sein müssen, damit er freigegeben wird.",
@@ -991,10 +991,10 @@
         "id": "q43",
         "text": "Was ist ein Anti-Pick Pin?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Stift, der das Lockpicking verhindert",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Anti-Pick Pin ist ein speziell geformter Stift, der das Lockpicking erschweren soll, indem er False Sets verursacht oder das Setzen anderer Stifte blockiert.",
@@ -1015,9 +1015,9 @@
         "text": "Was ist ein Torque Wrench?",
         "options": [
           "Ein anderes Wort für Tension Wrench",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Torque Wrench ist ein anderes Wort für Tension Wrench. Beide Begriffe bezeichnen das Werkzeug, das zum Aufbringen von Drehmoment auf den Zylinder verwendet wird.",
@@ -1038,9 +1038,9 @@
         "text": "Was ist ein Tension Tool?",
         "options": [
           "Ein anderes Wort für Tension Wrench",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Tension Tool ist ein weiteres Synonym für Tension Wrench. Alle diese Begriffe bezeichnen das Werkzeug zum Aufbringen von Drehmoment.",
@@ -1061,9 +1061,9 @@
         "text": "Was ist ein Pick Gun?",
         "options": [
           "Ein Werkzeug, das Stifte automatisch setzt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Pick Gun ist ein elektrisches oder mechanisches Werkzeug, das die Stifte automatisch setzt, indem es sie schnell vibriert oder schlägt.",
@@ -1084,9 +1084,9 @@
         "text": "Was ist ein Bump Gun?",
         "options": [
           "Ein Werkzeug zum Bumping",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Bump Gun ist ein Werkzeug, das speziell für das Bumping entwickelt wurde und die Bump Keys automatisch schlägt, um das Schloss zu öffnen.",
@@ -1107,9 +1107,9 @@
         "text": "Was ist ein Impressioning Tool?",
         "options": [
           "Ein Werkzeug zum Eindrucken",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Impressioning Tool ist ein Werkzeug, das verwendet wird, um Abdrücke auf einem Schlüssel zu erzeugen, um die richtige Form zu bestimmen.",
@@ -1130,9 +1130,9 @@
         "text": "Was ist ein Decoder?",
         "options": [
           "Ein Werkzeug zum Dekodieren",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Decoder ist ein Werkzeug, das verwendet wird, um die Stiftlängen oder Kombinationen eines Schlosses zu bestimmen, ohne es zu öffnen.",
@@ -1153,9 +1153,9 @@
         "text": "Was ist ein Shimming Tool?",
         "options": [
           "Ein Werkzeug zum Shimmen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Shimming Tool ist ein dünnes Werkzeug, das zwischen den Stiften eingeführt wird, um sie zu umgehen oder zu manipulieren.",
@@ -1176,9 +1176,9 @@
         "text": "Was ist ein Bypass Tool?",
         "options": [
           "Ein Werkzeug zum Umgehen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Bypass Tool ist ein Werkzeug, das das Schloss umgeht, anstatt es zu öffnen, indem es andere Teile des Mechanismus manipuliert.",
@@ -1199,9 +1199,9 @@
         "text": "Was ist ein Tubular Pick?",
         "options": [
           "Ein Pick für Tubular Locks",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Tubular Pick ist ein spezieller Pick, der für Tubular Locks entwickelt wurde und eine röhrenförmige Form hat, die in das Schloss passt.",
@@ -1222,9 +1222,9 @@
         "text": "Was ist ein Wafer Pick?",
         "options": [
           "Ein Pick für Wafer Locks",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Wafer Pick ist ein spezieller Pick, der für Wafer Locks entwickelt wurde und flach genug ist, um zwischen die Wafer zu gelangen.",
@@ -1245,9 +1245,9 @@
         "text": "Was ist ein Dimple Pick?",
         "options": [
           "Ein Pick für Dimple Locks",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Dimple Pick ist ein spezieller Pick, der für Dimple Locks entwickelt wurde und seitlich arbeitet, um die Stifte zu erreichen.",
@@ -1268,9 +1268,9 @@
         "text": "Was ist ein Lever Pick?",
         "options": [
           "Ein Pick für Lever Locks",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Lever Pick ist ein spezieller Pick, der für Lever Locks entwickelt wurde und die Hebel in die richtige Position bringt.",
@@ -1291,9 +1291,9 @@
         "text": "Was ist ein Disc Pick?",
         "options": [
           "Ein Pick für Disc Detainer Locks",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Disc Pick ist ein spezieller Pick, der für Disc Detainer Locks entwickelt wurde und die Scheiben manipuliert.",
@@ -1314,9 +1314,9 @@
         "text": "Was ist ein Magnetic Pick?",
         "options": [
           "Ein Pick für Magnetic Locks",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Magnetic Pick ist ein spezieller Pick, der für Magnetic Locks entwickelt wurde und Magnete verwendet, um das Schloss zu öffnen.",
@@ -1337,9 +1337,9 @@
         "text": "Was ist ein Comb Pick?",
         "options": [
           "Ein Pick mit Kammform",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Comb Pick ist ein Pick mit Kammform, der alle Stifte gleichzeitig auf die gleiche Höhe setzt, um das Schloss zu öffnen.",
@@ -1360,9 +1360,9 @@
         "text": "Was ist ein Rake Pick?",
         "options": [
           "Ein Pick für Raking",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Rake Pick ist ein Pick, der speziell für Raking-Techniken entwickelt wurde und mehrere Stifte gleichzeitig erreichen kann.",
@@ -1383,9 +1383,9 @@
         "text": "Was ist ein Hook Pick?",
         "options": [
           "Ein Pick mit Hakenform",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Hook Pick ist ein Pick mit Hakenform, der ideal für Single Pin Picking ist, da er präzise auf einzelne Stifte zielen kann.",
@@ -1406,9 +1406,9 @@
         "text": "Was ist ein Ball Pick?",
         "options": [
           "Ein Pick mit Kugelform",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Ball Pick ist ein Pick mit kugelförmiger Spitze, der für bestimmte Schloss-Typen und -Techniken verwendet wird.",
@@ -1429,9 +1429,9 @@
         "text": "Was ist ein Diamond Pick?",
         "options": [
           "Ein Pick mit Diamantform",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Diamond Pick ist ein Pick mit Diamantform, der vielseitig einsetzbar ist und für verschiedene Techniken verwendet werden kann.",
@@ -1452,9 +1452,9 @@
         "text": "Was ist ein Snake Rake?",
         "options": [
           "Ein Pick mit Schlangenform",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Snake Rake ist ein Pick mit schlangenförmiger Form, der besonders gut für Raking-Techniken geeignet ist.",
@@ -1475,9 +1475,9 @@
         "text": "Was ist ein Bogota Rake?",
         "options": [
           "Ein Pick mit spezieller Form",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Bogota Rake ist ein Pick mit einer speziellen Form, die mehrere Spitzen hat und sehr effektiv für Raking ist.",
@@ -1498,9 +1498,9 @@
         "text": "Was ist ein L-Rake?",
         "options": [
           "Ein Pick mit L-Form",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein L-Rake ist ein Pick mit L-förmiger Form, der für bestimmte Raking-Techniken verwendet wird.",
@@ -1521,9 +1521,9 @@
         "text": "Was ist ein City Rake?",
         "options": [
           "Ein Pick mit Stadtform",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein City Rake ist ein Pick mit einer Form, die an eine Stadt-Silhouette erinnert und für Raking verwendet wird.",
@@ -1544,9 +1544,9 @@
         "text": "Was ist ein S-Rake?",
         "options": [
           "Ein Pick mit S-Form",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein S-Rake ist ein Pick mit S-förmiger Form, der für bestimmte Raking-Techniken verwendet wird.",
@@ -1567,9 +1567,9 @@
         "text": "Was ist ein W-Rake?",
         "options": [
           "Ein Pick mit W-Form",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein W-Rake ist ein Pick mit W-förmiger Form, der für bestimmte Raking-Techniken verwendet wird.",
@@ -1590,9 +1590,9 @@
         "text": "Was ist ein Half Diamond?",
         "options": [
           "Ein Pick mit halber Diamantform",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Half Diamond ist ein Pick mit halber Diamantform, der vielseitig einsetzbar ist und für verschiedene Techniken verwendet werden kann.",
@@ -1613,9 +1613,9 @@
         "text": "Was ist ein Triple Peak?",
         "options": [
           "Ein Pick mit drei Spitzen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Triple Peak ist ein Pick mit drei Spitzen, der für bestimmte Raking-Techniken verwendet wird.",
@@ -1636,9 +1636,9 @@
         "text": "Was ist ein Quad Rake?",
         "options": [
           "Ein Pick mit vier Spitzen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Quad Rake ist ein Pick mit vier Spitzen, der für bestimmte Raking-Techniken verwendet wird.",
@@ -1659,9 +1659,9 @@
         "text": "Was ist ein Double Ball?",
         "options": [
           "Ein Pick mit zwei Kugeln",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Double Ball ist ein Pick mit zwei kugelförmigen Spitzen, der für bestimmte Techniken verwendet wird.",
@@ -1682,9 +1682,9 @@
         "text": "Was ist ein Offset Hybrid?",
         "options": [
           "Ein Pick mit versetzter Hybridform",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Offset Hybrid ist ein Pick mit versetzter Hybridform, der verschiedene Techniken kombiniert.",
@@ -1705,9 +1705,9 @@
         "text": "Was ist ein Short Hook?",
         "options": [
           "Ein kurzer Haken-Pick",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Short Hook ist ein kurzer Haken-Pick, der für enge Schlösser oder präzise Arbeit verwendet wird.",
@@ -1728,9 +1728,9 @@
         "text": "Was ist ein Long Hook?",
         "options": [
           "Ein langer Haken-Pick",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Long Hook ist ein langer Haken-Pick, der für tiefe Schlösser oder Stifte verwendet wird.",
@@ -1751,9 +1751,9 @@
         "text": "Was ist ein Deep Hook?",
         "options": [
           "Ein tiefer Haken-Pick",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Deep Hook ist ein tiefer Haken-Pick, der für sehr tiefe Schlösser oder Stifte verwendet wird.",
@@ -1774,9 +1774,9 @@
         "text": "Was ist ein Steep Hook?",
         "options": [
           "Ein steiler Haken-Pick",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Steep Hook ist ein steiler Haken-Pick, der für bestimmte Schloss-Typen oder -Techniken verwendet wird.",
@@ -1797,9 +1797,9 @@
         "text": "Was ist ein Shallow Hook?",
         "options": [
           "Ein flacher Haken-Pick",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Shallow Hook ist ein flacher Haken-Pick, der für flache Schlösser oder Stifte verwendet wird.",
@@ -1820,9 +1820,9 @@
         "text": "Was ist ein Curved Hook?",
         "options": [
           "Ein gebogener Haken-Pick",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Curved Hook ist ein gebogener Haken-Pick, der für bestimmte Schloss-Typen oder -Techniken verwendet wird.",
@@ -1866,9 +1866,9 @@
         "text": "Was ist ein Offset Diamond?",
         "options": [
           "Ein versetzter Diamant-Pick",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Offset Diamond ist ein versetzter Diamant-Pick, der für bestimmte Schloss-Typen oder -Techniken verwendet wird.",
@@ -1889,9 +1889,9 @@
         "text": "Was ist ein Euro Hook?",
         "options": [
           "Ein europäischer Haken-Pick",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Euro Hook ist ein europäischer Haken-Pick, der für europäische Schloss-Typen entwickelt wurde.",
@@ -1912,9 +1912,9 @@
         "text": "Was ist ein Gem?",
         "options": [
           "Ein Pick mit Edelsteinform",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Gem ist ein Pick mit Edelsteinform, der für bestimmte Techniken oder Schloss-Typen verwendet wird.",
@@ -1935,9 +1935,9 @@
         "text": "Was ist ein Pagoda?",
         "options": [
           "Ein Pick mit Pagodenform",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Pagoda ist ein Pick mit Pagodenform, der für bestimmte Techniken oder Schloss-Typen verwendet wird.",
@@ -1958,9 +1958,9 @@
         "text": "Was ist ein Half Snowman?",
         "options": [
           "Ein Pick mit halber Schneemannform",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Half Snowman ist ein Pick mit halber Schneemannform, der für bestimmte Techniken oder Schloss-Typen verwendet wird.",
@@ -1981,9 +1981,9 @@
         "text": "Was ist ein Snowman?",
         "options": [
           "Ein Pick mit Schneemannform",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Snowman ist ein Pick mit Schneemannform, der für bestimmte Techniken oder Schloss-Typen verwendet wird.",
@@ -2004,9 +2004,9 @@
         "text": "Was ist ein Worm?",
         "options": [
           "Ein Pick mit Wurmform",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Worm ist ein Pick mit Wurmform, der für bestimmte Techniken oder Schloss-Typen verwendet wird.",
@@ -2027,9 +2027,9 @@
         "text": "Was ist ein Twisted Wire?",
         "options": [
           "Ein Pick mit verdrahteter Form",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Twisted Wire ist ein Pick mit verdrahteter Form, der für bestimmte Techniken oder Schloss-Typen verwendet wird.",
@@ -2050,9 +2050,9 @@
         "text": "Was ist ein Peterson Pry Bar?",
         "options": [
           "Ein spezieller Tension Wrench",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Peterson Pry Bar ist ein spezieller Tension Wrench, der von Peterson Tools hergestellt wird und für bestimmte Techniken verwendet wird.",
@@ -2073,9 +2073,9 @@
         "text": "Was ist ein Sparrows Tension Wrench?",
         "options": [
           "Ein Tension Wrench von Sparrows",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Sparrows Tension Wrench ist ein Tension Wrench, der von Sparrows Lock Picks hergestellt wird und für bestimmte Techniken verwendet wird.",
@@ -2096,9 +2096,9 @@
         "text": "Was ist ein Southord Tension Wrench?",
         "options": [
           "Ein Tension Wrench von Southord",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Southord Tension Wrench ist ein Tension Wrench, der von Southord hergestellt wird und für bestimmte Techniken verwendet wird.",
@@ -2119,9 +2119,9 @@
         "text": "Was ist ein HPC Tension Wrench?",
         "options": [
           "Ein Tension Wrench von HPC",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein HPC Tension Wrench ist ein Tension Wrench, der von HPC hergestellt wird und für bestimmte Techniken verwendet wird.",
@@ -2142,9 +2142,9 @@
         "text": "Was ist ein Peterson Tension Wrench?",
         "options": [
           "Ein Tension Wrench von Peterson",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Peterson Tension Wrench ist ein Tension Wrench, der von Peterson Tools hergestellt wird und für bestimmte Techniken verwendet wird.",
@@ -2165,9 +2165,9 @@
         "text": "Was ist ein Sparrows Pick?",
         "options": [
           "Ein Pick von Sparrows",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Sparrows Pick ist ein Pick, der von Sparrows Lock Picks hergestellt wird und für bestimmte Techniken verwendet wird.",
@@ -2188,9 +2188,9 @@
         "text": "Was ist ein Southord Pick?",
         "options": [
           "Ein Pick von Southord",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Southord Pick ist ein Pick, der von Southord hergestellt wird und für bestimmte Techniken verwendet wird.",
@@ -2211,9 +2211,9 @@
         "text": "Was ist ein HPC Pick?",
         "options": [
           "Ein Pick von HPC",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein HPC Pick ist ein Pick, der von HPC hergestellt wird und für bestimmte Techniken verwendet wird.",
@@ -2234,9 +2234,9 @@
         "text": "Was ist ein Peterson Pick?",
         "options": [
           "Ein Pick von Peterson",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Peterson Pick ist ein Pick, der von Peterson Tools hergestellt wird und für bestimmte Techniken verwendet wird.",
@@ -2257,9 +2257,9 @@
         "text": "Was ist ein Sparrows Set?",
         "options": [
           "Ein Pick-Set von Sparrows",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Sparrows Set ist ein Pick-Set, das von Sparrows Lock Picks hergestellt wird und verschiedene Picks und Tension Wrenches enthält.",
@@ -2280,9 +2280,9 @@
         "text": "Was ist ein Southord Set?",
         "options": [
           "Ein Pick-Set von Southord",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Southord Set ist ein Pick-Set, das von Southord hergestellt wird und verschiedene Picks und Tension Wrenches enthält.",
@@ -2303,9 +2303,9 @@
         "text": "Was ist ein HPC Set?",
         "options": [
           "Ein Pick-Set von HPC",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein HPC Set ist ein Pick-Set, das von HPC hergestellt wird und verschiedene Picks und Tension Wrenches enthält.",

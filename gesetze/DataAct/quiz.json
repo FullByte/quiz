@@ -21,10 +21,10 @@
         "id": "q1",
         "text": "Wann wurde die Data Act Verordnung im Amtsblatt der EU veröffentlicht?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "27. Dezember 2023",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Data Act Verordnung (EU) 2023/2854 wurde am 27. Dezember 2023 im Amtsblatt der Europäischen Union veröffentlicht.",
@@ -43,10 +43,10 @@
         "id": "q2",
         "text": "Ab wann ist die Data Act Verordnung anwendbar?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "12. September 2025",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Verordnung ist ab dem 12. September 2025 anwendbar, also 20 Monate nach ihrer Veröffentlichung im Amtsblatt.",
@@ -66,9 +66,9 @@
         "text": "Was ist das Hauptziel des Data Acts?",
         "options": [
           "Förderung des Wettbewerbs auf Datenmärkten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Data Act zielt darauf ab, faire Bedingungen für den Datenzugang zu schaffen und den Wettbewerb auf Datenmärkten zu fördern.",
@@ -87,10 +87,10 @@
         "id": "q4",
         "text": "Auf welche Arten von Produkten ist der Data Act anwendbar?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Auf vernetzte Produkte und damit zusammenhängende Dienste",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Der Data Act gilt für vernetzte Produkte und damit zusammenhängende Dienste, die Daten generieren oder erheben.",
@@ -197,10 +197,10 @@
         "id": "q9",
         "text": "Was müssen Hersteller vernetzter Produkte standardmäßig bereitstellen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Informationen über Art, Format und Zugang zu Daten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Hersteller müssen den Nutzern klare und leicht zugängliche Informationen über Art, Format und ungefähres Volumen der generierten Daten sowie die Modalitäten des Zugangs bereitstellen.",
@@ -285,10 +285,10 @@
         "id": "q13",
         "text": "Was sind 'vernetzte Produkte' im Sinne des Data Acts?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Artikel, die Daten über Nutzung oder Umgebung erheben und übermitteln können",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Vernetzte Produkte sind Artikel, die durch eine elektronische Kommunikationsdienst- oder physische Datenverbindung Daten über ihre Nutzung oder Umgebung erheben, generieren oder erheben und übermitteln können.",
@@ -307,10 +307,10 @@
         "id": "q14",
         "text": "Welche Anforderung gilt für die Gestaltung vernetzter Produkte?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sie müssen standardmäßig Datenzugang ermöglichen (Design by Default)",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Vernetzte Produkte müssen so gestaltet sein, dass die bei ihrer Nutzung erzeugten Daten für den Nutzer standardmäßig leicht, sicher und, soweit anwendbar, direkt zugänglich sind.",
@@ -329,10 +329,10 @@
         "id": "q15",
         "text": "Was ist mit 'damit zusammenhängenden Diensten' gemeint?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Digitale Dienste, die mit dem vernetzten Produkt verbunden sind",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Damit zusammenhängende Dienste sind digitale Dienste, die mit dem vernetzten Produkt so verbunden sind, dass ihr Fehlen das vernetzte Produkt daran hindern würde, seine Funktionen zu erfüllen.",
@@ -351,10 +351,10 @@
         "id": "q16",
         "text": "Welche Unternehmen gelten als 'Gate keeper' im Kontext des Data Acts?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Unternehmen, die nach dem Digital Markets Act als solche benannt sind",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Gatekeepers sind Unternehmen, die gemäß Artikel 3 der Verordnung (EU) 2022/1925 (Digital Markets Act) als solche benannt wurden.",
@@ -461,10 +461,10 @@
         "id": "q21",
         "text": "Was ist ein 'Anbieterwechsel' (Switching) im Kontext des Data Acts?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wechsel von einem Datenverarbeitungsdienst zu einem anderen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Anbieterwechsel bezeichnet den Prozess, bei dem ein Kunde von einem Anbieter von Datenverarbeitungsdiensten zu einem anderen Anbieter wechselt.",
@@ -483,10 +483,10 @@
         "id": "q22",
         "text": "Welche Kündigungsfrist gilt für Cloud-Dienste nach dem Data Act?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Maximal 30 Kalendertage",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Kündigungsfrist für Datenverarbeitungsdienste darf 30 Kalendertage nicht überschreiten.",
@@ -505,10 +505,10 @@
         "id": "q23",
         "text": "Dürfen Anbieter von Cloud-Diensten Gebühren für den Wechsel zu einem anderen Anbieter erheben?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Nein, Wechselgebühren sind verboten",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Anbieter dürfen keine Gebühren für Funktionen im Zusammenhang mit dem Anbieterwechsel erheben.",
@@ -549,10 +549,10 @@
         "id": "q25",
         "text": "Welche Rolle spielt die Kommission bei der Interoperabilität?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Sie kann bestimmte Standards als verpflichtend festlegen",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Kommission kann bestimmte europäische oder internationale Standards für die Interoperabilität von Datenverarbeitungsdiensten als verpflichtend festlegen.",
@@ -571,10 +571,10 @@
         "id": "q26",
         "text": "Was sind 'Geschäftsgeheimnisse' im Kontext des Data Acts?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Informationen mit kommerziellem Wert, die geheim gehalten werden",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Geschäftsgeheimnisse sind Informationen, die einen kommerziellen Wert haben, weil sie geheim sind, und die Gegenstand angemessener Geheimhaltungsmaßnahmen sind.",
@@ -593,10 +593,10 @@
         "id": "q27",
         "text": "Wer ist für die Durchsetzung des Data Acts in den Mitgliedstaaten zuständig?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Zuständige Behörden der Mitgliedstaaten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Jeder Mitgliedstaat benennt eine oder mehrere zuständige Behörden, die für die Durchsetzung der Verordnung verantwortlich sind.",
@@ -616,9 +616,9 @@
         "text": "Wie hoch können Geldbußen bei Verstößen gegen den Data Act maximal sein?",
         "options": [
           "Bis zu 1% des weltweiten Jahresumsatzes",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Geldbußen können bis zu 1% des weltweiten Gesamtumsatzes des Unternehmens im vorangegangenen Geschäftsjahr betragen.",
@@ -659,10 +659,10 @@
         "id": "q30",
         "text": "Was versteht man unter 'Smart Contracts' im Data Act?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Computerprotokolle in dezentralen Registern zur automatischen Ausführung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Smart Contract ist ein Computerprotokoll in einem dezentralen Register zur automatischen Ausführung einer Vereinbarung.",
@@ -681,10 +681,10 @@
         "id": "q31",
         "text": "Müssen Smart Contracts nach dem Data Act bestimmte Anforderungen erfüllen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ja, sie müssen unterbrechbar und beendigbar sein",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Smart Contracts für Datenteilungsvereinbarungen müssen Funktionen zur sicheren Unterbrechung und Beendigung enthalten.",
@@ -747,10 +747,10 @@
         "id": "q34",
         "text": "Gilt der Data Act für Kleinstunternehmen?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Ja, aber mit Erleichterungen bei den Verpflichtungen",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Kleinstunternehmen müssen die Anforderungen erfüllen, aber es werden ihre besonderen Bedürfnisse berücksichtigt und sie erhalten Unterstützung.",
@@ -945,10 +945,10 @@
         "id": "q43",
         "text": "Was ist eine 'technische Schutzvorkehrung' nach dem Data Act?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Maßnahmen zum Schutz vor unbefugtem Zugriff auf Daten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Technische Schutzvorkehrungen sind Maßnahmen wie Verschlüsselung, die den unbefugten Zugriff auf Daten verhindern sollen.",
@@ -967,10 +967,10 @@
         "id": "q44",
         "text": "Welche Rolle spielt der 'außergewöhnliche Bedarf' bei öffentlichen Stellen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Es muss eine Notsituation oder dringender Bedarf vorliegen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Öffentliche Stellen können nur bei außergewöhnlichem Bedarf, wie öffentlichen Notlagen oder erheblichen Effizienzgewinnen, Zugang verlangen.",
@@ -1011,10 +1011,10 @@
         "id": "q46",
         "text": "Was ist das Ziel der Bestimmungen zum Cloud-Wechsel?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Vendor Lock-in zu verhindern",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Bestimmungen sollen verhindern, dass Kunden durch technische oder vertragliche Barrieren an einen Cloud-Anbieter gebunden sind (Vendor Lock-in).",
@@ -1055,10 +1055,10 @@
         "id": "q48",
         "text": "Was müssen Cloud-Anbieter über Wechselkosten offenlegen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Alle potenziellen Kosten vor Vertragsabschluss",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cloud-Anbieter müssen vor Vertragsabschluss transparent über alle möglichen Kosten und Hindernisse beim Anbieterwechsel informieren.",
@@ -1078,9 +1078,9 @@
         "text": "Was ist eine 'Multi-Cloud-Nutzung'?",
         "options": [
           "Nutzung mehrerer Cloud-Services gleichzeitig",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Multi-Cloud-Nutzung bedeutet, dass Kunden Dienste mehrerer Cloud-Anbieter parallel nutzen können.",
@@ -1099,10 +1099,10 @@
         "id": "q50",
         "text": "Welche Behörde überwacht die Einhaltung des Data Acts auf europäischer Ebene?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die Europäische Kommission",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Europäische Kommission überwacht die Anwendung der Verordnung und kann Leitlinien erlassen.",

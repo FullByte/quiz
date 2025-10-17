@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Eine Mixed Reality-Plattform für Zusammenarbeit und Kommunikation",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh ist eine Mixed Reality-Plattform, die es Benutzern ermöglicht, in virtuellen und erweiterten Realitätsumgebungen zusammenzuarbeiten.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Technologien nutzt Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Virtual Reality, Augmented Reality und Mixed Reality",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh nutzt verschiedene Reality-Technologien: Virtual Reality, Augmented Reality und Mixed Reality für immersive Zusammenarbeit.",
@@ -72,10 +72,10 @@
         "id": "q3",
         "text": "Was ist Holoportation in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Eine Technologie zur Übertragung von 3D-Hologrammen von Personen in Echtzeit",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Holoportation ermöglicht die Übertragung von 3D-Hologrammen von Personen in Echtzeit in Mixed Reality-Umgebungen.",
@@ -95,10 +95,10 @@
         "id": "q4",
         "text": "Welche Geräte unterstützt Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "HoloLens, VR-Headsets, Smartphones, Tablets und Desktop-Computer",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh unterstützt eine breite Palette von Geräten: HoloLens, VR-Headsets, Smartphones, Tablets und Desktop-Computer für verschiedene Zugriffsmöglichkeiten.",
@@ -119,10 +119,10 @@
         "id": "q5",
         "text": "Was sind Mesh-Avatare?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Virtuelle Repräsentationen von Benutzern in Mesh-Umgebungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "Mesh-Avatare sind virtuelle Repräsentationen von Benutzern, die in Mixed Reality-Umgebungen für Zusammenarbeit und Kommunikation verwendet werden.",
@@ -142,10 +142,10 @@
         "id": "q6",
         "text": "Welche Anwendungsbereiche hat Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Unternehmenszusammenarbeit, Schulung, Design, Fernwartung und soziale Interaktion",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh findet Anwendung in verschiedenen Bereichen: Unternehmenszusammenarbeit, Schulung, Design, Fernwartung und sozialer Interaktion.",
@@ -166,10 +166,10 @@
         "id": "q7",
         "text": "Was ist Microsoft Mesh für Teams?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Die Integration von Mesh-Funktionen in Microsoft Teams für immersive Meetings",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh für Teams integriert Mixed Reality-Funktionen in Microsoft Teams, um immersive und interaktive Meetings zu ermöglichen.",
@@ -190,10 +190,10 @@
         "id": "q8",
         "text": "Welche Sicherheitsfeatures bietet Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ende-zu-Ende-Verschlüsselung, Identitätsverwaltung und Datenschutz",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh bietet umfassende Sicherheitsfeatures: Ende-zu-Ende-Verschlüsselung, robuste Identitätsverwaltung und Datenschutz-Maßnahmen.",
@@ -213,10 +213,10 @@
         "id": "q9",
         "text": "Was ist Spatial Computing in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Die Verwendung von 3D-Raum und räumlichen Beziehungen für Computing und Interaktion",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Spatial Computing nutzt 3D-Raum und räumliche Beziehungen für Computing und Benutzerinteraktion in Mixed Reality-Umgebungen.",
@@ -237,10 +237,10 @@
         "id": "q10",
         "text": "Welche Lizenzierungsoptionen gibt es für Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Verschiedene Lizenzierungsstufen als Teil von Microsoft 365 oder als eigenständiger Service",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh ist als Teil von Microsoft 365-Lizenzen verfügbar oder kann als eigenständiger Service mit verschiedenen Lizenzierungsstufen erworben werden.",
@@ -260,10 +260,10 @@
         "id": "q11",
         "text": "Was ist Microsoft Mesh Avatars?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für die Erstellung und Anpassung von 3D-Avataren",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh Avatars ermöglicht die Erstellung und Anpassung von 3D-Avataren für immersive Zusammenarbeit in Mixed Reality-Umgebungen.",
@@ -283,10 +283,10 @@
         "id": "q12",
         "text": "Was ist Microsoft Mesh Spatial Audio?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Audio-System für räumliche Klangwiedergabe in Mixed Reality",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh Spatial Audio ermöglicht räumliche Klangwiedergabe, bei der Geräusche aus der Richtung kommen, wo sich die Person befindet.",
@@ -306,10 +306,10 @@
         "id": "q13",
         "text": "Was ist Microsoft Mesh Hand Tracking?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Eine Technologie zur Erkennung und Verfolgung von Handbewegungen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh Hand Tracking erkennt und verfolgt Handbewegungen für natürliche Interaktionen in Mixed Reality-Umgebungen.",
@@ -329,10 +329,10 @@
         "id": "q14",
         "text": "Was ist Microsoft Mesh Shared Spaces?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Gemeinsame virtuelle Räume für Zusammenarbeit mehrerer Benutzer",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh Shared Spaces sind gemeinsame virtuelle Räume, in denen mehrere Benutzer gleichzeitig zusammenarbeiten können.",
@@ -352,10 +352,10 @@
         "id": "q15",
         "text": "Was ist Microsoft Mesh Object Anchoring?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Eine Technologie zum Verankern virtueller Objekte im realen Raum",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh Object Anchoring ermöglicht es, virtuelle Objekte präzise im realen Raum zu verankern und zu positionieren.",
@@ -375,10 +375,10 @@
         "id": "q16",
         "text": "Welche Microsoft Mesh-Integrationen gibt es?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Microsoft Teams, Outlook, SharePoint und Dynamics 365",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh integriert sich mit Microsoft Teams, Outlook, SharePoint und Dynamics 365 für nahtlose Zusammenarbeit.",
@@ -399,10 +399,10 @@
         "id": "q17",
         "text": "Was ist Microsoft Mesh Spatial Computing?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Eine Technologie für Computing und Interaktion in 3D-Räumen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh Spatial Computing ermöglicht Computing und Interaktion in 3D-Räumen mit natürlichen Gesten und Bewegungen.",
@@ -422,10 +422,10 @@
         "id": "q18",
         "text": "Was ist Microsoft Mesh Multi-Platform Support?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "HoloLens, VR-Headsets, Smartphones, Tablets und Desktop-Computer",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh unterstützt verschiedene Plattformen: HoloLens, VR-Headsets, Smartphones, Tablets und Desktop-Computer für breite Zugänglichkeit.",
@@ -446,10 +446,10 @@
         "id": "q19",
         "text": "Was ist Microsoft Mesh Network Optimization?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Eine Technologie zur Optimierung der Netzwerk-Performance für Mixed Reality",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh Network Optimization optimiert die Netzwerk-Performance für Mixed Reality-Anwendungen mit niedriger Latenz und hoher Bandbreite.",
@@ -469,10 +469,10 @@
         "id": "q20",
         "text": "Was ist Microsoft Mesh Developer Platform?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Eine Plattform für Entwickler zur Erstellung von Mixed Reality-Anwendungen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh Developer Platform bietet Tools und APIs für Entwickler zur Erstellung von benutzerdefinierten Mixed Reality-Anwendungen.",
@@ -492,10 +492,10 @@
         "id": "q21",
         "text": "Was ist Grundlagen in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für grundlagen und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Grundlagen ist ein wichtiger Service in Microsoft Mesh, der grundlagen und verwandte Funktionen bereitstellt.",
@@ -515,10 +515,10 @@
         "id": "q22",
         "text": "Was ist Konfiguration in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für konfiguration und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Konfiguration ist ein wichtiger Service in Microsoft Mesh, der konfiguration und verwandte Funktionen bereitstellt.",
@@ -538,10 +538,10 @@
         "id": "q23",
         "text": "Was ist Verwaltung in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für verwaltung und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Verwaltung ist ein wichtiger Service in Microsoft Mesh, der verwaltung und verwandte Funktionen bereitstellt.",
@@ -561,10 +561,10 @@
         "id": "q24",
         "text": "Was ist Sicherheit in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für sicherheit und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Sicherheit ist ein wichtiger Service in Microsoft Mesh, der sicherheit und verwandte Funktionen bereitstellt.",
@@ -584,10 +584,10 @@
         "id": "q25",
         "text": "Was ist Performance in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für performance und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Performance ist ein wichtiger Service in Microsoft Mesh, der performance und verwandte Funktionen bereitstellt.",
@@ -607,10 +607,10 @@
         "id": "q26",
         "text": "Was ist Skalierung in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für skalierung und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Skalierung ist ein wichtiger Service in Microsoft Mesh, der skalierung und verwandte Funktionen bereitstellt.",
@@ -630,10 +630,10 @@
         "id": "q27",
         "text": "Was ist Monitoring in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für monitoring und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Monitoring ist ein wichtiger Service in Microsoft Mesh, der monitoring und verwandte Funktionen bereitstellt.",
@@ -676,10 +676,10 @@
         "id": "q29",
         "text": "Was ist Backup in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für backup und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Backup ist ein wichtiger Service in Microsoft Mesh, der backup und verwandte Funktionen bereitstellt.",
@@ -699,10 +699,10 @@
         "id": "q30",
         "text": "Was ist Recovery in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für recovery und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Recovery ist ein wichtiger Service in Microsoft Mesh, der recovery und verwandte Funktionen bereitstellt.",
@@ -722,10 +722,10 @@
         "id": "q31",
         "text": "Was ist Disaster Recovery in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für disaster recovery und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Disaster Recovery ist ein wichtiger Service in Microsoft Mesh, der disaster recovery und verwandte Funktionen bereitstellt.",
@@ -745,10 +745,10 @@
         "id": "q32",
         "text": "Was ist High Availability in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für high availability und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "High Availability ist ein wichtiger Service in Microsoft Mesh, der high availability und verwandte Funktionen bereitstellt.",
@@ -768,10 +768,10 @@
         "id": "q33",
         "text": "Was ist Load Balancing in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für load balancing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Load Balancing ist ein wichtiger Service in Microsoft Mesh, der load balancing und verwandte Funktionen bereitstellt.",
@@ -791,10 +791,10 @@
         "id": "q34",
         "text": "Was ist Caching in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für caching und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Caching ist ein wichtiger Service in Microsoft Mesh, der caching und verwandte Funktionen bereitstellt.",
@@ -814,10 +814,10 @@
         "id": "q35",
         "text": "Was ist Optimierung in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für optimierung und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Optimierung ist ein wichtiger Service in Microsoft Mesh, der optimierung und verwandte Funktionen bereitstellt.",
@@ -837,10 +837,10 @@
         "id": "q36",
         "text": "Was ist Integration in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für integration und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Integration ist ein wichtiger Service in Microsoft Mesh, der integration und verwandte Funktionen bereitstellt.",
@@ -860,10 +860,10 @@
         "id": "q37",
         "text": "Was ist APIs in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für apis und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "APIs ist ein wichtiger Service in Microsoft Mesh, der apis und verwandte Funktionen bereitstellt.",
@@ -883,10 +883,10 @@
         "id": "q38",
         "text": "Was ist SDKs in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für sdks und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "SDKs ist ein wichtiger Service in Microsoft Mesh, der sdks und verwandte Funktionen bereitstellt.",
@@ -906,10 +906,10 @@
         "id": "q39",
         "text": "Was ist CLI in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für cli und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "CLI ist ein wichtiger Service in Microsoft Mesh, der cli und verwandte Funktionen bereitstellt.",
@@ -929,10 +929,10 @@
         "id": "q40",
         "text": "Was ist PowerShell in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für powershell und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell ist ein wichtiger Service in Microsoft Mesh, der powershell und verwandte Funktionen bereitstellt.",
@@ -952,10 +952,10 @@
         "id": "q41",
         "text": "Was ist Templates in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für templates und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Templates ist ein wichtiger Service in Microsoft Mesh, der templates und verwandte Funktionen bereitstellt.",
@@ -975,10 +975,10 @@
         "id": "q42",
         "text": "Was ist Automation in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für automation und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Automation ist ein wichtiger Service in Microsoft Mesh, der automation und verwandte Funktionen bereitstellt.",
@@ -998,10 +998,10 @@
         "id": "q43",
         "text": "Was ist DevOps in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für devops und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "DevOps ist ein wichtiger Service in Microsoft Mesh, der devops und verwandte Funktionen bereitstellt.",
@@ -1021,10 +1021,10 @@
         "id": "q44",
         "text": "Was ist CI/CD in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für ci/cd und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "CI/CD ist ein wichtiger Service in Microsoft Mesh, der ci/cd und verwandte Funktionen bereitstellt.",
@@ -1044,10 +1044,10 @@
         "id": "q45",
         "text": "Was ist Deployment in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für deployment und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Deployment ist ein wichtiger Service in Microsoft Mesh, der deployment und verwandte Funktionen bereitstellt.",
@@ -1067,10 +1067,10 @@
         "id": "q46",
         "text": "Was ist Testing in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für testing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Testing ist ein wichtiger Service in Microsoft Mesh, der testing und verwandte Funktionen bereitstellt.",
@@ -1113,10 +1113,10 @@
         "id": "q48",
         "text": "Was ist Troubleshooting in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für troubleshooting und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Troubleshooting ist ein wichtiger Service in Microsoft Mesh, der troubleshooting und verwandte Funktionen bereitstellt.",
@@ -1136,10 +1136,10 @@
         "id": "q49",
         "text": "Was ist Best Practices in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für best practices und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Best Practices ist ein wichtiger Service in Microsoft Mesh, der best practices und verwandte Funktionen bereitstellt.",
@@ -1159,10 +1159,10 @@
         "id": "q50",
         "text": "Was ist Architecture in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für architecture und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Architecture ist ein wichtiger Service in Microsoft Mesh, der architecture und verwandte Funktionen bereitstellt.",
@@ -1182,10 +1182,10 @@
         "id": "q51",
         "text": "Was ist Design Patterns in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für design patterns und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Design Patterns ist ein wichtiger Service in Microsoft Mesh, der design patterns und verwandte Funktionen bereitstellt.",
@@ -1205,10 +1205,10 @@
         "id": "q52",
         "text": "Was ist Microservices in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für microservices und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microservices ist ein wichtiger Service in Microsoft Mesh, der microservices und verwandte Funktionen bereitstellt.",
@@ -1228,10 +1228,10 @@
         "id": "q53",
         "text": "Was ist Containers in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für containers und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Containers ist ein wichtiger Service in Microsoft Mesh, der containers und verwandte Funktionen bereitstellt.",
@@ -1251,10 +1251,10 @@
         "id": "q54",
         "text": "Was ist Kubernetes in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für kubernetes und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Kubernetes ist ein wichtiger Service in Microsoft Mesh, der kubernetes und verwandte Funktionen bereitstellt.",
@@ -1274,10 +1274,10 @@
         "id": "q55",
         "text": "Was ist Docker in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für docker und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Docker ist ein wichtiger Service in Microsoft Mesh, der docker und verwandte Funktionen bereitstellt.",
@@ -1297,10 +1297,10 @@
         "id": "q56",
         "text": "Was ist Networking in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für networking und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Networking ist ein wichtiger Service in Microsoft Mesh, der networking und verwandte Funktionen bereitstellt.",
@@ -1320,10 +1320,10 @@
         "id": "q57",
         "text": "Was ist Storage in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für storage und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Storage ist ein wichtiger Service in Microsoft Mesh, der storage und verwandte Funktionen bereitstellt.",
@@ -1343,10 +1343,10 @@
         "id": "q58",
         "text": "Was ist Database in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für database und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Database ist ein wichtiger Service in Microsoft Mesh, der database und verwandte Funktionen bereitstellt.",
@@ -1366,10 +1366,10 @@
         "id": "q59",
         "text": "Was ist Authentication in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für authentication und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Authentication ist ein wichtiger Service in Microsoft Mesh, der authentication und verwandte Funktionen bereitstellt.",
@@ -1389,10 +1389,10 @@
         "id": "q60",
         "text": "Was ist Authorization in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für authorization und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Authorization ist ein wichtiger Service in Microsoft Mesh, der authorization und verwandte Funktionen bereitstellt.",
@@ -1412,10 +1412,10 @@
         "id": "q61",
         "text": "Was ist Compliance in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für compliance und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Compliance ist ein wichtiger Service in Microsoft Mesh, der compliance und verwandte Funktionen bereitstellt.",
@@ -1435,10 +1435,10 @@
         "id": "q62",
         "text": "Was ist Governance in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für governance und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Governance ist ein wichtiger Service in Microsoft Mesh, der governance und verwandte Funktionen bereitstellt.",
@@ -1458,10 +1458,10 @@
         "id": "q63",
         "text": "Was ist Cost Management in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für cost management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Cost Management ist ein wichtiger Service in Microsoft Mesh, der cost management und verwandte Funktionen bereitstellt.",
@@ -1481,10 +1481,10 @@
         "id": "q64",
         "text": "Was ist Resource Management in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für resource management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Resource Management ist ein wichtiger Service in Microsoft Mesh, der resource management und verwandte Funktionen bereitstellt.",
@@ -1527,10 +1527,10 @@
         "id": "q66",
         "text": "Was ist Policies in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für policies und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Policies ist ein wichtiger Service in Microsoft Mesh, der policies und verwandte Funktionen bereitstellt.",
@@ -1550,10 +1550,10 @@
         "id": "q67",
         "text": "Was ist Blueprints in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für blueprints und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Blueprints ist ein wichtiger Service in Microsoft Mesh, der blueprints und verwandte Funktionen bereitstellt.",
@@ -1573,10 +1573,10 @@
         "id": "q68",
         "text": "Was ist RBAC in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für rbac und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "RBAC ist ein wichtiger Service in Microsoft Mesh, der rbac und verwandte Funktionen bereitstellt.",
@@ -1596,10 +1596,10 @@
         "id": "q69",
         "text": "Was ist IAM in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für iam und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "IAM ist ein wichtiger Service in Microsoft Mesh, der iam und verwandte Funktionen bereitstellt.",
@@ -1619,10 +1619,10 @@
         "id": "q70",
         "text": "Was ist Secrets Management in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für secrets management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Secrets Management ist ein wichtiger Service in Microsoft Mesh, der secrets management und verwandte Funktionen bereitstellt.",
@@ -1642,10 +1642,10 @@
         "id": "q71",
         "text": "Was ist Key Management in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für key management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Key Management ist ein wichtiger Service in Microsoft Mesh, der key management und verwandte Funktionen bereitstellt.",
@@ -1665,10 +1665,10 @@
         "id": "q72",
         "text": "Was ist Certificate Management in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für certificate management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Certificate Management ist ein wichtiger Service in Microsoft Mesh, der certificate management und verwandte Funktionen bereitstellt.",
@@ -1688,10 +1688,10 @@
         "id": "q73",
         "text": "Was ist Encryption in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für encryption und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Encryption ist ein wichtiger Service in Microsoft Mesh, der encryption und verwandte Funktionen bereitstellt.",
@@ -1711,10 +1711,10 @@
         "id": "q74",
         "text": "Was ist Decryption in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für decryption und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Decryption ist ein wichtiger Service in Microsoft Mesh, der decryption und verwandte Funktionen bereitstellt.",
@@ -1734,10 +1734,10 @@
         "id": "q75",
         "text": "Was ist Hashing in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für hashing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Hashing ist ein wichtiger Service in Microsoft Mesh, der hashing und verwandte Funktionen bereitstellt.",
@@ -1757,10 +1757,10 @@
         "id": "q76",
         "text": "Was ist Signing in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für signing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Signing ist ein wichtiger Service in Microsoft Mesh, der signing und verwandte Funktionen bereitstellt.",
@@ -1780,10 +1780,10 @@
         "id": "q77",
         "text": "Was ist Verification in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für verification und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Verification ist ein wichtiger Service in Microsoft Mesh, der verification und verwandte Funktionen bereitstellt.",
@@ -1803,10 +1803,10 @@
         "id": "q78",
         "text": "Was ist Auditing in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für auditing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Auditing ist ein wichtiger Service in Microsoft Mesh, der auditing und verwandte Funktionen bereitstellt.",
@@ -1826,10 +1826,10 @@
         "id": "q79",
         "text": "Was ist Reporting in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für reporting und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Reporting ist ein wichtiger Service in Microsoft Mesh, der reporting und verwandte Funktionen bereitstellt.",
@@ -1849,10 +1849,10 @@
         "id": "q80",
         "text": "Was ist Analytics in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für analytics und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Analytics ist ein wichtiger Service in Microsoft Mesh, der analytics und verwandte Funktionen bereitstellt.",
@@ -1872,10 +1872,10 @@
         "id": "q81",
         "text": "Was ist Machine Learning in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für machine learning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Machine Learning ist ein wichtiger Service in Microsoft Mesh, der machine learning und verwandte Funktionen bereitstellt.",
@@ -1895,10 +1895,10 @@
         "id": "q82",
         "text": "Was ist Artificial Intelligence in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für artificial intelligence und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Artificial Intelligence ist ein wichtiger Service in Microsoft Mesh, der artificial intelligence und verwandte Funktionen bereitstellt.",
@@ -1918,10 +1918,10 @@
         "id": "q83",
         "text": "Was ist Data Science in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für data science und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Data Science ist ein wichtiger Service in Microsoft Mesh, der data science und verwandte Funktionen bereitstellt.",
@@ -1941,10 +1941,10 @@
         "id": "q84",
         "text": "Was ist Big Data in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für big data und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Big Data ist ein wichtiger Service in Microsoft Mesh, der big data und verwandte Funktionen bereitstellt.",
@@ -1964,10 +1964,10 @@
         "id": "q85",
         "text": "Was ist Streaming in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für streaming und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Streaming ist ein wichtiger Service in Microsoft Mesh, der streaming und verwandte Funktionen bereitstellt.",
@@ -1987,10 +1987,10 @@
         "id": "q86",
         "text": "Was ist Event Processing in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für event processing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Event Processing ist ein wichtiger Service in Microsoft Mesh, der event processing und verwandte Funktionen bereitstellt.",
@@ -2010,10 +2010,10 @@
         "id": "q87",
         "text": "Was ist Message Queues in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für message queues und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Message Queues ist ein wichtiger Service in Microsoft Mesh, der message queues und verwandte Funktionen bereitstellt.",
@@ -2033,10 +2033,10 @@
         "id": "q88",
         "text": "Was ist Service Bus in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für service bus und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Service Bus ist ein wichtiger Service in Microsoft Mesh, der service bus und verwandte Funktionen bereitstellt.",
@@ -2056,10 +2056,10 @@
         "id": "q89",
         "text": "Was ist Event Grid in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für event grid und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Event Grid ist ein wichtiger Service in Microsoft Mesh, der event grid und verwandte Funktionen bereitstellt.",
@@ -2079,10 +2079,10 @@
         "id": "q90",
         "text": "Was ist Event Hubs in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für event hubs und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Event Hubs ist ein wichtiger Service in Microsoft Mesh, der event hubs und verwandte Funktionen bereitstellt.",
@@ -2102,10 +2102,10 @@
         "id": "q91",
         "text": "Was ist IoT in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für iot und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "IoT ist ein wichtiger Service in Microsoft Mesh, der iot und verwandte Funktionen bereitstellt.",
@@ -2125,10 +2125,10 @@
         "id": "q92",
         "text": "Was ist Edge Computing in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für edge computing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Edge Computing ist ein wichtiger Service in Microsoft Mesh, der edge computing und verwandte Funktionen bereitstellt.",
@@ -2148,10 +2148,10 @@
         "id": "q93",
         "text": "Was ist Serverless in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für serverless und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Serverless ist ein wichtiger Service in Microsoft Mesh, der serverless und verwandte Funktionen bereitstellt.",
@@ -2171,10 +2171,10 @@
         "id": "q94",
         "text": "Was ist Functions in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für functions und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Functions ist ein wichtiger Service in Microsoft Mesh, der functions und verwandte Funktionen bereitstellt.",
@@ -2194,10 +2194,10 @@
         "id": "q95",
         "text": "Was ist Logic Apps in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für logic apps und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Logic Apps ist ein wichtiger Service in Microsoft Mesh, der logic apps und verwandte Funktionen bereitstellt.",
@@ -2217,10 +2217,10 @@
         "id": "q96",
         "text": "Was ist Power Apps in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für power apps und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Power Apps ist ein wichtiger Service in Microsoft Mesh, der power apps und verwandte Funktionen bereitstellt.",
@@ -2240,10 +2240,10 @@
         "id": "q97",
         "text": "Was ist Power Automate in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für power automate und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Power Automate ist ein wichtiger Service in Microsoft Mesh, der power automate und verwandte Funktionen bereitstellt.",
@@ -2263,10 +2263,10 @@
         "id": "q98",
         "text": "Was ist Power BI in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für power bi und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Power BI ist ein wichtiger Service in Microsoft Mesh, der power bi und verwandte Funktionen bereitstellt.",
@@ -2286,10 +2286,10 @@
         "id": "q99",
         "text": "Was ist Cognitive Services in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für cognitive services und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Cognitive Services ist ein wichtiger Service in Microsoft Mesh, der cognitive services und verwandte Funktionen bereitstellt.",
@@ -2309,10 +2309,10 @@
         "id": "q100",
         "text": "Was ist Bot Framework in Microsoft Mesh?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für bot framework und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Bot Framework ist ein wichtiger Service in Microsoft Mesh, der bot framework und verwandte Funktionen bereitstellt.",

@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist SQL Server 2022?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Eine kostenlose Open-Source Datenbank wie MySQL",
           "Ein relationales Datenbankverwaltungssystem von Microsoft",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein reines Cloud-Service ohne lokale Installation",
+          "Ein einfaches Tool nur für kleine Anwendungen"
         ],
         "correctIndex": 1,
         "explanation": "SQL Server 2022 ist ein relationales Datenbankverwaltungssystem (RDBMS) von Microsoft mit erweiterten Features für Performance, Sicherheit und Cloud-Integration.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche neuen Features bietet SQL Server 2022?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Nur verbesserte Performance ohne neue Funktionen",
           "Azure-Integration, verbesserte Sicherheit, Query Store und erweiterte Analytics",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Nur neue Benutzeroberfläche ohne Backend-Verbesserungen",
+          "Nur erweiterte SQL-Syntax ohne Sicherheitsfeatures"
         ],
         "correctIndex": 1,
         "explanation": "SQL Server 2022 bietet neue Features wie Azure-Integration, verbesserte Sicherheitsfeatures, Query Store und erweiterte Analytics-Funktionen.",
@@ -72,10 +72,10 @@
         "id": "q3",
         "text": "Was ist Azure SQL Managed Instance Integration in SQL Server 2022?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Eine Funktion zur nahtlosen Integration mit Azure SQL Managed Instance",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Die Azure SQL Managed Instance Integration ermöglicht eine nahtlose Verbindung und Datenreplikation zwischen lokalen SQL Server-Instanzen und Azure SQL Managed Instance.",
@@ -95,10 +95,10 @@
         "id": "q4",
         "text": "Was ist Query Store in SQL Server?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Feature zur Überwachung und Optimierung von Abfrageleistungen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Query Store ist ein Feature, das Abfrageleistungen überwacht, Performance-Metriken sammelt und bei der Optimierung von Abfragen hilft.",
@@ -118,10 +118,10 @@
         "id": "q5",
         "text": "Welche Sicherheitsfeatures bietet SQL Server 2022?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Always Encrypted, Dynamic Data Masking, Row-Level Security und erweiterte Bedrohungsschutz",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "SQL Server 2022 bietet umfassende Sicherheitsfeatures: Always Encrypted, Dynamic Data Masking, Row-Level Security und erweiterte Bedrohungsschutz-Funktionen.",
@@ -141,10 +141,10 @@
         "id": "q6",
         "text": "Was ist PolyBase in SQL Server 2022?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Eine Technologie zur Abfrage von externen Datenquellen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "PolyBase ermöglicht es, externe Datenquellen wie Hadoop, Azure Blob Storage und andere Big Data-Systeme direkt aus SQL Server abzufragen.",
@@ -164,10 +164,10 @@
         "id": "q7",
         "text": "Welche Editionen von SQL Server 2022 gibt es?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Enterprise, Standard, Developer, Express und Web Editionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "SQL Server 2022 ist in verschiedenen Editionen verfügbar: Enterprise, Standard, Developer, Express und Web, je nach Anwendungsfall und Lizenzierung.",
@@ -188,10 +188,10 @@
         "id": "q8",
         "text": "Was ist In-Memory OLTP in SQL Server 2022?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Eine In-Memory-Technologie für transaktionale Workloads",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "In-Memory OLTP ist eine Technologie, die Tabellen und gespeicherte Prozeduren im Arbeitsspeicher speichert für extrem schnelle transaktionale Verarbeitung.",
@@ -211,10 +211,10 @@
         "id": "q9",
         "text": "Was ist Columnstore in SQL Server 2022?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Eine spaltenbasierte Speichertechnologie für Analytics-Workloads",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Columnstore ist eine spaltenbasierte Speichertechnologie, die für Analytics-Workloads optimiert ist und erhebliche Performance-Verbesserungen bietet.",
@@ -234,10 +234,10 @@
         "id": "q10",
         "text": "Welche Lizenzierungsmodelle gibt es für SQL Server 2022?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Core-basierte Lizenzen, Server + CAL und Azure SQL Hybrid Benefit",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "SQL Server 2022 bietet verschiedene Lizenzierungsmodelle: Core-basierte Lizenzen, Server + Client Access License (CAL) und Azure SQL Hybrid Benefit für Cloud-Migrationen.",
@@ -257,10 +257,10 @@
         "id": "q11",
         "text": "Was ist Always On Availability Groups in SQL Server 2022?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Eine Hochverfügbarkeits- und Disaster-Recovery-Lösung",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Always On Availability Groups sind eine Hochverfügbarkeits- und Disaster-Recovery-Lösung, die Failover für eine Gruppe von Datenbanken ermöglicht.",
@@ -280,10 +280,10 @@
         "id": "q12",
         "text": "Welche SQL Server 2022 Performance-Features gibt es?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Query Store, Intelligent Query Processing, Automatic Tuning und Accelerated Database Recovery",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "SQL Server 2022 bietet umfassende Performance-Features: Query Store, Intelligent Query Processing, Automatic Tuning und Accelerated Database Recovery.",
@@ -303,10 +303,10 @@
         "id": "q13",
         "text": "Was ist SQL Server Integration Services (SSIS)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Eine Plattform für Datenintegration und ETL-Prozesse",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "SQL Server Integration Services (SSIS) ist eine Plattform für Datenintegration, ETL-Prozesse und Workflow-Anwendungen.",
@@ -326,10 +326,10 @@
         "id": "q14",
         "text": "Was ist SQL Server Analysis Services (SSAS)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Eine Plattform für Online Analytical Processing (OLAP) und Data Mining",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "SQL Server Analysis Services (SSAS) ist eine Plattform für Online Analytical Processing (OLAP) und Data Mining für Business Intelligence.",
@@ -350,10 +350,10 @@
         "id": "q15",
         "text": "Was ist SQL Server Reporting Services (SSRS)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Eine Plattform für die Erstellung und Bereitstellung von Berichten",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "SQL Server Reporting Services (SSRS) ist eine Plattform für die Erstellung, Verwaltung und Bereitstellung von Berichten.",
@@ -373,10 +373,10 @@
         "id": "q16",
         "text": "Welche SQL Server 2022 Sicherheitsfeatures gibt es?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "TDE, Always Encrypted, Dynamic Data Masking, Row-Level Security und Advanced Threat Protection",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "SQL Server 2022 bietet umfassende Sicherheitsfeatures: TDE, Always Encrypted, Dynamic Data Masking, Row-Level Security und Advanced Threat Protection.",
@@ -396,10 +396,10 @@
         "id": "q17",
         "text": "Was ist SQL Server Machine Learning Services?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für die Integration von R und Python in SQL Server",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "SQL Server Machine Learning Services ermöglicht die Ausführung von R und Python-Skripten direkt in SQL Server für Machine Learning und Data Science.",
@@ -420,10 +420,10 @@
         "id": "q18",
         "text": "Was ist SQL Server Big Data Clusters?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
-          "Eine Lösung für Big Data und AI-Workloads mit SQL Server, Spark und HDFS",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein NoSQL Document Store",
+          "Big Data und AI-Workloads mit SQL Server, Spark und HDFS",
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "SQL Server Big Data Clusters ist eine Lösung, die SQL Server, Apache Spark und HDFS kombiniert für Big Data und AI-Workloads.",
@@ -444,10 +444,10 @@
         "id": "q19",
         "text": "Welche Azure-Integrationen bietet SQL Server 2022?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Azure SQL Database, Azure Backup, Azure Monitor und Azure Arc",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "SQL Server 2022 bietet umfassende Azure-Integrationen: Azure SQL Database, Azure Backup, Azure Monitor und Azure Arc für Hybrid-Cloud-Szenarien.",
@@ -467,10 +467,10 @@
         "id": "q20",
         "text": "Was ist SQL Server Containers?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Die Möglichkeit, SQL Server in Docker-Containern auszuführen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "SQL Server unterstützt die Ausführung in Docker-Containern, was die Bereitstellung und Skalierung in modernen Umgebungen vereinfacht.",
@@ -490,10 +490,10 @@
         "id": "q21",
         "text": "Was ist Grundlagen in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für grundlagen und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Grundlagen ist ein wichtiger Service in SQL Server 2022 (Version 17), der grundlagen und verwandte Funktionen bereitstellt.",
@@ -513,10 +513,10 @@
         "id": "q22",
         "text": "Was ist Konfiguration in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für konfiguration und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Konfiguration ist ein wichtiger Service in SQL Server 2022 (Version 17), der konfiguration und verwandte Funktionen bereitstellt.",
@@ -536,10 +536,10 @@
         "id": "q23",
         "text": "Was ist Verwaltung in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für verwaltung und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Verwaltung ist ein wichtiger Service in SQL Server 2022 (Version 17), der verwaltung und verwandte Funktionen bereitstellt.",
@@ -559,10 +559,10 @@
         "id": "q24",
         "text": "Was ist Sicherheit in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für sicherheit und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Sicherheit ist ein wichtiger Service in SQL Server 2022 (Version 17), der sicherheit und verwandte Funktionen bereitstellt.",
@@ -582,10 +582,10 @@
         "id": "q25",
         "text": "Was ist Performance in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für performance und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Performance ist ein wichtiger Service in SQL Server 2022 (Version 17), der performance und verwandte Funktionen bereitstellt.",
@@ -605,10 +605,10 @@
         "id": "q26",
         "text": "Was ist Skalierung in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für skalierung und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Skalierung ist ein wichtiger Service in SQL Server 2022 (Version 17), der skalierung und verwandte Funktionen bereitstellt.",
@@ -628,10 +628,10 @@
         "id": "q27",
         "text": "Was ist Monitoring in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für monitoring und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Monitoring ist ein wichtiger Service in SQL Server 2022 (Version 17), der monitoring und verwandte Funktionen bereitstellt.",
@@ -674,10 +674,10 @@
         "id": "q29",
         "text": "Was ist Backup in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für backup und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Backup ist ein wichtiger Service in SQL Server 2022 (Version 17), der backup und verwandte Funktionen bereitstellt.",
@@ -697,10 +697,10 @@
         "id": "q30",
         "text": "Was ist Recovery in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für recovery und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Recovery ist ein wichtiger Service in SQL Server 2022 (Version 17), der recovery und verwandte Funktionen bereitstellt.",
@@ -720,10 +720,10 @@
         "id": "q31",
         "text": "Was ist Disaster Recovery in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für disaster recovery und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Disaster Recovery ist ein wichtiger Service in SQL Server 2022 (Version 17), der disaster recovery und verwandte Funktionen bereitstellt.",
@@ -743,10 +743,10 @@
         "id": "q32",
         "text": "Was ist High Availability in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für high availability und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "High Availability ist ein wichtiger Service in SQL Server 2022 (Version 17), der high availability und verwandte Funktionen bereitstellt.",
@@ -766,10 +766,10 @@
         "id": "q33",
         "text": "Was ist Load Balancing in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für load balancing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Load Balancing ist ein wichtiger Service in SQL Server 2022 (Version 17), der load balancing und verwandte Funktionen bereitstellt.",
@@ -789,10 +789,10 @@
         "id": "q34",
         "text": "Was ist Caching in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für caching und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Caching ist ein wichtiger Service in SQL Server 2022 (Version 17), der caching und verwandte Funktionen bereitstellt.",
@@ -812,10 +812,10 @@
         "id": "q35",
         "text": "Was ist Optimierung in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für optimierung und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Optimierung ist ein wichtiger Service in SQL Server 2022 (Version 17), der optimierung und verwandte Funktionen bereitstellt.",
@@ -835,10 +835,10 @@
         "id": "q36",
         "text": "Was ist Integration in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für integration und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Integration ist ein wichtiger Service in SQL Server 2022 (Version 17), der integration und verwandte Funktionen bereitstellt.",
@@ -858,10 +858,10 @@
         "id": "q37",
         "text": "Was ist APIs in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für apis und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "APIs ist ein wichtiger Service in SQL Server 2022 (Version 17), der apis und verwandte Funktionen bereitstellt.",
@@ -881,10 +881,10 @@
         "id": "q38",
         "text": "Was ist SDKs in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für sdks und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "SDKs ist ein wichtiger Service in SQL Server 2022 (Version 17), der sdks und verwandte Funktionen bereitstellt.",
@@ -904,10 +904,10 @@
         "id": "q39",
         "text": "Was ist CLI in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für cli und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "CLI ist ein wichtiger Service in SQL Server 2022 (Version 17), der cli und verwandte Funktionen bereitstellt.",
@@ -927,10 +927,10 @@
         "id": "q40",
         "text": "Was ist PowerShell in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für powershell und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell ist ein wichtiger Service in SQL Server 2022 (Version 17), der powershell und verwandte Funktionen bereitstellt.",
@@ -950,10 +950,10 @@
         "id": "q41",
         "text": "Was ist Templates in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für templates und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Templates ist ein wichtiger Service in SQL Server 2022 (Version 17), der templates und verwandte Funktionen bereitstellt.",
@@ -973,10 +973,10 @@
         "id": "q42",
         "text": "Was ist Automation in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für automation und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Automation ist ein wichtiger Service in SQL Server 2022 (Version 17), der automation und verwandte Funktionen bereitstellt.",
@@ -996,10 +996,10 @@
         "id": "q43",
         "text": "Was ist DevOps in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für devops und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "DevOps ist ein wichtiger Service in SQL Server 2022 (Version 17), der devops und verwandte Funktionen bereitstellt.",
@@ -1019,10 +1019,10 @@
         "id": "q44",
         "text": "Was ist CI/CD in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für ci/cd und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "CI/CD ist ein wichtiger Service in SQL Server 2022 (Version 17), der ci/cd und verwandte Funktionen bereitstellt.",
@@ -1042,10 +1042,10 @@
         "id": "q45",
         "text": "Was ist Deployment in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für deployment und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Deployment ist ein wichtiger Service in SQL Server 2022 (Version 17), der deployment und verwandte Funktionen bereitstellt.",
@@ -1065,10 +1065,10 @@
         "id": "q46",
         "text": "Was ist Testing in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für testing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Testing ist ein wichtiger Service in SQL Server 2022 (Version 17), der testing und verwandte Funktionen bereitstellt.",
@@ -1111,10 +1111,10 @@
         "id": "q48",
         "text": "Was ist Troubleshooting in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für troubleshooting und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Troubleshooting ist ein wichtiger Service in SQL Server 2022 (Version 17), der troubleshooting und verwandte Funktionen bereitstellt.",
@@ -1134,10 +1134,10 @@
         "id": "q49",
         "text": "Was ist Best Practices in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für best practices und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Best Practices ist ein wichtiger Service in SQL Server 2022 (Version 17), der best practices und verwandte Funktionen bereitstellt.",
@@ -1157,10 +1157,10 @@
         "id": "q50",
         "text": "Was ist Architecture in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für architecture und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Architecture ist ein wichtiger Service in SQL Server 2022 (Version 17), der architecture und verwandte Funktionen bereitstellt.",
@@ -1180,10 +1180,10 @@
         "id": "q51",
         "text": "Was ist Design Patterns in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für design patterns und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Design Patterns ist ein wichtiger Service in SQL Server 2022 (Version 17), der design patterns und verwandte Funktionen bereitstellt.",
@@ -1203,10 +1203,10 @@
         "id": "q52",
         "text": "Was ist Microservices in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für microservices und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Microservices ist ein wichtiger Service in SQL Server 2022 (Version 17), der microservices und verwandte Funktionen bereitstellt.",
@@ -1226,10 +1226,10 @@
         "id": "q53",
         "text": "Was ist Containers in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für containers und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Containers ist ein wichtiger Service in SQL Server 2022 (Version 17), der containers und verwandte Funktionen bereitstellt.",
@@ -1249,10 +1249,10 @@
         "id": "q54",
         "text": "Was ist Kubernetes in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für kubernetes und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Kubernetes ist ein wichtiger Service in SQL Server 2022 (Version 17), der kubernetes und verwandte Funktionen bereitstellt.",
@@ -1272,10 +1272,10 @@
         "id": "q55",
         "text": "Was ist Docker in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für docker und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Docker ist ein wichtiger Service in SQL Server 2022 (Version 17), der docker und verwandte Funktionen bereitstellt.",
@@ -1295,10 +1295,10 @@
         "id": "q56",
         "text": "Was ist Networking in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für networking und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Networking ist ein wichtiger Service in SQL Server 2022 (Version 17), der networking und verwandte Funktionen bereitstellt.",
@@ -1318,10 +1318,10 @@
         "id": "q57",
         "text": "Was ist Storage in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für storage und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Storage ist ein wichtiger Service in SQL Server 2022 (Version 17), der storage und verwandte Funktionen bereitstellt.",
@@ -1341,10 +1341,10 @@
         "id": "q58",
         "text": "Was ist Database in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für database und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Database ist ein wichtiger Service in SQL Server 2022 (Version 17), der database und verwandte Funktionen bereitstellt.",
@@ -1364,10 +1364,10 @@
         "id": "q59",
         "text": "Was ist Authentication in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für authentication und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Authentication ist ein wichtiger Service in SQL Server 2022 (Version 17), der authentication und verwandte Funktionen bereitstellt.",
@@ -1387,10 +1387,10 @@
         "id": "q60",
         "text": "Was ist Authorization in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für authorization und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Authorization ist ein wichtiger Service in SQL Server 2022 (Version 17), der authorization und verwandte Funktionen bereitstellt.",
@@ -1410,10 +1410,10 @@
         "id": "q61",
         "text": "Was ist Compliance in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für compliance und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Compliance ist ein wichtiger Service in SQL Server 2022 (Version 17), der compliance und verwandte Funktionen bereitstellt.",
@@ -1433,10 +1433,10 @@
         "id": "q62",
         "text": "Was ist Governance in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für governance und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Governance ist ein wichtiger Service in SQL Server 2022 (Version 17), der governance und verwandte Funktionen bereitstellt.",
@@ -1456,10 +1456,10 @@
         "id": "q63",
         "text": "Was ist Cost Management in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für cost management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Cost Management ist ein wichtiger Service in SQL Server 2022 (Version 17), der cost management und verwandte Funktionen bereitstellt.",
@@ -1479,10 +1479,10 @@
         "id": "q64",
         "text": "Was ist Resource Management in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für resource management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Resource Management ist ein wichtiger Service in SQL Server 2022 (Version 17), der resource management und verwandte Funktionen bereitstellt.",
@@ -1525,10 +1525,10 @@
         "id": "q66",
         "text": "Was ist Policies in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für policies und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Policies ist ein wichtiger Service in SQL Server 2022 (Version 17), der policies und verwandte Funktionen bereitstellt.",
@@ -1548,10 +1548,10 @@
         "id": "q67",
         "text": "Was ist Blueprints in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für blueprints und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Blueprints ist ein wichtiger Service in SQL Server 2022 (Version 17), der blueprints und verwandte Funktionen bereitstellt.",
@@ -1571,10 +1571,10 @@
         "id": "q68",
         "text": "Was ist RBAC in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für rbac und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "RBAC ist ein wichtiger Service in SQL Server 2022 (Version 17), der rbac und verwandte Funktionen bereitstellt.",
@@ -1594,10 +1594,10 @@
         "id": "q69",
         "text": "Was ist IAM in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für iam und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "IAM ist ein wichtiger Service in SQL Server 2022 (Version 17), der iam und verwandte Funktionen bereitstellt.",
@@ -1617,10 +1617,10 @@
         "id": "q70",
         "text": "Was ist Secrets Management in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für secrets management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Secrets Management ist ein wichtiger Service in SQL Server 2022 (Version 17), der secrets management und verwandte Funktionen bereitstellt.",
@@ -1640,10 +1640,10 @@
         "id": "q71",
         "text": "Was ist Key Management in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für key management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Key Management ist ein wichtiger Service in SQL Server 2022 (Version 17), der key management und verwandte Funktionen bereitstellt.",
@@ -1663,10 +1663,10 @@
         "id": "q72",
         "text": "Was ist Certificate Management in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für certificate management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Certificate Management ist ein wichtiger Service in SQL Server 2022 (Version 17), der certificate management und verwandte Funktionen bereitstellt.",
@@ -1686,10 +1686,10 @@
         "id": "q73",
         "text": "Was ist Encryption in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für encryption und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Encryption ist ein wichtiger Service in SQL Server 2022 (Version 17), der encryption und verwandte Funktionen bereitstellt.",
@@ -1709,10 +1709,10 @@
         "id": "q74",
         "text": "Was ist Decryption in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für decryption und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Decryption ist ein wichtiger Service in SQL Server 2022 (Version 17), der decryption und verwandte Funktionen bereitstellt.",
@@ -1732,10 +1732,10 @@
         "id": "q75",
         "text": "Was ist Hashing in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für hashing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Hashing ist ein wichtiger Service in SQL Server 2022 (Version 17), der hashing und verwandte Funktionen bereitstellt.",
@@ -1755,10 +1755,10 @@
         "id": "q76",
         "text": "Was ist Signing in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für signing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Signing ist ein wichtiger Service in SQL Server 2022 (Version 17), der signing und verwandte Funktionen bereitstellt.",
@@ -1778,10 +1778,10 @@
         "id": "q77",
         "text": "Was ist Verification in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für verification und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Verification ist ein wichtiger Service in SQL Server 2022 (Version 17), der verification und verwandte Funktionen bereitstellt.",
@@ -1801,10 +1801,10 @@
         "id": "q78",
         "text": "Was ist Auditing in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für auditing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Auditing ist ein wichtiger Service in SQL Server 2022 (Version 17), der auditing und verwandte Funktionen bereitstellt.",
@@ -1824,10 +1824,10 @@
         "id": "q79",
         "text": "Was ist Reporting in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für reporting und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Reporting ist ein wichtiger Service in SQL Server 2022 (Version 17), der reporting und verwandte Funktionen bereitstellt.",
@@ -1847,10 +1847,10 @@
         "id": "q80",
         "text": "Was ist Analytics in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für analytics und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Analytics ist ein wichtiger Service in SQL Server 2022 (Version 17), der analytics und verwandte Funktionen bereitstellt.",
@@ -1870,10 +1870,10 @@
         "id": "q81",
         "text": "Was ist Machine Learning in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für machine learning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Machine Learning ist ein wichtiger Service in SQL Server 2022 (Version 17), der machine learning und verwandte Funktionen bereitstellt.",
@@ -1893,10 +1893,10 @@
         "id": "q82",
         "text": "Was ist Artificial Intelligence in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für artificial intelligence und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Artificial Intelligence ist ein wichtiger Service in SQL Server 2022 (Version 17), der artificial intelligence und verwandte Funktionen bereitstellt.",
@@ -1916,10 +1916,10 @@
         "id": "q83",
         "text": "Was ist Data Science in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für data science und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Data Science ist ein wichtiger Service in SQL Server 2022 (Version 17), der data science und verwandte Funktionen bereitstellt.",
@@ -1939,10 +1939,10 @@
         "id": "q84",
         "text": "Was ist Big Data in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für big data und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Big Data ist ein wichtiger Service in SQL Server 2022 (Version 17), der big data und verwandte Funktionen bereitstellt.",
@@ -1962,10 +1962,10 @@
         "id": "q85",
         "text": "Was ist Streaming in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für streaming und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Streaming ist ein wichtiger Service in SQL Server 2022 (Version 17), der streaming und verwandte Funktionen bereitstellt.",
@@ -1985,10 +1985,10 @@
         "id": "q86",
         "text": "Was ist Event Processing in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für event processing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Event Processing ist ein wichtiger Service in SQL Server 2022 (Version 17), der event processing und verwandte Funktionen bereitstellt.",
@@ -2008,10 +2008,10 @@
         "id": "q87",
         "text": "Was ist Message Queues in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für message queues und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Message Queues ist ein wichtiger Service in SQL Server 2022 (Version 17), der message queues und verwandte Funktionen bereitstellt.",
@@ -2031,10 +2031,10 @@
         "id": "q88",
         "text": "Was ist Service Bus in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für service bus und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Service Bus ist ein wichtiger Service in SQL Server 2022 (Version 17), der service bus und verwandte Funktionen bereitstellt.",
@@ -2054,10 +2054,10 @@
         "id": "q89",
         "text": "Was ist Event Grid in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für event grid und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Event Grid ist ein wichtiger Service in SQL Server 2022 (Version 17), der event grid und verwandte Funktionen bereitstellt.",
@@ -2077,10 +2077,10 @@
         "id": "q90",
         "text": "Was ist Event Hubs in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für event hubs und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Event Hubs ist ein wichtiger Service in SQL Server 2022 (Version 17), der event hubs und verwandte Funktionen bereitstellt.",
@@ -2100,10 +2100,10 @@
         "id": "q91",
         "text": "Was ist IoT in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für iot und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "IoT ist ein wichtiger Service in SQL Server 2022 (Version 17), der iot und verwandte Funktionen bereitstellt.",
@@ -2123,10 +2123,10 @@
         "id": "q92",
         "text": "Was ist Edge Computing in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für edge computing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Edge Computing ist ein wichtiger Service in SQL Server 2022 (Version 17), der edge computing und verwandte Funktionen bereitstellt.",
@@ -2146,10 +2146,10 @@
         "id": "q93",
         "text": "Was ist Serverless in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für serverless und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Serverless ist ein wichtiger Service in SQL Server 2022 (Version 17), der serverless und verwandte Funktionen bereitstellt.",
@@ -2169,10 +2169,10 @@
         "id": "q94",
         "text": "Was ist Functions in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für functions und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Functions ist ein wichtiger Service in SQL Server 2022 (Version 17), der functions und verwandte Funktionen bereitstellt.",
@@ -2192,10 +2192,10 @@
         "id": "q95",
         "text": "Was ist Logic Apps in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für logic apps und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Logic Apps ist ein wichtiger Service in SQL Server 2022 (Version 17), der logic apps und verwandte Funktionen bereitstellt.",
@@ -2215,10 +2215,10 @@
         "id": "q96",
         "text": "Was ist Power Apps in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für power apps und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Power Apps ist ein wichtiger Service in SQL Server 2022 (Version 17), der power apps und verwandte Funktionen bereitstellt.",
@@ -2238,10 +2238,10 @@
         "id": "q97",
         "text": "Was ist Power Automate in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für power automate und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Power Automate ist ein wichtiger Service in SQL Server 2022 (Version 17), der power automate und verwandte Funktionen bereitstellt.",
@@ -2261,10 +2261,10 @@
         "id": "q98",
         "text": "Was ist Power BI in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für power bi und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Power BI ist ein wichtiger Service in SQL Server 2022 (Version 17), der power bi und verwandte Funktionen bereitstellt.",
@@ -2284,10 +2284,10 @@
         "id": "q99",
         "text": "Was ist Cognitive Services in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für cognitive services und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Cognitive Services ist ein wichtiger Service in SQL Server 2022 (Version 17), der cognitive services und verwandte Funktionen bereitstellt.",
@@ -2307,10 +2307,10 @@
         "id": "q100",
         "text": "Was ist Bot Framework in SQL Server 2022 (Version 17)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein NoSQL Document Store",
           "Ein Service für bot framework und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Graph Database System",
+          "Ein In-Memory Cache"
         ],
         "correctIndex": 1,
         "explanation": "Bot Framework ist ein wichtiger Service in SQL Server 2022 (Version 17), der bot framework und verwandte Funktionen bereitstellt.",

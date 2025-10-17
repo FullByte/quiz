@@ -21,10 +21,10 @@
         "id": "q1",
         "text": "Was ist Cybersicherheit?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Schutz von IT-Systemen vor Cyber-Bedrohungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheit umfasst alle Maßnahmen zum Schutz von IT-Systemen, Netzwerken und Daten vor Cyber-Bedrohungen und -Angriffen.",
@@ -43,10 +43,10 @@
         "id": "q2",
         "text": "Was sind 'kritische Infrastrukturen' im Cybersicherheitskontext?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
@@ -87,10 +87,10 @@
         "id": "q4",
         "text": "Was ist 'Informationssicherheit'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Informationssicherheit umfasst den Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung.",
@@ -109,10 +109,10 @@
         "id": "q5",
         "text": "Was ist ein 'IT-Sicherheitsvorfall'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein IT-Sicherheitsvorfall ist jedes Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
@@ -131,10 +131,10 @@
         "id": "q6",
         "text": "Was ist 'Cybersicherheitsbewertung'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Eine systematische Bewertung der Cybersicherheitsrisiken und -maßnahmen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Cybersicherheitsbewertung ist eine systematische Bewertung der Cybersicherheitsrisiken und der ergriffenen Schutzmaßnahmen.",
@@ -153,10 +153,10 @@
         "id": "q7",
         "text": "Was sind 'Cybersicherheitsstandards'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Verbindliche technische und organisatorische Anforderungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheitsstandards sind verbindliche technische und organisatorische Anforderungen, die von Betreibern kritischer Infrastrukturen eingehalten werden müssen.",
@@ -175,10 +175,10 @@
         "id": "q8",
         "text": "Was ist ein 'Cybersicherheitsvorfall'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Ereignis, das die Cybersicherheit beeinträchtigt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Cybersicherheitsvorfall ist jedes Ereignis, das die Cybersicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
@@ -197,10 +197,10 @@
         "id": "q9",
         "text": "Was ist 'Cybersicherheitsmanagement'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein systematischer Ansatz zur Gewährleistung der Cybersicherheit",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheitsmanagement ist ein systematischer Ansatz zur Gewährleistung der Cybersicherheit, der technische, organisatorische und personelle Maßnahmen umfasst.",
@@ -219,10 +219,10 @@
         "id": "q10",
         "text": "Was ist 'Cybersicherheitsbewusstsein'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Das Bewusstsein für Cybersicherheitsrisiken und -maßnahmen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheitsbewusstsein ist das Bewusstsein für Cybersicherheitsrisiken und die Kenntnis geeigneter Schutzmaßnahmen.",
@@ -241,10 +241,10 @@
         "id": "q11",
         "text": "Frage 11: Was sind 'kritische Infrastrukturen' im Cybersicherheitskontext?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
@@ -285,10 +285,10 @@
         "id": "q13",
         "text": "Frage 13: Was ist 'Informationssicherheit'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Informationssicherheit umfasst den Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung.",
@@ -307,10 +307,10 @@
         "id": "q14",
         "text": "Frage 14: Was ist ein 'IT-Sicherheitsvorfall'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein IT-Sicherheitsvorfall ist jedes Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
@@ -329,10 +329,10 @@
         "id": "q15",
         "text": "Frage 15: Was ist 'Cybersicherheitsbewertung'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Eine systematische Bewertung der Cybersicherheitsrisiken und -maßnahmen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Cybersicherheitsbewertung ist eine systematische Bewertung der Cybersicherheitsrisiken und der ergriffenen Schutzmaßnahmen.",
@@ -351,10 +351,10 @@
         "id": "q16",
         "text": "Frage 16: Was sind 'Cybersicherheitsstandards'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Verbindliche technische und organisatorische Anforderungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheitsstandards sind verbindliche technische und organisatorische Anforderungen, die von Betreibern kritischer Infrastrukturen eingehalten werden müssen.",
@@ -373,10 +373,10 @@
         "id": "q17",
         "text": "Frage 17: Was ist ein 'Cybersicherheitsvorfall'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Ereignis, das die Cybersicherheit beeinträchtigt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Cybersicherheitsvorfall ist jedes Ereignis, das die Cybersicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
@@ -395,10 +395,10 @@
         "id": "q18",
         "text": "Frage 18: Was ist 'Cybersicherheitsmanagement'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein systematischer Ansatz zur Gewährleistung der Cybersicherheit",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheitsmanagement ist ein systematischer Ansatz zur Gewährleistung der Cybersicherheit, der technische, organisatorische und personelle Maßnahmen umfasst.",
@@ -417,10 +417,10 @@
         "id": "q19",
         "text": "Frage 19: Was ist 'Cybersicherheitsbewusstsein'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Das Bewusstsein für Cybersicherheitsrisiken und -maßnahmen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheitsbewusstsein ist das Bewusstsein für Cybersicherheitsrisiken und die Kenntnis geeigneter Schutzmaßnahmen.",
@@ -439,10 +439,10 @@
         "id": "q20",
         "text": "Frage 20: Was ist Cybersicherheit?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Schutz von IT-Systemen vor Cyber-Bedrohungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheit umfasst alle Maßnahmen zum Schutz von IT-Systemen, Netzwerken und Daten vor Cyber-Bedrohungen und -Angriffen.",
@@ -461,10 +461,10 @@
         "id": "q21",
         "text": "Frage 21: Was sind 'kritische Infrastrukturen' im Cybersicherheitskontext?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
@@ -505,10 +505,10 @@
         "id": "q23",
         "text": "Frage 23: Was ist 'Informationssicherheit'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Informationssicherheit umfasst den Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung.",
@@ -527,10 +527,10 @@
         "id": "q24",
         "text": "Frage 24: Was ist ein 'IT-Sicherheitsvorfall'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein IT-Sicherheitsvorfall ist jedes Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
@@ -549,10 +549,10 @@
         "id": "q25",
         "text": "Frage 25: Was ist 'Cybersicherheitsbewertung'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Eine systematische Bewertung der Cybersicherheitsrisiken und -maßnahmen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Cybersicherheitsbewertung ist eine systematische Bewertung der Cybersicherheitsrisiken und der ergriffenen Schutzmaßnahmen.",
@@ -571,10 +571,10 @@
         "id": "q26",
         "text": "Frage 26: Was sind 'Cybersicherheitsstandards'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Verbindliche technische und organisatorische Anforderungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheitsstandards sind verbindliche technische und organisatorische Anforderungen, die von Betreibern kritischer Infrastrukturen eingehalten werden müssen.",
@@ -593,10 +593,10 @@
         "id": "q27",
         "text": "Frage 27: Was ist ein 'Cybersicherheitsvorfall'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Ereignis, das die Cybersicherheit beeinträchtigt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Cybersicherheitsvorfall ist jedes Ereignis, das die Cybersicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
@@ -615,10 +615,10 @@
         "id": "q28",
         "text": "Frage 28: Was ist 'Cybersicherheitsmanagement'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein systematischer Ansatz zur Gewährleistung der Cybersicherheit",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheitsmanagement ist ein systematischer Ansatz zur Gewährleistung der Cybersicherheit, der technische, organisatorische und personelle Maßnahmen umfasst.",
@@ -637,10 +637,10 @@
         "id": "q29",
         "text": "Frage 29: Was ist 'Cybersicherheitsbewusstsein'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Das Bewusstsein für Cybersicherheitsrisiken und -maßnahmen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheitsbewusstsein ist das Bewusstsein für Cybersicherheitsrisiken und die Kenntnis geeigneter Schutzmaßnahmen.",
@@ -659,10 +659,10 @@
         "id": "q30",
         "text": "Frage 30: Was ist Cybersicherheit?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Schutz von IT-Systemen vor Cyber-Bedrohungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheit umfasst alle Maßnahmen zum Schutz von IT-Systemen, Netzwerken und Daten vor Cyber-Bedrohungen und -Angriffen.",
@@ -681,10 +681,10 @@
         "id": "q31",
         "text": "Frage 31: Was sind 'kritische Infrastrukturen' im Cybersicherheitskontext?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
@@ -725,10 +725,10 @@
         "id": "q33",
         "text": "Frage 33: Was ist 'Informationssicherheit'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Informationssicherheit umfasst den Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung.",
@@ -747,10 +747,10 @@
         "id": "q34",
         "text": "Frage 34: Was ist ein 'IT-Sicherheitsvorfall'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein IT-Sicherheitsvorfall ist jedes Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
@@ -769,10 +769,10 @@
         "id": "q35",
         "text": "Frage 35: Was ist 'Cybersicherheitsbewertung'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Eine systematische Bewertung der Cybersicherheitsrisiken und -maßnahmen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Cybersicherheitsbewertung ist eine systematische Bewertung der Cybersicherheitsrisiken und der ergriffenen Schutzmaßnahmen.",
@@ -791,10 +791,10 @@
         "id": "q36",
         "text": "Frage 36: Was sind 'Cybersicherheitsstandards'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Verbindliche technische und organisatorische Anforderungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheitsstandards sind verbindliche technische und organisatorische Anforderungen, die von Betreibern kritischer Infrastrukturen eingehalten werden müssen.",
@@ -813,10 +813,10 @@
         "id": "q37",
         "text": "Frage 37: Was ist ein 'Cybersicherheitsvorfall'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Ereignis, das die Cybersicherheit beeinträchtigt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Cybersicherheitsvorfall ist jedes Ereignis, das die Cybersicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
@@ -835,10 +835,10 @@
         "id": "q38",
         "text": "Frage 38: Was ist 'Cybersicherheitsmanagement'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein systematischer Ansatz zur Gewährleistung der Cybersicherheit",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheitsmanagement ist ein systematischer Ansatz zur Gewährleistung der Cybersicherheit, der technische, organisatorische und personelle Maßnahmen umfasst.",
@@ -857,10 +857,10 @@
         "id": "q39",
         "text": "Frage 39: Was ist 'Cybersicherheitsbewusstsein'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Das Bewusstsein für Cybersicherheitsrisiken und -maßnahmen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheitsbewusstsein ist das Bewusstsein für Cybersicherheitsrisiken und die Kenntnis geeigneter Schutzmaßnahmen.",
@@ -879,10 +879,10 @@
         "id": "q40",
         "text": "Frage 40: Was ist Cybersicherheit?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Schutz von IT-Systemen vor Cyber-Bedrohungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheit umfasst alle Maßnahmen zum Schutz von IT-Systemen, Netzwerken und Daten vor Cyber-Bedrohungen und -Angriffen.",
@@ -901,10 +901,10 @@
         "id": "q41",
         "text": "Frage 41: Was sind 'kritische Infrastrukturen' im Cybersicherheitskontext?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
@@ -945,10 +945,10 @@
         "id": "q43",
         "text": "Frage 43: Was ist 'Informationssicherheit'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Informationssicherheit umfasst den Schutz von Informationen vor unbefugtem Zugriff, Verwendung, Offenlegung, Störung, Änderung oder Zerstörung.",
@@ -967,10 +967,10 @@
         "id": "q44",
         "text": "Frage 44: Was ist ein 'IT-Sicherheitsvorfall'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein IT-Sicherheitsvorfall ist jedes Ereignis, das die IT-Sicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
@@ -989,10 +989,10 @@
         "id": "q45",
         "text": "Frage 45: Was ist 'Cybersicherheitsbewertung'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Eine systematische Bewertung der Cybersicherheitsrisiken und -maßnahmen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Cybersicherheitsbewertung ist eine systematische Bewertung der Cybersicherheitsrisiken und der ergriffenen Schutzmaßnahmen.",
@@ -1011,10 +1011,10 @@
         "id": "q46",
         "text": "Frage 46: Was sind 'Cybersicherheitsstandards'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Verbindliche technische und organisatorische Anforderungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheitsstandards sind verbindliche technische und organisatorische Anforderungen, die von Betreibern kritischer Infrastrukturen eingehalten werden müssen.",
@@ -1033,10 +1033,10 @@
         "id": "q47",
         "text": "Frage 47: Was ist ein 'Cybersicherheitsvorfall'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Ereignis, das die Cybersicherheit beeinträchtigt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Cybersicherheitsvorfall ist jedes Ereignis, das die Cybersicherheit beeinträchtigt oder beeinträchtigen kann, unabhängig von der Ursache.",
@@ -1055,10 +1055,10 @@
         "id": "q48",
         "text": "Frage 48: Was ist 'Cybersicherheitsmanagement'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein systematischer Ansatz zur Gewährleistung der Cybersicherheit",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheitsmanagement ist ein systematischer Ansatz zur Gewährleistung der Cybersicherheit, der technische, organisatorische und personelle Maßnahmen umfasst.",
@@ -1077,10 +1077,10 @@
         "id": "q49",
         "text": "Frage 49: Was ist 'Cybersicherheitsbewusstsein'?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Das Bewusstsein für Cybersicherheitsrisiken und -maßnahmen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheitsbewusstsein ist das Bewusstsein für Cybersicherheitsrisiken und die Kenntnis geeigneter Schutzmaßnahmen.",
@@ -1099,10 +1099,10 @@
         "id": "q50",
         "text": "Frage 50: Was ist Cybersicherheit?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Schutz von IT-Systemen vor Cyber-Bedrohungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheit umfasst alle Maßnahmen zum Schutz von IT-Systemen, Netzwerken und Daten vor Cyber-Bedrohungen und -Angriffen.",

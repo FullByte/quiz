@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist die Hauptfunktion von .NET?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Eine plattformübergreifende Entwicklungsplattform",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": ".NET ist eine plattformübergreifende, kostenlose und quelloffene Entwicklungsplattform für verschiedene Anwendungstypen.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Programmiersprachen werden von .NET unterstützt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "C#, F#, VB.NET und andere",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": ".NET unterstützt mehrere Programmiersprachen, wobei C#, F# und VB.NET die Hauptsprachen sind, aber auch andere Sprachen integriert werden können.",
@@ -72,10 +72,10 @@
         "id": "q3",
         "text": "Was ist die Hauptfunktion von C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine Java Programmiersprache",
           "Eine moderne, objektorientierte Programmiersprache von Microsoft",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Framework",
+          "Ein JavaScript Library"
         ],
         "correctIndex": 1,
         "explanation": "C# ist eine moderne, typsichere, objektorientierte Programmiersprache, die von Microsoft entwickelt wurde und Teil der .NET-Plattform ist.",
@@ -95,10 +95,10 @@
         "id": "q4",
         "text": "Welche Anwendungstypen können mit .NET entwickelt werden?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Ein Java Runtime Environment",
+          "Ein Python Package Manager",
           "Desktop, Web, Mobile, Cloud und IoT-Anwendungen",
-          "Ein vergleichbares Verfahren"
+          "Ein Node.js Framework"
         ],
         "correctIndex": 2,
         "explanation": ".NET ermöglicht die Entwicklung verschiedener Anwendungstypen: Desktop-, Web-, Mobile-, Cloud- und IoT-Anwendungen.",
@@ -119,10 +119,10 @@
         "id": "q5",
         "text": "Was ist ASP.NET Core?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein plattformübergreifendes Web-Framework für .NET",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "ASP.NET Core ist ein plattformübergreifendes, hochperformantes Web-Framework für die Entwicklung moderner Web-APIs und Web-Anwendungen.",
@@ -142,10 +142,10 @@
         "id": "q6",
         "text": "Welche Vorteile bietet .NET?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Plattformübergreifend, hohe Performance, große Community und umfangreiche Bibliotheken",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": ".NET bietet viele Vorteile: plattformübergreifende Entwicklung, hohe Performance, eine große Entwicklergemeinde und umfangreiche Bibliotheken.",
@@ -165,10 +165,10 @@
         "id": "q7",
         "text": "Was ist Entity Framework?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Object-Relational Mapping (ORM) Framework für .NET",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Entity Framework ist ein ORM-Framework, das es Entwicklern ermöglicht, mit Datenbanken zu arbeiten, indem es Datenbanktabellen als .NET-Objekte darstellt.",
@@ -188,10 +188,10 @@
         "id": "q8",
         "text": "Welche Versionen von .NET gibt es?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           ".NET Framework, .NET Core und .NET 5+",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Es gibt verschiedene .NET-Versionen: .NET Framework (Windows), .NET Core (plattformübergreifend) und .NET 5+ (die vereinte Plattform).",
@@ -211,10 +211,10 @@
         "id": "q9",
         "text": "Was ist die Common Language Runtime (CLR)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Virtual Machine",
           "Die Laufzeitumgebung von .NET, die Code ausführt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Interpreter",
+          "Ein JavaScript Engine"
         ],
         "correctIndex": 1,
         "explanation": "Die CLR ist die Laufzeitumgebung von .NET, die für die Ausführung des kompilierten Codes verantwortlich ist und Services wie Garbage Collection bereitstellt.",
@@ -234,10 +234,10 @@
         "id": "q10",
         "text": "Welche Entwicklungsumgebungen unterstützen .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Visual Studio, Visual Studio Code, JetBrains Rider und weitere",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": ".NET und C# werden von verschiedenen IDEs unterstützt: Visual Studio, Visual Studio Code, JetBrains Rider und anderen Entwicklungsumgebungen.",
@@ -258,10 +258,10 @@
         "id": "q11",
         "text": "Was ist .NET Standard?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Eine Spezifikation für .NET-APIs, die auf allen .NET-Implementierungen verfügbar sind",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": ".NET Standard ist eine formale Spezifikation der .NET-APIs, die auf allen .NET-Implementierungen verfügbar sind, was die Portabilität von Code zwischen verschiedenen .NET-Versionen ermöglicht.",
@@ -281,10 +281,10 @@
         "id": "q12",
         "text": "Was sind .NET NuGet-Pakete?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Pakete für die Wiederverwendung von Code und Bibliotheken in .NET-Projekten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "NuGet-Pakete sind Pakete, die wiederverwendbaren Code und Bibliotheken enthalten und einfach in .NET-Projekte integriert werden können.",
@@ -304,10 +304,10 @@
         "id": "q13",
         "text": "Was ist LINQ in .NET?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Language Integrated Query - eine Abfragesprache für Datenquellen in .NET",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "LINQ (Language Integrated Query) ist eine Abfragesprache, die direkt in C# und VB.NET integriert ist und die Abfrage verschiedener Datenquellen ermöglicht.",
@@ -327,10 +327,10 @@
         "id": "q14",
         "text": "Welche Arten von .NET-Anwendungen gibt es?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Console, Windows Forms, WPF, ASP.NET, Blazor und Mobile Apps",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": ".NET unterstützt verschiedene Anwendungstypen: Console-Apps, Windows Forms, WPF, ASP.NET, Blazor und Mobile Apps für verschiedene Plattformen.",
@@ -351,10 +351,10 @@
         "id": "q15",
         "text": "Was ist die .NET CLI?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Eine Befehlszeilen-Schnittstelle für .NET-Entwicklung und -Verwaltung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Die .NET CLI (Command Line Interface) ist eine plattformübergreifende Befehlszeilen-Schnittstelle für die Entwicklung, das Erstellen, das Ausführen und die Verwaltung von .NET-Anwendungen.",
@@ -374,10 +374,10 @@
         "id": "q16",
         "text": "Was ist Blazor in .NET?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Framework für die Erstellung interaktiver Web-Apps mit C#",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Blazor ist ein Framework, das es ermöglicht, interaktive Web-Anwendungen mit C# anstatt JavaScript zu erstellen, sowohl Server-seitig als auch Client-seitig.",
@@ -397,10 +397,10 @@
         "id": "q17",
         "text": "Welche C#-Features wurden in neueren Versionen hinzugefügt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine Java Programmiersprache",
           "Records, Pattern Matching, Nullable Reference Types und viele weitere",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Framework",
+          "Ein JavaScript Library"
         ],
         "correctIndex": 1,
         "explanation": "Neuere C#-Versionen haben viele Features hinzugefügt: Records für unveränderliche Daten, Pattern Matching, Nullable Reference Types und viele weitere moderne Sprachfeatures.",
@@ -420,10 +420,10 @@
         "id": "q18",
         "text": "Was ist .NET MAUI?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Multi-platform App UI - ein Framework für native Apps auf mehreren Plattformen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": ".NET MAUI (Multi-platform App UI) ist ein Framework für die Erstellung nativer Apps, die auf mehreren Plattformen wie iOS, Android, Windows und macOS laufen.",
@@ -443,10 +443,10 @@
         "id": "q19",
         "text": "Was ist der Garbage Collector in .NET?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein automatischer Speicher-Manager, der nicht verwendeten Speicher freigibt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Der Garbage Collector ist ein automatischer Speicher-Manager in .NET, der nicht verwendeten Speicher automatisch freigibt und Speicherlecks verhindert.",
@@ -466,10 +466,10 @@
         "id": "q20",
         "text": "Welche Testing-Frameworks gibt es für .NET?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "MSTest, NUnit, xUnit und weitere Testing-Frameworks",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": ".NET bietet verschiedene Testing-Frameworks: MSTest (Microsoft), NUnit und xUnit sind die beliebtesten Optionen für Unit-Testing in .NET-Anwendungen.",
@@ -490,10 +490,10 @@
         "id": "q21",
         "text": "Was ist C# 12 Features in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für c# 12 features und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "C# 12 Features ist ein wichtiger Service in .NET und C#, der c# 12 features und verwandte Funktionen bereitstellt.",
@@ -513,10 +513,10 @@
         "id": "q22",
         "text": "Was ist C# 11 Features in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für c# 11 features und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "C# 11 Features ist ein wichtiger Service in .NET und C#, der c# 11 features und verwandte Funktionen bereitstellt.",
@@ -536,10 +536,10 @@
         "id": "q23",
         "text": "Was ist C# 10 Features in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für c# 10 features und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "C# 10 Features ist ein wichtiger Service in .NET und C#, der c# 10 features und verwandte Funktionen bereitstellt.",
@@ -559,10 +559,10 @@
         "id": "q24",
         "text": "Was ist C# 9 Features in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für c# 9 features und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "C# 9 Features ist ein wichtiger Service in .NET und C#, der c# 9 features und verwandte Funktionen bereitstellt.",
@@ -582,10 +582,10 @@
         "id": "q25",
         "text": "Was ist C# 8 Features in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für c# 8 features und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "C# 8 Features ist ein wichtiger Service in .NET und C#, der c# 8 features und verwandte Funktionen bereitstellt.",
@@ -605,10 +605,10 @@
         "id": "q26",
         "text": "Was ist Nullable Reference Types in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für nullable reference types und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Nullable Reference Types ist ein wichtiger Service in .NET und C#, der nullable reference types und verwandte Funktionen bereitstellt.",
@@ -628,10 +628,10 @@
         "id": "q27",
         "text": "Was ist Pattern Matching in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für pattern matching und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Pattern Matching ist ein wichtiger Service in .NET und C#, der pattern matching und verwandte Funktionen bereitstellt.",
@@ -651,10 +651,10 @@
         "id": "q28",
         "text": "Was ist Records in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für records und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Records ist ein wichtiger Service in .NET und C#, der records und verwandte Funktionen bereitstellt.",
@@ -674,10 +674,10 @@
         "id": "q29",
         "text": "Was ist Init-only Properties in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für init-only properties und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Init-only Properties ist ein wichtiger Service in .NET und C#, der init-only properties und verwandte Funktionen bereitstellt.",
@@ -697,10 +697,10 @@
         "id": "q30",
         "text": "Was ist Target-typed New in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für target-typed new und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Target-typed New ist ein wichtiger Service in .NET und C#, der target-typed new und verwandte Funktionen bereitstellt.",
@@ -720,10 +720,10 @@
         "id": "q31",
         "text": "Was ist Covariant Return Types in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für covariant return types und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Covariant Return Types ist ein wichtiger Service in .NET und C#, der covariant return types und verwandte Funktionen bereitstellt.",
@@ -743,10 +743,10 @@
         "id": "q32",
         "text": "Was ist Static Local Functions in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für static local functions und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Static Local Functions ist ein wichtiger Service in .NET und C#, der static local functions und verwandte Funktionen bereitstellt.",
@@ -766,10 +766,10 @@
         "id": "q33",
         "text": "Was ist Default Interface Methods in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für default interface methods und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Default Interface Methods ist ein wichtiger Service in .NET und C#, der default interface methods und verwandte Funktionen bereitstellt.",
@@ -789,10 +789,10 @@
         "id": "q34",
         "text": "Was ist Async Streams in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für async streams und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Async Streams ist ein wichtiger Service in .NET und C#, der async streams und verwandte Funktionen bereitstellt.",
@@ -812,10 +812,10 @@
         "id": "q35",
         "text": "Was ist Async Dispose in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für async dispose und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Async Dispose ist ein wichtiger Service in .NET und C#, der async dispose und verwandte Funktionen bereitstellt.",
@@ -835,10 +835,10 @@
         "id": "q36",
         "text": "Was ist Index and Range in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für index and range und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Index and Range ist ein wichtiger Service in .NET und C#, der index and range und verwandte Funktionen bereitstellt.",
@@ -858,10 +858,10 @@
         "id": "q37",
         "text": "Was ist Switch Expressions in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für switch expressions und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Switch Expressions ist ein wichtiger Service in .NET und C#, der switch expressions und verwandte Funktionen bereitstellt.",
@@ -881,10 +881,10 @@
         "id": "q38",
         "text": "Was ist Property Patterns in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für property patterns und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Property Patterns ist ein wichtiger Service in .NET und C#, der property patterns und verwandte Funktionen bereitstellt.",
@@ -904,10 +904,10 @@
         "id": "q39",
         "text": "Was ist Tuple Patterns in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für tuple patterns und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Tuple Patterns ist ein wichtiger Service in .NET und C#, der tuple patterns und verwandte Funktionen bereitstellt.",
@@ -927,10 +927,10 @@
         "id": "q40",
         "text": "Was ist Positional Patterns in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für positional patterns und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Positional Patterns ist ein wichtiger Service in .NET und C#, der positional patterns und verwandte Funktionen bereitstellt.",
@@ -950,10 +950,10 @@
         "id": "q41",
         "text": "Was ist Relational Patterns in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für relational patterns und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Relational Patterns ist ein wichtiger Service in .NET und C#, der relational patterns und verwandte Funktionen bereitstellt.",
@@ -973,10 +973,10 @@
         "id": "q42",
         "text": "Was ist Logical Patterns in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für logical patterns und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Logical Patterns ist ein wichtiger Service in .NET und C#, der logical patterns und verwandte Funktionen bereitstellt.",
@@ -996,10 +996,10 @@
         "id": "q43",
         "text": "Was ist Type Patterns in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für type patterns und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Type Patterns ist ein wichtiger Service in .NET und C#, der type patterns und verwandte Funktionen bereitstellt.",
@@ -1019,10 +1019,10 @@
         "id": "q44",
         "text": "Was ist Constant Patterns in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für constant patterns und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Constant Patterns ist ein wichtiger Service in .NET und C#, der constant patterns und verwandte Funktionen bereitstellt.",
@@ -1042,10 +1042,10 @@
         "id": "q45",
         "text": "Was ist Declaration Patterns in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für declaration patterns und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Declaration Patterns ist ein wichtiger Service in .NET und C#, der declaration patterns und verwandte Funktionen bereitstellt.",
@@ -1065,10 +1065,10 @@
         "id": "q46",
         "text": "Was ist Var Patterns in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für var patterns und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Var Patterns ist ein wichtiger Service in .NET und C#, der var patterns und verwandte Funktionen bereitstellt.",
@@ -1088,10 +1088,10 @@
         "id": "q47",
         "text": "Was ist Discard Patterns in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für discard patterns und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Discard Patterns ist ein wichtiger Service in .NET und C#, der discard patterns und verwandte Funktionen bereitstellt.",
@@ -1111,10 +1111,10 @@
         "id": "q48",
         "text": "Was ist List Patterns in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für list patterns und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "List Patterns ist ein wichtiger Service in .NET und C#, der list patterns und verwandte Funktionen bereitstellt.",
@@ -1134,10 +1134,10 @@
         "id": "q49",
         "text": "Was ist Slice Patterns in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für slice patterns und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Slice Patterns ist ein wichtiger Service in .NET und C#, der slice patterns und verwandte Funktionen bereitstellt.",
@@ -1157,10 +1157,10 @@
         "id": "q50",
         "text": "Was ist Recursive Patterns in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für recursive patterns und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Recursive Patterns ist ein wichtiger Service in .NET und C#, der recursive patterns und verwandte Funktionen bereitstellt.",
@@ -1180,10 +1180,10 @@
         "id": "q51",
         "text": "Was ist Source Generators in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für source generators und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Source Generators ist ein wichtiger Service in .NET und C#, der source generators und verwandte Funktionen bereitstellt.",
@@ -1203,10 +1203,10 @@
         "id": "q52",
         "text": "Was ist Caller Argument Expression in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für caller argument expression und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Caller Argument Expression ist ein wichtiger Service in .NET und C#, der caller argument expression und verwandte Funktionen bereitstellt.",
@@ -1226,10 +1226,10 @@
         "id": "q53",
         "text": "Was ist Caller Member Name in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für caller member name und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Caller Member Name ist ein wichtiger Service in .NET und C#, der caller member name und verwandte Funktionen bereitstellt.",
@@ -1249,10 +1249,10 @@
         "id": "q54",
         "text": "Was ist Caller File Path in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für caller file path und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Caller File Path ist ein wichtiger Service in .NET und C#, der caller file path und verwandte Funktionen bereitstellt.",
@@ -1272,10 +1272,10 @@
         "id": "q55",
         "text": "Was ist Caller Line Number in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für caller line number und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Caller Line Number ist ein wichtiger Service in .NET und C#, der caller line number und verwandte Funktionen bereitstellt.",
@@ -1410,10 +1410,10 @@
         "id": "q61",
         "text": "Was ist Generic Attributes in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für generic attributes und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Generic Attributes ist ein wichtiger Service in .NET und C#, der generic attributes und verwandte Funktionen bereitstellt.",
@@ -1433,10 +1433,10 @@
         "id": "q62",
         "text": "Was ist File-scoped Namespaces in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für file-scoped namespaces und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "File-scoped Namespaces ist ein wichtiger Service in .NET und C#, der file-scoped namespaces und verwandte Funktionen bereitstellt.",
@@ -1456,10 +1456,10 @@
         "id": "q63",
         "text": "Was ist Global Using in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für global using und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Global Using ist ein wichtiger Service in .NET und C#, der global using und verwandte Funktionen bereitstellt.",
@@ -1479,10 +1479,10 @@
         "id": "q64",
         "text": "Was ist Implicit Using in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für implicit using und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Implicit Using ist ein wichtiger Service in .NET und C#, der implicit using und verwandte Funktionen bereitstellt.",
@@ -1502,10 +1502,10 @@
         "id": "q65",
         "text": "Was ist Nullable Context in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für nullable context und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Nullable Context ist ein wichtiger Service in .NET und C#, der nullable context und verwandte Funktionen bereitstellt.",
@@ -1525,10 +1525,10 @@
         "id": "q66",
         "text": "Was ist Required Members in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für required members und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Required Members ist ein wichtiger Service in .NET und C#, der required members und verwandte Funktionen bereitstellt.",
@@ -1548,10 +1548,10 @@
         "id": "q67",
         "text": "Was ist Auto-default Struct in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für auto-default struct und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Auto-default Struct ist ein wichtiger Service in .NET und C#, der auto-default struct und verwandte Funktionen bereitstellt.",
@@ -1571,10 +1571,10 @@
         "id": "q68",
         "text": "Was ist Interpolated String Handlers in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für interpolated string handlers und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Interpolated String Handlers ist ein wichtiger Service in .NET und C#, der interpolated string handlers und verwandte Funktionen bereitstellt.",
@@ -1594,10 +1594,10 @@
         "id": "q69",
         "text": "Was ist Static Abstract Members in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für static abstract members und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Static Abstract Members ist ein wichtiger Service in .NET und C#, der static abstract members und verwandte Funktionen bereitstellt.",
@@ -1617,10 +1617,10 @@
         "id": "q70",
         "text": "Was ist Generic Math in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für generic math und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Generic Math ist ein wichtiger Service in .NET und C#, der generic math und verwandte Funktionen bereitstellt.",
@@ -1640,10 +1640,10 @@
         "id": "q71",
         "text": "Was ist UTF-8 String Literals in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für utf-8 string literals und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "UTF-8 String Literals ist ein wichtiger Service in .NET und C#, der utf-8 string literals und verwandte Funktionen bereitstellt.",
@@ -1663,10 +1663,10 @@
         "id": "q72",
         "text": "Was ist Raw String Literals in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für raw string literals und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Raw String Literals ist ein wichtiger Service in .NET und C#, der raw string literals und verwandte Funktionen bereitstellt.",
@@ -1686,10 +1686,10 @@
         "id": "q73",
         "text": "Was ist Collection Expressions in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für collection expressions und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Collection Expressions ist ein wichtiger Service in .NET und C#, der collection expressions und verwandte Funktionen bereitstellt.",
@@ -1709,10 +1709,10 @@
         "id": "q74",
         "text": "Was ist Primary Constructors in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für primary constructors und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Primary Constructors ist ein wichtiger Service in .NET und C#, der primary constructors und verwandte Funktionen bereitstellt.",
@@ -1732,10 +1732,10 @@
         "id": "q75",
         "text": "Was ist Alias Any Type in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für alias any type und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Alias Any Type ist ein wichtiger Service in .NET und C#, der alias any type und verwandte Funktionen bereitstellt.",
@@ -1755,10 +1755,10 @@
         "id": "q76",
         "text": "Was ist Ref Fields in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für ref fields und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Ref Fields ist ein wichtiger Service in .NET und C#, der ref fields und verwandte Funktionen bereitstellt.",
@@ -1778,10 +1778,10 @@
         "id": "q77",
         "text": "Was ist Ref Structs in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für ref structs und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Ref Structs ist ein wichtiger Service in .NET und C#, der ref structs und verwandte Funktionen bereitstellt.",
@@ -1801,10 +1801,10 @@
         "id": "q78",
         "text": "Was ist Span<T> in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für span<t> und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Span<T> ist ein wichtiger Service in .NET und C#, der span<t> und verwandte Funktionen bereitstellt.",
@@ -1824,10 +1824,10 @@
         "id": "q79",
         "text": "Was ist Memory<T> in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für memory<t> und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Memory<T> ist ein wichtiger Service in .NET und C#, der memory<t> und verwandte Funktionen bereitstellt.",
@@ -1847,10 +1847,10 @@
         "id": "q80",
         "text": "Was ist ReadOnlySpan<T> in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für readonlyspan<t> und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "ReadOnlySpan<T> ist ein wichtiger Service in .NET und C#, der readonlyspan<t> und verwandte Funktionen bereitstellt.",
@@ -1870,10 +1870,10 @@
         "id": "q81",
         "text": "Was ist ReadOnlyMemory<T> in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für readonlymemory<t> und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "ReadOnlyMemory<T> ist ein wichtiger Service in .NET und C#, der readonlymemory<t> und verwandte Funktionen bereitstellt.",
@@ -1893,10 +1893,10 @@
         "id": "q82",
         "text": "Was ist ArrayPool<T> in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für arraypool<t> und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "ArrayPool<T> ist ein wichtiger Service in .NET und C#, der arraypool<t> und verwandte Funktionen bereitstellt.",
@@ -1916,10 +1916,10 @@
         "id": "q83",
         "text": "Was ist StringPool in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für stringpool und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "StringPool ist ein wichtiger Service in .NET und C#, der stringpool und verwandte Funktionen bereitstellt.",
@@ -1939,10 +1939,10 @@
         "id": "q84",
         "text": "Was ist ObjectPool<T> in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für objectpool<t> und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "ObjectPool<T> ist ein wichtiger Service in .NET und C#, der objectpool<t> und verwandte Funktionen bereitstellt.",
@@ -1962,10 +1962,10 @@
         "id": "q85",
         "text": "Was ist ConcurrentBag<T> in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für concurrentbag<t> und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "ConcurrentBag<T> ist ein wichtiger Service in .NET und C#, der concurrentbag<t> und verwandte Funktionen bereitstellt.",
@@ -1985,10 +1985,10 @@
         "id": "q86",
         "text": "Was ist ConcurrentQueue<T> in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für concurrentqueue<t> und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "ConcurrentQueue<T> ist ein wichtiger Service in .NET und C#, der concurrentqueue<t> und verwandte Funktionen bereitstellt.",
@@ -2008,10 +2008,10 @@
         "id": "q87",
         "text": "Was ist ConcurrentStack<T> in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für concurrentstack<t> und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "ConcurrentStack<T> ist ein wichtiger Service in .NET und C#, der concurrentstack<t> und verwandte Funktionen bereitstellt.",
@@ -2031,10 +2031,10 @@
         "id": "q88",
         "text": "Was ist ConcurrentDictionary<T> in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für concurrentdictionary<t> und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "ConcurrentDictionary<T> ist ein wichtiger Service in .NET und C#, der concurrentdictionary<t> und verwandte Funktionen bereitstellt.",
@@ -2077,10 +2077,10 @@
         "id": "q90",
         "text": "Was ist Channel<T> in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für channel<t> und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Channel<T> ist ein wichtiger Service in .NET und C#, der channel<t> und verwandte Funktionen bereitstellt.",
@@ -2100,10 +2100,10 @@
         "id": "q91",
         "text": "Was ist AsyncEnumerable<T> in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für asyncenumerable<t> und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "AsyncEnumerable<T> ist ein wichtiger Service in .NET und C#, der asyncenumerable<t> und verwandte Funktionen bereitstellt.",
@@ -2123,10 +2123,10 @@
         "id": "q92",
         "text": "Was ist IAsyncDisposable in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für iasyncdisposable und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "IAsyncDisposable ist ein wichtiger Service in .NET und C#, der iasyncdisposable und verwandte Funktionen bereitstellt.",
@@ -2169,10 +2169,10 @@
         "id": "q94",
         "text": "Was ist Task.Run in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für task.run und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Task.Run ist ein wichtiger Service in .NET und C#, der task.run und verwandte Funktionen bereitstellt.",
@@ -2192,10 +2192,10 @@
         "id": "q95",
         "text": "Was ist Task.Factory in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für task.factory und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "Task.Factory ist ein wichtiger Service in .NET und C#, der task.factory und verwandte Funktionen bereitstellt.",
@@ -2215,10 +2215,10 @@
         "id": "q96",
         "text": "Was ist TaskCompletionSource<T> in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für taskcompletionsource<t> und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "TaskCompletionSource<T> ist ein wichtiger Service in .NET und C#, der taskcompletionsource<t> und verwandte Funktionen bereitstellt.",
@@ -2238,10 +2238,10 @@
         "id": "q97",
         "text": "Was ist CancellationToken in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für cancellationtoken und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "CancellationToken ist ein wichtiger Service in .NET und C#, der cancellationtoken und verwandte Funktionen bereitstellt.",
@@ -2261,10 +2261,10 @@
         "id": "q98",
         "text": "Was ist CancellationTokenSource in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für cancellationtokensource und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "CancellationTokenSource ist ein wichtiger Service in .NET und C#, der cancellationtokensource und verwandte Funktionen bereitstellt.",
@@ -2284,10 +2284,10 @@
         "id": "q99",
         "text": "Was ist CancellationRegistration in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für cancellationregistration und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "CancellationRegistration ist ein wichtiger Service in .NET und C#, der cancellationregistration und verwandte Funktionen bereitstellt.",
@@ -2307,10 +2307,10 @@
         "id": "q100",
         "text": "Was ist OperationCanceledException in .NET und C#?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Java Runtime Environment",
           "Ein Service für operationcanceledexception und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Python Package Manager",
+          "Ein Node.js Framework"
         ],
         "correctIndex": 1,
         "explanation": "OperationCanceledException ist ein wichtiger Service in .NET und C#, der operationcanceledexception und verwandte Funktionen bereitstellt.",

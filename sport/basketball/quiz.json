@@ -21,10 +21,10 @@
         "id": "q1",
         "text": "Wie lange dauert ein reguläres Basketballspiel ohne Verlängerung?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "4 Viertel à 10 Minuten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "FIBA-Spiele bestehen aus vier Vierteln zu je 10 Minuten Nettospielzeit (Regel IV, Artikel 8.1, S. 20).",
@@ -43,10 +43,10 @@
         "id": "q2",
         "text": "Wie viele Spieler müssen pro Team auf dem Spielfeld sein, damit das Spiel beginnen kann?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Eine Lösung für 5",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "5",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das Spiel kann nicht beginnen, wenn eine oder beide Mannschaften nicht mit fünf Spielern antreten (Regel IV, Artikel 9.3, S. 20).",
@@ -65,10 +65,10 @@
         "id": "q3",
         "text": "Was passiert, wenn ein Spieler fünf persönliche Fouls begeht?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Er muss sofort ausgewechselt werden (disqualifiziert für den Rest des Spiels)",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Spieler, der fünf Fouls begangen hat, muss sofort aus dem Spiel ausscheiden (Regel VII, Artikel 40.1, S. 56).",
@@ -87,10 +87,10 @@
         "id": "q4",
         "text": "Wie lange darf sich ein Angreifer in der gegnerischen Zone (begrenzter Bereich) aufhalten, wenn sein Team Ballkontrolle hat?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "3 Sekunden",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Spieler darf sich nicht länger als drei Sekunden in der gegnerischen Zone aufhalten (Regel V, Artikel 26.1, S. 36).",
@@ -109,10 +109,10 @@
         "id": "q5",
         "text": "Wie viel Zeit hat eine Mannschaft, um nach Ballkontrolle einen Korbwurf zu versuchen (Wurfuhr)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "24 Sekunden",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Wurfuhr beträgt 24 Sekunden. Unter bestimmten Umständen wird sie auf 14 Sekunden zurückgesetzt (Regel V, Artikel 29.1, S. 37).",
@@ -131,10 +131,10 @@
         "id": "q6",
         "text": "Wie viele Punkte zählt ein erfolgreicher Wurf von außerhalb der Drei-Punkte-Linie?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "3 Punkte",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Korbwurf aus dem Drei-Punkte-Bereich zählt 3 Punkte (Regel IV, Artikel 16.2.1, S. 25).",
@@ -156,7 +156,7 @@
           "Eine ähnliche Sporttechnik",
           "Sobald ein Spieler des Teams im Rückfeld Ballkontrolle erlangt",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die 8-Sekunden-Regel startet, wenn ein Spieler im Rückfeld Ballkontrolle erlangt (Regel V, Artikel 28.1, S. 36).",
@@ -175,10 +175,10 @@
         "id": "q8",
         "text": "Welche Aktion gilt als Schrittfehler (Travelling)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Spieler steht mit dem Ball am Boden auf",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Es ist eine Regelübertretung, wenn ein Spieler mit Ball in der Hand vom Boden aufsteht oder rollt (Regel V, Artikel 25.2.2, S. 35).",
@@ -197,10 +197,10 @@
         "id": "q9",
         "text": "Was passiert, wenn ein Verteidiger beim Wurf den Ball im Abwärtsflug berührt (Goaltending beim Feldwurf)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Korb zählt automatisch",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Berührt ein Verteidiger den Ball beim Abwärtsflug, wird der Korb gezählt (Regel V, Artikel 31.2.1, S. 40–41).",
@@ -219,10 +219,10 @@
         "id": "q10",
         "text": "Wie lange hat ein Spieler beim Einwurf Zeit, den Ball ins Spielfeld zu passen?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "5 Sekunden",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Der Einwerfer darf höchstens 5 Sekunden benötigen, bevor er den Ball abgibt (Regel IV, Artikel 17.3.1, S. 28).",
@@ -241,10 +241,10 @@
         "id": "q11",
         "text": "Wie lange dauert eine Verlängerung (Overtime)?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "5 Minuten",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Jede Verlängerung dauert 5 Minuten und beginnt mit Einwurfrecht gemäß Wechselbesitzpfeil (kein Sprungball).",
@@ -266,7 +266,7 @@
           "Eine ähnliche Sporttechnik",
           "Wenn kein legitimer Basketballversuch erkennbar ist (z. B. um einen Fastbreak zu stoppen)",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Unsportliche Fouls werden u. a. geahndet, wenn kein legitimer Versuch, den Ball zu spielen, erkennbar ist (Kriterium C1).",
@@ -285,10 +285,10 @@
         "id": "q13",
         "text": "Wie viele Freiwürfe erhält ein Werfer bei einem nicht erfolgreichen 3-Punkte-Wurf, der gefoult wird?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Eine Lösung für 3",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "3",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Bei Foul am Werfer eines nicht erfolgreichen 3-Punkte-Wurfs werden 3 Freiwürfe zugesprochen.",
@@ -307,10 +307,10 @@
         "id": "q14",
         "text": "Wann zählt ein Feldkorb 3 Punkte?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn der Ball von hinter der 3-Punkte-Linie geworfen wird und der Schütze keinen Bodenkontakt mit der Linie hat",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Schütze darf die 3-Punkte-Linie nicht berühren; beide Füße müssen sich beim Abwurf außerhalb befinden.",
@@ -329,10 +329,10 @@
         "id": "q15",
         "text": "Wer darf eine Auszeit (Timeout) beantragen?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Nur der Trainer (Head Coach) oder in dessen Abwesenheit der Assistenztrainer",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Auszeiten dürfen vom Trainer beantragt werden, indem er am Anschreibetisch ein Zeichen gibt.",
@@ -351,10 +351,10 @@
         "id": "q16",
         "text": "Was ist ein Doppeldribbling?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Spieler dribbelt, hält den Ball und beginnt dann erneut zu dribbeln",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach Beendigung eines Dribblings darf kein weiteres Dribbling begonnen werden; auch gleichzeitiges beidhändiges Dribbling ist illegal.",
@@ -395,10 +395,10 @@
         "id": "q18",
         "text": "Wann liegt Korbbehinderung vor?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn ein Spieler Ring oder Netz so berührt, dass der Ball beeinflusst wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Korbbehinderung liegt vor, wenn Ring/Netz/Backboard so berührt werden, dass die Ballbewegung zum Korb beeinflusst wird.",
@@ -417,10 +417,10 @@
         "id": "q19",
         "text": "Wann liegt ein Rückspiel (Ball zurück ins Rückfeld) vor?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn ein Team in Ballkontrolle im Vorfeld den Ball erneut illegal ins Rückfeld bringt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Hat eine Mannschaft im Vorfeld Kontrolle erlangt, darf sie den Ball nicht selbst wieder ins Rückfeld zurückbringen (Ausnahmen beachten).",
@@ -441,8 +441,8 @@
         "options": [
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Eine Lösung für 3",
-          "Ein vergleichbares Verfahren"
+          "3",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das Schiedsrichterteam besteht aus Crew Chief und zwei Umpires (3 Offizielle).",
@@ -461,10 +461,10 @@
         "id": "q21",
         "text": "Was passiert bei einem Offensivfoul (Spieler-/Teamkontrollfoul)?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Kein Freiwurf, Einwurf für die Verteidigung an der nächsten Stelle",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Bei Spieler-/Teamkontrollfouls gibt es keine Freiwürfe, auch nicht bei Teamfoulgrenze; Einwurf für das gegnerische Team.",
@@ -483,10 +483,10 @@
         "id": "q22",
         "text": "Ab welchem Teamfoul pro Viertel werden Strafwürfe (2 Freiwürfe) verhängt?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "ab dem 5.",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ab dem 5. Teamfoul im Viertel gibt es für nicht-wurfbedingte Defensivfouls zwei Freiwürfe.",
@@ -505,10 +505,10 @@
         "id": "q23",
         "text": "Wann ist ein Ball aus (out of bounds)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn der Ball oder ein Spieler mit Ball Boden außerhalb oder eine außerhalb befindliche Person/Objekt berührt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Aus ist der Ball, wenn er Boden außerhalb berührt oder ein Spieler in Aus mit Ballkontakt steht.",
@@ -527,10 +527,10 @@
         "id": "q24",
         "text": "Wie lange hat ein Werfer für einen Freiwurf?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "5 Sekunden",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Freiwurf muss innerhalb von 5 Sekunden abgegeben werden, nachdem der Ball zur Verfügung gestellt wurde.",
@@ -549,10 +549,10 @@
         "id": "q25",
         "text": "Wann dürfen die Rebounder bei einem Freiwurf in die Zone einlaufen?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Sobald der Ball die Hand des Werfers verlässt",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Spieler außerhalb der Freiwurflinie/Zone dürfen erst einlaufen, wenn der Ball die Hand des Werfers verlässt.",
@@ -593,10 +593,10 @@
         "id": "q27",
         "text": "Was beschreibt das Zylinderprinzip?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Den Raum, den ein Spieler rechtmäßig senkrecht über seinem Standpunkt einnimmt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Jeder Spieler hat einen imaginären Zylinder; vertikale Bewegungen innerhalb dieses Zylinders sind erlaubt (Vertikalitätsprinzip).",
@@ -616,9 +616,9 @@
         "text": "Wann wird ein erfolgreicher Korb aus dem Spiel heraus gezählt?",
         "options": [
           "Wenn der Ball vollständig von oben durch den Korb geht und nicht hängen bleibt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Korb zählt, wenn der Ball vollständig von oben durch die Ringebene fällt und nicht hängen bleibt.",
@@ -637,10 +637,10 @@
         "id": "q29",
         "text": "Wann beginnt ein Ball live zu sein?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn der Ball bei Sprungball die Hand des Schiedsrichters verlässt, beim Freiwurf/Einwurf dem Spieler zur Verfügung gestellt wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Ball wird live beim Loswerfen (Sprungball) oder sobald er beim Ein-/Freiwurf zur Verfügung gestellt wird.",
@@ -659,10 +659,10 @@
         "id": "q30",
         "text": "Was ist ein technisches Foul (T-Foul)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Foul ohne Kontakt, das unsportliches Verhalten, Spielverzögerung oder Regelverstöße umfasst",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Technische Fouls ahnden unsportliches Verhalten oder Regelverstöße ohne Kontakt (z. B. Gestik, Verzögerung).",
@@ -703,10 +703,10 @@
         "id": "q32",
         "text": "Welche Entfernung hat die FIBA-Dreipunktlinie?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "6,75 m",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Distanz der FIBA-3-Punkte-Linie beträgt 6,75 m (Mitte Korb bis Außenkante Linie).",
@@ -769,10 +769,10 @@
         "id": "q35",
         "text": "Wann wird bei Schrittfehler das Standbein relevant?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Wenn der Spieler den Ball kontrolliert fängt und stoppt; das Standbein darf vor einem Dribbling nicht gelöst werden",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Wird das Standbein gehoben bevor der Ball zum Dribbling freigegeben ist, liegt Travelling vor.",
@@ -791,10 +791,10 @@
         "id": "q36",
         "text": "Wie viele Punkte zählt ein erfolgreicher Freiwurf?",
         "options": [
-          "Eine Lösung für 1",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "1",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein erfolgreicher Freiwurf zählt immer 1 Punkt.",
@@ -814,9 +814,9 @@
         "text": "Wann wird beim Einwurf ein Übertreten der Auslinie (Throw-in plane) geahndet?",
         "options": [
           "Wenn der Verteidiger die Auslinie übertritt, bevor der Ball im Spiel ist",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Verteidiger darf die senkrechte Ebene über der Auslinie nicht durchbrechen, bevor der Ball im Spiel ist (Verwarnung/TF).",
@@ -835,10 +835,10 @@
         "id": "q38",
         "text": "Wann ist eine Verteidigungsaktion legal nach dem Vertikalitätsprinzip?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn der Verteidiger vertikal hochspringt, ohne den Zylinder des Angreifers zu verletzen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Vertikal hochspringen innerhalb des eigenen Zylinders ist legal; Kontakt durch Hineinlehnen/Armschlagen ist illegal.",
@@ -857,10 +857,10 @@
         "id": "q39",
         "text": "Was passiert, wenn bei einem Freiwurf ein Verteidiger den Ball berührt, während er auf dem Ring liegt?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Der Punkt wird dem werfenden Team zugesprochen",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Korbbehinderung beim Freiwurf durch die Verteidigung führt zur Anerkennung des Punktes.",
@@ -901,10 +901,10 @@
         "id": "q41",
         "text": "Wann endet die Teamkontrolle?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn ein Feldwurf den Ring berührt oder die gegnerische Mannschaft Ballkontrolle erlangt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Teamkontrolle endet u. a. wenn ein Feldwurf den Ring berührt oder die Gegner Ballkontrolle erlangen; während eines Einwurfs besteht keine Teamkontrolle.",
@@ -923,10 +923,10 @@
         "id": "q42",
         "text": "Darf beim Einwurf in das Rückfeld gepasst werden, obwohl der Einwurf im Vorfeld erfolgt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ja, ein Einwurf darf ins Rückfeld gehen ohne Rückspielregel zu verletzen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Beim Einwurf gibt es noch keine Teamkontrolle auf dem Spielfeld, daher ist ein Pass ins Rückfeld legal.",
@@ -945,10 +945,10 @@
         "id": "q43",
         "text": "Wann liegt ein eng gedeckt (closely guarded) Verstoß vor?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn ein Spieler im Vorfeld den Ball hält und innerhalb von 1 m aktiv verteidigt wird und nicht passt, wirft oder dribbelt (5 Sekunden)",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die 5-Sekunden-Regel eng gedeckt gilt beim Halten des Balls im Vorfeld bei aktiver Verteidigung innerhalb von 1 m.",
@@ -967,10 +967,10 @@
         "id": "q44",
         "text": "Welche Handlung macht einen Screen (Blockstellen) legal?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Blocksteller muss stationär sein und, falls der Gegenspieler in Bewegung ist, ausreichenden Abstand gewähren",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein legaler Screen setzt rechtzeitige, stationäre Position und angemessenen Abstand gegen bewegte Gegner voraus.",
@@ -989,10 +989,10 @@
         "id": "q45",
         "text": "Wann darf ein Spieler, der von außerhalb zurückkehrt, den Ball berühren?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Erst nachdem er mit beiden Füßen wieder im Spielfeld steht",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Spieler, der aus war, muss wieder Inbounds mit beiden Füßen etablieren, bevor er den Ball berührt.",
@@ -1011,10 +1011,10 @@
         "id": "q46",
         "text": "Welche Aussage zur No-Charge-Halbrundzone ist korrekt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein verteidigender Spieler innerhalb der Zone kann gegen einen in den Korbbereich fahrenden, ballkontrollierenden Angreifer kein Offensivfoul (Charging) ziehen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "In der No-Charge-Zone kann der Verteidiger gegen einen ballkontrollierenden Angreifer, der zum Korb zieht, kein Offensivfoul erzwingen.",
@@ -1033,10 +1033,10 @@
         "id": "q47",
         "text": "Wann wird ein Ball, der den Ring berührt, wieder frei spielbar?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sobald der Ball den Ring berührt, darf er von beiden Teams gespielt werden (außer beim Freiwurf, wo Korbbehinderung zählt)",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach Ringberührung ist der Ball frei, außer bei Freiwürfen, wo Eingreifen Korbbehinderung sein kann.",
@@ -1055,10 +1055,10 @@
         "id": "q48",
         "text": "Wie viele Auszeiten sind in einer Verlängerung pro Team erlaubt?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Eine Lösung für 1",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "1",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Pro Verlängerung ist pro Team eine Auszeit erlaubt.",
@@ -1099,10 +1099,10 @@
         "id": "q50",
         "text": "Wie ist zu verfahren, wenn ein Spieler absichtlich am Ring hängen bleibt ohne Sicherheitsgrund?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Technisches Foul",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ohne Sicherheitsgrund am Ring hängen ist unsportliches Verhalten und wird als technisches Foul geahndet.",
@@ -1121,10 +1121,10 @@
         "id": "q51",
         "text": "Wie wird ein eigener Korb (ins eigene Team) gewertet?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "2 Punkte für den Gegner, angeschrieben auf den Kapitän auf dem Feld",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein eigener Korb zählt 2 Punkte für den Gegner und wird dem gegnerischen Kapitän auf dem Feld zugeschrieben.",
@@ -1143,10 +1143,10 @@
         "id": "q52",
         "text": "Wann darf ein Ersatzspieler ins Spiel kommen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Nur nach Anmeldung beim Anschreibetisch und bei einer Spielunterbrechung (Dead Ball)",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Einwechseln erfolgt nach Meldung am Tisch bei der nächsten Unterbrechung, sofern keine Einschränkungen vorliegen (z. B. nach Freiwürfen).",
@@ -1187,10 +1187,10 @@
         "id": "q54",
         "text": "Welche Aussage zum Schrittfehler ist korrekt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Das Standbein darf erst angehoben werden, wenn der Ball zum Dribbling freigegeben wurde",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das Standbein darf nicht angehoben werden, bevor der Ball das Dribbling eindeutig begonnen hat.",
@@ -1234,7 +1234,7 @@
           "Eine ähnliche Sporttechnik",
           "2 Freiwürfe und Einwurf an der Einwurflinie im Vorfeld (Shotclock 14)",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Unsportliches Foul: 2 Freiwürfe für den gefoulten Spieler und Einwurf der gefoulten Mannschaft an der Einwurflinie im Vorfeld (Shotclock i. d. R. 14s).",
@@ -1253,10 +1253,10 @@
         "id": "q57",
         "text": "Wann ist Goaltending beim Freiwurf gegeben?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn ein Spieler den Ball während des Fluges zum Korb oder auf dem Ring berührt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Während des Freiwurfs darf der Ball von keinem Spieler berührt werden, bis er den Ring berührt hat; Eingreifen ist Goaltending/Korbbehinderung.",
@@ -1275,10 +1275,10 @@
         "id": "q58",
         "text": "Welche Aussage zu Mannschaftsfouls ist richtig?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Nur Fouls mit Kontakt (persönlich/unsportlich/disqualifizierend) zählen als Mannschaftsfoul in einem Viertel",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Mannschaftsfouls sind kontaktbezogene Fouls der Spieler in einem Viertel oder einer Verlängerung; Regelreihenfolge beachten.",
@@ -1297,10 +1297,10 @@
         "id": "q59",
         "text": "Wann ist ein Halteball (Held ball) zu entscheiden?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn zwei Gegenspieler den Ball festhalten und keiner ohne übermäßige Härte Kontrolle erlangen kann",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei gleichzeitigem, festem Ballbesitz durch Gegner ohne Lösungsmöglichkeit wird Halteball gegeben (wechselnder Besitz).",
@@ -1319,10 +1319,10 @@
         "id": "q60",
         "text": "Welche Trikotnummern sind im FIBA-Spielbetrieb erlaubt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "0, 00 und 1–99",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Im FIBA-Spielbetrieb sind 0, 00 und 1–99 zulässig.",
@@ -1341,10 +1341,10 @@
         "id": "q61",
         "text": "Wann liegt ein Halten (Holding) Foul vor?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn ein Spieler den Gegner am Körper/Trikot festhält und den Bewegungsraum einschränkt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Halten ist das Festhalten eines Gegners mit den Händen/Armen/Körper, um Bewegung einzuschränken.",
@@ -1363,10 +1363,10 @@
         "id": "q62",
         "text": "Gilt ein Ball, der die Ringebene von unten nach oben durchquert, als Korb?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Nein, das ist eine Regelübertretung (Ball von unten)",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein von unten durch die Ringebene gespielter Ball zählt nicht und ist eine Regelübertretung.",
@@ -1385,10 +1385,10 @@
         "id": "q63",
         "text": "Wann darf der Einwerfer die Spielfläche betreten?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Erst nachdem er den Ball ins Spiel geworfen hat",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Einwerfer ist außerhalb; erst nach Abgabe des Einwurfs darf er wieder ins Feld.",
@@ -1407,10 +1407,10 @@
         "id": "q64",
         "text": "Wann ist ein Pass mit dem Fuß erlaubt?",
         "options": [
-          "Eine Lösung für nie",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "nie",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das absichtliche Spielen des Balls mit dem Bein/Fuß ist nicht erlaubt.",
@@ -1451,10 +1451,10 @@
         "id": "q66",
         "text": "Wann ist ein 'Carry' (unerlaubtes Ballhalten beim Dribbling) gegeben?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn der Dribbler den Ball unter Kontrolle mit der Hand unter den Ball bringt und dadurch trägt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Carry liegt vor, wenn die Hand unter den Ball gelangt und das Dribbling dadurch illegal unterbrochen wird.",
@@ -1473,10 +1473,10 @@
         "id": "q67",
         "text": "Wann beginnt die Spieluhr?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn der Ball bei Sprungball legal getippt wird oder der Einwerfer den Ball berührt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Spieluhr startet, wenn der Ball lebendig im Spiel ist: z. B. beim legalen Tipp des Sprungballs oder Berührung im Feld nach Einwurf.",
@@ -1495,10 +1495,10 @@
         "id": "q68",
         "text": "Welche Aussage zum Alternierenden Besitz (AP) ist korrekt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Pfeil wird nach dem ersten Einwurf im Spiel gesetzt und wechselt nach jeder AP-Fortsetzung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach dem Eröffnungssprung erhält das Team ohne Ballbesitz den Pfeil; jede AP-Fortsetzung wechselt den Pfeil.",
@@ -1517,10 +1517,10 @@
         "id": "q69",
         "text": "Welche Aussage zu Ausrüstungen ist richtig?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Schmuck ist verboten und muss abgelegt werden",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Gegenstände, die Verletzungen verursachen könnten (z. B. Schmuck), sind nicht erlaubt und müssen abgelegt werden.",
@@ -1539,10 +1539,10 @@
         "id": "q70",
         "text": "Wie lange dauert die Halbzeitpause?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "15 Minuten",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Halbzeitpause dauert 15 Minuten, sofern der Veranstalter nichts anderes festlegt.",
@@ -1561,10 +1561,10 @@
         "id": "q71",
         "text": "Wann wird bei einem Foul an einem erfolgreichen 2-Punkte-Wurf zusätzlich ein Freiwurf zugesprochen?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Wenn der Wurf trotz Foul erfolgreich ist (And-One)",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Bei erfolgreichem Wurf plus Foul erhält der Werfer einen zusätzlichen Freiwurf (And-One).",
@@ -1583,10 +1583,10 @@
         "id": "q72",
         "text": "Wann gilt ein Spieler als im Akt des Wurfes (AOW)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Von Beginn der kontinuierlichen Bewegungsrichtung zum Korb bis zur Rückkehr der Füße zum Boden",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der AOW umfasst die kontinuierliche Wurfbewegung bis zur Landung; relevant für Freiwurfentscheidungen.",
@@ -1605,10 +1605,10 @@
         "id": "q73",
         "text": "Wann wird eine Auszeit gewährt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Nur in Unterbrechungen und wenn die Spieluhr angehalten ist",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Auszeiten werden in Unterbrechungen gewährt; der Ball muss tot sein und die Uhr gestoppt.",
@@ -1649,10 +1649,10 @@
         "id": "q75",
         "text": "Was ist bei einer Rebound-Situation erlaubt?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Reboundkampf mit vertikaler Bewegung ohne illegalen Kontakt",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Beim Rebound gelten dieselben Kontaktprinzipien: legale Vertikalität, kein Halten/Schieben/Verhaken.",
@@ -1671,10 +1671,10 @@
         "id": "q76",
         "text": "Wann ist ein 'Eurostep' legal?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn die Schrittfolge entsprechend den Pivot-Regeln legal ist und kein illegaler Kontakt entsteht",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Eurostep ist als Schrittfolge legal, solange die Travelling-Regeln eingehalten und kein Foul begangen wird.",
@@ -1694,9 +1694,9 @@
         "text": "Was ist bei der Ausführung eines Freiwurfs verboten?",
         "options": [
           "Der Werfer darf vor Abgabe über die Linie treten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beim Freiwurf darf die Freiwurflinie erst nach Freigabe des Balls übertreten werden; Täuschungen ohne Abgabe sind verboten.",
@@ -1715,10 +1715,10 @@
         "id": "q78",
         "text": "Welche Aussage zur Mittellinie ist korrekt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sie gehört zum Rückfeld",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Mittellinie gehört zum Rückfeld; relevant für 8-Sekunden- und Rückspielregeln.",
@@ -1737,10 +1737,10 @@
         "id": "q79",
         "text": "Wann ist ein Kontakt beim Durchbrechen eines Screens ein Foul des Verteidigers?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn der Verteidiger den Blocksteller schiebt oder hält, um hindurchzukommen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Halten/Schieben, um einen Screen zu durchbrechen, ist illegal.",
@@ -1759,10 +1759,10 @@
         "id": "q80",
         "text": "Was passiert, wenn ein Spieler während eines Dribblings den Ball mit beiden Händen gleichzeitig berührt und dann weiterdribbelt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Doppeldribbling",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das gleichzeitige Berühren mit beiden Händen beendet das Dribbling; erneutes Dribbeln ist Doppeldribbling.",
@@ -1781,10 +1781,10 @@
         "id": "q81",
         "text": "Welche Aussage zu 'Point of Interruption' (POI) ist korrekt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Nach technischen und Doppelfouls wird i. d. R. am Punkt der Unterbrechung fortgesetzt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "POI sieht Fortsetzung am Unterbrechungsort vor, z. B. nach technischen Fouls und Doppelfoul.",
@@ -1806,7 +1806,7 @@
           "Eine ähnliche Sporttechnik",
           "Wenn ein Verteidiger in der Transition den Gegner ohne legitimen Ballspielversuch foult (z. B. Griff von hinten)",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "C3-Kriterium: Foul ohne legitimen Ballspielversuch, um schnellen Angriff zu stoppen, ist unsportlich.",
@@ -1828,7 +1828,7 @@
           "Eine ähnliche Sporttechnik",
           "Wenn er die Linie betritt, bevor der Ball den Ring berührt",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Werfer darf die Freiwurflinie/Zone erst betreten, nachdem der Ball den Ring berührt hat.",
@@ -1847,10 +1847,10 @@
         "id": "q84",
         "text": "Welche Aussage zu Teamkontrolle beim Einwurf ist richtig?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Während des Einwurfs besteht keine Teamkontrolle auf dem Spielfeld",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Während des Einwurfs gibt es keine Teamkontrolle auf dem Spielfeld, bis der Ball legal im Feld berührt wird.",
@@ -1869,10 +1869,10 @@
         "id": "q85",
         "text": "Wann zählt ein 3-Punkte-Wurf nicht als 3 Punkte?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn der Schütze zum Zeitpunkt des Abwurfs die Linie berührt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Berührt der Schütze beim Abwurf die 3-Punkte-Linie, ist es ein 2-Punkte-Wurf.",
@@ -1891,10 +1891,10 @@
         "id": "q86",
         "text": "Welche Aussage zu Ausball ist richtig?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Ball ist aus, wenn er einen außerhalb befindlichen Gegenstand/Person berührt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Berührt der Ball eine Person/Gegenstand im Aus (inkl. Schiedsrichter), ist er aus.",
@@ -1913,10 +1913,10 @@
         "id": "q87",
         "text": "Welche Aussage zur Spielzeitunterbrechung ist korrekt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die Uhr stoppt bei Pfiff, Korberfolg in den letzten 2 Minuten und bei Auszeit",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Spieluhr stoppt u. a. bei Pfiff, bei Korberfolg in der letzten 2 Minuten des 4. Viertels/OT und bei Auszeiten (wettbewerbsabhängig).",
@@ -1936,9 +1936,9 @@
         "text": "Welche Aussage zum 'Held Ball' gegen den Ringhalter ist richtig?",
         "options": [
           "Wenn der Ball zwischen Ring und Brett klemmt, gibt es Halteball",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Klemmt der Ball zwischen Ring und Brett, ist das eine Halteballsituation (AP-Fortsetzung).",
@@ -1957,10 +1957,10 @@
         "id": "q89",
         "text": "Was ist ein Offensivfoul (Charging)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn der Angreifer in einen legal positionierten Verteidiger läuft",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Charging liegt vor, wenn der Angreifer in einen rechtzeitig, legal positionierten Verteidiger läuft.",
@@ -1982,7 +1982,7 @@
           "Eine ähnliche Sporttechnik",
           "Sie beginnt, wenn ein Spieler des Teams im Rückfeld Ballkontrolle erlangt und endet, wenn Ball/Spieler Vorfeld etablieren",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die 8-Sekunden-Regel startet mit Ballkontrolle im Rückfeld und endet mit Vorfeldetablierung (Ball und beide Füße eines ballkontrollierenden Spielers).",
@@ -2001,10 +2001,10 @@
         "id": "q91",
         "text": "Was ist bei der Schussbewegung nach Foul zu beachten (Kontinuierliche Bewegung)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wird der Foulkontakt nach Beginn der kontinuierlichen Bewegung zum Korb verursacht, gilt AOW und es können Freiwürfe zugesprochen werden",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach Beginn der kontinuierlichen Wurfbewegung liegt AOW vor; relevante Konsequenzen bei Foulentscheidung.",
@@ -2026,7 +2026,7 @@
           "C2 betrifft harte, übermäßige Kontakte",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "C2 steht für übermäßigen, harten Kontakt, der nichts mit normalem Basketball zu tun hat.",
@@ -2045,10 +2045,10 @@
         "id": "q93",
         "text": "Wann ist ein 'Illegal dribble' gegeben?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn der Spieler beim Dribbling die Hand unter den Ball bringt oder stoppt und wieder beginnt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Illegales Dribbling umfasst Tragen/Anhalten und erneutes Beginnen (Doppeldribbling).",
@@ -2067,10 +2067,10 @@
         "id": "q94",
         "text": "Welche Aussage zur Teamfoulgrenze ist korrekt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ab dem 5. Foul im Viertel gibt es für nicht-wurfbedingte Defensivfouls 2 Freiwürfe",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ab dem 5. Teamfoul pro Viertel setzt die Penalty ein.",
@@ -2089,10 +2089,10 @@
         "id": "q95",
         "text": "Wann ist 'Ball von unten' gegeben?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn der Ball von unten die Ringebene durchquert",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das Spielen des Balls von unten durch die Ringebene ist eine Regelübertretung.",
@@ -2136,7 +2136,7 @@
           "Eine ähnliche Sporttechnik",
           "Sie wird ausgesetzt, wenn ein Dribbler eine unmittelbare Angriffsaktion zum Korb unternimmt",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei unmittelbarer Angriffsaktion (Drive) wird die 3-Sekunden-Regel situativ gelockert (Toleranz).",
@@ -2177,10 +2177,10 @@
         "id": "q99",
         "text": "Wann beginnt die kontinuierliche Wurfbewegung?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn der Spieler die Bewegung zum Korb in einem fließenden Ablauf beginnt, der unmittelbar zum Abwurf führt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die kontinuierliche Wurfbewegung beginnt mit der fließenden, ununterbrochenen Bewegung zum Korb, die direkt zum Wurf führt.",
@@ -2199,10 +2199,10 @@
         "id": "q100",
         "text": "Welche Aussage zur Spielwiederaufnahme nach einer verwaltungsbedingten Unterbrechung (z. B. Uhr) ist korrekt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Fortsetzung am Punkt der Unterbrechung (POI)",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach administrativen Unterbrechungen wird am Punkt der Unterbrechung fortgesetzt (POI).",
@@ -2222,9 +2222,9 @@
         "text": "Wie viele Auszeiten darf ein Team pro Halbzeit maximal nehmen?",
         "options": [
           "2 Auszeiten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Pro Halbzeit sind maximal 2 Auszeiten erlaubt, wobei nur eine davon in den letzten 2 Minuten genommen werden darf.",
@@ -2244,9 +2244,9 @@
         "text": "Wann ist das Tragen von Schmuck während des Spiels erlaubt?",
         "options": [
           "Niemals",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das Tragen von Schmuck jeder Art ist während des Spiels verboten, auch religiöser oder medizinischer Schmuck.",
@@ -2265,10 +2265,10 @@
         "id": "q103",
         "text": "Was passiert, wenn ein Coach während des Spiels das Spielfeld betritt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Technisches Foul",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das unerlaubte Betreten des Spielfelds durch den Coach führt zu einem technischen Foul.",
@@ -2290,7 +2290,7 @@
           "Eine ähnliche Sporttechnik",
           "3,05 m",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Basketball-Korb hängt 3,05 Meter über dem Spielfeldboden.",
@@ -2310,9 +2310,9 @@
         "text": "Wann wird eine Mannschaft wegen Spielverweigerung disqualifiziert?",
         "options": [
           "Nach 15 Minuten nicht antreten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Eine Mannschaft wird disqualifiziert, wenn sie 15 Minuten nach der angesetzten Spielzeit nicht spielbereit antritt.",
@@ -2331,10 +2331,10 @@
         "id": "q106",
         "text": "Welche Ballgröße wird im Herren-Basketball verwendet?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Größe 7",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Im Herren-Basketball wird ein Ball der Größe 7 verwendet (Umfang 75-78 cm, Gewicht 567-650 g).",
@@ -2353,10 +2353,10 @@
         "id": "q107",
         "text": "Wann ist ein 'Clear-Out' Foul gegeben?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn ein Angreifer den Verteidiger mit dem Arm wegdrückt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Clear-Out Foul liegt vor, wenn der ballführende Spieler den Verteidiger mit Arm oder Hand wegdrückt.",
@@ -2375,10 +2375,10 @@
         "id": "q108",
         "text": "Wie lange dauert die Pause zwischen den Vierteln?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "2 Minuten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Pause zwischen dem 1./2. und 3./4. Viertel beträgt jeweils 2 Minuten.",
@@ -2400,7 +2400,7 @@
           "Eine ähnliche Sporttechnik",
           "2 Freiwürfe + Disqualifikation + Ballbesitz",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein disqualifizierendes Foul führt zu 2 Freiwürfen, Disqualifikation des Spielers und Ballbesitz für die gegnerische Mannschaft.",
@@ -2419,10 +2419,10 @@
         "id": "q110",
         "text": "Welcher Abstand muss beim Einwurf von Verteidigern eingehalten werden?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Eine Lösung für 1 m",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "1 m",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Verteidiger müssen beim Einwurf mindestens 1 Meter Abstand zum Einwerfer halten.",
@@ -2441,10 +2441,10 @@
         "id": "q111",
         "text": "Wann kann ein Spiel wegen widriger Umstände abgebrochen werden?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Bei Sicherheitsrisiken oder technischen Problemen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Spiel kann bei Sicherheitsrisiken, schwerwiegenden technischen Problemen oder anderen außergewöhnlichen Umständen abgebrochen werden.",
@@ -2486,9 +2486,9 @@
         "text": "Was ist ein 'Traveling' (Schrittfehler)?",
         "options": [
           "Mehr als 2 Schritte mit dem Ball ohne zu dribbeln",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Traveling ist illegale Fortbewegung mit dem Ball. Nach dem Aufnehmen des Balls sind maximal 2 Schritte ohne Dribbling erlaubt, danach muss gepasst oder geworfen werden.",
@@ -2509,9 +2509,9 @@
         "text": "Was ist 'Goaltending'?",
         "options": [
           "Illegale Beeinflussung des Balls im Abwärtstrend zum Korb",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Goaltending liegt vor, wenn ein Spieler den Ball berührt während er sich im Abwärtstrend zum Korb befindet und eine Chance hat, in den Korb zu gehen. Das Tor wird als erzielt gewertet.",
@@ -2532,9 +2532,9 @@
         "text": "Was ist 'Basket Interference'?",
         "options": [
           "Berühren von Korb oder Brett während der Ball am/im Korb ist",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Basket Interference ist die illegale Berührung des Korbs, Bretts oder Balls während der Ball am Ring ist oder im Korbzylinder. Dies wird wie Goaltending behandelt.",
@@ -2555,9 +2555,9 @@
         "text": "Was ist ein 'Jump Ball' (Sprungball)?",
         "options": [
           "Hochwerfen des Balls zwischen zwei Gegnern zur Spieleröffnung",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Jump Ball wird zu Spielbeginn und bei bestimmten Spielsituationen (z.B. Held Ball) durchgeführt. Der Schiedsrichter wirft den Ball zwischen zwei Gegnern hoch.",
@@ -2580,7 +2580,7 @@
           "Ein Angreifer darf nicht länger als 3 Sekunden in der gegnerischen Zone bleiben",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Angriffsspieler darf sich nicht länger als 3 aufeinanderfolgende Sekunden in der gegnerischen Zone (Paint) aufhalten, während sein Team Ballkontrolle im Vorfeld hat.",
@@ -2601,9 +2601,9 @@
         "text": "Was ist ein 'Held Ball'?",
         "options": [
           "Zwei oder mehr Gegner halten den Ball fest gleichzeitig",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Held Ball liegt vor, wenn zwei oder mehr gegnerische Spieler den Ball so fest halten, dass keiner ihn erlangen kann ohne übermäßige Härte. Es folgt ein Wechselballbesitz.",
@@ -2624,9 +2624,9 @@
         "text": "Was ist ein 'Backcourt Violation'?",
         "options": [
           "Ball wird ins Rückfeld zurückgespielt nachdem er im Vorfeld war",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Backcourt Violation: Nachdem ein Team Ballkontrolle im Vorfeld erlangt hat, darf der Ball nicht mehr ins Rückfeld zurückgespielt werden. Ballverlust für die Offense.",
@@ -2647,9 +2647,9 @@
         "text": "Wie hoch ist der Basketball-Korb?",
         "options": [
           "3,05 Meter (10 Fuß)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Oberkante des Korbrings befindet sich exakt 3,05 Meter (10 Fuß) über dem Spielfeld. Dies ist eine der grundlegenden Standardmaße im Basketball.",

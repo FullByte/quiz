@@ -69,10 +69,10 @@
         "id": "q3",
         "text": "Welche Forderungen bleiben bei der Wertberechnung unberücksichtigt, wenn sie Nebenforderungen sind?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Früchte, Nutzungen, Zinsen und Kosten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nebenforderungen wie Früchte, Nutzungen, Zinsen und Kosten werden nicht berücksichtigt (§ 4 Abs. 1 ZPO).",
@@ -91,10 +91,10 @@
         "id": "q4",
         "text": "Wie wird der allgemeine Gerichtsstand einer natürlichen Person bestimmt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Durch ihren Wohnsitz",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der allgemeine Gerichtsstand richtet sich nach dem Wohnsitz (§ 13 ZPO).",
@@ -113,10 +113,10 @@
         "id": "q5",
         "text": "Welches Gericht ist für Klagen über Ansprüche aus Miet- oder Pachtverhältnissen über Räume zuständig?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Das Gericht, in dessen Bezirk sich die Räume befinden",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Bei Streitigkeiten über Miet- oder Pachtverhältnisse über Räume ist ausschließlich das Gericht zuständig, in dessen Bezirk sich die Räume befinden (§ 29a ZPO).",
@@ -157,10 +157,10 @@
         "id": "q7",
         "text": "Wann liegt notwendige Streitgenossenschaft vor?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Wenn das streitige Rechtsverhältnis nur einheitlich festgestellt werden kann",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Eine notwendige Streitgenossenschaft besteht, wenn das Rechtsverhältnis nur einheitlich festgestellt werden kann (§ 62 ZPO).",
@@ -179,10 +179,10 @@
         "id": "q8",
         "text": "Wer muss sich vor dem Bundesgerichtshof in Zivilsachen vertreten lassen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Jede Partei durch einen beim BGH zugelassenen Anwalt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Vor dem BGH besteht Anwaltszwang; nur beim BGH zugelassene Anwälte dürfen auftreten (§ 78 ZPO).",
@@ -202,9 +202,9 @@
         "text": "Was ist Prozesskostenhilfe?",
         "options": [
           "Eine staatliche Hilfe zur Begleichung von Gerichtskosten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Prozesskostenhilfe wird gewährt, wenn eine Partei nach ihren Verhältnissen die Kosten nicht tragen kann, aber die Rechtsverfolgung Aussicht auf Erfolg hat (§ 114 ZPO).",
@@ -223,10 +223,10 @@
         "id": "q10",
         "text": "Welche Frist gilt für die Beantragung einer Wiedereinsetzung in den vorigen Stand bei Versäumung einer Notfrist?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Zwei Wochen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Wiedereinsetzung muss innerhalb von zwei Wochen beantragt werden (§ 234 ZPO).",
@@ -245,10 +245,10 @@
         "id": "q11",
         "text": "Was bewirkt die Erhebung der Klage?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sie begründet die Rechtshängigkeit",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Mit Erhebung der Klage tritt Rechtshängigkeit ein (§ 261 ZPO).",
@@ -267,10 +267,10 @@
         "id": "q12",
         "text": "Wie lange beträgt die Berufungsfrist nach Zustellung eines Urteils?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Ein Monat",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Berufungsfrist beträgt einen Monat (§ 517 ZPO).",
@@ -289,10 +289,10 @@
         "id": "q13",
         "text": "Was ist Voraussetzung für eine Revision?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sie muss vom Berufungsgericht oder Revisionsgericht zugelassen werden",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Revisionen sind nur zulässig, wenn sie zugelassen werden (§ 543 ZPO).",
@@ -333,10 +333,10 @@
         "id": "q15",
         "text": "Welche Wirkung hat ein gerichtliches Geständnis?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Es ersetzt die Beweisaufnahme",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein gerichtliches Geständnis macht eine Beweisaufnahme über die gestandenen Tatsachen entbehrlich (§ 288 ZPO).",
@@ -355,9 +355,9 @@
         "id": "q16",
         "text": "Welche Klage ermöglicht es, wegen wiederkehrender Leistungen auch zukünftige Forderungen geltend zu machen?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren",
           "Klage auf wiederkehrende Leistungen"
         ],
         "correctIndex": 3,
@@ -377,10 +377,10 @@
         "id": "q17",
         "text": "Welche Wirkung hat ein Anerkenntnis im Prozess?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Es führt zur sofortigen Verurteilung der Partei",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Erkennt eine Partei den Anspruch an, ergeht ein Anerkenntnisurteil (§ 307 ZPO).",
@@ -399,10 +399,10 @@
         "id": "q18",
         "text": "Welche Klageart dient der Abänderung von Urteilen über wiederkehrende Leistungen bei geänderten Verhältnissen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Abänderungsklage",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Abänderungsklage nach § 323 ZPO ermöglicht Anpassungen bei veränderten Umständen.",
@@ -466,9 +466,9 @@
         "text": "Wodurch wird der allgemeine Gerichtsstand einer Person bestimmt?",
         "options": [
           "Durch den Wohnsitz der Person",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der allgemeine Gerichtsstand wird durch den Wohnsitz bestimmt (§ 13 ZPO). Aufenthaltsort, Schadensort und Gerichtssitz sind hierfür nicht maßgeblich.",
@@ -489,9 +489,9 @@
         "text": "Welches Gericht ist grundsätzlich für alle Klagen gegen eine Person zuständig, sofern kein ausschließlicher Gerichtsstand besteht?",
         "options": [
           "Das Gericht ihres allgemeinen Gerichtsstands",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach § 12 ZPO ist das Gericht des allgemeinen Gerichtsstands zuständig, sofern kein ausschließlicher Gerichtsstand greift. Besondere Gerichtsstände wie der Deliktsgerichtsstand treten daneben nur, wenn einschlägig.",
@@ -512,9 +512,9 @@
         "text": "Welcher besondere Gerichtsstand ist für Klagen aus unerlaubten Handlungen vorgesehen?",
         "options": [
           "Das Gericht, in dessen Bezirk die Handlung begangen ist",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "§ 32 ZPO ordnet den Deliktsgerichtsstand am Handlungsort an. Andere Orte sind hierfür nicht maßgeblich.",
@@ -581,9 +581,9 @@
         "text": "Wer trägt die Prozesskosten, wenn der Beklagte den Anspruch sofort anerkennt und keinen Anlass zur Klage gegeben hat?",
         "options": [
           "Der Kläger",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach § 93 ZPO fallen dem Kläger die Kosten zur Last, wenn der Beklagte keinen Anlass zur Klage gegeben und sofort anerkannt hat.",
@@ -604,9 +604,9 @@
         "text": "Wann kann die mündliche Verhandlung als Videoverhandlung stattfinden?",
         "options": [
           "In geeigneten Fällen und bei ausreichenden Kapazitäten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "§ 128a Abs. 1 ZPO erlaubt die Videoverhandlung in geeigneten Fällen und bei vorhandenen Kapazitäten. Ein beiderseitiger Antrag oder Ausnahmelagen sind nicht Voraussetzung.",

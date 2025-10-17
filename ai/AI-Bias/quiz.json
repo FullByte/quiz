@@ -72,9 +72,9 @@
         "text": "Was ist 'Historical Bias'?",
         "options": [
           "Vorurteile aus vergangenen gesellschaftlichen Diskriminierungen, die in Daten kodiert sind",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Historical Bias bezieht sich auf gesellschaftliche Vorurteile und Diskriminierungen aus der Vergangenheit, die in historischen Daten enthalten sind und somit in ML-Modelle übernommen werden. Beispiel: Geschlechterungleichheit in historischen Einstellungsdaten.",
@@ -95,9 +95,9 @@
         "text": "Was bedeutet 'Algorithmic Bias'?",
         "options": [
           "Verzerrungen die durch die Wahl des Algorithmus oder seiner Parameter entstehen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Algorithmic Bias entsteht durch die Wahl und Konfiguration des ML-Algorithmus selbst. Unterschiedliche Algorithmen können unterschiedliche Verzerrungen aufweisen, selbst bei identischen Trainingsdaten.",
@@ -118,9 +118,9 @@
         "text": "Was ist 'Measurement Bias'?",
         "options": [
           "Systematische Fehler bei der Erfassung oder Definition von Merkmalen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Measurement Bias tritt auf, wenn die gemessenen Features systematisch verzerrt sind oder nicht das messen, was sie messen sollen. Beispiel: Kreditwürdigkeit anhand des Wohnorts zu bewerten, was indirekt sozioökonomischen Status und Ethnizität kodieren kann.",
@@ -141,9 +141,9 @@
         "text": "Was versteht man unter 'Representation Bias'?",
         "options": [
           "Unterrepräsentation bestimmter Gruppen in den Trainingsdaten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Representation Bias entsteht, wenn bestimmte Gruppen in den Trainingsdaten unterrepräsentiert sind. Dies führt dazu, dass das Modell für diese Gruppen schlechter funktioniert.",
@@ -164,9 +164,9 @@
         "text": "Was ist 'Automation Bias'?",
         "options": [
           "Die Tendenz von Menschen, automatisierten Entscheidungen übermäßig zu vertrauen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Automation Bias ist die menschliche Neigung, den Ergebnissen automatisierter Systeme zu vertrauen, auch wenn diese falsch sein könnten. Dies kann dazu führen, dass fehlerhafte oder biased KI-Entscheidungen nicht hinterfragt werden.",
@@ -210,9 +210,9 @@
         "text": "Was ist 'Demographic Parity'?",
         "options": [
           "Die Forderung, dass positive Entscheidungen für alle demografischen Gruppen gleich häufig getroffen werden",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Demographic Parity (statistische Parität) fordert, dass die Rate positiver Vorhersagen für alle demografischen Gruppen gleich ist. Beispiel: Ein Kredit-Algorithmus sollte alle Ethnien mit gleicher Wahrscheinlichkeit genehmigen.",
@@ -233,9 +233,9 @@
         "text": "Was bedeutet 'Equal Opportunity'?",
         "options": [
           "Gleiche True Positive Rates für alle Gruppen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Equal Opportunity fordert, dass qualifizierte Kandidaten aus allen Gruppen mit gleicher Wahrscheinlichkeit korrekt als qualifiziert erkannt werden (gleiche True Positive Rate). Dies ist besonders wichtig für Entscheidungen wie Kreditvergabe oder Einstellungen.",
@@ -256,9 +256,9 @@
         "text": "Was ist 'Equalized Odds'?",
         "options": [
           "Gleiche True Positive und False Positive Rates über alle Gruppen hinweg",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Equalized Odds ist eine strengere Fairness-Metrik als Equal Opportunity. Sie fordert, dass sowohl True Positive als auch False Positive Rates für alle Gruppen gleich sind.",
@@ -279,9 +279,9 @@
         "text": "Was sind 'Protected Attributes'?",
         "options": [
           "Sensible Merkmale wie Geschlecht, Ethnizität oder Alter, die nicht zur Diskriminierung führen dürfen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Protected Attributes sind sensible Merkmale, bei denen Diskriminierung gesetzlich verboten oder ethisch problematisch ist. Dazu gehören typischerweise Geschlecht, Ethnizität, Religion, Alter, sexuelle Orientierung oder Behinderung.",
@@ -302,9 +302,9 @@
         "text": "Was ist 'Proxy Discrimination'?",
         "options": [
           "Indirekte Diskriminierung durch scheinbar neutrale Features, die mit protected attributes korrelieren",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Proxy Discrimination tritt auf, wenn scheinbar neutrale Features (wie Postleitzahl) stark mit protected attributes (wie Ethnizität) korrelieren und somit zu indirekter Diskriminierung führen, selbst wenn die protected attributes nicht direkt verwendet werden.",
@@ -325,9 +325,9 @@
         "text": "Was ist 'Disparate Impact'?",
         "options": [
           "Unverhältnismäßig negative Auswirkungen auf bestimmte Gruppen, auch ohne diskriminierende Absicht",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Disparate Impact bezeichnet die Situation, wenn eine scheinbar neutrale Praxis unverhältnismäßig negative Auswirkungen auf eine geschützte Gruppe hat, unabhängig von der Absicht. Dies ist in vielen Rechtsordnungen eine Form illegaler Diskriminierung.",
@@ -348,9 +348,9 @@
         "text": "Was ist 'Intersectionality' im Kontext von Bias?",
         "options": [
           "Überschneidung mehrerer Diskriminierungsmerkmale, die zu verstärktem Bias führen kann",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Intersectionality beschreibt, dass Menschen oft mehreren Gruppen angehören (z.B. schwarze Frauen) und dass sich verschiedene Formen von Diskriminierung überschneiden und verstärken können. ML-Systeme müssen diese intersektionalen Effekte berücksichtigen.",
@@ -394,9 +394,9 @@
         "text": "Was sind 'Pre-processing' Methoden zur Bias-Mitigation?",
         "options": [
           "Anpassung der Trainingsdaten vor dem Training, um Bias zu reduzieren",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Pre-processing Methoden modifizieren die Trainingsdaten vor dem Training, z.B. durch Reweighting, Resampling oder Transformation, um Bias in den Daten zu reduzieren. Beispiel: Ausbalancieren unterrepräsentierter Gruppen.",
@@ -417,9 +417,9 @@
         "text": "Was sind 'In-processing' Methoden zur Bias-Mitigation?",
         "options": [
           "Anpassung des Lernalgorithmus selbst, um Fairness-Constraints zu berücksichtigen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "In-processing Methoden modifizieren den Lernalgorithmus oder die Zielfunktion direkt, um Fairness-Kriterien während des Trainings zu berücksichtigen. Beispiel: Hinzufügen von Fairness-Regularisierungstermen zur Loss-Function.",
@@ -440,9 +440,9 @@
         "text": "Was sind 'Post-processing' Methoden zur Bias-Mitigation?",
         "options": [
           "Anpassung der Modellvorhersagen nach dem Training, um Fairness zu verbessern",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Post-processing Methoden justieren die Vorhersagen eines bereits trainierten Modells, um Fairness-Kriterien zu erfüllen. Beispiel: Anpassung der Entscheidungsschwelle für verschiedene Gruppen.",
@@ -463,9 +463,9 @@
         "text": "Was ist 'COMPAS' und warum ist es ein bekanntes Beispiel für algorithmischen Bias?",
         "options": [
           "Ein Rückfall-Vorhersage-Tool, das afroamerikanische Angeklagte diskriminiert",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "COMPAS ist ein Algorithmus zur Vorhersage von Rückfallrisiken in der Strafjustiz. Untersuchungen zeigten, dass er afroamerikanische Angeklagte systematisch als risikoreicherer einstufte als weiße Angeklagte mit vergleichbarer Vorgeschichte.",
@@ -509,9 +509,9 @@
         "text": "Was ist das Problem mit Gesichtserkennungssystemen und Bias?",
         "options": [
           "Sie haben oft höhere Fehlerraten bei Frauen und People of Color",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Studien haben gezeigt, dass kommerzielle Gesichtserkennungssysteme signifikant höhere Fehlerraten bei Frauen, insbesondere dunkelhäutigen Frauen, aufweisen. Dies liegt an unausgewogenen Trainingsdaten, die überwiegend weiße, männliche Gesichter enthalten.",
@@ -532,9 +532,9 @@
         "text": "Was versteht man unter 'Feedback Loops' im Kontext von Bias?",
         "options": [
           "Sich selbst verstärkende Zyklen, in denen biased Vorhersagen zu biased Daten führen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Feedback Loops entstehen, wenn biased Vorhersagen die Realität beeinflussen und zu neuen biased Daten führen, die den Bias weiter verstärken. Beispiel: Policing-Algorithmen, die mehr Polizei in bestimmte Viertel schicken, was zu mehr Verhaftungen führt, was den Algorithmus bestätigt.",
@@ -555,9 +555,9 @@
         "text": "Was ist 'Label Bias'?",
         "options": [
           "Verzerrungen in den Zielvar iablen/Labels der Trainingsdaten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Label Bias entsteht, wenn die Labels (Zielvariablen) selbst verzerrt sind. Beispiel: Historische Kreditentscheidungen könnten diskriminierend gewesen sein, und ein darauf trainiertes Modell lernt diese Diskriminierung.",
@@ -647,9 +647,9 @@
         "text": "Was ist 'Adversarial Debiasing'?",
         "options": [
           "Eine Technik, die adversarial training nutzt, um protected attributes aus Repräsentationen zu entfernen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Adversarial Debiasing verwendet ein adversarial setup: Ein Hauptmodell macht Vorhersagen, während ein adversarial Modell versucht, protected attributes aus den Repräsentationen zu erraten. Das Hauptmodell lernt, Repräsentationen zu erzeugen, die für den Adversary nicht nutzbar sind.",
@@ -739,9 +739,9 @@
         "text": "Welche Rolle spielen 'Audits' bei der Bias-Erkennung?",
         "options": [
           "Systematische Überprüfungen von KI-Systemen auf Bias und diskriminierende Auswirkungen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Audits sind systematische Untersuchungen von KI-Systemen, um Bias zu identifizieren und zu quantifizieren. Sie können intern oder durch unabhängige Dritte durchgeführt werden und sind wichtig für Transparenz und Accountability.",
@@ -808,9 +808,9 @@
         "text": "Was sind 'Synthetic Data' und wie können sie bei Bias helfen?",
         "options": [
           "Künstlich generierte Daten, die unterrepräsentierte Gruppen ausbalancieren können",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Synthetic Data sind künstlich generierte Datenpunkte, die verwendet werden können, um unterrepräsentierte Gruppen in Trainingsdaten zu ergänzen. Dies muss sorgfältig erfolgen, um keine neuen Verzerrungen einzuführen.",
@@ -831,9 +831,9 @@
         "text": "Was ist 'Data Augmentation' im Kontext von Bias-Mitigation?",
         "options": [
           "Erweiterung des Datensatzes durch Transformationen, insbesondere für unterrepräsentierte Gruppen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Data Augmentation erweitert Trainingsdaten durch Transformationen (z.B. Rotation, Skalierung bei Bildern). Im Fairness-Kontext kann dies gezielt für unterrepräsentierte Gruppen eingesetzt werden, um Representation Bias zu reduzieren.",
@@ -854,9 +854,9 @@
         "text": "Was bedeutet 'Reweighting' als Bias-Mitigation-Technik?",
         "options": [
           "Anpassung der Gewichte von Trainingsbeispielen, um Gruppen auszubalancieren",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Reweighting gibt unterrepräsentierten oder benachteiligten Gruppen höhere Gewichte im Training, sodass Fehler auf diesen Gruppen stärker bestraft werden. Dies ist eine einfache Pre-processing-Technik zur Bias-Reduktion.",
@@ -900,9 +900,9 @@
         "text": "Welche Rolle spielt 'Documentation' bei der Bias-Vermeidung?",
         "options": [
           "Transparente Dokumentation von Daten, Modellen und Entscheidungen ist essentiell für Accountability",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Umfassende Dokumentation (z.B. Datasheets for Datasets, Model Cards) macht Annahmen, Limitationen und potenzielle Bias transparent. Dies ermöglicht informierte Nutzung und erleichtert Audits.",

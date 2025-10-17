@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Tool nur für OpenAI GPT-Modelle",
           "Eine integrierte Plattform für die Entwicklung und Bereitstellung von KI-Anwendungen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Azure Service für traditionelle Business Intelligence",
+          "Eine lokale Entwicklungsumgebung ohne Cloud-Integration"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Foundry ist eine integrierte Plattform, die Entwicklern und Unternehmen dabei hilft, KI-Anwendungen zu entwickeln, zu testen und bereitzustellen.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Hauptkomponenten gehören zu Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Azure Cognitive Services, Azure Machine Learning und Azure Databricks",
           "Azure OpenAI Service, Azure AI Studio und Copilot Studio",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Azure Functions, Azure Logic Apps und Azure Event Grid",
+          "Azure Storage, Azure SQL Database und Azure Cosmos DB"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Foundry umfasst Azure OpenAI Service, Azure AI Studio und Copilot Studio als Hauptkomponenten für eine vollständige KI-Entwicklungsplattform.",
@@ -71,10 +71,10 @@
         "id": "q3",
         "text": "Was ist der Azure OpenAI Service?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein kostenloser Service ohne Nutzungslimits",
           "Ein Service für die Integration von OpenAI-Modellen in Azure",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein lokaler Service ohne Internetverbindung",
+          "Ein Service nur für Textgenerierung ohne Multimodalität"
         ],
         "correctIndex": 1,
         "explanation": "Azure OpenAI Service ermöglicht die sichere Integration und Nutzung von OpenAI-Modellen wie GPT und DALL-E innerhalb der Azure-Cloud-Infrastruktur.",
@@ -94,10 +94,10 @@
         "id": "q4",
         "text": "Welche Funktion hat Azure AI Studio?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Service für traditionelle Datenbankabfragen",
           "Eine benutzerfreundliche Oberfläche für KI-Entwicklung und -experimentierung",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Funktion für Systemoptimierung",
+          "Ein Google Cloud Machine Learning Service"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Studio bietet eine intuitive Benutzeroberfläche für die Entwicklung, das Experimentieren und das Management von KI-Anwendungen ohne umfangreiche Programmierkenntnisse.",
@@ -117,10 +117,10 @@
         "id": "q5",
         "text": "Was ist Copilot Studio?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Visual Studio Code Plugin",
           "Eine Plattform zur Erstellung von benutzerdefinierten KI-Copilots",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine Azure Data Factory Komponente",
+          "Ein Microsoft Teams Add-on"
         ],
         "correctIndex": 1,
         "explanation": "Copilot Studio ermöglicht es Benutzern, ohne Programmierkenntnisse benutzerdefinierte KI-Copilots zu erstellen und zu konfigurieren.",
@@ -140,10 +140,10 @@
         "id": "q6",
         "text": "Welche Sicherheitsfeatures bietet Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Enterprise-Sicherheit, Compliance und Datenhoheit",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Foundry bietet umfassende Enterprise-Sicherheitsfeatures, Compliance-Standards und gewährleistet Datenhoheit für Unternehmen.",
@@ -163,10 +163,10 @@
         "id": "q7",
         "text": "Welche Art von KI-Modellen kann in Azure AI Foundry verwendet werden?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
-          "Eine ähnliche Azure-Service",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
+          "Eine Windows-Anwendung für Office-Integration",
           "Verschiedene KI-Modelle einschließlich OpenAI, Microsoft und benutzerdefinierte Modelle",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 2,
         "explanation": "Azure AI Foundry unterstützt eine Vielzahl von KI-Modellen, einschließlich OpenAI-Modelle, Microsoft-eigene Modelle und benutzerdefinierte Modelle.",
@@ -186,10 +186,10 @@
         "id": "q8",
         "text": "Was ist ein wichtiger Vorteil der Azure AI Foundry Plattform?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Vollständige Integration in das Azure-Ökosystem und Skalierbarkeit",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Ein wichtiger Vorteil ist die vollständige Integration in das Azure-Ökosystem sowie die automatische Skalierbarkeit der Cloud-Infrastruktur.",
@@ -209,10 +209,10 @@
         "id": "q9",
         "text": "Welche Zielgruppen adressiert Azure AI Foundry hauptsächlich?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
-          "Eine ähnliche Azure-Service",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
+          "Eine Windows-Anwendung für Office-Integration",
           "Entwickler, Unternehmen und KI-Praktiker verschiedener Größen",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 2,
         "explanation": "Azure AI Foundry richtet sich an ein breites Spektrum von Nutzern: von Entwicklern über Unternehmen bis hin zu KI-Praktikern verschiedener Größen.",
@@ -232,10 +232,10 @@
         "id": "q10",
         "text": "Wie unterstützt Azure AI Foundry die Entwicklung von KI-Anwendungen?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Durch eine umfassende Entwicklungsplattform mit Tools, APIs und Services",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Foundry bietet eine umfassende Entwicklungsplattform mit verschiedenen Tools, APIs und Services für den gesamten KI-Entwicklungszyklus.",
@@ -255,10 +255,10 @@
         "id": "q11",
         "text": "Was ist Azure AI Studio im Detail?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Service für traditionelle Datenbankabfragen",
           "Eine Low-Code/No-Code-Plattform für KI-Entwicklung mit visuellen Tools",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Funktion für Systemoptimierung",
+          "Ein Google Cloud Machine Learning Service"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Studio ist eine Low-Code/No-Code-Plattform, die visuelle Tools und Assistenten für die KI-Entwicklung bereitstellt, ohne umfangreiche Programmierkenntnisse zu erfordern.",
@@ -278,10 +278,10 @@
         "id": "q12",
         "text": "Welche Art von Modellen kann Azure OpenAI Service hosten?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Service für traditionelle Datenbankabfragen",
           "Text-Modelle, Code-Generierung, Bildgenerierung und Embedding-Modelle",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Funktion für Systemoptimierung",
+          "Ein Google Cloud Machine Learning Service"
         ],
         "correctIndex": 1,
         "explanation": "Azure OpenAI Service unterstützt verschiedene Modelltypen: Text-Modelle wie GPT, Code-Generierung, Bildgenerierung mit DALL-E und Embedding-Modelle für Vektorsuche.",
@@ -302,10 +302,10 @@
         "id": "q13",
         "text": "Was ist Prompt Flow in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Tool für die Entwicklung, das Testen und die Optimierung von Prompt-basierten Anwendungen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Prompt Flow ist ein Tool in Azure AI Foundry, das Entwicklern hilft, Prompt-basierte Anwendungen zu entwickeln, zu testen und zu optimieren.",
@@ -325,10 +325,10 @@
         "id": "q14",
         "text": "Welche Deployment-Optionen bietet Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Cloud-Deployment, Edge-Deployment und Hybrid-Szenarien",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Foundry bietet flexible Deployment-Optionen: Cloud-Deployment in Azure, Edge-Deployment für lokale Geräte und Hybrid-Szenarien für gemischte Umgebungen.",
@@ -349,10 +349,10 @@
         "id": "q15",
         "text": "Was ist Model-as-a-Service in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service-Modell, bei dem KI-Modelle als verwaltete Services bereitgestellt werden",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model-as-a-Service ermöglicht es, KI-Modelle als vollständig verwaltete Services zu nutzen, ohne sich um Infrastruktur, Skalierung oder Wartung kümmern zu müssen.",
@@ -372,10 +372,10 @@
         "id": "q16",
         "text": "Welche Integrationen unterstützt Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Azure-Services, GitHub, CI/CD-Pipelines und externe APIs",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Foundry unterstützt umfassende Integrationen: Azure-Services, GitHub für Versionskontrolle, CI/CD-Pipelines und externe APIs für erweiterte Funktionalität.",
@@ -396,10 +396,10 @@
         "id": "q17",
         "text": "Was ist Responsible AI in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Framework für die Entwicklung ethischer und transparenter KI-Systeme",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Responsible AI ist ein Framework in Azure AI Foundry, das Tools und Richtlinien für die Entwicklung ethischer, transparenter und fairer KI-Systeme bereitstellt.",
@@ -419,10 +419,10 @@
         "id": "q18",
         "text": "Welche Monitoring-Features bietet Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Performance-Monitoring, Modell-Drift-Erkennung, Bias-Monitoring und Kosten-Tracking",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Foundry bietet umfassende Monitoring-Features: Performance-Überwachung, Modell-Drift-Erkennung, Bias-Monitoring und detailliertes Kosten-Tracking.",
@@ -443,10 +443,10 @@
         "id": "q19",
         "text": "Was ist Azure AI Content Safety?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Service für traditionelle Datenbankabfragen",
           "Ein Service zur Erkennung und Filterung schädlicher Inhalte in KI-Anwendungen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Funktion für Systemoptimierung",
+          "Ein Google Cloud Machine Learning Service"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Content Safety ist ein Service, der schädliche Inhalte wie Hassrede, Gewalt oder unangemessene Inhalte in KI-Anwendungen erkennt und filtert.",
@@ -466,10 +466,10 @@
         "id": "q20",
         "text": "Welche Kostenmodelle gibt es für Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Pay-per-Use, Reserved Capacity und Enterprise Agreements",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Foundry bietet verschiedene Kostenmodelle: Pay-per-Use für flexible Nutzung, Reserved Capacity für Kostenvorteile bei vorhersagbarer Nutzung und Enterprise Agreements für große Organisationen.",
@@ -489,10 +489,10 @@
         "id": "q21",
         "text": "Was ist Azure AI Foundry Model Registry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein zentrales Repository für die Verwaltung und Versionierung von KI-Modellen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Foundry Model Registry ist ein zentrales Repository für die Verwaltung, Versionierung und Governance von KI-Modellen.",
@@ -512,10 +512,10 @@
         "id": "q22",
         "text": "Was ist Azure AI Foundry Responsible AI Dashboard?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Dashboard für die Überwachung und Bewertung der Fairness von KI-Modellen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Foundry Responsible AI Dashboard überwacht und bewertet die Fairness, Transparenz und Verantwortlichkeit von KI-Modellen.",
@@ -535,10 +535,10 @@
         "id": "q23",
         "text": "Was ist Azure AI Foundry Data Drift Detection?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service zur Erkennung von Datenänderungen, die die Modellleistung beeinträchtigen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Foundry Data Drift Detection erkennt automatisch Änderungen in den Eingabedaten, die die Leistung von KI-Modellen beeinträchtigen könnten.",
@@ -558,10 +558,10 @@
         "id": "q24",
         "text": "Was ist Azure AI Foundry Feature Store?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein zentraler Speicher für wiederverwendbare Features und deren Metadaten",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Foundry Feature Store ist ein zentraler Speicher für wiederverwendbare Features, der die Konsistenz und Wiederverwendung von Features über verschiedene Modelle hinweg ermöglicht.",
@@ -581,10 +581,10 @@
         "id": "q25",
         "text": "Was ist Azure AI Foundry MLOps Pipeline?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Eine automatisierte Pipeline für Machine Learning Operations und Modellbereitstellung",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Foundry MLOps Pipeline automatisiert den gesamten ML-Lebenszyklus von der Datenerfassung bis zur Modellbereitstellung und -überwachung.",
@@ -604,10 +604,10 @@
         "id": "q26",
         "text": "Was ist Model Registry in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model registry und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Registry ist ein wichtiger Service in Azure AI Foundry, der model registry und verwandte Funktionen bereitstellt.",
@@ -627,10 +627,10 @@
         "id": "q27",
         "text": "Was ist Responsible AI Dashboard in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für responsible ai dashboard und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Responsible AI Dashboard ist ein wichtiger Service in Azure AI Foundry, der responsible ai dashboard und verwandte Funktionen bereitstellt.",
@@ -650,10 +650,10 @@
         "id": "q28",
         "text": "Was ist Data Drift Detection in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für data drift detection und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Data Drift Detection ist ein wichtiger Service in Azure AI Foundry, der data drift detection und verwandte Funktionen bereitstellt.",
@@ -673,10 +673,10 @@
         "id": "q29",
         "text": "Was ist Feature Store in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für feature store und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Feature Store ist ein wichtiger Service in Azure AI Foundry, der feature store und verwandte Funktionen bereitstellt.",
@@ -696,10 +696,10 @@
         "id": "q30",
         "text": "Was ist MLOps Pipeline in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für mlops pipeline und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "MLOps Pipeline ist ein wichtiger Service in Azure AI Foundry, der mlops pipeline und verwandte Funktionen bereitstellt.",
@@ -719,10 +719,10 @@
         "id": "q31",
         "text": "Was ist Model Validation in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model validation und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Validation ist ein wichtiger Service in Azure AI Foundry, der model validation und verwandte Funktionen bereitstellt.",
@@ -742,10 +742,10 @@
         "id": "q32",
         "text": "Was ist A/B Testing in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für a/b testing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "A/B Testing ist ein wichtiger Service in Azure AI Foundry, der a/b testing und verwandte Funktionen bereitstellt.",
@@ -765,10 +765,10 @@
         "id": "q33",
         "text": "Was ist Model Serving in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model serving und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Serving ist ein wichtiger Service in Azure AI Foundry, der model serving und verwandte Funktionen bereitstellt.",
@@ -788,10 +788,10 @@
         "id": "q34",
         "text": "Was ist Cost Management in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für cost management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Cost Management ist ein wichtiger Service in Azure AI Foundry, der cost management und verwandte Funktionen bereitstellt.",
@@ -811,10 +811,10 @@
         "id": "q35",
         "text": "Was ist Azure DevOps Integration in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für azure devops integration und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Azure DevOps Integration ist ein wichtiger Service in Azure AI Foundry, der azure devops integration und verwandte Funktionen bereitstellt.",
@@ -834,10 +834,10 @@
         "id": "q36",
         "text": "Was ist AutoML in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für automl und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "AutoML ist ein wichtiger Service in Azure AI Foundry, der automl und verwandte Funktionen bereitstellt.",
@@ -857,10 +857,10 @@
         "id": "q37",
         "text": "Was ist Hyperparameter Tuning in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für hyperparameter tuning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Hyperparameter Tuning ist ein wichtiger Service in Azure AI Foundry, der hyperparameter tuning und verwandte Funktionen bereitstellt.",
@@ -880,10 +880,10 @@
         "id": "q38",
         "text": "Was ist Model Explainability in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model explainability und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Explainability ist ein wichtiger Service in Azure AI Foundry, der model explainability und verwandte Funktionen bereitstellt.",
@@ -903,10 +903,10 @@
         "id": "q39",
         "text": "Was ist Bias Detection in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für bias detection und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Bias Detection ist ein wichtiger Service in Azure AI Foundry, der bias detection und verwandte Funktionen bereitstellt.",
@@ -926,10 +926,10 @@
         "id": "q40",
         "text": "Was ist Model Governance in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model governance und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Governance ist ein wichtiger Service in Azure AI Foundry, der model governance und verwandte Funktionen bereitstellt.",
@@ -949,10 +949,10 @@
         "id": "q41",
         "text": "Was ist Data Lineage in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für data lineage und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Data Lineage ist ein wichtiger Service in Azure AI Foundry, der data lineage und verwandte Funktionen bereitstellt.",
@@ -972,10 +972,10 @@
         "id": "q42",
         "text": "Was ist Experiment Tracking in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für experiment tracking und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Experiment Tracking ist ein wichtiger Service in Azure AI Foundry, der experiment tracking und verwandte Funktionen bereitstellt.",
@@ -995,10 +995,10 @@
         "id": "q43",
         "text": "Was ist Model Performance Monitoring in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model performance monitoring und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Performance Monitoring ist ein wichtiger Service in Azure AI Foundry, der model performance monitoring und verwandte Funktionen bereitstellt.",
@@ -1018,10 +1018,10 @@
         "id": "q44",
         "text": "Was ist Batch Inference in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für batch inference und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Batch Inference ist ein wichtiger Service in Azure AI Foundry, der batch inference und verwandte Funktionen bereitstellt.",
@@ -1041,10 +1041,10 @@
         "id": "q45",
         "text": "Was ist Real-time Inference in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für real-time inference und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Real-time Inference ist ein wichtiger Service in Azure AI Foundry, der real-time inference und verwandte Funktionen bereitstellt.",
@@ -1064,10 +1064,10 @@
         "id": "q46",
         "text": "Was ist Model Retraining in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model retraining und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Retraining ist ein wichtiger Service in Azure AI Foundry, der model retraining und verwandte Funktionen bereitstellt.",
@@ -1087,10 +1087,10 @@
         "id": "q47",
         "text": "Was ist Feature Engineering in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für feature engineering und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Feature Engineering ist ein wichtiger Service in Azure AI Foundry, der feature engineering und verwandte Funktionen bereitstellt.",
@@ -1110,10 +1110,10 @@
         "id": "q48",
         "text": "Was ist Data Preprocessing in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für data preprocessing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Data Preprocessing ist ein wichtiger Service in Azure AI Foundry, der data preprocessing und verwandte Funktionen bereitstellt.",
@@ -1133,10 +1133,10 @@
         "id": "q49",
         "text": "Was ist Model Deployment in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model deployment und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Deployment ist ein wichtiger Service in Azure AI Foundry, der model deployment und verwandte Funktionen bereitstellt.",
@@ -1156,10 +1156,10 @@
         "id": "q50",
         "text": "Was ist Model Versioning in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model versioning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Versioning ist ein wichtiger Service in Azure AI Foundry, der model versioning und verwandte Funktionen bereitstellt.",
@@ -1179,10 +1179,10 @@
         "id": "q51",
         "text": "Was ist Model Metadata in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model metadata und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Metadata ist ein wichtiger Service in Azure AI Foundry, der model metadata und verwandte Funktionen bereitstellt.",
@@ -1202,10 +1202,10 @@
         "id": "q52",
         "text": "Was ist Model Artifacts in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model artifacts und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Artifacts ist ein wichtiger Service in Azure AI Foundry, der model artifacts und verwandte Funktionen bereitstellt.",
@@ -1225,10 +1225,10 @@
         "id": "q53",
         "text": "Was ist Model Metrics in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model metrics und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Metrics ist ein wichtiger Service in Azure AI Foundry, der model metrics und verwandte Funktionen bereitstellt.",
@@ -1248,10 +1248,10 @@
         "id": "q54",
         "text": "Was ist Model Evaluation in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model evaluation und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Evaluation ist ein wichtiger Service in Azure AI Foundry, der model evaluation und verwandte Funktionen bereitstellt.",
@@ -1271,10 +1271,10 @@
         "id": "q55",
         "text": "Was ist Model Comparison in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model comparison und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Comparison ist ein wichtiger Service in Azure AI Foundry, der model comparison und verwandte Funktionen bereitstellt.",
@@ -1294,10 +1294,10 @@
         "id": "q56",
         "text": "Was ist Model Profiling in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model profiling und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Profiling ist ein wichtiger Service in Azure AI Foundry, der model profiling und verwandte Funktionen bereitstellt.",
@@ -1317,10 +1317,10 @@
         "id": "q57",
         "text": "Was ist Model Optimization in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model optimization und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Optimization ist ein wichtiger Service in Azure AI Foundry, der model optimization und verwandte Funktionen bereitstellt.",
@@ -1340,10 +1340,10 @@
         "id": "q58",
         "text": "Was ist Model Compression in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model compression und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Compression ist ein wichtiger Service in Azure AI Foundry, der model compression und verwandte Funktionen bereitstellt.",
@@ -1363,10 +1363,10 @@
         "id": "q59",
         "text": "Was ist Model Quantization in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model quantization und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Quantization ist ein wichtiger Service in Azure AI Foundry, der model quantization und verwandte Funktionen bereitstellt.",
@@ -1386,10 +1386,10 @@
         "id": "q60",
         "text": "Was ist Model Pruning in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model pruning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Pruning ist ein wichtiger Service in Azure AI Foundry, der model pruning und verwandte Funktionen bereitstellt.",
@@ -1409,10 +1409,10 @@
         "id": "q61",
         "text": "Was ist Model Distillation in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model distillation und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Distillation ist ein wichtiger Service in Azure AI Foundry, der model distillation und verwandte Funktionen bereitstellt.",
@@ -1432,10 +1432,10 @@
         "id": "q62",
         "text": "Was ist Model Ensemble in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model ensemble und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Ensemble ist ein wichtiger Service in Azure AI Foundry, der model ensemble und verwandte Funktionen bereitstellt.",
@@ -1455,10 +1455,10 @@
         "id": "q63",
         "text": "Was ist Model Stacking in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model stacking und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Stacking ist ein wichtiger Service in Azure AI Foundry, der model stacking und verwandte Funktionen bereitstellt.",
@@ -1478,10 +1478,10 @@
         "id": "q64",
         "text": "Was ist Cross-validation in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für cross-validation und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Cross-validation ist ein wichtiger Service in Azure AI Foundry, der cross-validation und verwandte Funktionen bereitstellt.",
@@ -1501,10 +1501,10 @@
         "id": "q65",
         "text": "Was ist Holdout Testing in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für holdout testing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Holdout Testing ist ein wichtiger Service in Azure AI Foundry, der holdout testing und verwandte Funktionen bereitstellt.",
@@ -1524,10 +1524,10 @@
         "id": "q66",
         "text": "Was ist Model Interpretability in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model interpretability und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Interpretability ist ein wichtiger Service in Azure AI Foundry, der model interpretability und verwandte Funktionen bereitstellt.",
@@ -1547,10 +1547,10 @@
         "id": "q67",
         "text": "Was ist SHAP Values in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für shap values und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "SHAP Values ist ein wichtiger Service in Azure AI Foundry, der shap values und verwandte Funktionen bereitstellt.",
@@ -1570,10 +1570,10 @@
         "id": "q68",
         "text": "Was ist LIME Explanations in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für lime explanations und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "LIME Explanations ist ein wichtiger Service in Azure AI Foundry, der lime explanations und verwandte Funktionen bereitstellt.",
@@ -1593,10 +1593,10 @@
         "id": "q69",
         "text": "Was ist Feature Importance in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für feature importance und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Feature Importance ist ein wichtiger Service in Azure AI Foundry, der feature importance und verwandte Funktionen bereitstellt.",
@@ -1639,10 +1639,10 @@
         "id": "q71",
         "text": "Was ist Model Troubleshooting in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model troubleshooting und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Troubleshooting ist ein wichtiger Service in Azure AI Foundry, der model troubleshooting und verwandte Funktionen bereitstellt.",
@@ -1662,10 +1662,10 @@
         "id": "q72",
         "text": "Was ist Model Maintenance in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model maintenance und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Maintenance ist ein wichtiger Service in Azure AI Foundry, der model maintenance und verwandte Funktionen bereitstellt.",
@@ -1685,10 +1685,10 @@
         "id": "q73",
         "text": "Was ist Model Lifecycle in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model lifecycle und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Lifecycle ist ein wichtiger Service in Azure AI Foundry, der model lifecycle und verwandte Funktionen bereitstellt.",
@@ -1708,10 +1708,10 @@
         "id": "q74",
         "text": "Was ist Model Retirement in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model retirement und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Retirement ist ein wichtiger Service in Azure AI Foundry, der model retirement und verwandte Funktionen bereitstellt.",
@@ -1731,10 +1731,10 @@
         "id": "q75",
         "text": "Was ist Model Archive in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model archive und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Archive ist ein wichtiger Service in Azure AI Foundry, der model archive und verwandte Funktionen bereitstellt.",
@@ -1754,10 +1754,10 @@
         "id": "q76",
         "text": "Was ist Model Backup in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model backup und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Backup ist ein wichtiger Service in Azure AI Foundry, der model backup und verwandte Funktionen bereitstellt.",
@@ -1777,10 +1777,10 @@
         "id": "q77",
         "text": "Was ist Model Recovery in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model recovery und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Recovery ist ein wichtiger Service in Azure AI Foundry, der model recovery und verwandte Funktionen bereitstellt.",
@@ -1800,10 +1800,10 @@
         "id": "q78",
         "text": "Was ist Model Rollback in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model rollback und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Rollback ist ein wichtiger Service in Azure AI Foundry, der model rollback und verwandte Funktionen bereitstellt.",
@@ -1823,10 +1823,10 @@
         "id": "q79",
         "text": "Was ist Model Promotion in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model promotion und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Promotion ist ein wichtiger Service in Azure AI Foundry, der model promotion und verwandte Funktionen bereitstellt.",
@@ -1846,10 +1846,10 @@
         "id": "q80",
         "text": "Was ist Model Demotion in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model demotion und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Demotion ist ein wichtiger Service in Azure AI Foundry, der model demotion und verwandte Funktionen bereitstellt.",
@@ -1869,10 +1869,10 @@
         "id": "q81",
         "text": "Was ist Model Testing in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model testing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Testing ist ein wichtiger Service in Azure AI Foundry, der model testing und verwandte Funktionen bereitstellt.",
@@ -1892,10 +1892,10 @@
         "id": "q82",
         "text": "Was ist Model Staging in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model staging und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Staging ist ein wichtiger Service in Azure AI Foundry, der model staging und verwandte Funktionen bereitstellt.",
@@ -1915,10 +1915,10 @@
         "id": "q83",
         "text": "Was ist Model Production in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model production und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Production ist ein wichtiger Service in Azure AI Foundry, der model production und verwandte Funktionen bereitstellt.",
@@ -1938,10 +1938,10 @@
         "id": "q84",
         "text": "Was ist Model Development in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model development und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Development ist ein wichtiger Service in Azure AI Foundry, der model development und verwandte Funktionen bereitstellt.",
@@ -1961,10 +1961,10 @@
         "id": "q85",
         "text": "Was ist Model Training in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model training und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Training ist ein wichtiger Service in Azure AI Foundry, der model training und verwandte Funktionen bereitstellt.",
@@ -1984,10 +1984,10 @@
         "id": "q86",
         "text": "Was ist Model Fine-tuning in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für model fine-tuning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Model Fine-tuning ist ein wichtiger Service in Azure AI Foundry, der model fine-tuning und verwandte Funktionen bereitstellt.",
@@ -2007,10 +2007,10 @@
         "id": "q87",
         "text": "Was ist Transfer Learning in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für transfer learning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Transfer Learning ist ein wichtiger Service in Azure AI Foundry, der transfer learning und verwandte Funktionen bereitstellt.",
@@ -2030,10 +2030,10 @@
         "id": "q88",
         "text": "Was ist Few-shot Learning in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für few-shot learning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Few-shot Learning ist ein wichtiger Service in Azure AI Foundry, der few-shot learning und verwandte Funktionen bereitstellt.",
@@ -2053,10 +2053,10 @@
         "id": "q89",
         "text": "Was ist Zero-shot Learning in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für zero-shot learning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Zero-shot Learning ist ein wichtiger Service in Azure AI Foundry, der zero-shot learning und verwandte Funktionen bereitstellt.",
@@ -2076,10 +2076,10 @@
         "id": "q90",
         "text": "Was ist Multi-task Learning in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für multi-task learning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Multi-task Learning ist ein wichtiger Service in Azure AI Foundry, der multi-task learning und verwandte Funktionen bereitstellt.",
@@ -2099,10 +2099,10 @@
         "id": "q91",
         "text": "Was ist Continual Learning in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für continual learning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Continual Learning ist ein wichtiger Service in Azure AI Foundry, der continual learning und verwandte Funktionen bereitstellt.",
@@ -2122,10 +2122,10 @@
         "id": "q92",
         "text": "Was ist Online Learning in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für online learning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Online Learning ist ein wichtiger Service in Azure AI Foundry, der online learning und verwandte Funktionen bereitstellt.",
@@ -2145,10 +2145,10 @@
         "id": "q93",
         "text": "Was ist Incremental Learning in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für incremental learning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Incremental Learning ist ein wichtiger Service in Azure AI Foundry, der incremental learning und verwandte Funktionen bereitstellt.",
@@ -2168,10 +2168,10 @@
         "id": "q94",
         "text": "Was ist Active Learning in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für active learning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Active Learning ist ein wichtiger Service in Azure AI Foundry, der active learning und verwandte Funktionen bereitstellt.",
@@ -2191,10 +2191,10 @@
         "id": "q95",
         "text": "Was ist Reinforcement Learning in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für reinforcement learning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Reinforcement Learning ist ein wichtiger Service in Azure AI Foundry, der reinforcement learning und verwandte Funktionen bereitstellt.",
@@ -2214,10 +2214,10 @@
         "id": "q96",
         "text": "Was ist Deep Learning in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für deep learning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Deep Learning ist ein wichtiger Service in Azure AI Foundry, der deep learning und verwandte Funktionen bereitstellt.",
@@ -2237,10 +2237,10 @@
         "id": "q97",
         "text": "Was ist Neural Networks in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für neural networks und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Neural Networks ist ein wichtiger Service in Azure AI Foundry, der neural networks und verwandte Funktionen bereitstellt.",
@@ -2260,10 +2260,10 @@
         "id": "q98",
         "text": "Was ist Convolutional Networks in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für convolutional networks und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Convolutional Networks ist ein wichtiger Service in Azure AI Foundry, der convolutional networks und verwandte Funktionen bereitstellt.",
@@ -2283,10 +2283,10 @@
         "id": "q99",
         "text": "Was ist Recurrent Networks in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für recurrent networks und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Recurrent Networks ist ein wichtiger Service in Azure AI Foundry, der recurrent networks und verwandte Funktionen bereitstellt.",
@@ -2306,10 +2306,10 @@
         "id": "q100",
         "text": "Was ist Transformer Models in Azure AI Foundry?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein separates Azure-Tool für Datenbankverwaltung",
           "Ein Service für transformer models und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine Windows-Anwendung für Office-Integration",
+          "Ein Google Cloud Service für Machine Learning"
         ],
         "correctIndex": 1,
         "explanation": "Transformer Models ist ein wichtiger Service in Azure AI Foundry, der transformer models und verwandte Funktionen bereitstellt.",

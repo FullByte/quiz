@@ -26,10 +26,10 @@
         "id": "q1",
         "text": "Wie viele Spieler dürfen maximal gleichzeitig pro Team auf dem Eis sein (einschließlich Torwart)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "6 Spieler",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Laut IIHF-Regelwerk dürfen maximal 6 Spieler (5 Feldspieler + 1 Torwart) gleichzeitig pro Team auf dem Eis sein.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Was geschieht, wenn ein Spieler eine Spieldauer-Disziplinarstrafe erhält?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Spieler wird für den Rest des Spiels ausgeschlossen.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Spieldauer-Disziplinarstrafe führt zum Ausschluss des Spielers für den Rest des Spiels. Ersatz durch einen anderen Spieler ist erlaubt.",
@@ -73,7 +73,7 @@
           "Rechteckig mit abgerundeten Ecken",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Eisfläche ist rechteckig und hat an allen vier Ecken eine Abrundung.",
@@ -95,7 +95,7 @@
           "1,22 m",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Torhöhe beträgt 1,22 Meter, die Breite 1,83 Meter.",
@@ -115,9 +115,9 @@
         "text": "Wann wird ein Tor anerkannt?",
         "options": [
           "Wenn der Puck die Torlinie vollständig überquert hat",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Tor zählt nur, wenn der Puck die Torlinie vollständig zwischen den Pfosten und unter der Querlatte überquert.",
@@ -136,10 +136,10 @@
         "id": "q6",
         "text": "Wie lange dauert ein reguläres Drittel im IIHF-Eishockey?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "20 Minuten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Drittel dauert 20 Minuten effektive Spielzeit.",
@@ -158,10 +158,10 @@
         "id": "q7",
         "text": "Wie viele Offizielle (Schiedsrichter + Linienrichter) leitet ein Spiel im Vier-Mann-System?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Eine Lösung für 4",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "4",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Im Vier-Mann-System gibt es zwei Schiedsrichter und zwei Linienrichter.",
@@ -180,10 +180,10 @@
         "id": "q8",
         "text": "Was passiert, wenn ein Tor verschoben wird, bevor der Puck die Linie überquert?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Das Tor zählt nicht",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Tor wird nicht gegeben, wenn das Tor vorher verschoben wurde, außer in speziellen Ausnahmeregeln.",
@@ -202,10 +202,10 @@
         "id": "q9",
         "text": "Was ist Abseits im Eishockey?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn ein Spieler die gegnerische blaue Linie vor dem Puck überquert",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Abseits liegt vor, wenn ein Spieler die gegnerische blaue Linie vor dem Puck überquert.",
@@ -224,10 +224,10 @@
         "id": "q10",
         "text": "Wie lange dauert eine kleine Strafe im Eishockey?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "2 Minuten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine kleine Strafe dauert 2 Minuten.",
@@ -249,7 +249,7 @@
           "2,5 cm dick, 7,6 cm Durchmesser, 156–170 g",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Puck besteht aus vulkanisiertem Gummi, ist 2,5 cm dick, hat 7,6 cm Durchmesser und wiegt zwischen 156 und 170 g.",
@@ -271,7 +271,7 @@
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
           "20 Spieler + 2 Torhüter",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Eine Mannschaft darf maximal 20 Feldspieler und 2 Torhüter auf der offiziellen Liste haben.",
@@ -290,10 +290,10 @@
         "id": "q13",
         "text": "Welche Aufgabe hat der Kapitän einer Mannschaft auf dem Eis?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Er ist der einzige, der mit dem Schiedsrichter über Regelauslegungen sprechen darf",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Kapitän ist die einzige Person, die das Recht hat, mit dem Schiedsrichter über Regelauslegungen zu sprechen.",
@@ -314,7 +314,7 @@
         "options": [
           "Ein verwandter KI-Algorithmus",
           "Eine ähnliche Machine-Learning-Methode",
-          "Eine Lösung für gelb",
+          "gelb",
           "Ein vergleichbares Datenverarbeitungsverfahren"
         ],
         "correctIndex": 2,
@@ -334,10 +334,10 @@
         "id": "q15",
         "text": "Welche Strafe wird verhängt, wenn ein Spieler ohne Helm am Spiel teilnimmt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Kleine Strafe",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Spieler ohne korrekt befestigten Helm wird mit einer kleinen Strafe belegt.",
@@ -356,10 +356,10 @@
         "id": "q16",
         "text": "Was geschieht, wenn ein Team weniger als 4 Spieler stellen kann?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Das Spiel wird für verloren erklärt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Wenn ein Team nicht mindestens 4 Spieler (3 Feldspieler + 1 Torhüter) stellen kann, verliert es das Spiel.",
@@ -378,10 +378,10 @@
         "id": "q17",
         "text": "Wie groß ist der Radius eines Anspielkreises in der Mitte des Spielfeldes?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "4,5 m",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Anspielkreis in der Mitte hat einen Radius von 4,5 Metern.",
@@ -400,10 +400,10 @@
         "id": "q18",
         "text": "Welche Mindesthöhe muss das Schutzglas hinter den Toren haben?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "2,4 m",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das Schutzglas hinter den Toren muss mindestens 2,4 Meter hoch sein.",
@@ -423,9 +423,9 @@
         "text": "Welche Strafe wird beim Beinstellen typischerweise ausgesprochen?",
         "options": [
           "Kleine Strafe",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beinstellen wird im Normalfall mit einer kleinen Strafe geahndet.",
@@ -444,10 +444,10 @@
         "id": "q20",
         "text": "Wie lange dauert eine große Strafe im Eishockey?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "5 Minuten",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Eine große Strafe dauert 5 Minuten, während der Spieler vom Eis bleibt.",
@@ -469,7 +469,7 @@
           "Eine ähnliche Sporttechnik",
           "1,63 m",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Spielerstock darf höchstens 1,63 m lang sein. Nur bei Ausnahmen für sehr große Spieler bis 2,0 m Körpergröße sind 1,65 m erlaubt.",
@@ -488,10 +488,10 @@
         "id": "q22",
         "text": "Welche Farbe muss der Knauf eines Torhüterstocks haben?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Eine Lösung für weiß",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "weiß",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Der Knauf am oberen Ende des Torhüterstocks muss mit weißem Klebeband oder einem genehmigten Material versehen sein.",
@@ -510,10 +510,10 @@
         "id": "q23",
         "text": "Was passiert, wenn ein Spieler einen gebrochenen Stock weiter benutzt?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Er erhält eine kleine Strafe",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Spieler, der mit einem gebrochenen Stock weiterspielt, wird mit einer kleinen Strafe belegt.",
@@ -532,9 +532,9 @@
         "id": "q24",
         "text": "Welche Höchstbreite darf die Fanghand eines Torhüters haben?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren",
           "45 cm"
         ],
         "correctIndex": 3,
@@ -554,10 +554,10 @@
         "id": "q25",
         "text": "Wie lange dauert eine Disziplinarstrafe für Spieler (außer Torhüter)?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "10 Minuten",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Eine Disziplinarstrafe dauert 10 Minuten, ein Ersatzspieler darf den Strafplatz sofort einnehmen.",
@@ -576,10 +576,10 @@
         "id": "q26",
         "text": "Was geschieht bei einer zweiten Disziplinarstrafe für denselben Spieler im Spiel?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Er wird automatisch mit einer Spieldauer-Disziplinarstrafe belegt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei einer zweiten Disziplinarstrafe im selben Spiel folgt automatisch eine Spieldauer-Disziplinarstrafe.",
@@ -598,10 +598,10 @@
         "id": "q27",
         "text": "Wie viele Kategorien von Disziplinarmaßnahmen gibt es für Spieldauer-Disziplinarstrafen?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "4 Kategorien",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Es gibt vier Kategorien: Allgemeine, Beschimpfung von Offiziellen, Stockvergehen und körperliche Vergehen.",
@@ -620,10 +620,10 @@
         "id": "q28",
         "text": "Welche Bewegung ist bei einem Strafschuss nicht erlaubt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Spin-o-rama-Bewegung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Spin-o-rama-Bewegung ist ausdrücklich verboten, während der Lacrosse-Move erlaubt ist, solange der Puck nicht über Schulterhöhe geht.",
@@ -642,10 +642,10 @@
         "id": "q29",
         "text": "Wie viele Bedingungen müssen erfüllt sein, damit ein Strafschuss ausgesprochen wird?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "4 Bedingungen",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Es gibt vier Bedingungen: Vergehen in Neutral- oder Angriffszone, von hinten, Besitz des Pucks und keine Verteidiger zwischen Spieler und Torhüter.",
@@ -665,9 +665,9 @@
         "text": "Wie lange dauert eine große Strafe und darf sie verkürzt werden, wenn ein Tor fällt?",
         "options": [
           "5 Minuten, bleibt vollständig bestehen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Eine große Strafe dauert 5 Minuten und läuft unabhängig von Toren vollständig ab.",
@@ -687,9 +687,9 @@
         "text": "Wann spricht der Schiedsrichter eine Strafe wegen Bandenchecks aus?",
         "options": [
           "Wenn ein wehrloser Spieler gefährlich gegen die Bande gecheckt wird",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Bandencheck liegt vor, wenn ein wehrloser Gegenspieler so gecheckt wird, dass er gefährlich gegen die Bande prallt.",
@@ -708,10 +708,10 @@
         "id": "q32",
         "text": "Welche Strafe ist bei einem Check von hinten mindestens vorgesehen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Große Strafe",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Check von hinten wird mindestens mit einer großen Strafe geahndet, da es ein besonders gefährliches Vergehen ist.",
@@ -731,9 +731,9 @@
         "text": "Was versteht man unter einem Ellbogencheck?",
         "options": [
           "Die Benutzung des Ellbogens, um den Gegner zu treffen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Ellbogencheck bedeutet, dass ein Spieler seinen Ellbogen benutzt, um einen Gegner zu treffen.",
@@ -753,9 +753,9 @@
         "text": "Welche Strafe droht bei einem Kopfstoß?",
         "options": [
           "Doppelte kleine Strafe oder mehr",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Kopfstoß zieht mindestens eine doppelte kleine Strafe nach sich, kann aber auch mit einer großen oder Matchstrafe geahndet werden.",
@@ -775,9 +775,9 @@
         "text": "Wann liegt ein illegaler Check gegen den Kopf vor?",
         "options": [
           "Wenn der Kopf der Hauptkontaktpunkt ist",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein illegaler Check gegen den Kopf liegt vor, wenn der Kopf der Hauptkontaktpunkt war und der Treffer vermeidbar gewesen wäre.",
@@ -796,10 +796,10 @@
         "id": "q36",
         "text": "Welche Strafe wird für Tritte gegen Spieler verhängt?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Matchstrafe",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Treten oder der Versuch des Tretens wird immer mit einer Matchstrafe belegt.",
@@ -841,9 +841,9 @@
         "text": "Welche Strafe ist bei einem Stockendenstoß vorgesehen?",
         "options": [
           "Doppelte kleine Strafe oder mehr",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Stockendenstoß zieht mindestens eine doppelte kleine Strafe nach sich, kann aber auch mit großer oder Matchstrafe geahndet werden.",
@@ -863,9 +863,9 @@
         "text": "Wann wird ein hoher Stock gepfiffen?",
         "options": [
           "Wenn der Stock oberhalb der Schulterhöhe geführt wird",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein hoher Stock liegt vor, wenn der Stock oberhalb der Schulterhöhe des Gegenspielers geführt wird.",
@@ -885,9 +885,9 @@
         "text": "Welche Strafe ist beim Stockstich mindestens vorgesehen?",
         "options": [
           "Doppelte kleine Strafe",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Stockstich zieht mindestens eine doppelte kleine Strafe nach sich.",
@@ -907,9 +907,9 @@
         "text": "Wann wird eine Strafe wegen Haltens ausgesprochen?",
         "options": [
           "Wenn ein Spieler den Gegner mit Händen, Armen oder Beinen festhält",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Halten bedeutet, den Gegenspieler mit Armen, Händen oder Beinen am Weiterkommen zu hindern.",
@@ -929,9 +929,9 @@
         "text": "Was ist die typische Strafe für Haken?",
         "options": [
           "Kleine Strafe",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Haken wird in den meisten Fällen mit einer kleinen Strafe belegt.",
@@ -951,9 +951,9 @@
         "text": "Was gilt als Behinderung?",
         "options": [
           "Wenn ein Spieler einen Gegner ohne Puckbesitz am Laufen hindert",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Behinderung liegt vor, wenn ein Spieler einen Gegenspieler ohne Puckbesitz blockiert oder dessen Bewegung einschränkt.",
@@ -973,9 +973,9 @@
         "text": "Was beschreibt Beinstellen?",
         "options": [
           "Das Benutzen von Stock oder Körper, um einen Gegner zum Fallen zu bringen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beinstellen liegt vor, wenn ein Spieler mit Stock oder Körper den Gegner absichtlich zum Stolpern bringt.",
@@ -995,9 +995,9 @@
         "text": "Wann wird eine Strafe wegen Spielverzögerung verhängt?",
         "options": [
           "Wenn der Puck absichtlich aus dem Spielfeld geschossen wird",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Spielverzögerung liegt vor, wenn der Puck absichtlich aus dem Spielfeld geschossen oder ein Tor absichtlich verschoben wird.",
@@ -1017,9 +1017,9 @@
         "text": "Was versteht man unter einer 'Schwalbe'?",
         "options": [
           "Das absichtliche Fallenlassen oder Vortäuschen einer Strafe",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Eine Schwalbe liegt vor, wenn ein Spieler eine Strafe vortäuscht oder übertreibt, um den Schiedsrichter zu täuschen.",
@@ -1039,9 +1039,9 @@
         "text": "Welche Handlung eines Torhüters führt zu einer Strafe wegen Spielverzögerung?",
         "options": [
           "Den Puck länger als 3 Sekunden festhalten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Wenn der Torhüter den Puck länger als 3 Sekunden festhält, ohne bedrängt zu sein, wird eine Strafe wegen Spielverzögerung verhängt.",
@@ -1061,9 +1061,9 @@
         "text": "Was passiert, wenn ein Team zu viele Spieler auf dem Eis hat?",
         "options": [
           "Kleine Bankstrafe",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bei zu vielen Spielern auf dem Eis wird eine kleine Bankstrafe verhängt.",
@@ -1085,7 +1085,7 @@
           "30 Sekunden",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Eine Auszeit im IIHF-Regelwerk dauert 30 Sekunden.",
@@ -1104,10 +1104,10 @@
         "id": "q50",
         "text": "Wann liegt Abseits vor?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn der Spieler vor dem Puck die blaue Linie betritt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Abseits liegt vor, wenn ein Spieler die gegnerische blaue Linie betritt, bevor der Puck diese Linie überquert.",
@@ -1129,7 +1129,7 @@
           "Bei beleidigender Sprache oder Gesten",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Unsportliches Verhalten umfasst u. a. beleidigende Sprache oder Gesten gegen Offizielle oder Gegenspieler.",
@@ -1148,10 +1148,10 @@
         "id": "q52",
         "text": "Wie lange dauert die Drittelpause in einem IIHF-Spiel?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "15 Minuten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Pausen zwischen den Dritteln dauern 15 Minuten, sofern nichts anderes festgelegt wird.",
@@ -1171,9 +1171,9 @@
         "text": "Wann liegt Icing vor?",
         "options": [
           "Wenn der Puck von der eigenen Hälfte über zwei Linien bis hinter die Torlinie geschossen wird",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Icing liegt vor, wenn ein Spieler den Puck von der eigenen Hälfte über die gegnerische Torlinie schießt, ohne dass er berührt wird.",
@@ -1193,9 +1193,9 @@
         "text": "Was passiert, wenn ein Spieler den Puck mit der Hand ins Tor lenkt?",
         "options": [
           "Das Tor wird nicht anerkannt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Tor zählt nicht, wenn ein Spieler den Puck absichtlich mit der Hand ins Tor lenkt.",
@@ -1215,9 +1215,9 @@
         "text": "Welche Strafe wird verhängt, wenn ein Torhüter seinen Helm absichtlich abnimmt, um eine Unterbrechung zu erzwingen?",
         "options": [
           "Kleine Strafe wegen Spielverzögerung",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein absichtliches Abnehmen des Helms durch den Torhüter wird mit einer kleinen Strafe wegen Spielverzögerung geahndet.",
@@ -1237,9 +1237,9 @@
         "text": "Welche Spielfortsetzung erfolgt nach einem anerkannten Tor?",
         "options": [
           "Anspiel in der Mitte",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach einem gültigen Tor erfolgt das nächste Anspiel in der Mitte des Spielfelds.",
@@ -1259,9 +1259,9 @@
         "text": "Welche Schutzvorrichtung ist für alle Spieler in IIHF-Wettbewerben verpflichtend?",
         "options": [
           "Nackenschutz",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein spezieller Nacken- und Halsschutz ist für alle Spieler in IIHF-Wettbewerben vorgeschrieben.",
@@ -1280,10 +1280,10 @@
         "id": "q58",
         "text": "Welcher Gesichtsschutz ist im Fraueneishockey U18 verpflichtend?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Vollgesichtsschutz",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Im Fraueneishockey der U18-Kategorie ist ein Vollgesichtsschutz verpflichtend.",
@@ -1303,9 +1303,9 @@
         "text": "Welche Besonderheit gilt für Nachwuchseishockeyspieler U20 bei der Ausrüstung?",
         "options": [
           "Zahnschutz ist verpflichtend",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nachwuchsspieler der Kategorie U20 müssen verpflichtend Zahnschutz tragen.",
@@ -1327,7 +1327,7 @@
           "60 m × 30 m (mit Toleranzen)",
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die offizielle Eisfläche ist 60 m lang und 26–30 m breit, mit abgerundeten Ecken.",
@@ -1369,9 +1369,9 @@
         "text": "Wann darf ein Linienrichter das Spiel wegen einer Verletzung unterbrechen?",
         "options": [
           "Wenn ein Spieler schwer verletzt ist",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Linienrichter darf das Spiel unterbrechen, wenn er erkennt, dass ein Spieler schwer verletzt ist.",
@@ -1391,9 +1391,9 @@
         "text": "Was passiert bei einer erfolgreichen Coach’s Challenge?",
         "options": [
           "Die Entscheidung auf dem Eis wird geändert",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Eine erfolgreiche Coach’s Challenge führt dazu, dass die ursprüngliche Entscheidung auf dem Eis korrigiert wird.",
@@ -1413,9 +1413,9 @@
         "text": "Was geschieht bei einer nicht erfolgreichen Coach’s Challenge?",
         "options": [
           "Das Team erhält eine kleine Bankstrafe",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bei einer erfolglosen Coach’s Challenge wird gegen das Team eine kleine Bankstrafe wegen Spielverzögerung verhängt.",
@@ -1435,9 +1435,9 @@
         "text": "Welche Strafe droht, wenn ein Spieler einen Offiziellen beleidigt?",
         "options": [
           "Kleine Strafe, Disziplinar- oder Spieldauerstrafe",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beschimpfungen von Offiziellen können mit kleiner Strafe, Disziplinarstrafe oder sogar Spieldauerstrafe geahndet werden.",
@@ -1457,9 +1457,9 @@
         "text": "Welche Strafe wird verhängt, wenn ein Spieler körperlich gegen einen Offiziellen vorgeht?",
         "options": [
           "Spieldauer-Disziplinarstrafe und mögliche Sperren",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Körperliche Tätlichkeiten gegen Offizielle führen mindestens zu einer Spieldauer-Disziplinarstrafe, ergänzt durch Sperren.",
@@ -1479,9 +1479,9 @@
         "text": "Wann wird eine Strafe für hohen Stock automatisch doppelt verhängt?",
         "options": [
           "Wenn eine Verletzung mit Blut resultiert",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Eine doppelte kleine Strafe wegen hohen Stocks ist vorgesehen, wenn der Gegner dabei verletzt wird und Blut fließt.",
@@ -1501,9 +1501,9 @@
         "text": "Was passiert, wenn ein Torhüter während eines Strafschusses seinen Helm absichtlich abnimmt?",
         "options": [
           "Ein Tor wird automatisch gegeben",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nimmt der Torhüter während eines Strafschusses absichtlich seinen Helm ab, wird automatisch ein Tor gegeben.",
@@ -1523,9 +1523,9 @@
         "text": "Welche Spielfortsetzung folgt, wenn ein Tor wegen Torhüterbehinderung aberkannt wird?",
         "options": [
           "Anspiel in der neutralen Zone",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Wenn ein Tor wegen Torhüterbehinderung aberkannt wird, findet das nächste Anspiel in der neutralen Zone statt.",
@@ -1545,9 +1545,9 @@
         "text": "Welche Konsequenz hat ein Faustkampf im internationalen Eishockey?",
         "options": [
           "Große Strafe + Spieldauer-Disziplinarstrafe",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Faustkämpfe werden mit einer großen Strafe plus Spieldauer-Disziplinarstrafe geahndet.",
@@ -1567,9 +1567,9 @@
         "text": "Wann wird ein Spieler beim Anspiel vom Anspielpunkt entfernt?",
         "options": [
           "Wenn er zu früh in den Anspielkreis eindringt oder nicht korrekt steht",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Verstöße gegen die Face-off-Prozedur wie vorzeitiges Eindringen oder falsche Position führen zum Wechsel des einwerfenden Spielers.",
@@ -1589,9 +1589,9 @@
         "text": "Welche Konsequenz hat ein Handpass in der Verteidigungszone des eigenen Teams?",
         "options": [
           "Das Spiel läuft weiter",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Handpässe sind in der eigenen Verteidigungszone erlaubt; in anderen Zonen führen sie zur Spielunterbrechung und Anspiel.",
@@ -1611,9 +1611,9 @@
         "text": "Wann wird ein verzögertes Abseits aufgehoben?",
         "options": [
           "Wenn alle angreifenden Spieler die Angriffszone verlassen und den Puck nicht berühren",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beim verzögerten Abseits wird das Spiel fortgesetzt, bis die Angreifer die Zone räumen; dann ist das Abseits aufgehoben.",
@@ -1633,9 +1633,9 @@
         "text": "Welche Ausnahme hebt ein mögliches Icing auf?",
         "options": [
           "Wenn ein verteidigender Spieler den Puck vor der Torlinie spielen könnte (No-Touch-Icing mit Hybrid-Bewertung)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Beim Hybrid-Icing wird das Icing aufgehoben, wenn der Verteidiger nach Einschätzung zuerst an den Puck käme.",
@@ -1655,9 +1655,9 @@
         "text": "Wann liegt Torhüterbehinderung vor?",
         "options": [
           "Wenn ein Angreifer den Torhüter im Torraum beeinträchtigt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Jede Beeinträchtigung des Torhüters im Torraum durch einen Angreifer kann zur Aberkennung eines Tores führen.",
@@ -1677,9 +1677,9 @@
         "text": "Was gilt für einen Torerfolg, wenn der Puck mit einem hohen Stock direkt ins Tor befördert wird?",
         "options": [
           "Das Tor zählt nicht",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein mit hohem Stock (über Schulterhöhe) direkt erzieltes Tor wird nicht anerkannt.",
@@ -1699,9 +1699,9 @@
         "text": "Wann darf ein Spieler mit gebrochenem Stock den Puck spielen?",
         "options": [
           "Gar nicht; er muss den Stock sofort fallen lassen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Spieler mit gebrochenem Stock muss diesen sofort fallen lassen und darf den Puck nicht damit spielen.",
@@ -1721,9 +1721,9 @@
         "text": "Welche Maßnahme ist bei einer fehlerhaften Ausrüstung während des Spiels vorgesehen?",
         "options": [
           "Der Spieler muss das Eis unverzüglich verlassen, um die Ausrüstung zu korrigieren",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fehlerhafte oder unzulässige Ausrüstung ist umgehend zu korrigieren; der Spieler verlässt dazu das Eis.",
@@ -1743,9 +1743,9 @@
         "text": "Wann ist ein Tor gültig, wenn der Puck von einem Schlittschuh ins Tor geht?",
         "options": [
           "Wenn keine deutliche Kickbewegung vorliegt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Tor nach Ablenken vom Schlittschuh ist gültig, sofern keine aktive Kickbewegung zum Tor vorlag.",
@@ -1765,9 +1765,9 @@
         "text": "Was passiert, wenn der Torhüter den Puck außerhalb des Torraums ohne Notwendigkeit zudeckt?",
         "options": [
           "Kleine Strafe wegen Spielverzögerung",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Das unnötige Zudecken des Pucks außerhalb des Torraums wird als Spielverzögerung mit kleiner Strafe geahndet.",

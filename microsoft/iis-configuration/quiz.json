@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist die Hauptfunktion von IIS?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Internet Information Services - ein Webserver von Microsoft",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS (Internet Information Services) ist ein Webserver von Microsoft, der auf Windows-Servern läuft und Web-Anwendungen hostet.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Hauptkomponenten hat IIS?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Web-Sites, Anwendungen, Virtuelle Verzeichnisse und Module",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS besteht aus Web-Sites, Anwendungen, virtuellen Verzeichnissen und Modulen als Hauptkomponenten für die Webserver-Funktionalität.",
@@ -71,10 +71,10 @@
         "id": "q3",
         "text": "Was ist eine Web-Site in IIS?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Container für Web-Anwendungen mit einer eindeutigen IP-Adresse und Port",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Eine Web-Site in IIS ist ein Container, der Web-Anwendungen hostet und durch eine eindeutige Kombination aus IP-Adresse, Port und Host-Header identifiziert wird.",
@@ -94,10 +94,10 @@
         "id": "q4",
         "text": "Was sind IIS-Module?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Komponenten, die spezifische Funktionen für den Webserver bereitstellen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS-Module sind Komponenten, die spezifische Funktionen wie Authentifizierung, Kompression oder URL-Rewriting für den Webserver bereitstellen.",
@@ -117,10 +117,10 @@
         "id": "q5",
         "text": "Was ist die IIS-Manager-Konsole?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Eine grafische Benutzeroberfläche zur Verwaltung von IIS",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Die IIS-Manager-Konsole ist eine grafische Benutzeroberfläche, die Administratoren bei der Konfiguration und Verwaltung von IIS-Webservern unterstützt.",
@@ -140,10 +140,10 @@
         "id": "q6",
         "text": "Welche Authentifizierungsmethoden unterstützt IIS?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Anonym, Basic, Digest, Windows und Client-Zertifikat-Authentifizierung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS unterstützt verschiedene Authentifizierungsmethoden: anonyme, Basic, Digest, Windows- und Client-Zertifikat-Authentifizierung.",
@@ -163,10 +163,10 @@
         "id": "q7",
         "text": "Was ist URL-Rewriting in IIS?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Eine Funktion zur Umleitung und Neuschreibung von URLs",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "URL-Rewriting ermöglicht es, eingehende URLs zu analysieren und umzuleiten oder zu verändern, bevor sie verarbeitet werden.",
@@ -186,10 +186,10 @@
         "id": "q8",
         "text": "Welche Protokolle unterstützt IIS?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "HTTP, HTTPS, FTP und WebDAV",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS unterstützt verschiedene Protokolle: HTTP für Web-Traffic, HTTPS für sichere Verbindungen, FTP für Dateiübertragung und WebDAV für Dateimanagement.",
@@ -210,10 +210,10 @@
         "id": "q9",
         "text": "Was ist die IIS-Konfigurationsdatei?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Die web.config oder applicationHost.config Datei mit IIS-Einstellungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS verwendet Konfigurationsdateien wie web.config und applicationHost.config, um Einstellungen für Web-Sites und Anwendungen zu speichern.",
@@ -233,10 +233,10 @@
         "id": "q10",
         "text": "Welche Monitoring-Features bietet IIS?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Logging, Performance-Monitoring, Health-Monitoring und Request-Tracing",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS bietet umfassende Monitoring-Features: Logging, Performance-Monitoring, Health-Monitoring und Request-Tracing für die Überwachung der Webserver-Performance.",
@@ -256,10 +256,10 @@
         "id": "q11",
         "text": "Was ist IIS Application Pools?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Container für die Isolation und Verwaltung von Web-Anwendungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS Application Pools sind Container, die Web-Anwendungen isolieren und deren Lebenszyklus, Identität und Ressourcenverwaltung kontrollieren.",
@@ -279,10 +279,10 @@
         "id": "q12",
         "text": "Was ist IIS Virtual Directories?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Verweis auf physische Verzeichnisse außerhalb der Website-Struktur",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS Virtual Directories sind Verweise auf physische Verzeichnisse außerhalb der Website-Struktur, die als Teil der Website erscheinen.",
@@ -302,10 +302,10 @@
         "id": "q13",
         "text": "Was ist IIS URL Rewriting?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für die Umleitung und Neuschreibung von URLs",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS URL Rewriting ermöglicht die Umleitung und Neuschreibung von URLs für bessere SEO und benutzerfreundliche Adressen.",
@@ -325,10 +325,10 @@
         "id": "q14",
         "text": "Was ist IIS Compression?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für die Komprimierung von Inhalten zur Verbesserung der Performance",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS Compression komprimiert statische und dynamische Inhalte, um die Übertragungsgeschwindigkeit und Performance zu verbessern.",
@@ -348,10 +348,10 @@
         "id": "q15",
         "text": "Was ist IIS Caching?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für die Zwischenspeicherung von Inhalten zur Verbesserung der Performance",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS Caching speichert häufig abgerufene Inhalte zwischen, um die Antwortzeiten zu verkürzen und die Serverlast zu reduzieren.",
@@ -371,10 +371,10 @@
         "id": "q16",
         "text": "Was ist IIS SSL/TLS?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für die Verschlüsselung von Web-Kommunikation",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS SSL/TLS ermöglicht die Verschlüsselung von Web-Kommunikation für sichere HTTPS-Verbindungen.",
@@ -395,10 +395,10 @@
         "id": "q17",
         "text": "Was ist IIS Authentication?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für die Authentifizierung von Benutzern und Anwendungen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS Authentication bietet verschiedene Authentifizierungsmethoden wie Windows Authentication, Forms Authentication und OAuth.",
@@ -418,10 +418,10 @@
         "id": "q18",
         "text": "Was ist IIS Request Filtering?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für die Filterung und Blockierung von HTTP-Anfragen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS Request Filtering filtert und blockiert HTTP-Anfragen basierend auf verschiedenen Kriterien wie Dateierweiterungen, URLs und Headers.",
@@ -464,10 +464,10 @@
         "id": "q20",
         "text": "Was ist IIS Health Monitoring?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für die Überwachung der Gesundheit und Performance von IIS",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IIS Health Monitoring überwacht die Gesundheit, Performance und Verfügbarkeit von IIS-Servern und -Anwendungen.",
@@ -487,10 +487,10 @@
         "id": "q21",
         "text": "Was ist Grundlagen in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für grundlagen und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Grundlagen ist ein wichtiger Service in IIS Configuration, der grundlagen und verwandte Funktionen bereitstellt.",
@@ -510,10 +510,10 @@
         "id": "q22",
         "text": "Was ist Konfiguration in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für konfiguration und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Konfiguration ist ein wichtiger Service in IIS Configuration, der konfiguration und verwandte Funktionen bereitstellt.",
@@ -533,10 +533,10 @@
         "id": "q23",
         "text": "Was ist Verwaltung in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für verwaltung und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Verwaltung ist ein wichtiger Service in IIS Configuration, der verwaltung und verwandte Funktionen bereitstellt.",
@@ -556,10 +556,10 @@
         "id": "q24",
         "text": "Was ist Sicherheit in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für sicherheit und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Sicherheit ist ein wichtiger Service in IIS Configuration, der sicherheit und verwandte Funktionen bereitstellt.",
@@ -579,10 +579,10 @@
         "id": "q25",
         "text": "Was ist Performance in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für performance und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Performance ist ein wichtiger Service in IIS Configuration, der performance und verwandte Funktionen bereitstellt.",
@@ -602,10 +602,10 @@
         "id": "q26",
         "text": "Was ist Skalierung in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für skalierung und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Skalierung ist ein wichtiger Service in IIS Configuration, der skalierung und verwandte Funktionen bereitstellt.",
@@ -625,10 +625,10 @@
         "id": "q27",
         "text": "Was ist Monitoring in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für monitoring und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Monitoring ist ein wichtiger Service in IIS Configuration, der monitoring und verwandte Funktionen bereitstellt.",
@@ -671,10 +671,10 @@
         "id": "q29",
         "text": "Was ist Backup in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für backup und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Backup ist ein wichtiger Service in IIS Configuration, der backup und verwandte Funktionen bereitstellt.",
@@ -694,10 +694,10 @@
         "id": "q30",
         "text": "Was ist Recovery in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für recovery und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Recovery ist ein wichtiger Service in IIS Configuration, der recovery und verwandte Funktionen bereitstellt.",
@@ -717,10 +717,10 @@
         "id": "q31",
         "text": "Was ist Disaster Recovery in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für disaster recovery und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Disaster Recovery ist ein wichtiger Service in IIS Configuration, der disaster recovery und verwandte Funktionen bereitstellt.",
@@ -763,10 +763,10 @@
         "id": "q33",
         "text": "Was ist Load Balancing in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für load balancing und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Load Balancing ist ein wichtiger Service in IIS Configuration, der load balancing und verwandte Funktionen bereitstellt.",
@@ -786,10 +786,10 @@
         "id": "q34",
         "text": "Was ist Caching in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für caching und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Caching ist ein wichtiger Service in IIS Configuration, der caching und verwandte Funktionen bereitstellt.",
@@ -809,10 +809,10 @@
         "id": "q35",
         "text": "Was ist Optimierung in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für optimierung und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Optimierung ist ein wichtiger Service in IIS Configuration, der optimierung und verwandte Funktionen bereitstellt.",
@@ -832,10 +832,10 @@
         "id": "q36",
         "text": "Was ist Integration in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für integration und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Integration ist ein wichtiger Service in IIS Configuration, der integration und verwandte Funktionen bereitstellt.",
@@ -855,10 +855,10 @@
         "id": "q37",
         "text": "Was ist APIs in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für apis und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "APIs ist ein wichtiger Service in IIS Configuration, der apis und verwandte Funktionen bereitstellt.",
@@ -878,10 +878,10 @@
         "id": "q38",
         "text": "Was ist SDKs in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für sdks und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "SDKs ist ein wichtiger Service in IIS Configuration, der sdks und verwandte Funktionen bereitstellt.",
@@ -901,10 +901,10 @@
         "id": "q39",
         "text": "Was ist CLI in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für cli und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "CLI ist ein wichtiger Service in IIS Configuration, der cli und verwandte Funktionen bereitstellt.",
@@ -924,10 +924,10 @@
         "id": "q40",
         "text": "Was ist PowerShell in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für powershell und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell ist ein wichtiger Service in IIS Configuration, der powershell und verwandte Funktionen bereitstellt.",
@@ -947,10 +947,10 @@
         "id": "q41",
         "text": "Was ist Templates in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für templates und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Templates ist ein wichtiger Service in IIS Configuration, der templates und verwandte Funktionen bereitstellt.",
@@ -970,10 +970,10 @@
         "id": "q42",
         "text": "Was ist Automation in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für automation und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Automation ist ein wichtiger Service in IIS Configuration, der automation und verwandte Funktionen bereitstellt.",
@@ -993,10 +993,10 @@
         "id": "q43",
         "text": "Was ist DevOps in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für devops und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "DevOps ist ein wichtiger Service in IIS Configuration, der devops und verwandte Funktionen bereitstellt.",
@@ -1016,10 +1016,10 @@
         "id": "q44",
         "text": "Was ist CI/CD in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für ci/cd und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "CI/CD ist ein wichtiger Service in IIS Configuration, der ci/cd und verwandte Funktionen bereitstellt.",
@@ -1039,10 +1039,10 @@
         "id": "q45",
         "text": "Was ist Deployment in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für deployment und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Deployment ist ein wichtiger Service in IIS Configuration, der deployment und verwandte Funktionen bereitstellt.",
@@ -1062,10 +1062,10 @@
         "id": "q46",
         "text": "Was ist Testing in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für testing und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Testing ist ein wichtiger Service in IIS Configuration, der testing und verwandte Funktionen bereitstellt.",
@@ -1108,10 +1108,10 @@
         "id": "q48",
         "text": "Was ist Troubleshooting in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für troubleshooting und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Troubleshooting ist ein wichtiger Service in IIS Configuration, der troubleshooting und verwandte Funktionen bereitstellt.",
@@ -1131,10 +1131,10 @@
         "id": "q49",
         "text": "Was ist Best Practices in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für best practices und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Best Practices ist ein wichtiger Service in IIS Configuration, der best practices und verwandte Funktionen bereitstellt.",
@@ -1154,10 +1154,10 @@
         "id": "q50",
         "text": "Was ist Architecture in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für architecture und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Architecture ist ein wichtiger Service in IIS Configuration, der architecture und verwandte Funktionen bereitstellt.",
@@ -1177,10 +1177,10 @@
         "id": "q51",
         "text": "Was ist Design Patterns in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für design patterns und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Design Patterns ist ein wichtiger Service in IIS Configuration, der design patterns und verwandte Funktionen bereitstellt.",
@@ -1200,10 +1200,10 @@
         "id": "q52",
         "text": "Was ist Microservices in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für microservices und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Microservices ist ein wichtiger Service in IIS Configuration, der microservices und verwandte Funktionen bereitstellt.",
@@ -1246,10 +1246,10 @@
         "id": "q54",
         "text": "Was ist Kubernetes in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für kubernetes und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Kubernetes ist ein wichtiger Service in IIS Configuration, der kubernetes und verwandte Funktionen bereitstellt.",
@@ -1269,10 +1269,10 @@
         "id": "q55",
         "text": "Was ist Docker in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für docker und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Docker ist ein wichtiger Service in IIS Configuration, der docker und verwandte Funktionen bereitstellt.",
@@ -1315,10 +1315,10 @@
         "id": "q57",
         "text": "Was ist Storage in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für storage und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Storage ist ein wichtiger Service in IIS Configuration, der storage und verwandte Funktionen bereitstellt.",
@@ -1338,10 +1338,10 @@
         "id": "q58",
         "text": "Was ist Database in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für database und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Database ist ein wichtiger Service in IIS Configuration, der database und verwandte Funktionen bereitstellt.",
@@ -1361,10 +1361,10 @@
         "id": "q59",
         "text": "Was ist Authentication in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für authentication und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Authentication ist ein wichtiger Service in IIS Configuration, der authentication und verwandte Funktionen bereitstellt.",
@@ -1384,10 +1384,10 @@
         "id": "q60",
         "text": "Was ist Authorization in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für authorization und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Authorization ist ein wichtiger Service in IIS Configuration, der authorization und verwandte Funktionen bereitstellt.",
@@ -1407,10 +1407,10 @@
         "id": "q61",
         "text": "Was ist Compliance in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für compliance und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Compliance ist ein wichtiger Service in IIS Configuration, der compliance und verwandte Funktionen bereitstellt.",
@@ -1430,10 +1430,10 @@
         "id": "q62",
         "text": "Was ist Governance in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für governance und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Governance ist ein wichtiger Service in IIS Configuration, der governance und verwandte Funktionen bereitstellt.",
@@ -1453,10 +1453,10 @@
         "id": "q63",
         "text": "Was ist Cost Management in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für cost management und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Cost Management ist ein wichtiger Service in IIS Configuration, der cost management und verwandte Funktionen bereitstellt.",
@@ -1476,10 +1476,10 @@
         "id": "q64",
         "text": "Was ist Resource Management in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für resource management und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Resource Management ist ein wichtiger Service in IIS Configuration, der resource management und verwandte Funktionen bereitstellt.",
@@ -1522,10 +1522,10 @@
         "id": "q66",
         "text": "Was ist Policies in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für policies und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Policies ist ein wichtiger Service in IIS Configuration, der policies und verwandte Funktionen bereitstellt.",
@@ -1545,10 +1545,10 @@
         "id": "q67",
         "text": "Was ist Blueprints in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für blueprints und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Blueprints ist ein wichtiger Service in IIS Configuration, der blueprints und verwandte Funktionen bereitstellt.",
@@ -1568,10 +1568,10 @@
         "id": "q68",
         "text": "Was ist RBAC in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für rbac und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "RBAC ist ein wichtiger Service in IIS Configuration, der rbac und verwandte Funktionen bereitstellt.",
@@ -1591,10 +1591,10 @@
         "id": "q69",
         "text": "Was ist IAM in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für iam und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IAM ist ein wichtiger Service in IIS Configuration, der iam und verwandte Funktionen bereitstellt.",
@@ -1614,10 +1614,10 @@
         "id": "q70",
         "text": "Was ist Secrets Management in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für secrets management und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Secrets Management ist ein wichtiger Service in IIS Configuration, der secrets management und verwandte Funktionen bereitstellt.",
@@ -1637,10 +1637,10 @@
         "id": "q71",
         "text": "Was ist Key Management in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für key management und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Key Management ist ein wichtiger Service in IIS Configuration, der key management und verwandte Funktionen bereitstellt.",
@@ -1660,10 +1660,10 @@
         "id": "q72",
         "text": "Was ist Certificate Management in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für certificate management und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Certificate Management ist ein wichtiger Service in IIS Configuration, der certificate management und verwandte Funktionen bereitstellt.",
@@ -1683,10 +1683,10 @@
         "id": "q73",
         "text": "Was ist Encryption in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für encryption und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Encryption ist ein wichtiger Service in IIS Configuration, der encryption und verwandte Funktionen bereitstellt.",
@@ -1706,10 +1706,10 @@
         "id": "q74",
         "text": "Was ist Decryption in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für decryption und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Decryption ist ein wichtiger Service in IIS Configuration, der decryption und verwandte Funktionen bereitstellt.",
@@ -1729,10 +1729,10 @@
         "id": "q75",
         "text": "Was ist Hashing in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für hashing und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Hashing ist ein wichtiger Service in IIS Configuration, der hashing und verwandte Funktionen bereitstellt.",
@@ -1752,10 +1752,10 @@
         "id": "q76",
         "text": "Was ist Signing in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für signing und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Signing ist ein wichtiger Service in IIS Configuration, der signing und verwandte Funktionen bereitstellt.",
@@ -1775,10 +1775,10 @@
         "id": "q77",
         "text": "Was ist Verification in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für verification und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Verification ist ein wichtiger Service in IIS Configuration, der verification und verwandte Funktionen bereitstellt.",
@@ -1798,10 +1798,10 @@
         "id": "q78",
         "text": "Was ist Auditing in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für auditing und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Auditing ist ein wichtiger Service in IIS Configuration, der auditing und verwandte Funktionen bereitstellt.",
@@ -1821,10 +1821,10 @@
         "id": "q79",
         "text": "Was ist Reporting in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für reporting und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Reporting ist ein wichtiger Service in IIS Configuration, der reporting und verwandte Funktionen bereitstellt.",
@@ -1844,10 +1844,10 @@
         "id": "q80",
         "text": "Was ist Analytics in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für analytics und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Analytics ist ein wichtiger Service in IIS Configuration, der analytics und verwandte Funktionen bereitstellt.",
@@ -1867,10 +1867,10 @@
         "id": "q81",
         "text": "Was ist Machine Learning in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für machine learning und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Machine Learning ist ein wichtiger Service in IIS Configuration, der machine learning und verwandte Funktionen bereitstellt.",
@@ -1890,10 +1890,10 @@
         "id": "q82",
         "text": "Was ist Artificial Intelligence in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für artificial intelligence und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Artificial Intelligence ist ein wichtiger Service in IIS Configuration, der artificial intelligence und verwandte Funktionen bereitstellt.",
@@ -1913,10 +1913,10 @@
         "id": "q83",
         "text": "Was ist Data Science in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für data science und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Data Science ist ein wichtiger Service in IIS Configuration, der data science und verwandte Funktionen bereitstellt.",
@@ -1936,10 +1936,10 @@
         "id": "q84",
         "text": "Was ist Big Data in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für big data und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Big Data ist ein wichtiger Service in IIS Configuration, der big data und verwandte Funktionen bereitstellt.",
@@ -1959,10 +1959,10 @@
         "id": "q85",
         "text": "Was ist Streaming in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für streaming und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Streaming ist ein wichtiger Service in IIS Configuration, der streaming und verwandte Funktionen bereitstellt.",
@@ -1982,10 +1982,10 @@
         "id": "q86",
         "text": "Was ist Event Processing in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für event processing und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Event Processing ist ein wichtiger Service in IIS Configuration, der event processing und verwandte Funktionen bereitstellt.",
@@ -2005,10 +2005,10 @@
         "id": "q87",
         "text": "Was ist Message Queues in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für message queues und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Message Queues ist ein wichtiger Service in IIS Configuration, der message queues und verwandte Funktionen bereitstellt.",
@@ -2028,10 +2028,10 @@
         "id": "q88",
         "text": "Was ist Service Bus in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für service bus und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Service Bus ist ein wichtiger Service in IIS Configuration, der service bus und verwandte Funktionen bereitstellt.",
@@ -2051,10 +2051,10 @@
         "id": "q89",
         "text": "Was ist Event Grid in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für event grid und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Event Grid ist ein wichtiger Service in IIS Configuration, der event grid und verwandte Funktionen bereitstellt.",
@@ -2074,10 +2074,10 @@
         "id": "q90",
         "text": "Was ist Event Hubs in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für event hubs und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Event Hubs ist ein wichtiger Service in IIS Configuration, der event hubs und verwandte Funktionen bereitstellt.",
@@ -2097,10 +2097,10 @@
         "id": "q91",
         "text": "Was ist IoT in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für iot und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "IoT ist ein wichtiger Service in IIS Configuration, der iot und verwandte Funktionen bereitstellt.",
@@ -2120,10 +2120,10 @@
         "id": "q92",
         "text": "Was ist Edge Computing in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für edge computing und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Edge Computing ist ein wichtiger Service in IIS Configuration, der edge computing und verwandte Funktionen bereitstellt.",
@@ -2143,10 +2143,10 @@
         "id": "q93",
         "text": "Was ist Serverless in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für serverless und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Serverless ist ein wichtiger Service in IIS Configuration, der serverless und verwandte Funktionen bereitstellt.",
@@ -2166,10 +2166,10 @@
         "id": "q94",
         "text": "Was ist Functions in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für functions und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Functions ist ein wichtiger Service in IIS Configuration, der functions und verwandte Funktionen bereitstellt.",
@@ -2189,10 +2189,10 @@
         "id": "q95",
         "text": "Was ist Logic Apps in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für logic apps und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Logic Apps ist ein wichtiger Service in IIS Configuration, der logic apps und verwandte Funktionen bereitstellt.",
@@ -2212,10 +2212,10 @@
         "id": "q96",
         "text": "Was ist Power Apps in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für power apps und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Power Apps ist ein wichtiger Service in IIS Configuration, der power apps und verwandte Funktionen bereitstellt.",
@@ -2235,10 +2235,10 @@
         "id": "q97",
         "text": "Was ist Power Automate in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für power automate und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Power Automate ist ein wichtiger Service in IIS Configuration, der power automate und verwandte Funktionen bereitstellt.",
@@ -2258,10 +2258,10 @@
         "id": "q98",
         "text": "Was ist Power BI in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für power bi und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Power BI ist ein wichtiger Service in IIS Configuration, der power bi und verwandte Funktionen bereitstellt.",
@@ -2281,10 +2281,10 @@
         "id": "q99",
         "text": "Was ist Cognitive Services in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für cognitive services und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Cognitive Services ist ein wichtiger Service in IIS Configuration, der cognitive services und verwandte Funktionen bereitstellt.",
@@ -2304,10 +2304,10 @@
         "id": "q100",
         "text": "Was ist Bot Framework in IIS Configuration?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Apache Web Server",
           "Ein Service für bot framework und verwandte Funktionen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein Nginx Reverse Proxy",
+          "Ein Node.js Server"
         ],
         "correctIndex": 1,
         "explanation": "Bot Framework ist ein wichtiger Service in IIS Configuration, der bot framework und verwandte Funktionen bereitstellt.",

@@ -65,10 +65,10 @@
         "id": "q3",
         "text": "Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
@@ -87,10 +87,10 @@
         "id": "q4",
         "text": "Welche Rolle spielt das BSI im IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Zentrale Stelle für IT-Sicherheit in Deutschland",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
@@ -109,10 +109,10 @@
         "id": "q5",
         "text": "Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
@@ -175,10 +175,10 @@
         "id": "q8",
         "text": "Frage 8: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
@@ -197,10 +197,10 @@
         "id": "q9",
         "text": "Frage 9: Welche Rolle spielt das BSI im IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Zentrale Stelle für IT-Sicherheit in Deutschland",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
@@ -219,10 +219,10 @@
         "id": "q10",
         "text": "Frage 10: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
@@ -285,10 +285,10 @@
         "id": "q13",
         "text": "Frage 13: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
@@ -307,10 +307,10 @@
         "id": "q14",
         "text": "Frage 14: Welche Rolle spielt das BSI im IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Zentrale Stelle für IT-Sicherheit in Deutschland",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
@@ -329,10 +329,10 @@
         "id": "q15",
         "text": "Frage 15: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
@@ -395,10 +395,10 @@
         "id": "q18",
         "text": "Frage 18: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
@@ -417,10 +417,10 @@
         "id": "q19",
         "text": "Frage 19: Welche Rolle spielt das BSI im IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Zentrale Stelle für IT-Sicherheit in Deutschland",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
@@ -439,10 +439,10 @@
         "id": "q20",
         "text": "Frage 20: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
@@ -505,10 +505,10 @@
         "id": "q23",
         "text": "Frage 23: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
@@ -527,10 +527,10 @@
         "id": "q24",
         "text": "Frage 24: Welche Rolle spielt das BSI im IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Zentrale Stelle für IT-Sicherheit in Deutschland",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
@@ -549,10 +549,10 @@
         "id": "q25",
         "text": "Frage 25: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
@@ -615,10 +615,10 @@
         "id": "q28",
         "text": "Frage 28: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
@@ -637,10 +637,10 @@
         "id": "q29",
         "text": "Frage 29: Welche Rolle spielt das BSI im IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Zentrale Stelle für IT-Sicherheit in Deutschland",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
@@ -659,10 +659,10 @@
         "id": "q30",
         "text": "Frage 30: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
@@ -725,10 +725,10 @@
         "id": "q33",
         "text": "Frage 33: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
@@ -747,10 +747,10 @@
         "id": "q34",
         "text": "Frage 34: Welche Rolle spielt das BSI im IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Zentrale Stelle für IT-Sicherheit in Deutschland",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
@@ -769,10 +769,10 @@
         "id": "q35",
         "text": "Frage 35: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
@@ -835,10 +835,10 @@
         "id": "q38",
         "text": "Frage 38: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
@@ -857,10 +857,10 @@
         "id": "q39",
         "text": "Frage 39: Welche Rolle spielt das BSI im IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Zentrale Stelle für IT-Sicherheit in Deutschland",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
@@ -879,10 +879,10 @@
         "id": "q40",
         "text": "Frage 40: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
@@ -945,10 +945,10 @@
         "id": "q43",
         "text": "Frage 43: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
@@ -967,10 +967,10 @@
         "id": "q44",
         "text": "Frage 44: Welche Rolle spielt das BSI im IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Zentrale Stelle für IT-Sicherheit in Deutschland",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
@@ -989,10 +989,10 @@
         "id": "q45",
         "text": "Frage 45: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",
@@ -1055,10 +1055,10 @@
         "id": "q48",
         "text": "Frage 48: Was sind 'kritische Infrastrukturen' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",
@@ -1077,10 +1077,10 @@
         "id": "q49",
         "text": "Frage 49: Welche Rolle spielt das BSI im IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Zentrale Stelle für IT-Sicherheit in Deutschland",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das BSI ist die zentrale Stelle für IT-Sicherheit in Deutschland und hat umfassende Aufgaben bei der Gewährleistung der IT-Sicherheit.",
@@ -1099,10 +1099,10 @@
         "id": "q50",
         "text": "Frage 50: Was sind 'IT-Sicherheitsvorfälle' nach dem IT-SiG 2.0?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "IT-Sicherheitsvorfälle sind Ereignisse, die die IT-Sicherheit beeinträchtigen oder beeinträchtigen können, einschließlich Cyberangriffe, Datenverluste und Systemausfälle.",

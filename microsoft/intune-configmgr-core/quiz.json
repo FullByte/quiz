@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist Microsoft Intune?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Cloud-basierter Service für Mobile Device Management (MDM) und Mobile Application Management (MAM)",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Intune ist ein Cloud-basierter Service für Mobile Device Management und Mobile Application Management, der die Verwaltung von Geräten und Apps ermöglicht.",
@@ -49,10 +49,10 @@
         "id": "q2",
         "text": "Was ist Microsoft Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein lokales System-Management-Tool für die Verwaltung von PCs, Servern und mobilen Geräten",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Configuration Manager ist ein lokales System-Management-Tool, das die Verwaltung von PCs, Servern und mobilen Geräten in Unternehmensumgebungen ermöglicht.",
@@ -72,10 +72,10 @@
         "id": "q3",
         "text": "Welche Gerätetypen kann Microsoft Intune verwalten?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Windows, iOS, Android und macOS-Geräte",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Intune kann verschiedene Gerätetypen verwalten: Windows (Desktop und Mobile), iOS, Android und macOS-Geräte.",
@@ -95,10 +95,10 @@
         "id": "q4",
         "text": "Was ist Co-Management?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Eine Lösung, die Configuration Manager und Intune kombiniert",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "Co-Management ermöglicht es, Windows 10/11-Geräte gleichzeitig mit Configuration Manager und Microsoft Intune zu verwalten.",
@@ -118,10 +118,10 @@
         "id": "q5",
         "text": "Was sind Compliance-Richtlinien in Intune?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Regeln, die definieren, welche Einstellungen ein Gerät haben muss, um als konform zu gelten",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "Compliance-Richtlinien definieren Regeln und Einstellungen, die ein Gerät erfüllen muss, um als konform und sicher zu gelten.",
@@ -141,10 +141,10 @@
         "id": "q6",
         "text": "Was ist Conditional Access in Intune?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Ein Sicherheitsfeature, das den Zugriff auf Ressourcen basierend auf Geräte-Compliance steuert",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "Conditional Access in Intune steuert den Zugriff auf Unternehmensressourcen basierend auf Geräte-Compliance und anderen Bedingungen.",
@@ -164,10 +164,10 @@
         "id": "q7",
         "text": "Was ist Mobile Application Management (MAM)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Die Verwaltung und Sicherung von mobilen Anwendungen ohne Geräteverwaltung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "MAM ermöglicht die Verwaltung und Sicherung von mobilen Anwendungen, ohne das gesamte Gerät verwalten zu müssen.",
@@ -187,10 +187,10 @@
         "id": "q8",
         "text": "Welche Bereitstellungsmethoden unterstützt Configuration Manager?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Push-Installation, Pull-Installation, Software Center und automatische Bereitstellung",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "Configuration Manager unterstützt verschiedene Bereitstellungsmethoden: Push-Installation, Pull-Installation, Software Center und automatische Bereitstellung.",
@@ -210,10 +210,10 @@
         "id": "q9",
         "text": "Was ist Windows Autopilot?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Linux Betriebssystem",
           "Ein Service für die automatische Bereitstellung und Konfiguration neuer Windows-Geräte",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Ein macOS Feature",
+          "Ein Unix System"
         ],
         "correctIndex": 1,
         "explanation": "Windows Autopilot ermöglicht die automatische Bereitstellung und Konfiguration neuer Windows-Geräte ohne manuelle IT-Intervention.",
@@ -233,10 +233,10 @@
         "id": "q10",
         "text": "Welche Lizenzierungsoptionen gibt es für Microsoft Intune?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Verschiedene Lizenzierungsstufen als Teil von Microsoft 365 oder als eigenständiger Service",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Intune ist als Teil von Microsoft 365-Lizenzen verfügbar oder kann als eigenständiger Service mit verschiedenen Lizenzierungsstufen erworben werden.",
@@ -256,10 +256,10 @@
         "id": "q11",
         "text": "Was ist Microsoft Intune App Protection?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für den Schutz von Unternehmens-Apps ohne Geräteverwaltung",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Intune App Protection schützt Unternehmensdaten in Apps, ohne das gesamte Gerät verwalten zu müssen.",
@@ -279,10 +279,10 @@
         "id": "q12",
         "text": "Was ist Microsoft Intune Device Compliance?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service zur Überprüfung der Konformität von Geräten mit Unternehmensrichtlinien",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Intune Device Compliance überprüft, ob Geräte die definierten Unternehmensrichtlinien und Sicherheitsstandards einhalten.",
@@ -302,10 +302,10 @@
         "id": "q13",
         "text": "Was ist Microsoft Intune Endpoint Detection and Response (EDR)?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für die Erkennung und Reaktion auf Bedrohungen an Endpunkten",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Intune EDR erkennt und reagiert auf Bedrohungen an Endpunkten durch kontinuierliche Überwachung und automatisierte Reaktionen.",
@@ -325,10 +325,10 @@
         "id": "q14",
         "text": "Was ist Configuration Manager Software Center?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Eine Self-Service-Anwendung für Benutzer zum Installieren von Software",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "Configuration Manager Software Center ist eine Self-Service-Anwendung, die es Benutzern ermöglicht, verfügbare Software selbst zu installieren.",
@@ -348,10 +348,10 @@
         "id": "q15",
         "text": "Was ist Configuration Manager Operating System Deployment (OSD)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Ein Service für die automatisierte Bereitstellung von Betriebssystemen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "Configuration Manager OSD ermöglicht die automatisierte Bereitstellung und Konfiguration von Betriebssystemen auf Computern.",
@@ -371,10 +371,10 @@
         "id": "q16",
         "text": "Was ist Configuration Manager Inventory?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Ein Service für die Sammlung von Hardware- und Software-Informationen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "Configuration Manager Inventory sammelt detaillierte Informationen über Hardware und Software in der Umgebung für Asset-Management.",
@@ -395,10 +395,10 @@
         "id": "q17",
         "text": "Was ist Microsoft Intune Device Enrollment?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Prozess zur Registrierung von Geräten in der Intune-Verwaltung",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Intune Device Enrollment ist der Prozess zur Registrierung von Geräten in der Intune-Verwaltung für MDM/MAM.",
@@ -418,10 +418,10 @@
         "id": "q18",
         "text": "Was ist Configuration Manager Wake on LAN (WOL)?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Eine Technologie zum Aufwecken von Computern über das Netzwerk",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "Configuration Manager Wake on LAN ermöglicht es, Computer über das Netzwerk aufzuwecken, um Wartungsaufgaben durchzuführen.",
@@ -441,10 +441,10 @@
         "id": "q19",
         "text": "Welche Microsoft Intune-Integrationen gibt es?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Azure AD, Microsoft Defender, Microsoft 365 und Configuration Manager",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Intune integriert sich mit Azure AD, Microsoft Defender, Microsoft 365 und Configuration Manager für umfassende Endpoint-Management.",
@@ -464,10 +464,10 @@
         "id": "q20",
         "text": "Was ist Configuration Manager Client Health?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Ein Google Service",
           "Ein Service zur Überwachung und Reparatur der Configuration Manager-Client-Installation",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine AWS Lösung",
+          "Ein Open Source Framework"
         ],
         "correctIndex": 1,
         "explanation": "Configuration Manager Client Health überwacht den Zustand der Client-Installation und repariert automatisch häufige Probleme.",
@@ -487,10 +487,10 @@
         "id": "q21",
         "text": "Was ist Grundlagen in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für grundlagen und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Grundlagen ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der grundlagen und verwandte Funktionen bereitstellt.",
@@ -510,10 +510,10 @@
         "id": "q22",
         "text": "Was ist Konfiguration in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für konfiguration und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Konfiguration ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der konfiguration und verwandte Funktionen bereitstellt.",
@@ -533,10 +533,10 @@
         "id": "q23",
         "text": "Was ist Verwaltung in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für verwaltung und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Verwaltung ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der verwaltung und verwandte Funktionen bereitstellt.",
@@ -556,10 +556,10 @@
         "id": "q24",
         "text": "Was ist Sicherheit in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für sicherheit und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Sicherheit ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der sicherheit und verwandte Funktionen bereitstellt.",
@@ -579,10 +579,10 @@
         "id": "q25",
         "text": "Was ist Performance in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für performance und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Performance ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der performance und verwandte Funktionen bereitstellt.",
@@ -602,10 +602,10 @@
         "id": "q26",
         "text": "Was ist Skalierung in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für skalierung und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Skalierung ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der skalierung und verwandte Funktionen bereitstellt.",
@@ -625,10 +625,10 @@
         "id": "q27",
         "text": "Was ist Monitoring in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für monitoring und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Monitoring ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der monitoring und verwandte Funktionen bereitstellt.",
@@ -671,10 +671,10 @@
         "id": "q29",
         "text": "Was ist Backup in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für backup und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Backup ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der backup und verwandte Funktionen bereitstellt.",
@@ -694,10 +694,10 @@
         "id": "q30",
         "text": "Was ist Recovery in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für recovery und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Recovery ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der recovery und verwandte Funktionen bereitstellt.",
@@ -717,10 +717,10 @@
         "id": "q31",
         "text": "Was ist Disaster Recovery in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für disaster recovery und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Disaster Recovery ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der disaster recovery und verwandte Funktionen bereitstellt.",
@@ -740,10 +740,10 @@
         "id": "q32",
         "text": "Was ist High Availability in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für high availability und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "High Availability ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der high availability und verwandte Funktionen bereitstellt.",
@@ -763,10 +763,10 @@
         "id": "q33",
         "text": "Was ist Load Balancing in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für load balancing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Load Balancing ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der load balancing und verwandte Funktionen bereitstellt.",
@@ -786,10 +786,10 @@
         "id": "q34",
         "text": "Was ist Caching in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für caching und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Caching ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der caching und verwandte Funktionen bereitstellt.",
@@ -809,10 +809,10 @@
         "id": "q35",
         "text": "Was ist Optimierung in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für optimierung und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Optimierung ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der optimierung und verwandte Funktionen bereitstellt.",
@@ -832,10 +832,10 @@
         "id": "q36",
         "text": "Was ist Integration in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für integration und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Integration ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der integration und verwandte Funktionen bereitstellt.",
@@ -855,10 +855,10 @@
         "id": "q37",
         "text": "Was ist APIs in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für apis und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "APIs ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der apis und verwandte Funktionen bereitstellt.",
@@ -878,10 +878,10 @@
         "id": "q38",
         "text": "Was ist SDKs in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für sdks und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "SDKs ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der sdks und verwandte Funktionen bereitstellt.",
@@ -901,10 +901,10 @@
         "id": "q39",
         "text": "Was ist CLI in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für cli und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "CLI ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der cli und verwandte Funktionen bereitstellt.",
@@ -924,10 +924,10 @@
         "id": "q40",
         "text": "Was ist PowerShell in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für powershell und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der powershell und verwandte Funktionen bereitstellt.",
@@ -947,10 +947,10 @@
         "id": "q41",
         "text": "Was ist Templates in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für templates und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Templates ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der templates und verwandte Funktionen bereitstellt.",
@@ -970,10 +970,10 @@
         "id": "q42",
         "text": "Was ist Automation in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für automation und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Automation ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der automation und verwandte Funktionen bereitstellt.",
@@ -993,10 +993,10 @@
         "id": "q43",
         "text": "Was ist DevOps in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für devops und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "DevOps ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der devops und verwandte Funktionen bereitstellt.",
@@ -1016,10 +1016,10 @@
         "id": "q44",
         "text": "Was ist CI/CD in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für ci/cd und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "CI/CD ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der ci/cd und verwandte Funktionen bereitstellt.",
@@ -1039,10 +1039,10 @@
         "id": "q45",
         "text": "Was ist Deployment in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für deployment und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Deployment ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der deployment und verwandte Funktionen bereitstellt.",
@@ -1062,10 +1062,10 @@
         "id": "q46",
         "text": "Was ist Testing in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für testing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Testing ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der testing und verwandte Funktionen bereitstellt.",
@@ -1108,10 +1108,10 @@
         "id": "q48",
         "text": "Was ist Troubleshooting in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für troubleshooting und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Troubleshooting ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der troubleshooting und verwandte Funktionen bereitstellt.",
@@ -1131,10 +1131,10 @@
         "id": "q49",
         "text": "Was ist Best Practices in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für best practices und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Best Practices ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der best practices und verwandte Funktionen bereitstellt.",
@@ -1154,10 +1154,10 @@
         "id": "q50",
         "text": "Was ist Architecture in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für architecture und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Architecture ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der architecture und verwandte Funktionen bereitstellt.",
@@ -1177,10 +1177,10 @@
         "id": "q51",
         "text": "Was ist Design Patterns in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für design patterns und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Design Patterns ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der design patterns und verwandte Funktionen bereitstellt.",
@@ -1200,10 +1200,10 @@
         "id": "q52",
         "text": "Was ist Microservices in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für microservices und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Microservices ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der microservices und verwandte Funktionen bereitstellt.",
@@ -1223,10 +1223,10 @@
         "id": "q53",
         "text": "Was ist Containers in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für containers und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Containers ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der containers und verwandte Funktionen bereitstellt.",
@@ -1246,10 +1246,10 @@
         "id": "q54",
         "text": "Was ist Kubernetes in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für kubernetes und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Kubernetes ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der kubernetes und verwandte Funktionen bereitstellt.",
@@ -1269,10 +1269,10 @@
         "id": "q55",
         "text": "Was ist Docker in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für docker und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Docker ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der docker und verwandte Funktionen bereitstellt.",
@@ -1292,10 +1292,10 @@
         "id": "q56",
         "text": "Was ist Networking in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für networking und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Networking ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der networking und verwandte Funktionen bereitstellt.",
@@ -1315,10 +1315,10 @@
         "id": "q57",
         "text": "Was ist Storage in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für storage und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Storage ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der storage und verwandte Funktionen bereitstellt.",
@@ -1338,10 +1338,10 @@
         "id": "q58",
         "text": "Was ist Database in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für database und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Database ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der database und verwandte Funktionen bereitstellt.",
@@ -1361,10 +1361,10 @@
         "id": "q59",
         "text": "Was ist Authentication in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für authentication und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Authentication ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der authentication und verwandte Funktionen bereitstellt.",
@@ -1384,10 +1384,10 @@
         "id": "q60",
         "text": "Was ist Authorization in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für authorization und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Authorization ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der authorization und verwandte Funktionen bereitstellt.",
@@ -1407,10 +1407,10 @@
         "id": "q61",
         "text": "Was ist Compliance in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für compliance und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Compliance ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der compliance und verwandte Funktionen bereitstellt.",
@@ -1430,10 +1430,10 @@
         "id": "q62",
         "text": "Was ist Governance in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für governance und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Governance ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der governance und verwandte Funktionen bereitstellt.",
@@ -1453,10 +1453,10 @@
         "id": "q63",
         "text": "Was ist Cost Management in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für cost management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Cost Management ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der cost management und verwandte Funktionen bereitstellt.",
@@ -1476,10 +1476,10 @@
         "id": "q64",
         "text": "Was ist Resource Management in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für resource management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Resource Management ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der resource management und verwandte Funktionen bereitstellt.",
@@ -1522,10 +1522,10 @@
         "id": "q66",
         "text": "Was ist Policies in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für policies und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Policies ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der policies und verwandte Funktionen bereitstellt.",
@@ -1545,10 +1545,10 @@
         "id": "q67",
         "text": "Was ist Blueprints in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für blueprints und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Blueprints ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der blueprints und verwandte Funktionen bereitstellt.",
@@ -1568,10 +1568,10 @@
         "id": "q68",
         "text": "Was ist RBAC in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für rbac und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "RBAC ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der rbac und verwandte Funktionen bereitstellt.",
@@ -1591,10 +1591,10 @@
         "id": "q69",
         "text": "Was ist IAM in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für iam und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "IAM ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der iam und verwandte Funktionen bereitstellt.",
@@ -1614,10 +1614,10 @@
         "id": "q70",
         "text": "Was ist Secrets Management in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für secrets management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Secrets Management ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der secrets management und verwandte Funktionen bereitstellt.",
@@ -1637,10 +1637,10 @@
         "id": "q71",
         "text": "Was ist Key Management in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für key management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Key Management ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der key management und verwandte Funktionen bereitstellt.",
@@ -1660,10 +1660,10 @@
         "id": "q72",
         "text": "Was ist Certificate Management in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für certificate management und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Certificate Management ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der certificate management und verwandte Funktionen bereitstellt.",
@@ -1683,10 +1683,10 @@
         "id": "q73",
         "text": "Was ist Encryption in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für encryption und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Encryption ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der encryption und verwandte Funktionen bereitstellt.",
@@ -1706,10 +1706,10 @@
         "id": "q74",
         "text": "Was ist Decryption in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für decryption und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Decryption ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der decryption und verwandte Funktionen bereitstellt.",
@@ -1729,10 +1729,10 @@
         "id": "q75",
         "text": "Was ist Hashing in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für hashing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Hashing ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der hashing und verwandte Funktionen bereitstellt.",
@@ -1752,10 +1752,10 @@
         "id": "q76",
         "text": "Was ist Signing in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für signing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Signing ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der signing und verwandte Funktionen bereitstellt.",
@@ -1775,10 +1775,10 @@
         "id": "q77",
         "text": "Was ist Verification in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für verification und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Verification ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der verification und verwandte Funktionen bereitstellt.",
@@ -1798,10 +1798,10 @@
         "id": "q78",
         "text": "Was ist Auditing in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für auditing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Auditing ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der auditing und verwandte Funktionen bereitstellt.",
@@ -1821,10 +1821,10 @@
         "id": "q79",
         "text": "Was ist Reporting in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für reporting und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Reporting ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der reporting und verwandte Funktionen bereitstellt.",
@@ -1844,10 +1844,10 @@
         "id": "q80",
         "text": "Was ist Analytics in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für analytics und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Analytics ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der analytics und verwandte Funktionen bereitstellt.",
@@ -1867,10 +1867,10 @@
         "id": "q81",
         "text": "Was ist Machine Learning in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für machine learning und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Machine Learning ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der machine learning und verwandte Funktionen bereitstellt.",
@@ -1890,10 +1890,10 @@
         "id": "q82",
         "text": "Was ist Artificial Intelligence in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für artificial intelligence und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Artificial Intelligence ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der artificial intelligence und verwandte Funktionen bereitstellt.",
@@ -1913,10 +1913,10 @@
         "id": "q83",
         "text": "Was ist Data Science in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für data science und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Data Science ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der data science und verwandte Funktionen bereitstellt.",
@@ -1936,10 +1936,10 @@
         "id": "q84",
         "text": "Was ist Big Data in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für big data und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Big Data ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der big data und verwandte Funktionen bereitstellt.",
@@ -1959,10 +1959,10 @@
         "id": "q85",
         "text": "Was ist Streaming in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für streaming und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Streaming ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der streaming und verwandte Funktionen bereitstellt.",
@@ -1982,10 +1982,10 @@
         "id": "q86",
         "text": "Was ist Event Processing in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für event processing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Event Processing ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der event processing und verwandte Funktionen bereitstellt.",
@@ -2005,10 +2005,10 @@
         "id": "q87",
         "text": "Was ist Message Queues in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für message queues und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Message Queues ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der message queues und verwandte Funktionen bereitstellt.",
@@ -2028,10 +2028,10 @@
         "id": "q88",
         "text": "Was ist Service Bus in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für service bus und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Service Bus ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der service bus und verwandte Funktionen bereitstellt.",
@@ -2051,10 +2051,10 @@
         "id": "q89",
         "text": "Was ist Event Grid in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für event grid und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Event Grid ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der event grid und verwandte Funktionen bereitstellt.",
@@ -2074,10 +2074,10 @@
         "id": "q90",
         "text": "Was ist Event Hubs in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für event hubs und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Event Hubs ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der event hubs und verwandte Funktionen bereitstellt.",
@@ -2097,10 +2097,10 @@
         "id": "q91",
         "text": "Was ist IoT in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für iot und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "IoT ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der iot und verwandte Funktionen bereitstellt.",
@@ -2120,10 +2120,10 @@
         "id": "q92",
         "text": "Was ist Edge Computing in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für edge computing und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Edge Computing ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der edge computing und verwandte Funktionen bereitstellt.",
@@ -2143,10 +2143,10 @@
         "id": "q93",
         "text": "Was ist Serverless in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für serverless und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Serverless ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der serverless und verwandte Funktionen bereitstellt.",
@@ -2166,10 +2166,10 @@
         "id": "q94",
         "text": "Was ist Functions in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für functions und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Functions ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der functions und verwandte Funktionen bereitstellt.",
@@ -2189,10 +2189,10 @@
         "id": "q95",
         "text": "Was ist Logic Apps in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für logic apps und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Logic Apps ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der logic apps und verwandte Funktionen bereitstellt.",
@@ -2212,10 +2212,10 @@
         "id": "q96",
         "text": "Was ist Power Apps in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für power apps und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Power Apps ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der power apps und verwandte Funktionen bereitstellt.",
@@ -2235,10 +2235,10 @@
         "id": "q97",
         "text": "Was ist Power Automate in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für power automate und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Power Automate ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der power automate und verwandte Funktionen bereitstellt.",
@@ -2258,10 +2258,10 @@
         "id": "q98",
         "text": "Was ist Power BI in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für power bi und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Power BI ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der power bi und verwandte Funktionen bereitstellt.",
@@ -2281,10 +2281,10 @@
         "id": "q99",
         "text": "Was ist Cognitive Services in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für cognitive services und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Cognitive Services ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der cognitive services und verwandte Funktionen bereitstellt.",
@@ -2304,10 +2304,10 @@
         "id": "q100",
         "text": "Was ist Bot Framework in Microsoft Intune und Configuration Manager?",
         "options": [
-          "Ein verwandtes Microsoft-Tool",
+          "Ein Google Cloud Service",
           "Ein Service für bot framework und verwandte Funktionen",
-          "Eine ähnliche Azure-Service",
-          "Eine vergleichbare Windows-Funktion"
+          "Eine AWS Funktion",
+          "Ein Open Source Tool"
         ],
         "correctIndex": 1,
         "explanation": "Bot Framework ist ein wichtiger Service in Microsoft Intune und Configuration Manager, der bot framework und verwandte Funktionen bereitstellt.",

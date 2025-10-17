@@ -117,10 +117,10 @@
         "id": "q5",
         "text": "Was versteht man unter 'Seeing' in der Astronomie?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die Luftunruhe der Erdatmosphäre",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Seeing beschreibt die Stabilität der Erdatmosphäre. Bei gutem Seeing sind die Sterne ruhig und scharf, bei schlechtem Seeing flackern sie stark. Dies beeinflusst die Qualität der Beobachtung erheblich.",
@@ -163,10 +163,10 @@
         "id": "q7",
         "text": "Was ist die Milchstraße?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Unsere Galaxie",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Milchstraße ist unsere Heimatgalaxie, eine Spiralgalaxie mit etwa 100-400 Milliarden Sternen. Wir befinden uns in einem ihrer Spiralarme und sehen sie als helles Band am Nachthimmel.",
@@ -209,10 +209,10 @@
         "id": "q9",
         "text": "Was ist ein Nebel?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Eine Ansammlung von Gas und Staub im Weltraum",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Nebel ist eine Wolke aus Gas und Staub im Weltraum. Es gibt verschiedene Arten: Emissionsnebel (leuchten selbst), Reflexionsnebel (reflektieren Licht) und Dunkelnebel (absorbieren Licht).",
@@ -234,7 +234,7 @@
         "options": [
           "Ein sehr heller Planet am Nachthimmel",
           "Ein Komet mit charakteristischem Schweif",
-          "Eine Lösung für blau",
+          "blau",
           "Ein Asteroid aus dem Asteroidengürtel"
         ],
         "correctIndex": 2,
@@ -255,10 +255,10 @@
         "id": "q11",
         "text": "Was ist die Ekliptik?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die scheinbare Bahn der Sonne vor dem Sternenhintergrund",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Ekliptik ist die scheinbare Bahn, die die Sonne im Laufe eines Jahres vor dem Sternenhintergrund beschreibt. Sie ist der Schnittkreis zwischen der Erdbahnebene und der Himmelskugel.",
@@ -301,10 +301,10 @@
         "id": "q13",
         "text": "Was ist ein Schwarzes Loch?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Objekt mit so starker Gravitation, dass nichts entkommen kann",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Schwarzes Loch ist ein Objekt mit extrem starker Gravitation. Innerhalb des Ereignishorizonts ist die Gravitation so stark, dass nicht einmal Licht entkommen kann, daher erscheint es schwarz.",
@@ -348,9 +348,9 @@
         "text": "Was ist die Lichtgeschwindigkeit?",
         "options": [
           "300.000 km/s",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Lichtgeschwindigkeit beträgt etwa 300.000 Kilometer pro Sekunde (genauer: 299.792.458 m/s). Dies ist die höchste Geschwindigkeit im Universum und entspricht etwa 1 Milliarde km/h.",
@@ -393,10 +393,10 @@
         "id": "q17",
         "text": "Was ist ein Meteorit?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Gesteinsbrocken, der auf die Erde gefallen ist",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Meteorit ist ein Gesteinsbrocken aus dem Weltraum, der die Erdatmosphäre durchquert und auf der Erdoberfläche eingeschlagen ist. Als Meteor erscheint er als Leuchtspur am Himmel.",
@@ -416,10 +416,10 @@
         "id": "q18",
         "text": "Welche Form hat die Erdumlaufbahn um die Sonne?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ellipse",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Erdumlaufbahn um die Sonne ist eine Ellipse, wobei die Sonne in einem der Brennpunkte steht. Die Exzentrizität ist jedoch sehr gering, daher ist die Bahn fast kreisförmig.",
@@ -439,10 +439,10 @@
         "id": "q19",
         "text": "Was ist die Hauptkomponente der Sonne?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wasserstoff",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Sonne besteht hauptsächlich aus Wasserstoff (etwa 73%) und Helium (etwa 25%). Durch Kernfusion wird Wasserstoff zu Helium umgewandelt, wobei enorme Energiemengen freigesetzt werden.",
@@ -578,9 +578,9 @@
         "text": "Was ist ein Pulsar?",
         "options": [
           "Ein schnell rotierender Neutronenstern",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Pulsar ist ein schnell rotierender Neutronenstern, der regelmäßige Radiopulse aussendet. Diese entstehen durch die Rotation des Sterns und starke Magnetfelder, die gebündelte Strahlung emittieren.",
@@ -601,9 +601,9 @@
         "text": "Welche Temperatur herrscht auf der Sonnenoberfläche?",
         "options": [
           "5.500°C",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Sonnenoberfläche (Photosphäre) hat eine Temperatur von etwa 5.500°C. Im Kern der Sonne herrschen dagegen Temperaturen von über 15 Millionen Grad Celsius.",
@@ -715,10 +715,10 @@
         "id": "q31",
         "text": "Was ist ein Roter Riese?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein alter, aufgeblähter Stern",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Roter Riese ist ein alter Stern, der seinen Wasserstoffvorrat verbraucht hat. Der Stern bläht sich auf und wird rot und sehr groß, während er Helium fusioniert. Die Sonne wird in etwa 5 Milliarden Jahren zu einem Roten Riesen.",
@@ -761,10 +761,10 @@
         "id": "q33",
         "text": "Was ist ein Weißer Zwerg?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Überrest eines mittelgroßen Sterns",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Weißer Zwerg ist der Überrest eines mittelgroßen Sterns (wie unserer Sonne) nach dem Verbrauch seines Brennstoffs. Er ist sehr dicht und kühlt langsam ab, bis er zu einem Schwarzen Zwerg wird.",
@@ -807,10 +807,10 @@
         "id": "q35",
         "text": "Was ist die Sonnenflecken?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Kühlere Bereiche auf der Sonnenoberfläche",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Sonnenflecken sind kühlere Bereiche auf der Sonnenoberfläche, die durch starke Magnetfelder entstehen. Sie erscheinen dunkler als die Umgebung und haben eine Temperatur von etwa 3.000-4.000°C statt der normalen 5.500°C.",
@@ -853,10 +853,10 @@
         "id": "q37",
         "text": "Was ist ein Quasar?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein aktiver Galaxienkern",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Quasar ist der aktive Kern einer sehr weit entfernten Galaxie, der von einem supermassiven Schwarzen Loch angetrieben wird. Quasare gehören zu den hellsten Objekten im Universum und können über Milliarden von Lichtjahren sichtbar sein.",
@@ -899,10 +899,10 @@
         "id": "q39",
         "text": "Was ist die Hubble-Konstante?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die Expansionsrate des Universums",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Hubble-Konstante beschreibt die Expansionsrate des Universums. Sie gibt an, wie schnell sich Galaxien voneinander entfernen und ist entscheidend für die Bestimmung des Alters und der Größe des Universums.",
@@ -923,9 +923,9 @@
         "text": "Welches Objekt ist am nächsten zur Sonne?",
         "options": [
           "Merkur",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Merkur ist der sonnennächste Planet mit einem durchschnittlichen Abstand von etwa 58 Millionen Kilometern. Seine Bahn ist allerdings elliptisch, sodass er zwischen 46 und 70 Millionen Kilometer von der Sonne entfernt ist.",
@@ -968,7 +968,7 @@
         "id": "q42",
         "text": "Welcher Planet hat die größte Dichte?",
         "options": [
-          "Eine Lösung für erde",
+          "erde",
           "Merkur als 1. Planet des Sonnensystems",
           "Merkur mit seinen charakteristischen Eigenschaften",
           "Venus mit seinen charakteristischen Eigenschaften"
@@ -991,10 +991,10 @@
         "id": "q43",
         "text": "Was ist die Corioliskraft?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Eine Scheinkraft durch die Erdrotation",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Corioliskraft ist eine Scheinkraft, die durch die Erdrotation entsteht. Sie beeinflusst Bewegungen auf der rotierenden Erde und ist für die Drehrichtung von Wirbelstürmen verantwortlich.",
@@ -1083,10 +1083,10 @@
         "id": "q47",
         "text": "Was ist ein Meteor?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Eine Leuchtspur am Himmel",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Meteor ist die Leuchtspur, die entsteht, wenn ein kleiner Gesteinsbrocken (Meteoroid) in die Erdatmosphäre eintritt und durch Reibung verglüht. Umgangssprachlich wird er auch als 'Sternschnuppe' bezeichnet.",
@@ -1129,10 +1129,10 @@
         "id": "q49",
         "text": "Was ist die Sonnenkorona?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die äußere Atmosphäre der Sonne",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Sonnenkorona ist die äußere, sehr heiße Atmosphäre der Sonne mit Temperaturen von über einer Million Grad Celsius. Sie ist nur bei totalen Sonnenfinsternissen sichtbar und erstreckt sich weit in den Weltraum.",
@@ -1175,10 +1175,10 @@
         "id": "q51",
         "text": "Was ist ein Roter Zwerg?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein kleiner, kühler Stern",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Roter Zwerg ist ein kleiner, kühler Stern mit geringer Masse und niedriger Temperatur. Rote Zwerge sind die häufigste Art von Sternen im Universum und haben sehr lange Lebensdauern von Billionen von Jahren.",
@@ -1451,10 +1451,10 @@
         "id": "q63",
         "text": "Was ist ein Rotationsellipsoid?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die Form der Erde durch Rotation",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Rotationsellipsoid ist die Form, die ein rotierender Körper durch die Fliehkraft annimmt. Die Erde ist kein perfekter Kreis, sondern ein Ellipsoid - am Äquator dicker und an den Polen abgeflacht.",
@@ -1589,10 +1589,10 @@
         "id": "q69",
         "text": "Was ist ein Meteoroid?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein kleiner Gesteinsbrocken im Weltraum",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Meteoroid ist ein kleiner Gesteinsbrocken im Weltraum, der kleiner als ein Asteroid ist. Wenn er in die Erdatmosphäre eintritt, wird er zu einem Meteor (Sternschnuppe), und wenn er die Oberfläche erreicht, zu einem Meteorit.",
@@ -1635,10 +1635,10 @@
         "id": "q71",
         "text": "Was ist ein Rotationsellipsoid?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die abgeflachte Form eines rotierenden Körpers",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Rotationsellipsoid ist die Form, die ein rotierender Körper durch die Fliehkraft annimmt. Die Erde ist kein perfekter Kreis, sondern ein Ellipsoid - am Äquator dicker und an den Polen abgeflacht durch die Rotation.",
@@ -1681,10 +1681,10 @@
         "id": "q73",
         "text": "Was ist ein Rotationsellipsoid?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die Form eines rotierenden Körpers",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Rotationsellipsoid ist die Form, die ein rotierender Körper durch die Fliehkraft annimmt. Die Erde ist kein perfekter Kreis, sondern ein Ellipsoid - am Äquator dicker und an den Polen abgeflacht durch die Rotation.",
@@ -1727,10 +1727,10 @@
         "id": "q75",
         "text": "Was ist ein Rotationsellipsoid?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die abgeflachte Form eines rotierenden Körpers",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Rotationsellipsoid ist die Form, die ein rotierender Körper durch die Fliehkraft annimmt. Die Erde ist kein perfekter Kreis, sondern ein Ellipsoid - am Äquator dicker und an den Polen abgeflacht durch die Rotation.",
@@ -1773,10 +1773,10 @@
         "id": "q77",
         "text": "Was ist ein Rotationsellipsoid?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die Form eines rotierenden Körpers",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Rotationsellipsoid ist die Form, die ein rotierender Körper durch die Fliehkraft annimmt. Die Erde ist kein perfekter Kreis, sondern ein Ellipsoid - am Äquator dicker und an den Polen abgeflacht durch die Rotation.",
@@ -1819,10 +1819,10 @@
         "id": "q79",
         "text": "Was ist ein Rotationsellipsoid?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die abgeflachte Form eines rotierenden Körpers",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Rotationsellipsoid ist die Form, die ein rotierender Körper durch die Fliehkraft annimmt. Die Erde ist kein perfekter Kreis, sondern ein Ellipsoid - am Äquator dicker und an den Polen abgeflacht durch die Rotation.",
@@ -1865,10 +1865,10 @@
         "id": "q81",
         "text": "Was ist ein Sonnenfleckenzyklus?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein etwa 11-jähriger Zyklus der Sonnenaktivität",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Sonnenfleckenzyklus ist ein etwa 11-jähriger Zyklus, in dem die Anzahl der Sonnenflecken und die Sonnenaktivität variiert. Während des Maximums gibt es viele Sonnenflecken und starke Sonnenaktivität.",
@@ -2141,10 +2141,10 @@
         "id": "q93",
         "text": "Was ist ein Rotationsellipsoid?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die Form der Erde durch Rotation",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Rotationsellipsoid ist die Form, die ein rotierender Körper durch die Fliehkraft annimmt. Die Erde ist kein perfekter Kreis, sondern ein Ellipsoid - am Äquator dicker und an den Polen abgeflacht.",
@@ -2279,10 +2279,10 @@
         "id": "q99",
         "text": "Was ist ein Meteoroid?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein kleiner Gesteinsbrocken im Weltraum",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Meteoroid ist ein kleiner Gesteinsbrocken im Weltraum, der kleiner als ein Asteroid ist. Wenn er in die Erdatmosphäre eintritt, wird er zu einem Meteor (Sternschnuppe), und wenn er die Oberfläche erreicht, zu einem Meteorit.",

@@ -47,10 +47,10 @@
         "id": "q2",
         "text": "Was garantiert Artikel 2 Absatz 2 GG jedem Menschen?",
         "options": [
-          "Eine ähnliche rechtliche Bestimmung",
+          "Das Recht auf Eigentum und Erbe",
           "Das Recht auf Leben und körperliche Unversehrtheit",
-          "Ein verwandtes Rechtsprinzip",
-          "Eine vergleichbare gesetzliche Regelung"
+          "Das Recht auf freie Berufswahl",
+          "Das Recht auf Gleichheit vor dem Gesetz"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 2 Abs. 2 GG schützt das Leben und die körperliche Unversehrtheit. Freie Berufswahl steht in Art. 12, Asyl in Art. 16a, Eigentum in Art. 14.",
@@ -69,9 +69,9 @@
         "text": "Was besagt Artikel 3 Absatz 1 GG?",
         "options": [
           "Alle Menschen sind vor dem Gesetz gleich.",
-          "Eine ähnliche rechtliche Bestimmung",
-          "Ein verwandtes Rechtsprinzip",
-          "Eine vergleichbare gesetzliche Regelung"
+          "Alle Deutschen sind vor dem Gesetz gleich.",
+          "Alle Staatsbürger haben gleiche Rechte.",
+          "Alle Personen haben gleiche Pflichten."
         ],
         "correctIndex": 0,
         "explanation": "Artikel 3 Abs. 1 GG stellt die allgemeine Gleichheit vor dem Gesetz sicher. Absatz 2 und 3 konkretisieren weitere Gleichheitsrechte.",
@@ -497,7 +497,7 @@
           "Eine ähnliche Sporttechnik",
           "Einfache Mehrheit der abgegebenen Stimmen",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach Artikel 42 Abs. 2 GG genügt die Mehrheit der abgegebenen Stimmen, sofern das Grundgesetz nichts anderes bestimmt.",
@@ -536,10 +536,10 @@
         "id": "q25",
         "text": "Wie viele Stimmen hat jedes Land mindestens im Bundesrat?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Drei Stimmen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 51 Abs. 2 GG garantiert jedem Land mindestens drei Stimmen im Bundesrat.",
@@ -557,10 +557,10 @@
         "id": "q26",
         "text": "Welches Organ wählt den Präsidenten des Bundesrates?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Der Bundesrat",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Artikel 52 Abs. 1 GG bestimmt, dass der Bundesrat seinen Präsidenten selbst auf ein Jahr wählt.",
@@ -620,10 +620,10 @@
         "id": "q29",
         "text": "Wie kann der Bundestag dem Bundeskanzler das Misstrauen aussprechen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Nur durch konstruktives Misstrauensvotum mit Wahl eines Nachfolgers",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 67 GG erlaubt nur ein konstruktives Misstrauensvotum, bei dem gleichzeitig ein neuer Kanzler gewählt wird.",

@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Ab welchem Mindestalter darf man grundsätzlich an Rennen von Downhill Deutschland teilnehmen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "14 Jahre",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das Mindestalter beträgt 14 Jahre, Ausnahmen können nur in Absprache mit Rennleitung, Eventorganisation und Erziehungsberechtigten vereinbart werden. Jüngere dürfen nicht teilnehmen.",
@@ -47,10 +47,10 @@
         "id": "q2",
         "text": "Welche maximale Länge ist für ein Downhill-Skateboard zugelassen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "122 cm",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Skateboard darf maximal 122 cm lang sein. Andere Angaben wie 135 cm oder 150 cm überschreiten die zulässigen Maße.",
@@ -69,10 +69,10 @@
         "id": "q3",
         "text": "Welche Aussage zur Schutzausrüstung ist korrekt?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Ein funktionsfähiger Vollvisierhelm ist Pflicht.",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Es muss ein funktionsfähiger Vollvisierhelm getragen werden. Handschuhe sind ebenfalls Pflicht, nicht optional. Rückenprotektoren sind bei bestimmten Rennen vorgeschrieben, nicht nur empfohlen.",
@@ -91,10 +91,10 @@
         "id": "q4",
         "text": "Wer ist während eines Rennens die offizielle Vertretung von Downhill Deutschland und Ansprechpartner*in für Proteste?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Renndirektion",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Renndirektion ist die offizielle Vertretung von Downhill Deutschland während eines Rennens und fungiert als Schiedsgericht. Streckenchef*in und Starter*in haben andere Aufgaben.",
@@ -113,10 +113,10 @@
         "id": "q5",
         "text": "Was passiert, wenn eine Person beim Start vor dem Signal 'Go!' losfährt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Start wird abgebrochen und die Person erhält eine Verwarnung.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Frühstart nach dem 'Riders set'-Signal gilt als Fehlstart. Der Start wird abgebrochen, die Person verwarnt. Erst ein zweiter Fehlstart führt zur Disqualifikation.",
@@ -135,10 +135,10 @@
         "id": "q6",
         "text": "Welche Bedingung muss erfüllt sein, damit eine Person im Rennen als führend gilt?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Mindestens 75% der Länge des Sportgeräts liegt vor einer anderen Person.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Person gilt als führend, wenn mindestens 75% der Länge ihres Sportgeräts vor einer anderen Person liegt. Dies ist unabhängig von vorherigen Heats.",
@@ -157,10 +157,10 @@
         "id": "q7",
         "text": "Was ist nach einem Sturz beim Neustart zwingend vorgeschrieben?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Neustart muss eigenständig erfolgen und den Startprinzipien entsprechen.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach einem Sturz muss die Weiterfahrt selbstständig erfolgen und sich am regulären Startverfahren orientieren. Fremde Hilfe oder fremde Sportgeräte sind verboten.",
@@ -201,10 +201,10 @@
         "id": "q9",
         "text": "Wie viele Punkte erhält der oder die Erstplatzierte in einem Hauptrennen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "1000 Punkte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der erste Platz in einem Hauptrennen wird mit 1000 Punkten bewertet. 961 Punkte gibt es für den zweiten Platz, 650 Punkte für den Sieg in einem Nebenrennen.",
@@ -223,10 +223,10 @@
         "id": "q10",
         "text": "Welche Strafe droht bei absichtlichem Körperkontakt im Rennen?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Eine Strafe, da absichtlicher Kontakt verboten ist.",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Absichtlicher Körperkontakt ist verboten und wird bestraft. Nur versehentlicher Kontakt darf keinen Vorteil erzeugen, sonst droht ebenfalls eine Strafe.",
@@ -245,10 +245,10 @@
         "id": "q11",
         "text": "Welche Position ist auf einem Skateboard während des Rennens verboten?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sitzen auf dem Brett",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Sitzen, Liegen oder Knien auf dem Skateboard ist verboten. Zulässig ist, dass sich mindestens ein Teil der Fußsohle auf dem Brett befindet.",
@@ -311,9 +311,9 @@
         "id": "q14",
         "text": "Wie lang ist der geschützte Bereich vor der Ziellinie?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren",
           "250 m"
         ],
         "correctIndex": 3,
@@ -336,7 +336,7 @@
           "Eine ähnliche Sporttechnik",
           "Die verursachende Person verliert ihre Platzierung und alle anderen rücken auf.",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei einem Regelverstoß im geschützten Bereich verliert die verursachende Person ihre Platzierung. Alle anderen rücken eine Position auf.",
@@ -356,9 +356,9 @@
         "text": "Welche Punktezahl erhält Platz 2 in einem Hauptrennen?",
         "options": [
           "961 Punkte",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Platz 2 in einem Hauptrennen wird mit 961 Punkten bewertet. 943 Punkte gibt es für Platz 3.",
@@ -377,10 +377,10 @@
         "id": "q17",
         "text": "Welche Punktezahl erhält Platz 1 in einem Nebenrennen?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "650 Punkte",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Platz 1 in einem Nebenrennen wird mit 650 Punkten bewertet. 1000 Punkte gelten nur für Platz 1 im Hauptrennen.",
@@ -399,10 +399,10 @@
         "id": "q18",
         "text": "Welche Position wird für ein 'Did Not Finish' (DNF) im Heat gewertet?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Platz 5",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein DNF wird als Platz 5 im Heat gewertet. DQ (Disqualified) gilt als Platz 6, DNS (Did Not Start) als Platz 7.",
@@ -424,7 +424,7 @@
           "Eine ähnliche Sporttechnik",
           "Das Regelwerk gelesen und verstanden haben.",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Alle Teilnehmenden müssen das gesamte Regelwerk gelesen und verstanden haben und sich entsprechend verhalten.",
@@ -443,10 +443,10 @@
         "id": "q20",
         "text": "Welche Körperposition ist auf der Streetluge vorgeschrieben?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Im Liegen oder Sitzen mit den Füßen nach vorne",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Streetluger*innen müssen in liegender oder sitzender Position mit den Füßen nach vorne fahren. Stehen, Knien oder Bauchlage sind verboten.",
@@ -465,10 +465,10 @@
         "id": "q21",
         "text": "Welche Konsequenz hat ein zweiter Fehlstart derselben Person?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Die Disqualifikation vom Rennen",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein erster Fehlstart führt zu einer Verwarnung. Ein zweiter Fehlstart derselben Person bedeutet die Disqualifikation vom Rennen.",
@@ -487,10 +487,10 @@
         "id": "q22",
         "text": "Welche Funktion hat der oder die Streckenchef*in?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Koordiniert die Sicherheit der Strecke und entscheidet über Streckensperrungen.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der oder die Streckenchef*in ist für die Sicherheit der Strecke verantwortlich und entscheidet über die Freigabe oder Sperrung (rot/grün).",
@@ -509,10 +509,10 @@
         "id": "q23",
         "text": "Welche Aufgabe haben die Streckenposten?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sie überwachen die Sicherheit auf ihrem Streckenabschnitt und setzen Flaggen ein.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Streckenposten stellen die Sicherheit auf ihrem Abschnitt sicher und setzen Flaggen zur Gefahrenanzeige ein. Sie haben keine administrative Funktion wie Punktevergabe.",
@@ -531,10 +531,10 @@
         "id": "q24",
         "text": "Was ist die Aufgabe der Athlet*innenkoordination?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sie sorgt für Ordnung am Startbereich und gibt organisatorische Hilfestellungen.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Athlet*innenkoordination unterstützt organisatorisch, indem sie den Startbereich frei hält und den Ablauf erleichtert, ohne offizielle Entscheidungsbefugnisse.",
@@ -575,10 +575,10 @@
         "id": "q26",
         "text": "Welche Pflicht haben Teilnehmende in Bezug auf ihre Ausrüstung?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die Ausrüstung muss jederzeit regelkonform sein und kann überprüft werden.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Ausrüstung muss jederzeit den Regeln entsprechen. Downhill Deutschland darf jederzeit Kontrollen durchführen.",
@@ -597,10 +597,10 @@
         "id": "q27",
         "text": "Welche Schutzausrüstung ist bei Kopf-an-Kopf-Rennen vorgeschrieben?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Rückenprotektor",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Rückenprotektor ist bei Kopf-an-Kopf- und Hochgeschwindigkeitsrennen vorgeschrieben. Speedsuits sind dagegen ausdrücklich verboten.",
@@ -619,10 +619,10 @@
         "id": "q28",
         "text": "Was ist bezüglich zusätzlichem Gewicht am Körper erlaubt?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Gar kein zusätzliches Gewicht",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Zusätzliches Gewicht in Form von Ballast am Körper ist ausdrücklich verboten.",
@@ -641,10 +641,10 @@
         "id": "q29",
         "text": "Welche Startposition ist für Skateboarder*innen vorgeschrieben?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Fuß auf dem Brett, anderer am Boden, alle Rollen am Boden",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Beim Start muss ein Fuß auf dem Brett stehen, der andere am Boden, und alle Rollen das Startgelände berühren.",
@@ -663,9 +663,9 @@
         "id": "q30",
         "text": "Wie wird ein 'Did Not Start' (DNS) im Heat gewertet?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren",
           "Platz 7"
         ],
         "correctIndex": 3,
@@ -685,10 +685,10 @@
         "id": "q31",
         "text": "Welche Aufgabe hat die Rennleitung bei einem Event?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Erstellung des Zeitplans, Regelung der Abläufe und Ansprechpartner für Teilnehmende",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Rennleitung erstellt Zeitpläne, regelt die Abläufe und ist zentrale Ansprechstelle für die Teilnehmenden. Sie übernimmt nicht nur die Punktevergabe.",
@@ -707,10 +707,10 @@
         "id": "q32",
         "text": "Wie groß darf die maximale Rollengröße bei Skateboards sein?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "110 mm",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die maximale Rollengröße für Skateboards beträgt 110 mm. Für Streetluge liegt sie höher bei 130 mm.",
@@ -729,10 +729,10 @@
         "id": "q33",
         "text": "Welche Höchstlänge ist für eine Streetluge erlaubt?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "300 cm",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Eine Streetluge darf maximal 300 cm lang sein. Werte wie 250 cm oder 350 cm sind nicht regelkonform.",
@@ -751,10 +751,10 @@
         "id": "q34",
         "text": "Welche Funktion hat der oder die Starter*in?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Erteilung des Startsignals und Durchsetzung der Fehlstartregeln",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der oder die Starter*in erteilt das Startsignal, überwacht den korrekten Ablauf des Starts und setzt die Fehlstartregeln durch.",
@@ -773,10 +773,10 @@
         "id": "q35",
         "text": "Welche Kleidung ist mindestens vorgeschrieben, wenn keine Lederkombi getragen wird?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Langärmliges Oberteil, lange Hose und Knieschoner",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Falls keine Lederkombi vorhanden ist, müssen mindestens ein langärmeliges Oberteil, eine lange Hose und Knieschoner getragen werden.",
@@ -795,10 +795,10 @@
         "id": "q36",
         "text": "Welche Bedingung gilt für Helmkameras?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sie müssen so angebracht sein, dass sie nicht herunterfallen können.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Helmkameras sind erlaubt, wenn sie sicher angebracht sind, kein zusätzliches Gewicht darstellen und keine Gefahr verursachen.",
@@ -817,10 +817,10 @@
         "id": "q37",
         "text": "Wann kann eine Beschwerde während des Rennens eingereicht werden?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Unmittelbar nach dem Heat bei der Renndirektion",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Beschwerden müssen unmittelbar nach dem Heat bei der Renndirektion eingereicht werden. Später eingereichte Beschwerden sind unzulässig.",
@@ -839,10 +839,10 @@
         "id": "q38",
         "text": "Welche Maßnahme erfolgt bei höherer Gewalt während des Rennens?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Alle bereits gefahrenen Runden werden gewertet.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei Abbruch aufgrund höherer Gewalt werden alle bis dahin gefahrenen Runden gewertet, nicht annulliert.",
@@ -883,10 +883,10 @@
         "id": "q40",
         "text": "Welche Höchstbreite ist für ein Buttboard zugelassen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "35 cm",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Buttboard darf maximal 35 cm breit sein. Eine größere Breite ist nicht regelkonform.",
@@ -906,9 +906,9 @@
         "text": "Welche maximale Höhe darf der Stoßfänger einer Streetluge mindestens haben?",
         "options": [
           "26 mm",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Der Stoßfänger einer Streetluge muss mindestens 26 mm hoch sein. Außerdem sind Mindestmaße für Breite und Dicke vorgeschrieben.",
@@ -927,10 +927,10 @@
         "id": "q42",
         "text": "Welche Aufgabe hat die Renndirektion?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sie fungiert als Schiedsgericht und offizielle Vertretung während des Rennens.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Renndirektion vertritt Downhill Deutschland offiziell beim Rennen, ist Ansprechpartner für Proteste und entscheidet als Schiedsgericht.",
@@ -971,10 +971,10 @@
         "id": "q44",
         "text": "Welche Pflicht gilt nach einem Sturz?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Der Neustart muss eigenständig erfolgen und den Startregeln entsprechen.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach einem Sturz darf nur eigenständig und nach den Prinzipien des Startverfahrens weitergefahren werden. Fremde Hilfe ist verboten.",
@@ -994,9 +994,9 @@
         "text": "Welche Staatsangehörigkeit ist erforderlich, um in die Wertung der Deutschen Meisterschaft aufgenommen zu werden?",
         "options": [
           "Deutsche Staatsangehörigkeit",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nur Personen mit deutschem Pass können in die Wertung der Deutschen Meisterschaft aufgenommen werden.",
@@ -1015,10 +1015,10 @@
         "id": "q46",
         "text": "Welche Altersgrenze gilt für die Kategorie Masters?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ab 35 Jahren",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Kategorie Masters gilt für Personen, die am 1. Januar des laufenden Jahres mindestens 35 Jahre alt sind.",
@@ -1037,10 +1037,10 @@
         "id": "q47",
         "text": "Welche Amtssprache gilt bei Downhill Deutschland?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Deutsch",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Die Amtssprache ist ausdrücklich Deutsch. Andere Sprachen werden nicht als offizielle Amtssprache anerkannt.",
@@ -1062,7 +1062,7 @@
           "Eine ähnliche Sporttechnik",
           "Eine verwandte Regelung",
           "Verlust von Platzierungen, Disqualifikation vom Rennen oder weiteren Wettbewerben",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Regelbrüche können den Verlust von Platzierungen, Disqualifikationen vom Rennen und sogar von nachfolgenden Wettbewerben nach sich ziehen.",
@@ -1081,10 +1081,10 @@
         "id": "q49",
         "text": "Welche Startweise gilt für Streetluger*innen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Mit den Händen paddelnd aus sitzender Position",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Streetluger*innen starten aus einer sitzenden Position und paddeln mit den Händen, nicht mit den Füßen.",
@@ -1104,9 +1104,9 @@
         "text": "Welche Punktezahl erhält Platz 3 in einem Hauptrennen?",
         "options": [
           "943 Punkte",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Platz 3 in einem Hauptrennen wird mit 943 Punkten bewertet. Platz 2 erhält 961 Punkte.",
@@ -1125,10 +1125,10 @@
         "id": "q51",
         "text": "Welches Mindestalter gilt grundsätzlich für die Teilnahme am Rennen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "14 Jahre",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das Mindestalter zur Teilnahme beträgt 14 Jahre. Jüngere dürfen nur in Ausnahmefällen und mit Zustimmung teilnehmen.",
@@ -1147,10 +1147,10 @@
         "id": "q52",
         "text": "Was passiert, wenn ein Heat vor den Finalrunden mit einem Unentschieden endet?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Das Ergebnis wird durch die Qualifikationsergebnisse entschieden.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei einem Unentschieden vor den Finalrunden werden die Platzierungen durch die Ergebnisse der Qualifikationsläufe entschieden.",
@@ -1169,10 +1169,10 @@
         "id": "q53",
         "text": "Welche Pflicht haben Minderjährige zwischen 16 und 18 Jahren, um teilnehmen zu dürfen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sie brauchen die schriftliche Einverständniserklärung eines Erziehungsberechtigten.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Minderjährige zwischen 16 und 18 Jahren benötigen die schriftliche Zustimmung eines Erziehungsberechtigten.",
@@ -1191,10 +1191,10 @@
         "id": "q54",
         "text": "Welche Länge darf ein Buttboard maximal haben?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "125 cm",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Buttboard darf höchstens 125 cm lang sein. Kürzere Längen sind ebenfalls erlaubt, solange die Sicherheitsanforderungen erfüllt sind.",
@@ -1213,10 +1213,10 @@
         "id": "q55",
         "text": "Welche Materialien dürfen für den Stoßfänger einer Streetluge verwendet werden?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Weicher Gummi, Schaum, Plastik oder andere Energie-absorbierende Materialien",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Der Stoßfänger muss aus energieabsorbierendem Material bestehen, z. B. Gummi, Schaum oder Plastik. Harte Materialien wie Metall sind nicht erlaubt.",
@@ -1236,9 +1236,9 @@
         "text": "Welche Startphase folgt nach dem Signal 'Riders ready'?",
         "options": [
           "'Riders set'",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach 'Riders ready' folgt das Signal 'Riders set', bevor nach 1–4 Sekunden das Startsignal 'Go!' oder ein akustisches Signal erfolgt.",
@@ -1257,9 +1257,9 @@
         "id": "q57",
         "text": "Welche maximale Breite ist für ein Skateboard erlaubt?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren",
           "31 cm"
         ],
         "correctIndex": 3,
@@ -1279,10 +1279,10 @@
         "id": "q58",
         "text": "Welche Aufgabe haben die Streckenposten im Falle eines Unfalls?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sie können einen Rettungswagen anfordern, falls erforderlich.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Bei einem Unfall müssen die Streckenposten, falls erforderlich, einen Rettungswagen anfordern. Sie sorgen außerdem für Sicherheit auf ihrem Abschnitt.",
@@ -1301,10 +1301,10 @@
         "id": "q59",
         "text": "Wie wird ein DQ (Disqualified) im Heat gewertet?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Platz 6",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein DQ wird als Platz 6 gewertet. DNF (Did Not Finish) ist Platz 5 und DNS (Did Not Start) ist Platz 7.",
@@ -1323,10 +1323,10 @@
         "id": "q60",
         "text": "Welche Rolle hat die Streckenpostenkoordination?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sie sorgt dafür, dass alle Streckenpostenplätze besetzt sind und koordiniert deren Einsatz.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Streckenpostenkoordination stellt sicher, dass alle Posten besetzt sind und koordiniert deren Einsätze, ohne offizielle Entscheidungsbefugnis für das Rennen.",
@@ -1345,9 +1345,9 @@
         "id": "q61",
         "text": "Welche maximale Rollengröße ist bei einer Streetluge erlaubt?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren",
           "130 mm"
         ],
         "correctIndex": 3,
@@ -1367,10 +1367,10 @@
         "id": "q62",
         "text": "Was bedeutet 'DNS' in der Ergebniswertung?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Did Not Start",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "DNS steht für 'Did Not Start' – eine Person, die nicht am Heat teilnimmt, wird als Platz 7 gewertet.",
@@ -1389,10 +1389,10 @@
         "id": "q63",
         "text": "Welche Ethikpflicht gilt für alle Teilnehmenden?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Respekt und Fairness gegenüber allen, unabhängig von Herkunft, Geschlecht oder Religion",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Ethikkodex verlangt Respekt und Fairness unabhängig von Herkunft, Geschlecht, Religion oder anderen persönlichen Merkmalen. Doping und Manipulation sind strikt verboten.",
@@ -1411,10 +1411,10 @@
         "id": "q64",
         "text": "Welche Strafe droht bei einem zweiten Fehlstart derselben Person?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Die Disqualifikation",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein zweiter Fehlstart derselben Person führt zur Disqualifikation. Ein erster Fehlstart wird noch mit einer Verwarnung geahndet.",
@@ -1433,10 +1433,10 @@
         "id": "q65",
         "text": "Wie viele Personen umfasst die Rennleitung mindestens und maximal?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "3–5 Personen",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Rennleitung besteht aus mindestens 3 und höchstens 5 Personen, die den Ablauf koordinieren und Regelverstöße beurteilen.",
@@ -1458,7 +1458,7 @@
           "Eine ähnliche Sporttechnik",
           "Die Situation muss von der überholenden Person aufgelöst werden.",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Kann die überholende Person sich nicht zu 75% neben die führende setzen, bleibt das Linienrecht bei der führenden Person und die überholende muss die Situation auflösen.",
@@ -1477,10 +1477,10 @@
         "id": "q67",
         "text": "Welche Körperposition ist auf einer Streetluge verboten?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Im Stehen oder Knien",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Streetluger*innen müssen liegend oder sitzend mit den Füßen nach vorne fahren. Stehen oder Knien auf der Streetluge ist verboten.",
@@ -1500,9 +1500,9 @@
         "text": "Welche Punktezahl erhält Platz 4 in einem Hauptrennen?",
         "options": [
           "926 Punkte",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Platz 4 in einem Hauptrennen wird mit 926 Punkten bewertet. Platz 5 erhält 911 Punkte.",
@@ -1521,10 +1521,10 @@
         "id": "q69",
         "text": "Wann dürfen Speedsuits aus Latex oder ähnlichen Materialien getragen werden?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Bei keinem Kopf-an-Kopf-Rennen",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Speedsuits sind bei Kopf-an-Kopf-Rennen verboten. Bei anderen Formaten können sie erlaubt sein, sofern keine Gefahr entsteht.",
@@ -1543,10 +1543,10 @@
         "id": "q70",
         "text": "Welche Pflicht haben Teilnehmende bezüglich des Haftungsausschlusses?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Alle Teilnehmenden müssen einen Haftungsausschluss unterzeichnen.",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Alle Teilnehmenden sind verpflichtet, einen Haftungsausschluss zu unterzeichnen. Ohne diesen ist keine Teilnahme möglich.",
@@ -1566,9 +1566,9 @@
         "text": "Welche Punktezahl erhält Platz 5 in einem Hauptrennen?",
         "options": [
           "911 Punkte",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Platz 5 in einem Hauptrennen wird mit 911 Punkten bewertet. Platz 4 hat 926 Punkte, Platz 6 896 Punkte.",
@@ -1590,7 +1590,7 @@
           "Eine ähnliche Sporttechnik",
           "Alle Teilnehmenden müssen das gesamte Regelwerk gelesen und verstanden haben.",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Alle Teilnehmenden müssen das Regelwerk gelesen und verstanden haben und sich daran halten.",
@@ -1609,10 +1609,10 @@
         "id": "q73",
         "text": "Welche Maximalbreite gilt für eine Streetluge?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "61 cm",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Eine Streetluge darf maximal 61 cm breit sein.",
@@ -1634,7 +1634,7 @@
           "Eine ähnliche Sporttechnik",
           "Sie geben ihre Sicht der Dinge wieder.",
           "Eine verwandte Regelung",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Streckenposten können bei Protesten oder Regelbrüchen ihre Sicht der Dinge äußern, entscheiden aber nicht selbst.",
@@ -1653,10 +1653,10 @@
         "id": "q75",
         "text": "Wie wird ein DNF (Did Not Finish) im Heat gewertet?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Platz 5",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein DNF wird als Platz 5 im Heat gewertet.",
@@ -1675,9 +1675,9 @@
         "id": "q76",
         "text": "Welche Mindestbreite muss der Stoßfänger einer Streetluge haben?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren",
           "77 mm"
         ],
         "correctIndex": 3,
@@ -1697,10 +1697,10 @@
         "id": "q77",
         "text": "Welche Strafe droht, wenn absichtlicher Kontakt im Rennen zu einem Vorteil führt?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Eine Strafe, da absichtlicher Kontakt verboten ist.",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Absichtlicher Kontakt ist verboten und wird sanktioniert, insbesondere wenn er zu einem Vorteil führt.",
@@ -1719,10 +1719,10 @@
         "id": "q78",
         "text": "Wie wird ein Gleichstand im Schweizer System aufgelöst?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Durch Tie Braker-Punkte basierend auf Gegnerleistungen",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ein Gleichstand wird über Tie Braker-Punkte entschieden, die auf den Leistungen der Gegner basieren.",
@@ -1741,9 +1741,9 @@
         "id": "q79",
         "text": "Welche Aufgabe hat die Athlet*innenkoordination NICHT?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren",
           "Fällen offizieller Rennentscheidungen"
         ],
         "correctIndex": 3,
@@ -1763,10 +1763,10 @@
         "id": "q80",
         "text": "Welche maximale Masse darf ein Skateboard haben?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Eine Lösung für 6 kg",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "6 kg",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Das maximale Gewicht für ein Skateboard beträgt 6 kg.",
@@ -1786,9 +1786,9 @@
         "text": "Welche Punktezahl erhält Platz 6 in einem Hauptrennen?",
         "options": [
           "896 Punkte",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Platz 6 in einem Hauptrennen wird mit 896 Punkten bewertet.",
@@ -1807,10 +1807,10 @@
         "id": "q82",
         "text": "Welche Pflicht gilt für Handschuhe bei Rennen?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Handschuhe aus Leder oder gleichwertigem Material sind Pflicht.",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Handschuhe aus Leder oder gleichwertigem Material sind Pflicht. Slidepucks sind zusätzlich empfohlen.",
@@ -1829,10 +1829,10 @@
         "id": "q83",
         "text": "Wann darf ein Startbahnwechsel eine Strafe nach sich ziehen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Nur wenn dadurch andere beim Start behindert werden",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Ein Überschreiten der Startbahn kann zur Strafe führen, wenn andere beim Start behindert werden.",
@@ -1851,10 +1851,10 @@
         "id": "q84",
         "text": "Welche maximale Masse darf eine Streetluge haben?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "25 kg",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Eine Streetluge darf maximal 25 kg wiegen.",
@@ -1873,10 +1873,10 @@
         "id": "q85",
         "text": "Welche Aufgabe hat der oder die Starter*in bei Fehlstarts?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Er oder sie muss den Heat sofort abbrechen und Start wiederholen lassen.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der oder die Starter*in muss bei Fehlstarts den Start abbrechen und ggf. eine Wiederholung anordnen. Bei wiederholtem Fehlstart erfolgt die Disqualifikation.",
@@ -1896,9 +1896,9 @@
         "text": "Welche Punktezahl erhält Platz 1 in einem Nebenrennen?",
         "options": [
           "650 Punkte",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Platz 1 in einem Nebenrennen wird mit 650 Punkten bewertet. 1000 Punkte gelten nur für Hauptrennen.",
@@ -1917,10 +1917,10 @@
         "id": "q87",
         "text": "Welche Pflicht gilt bezüglich zusätzlichem Ballast am Körper?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Zusätzlicher Ballast ist verboten.",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Zusätzliches Gewicht in Form von Ballast am Körper ist ausdrücklich verboten.",
@@ -1939,10 +1939,10 @@
         "id": "q88",
         "text": "Welche Punktezahl erhält Platz 2 in einem Nebenrennen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "625 Punkte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Platz 2 in einem Nebenrennen wird mit 625 Punkten bewertet.",
@@ -1961,10 +1961,10 @@
         "id": "q89",
         "text": "Welche Rolle übernimmt die Rennleitung bei Beschwerden?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die Renndirektion innerhalb der Rennleitung entscheidet als Schiedsgericht.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Renndirektion innerhalb der Rennleitung fungiert als Schiedsgericht und entscheidet über Beschwerden.",
@@ -1983,10 +1983,10 @@
         "id": "q90",
         "text": "Welche Punktezahl erhält Platz 3 in einem Nebenrennen?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "613 Punkte",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Platz 3 in einem Nebenrennen wird mit 613 Punkten bewertet.",
@@ -2006,9 +2006,9 @@
         "text": "Welche Punktezahl erhält Platz 7 in einem Hauptrennen?",
         "options": [
           "883 Punkte",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Platz 7 in einem Hauptrennen wird mit 883 Punkten bewertet.",
@@ -2027,10 +2027,10 @@
         "id": "q92",
         "text": "Welche Aufgabe hat die Rennleitung in Bezug auf den Zeitplan?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sie erstellt und regelt den offiziellen Zeitplan des Rennens.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Rennleitung erstellt und regelt den Zeitplan für das Rennen.",
@@ -2050,9 +2050,9 @@
         "text": "Welche Punktezahl erhält Platz 4 in einem Nebenrennen?",
         "options": [
           "602 Punkte",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Platz 4 in einem Nebenrennen wird mit 602 Punkten bewertet.",
@@ -2071,10 +2071,10 @@
         "id": "q94",
         "text": "Welche Pflicht gilt für das Tragen von Schuhen während des Rennens?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Geschlossene Schuhe sind Pflicht.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Geschlossene Schuhe sind Pflicht. Offene oder keine Schuhe sind nicht erlaubt.",
@@ -2093,10 +2093,10 @@
         "id": "q95",
         "text": "Welche maximale Dicke muss der Stoßfänger einer Streetluge mindestens haben?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "39 mm",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Der Stoßfänger einer Streetluge muss mindestens 39 mm dick sein.",
@@ -2116,9 +2116,9 @@
         "text": "Wie viele Punkte erhält Platz 8 in einem Hauptrennen?",
         "options": [
           "870 Punkte",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Platz 8 in einem Hauptrennen wird mit 870 Punkten bewertet.",
@@ -2137,10 +2137,10 @@
         "id": "q97",
         "text": "Welche Pflicht gilt für Streetluger*innen beim Start?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Sie starten in sitzender Position mit den Händen paddelnd.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Streetluger*innen starten in einer sitzenden Position und paddeln mit den Händen.",
@@ -2160,9 +2160,9 @@
         "text": "Welche Punktezahl erhält Platz 5 in einem Nebenrennen?",
         "options": [
           "592 Punkte",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Platz 5 in einem Nebenrennen wird mit 592 Punkten bewertet.",
@@ -2181,10 +2181,10 @@
         "id": "q99",
         "text": "Welche Pflicht gilt für Skateboarder*innen beim Start?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Ein Fuß auf dem Brett, der andere am Boden, alle Rollen am Boden.",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Skateboarder*innen müssen mit einem Fuß auf dem Brett stehen, während der andere Fuß den Boden berührt und alle Rollen Kontakt mit dem Boden haben.",
@@ -2203,10 +2203,10 @@
         "id": "q100",
         "text": "Welche Punktezahl erhält Platz 6 in einem Nebenrennen?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "583 Punkte",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Platz 6 in einem Nebenrennen wird mit 583 Punkten bewertet.",

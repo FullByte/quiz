@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Welche Voraussetzung gilt für die Zulassung eines Kraftfahrzeugs im öffentlichen Straßenverkehr?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die vorherige Zuteilung eines amtlichen Kennzeichens durch die Zulassungsbehörde",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Zulassung erfolgt nach Antrag bei der Behörde durch Zuteilung eines amtlichen Kennzeichens. Versicherung und Führerschein sind zwar notwendig, aber nicht Zulassungsvoraussetzung im StVG selbst.",
@@ -48,9 +48,9 @@
         "text": "Welche Fahrzeuge gelten NICHT als Kraftfahrzeuge im Sinne des StVG?",
         "options": [
           "Elektrofahrräder mit max. 0,25 kW Unterstützung bis 25 km/h",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fahrzeuge mit Muskelkraftantrieb und elektrischem Hilfsantrieb bis 0,25 kW, der bei 25 km/h abschaltet, gelten als Fahrräder, nicht als Kraftfahrzeuge.",
@@ -68,10 +68,10 @@
         "id": "q3",
         "text": "Wann ist der Betrieb eines Kraftfahrzeugs mit hoch- oder vollautomatisierter Fahrfunktion zulässig?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn die Funktion bestimmungsgemäß verwendet wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Betrieb ist erlaubt, wenn die hoch- oder vollautomatisierte Funktion bestimmungsgemäß verwendet wird. Es ist keine zusätzliche Fahrerlaubnis erforderlich.",
@@ -90,10 +90,10 @@
         "id": "q1",
         "text": "Welche Voraussetzung gilt für die Zulassung eines Kraftfahrzeugs im öffentlichen Straßenverkehr?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die vorherige Zuteilung eines amtlichen Kennzeichens durch die Zulassungsbehörde",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Zulassung erfolgt nach Antrag bei der Behörde durch Zuteilung eines amtlichen Kennzeichens. Versicherung und Führerschein sind zwar notwendig, aber nicht Zulassungsvoraussetzung im StVG selbst.",
@@ -113,9 +113,9 @@
         "text": "Welche Fahrzeuge gelten NICHT als Kraftfahrzeuge im Sinne des StVG?",
         "options": [
           "Elektrofahrräder mit max. 0,25 kW Unterstützung bis 25 km/h",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fahrzeuge mit Muskelkraftantrieb und elektrischem Hilfsantrieb bis 0,25 kW, der bei 25 km/h abschaltet, gelten als Fahrräder, nicht als Kraftfahrzeuge.",
@@ -133,10 +133,10 @@
         "id": "q3",
         "text": "Wann ist der Betrieb eines Kraftfahrzeugs mit hoch- oder vollautomatisierter Fahrfunktion zulässig?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn die Funktion bestimmungsgemäß verwendet wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Betrieb ist erlaubt, wenn die hoch- oder vollautomatisierte Funktion bestimmungsgemäß verwendet wird. Es ist keine zusätzliche Fahrerlaubnis erforderlich.",
@@ -155,10 +155,10 @@
         "id": "q1",
         "text": "Welche Voraussetzung gilt für die Zulassung eines Kraftfahrzeugs im öffentlichen Straßenverkehr?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die vorherige Zuteilung eines amtlichen Kennzeichens durch die Zulassungsbehörde",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Zulassung erfolgt nach Antrag bei der Behörde durch Zuteilung eines amtlichen Kennzeichens. Versicherung und Führerschein sind zwar notwendig, aber nicht Zulassungsvoraussetzung im StVG selbst.",
@@ -178,9 +178,9 @@
         "text": "Welche Fahrzeuge gelten NICHT als Kraftfahrzeuge im Sinne des StVG?",
         "options": [
           "Elektrofahrräder mit max. 0,25 kW Unterstützung bis 25 km/h",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fahrzeuge mit Muskelkraftantrieb und elektrischem Hilfsantrieb bis 0,25 kW, der bei 25 km/h abschaltet, gelten als Fahrräder, nicht als Kraftfahrzeuge.",
@@ -198,10 +198,10 @@
         "id": "q3",
         "text": "Wann ist der Betrieb eines Kraftfahrzeugs mit hoch- oder vollautomatisierter Fahrfunktion zulässig?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn die Funktion bestimmungsgemäß verwendet wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Betrieb ist erlaubt, wenn die hoch- oder vollautomatisierte Funktion bestimmungsgemäß verwendet wird. Es ist keine zusätzliche Fahrerlaubnis erforderlich.",
@@ -220,10 +220,10 @@
         "id": "q1",
         "text": "Welche Voraussetzung gilt für die Zulassung eines Kraftfahrzeugs im öffentlichen Straßenverkehr?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die vorherige Zuteilung eines amtlichen Kennzeichens durch die Zulassungsbehörde",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Zulassung erfolgt nach Antrag bei der Behörde durch Zuteilung eines amtlichen Kennzeichens. Versicherung und Führerschein sind zwar notwendig, aber nicht Zulassungsvoraussetzung im StVG selbst.",
@@ -243,9 +243,9 @@
         "text": "Welche Fahrzeuge gelten NICHT als Kraftfahrzeuge im Sinne des StVG?",
         "options": [
           "Elektrofahrräder mit max. 0,25 kW Unterstützung bis 25 km/h",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fahrzeuge mit Muskelkraftantrieb und elektrischem Hilfsantrieb bis 0,25 kW, der bei 25 km/h abschaltet, gelten als Fahrräder, nicht als Kraftfahrzeuge.",
@@ -263,10 +263,10 @@
         "id": "q3",
         "text": "Wann ist der Betrieb eines Kraftfahrzeugs mit hoch- oder vollautomatisierter Fahrfunktion zulässig?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn die Funktion bestimmungsgemäß verwendet wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Betrieb ist erlaubt, wenn die hoch- oder vollautomatisierte Funktion bestimmungsgemäß verwendet wird. Es ist keine zusätzliche Fahrerlaubnis erforderlich.",
@@ -285,10 +285,10 @@
         "id": "q1",
         "text": "Welche Voraussetzung gilt für die Zulassung eines Kraftfahrzeugs im öffentlichen Straßenverkehr?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die vorherige Zuteilung eines amtlichen Kennzeichens durch die Zulassungsbehörde",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Zulassung erfolgt nach Antrag bei der Behörde durch Zuteilung eines amtlichen Kennzeichens. Versicherung und Führerschein sind zwar notwendig, aber nicht Zulassungsvoraussetzung im StVG selbst.",
@@ -308,9 +308,9 @@
         "text": "Welche Fahrzeuge gelten NICHT als Kraftfahrzeuge im Sinne des StVG?",
         "options": [
           "Elektrofahrräder mit max. 0,25 kW Unterstützung bis 25 km/h",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fahrzeuge mit Muskelkraftantrieb und elektrischem Hilfsantrieb bis 0,25 kW, der bei 25 km/h abschaltet, gelten als Fahrräder, nicht als Kraftfahrzeuge.",
@@ -328,10 +328,10 @@
         "id": "q3",
         "text": "Wann ist der Betrieb eines Kraftfahrzeugs mit hoch- oder vollautomatisierter Fahrfunktion zulässig?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn die Funktion bestimmungsgemäß verwendet wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Betrieb ist erlaubt, wenn die hoch- oder vollautomatisierte Funktion bestimmungsgemäß verwendet wird. Es ist keine zusätzliche Fahrerlaubnis erforderlich.",
@@ -350,10 +350,10 @@
         "id": "q1",
         "text": "Welche Voraussetzung gilt für die Zulassung eines Kraftfahrzeugs im öffentlichen Straßenverkehr?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die vorherige Zuteilung eines amtlichen Kennzeichens durch die Zulassungsbehörde",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Zulassung erfolgt nach Antrag bei der Behörde durch Zuteilung eines amtlichen Kennzeichens. Versicherung und Führerschein sind zwar notwendig, aber nicht Zulassungsvoraussetzung im StVG selbst.",
@@ -373,9 +373,9 @@
         "text": "Welche Fahrzeuge gelten NICHT als Kraftfahrzeuge im Sinne des StVG?",
         "options": [
           "Elektrofahrräder mit max. 0,25 kW Unterstützung bis 25 km/h",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fahrzeuge mit Muskelkraftantrieb und elektrischem Hilfsantrieb bis 0,25 kW, der bei 25 km/h abschaltet, gelten als Fahrräder, nicht als Kraftfahrzeuge.",
@@ -393,10 +393,10 @@
         "id": "q3",
         "text": "Wann ist der Betrieb eines Kraftfahrzeugs mit hoch- oder vollautomatisierter Fahrfunktion zulässig?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn die Funktion bestimmungsgemäß verwendet wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Der Betrieb ist erlaubt, wenn die hoch- oder vollautomatisierte Funktion bestimmungsgemäß verwendet wird. Es ist keine zusätzliche Fahrerlaubnis erforderlich.",
@@ -415,10 +415,10 @@
         "id": "q1",
         "text": "Welche Voraussetzung gilt für die Zulassung eines Kraftfahrzeugs im öffentlichen Straßenverkehr?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Die vorherige Zuteilung eines amtlichen Kennzeichens durch die Zulassungsbehörde",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Zulassung erfolgt nach Antrag bei der Behörde durch Zuteilung eines amtlichen Kennzeichens. Versicherung und Führerschein sind zwar notwendig, aber nicht Zulassungsvoraussetzung im StVG selbst.",
@@ -438,9 +438,9 @@
         "text": "Welche Fahrzeuge gelten NICHT als Kraftfahrzeuge im Sinne des StVG?",
         "options": [
           "Elektrofahrräder mit max. 0,25 kW Unterstützung bis 25 km/h",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Fahrzeuge mit Muskelkraftantrieb und elektrischem Hilfsantrieb bis 0,25 kW, der bei 25 km/h abschaltet, gelten als Fahrräder, nicht als Kraftfahrzeuge.",
@@ -458,10 +458,10 @@
         "id": "q39",
         "text": "Wer benötigt grundsätzlich eine Fahrerlaubnis nach dem StVG?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 2 StVG muss jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt, im Besitz einer gültigen Fahrerlaubnis sein.",
@@ -480,10 +480,10 @@
         "id": "q40",
         "text": "Welches Mindestalter ist nach dem StVG für den Erwerb einer Fahrerlaubnis Voraussetzung?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Das gesetzlich vorgeschriebene Mindestalter je nach Führerscheinklasse",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das StVG legt fest, dass die Fahrerlaubnis nur erteilt wird, wenn das gesetzlich vorgeschriebene Mindestalter für die jeweilige Klasse erreicht ist (§ 2 Abs. 2 Nr. 2).",
@@ -502,10 +502,10 @@
         "id": "q38",
         "text": "Welche Pflicht hat die Fahrerlaubnisbehörde bei Bedenken an der Fahreignung eines Bewerbers?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Sie kann ein ärztliches oder fachpsychologisches Gutachten anordnen",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Nach § 2 Abs. 8 StVG kann die Behörde bei Bedenken an der Fahreignung Gutachten oder Zeugnisse anordnen. Eine automatische Verweigerung ist nicht vorgesehen.",
@@ -524,10 +524,10 @@
         "id": "q39",
         "text": "Wer benötigt grundsätzlich eine Fahrerlaubnis nach dem StVG?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 2 StVG muss jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt, im Besitz einer gültigen Fahrerlaubnis sein.",
@@ -546,10 +546,10 @@
         "id": "q40",
         "text": "Welches Mindestalter ist nach dem StVG für den Erwerb einer Fahrerlaubnis Voraussetzung?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Das gesetzlich vorgeschriebene Mindestalter je nach Führerscheinklasse",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das StVG legt fest, dass die Fahrerlaubnis nur erteilt wird, wenn das gesetzlich vorgeschriebene Mindestalter für die jeweilige Klasse erreicht ist (§ 2 Abs. 2 Nr. 2).",
@@ -568,10 +568,10 @@
         "id": "q38",
         "text": "Welche Pflicht hat die Fahrerlaubnisbehörde bei Bedenken an der Fahreignung eines Bewerbers?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Sie kann ein ärztliches oder fachpsychologisches Gutachten anordnen",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Nach § 2 Abs. 8 StVG kann die Behörde bei Bedenken an der Fahreignung Gutachten oder Zeugnisse anordnen. Eine automatische Verweigerung ist nicht vorgesehen.",
@@ -590,10 +590,10 @@
         "id": "q39",
         "text": "Wer benötigt grundsätzlich eine Fahrerlaubnis nach dem StVG?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 2 StVG muss jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt, im Besitz einer gültigen Fahrerlaubnis sein.",
@@ -612,10 +612,10 @@
         "id": "q40",
         "text": "Welches Mindestalter ist nach dem StVG für den Erwerb einer Fahrerlaubnis Voraussetzung?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Das gesetzlich vorgeschriebene Mindestalter je nach Führerscheinklasse",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das StVG legt fest, dass die Fahrerlaubnis nur erteilt wird, wenn das gesetzlich vorgeschriebene Mindestalter für die jeweilige Klasse erreicht ist (§ 2 Abs. 2 Nr. 2).",
@@ -634,10 +634,10 @@
         "id": "q38",
         "text": "Welche Pflicht hat die Fahrerlaubnisbehörde bei Bedenken an der Fahreignung eines Bewerbers?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Sie kann ein ärztliches oder fachpsychologisches Gutachten anordnen",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Nach § 2 Abs. 8 StVG kann die Behörde bei Bedenken an der Fahreignung Gutachten oder Zeugnisse anordnen. Eine automatische Verweigerung ist nicht vorgesehen.",
@@ -656,10 +656,10 @@
         "id": "q39",
         "text": "Wer benötigt grundsätzlich eine Fahrerlaubnis nach dem StVG?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 2 StVG muss jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt, im Besitz einer gültigen Fahrerlaubnis sein.",
@@ -678,10 +678,10 @@
         "id": "q40",
         "text": "Welches Mindestalter ist nach dem StVG für den Erwerb einer Fahrerlaubnis Voraussetzung?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Das gesetzlich vorgeschriebene Mindestalter je nach Führerscheinklasse",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das StVG legt fest, dass die Fahrerlaubnis nur erteilt wird, wenn das gesetzlich vorgeschriebene Mindestalter für die jeweilige Klasse erreicht ist (§ 2 Abs. 2 Nr. 2).",
@@ -700,10 +700,10 @@
         "id": "q38",
         "text": "Welche Pflicht hat die Fahrerlaubnisbehörde bei Bedenken an der Fahreignung eines Bewerbers?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Sie kann ein ärztliches oder fachpsychologisches Gutachten anordnen",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Nach § 2 Abs. 8 StVG kann die Behörde bei Bedenken an der Fahreignung Gutachten oder Zeugnisse anordnen. Eine automatische Verweigerung ist nicht vorgesehen.",
@@ -722,10 +722,10 @@
         "id": "q39",
         "text": "Wer benötigt grundsätzlich eine Fahrerlaubnis nach dem StVG?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 2 StVG muss jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt, im Besitz einer gültigen Fahrerlaubnis sein.",
@@ -744,10 +744,10 @@
         "id": "q40",
         "text": "Welches Mindestalter ist nach dem StVG für den Erwerb einer Fahrerlaubnis Voraussetzung?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Das gesetzlich vorgeschriebene Mindestalter je nach Führerscheinklasse",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das StVG legt fest, dass die Fahrerlaubnis nur erteilt wird, wenn das gesetzlich vorgeschriebene Mindestalter für die jeweilige Klasse erreicht ist (§ 2 Abs. 2 Nr. 2).",
@@ -766,10 +766,10 @@
         "id": "q38",
         "text": "Welche Pflicht hat die Fahrerlaubnisbehörde bei Bedenken an der Fahreignung eines Bewerbers?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Sie kann ein ärztliches oder fachpsychologisches Gutachten anordnen",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Nach § 2 Abs. 8 StVG kann die Behörde bei Bedenken an der Fahreignung Gutachten oder Zeugnisse anordnen. Eine automatische Verweigerung ist nicht vorgesehen.",
@@ -788,10 +788,10 @@
         "id": "q39",
         "text": "Wer benötigt grundsätzlich eine Fahrerlaubnis nach dem StVG?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 2 StVG muss jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt, im Besitz einer gültigen Fahrerlaubnis sein.",
@@ -810,10 +810,10 @@
         "id": "q40",
         "text": "Welches Mindestalter ist nach dem StVG für den Erwerb einer Fahrerlaubnis Voraussetzung?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Das gesetzlich vorgeschriebene Mindestalter je nach Führerscheinklasse",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das StVG legt fest, dass die Fahrerlaubnis nur erteilt wird, wenn das gesetzlich vorgeschriebene Mindestalter für die jeweilige Klasse erreicht ist (§ 2 Abs. 2 Nr. 2).",
@@ -832,10 +832,10 @@
         "id": "q38",
         "text": "Welche Pflicht hat die Fahrerlaubnisbehörde bei Bedenken an der Fahreignung eines Bewerbers?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Sie kann ein ärztliches oder fachpsychologisches Gutachten anordnen",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Nach § 2 Abs. 8 StVG kann die Behörde bei Bedenken an der Fahreignung Gutachten oder Zeugnisse anordnen. Eine automatische Verweigerung ist nicht vorgesehen.",
@@ -854,10 +854,10 @@
         "id": "q39",
         "text": "Wer benötigt grundsätzlich eine Fahrerlaubnis nach dem StVG?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 2 StVG muss jede Person, die ein Kraftfahrzeug im öffentlichen Straßenverkehr führt, im Besitz einer gültigen Fahrerlaubnis sein.",
@@ -876,10 +876,10 @@
         "id": "q40",
         "text": "Welches Mindestalter ist nach dem StVG für den Erwerb einer Fahrerlaubnis Voraussetzung?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Das gesetzlich vorgeschriebene Mindestalter je nach Führerscheinklasse",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Das StVG legt fest, dass die Fahrerlaubnis nur erteilt wird, wenn das gesetzlich vorgeschriebene Mindestalter für die jeweilige Klasse erreicht ist (§ 2 Abs. 2 Nr. 2).",
@@ -898,10 +898,10 @@
         "id": "q59",
         "text": "Wann verlängert sich die Probezeit einer Fahrerlaubnis auf vier Jahre?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn ein Aufbauseminar nach einer Zuwiderhandlung angeordnet wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Probezeit verlängert sich nach § 2a Abs. 2a StVG um zwei Jahre (insgesamt vier Jahre), wenn ein Aufbauseminar angeordnet wurde.",
@@ -920,10 +920,10 @@
         "id": "q60",
         "text": "Welche Maßnahme ergreift die Fahrerlaubnisbehörde bei acht Punkten im Fahreignungsregister?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Die Entziehung der Fahrerlaubnis",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ab acht Punkten gilt der Fahrer als ungeeignet, die Fahrerlaubnis ist zwingend zu entziehen (§ 4 Abs. 5 StVG).",
@@ -964,10 +964,10 @@
         "id": "q59",
         "text": "Wann verlängert sich die Probezeit einer Fahrerlaubnis auf vier Jahre?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn ein Aufbauseminar nach einer Zuwiderhandlung angeordnet wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Probezeit verlängert sich nach § 2a Abs. 2a StVG um zwei Jahre (insgesamt vier Jahre), wenn ein Aufbauseminar angeordnet wurde.",
@@ -986,10 +986,10 @@
         "id": "q60",
         "text": "Welche Maßnahme ergreift die Fahrerlaubnisbehörde bei acht Punkten im Fahreignungsregister?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Die Entziehung der Fahrerlaubnis",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ab acht Punkten gilt der Fahrer als ungeeignet, die Fahrerlaubnis ist zwingend zu entziehen (§ 4 Abs. 5 StVG).",
@@ -1030,10 +1030,10 @@
         "id": "q59",
         "text": "Wann verlängert sich die Probezeit einer Fahrerlaubnis auf vier Jahre?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn ein Aufbauseminar nach einer Zuwiderhandlung angeordnet wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Probezeit verlängert sich nach § 2a Abs. 2a StVG um zwei Jahre (insgesamt vier Jahre), wenn ein Aufbauseminar angeordnet wurde.",
@@ -1052,10 +1052,10 @@
         "id": "q60",
         "text": "Welche Maßnahme ergreift die Fahrerlaubnisbehörde bei acht Punkten im Fahreignungsregister?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Die Entziehung der Fahrerlaubnis",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ab acht Punkten gilt der Fahrer als ungeeignet, die Fahrerlaubnis ist zwingend zu entziehen (§ 4 Abs. 5 StVG).",
@@ -1096,10 +1096,10 @@
         "id": "q59",
         "text": "Wann verlängert sich die Probezeit einer Fahrerlaubnis auf vier Jahre?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn ein Aufbauseminar nach einer Zuwiderhandlung angeordnet wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Probezeit verlängert sich nach § 2a Abs. 2a StVG um zwei Jahre (insgesamt vier Jahre), wenn ein Aufbauseminar angeordnet wurde.",
@@ -1118,10 +1118,10 @@
         "id": "q60",
         "text": "Welche Maßnahme ergreift die Fahrerlaubnisbehörde bei acht Punkten im Fahreignungsregister?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Die Entziehung der Fahrerlaubnis",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ab acht Punkten gilt der Fahrer als ungeeignet, die Fahrerlaubnis ist zwingend zu entziehen (§ 4 Abs. 5 StVG).",
@@ -1162,10 +1162,10 @@
         "id": "q59",
         "text": "Wann verlängert sich die Probezeit einer Fahrerlaubnis auf vier Jahre?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn ein Aufbauseminar nach einer Zuwiderhandlung angeordnet wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Probezeit verlängert sich nach § 2a Abs. 2a StVG um zwei Jahre (insgesamt vier Jahre), wenn ein Aufbauseminar angeordnet wurde.",
@@ -1184,10 +1184,10 @@
         "id": "q60",
         "text": "Welche Maßnahme ergreift die Fahrerlaubnisbehörde bei acht Punkten im Fahreignungsregister?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Die Entziehung der Fahrerlaubnis",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ab acht Punkten gilt der Fahrer als ungeeignet, die Fahrerlaubnis ist zwingend zu entziehen (§ 4 Abs. 5 StVG).",
@@ -1228,10 +1228,10 @@
         "id": "q59",
         "text": "Wann verlängert sich die Probezeit einer Fahrerlaubnis auf vier Jahre?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn ein Aufbauseminar nach einer Zuwiderhandlung angeordnet wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Probezeit verlängert sich nach § 2a Abs. 2a StVG um zwei Jahre (insgesamt vier Jahre), wenn ein Aufbauseminar angeordnet wurde.",
@@ -1250,10 +1250,10 @@
         "id": "q60",
         "text": "Welche Maßnahme ergreift die Fahrerlaubnisbehörde bei acht Punkten im Fahreignungsregister?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Die Entziehung der Fahrerlaubnis",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ab acht Punkten gilt der Fahrer als ungeeignet, die Fahrerlaubnis ist zwingend zu entziehen (§ 4 Abs. 5 StVG).",
@@ -1294,10 +1294,10 @@
         "id": "q59",
         "text": "Wann verlängert sich die Probezeit einer Fahrerlaubnis auf vier Jahre?",
         "options": [
-          "Eine ähnliche Alternative",
+          "Eine andere Möglichkeit",
           "Wenn ein Aufbauseminar nach einer Zuwiderhandlung angeordnet wird",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,
         "explanation": "Die Probezeit verlängert sich nach § 2a Abs. 2a StVG um zwei Jahre (insgesamt vier Jahre), wenn ein Aufbauseminar angeordnet wurde.",
@@ -1316,10 +1316,10 @@
         "id": "q60",
         "text": "Welche Maßnahme ergreift die Fahrerlaubnisbehörde bei acht Punkten im Fahreignungsregister?",
         "options": [
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
           "Die Entziehung der Fahrerlaubnis",
-          "Ein vergleichbares Verfahren"
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 2,
         "explanation": "Ab acht Punkten gilt der Fahrer als ungeeignet, die Fahrerlaubnis ist zwingend zu entziehen (§ 4 Abs. 5 StVG).",

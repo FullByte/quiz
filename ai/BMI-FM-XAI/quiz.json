@@ -73,9 +73,9 @@
         "text": "Welche drei Kategorien umfassen die Aufgaben Formaler Methoden?",
         "options": [
           "Spezifikation (WAS), Verifikation (WARUM), Synthese (WIE)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Aufgaben der Formalen Methoden fallen in drei Kategorien: Spezifikation (WAS wird vom System erwartet), Verifikation (WARUM erfüllt das System die Spezifikation), Synthese (WIE wird erreicht, dass das System die Spezifikation erfüllt).",
@@ -96,9 +96,9 @@
         "text": "Was sind die sieben Merkmale autonomer Systeme nach Wahlster?",
         "options": [
           "Entscheidungsfähigkeit, Selbstlernfähigkeit, Selbsterklärungsfähigkeit, Resilienz, Kooperativität, Ressourcenadaption, Proaktivität",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Nach Wahlster (2017) weisen autonome Systeme sieben Merkmale auf: Entscheidungsfähigkeit, Selbstlernfähigkeit, Selbsterklärungsfähigkeit, Resilienz, Kooperativität, Ressourcenadaption und Proaktivität.",
@@ -142,9 +142,9 @@
         "text": "Welche drei Hauptmerkmale charakterisieren Formale Methoden?",
         "options": [
           "Sprachen, Werkzeuge, Methoden",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Zu Formalen Methoden unterscheidet man drei allgemeine Hauptmerkmale: Sprachen (formale mathematische Notation), Werkzeuge (unterstützende Software), und Methoden (Integration in industrielle Praxis).",
@@ -165,9 +165,9 @@
         "text": "Was ist das Problem der 'unbekannten Variablen' bei der Umgebungsmodellierung?",
         "options": [
           "Es kann unmöglich sein, alle Variablen der Umgebung genau zu definieren",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Für KI-basierte Systeme kann es unmöglich sein, alle Variablen (Eigenschaften) der Umgebung genau zu definieren. Selbst in eingeschränkten Szenarien gibt es einen eklatanten Mangel an Informationen über das Verhalten der Umgebungsvariablen.",
@@ -188,9 +188,9 @@
         "text": "Was bedeutet 'Overapproximation' bei der Umgebungsmodellierung?",
         "options": [
           "Das Modell enthält mehr Verhaltensweisen als realistisch sind",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ein überapproximiertes Umgebungsmodell enthält (viel) mehr Verhaltensweisen der Umgebung, als realistisch sind. Dies erlaubt eine solide Verifikation ohne detailliertes Umgebungsmodell, führt aber bei KI-Systemen zu stark überapproximierten Modellen.",
@@ -211,9 +211,9 @@
         "text": "Was ist das Problem bei der Spezifikation 'schwer formalisierbarer Aufgaben'?",
         "options": [
           "Formale Definition von Wahrnehmungsaufgaben ist extrem schwierig oder unmöglich",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bei Wahrnehmungsmodulen, die Zustände erkennen und klassifizieren müssen, erfordert Korrektheit im Sinne klassischer formaler Methoden eine formale Definition jeder möglichen Zustandstypen, was extrem schwierig, wenn nicht unmöglich ist.",
@@ -257,9 +257,9 @@
         "text": "Was ist ein Hauptproblem bei der Verifikation Neuronaler Netze?",
         "options": [
           "Kontinuierliche Gewichte und hohe Dimensionalität erschweren die Verifikation",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Neuronale Netze haben kontinuierliche Gewichte und sehr hohe Dimensionalität, was die Verifikation erheblich erschwert. Die Anzahl der möglichen Zustände ist praktisch unendlich, was eine vollständige Verifikation unmöglich macht.",
@@ -280,9 +280,9 @@
         "text": "Was versteht man unter 'Probabilistischer Programmierung'?",
         "options": [
           "Ein Programmierparadigma, das Wahrscheinlichkeitsverteilungen als First-Class-Objekte behandelt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Probabilistische Programmierung ist ein Programmierparadigma, bei dem Wahrscheinlichkeitsverteilungen als First-Class-Objekte in der Programmiersprache behandelt werden. Dies ermöglicht es, Unsicherheiten explizit zu modellieren.",
@@ -326,9 +326,9 @@
         "text": "Was ist 'Bayesian Inference' im Kontext der Probabilistischen Programmierung?",
         "options": [
           "Ein Verfahren zur Aktualisierung von Wahrscheinlichkeiten basierend auf neuen Beobachtungen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bayesian Inference ist ein fundamentales Verfahren in der probabilistischen Programmierung, bei dem Prior-Wahrscheinlichkeiten durch neue Beobachtungen zu Posterior-Wahrscheinlichkeiten aktualisiert werden.",
@@ -395,9 +395,9 @@
         "text": "Was sind 'Konfidenzintervalle' bei ML-Vorhersagen?",
         "options": [
           "Bereiche, die mit einer bestimmten Wahrscheinlichkeit den wahren Wert enthalten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Konfidenzintervalle geben an, in welchem Bereich sich der wahre Wert mit einer bestimmten Wahrscheinlichkeit (z.B. 95%) befindet. Sie sind ein wichtiges Werkzeug zur Kommunikation von Unsicherheit.",
@@ -418,9 +418,9 @@
         "text": "Was ist der Unterschied zwischen 'aleatorischer' und 'epistemischer' Unsicherheit?",
         "options": [
           "Aleatorisch ist inhärente Zufälligkeit, epistemisch ist Wissensmangel",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Aleatorische Unsicherheit bezieht sich auf inhärente Zufälligkeit im System (nicht reduzierbar), während epistemische Unsicherheit auf Wissensmangel zurückzuführen ist (durch mehr Daten reduzierbar).",
@@ -441,9 +441,9 @@
         "text": "Welche Methoden gibt es zur Verifikation neuronaler Netze?",
         "options": [
           "Abstrakte Interpretation, SMT-Solver, Intervall-Arithmetik, Lineare Programmierung",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Zur Verifikation neuronaler Netze werden verschiedene formale Methoden eingesetzt: Abstrakte Interpretation für Überapproximation, SMT-Solver für exakte Verifikation, Intervall-Arithmetik für Bereichsanalysen und Lineare Programmierung für Optimierungsprobleme.",
@@ -464,9 +464,9 @@
         "text": "Was ist ein 'Adversarial Example' bei neuronalen Netzen?",
         "options": [
           "Eine minimale Eingabeänderung, die zu falscher Klassifikation führt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Adversarial Examples sind Eingaben, die durch minimale, oft für Menschen nicht wahrnehmbare Änderungen so modifiziert wurden, dass das neuronale Netz sie falsch klassifiziert. Sie zeigen die Vulnerabilität von Deep Learning-Systemen auf.",
@@ -487,9 +487,9 @@
         "text": "Was ist 'Lipschitz-Kontinuität' im Kontext der Robustheit neuronaler Netze?",
         "options": [
           "Eine Eigenschaft, die begrenzt, wie stark sich die Ausgabe bei kleinen Eingabeänderungen ändern kann",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Lipschitz-Kontinuität stellt sicher, dass kleine Änderungen der Eingabe nur zu proportional kleinen Änderungen der Ausgabe führen. Dies ist wichtig für die Robustheit gegen adversarial attacks.",
@@ -533,9 +533,9 @@
         "text": "Was versteht man unter 'Abstrakte Interpretation' bei der Netzwerk-Verifikation?",
         "options": [
           "Eine Methode zur Überapproximation des Verhaltens mit konservativen Abschätzungen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Abstrakte Interpretation erzeugt konservative Überapproximationen des Netzwerkverhaltens. Wenn diese Approximation eine Eigenschaft erfüllt, dann erfüllt auch das originale Netzwerk diese Eigenschaft.",
@@ -556,9 +556,9 @@
         "text": "Was ist das Problem der 'Skalierbarkeit' bei der formalen Verifikation großer neuronaler Netze?",
         "options": [
           "Der Verifikationsaufwand wächst exponentiell mit der Netzwerkgröße",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die formale Verifikation neuronaler Netze ist ein NP-vollständiges Problem. Der Aufwand wächst exponentiell mit der Anzahl der Neuronen und Schichten, was die Verifikation großer Netze praktisch unmöglich macht.",
@@ -579,9 +579,9 @@
         "text": "Welche Approximationstechniken werden verwendet, um die Verifikation skalierbarer zu machen?",
         "options": [
           "Zonotope, Polyeder, Intervall-Abstraktion, Sampling-basierte Methoden",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Um die Verifikation praktikabel zu machen, werden verschiedene Approximationstechniken eingesetzt: Zonotope für lineare Transformationen, Polyeder für komplexere Geometrien, Intervall-Abstraktion für einfache Berechnungen und Sampling für statistische Garantien.",
@@ -672,9 +672,9 @@
         "text": "Welche Herausforderungen bestehen bei der Erklärbarkeit von Ensemble-Methoden?",
         "options": [
           "Komplexe Interaktionen zwischen Modellen erschweren einheitliche Erklärungen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ensemble-Methoden kombinieren mehrere Modelle, was zu komplexen Interaktionen führt. Eine einheitliche Erklärung zu geben ist schwierig, da verschiedene Modelle zu unterschiedlichen Schlüssen kommen können.",
@@ -718,9 +718,9 @@
         "text": "Was ist 'LIME' (Local Interpretable Model-agnostic Explanations)?",
         "options": [
           "Eine Methode zur lokalen Approximation komplexer Modelle durch interpretierbare Modelle",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "LIME erklärt Vorhersagen einzelner Instanzen, indem es das komplexe Modell lokal durch ein einfaches, interpretierbares Modell (z.B. lineare Regression) approximiert.",
@@ -741,9 +741,9 @@
         "text": "Was ist 'SHAP' (SHapley Additive exPlanations)?",
         "options": [
           "Eine auf Spieltheorie basierende Methode zur Berechnung von Feature-Wichtigkeiten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "SHAP basiert auf Shapley-Werten aus der Spieltheorie und berechnet den Beitrag jedes Features zur Vorhersage auf eine mathematisch fundierte und faire Weise.",
@@ -764,9 +764,9 @@
         "text": "Was ist der Unterschied zwischen 'lokalen' und 'globalen' Erklärungen?",
         "options": [
           "Lokal erklärt einzelne Vorhersagen, global erklärt das gesamte Modellverhalten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Lokale Erklärungen fokussieren sich auf eine spezifische Eingabe und erklären, warum das Modell für diese Eingabe eine bestimmte Vorhersage macht. Globale Erklärungen beschreiben das allgemeine Verhalten des Modells über alle möglichen Eingaben.",
@@ -810,9 +810,9 @@
         "text": "Was ist 'Gradient-based Explanation' bei neuronalen Netzen?",
         "options": [
           "Erklärungen basierend auf den Gradienten der Ausgabe bezüglich der Eingabe",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Gradient-basierte Erklärungen nutzen die Gradienten (Ableitungen) der Netzwerkausgabe bezüglich der Eingabefeatures, um zu zeigen, welche Eingabedimensionen den stärksten Einfluss auf die Vorhersage haben.",
@@ -833,9 +833,9 @@
         "text": "Was ist das Problem der 'Gradient Saturation' bei Erklärungsmethoden?",
         "options": [
           "Gradienten werden null oder sehr klein, obwohl Features relevant sind",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Gradient Saturation tritt auf, wenn Neuronen in Sättigungsbereichen ihrer Aktivierungsfunktionen arbeiten. Die Gradienten werden nahe null, obwohl die entsprechenden Features durchaus relevant für die Entscheidung sind.",
@@ -856,9 +856,9 @@
         "text": "Was ist 'Integrated Gradients' als Verbesserung zu einfachen Gradienten?",
         "options": [
           "Integration der Gradienten entlang eines Pfades von einer Baseline zur Eingabe",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Integrated Gradients berechnet die Wichtigkeit eines Features durch Integration der Gradienten entlang eines geradlinigen Pfades von einer Baseline (z.B. Nullvektor) zur aktuellen Eingabe. Dies löst Probleme der Gradient Saturation.",
@@ -879,9 +879,9 @@
         "text": "Welche Rolle spielt die 'Axiomatische Fundierung' bei Erklärungsmethoden?",
         "options": [
           "Sie definiert wünschenswerte Eigenschaften, die gute Erklärungen erfüllen sollten",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Axiomatische Fundierung definiert mathematische Eigenschaften wie Sensitivität, Implementierungsinvarianz und Linearität, die gute Erklärungsmethoden erfüllen sollten. Dies hilft bei der Bewertung und Auswahl von Erklärungsverfahren.",
@@ -925,9 +925,9 @@
         "text": "Was sind die Hauptherausforderungen bei der 'Evaluation' von Erklärungsmethoden?",
         "options": [
           "Fehlende objektive Metriken und schwierige Validierung der Korrektheit",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Die Evaluation von Erklärungen ist schwierig, da es oft keine objektive 'Ground Truth' für die korrekte Erklärung gibt. Metriken wie Faithfulness, Plausibilität und Stabilität sind schwer zu quantifizieren und zu validieren.",
@@ -994,9 +994,9 @@
         "text": "Was ist der Unterschied zwischen 'Black-Box' und 'White-Box' Erklärungen?",
         "options": [
           "Black-Box erklärt ohne Modellzugriff, White-Box nutzt Modellstruktur",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Black-Box-Methoden erklären Modelle ohne Zugriff auf ihre interne Struktur (nur Input-Output), während White-Box-Methoden die Modellarchitektur und Parameter direkt nutzen. LIME ist Black-Box, Gradient-basierte Methoden sind White-Box.",
@@ -1017,9 +1017,9 @@
         "text": "Was versteht man unter 'Temporal Logic' in der formalen Verifikation?",
         "options": [
           "Logik zur Spezifikation zeitabhängiger Eigenschaften von Systemen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Temporal Logic (Temporallogik) ermöglicht die Spezifikation von Eigenschaften, die sich über die Zeit entwickeln, wie 'immer', 'schließlich', 'bis'. Sie ist fundamental für die Verifikation reaktiver und zeitkritischer Systeme.",
@@ -1040,9 +1040,9 @@
         "text": "Was ist 'Transfer Learning' und welche Herausforderungen bringt es für die Verifikation?",
         "options": [
           "Wiederverwendung trainierter Modelle für neue Aufgaben; Verifikation muss für neue Domain wiederholt werden",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Transfer Learning nutzt vortrainierte Modelle für neue Aufgaben. Die Herausforderung ist, dass Verifikationsergebnisse aus der Original-Domain nicht automatisch auf die neue Domain übertragbar sind, da sich Datenverteilungen und Anforderungen unterscheiden.",
@@ -1063,9 +1063,9 @@
         "text": "Was sind 'Saliency Maps' bei der Erklärung von Bildklassifikation?",
         "options": [
           "Visualisierungen, die zeigen, welche Bildregionen für die Entscheidung wichtig sind",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Saliency Maps (Salienz-Karten) heben die Pixel oder Regionen eines Bildes hervor, die den größten Einfluss auf die Klassifikationsentscheidung haben. Sie werden oft durch Gradientenberechnung erzeugt.",
@@ -1179,9 +1179,9 @@
         "text": "Was ist 'Robustness' im Kontext neuronaler Netze?",
         "options": [
           "Die Fähigkeit, trotz kleiner Eingabestörungen korrekte Ausgaben zu produzieren",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Robustheit bezeichnet die Eigenschaft eines neuronalen Netzes, auch bei leicht veränderten oder verrauschten Eingaben stabile und korrekte Vorhersagen zu treffen. Dies ist besonders wichtig für sicherheitskritische Anwendungen.",
@@ -1225,9 +1225,9 @@
         "text": "Was versteht man unter 'Formal Specification Languages'?",
         "options": [
           "Präzise mathematische Sprachen zur Beschreibung von Systemeigenschaften",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Formale Spezifikationssprachen wie Z, VDM oder TLA+ ermöglichen die präzise, eindeutige und mathematisch fundierte Beschreibung von Systemanforderungen und -eigenschaften, die dann formal verifiziert werden können.",
@@ -1248,9 +1248,9 @@
         "text": "Was ist 'Overfitting' und wie gefährdet es die Verifikation?",
         "options": [
           "Modelle lernen Trainingsdaten auswendig statt zu generalisieren; gefährdet Verifikation für neue Eingaben",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Overfitting tritt auf, wenn ein Modell die Trainingsdaten zu genau lernt inklusive Rauschen. Das Modell generalisiert schlecht auf neue Daten, was bedeutet, dass Verifikationsergebnisse auf Trainingsdaten nicht auf echte Anwendungsfälle übertragbar sind.",
@@ -1271,9 +1271,9 @@
         "text": "Was sind 'Reachability Properties' bei der Systemverifikation?",
         "options": [
           "Eigenschaften, die beschreiben, welche Systemzustände erreichbar sind",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Reachability Properties spezifizieren, ob bestimmte Systemzustände von einem Startzustand aus erreichbar sind. Dies ist wichtig, um zu verifizieren, dass gefährliche Zustände nicht erreichbar sind oder dass erwünschte Zustände erreichbar sind.",
@@ -1294,9 +1294,9 @@
         "text": "Was ist 'Symbolic Execution' in der formalen Verifikation?",
         "options": [
           "Ausführung von Programmen mit symbolischen statt konkreten Werten zur Pfadanalyse",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Symbolic Execution führt Programme mit symbolischen Variablen statt konkreten Werten aus, um alle möglichen Ausführungspfade systematisch zu analysieren. Dies ermöglicht die Entdeckung von Fehlern und die Verifikation von Eigenschaften über alle Eingaben.",
@@ -1317,9 +1317,9 @@
         "text": "Was bedeutet 'Soundness' bei Verifikationsmethoden?",
         "options": [
           "Wenn die Methode sagt, eine Eigenschaft gilt, dann gilt sie wirklich (keine False Positives)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Soundness (Korrektheit) bedeutet, dass eine Verifikationsmethode keine falschen Garantien gibt. Wenn sie beweist, dass eine Eigenschaft erfüllt ist, dann ist sie tatsächlich erfüllt. Dies ist essentiell für sicherheitskritische Systeme.",
@@ -1340,9 +1340,9 @@
         "text": "Was ist 'Completeness' im Kontext der Verifikation?",
         "options": [
           "Wenn eine Eigenschaft gilt, findet die Methode auch einen Beweis dafür (keine False Negatives)",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Completeness (Vollständigkeit) bedeutet, dass eine Verifikationsmethode alle erfüllbaren Eigenschaften auch als erfüllt erkennt. In der Praxis müssen Verifikationsmethoden oft zwischen Soundness und Completeness abwägen.",
@@ -1363,9 +1363,9 @@
         "text": "Was sind 'Runtime Verification' Techniken?",
         "options": [
           "Überwachung von Systemeigenschaften während der Ausführung zur Laufzeit",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Runtime Verification überwacht Systeme während der Ausführung, um zu prüfen, ob spezifizierte Eigenschaften eingehalten werden. Dies ergänzt statische Verifikation und ermöglicht es, auf Verletzungen zur Laufzeit zu reagieren.",
@@ -1386,9 +1386,9 @@
         "text": "Was ist der Unterschied zwischen 'Verification' und 'Validation'?",
         "options": [
           "Verification prüft ob das System korrekt gebaut wurde, Validation ob das richtige System gebaut wurde",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Verification beantwortet 'Bauen wir das System richtig?' (erfüllt es die Spezifikation?), während Validation fragt 'Bauen wir das richtige System?' (entspricht es den tatsächlichen Bedürfnissen?). Beide sind für die Qualitätssicherung essentiell.",
@@ -1409,9 +1409,9 @@
         "text": "Was sind 'Invariants' in der formalen Verifikation?",
         "options": [
           "Eigenschaften, die in allen erreichbaren Systemzuständen immer wahr bleiben",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Invarianten sind Bedingungen, die während der gesamten Ausführung eines Systems in allen erreichbaren Zuständen gelten müssen. Sie sind fundamental für die Spezifikation und Verifikation von Systemeigenschaften, z.B. 'Kontoguthaben ist nie negativ'.",
@@ -1432,9 +1432,9 @@
         "text": "Was ist 'Concolic Testing' (Concrete + Symbolic Execution)?",
         "options": [
           "Kombination von konkreter Ausführung mit symbolischer Analyse zur Testfallgenerierung",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Concolic Testing kombiniert konkrete Programmausführung mit symbolischer Pfadanalyse. Es führt das Programm mit konkreten Eingaben aus, sammelt dabei Pfadbedingungen und generiert neue Testfälle, um andere Pfade zu erkunden.",
@@ -1478,9 +1478,9 @@
         "text": "Was sind 'Activation Functions' und warum sind sie relevant für die Verifikation?",
         "options": [
           "Nicht-lineare Funktionen in neuronalen Netzen; sie erschweren die mathematische Analyse",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Aktivierungsfunktionen wie ReLU, Sigmoid oder Tanh führen Nicht-Linearität in neuronale Netze ein. Diese Nicht-Linearität macht die formale Analyse und Verifikation deutlich komplexer, da lineare Verifikationsmethoden nicht mehr direkt anwendbar sind.",
@@ -1501,9 +1501,9 @@
         "text": "Was ist 'Formal Synthesis' im Kontext formaler Methoden?",
         "options": [
           "Automatische Generierung von korrektem Code aus formalen Spezifikationen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Formal Synthesis erzeugt automatisch Implementierungen, die garantiert eine gegebene formale Spezifikation erfüllen. Dies ist das 'WIE' in den drei Kategorien formaler Methoden (Spezifikation, Verifikation, Synthese).",
@@ -1524,9 +1524,9 @@
         "text": "Was sind 'Decision Trees' und warum gelten sie als interpretierbar?",
         "options": [
           "Baumstrukturen für Entscheidungen; jeder Pfad zeigt transparent die Entscheidungslogik",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Decision Trees sind von Natur aus interpretierbar, da jede Entscheidung durch einen nachvollziehbaren Pfad von Bedingungen erklärt wird. Sie sind ein Beispiel für 'interpretable by design' im Gegensatz zu Black-Box-Modellen.",
@@ -1547,9 +1547,9 @@
         "text": "Was ist 'Theorem Proving' in der formalen Verifikation?",
         "options": [
           "Mathematischer Beweis von Systemeigenschaften mittels logischer Schlussfolgerungen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Theorem Proving verwendet mathematische Logik und Beweisassistenten, um formale Beweise für Systemeigenschaften zu konstruieren. Es bietet die stärksten Garantien, erfordert aber oft menschliche Expertise und Interaktion.",
@@ -1570,9 +1570,9 @@
         "text": "Was bedeutet 'Bias' im Kontext von Machine Learning?",
         "options": [
           "Systematische Verzerrungen in Daten oder Modellen, die zu unfairen Vorhersagen führen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Bias bezeichnet systematische Verzerrungen in Trainingsdaten oder Modellen, die zu diskriminierenden oder unfairen Vorhersagen führen können. Die Identifikation und Minderung von Bias ist essentiell für faire und vertrauenswürdige KI.",
@@ -1593,9 +1593,9 @@
         "text": "Was sind 'Convolutional Neural Networks' (CNNs) und welche Verifikationsherausforderungen bringen sie?",
         "options": [
           "Netze mit Faltungsschichten für Bilderkennung; hohe Dimensionalität erschwert Verifikation",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "CNNs verwenden Faltungsschichten, die besonders effektiv für Bilddaten sind. Die hohe Dimensionalität der Eingaben (Pixel) und die spezielle Struktur der Faltungsoperationen stellen besondere Herausforderungen für die formale Verifikation dar.",
@@ -1639,9 +1639,9 @@
         "text": "Was sind 'Recurrent Neural Networks' (RNNs) und warum sind sie schwer zu verifizieren?",
         "options": [
           "Netze mit Rückkopplungen für Sequenzen; zeitliche Abhängigkeiten erschweren die Analyse",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "RNNs verarbeiten sequenzielle Daten durch Rückkopplungen über die Zeit. Die zeitlichen Abhängigkeiten und variablen Sequenzlängen machen die formale Verifikation besonders herausfordernd, da der Zustandsraum über die Zeit wächst.",
@@ -1708,9 +1708,9 @@
         "text": "Was sind 'Hyperparameters' und wie beeinflussen sie die Verifikation?",
         "options": [
           "Konfigurationsparameter wie Lernrate; verschiedene Werte führen zu verschiedenen Modellen, die jeweils verifiziert werden müssen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Hyperparameter wie Lernrate, Batch-Size oder Netzwerkarchitektur werden vor dem Training festgelegt. Jede Kombination kann zu einem anderen Modell führen, was bedeutet, dass Verifikationsergebnisse nicht automatisch auf andere Hyperparameter-Konfigurationen übertragbar sind.",
@@ -1731,9 +1731,9 @@
         "text": "Was ist 'Federated Learning' und welche Verifikationsherausforderungen bringt es?",
         "options": [
           "Dezentrales Training über mehrere Geräte; erschwert zentrale Verifikation und Qualitätskontrolle",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Federated Learning trainiert Modelle dezentral auf vielen Geräten, ohne zentrale Datenspeicherung. Dies macht Verifikation schwierig, da Trainingsdaten nicht zentral zugänglich sind und die Datenqualität nicht direkt überprüfbar ist.",
@@ -1754,9 +1754,9 @@
         "text": "Was sind 'Assertions' in der Programmierung und wie helfen sie bei der Verifikation?",
         "options": [
           "Bedingungen, die an bestimmten Programmstellen erfüllt sein müssen; sie dokumentieren und prüfen Annahmen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Assertions sind explizite Prüfungen von Bedingungen im Code (z.B. 'assert x > 0'). Sie dienen als Dokumentation von Annahmen und können zur Runtime Verification genutzt werden. Sie sind auch hilfreich für statische Analysetools.",
@@ -1777,9 +1777,9 @@
         "text": "Was ist 'Reinforcement Learning' und welche besonderen Verifikationsprobleme entstehen?",
         "options": [
           "Lernen durch Interaktion mit Umgebung; Verhalten hängt von nicht-deterministischer Umgebung ab",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Reinforcement Learning (RL) lernt durch Trial-and-Error in einer Umgebung. Die Verifikation ist besonders schwierig, da das Verhalten von der oft nicht vollständig spezifizierbaren Umgebung abhängt und RL-Agenten kontinuierlich lernen und sich anpassen.",
@@ -1800,9 +1800,9 @@
         "text": "Was sind 'Pre-conditions' und 'Post-conditions' in formalen Spezifikationen?",
         "options": [
           "Bedingungen die vor/nach Funktionsausführung gelten müssen; definieren den Kontrakt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Pre-conditions definieren, was vor Aufruf einer Funktion wahr sein muss. Post-conditions definieren, was nach erfolgreicher Ausführung garantiert ist. Zusammen bilden sie einen formalen Kontrakt für die Funktion.",
@@ -1869,9 +1869,9 @@
         "text": "Was ist 'Model Compression' und wie beeinflusst es die Verifikation?",
         "options": [
           "Reduzierung der Modellgröße durch Techniken wie Pruning; verifizierte Eigenschaften müssen neu geprüft werden",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Model Compression reduziert die Größe neuronaler Netze durch Techniken wie Pruning (Entfernen unwichtiger Verbindungen) oder Quantisierung. Nach der Kompression muss die Verifikation wiederholt werden, da sich das Verhalten ändern kann.",
@@ -1892,9 +1892,9 @@
         "text": "Was versteht man unter 'Ensemble Methods' und wie beeinflussen sie die Erklärbarkeit?",
         "options": [
           "Kombination mehrerer Modelle; erschwert einheitliche Erklärungen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Ensemble Methods kombinieren Vorhersagen mehrerer Modelle (z.B. Random Forests, Boosting). Dies verbessert oft die Genauigkeit, macht aber Erklärungen komplexer, da verschiedene Modelle zu unterschiedlichen Schlüssen kommen können.",
@@ -1938,9 +1938,9 @@
         "text": "Was sind 'Generative Adversarial Networks' (GANs) und welche Verifikationsherausforderungen haben sie?",
         "options": [
           "Zwei konkurrierende Netze (Generator + Discriminator); instabiles Training und schwer zu spezifizierende Ziele",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "GANs bestehen aus einem Generator, der Daten erzeugt, und einem Discriminator, der diese bewertet. Die adversariale Dynamik macht Training instabil und Verifikation schwierig, da keine klare Zielfunktion existiert und das Verhalten schwer vorhersagbar ist.",
@@ -1961,9 +1961,9 @@
         "text": "Was ist 'Continual Learning' und welche Probleme entstehen für die Verifikation?",
         "options": [
           "Lernen neuer Aufgaben ohne alte zu vergessen; Verhalten ändert sich kontinuierlich",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Continual Learning (Lifelong Learning) ermöglicht es Modellen, neue Aufgaben zu lernen, ohne früher Gelerntes zu vergessen. Für die Verifikation ist dies herausfordernd, da sich das Modell kontinuierlich ändert und frühere Garantien ungültig werden können.",
@@ -1984,9 +1984,9 @@
         "text": "Was sind 'Attention Weights' in Transformer-Modellen und wie helfen sie bei der Erklärbarkeit?",
         "options": [
           "Gewichte die zeigen, welche Eingabeteile das Modell fokussiert; ermöglichen Visualisierung der Aufmerksamkeit",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Attention Weights in Transformern zeigen, welche Teile der Eingabe für welche Ausgabe relevant sind. Sie bieten eine Form natürlicher Erklärbarkeit und können visualisiert werden, um zu verstehen, worauf das Modell seine Entscheidungen stützt.",
@@ -2007,9 +2007,9 @@
         "text": "Was ist 'Homomorphic Encryption' und wie ermöglicht es Privacy-Preserving ML?",
         "options": [
           "Verschlüsselung die Berechnungen auf verschlüsselten Daten erlaubt",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Homomorphic Encryption ermöglicht Berechnungen direkt auf verschlüsselten Daten, ohne sie zu entschlüsseln. Dies erlaubt Training und Inferenz auf sensiblen Daten, ohne dass der Service-Provider Zugriff auf die Rohdaten hat.",
@@ -2030,9 +2030,9 @@
         "text": "Was sind 'Backdoor Attacks' bei neuronalen Netzen?",
         "options": [
           "Versteckte Trigger in Modellen, die bei bestimmten Eingaben bösartiges Verhalten auslösen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Backdoor Attacks schleusen versteckte Trigger ins Modell ein, die bei normalen Eingaben unauffällig bleiben, aber bei speziellen Trigger-Mustern bösartiges Verhalten zeigen. Dies kann während des Trainings oder durch Data Poisoning geschehen.",
@@ -2099,9 +2099,9 @@
         "text": "Was ist 'Quantization' bei neuronalen Netzen?",
         "options": [
           "Reduzierung der Zahlenpräzision (z.B. von 32-bit auf 8-bit) zur Effizienzsteigerung",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Quantization reduziert die Präzision von Gewichten und Aktivierungen (z.B. von Float32 auf Int8), um Speicher und Rechenzeit zu sparen. Dies kann die Genauigkeit leicht verringern und erfordert eine erneute Verifikation des quantisierten Modells.",
@@ -2122,9 +2122,9 @@
         "text": "Was sind 'Formal Proofs' und warum sind sie die stärkste Form der Verifikation?",
         "options": [
           "Mathematische Beweise die vollständige Korrektheit garantieren, nicht nur für getestete Fälle",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Formal Proofs sind mathematische Beweise, die zeigen, dass ein System alle Eigenschaften für alle möglichen Eingaben erfüllt. Im Gegensatz zu Tests, die nur Beispiele prüfen, bieten sie vollständige Garantien, sind aber aufwendig zu erstellen.",
@@ -2191,9 +2191,9 @@
         "text": "Was ist 'Multi-Task Learning' und welche Verifikationsherausforderungen entstehen?",
         "options": [
           "Gleichzeitiges Lernen mehrerer Aufgaben; komplexere Interaktionen zwischen Tasks müssen verifiziert werden",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Multi-Task Learning trainiert ein Modell für mehrere verwandte Aufgaben gleichzeitig. Die Verifikation muss berücksichtigen, wie sich Tasks gegenseitig beeinflussen und ob Eigenschaften über alle Tasks hinweg gelten.",
@@ -2260,9 +2260,9 @@
         "text": "Was versteht man unter 'Test Coverage' bei der Software-Verifikation?",
         "options": [
           "Der Anteil des Codes der durch Tests ausgeführt wird",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "Test Coverage misst, welcher Anteil des Codes durch Tests abgedeckt wird (z.B. Line Coverage, Branch Coverage). Hohe Coverage ist wichtig, garantiert aber nicht Fehlerfreiheit, da nicht alle Ausführungspfade und Eingabenkombinationen getestet werden können.",
@@ -2283,9 +2283,9 @@
         "text": "Was ist 'Neural Architecture Search' (NAS) und wie beeinflusst es die Verifikation?",
         "options": [
           "Automatische Suche nach optimalen Netzwerkarchitekturen; erzeugt verschiedene Modelle die jeweils verifiziert werden müssen",
-          "Eine ähnliche Alternative",
-          "Ein verwandtes Konzept",
-          "Ein vergleichbares Verfahren"
+          "Eine andere Möglichkeit",
+          "Ein verwandtes Fachkonzept",
+          "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,
         "explanation": "NAS automatisiert die Suche nach optimalen Netzwerkarchitekturen durch systematisches Ausprobieren. Jede gefundene Architektur ist ein neues Modell mit potenziell unterschiedlichen Eigenschaften, das separat verifiziert werden muss.",
