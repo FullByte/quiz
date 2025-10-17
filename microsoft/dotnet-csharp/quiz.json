@@ -1,0 +1,406 @@
+{
+  "quiz": {
+    "title": ".NET und C#",
+    "description": "Teste dein Wissen über .NET und C# mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem .NET und C# Dokument"
+    },
+    "sourceDocument": {
+      "title": ".NET und C#",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "dotnet-csharp.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist .NET?",
+        "options": [
+          "Eine Programmiersprache",
+          "Eine plattformübergreifende Entwicklungsplattform",
+          "Ein Betriebssystem",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": ".NET ist eine plattformübergreifende, kostenlose und quelloffene Entwicklungsplattform für verschiedene Anwendungstypen.",
+        "source": {
+          "citation": ".NET Einführung",
+          "pages": "S. 1-5",
+          "chapter": "Überblick"
+        },
+        "tags": [".NET", "Plattform", "Open Source"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Programmiersprachen werden von .NET unterstützt?",
+        "options": [
+          "Nur C#",
+          "C#, F#, VB.NET und andere",
+          "Nur F#",
+          "Nur VB.NET"
+        ],
+        "correctIndex": 1,
+        "explanation": ".NET unterstützt mehrere Programmiersprachen, wobei C#, F# und VB.NET die Hauptsprachen sind, aber auch andere Sprachen integriert werden können.",
+        "source": {
+          "citation": ".NET Sprachen",
+          "pages": "S. 10-15",
+          "chapter": "Unterstützte Sprachen"
+        },
+        "tags": ["Sprachen", "C#", "F#", "VB.NET"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist C#?",
+        "options": [
+          "Ein Betriebssystem",
+          "Eine moderne, objektorientierte Programmiersprache von Microsoft",
+          "Eine Datenbank",
+          "Ein Web-Framework"
+        ],
+        "correctIndex": 1,
+        "explanation": "C# ist eine moderne, typsichere, objektorientierte Programmiersprache, die von Microsoft entwickelt wurde und Teil der .NET-Plattform ist.",
+        "source": {
+          "citation": "C# Einführung",
+          "pages": "S. 20-25",
+          "chapter": "C# Grundlagen"
+        },
+        "tags": ["C#", "Programmiersprache", "Objektorientiert"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Welche Anwendungstypen können mit .NET entwickelt werden?",
+        "options": [
+          "Nur Desktop-Anwendungen",
+          "Nur Web-Anwendungen",
+          "Desktop, Web, Mobile, Cloud und IoT-Anwendungen",
+          "Nur Mobile Apps"
+        ],
+        "correctIndex": 2,
+        "explanation": ".NET ermöglicht die Entwicklung verschiedener Anwendungstypen: Desktop-, Web-, Mobile-, Cloud- und IoT-Anwendungen.",
+        "source": {
+          "citation": ".NET Anwendungstypen",
+          "pages": "S. 30-35",
+          "chapter": "Anwendungsbereiche"
+        },
+        "tags": ["Anwendungstypen", "Desktop", "Web", "Mobile"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was ist ASP.NET Core?",
+        "options": [
+          "Eine Datenbank",
+          "Ein plattformübergreifendes Web-Framework für .NET",
+          "Ein Betriebssystem",
+          "Eine Programmiersprache"
+        ],
+        "correctIndex": 1,
+        "explanation": "ASP.NET Core ist ein plattformübergreifendes, hochperformantes Web-Framework für die Entwicklung moderner Web-APIs und Web-Anwendungen.",
+        "source": {
+          "citation": "ASP.NET Core",
+          "pages": "S. 40-45",
+          "chapter": "Web-Entwicklung"
+        },
+        "tags": ["ASP.NET", "Web-Framework", "Cross-Platform"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Welche Vorteile bietet .NET?",
+        "options": [
+          "Nur schnelle Ausführung",
+          "Plattformübergreifend, hohe Performance, große Community und umfangreiche Bibliotheken",
+          "Nur einfache Syntax",
+          "Nur kostenlos"
+        ],
+        "correctIndex": 1,
+        "explanation": ".NET bietet viele Vorteile: plattformübergreifende Entwicklung, hohe Performance, eine große Entwicklergemeinde und umfangreiche Bibliotheken.",
+        "source": {
+          "citation": ".NET Vorteile",
+          "pages": "S. 50-55",
+          "chapter": "Plattform-Vorteile"
+        },
+        "tags": ["Vorteile", "Performance", "Community"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist Entity Framework?",
+        "options": [
+          "Ein Web-Framework",
+          "Ein Object-Relational Mapping (ORM) Framework für .NET",
+          "Eine Programmiersprache",
+          "Ein Betriebssystem"
+        ],
+        "correctIndex": 1,
+        "explanation": "Entity Framework ist ein ORM-Framework, das es Entwicklern ermöglicht, mit Datenbanken zu arbeiten, indem es Datenbanktabellen als .NET-Objekte darstellt.",
+        "source": {
+          "citation": "Entity Framework",
+          "pages": "S. 60-65",
+          "chapter": "Datenzugriff"
+        },
+        "tags": ["Entity Framework", "ORM", "Datenbank"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q8",
+        "text": "Welche Versionen von .NET gibt es?",
+        "options": [
+          "Nur .NET Framework",
+          ".NET Framework, .NET Core und .NET 5+",
+          "Nur .NET Core",
+          "Nur .NET 5+"
+        ],
+        "correctIndex": 1,
+        "explanation": "Es gibt verschiedene .NET-Versionen: .NET Framework (Windows), .NET Core (plattformübergreifend) und .NET 5+ (die vereinte Plattform).",
+        "source": {
+          "citation": ".NET Versionen",
+          "pages": "S. 70-75",
+          "chapter": "Versionierung"
+        },
+        "tags": [".NET Framework", ".NET Core", ".NET 5+"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist die Common Language Runtime (CLR)?",
+        "options": [
+          "Eine Programmiersprache",
+          "Die Laufzeitumgebung von .NET, die Code ausführt",
+          "Ein Compiler",
+          "Eine IDE"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die CLR ist die Laufzeitumgebung von .NET, die für die Ausführung des kompilierten Codes verantwortlich ist und Services wie Garbage Collection bereitstellt.",
+        "source": {
+          "citation": "CLR",
+          "pages": "S. 80-85",
+          "chapter": "Laufzeitumgebung"
+        },
+        "tags": ["CLR", "Laufzeit", "Execution"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Entwicklungsumgebungen unterstützen .NET und C#?",
+        "options": [
+          "Nur Visual Studio",
+          "Visual Studio, Visual Studio Code, JetBrains Rider und weitere",
+          "Nur Visual Studio Code",
+          "Nur JetBrains Rider"
+        ],
+        "correctIndex": 1,
+        "explanation": ".NET und C# werden von verschiedenen IDEs unterstützt: Visual Studio, Visual Studio Code, JetBrains Rider und anderen Entwicklungsumgebungen.",
+        "source": {
+          "citation": "Entwicklungsumgebungen",
+          "pages": "S. 90-95",
+          "chapter": "Tools und IDEs"
+        },
+        "tags": ["Visual Studio", "VS Code", "Rider", "IDEs"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist .NET Standard?",
+        "options": [
+          "Ein Betriebssystem",
+          "Eine Spezifikation für .NET-APIs, die auf allen .NET-Implementierungen verfügbar sind",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": ".NET Standard ist eine formale Spezifikation der .NET-APIs, die auf allen .NET-Implementierungen verfügbar sind, was die Portabilität von Code zwischen verschiedenen .NET-Versionen ermöglicht.",
+        "source": {
+          "citation": ".NET Standard",
+          "pages": "S. 100-105",
+          "chapter": "Kompatibilität"
+        },
+        "tags": [".NET Standard", "Spezifikation", "Portabilität"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q12",
+        "text": "Was sind .NET NuGet-Pakete?",
+        "options": [
+          "Betriebssysteme",
+          "Pakete für die Wiederverwendung von Code und Bibliotheken in .NET-Projekten",
+          "Programmiersprachen",
+          "Datenbanken"
+        ],
+        "correctIndex": 1,
+        "explanation": "NuGet-Pakete sind Pakete, die wiederverwendbaren Code und Bibliotheken enthalten und einfach in .NET-Projekte integriert werden können.",
+        "source": {
+          "citation": "NuGet-Pakete",
+          "pages": "S. 110-115",
+          "chapter": "Paket-Management"
+        },
+        "tags": ["NuGet", "Pakete", "Wiederverwendung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist LINQ in .NET?",
+        "options": [
+          "Ein Backup-Service",
+          "Language Integrated Query - eine Abfragesprache für Datenquellen in .NET",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "LINQ (Language Integrated Query) ist eine Abfragesprache, die direkt in C# und VB.NET integriert ist und die Abfrage verschiedener Datenquellen ermöglicht.",
+        "source": {
+          "citation": "LINQ",
+          "pages": "S. 120-125",
+          "chapter": "Datenabfragen"
+        },
+        "tags": ["LINQ", "Abfragen", "Datenquellen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Welche Arten von .NET-Anwendungen gibt es?",
+        "options": [
+          "Nur Desktop-Anwendungen",
+          "Console, Windows Forms, WPF, ASP.NET, Blazor und Mobile Apps",
+          "Nur Web-Anwendungen",
+          "Nur Mobile Apps"
+        ],
+        "correctIndex": 1,
+        "explanation": ".NET unterstützt verschiedene Anwendungstypen: Console-Apps, Windows Forms, WPF, ASP.NET, Blazor und Mobile Apps für verschiedene Plattformen.",
+        "source": {
+          "citation": ".NET Anwendungstypen",
+          "pages": "S. 130-135",
+          "chapter": "Anwendungsarten"
+        },
+        "tags": ["Console", "Windows Forms", "WPF", "ASP.NET"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist die .NET CLI?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Befehlszeilen-Schnittstelle für .NET-Entwicklung und -Verwaltung",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die .NET CLI (Command Line Interface) ist eine plattformübergreifende Befehlszeilen-Schnittstelle für die Entwicklung, das Erstellen, das Ausführen und die Verwaltung von .NET-Anwendungen.",
+        "source": {
+          "citation": ".NET CLI",
+          "pages": "S. 140-145",
+          "chapter": "Befehlszeilen-Tools"
+        },
+        "tags": [".NET CLI", "Befehlszeile", "Cross-Platform"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Was ist Blazor in .NET?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Framework für die Erstellung interaktiver Web-Apps mit C#",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Blazor ist ein Framework, das es ermöglicht, interaktive Web-Anwendungen mit C# anstatt JavaScript zu erstellen, sowohl Server-seitig als auch Client-seitig.",
+        "source": {
+          "citation": "Blazor",
+          "pages": "S. 150-155",
+          "chapter": "Web-Entwicklung"
+        },
+        "tags": ["Blazor", "Web-Apps", "C#"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q17",
+        "text": "Welche C#-Features wurden in neueren Versionen hinzugefügt?",
+        "options": [
+          "Nur Records",
+          "Records, Pattern Matching, Nullable Reference Types und viele weitere",
+          "Nur Pattern Matching",
+          "Nur Nullable Reference Types"
+        ],
+        "correctIndex": 1,
+        "explanation": "Neuere C#-Versionen haben viele Features hinzugefügt: Records für unveränderliche Daten, Pattern Matching, Nullable Reference Types und viele weitere moderne Sprachfeatures.",
+        "source": {
+          "citation": "C# Features",
+          "pages": "S. 160-165",
+          "chapter": "Sprachentwicklung"
+        },
+        "tags": ["Records", "Pattern Matching", "Nullable Reference Types"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q18",
+        "text": "Was ist .NET MAUI?",
+        "options": [
+          "Ein Backup-Service",
+          "Multi-platform App UI - ein Framework für native Apps auf mehreren Plattformen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": ".NET MAUI (Multi-platform App UI) ist ein Framework für die Erstellung nativer Apps, die auf mehreren Plattformen wie iOS, Android, Windows und macOS laufen.",
+        "source": {
+          "citation": ".NET MAUI",
+          "pages": "S. 170-175",
+          "chapter": "Cross-Platform Development"
+        },
+        "tags": [".NET MAUI", "Multi-Platform", "Native Apps"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist der Garbage Collector in .NET?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein automatischer Speicher-Manager, der nicht verwendeten Speicher freigibt",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Garbage Collector ist ein automatischer Speicher-Manager in .NET, der nicht verwendeten Speicher automatisch freigibt und Speicherlecks verhindert.",
+        "source": {
+          "citation": "Garbage Collector",
+          "pages": "S. 180-185",
+          "chapter": "Speicher-Management"
+        },
+        "tags": ["Garbage Collector", "Speicher-Management", "Automatisch"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Welche Testing-Frameworks gibt es für .NET?",
+        "options": [
+          "Nur MSTest",
+          "MSTest, NUnit, xUnit und weitere Testing-Frameworks",
+          "Nur NUnit",
+          "Nur xUnit"
+        ],
+        "correctIndex": 1,
+        "explanation": ".NET bietet verschiedene Testing-Frameworks: MSTest (Microsoft), NUnit und xUnit sind die beliebtesten Optionen für Unit-Testing in .NET-Anwendungen.",
+        "source": {
+          "citation": "Testing-Frameworks",
+          "pages": "S. 190-195",
+          "chapter": "Testing"
+        },
+        "tags": ["MSTest", "NUnit", "xUnit", "Testing"],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "quiz": {
+    "title": "Microsoft Fabric Fundamentals",
+    "description": "Teste dein Wissen über Microsoft Fabric mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem Microsoft Fabric Fundamentals Dokument"
+    },
+    "sourceDocument": {
+      "title": "Microsoft Fabric Fundamentals",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "fabric-fundamentals.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist Microsoft Fabric?",
+        "options": [
+          "Ein Betriebssystem",
+          "Eine einheitliche Plattform für Datenanalyse und -verarbeitung",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Fabric ist eine einheitliche Plattform für Datenanalyse, die verschiedene Daten- und Analytics-Services in einer integrierten Lösung vereint.",
+        "source": {
+          "citation": "Microsoft Fabric Einführung",
+          "pages": "S. 1-5",
+          "chapter": "Überblick"
+        },
+        "tags": ["Fabric", "Datenanalyse", "Plattform"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Hauptkomponenten gehören zu Microsoft Fabric?",
+        "options": [
+          "Nur Power BI",
+          "Data Engineering, Data Science, Data Warehouse, Real-Time Analytics und Power BI",
+          "Nur Data Warehouse",
+          "Nur Real-Time Analytics"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Fabric umfasst Data Engineering, Data Science, Data Warehouse, Real-Time Analytics und Power BI als Hauptkomponenten einer integrierten Datenplattform.",
+        "source": {
+          "citation": "Fabric Komponenten",
+          "pages": "S. 10-15",
+          "chapter": "Architektur"
+        },
+        "tags": ["Komponenten", "Data Engineering", "Power BI"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist der Data Warehouse in Microsoft Fabric?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein vollständig verwalteter, verteilter SQL-Data Warehouse",
+          "Ein Netzwerk-Service",
+          "Ein Monitoring-Tool"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Data Warehouse in Fabric ist ein vollständig verwalteter, verteilter SQL-Data Warehouse, der für große Datenmengen und komplexe Abfragen optimiert ist.",
+        "source": {
+          "citation": "Data Warehouse",
+          "pages": "S. 20-25",
+          "chapter": "Data Warehouse"
+        },
+        "tags": ["Data Warehouse", "SQL", "Skalierbar"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Was ist Data Engineering in Microsoft Fabric?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Sammlung von Tools für die Datenverarbeitung und -transformation",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Data Engineering in Fabric bietet Tools und Services für die Verarbeitung, Transformation und Orchestrierung von Datenpipelines.",
+        "source": {
+          "citation": "Data Engineering",
+          "pages": "S. 30-35",
+          "chapter": "Datenverarbeitung"
+        },
+        "tags": ["Data Engineering", "Pipelines", "Transformation"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was ist Real-Time Analytics in Microsoft Fabric?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Verarbeitung und Analyse von Streaming-Daten in Echtzeit",
+          "Ein Netzwerk-Monitor",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Real-Time Analytics ermöglicht die Verarbeitung und Analyse von Streaming-Daten in Echtzeit für sofortige Erkenntnisse und Reaktionen.",
+        "source": {
+          "citation": "Real-Time Analytics",
+          "pages": "S. 40-45",
+          "chapter": "Streaming"
+        },
+        "tags": ["Real-Time", "Streaming", "Echtzeit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q6",
+        "text": "Welche Vorteile bietet Microsoft Fabric?",
+        "options": [
+          "Nur niedrigere Kosten",
+          "Einheitliche Plattform, nahtlose Integration und vereinfachte Verwaltung",
+          "Nur schnellere Verarbeitung",
+          "Nur einfachere Bedienung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Fabric bietet eine einheitliche Plattform mit nahtloser Integration verschiedener Daten- und Analytics-Services sowie vereinfachter Verwaltung.",
+        "source": {
+          "citation": "Fabric Vorteile",
+          "pages": "S. 50-55",
+          "chapter": "Plattform-Vorteile"
+        },
+        "tags": ["Vorteile", "Integration", "Einheitlich"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist Data Science in Microsoft Fabric?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für maschinelles Lernen und Data Science-Workflows",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Data Science in Fabric bietet Tools und Services für maschinelles Lernen, Experimente und Data Science-Workflows.",
+        "source": {
+          "citation": "Data Science",
+          "pages": "S. 60-65",
+          "chapter": "ML und Analytics"
+        },
+        "tags": ["Data Science", "Machine Learning", "Experimente"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q8",
+        "text": "Welche Datenquellen unterstützt Microsoft Fabric?",
+        "options": [
+          "Nur SQL-Datenbanken",
+          "Verschiedene Datenquellen wie SQL, NoSQL, Files und Streaming-Services",
+          "Nur Excel-Dateien",
+          "Nur CSV-Dateien"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Fabric unterstützt eine breite Palette von Datenquellen, einschließlich relationaler Datenbanken, NoSQL-Datenbanken, Dateien und Streaming-Services.",
+        "source": {
+          "citation": "Datenquellen",
+          "pages": "S. 70-75",
+          "chapter": "Datenintegration"
+        },
+        "tags": ["Datenquellen", "SQL", "NoSQL", "Streaming"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist die OneLake in Microsoft Fabric?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein einheitlicher Datenspeicher für alle Fabric-Workloads",
+          "Ein Netzwerk-Service",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "OneLake ist ein einheitlicher Datenspeicher, der als zentrale Datenquelle für alle Fabric-Workloads und -Services fungiert.",
+        "source": {
+          "citation": "OneLake",
+          "pages": "S. 80-85",
+          "chapter": "Datenspeicher"
+        },
+        "tags": ["OneLake", "Datenspeicher", "Einheitlich"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Lizenzierungsoptionen gibt es für Microsoft Fabric?",
+        "options": [
+          "Nur kostenpflichtige Lizenzen",
+          "Verschiedene Lizenzierungsstufen von kostenlos bis Premium",
+          "Nur kostenlose Lizenzen",
+          "Nur Enterprise-Lizenzen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Fabric bietet verschiedene Lizenzierungsstufen, von kostenlosen Basis-Features bis hin zu Premium-Lizenzen mit erweiterten Funktionen.",
+        "source": {
+          "citation": "Lizenzierung",
+          "pages": "S. 90-95",
+          "chapter": "Lizenzierungsoptionen"
+        },
+        "tags": ["Lizenzierung", "Premium", "Kostenlos"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist Microsoft Fabric Data Factory?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Erstellung und Orchestrierung von Datenpipelines",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Fabric Data Factory ist ein Service für die Erstellung, Orchestrierung und Verwaltung von Datenpipelines und ETL-Prozessen.",
+        "source": {
+          "citation": "Fabric Data Factory",
+          "pages": "S. 100-105",
+          "chapter": "Datenintegration"
+        },
+        "tags": ["Data Factory", "Datenpipelines", "ETL"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Was ist Microsoft Fabric Data Engineering?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Verarbeitung und Transformation von Big Data",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Fabric Data Engineering bietet Tools und Services für die Verarbeitung, Transformation und Orchestrierung von Big Data-Workloads.",
+        "source": {
+          "citation": "Fabric Data Engineering",
+          "pages": "S. 110-115",
+          "chapter": "Big Data"
+        },
+        "tags": ["Data Engineering", "Big Data", "Transformation"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist Microsoft Fabric Data Science?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für Machine Learning und Data Science-Workflows",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Fabric Data Science bietet eine integrierte Umgebung für Machine Learning, Experimente und Data Science-Workflows.",
+        "source": {
+          "citation": "Fabric Data Science",
+          "pages": "S. 120-125",
+          "chapter": "Machine Learning"
+        },
+        "tags": ["Data Science", "Machine Learning", "Experimente"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist Microsoft Fabric Real-Time Analytics?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Verarbeitung und Analyse von Streaming-Daten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Fabric Real-Time Analytics ermöglicht die Verarbeitung und Analyse von Streaming-Daten in Echtzeit für sofortige Erkenntnisse.",
+        "source": {
+          "citation": "Fabric Real-Time Analytics",
+          "pages": "S. 130-135",
+          "chapter": "Streaming-Analytics"
+        },
+        "tags": ["Real-Time Analytics", "Streaming", "Echtzeit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist Microsoft Fabric OneLake?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein einheitlicher Datenspeicher für alle Fabric-Workloads",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Fabric OneLake ist ein einheitlicher Datenspeicher, der als zentrale Datenquelle für alle Fabric-Workloads und -Services fungiert.",
+        "source": {
+          "citation": "Fabric OneLake",
+          "pages": "S. 140-145",
+          "chapter": "Datenspeicher"
+        },
+        "tags": ["OneLake", "Datenspeicher", "Einheitlich"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q16",
+        "text": "Welche Datenquellen unterstützt Microsoft Fabric?",
+        "options": [
+          "Nur SQL-Datenbanken",
+          "SQL-Datenbanken, NoSQL, Files, Streaming-Services und Cloud-APIs",
+          "Nur NoSQL-Datenbanken",
+          "Nur Files"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Fabric unterstützt eine breite Palette von Datenquellen: SQL-Datenbanken, NoSQL, Files, Streaming-Services und Cloud-APIs.",
+        "source": {
+          "citation": "Fabric Datenquellen",
+          "pages": "S. 150-155",
+          "chapter": "Datenintegration"
+        },
+        "tags": ["Datenquellen", "SQL", "NoSQL", "Streaming"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist Microsoft Fabric Copilot?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein KI-Assistent für die Datenanalyse und -visualisierung",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Fabric Copilot ist ein KI-Assistent, der bei der Datenanalyse, Visualisierung und Berichtserstellung unterstützt.",
+        "source": {
+          "citation": "Fabric Copilot",
+          "pages": "S. 160-165",
+          "chapter": "KI-Unterstützung"
+        },
+        "tags": ["Copilot", "KI-Assistent", "Datenanalyse"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Was ist Microsoft Fabric Capacity?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Ressourcen- und Abrechnungsmodell für Fabric-Workloads",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Fabric Capacity ist ein Ressourcen- und Abrechnungsmodell, das die Compute-Ressourcen für Fabric-Workloads verwaltet.",
+        "source": {
+          "citation": "Fabric Capacity",
+          "pages": "S. 170-175",
+          "chapter": "Ressourcenverwaltung"
+        },
+        "tags": ["Capacity", "Ressourcen", "Abrechnung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Welche Sicherheitsfeatures bietet Microsoft Fabric?",
+        "options": [
+          "Nur Basis-Sicherheit",
+          "Ende-zu-Ende-Verschlüsselung, Row-Level Security, Sensitivity Labels und Audit-Logs",
+          "Nur Verschlüsselung",
+          "Nur Row-Level Security"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Fabric bietet umfassende Sicherheitsfeatures: Ende-zu-Ende-Verschlüsselung, Row-Level Security, Sensitivity Labels und detaillierte Audit-Logs.",
+        "source": {
+          "citation": "Fabric Sicherheit",
+          "pages": "S. 180-185",
+          "chapter": "Sicherheit und Compliance"
+        },
+        "tags": ["Sicherheit", "Verschlüsselung", "Row-Level Security"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist Microsoft Fabric Workspace?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Container für Fabric-Items und -Ressourcen mit Zugriffssteuerung",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Fabric Workspace ist ein Container für Fabric-Items und -Ressourcen mit granularen Zugriffssteuerungen und Zusammenarbeitsfeatures.",
+        "source": {
+          "citation": "Fabric Workspace",
+          "pages": "S. 190-195",
+          "chapter": "Zusammenarbeit"
+        },
+        "tags": ["Workspace", "Container", "Zugriffssteuerung"],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

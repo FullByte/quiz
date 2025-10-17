@@ -1,0 +1,406 @@
+{
+  "quiz": {
+    "title": "Windows Server - Erste Schritte",
+    "description": "Teste dein Wissen über Windows Server mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem Windows Server Get Started Dokument"
+    },
+    "sourceDocument": {
+      "title": "Windows Server - Erste Schritte",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "windows-server-get-started.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist Windows Server?",
+        "options": [
+          "Ein Betriebssystem für Desktop-Computer",
+          "Ein Server-Betriebssystem von Microsoft für Unternehmensnetzwerke",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Server ist ein Server-Betriebssystem von Microsoft, das speziell für den Einsatz in Unternehmensnetzwerken und Rechenzentren entwickelt wurde.",
+        "source": {
+          "citation": "Windows Server Einführung",
+          "pages": "S. 1-5",
+          "chapter": "Überblick"
+        },
+        "tags": ["Windows Server", "Server-Betriebssystem", "Unternehmen"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Editionen von Windows Server gibt es?",
+        "options": [
+          "Nur Standard Edition",
+          "Datacenter, Standard, Essentials und Foundation Editionen",
+          "Nur Datacenter Edition",
+          "Nur Essentials Edition"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Server ist in verschiedenen Editionen verfügbar: Datacenter (für große Rechenzentren), Standard (für kleine bis mittlere Unternehmen), Essentials und Foundation.",
+        "source": {
+          "citation": "Windows Server Editionen",
+          "pages": "S. 10-15",
+          "chapter": "Lizenzierung"
+        },
+        "tags": ["Datacenter", "Standard", "Essentials", "Foundation"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist Active Directory?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Verzeichnisdienst für die Verwaltung von Benutzern, Computern und Ressourcen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Active Directory ist ein Verzeichnisdienst, der die zentrale Verwaltung von Benutzern, Computern, Gruppen und anderen Ressourcen in einem Netzwerk ermöglicht.",
+        "source": {
+          "citation": "Active Directory",
+          "pages": "S. 20-25",
+          "chapter": "Verzeichnisdienste"
+        },
+        "tags": ["Active Directory", "Verzeichnisdienst", "Benutzerverwaltung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Was ist der Windows Server Manager?",
+        "options": [
+          "Ein Backup-Tool",
+          "Eine zentrale Verwaltungskonsole für Windows Server-Rollen und -Features",
+          "Ein Netzwerk-Monitor",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Windows Server Manager ist eine zentrale Verwaltungskonsole, die die Installation und Verwaltung von Server-Rollen und Features vereinfacht.",
+        "source": {
+          "citation": "Server Manager",
+          "pages": "S. 30-35",
+          "chapter": "Verwaltungstools"
+        },
+        "tags": ["Server Manager", "Verwaltungskonsole", "Rollen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Welche Server-Rollen kann Windows Server bereitstellen?",
+        "options": [
+          "Nur Web-Server",
+          "Domain Controller, File Server, Web Server, DNS Server und viele weitere",
+          "Nur Domain Controller",
+          "Nur File Server"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Server kann verschiedene Rollen übernehmen: Domain Controller, File Server, Web Server, DNS Server, DHCP Server und viele weitere spezialisierte Rollen.",
+        "source": {
+          "citation": "Server-Rollen",
+          "pages": "S. 40-45",
+          "chapter": "Rollen und Features"
+        },
+        "tags": ["Domain Controller", "File Server", "Web Server", "DNS"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Was ist PowerShell in Windows Server?",
+        "options": [
+          "Ein Backup-Tool",
+          "Eine Befehlszeilen-Shell und Skriptsprache für die Serververwaltung",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell ist eine leistungsstarke Befehlszeilen-Shell und Skriptsprache, die die Automatisierung und Verwaltung von Windows Server-Systemen ermöglicht.",
+        "source": {
+          "citation": "PowerShell",
+          "pages": "S. 50-55",
+          "chapter": "Automatisierung"
+        },
+        "tags": ["PowerShell", "Skriptsprache", "Automatisierung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist Hyper-V?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Virtualisierungstechnologie für die Erstellung und Verwaltung virtueller Maschinen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hyper-V ist Microsofts Virtualisierungstechnologie, die es ermöglicht, virtuelle Maschinen auf Windows Server-Hosts zu erstellen und zu verwalten.",
+        "source": {
+          "citation": "Hyper-V",
+          "pages": "S. 60-65",
+          "chapter": "Virtualisierung"
+        },
+        "tags": ["Hyper-V", "Virtualisierung", "Virtuelle Maschinen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q8",
+        "text": "Was ist Windows Server Update Services (WSUS)?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service zur zentralen Verwaltung und Verteilung von Windows-Updates",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "WSUS ermöglicht die zentrale Verwaltung und Verteilung von Windows-Updates in einem Unternehmensnetzwerk, wodurch Bandbreite gespart und Update-Kontrolle verbessert wird.",
+        "source": {
+          "citation": "WSUS",
+          "pages": "S. 70-75",
+          "chapter": "Update-Management"
+        },
+        "tags": ["WSUS", "Updates", "Zentrale Verwaltung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q9",
+        "text": "Welche Sicherheitsfeatures bietet Windows Server?",
+        "options": [
+          "Nur Windows Firewall",
+          "Windows Firewall, BitLocker, Windows Defender und erweiterte Sicherheitsrichtlinien",
+          "Nur BitLocker",
+          "Nur Windows Defender"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Server bietet umfassende Sicherheitsfeatures: Windows Firewall, BitLocker-Verschlüsselung, Windows Defender und erweiterte Sicherheitsrichtlinien.",
+        "source": {
+          "citation": "Sicherheitsfeatures",
+          "pages": "S. 80-85",
+          "chapter": "Sicherheit"
+        },
+        "tags": ["Windows Firewall", "BitLocker", "Windows Defender"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Was ist die Windows Server Core Installation?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine minimale Installation von Windows Server ohne grafische Benutzeroberfläche",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Server Core ist eine minimale Installation ohne grafische Benutzeroberfläche, die über Befehlszeile oder PowerShell verwaltet wird und weniger Ressourcen benötigt.",
+        "source": {
+          "citation": "Server Core",
+          "pages": "S. 90-95",
+          "chapter": "Installationsoptionen"
+        },
+        "tags": ["Server Core", "Minimal", "Befehlszeile"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist Windows Server Active Directory?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Verzeichnisdienst für die Verwaltung von Benutzern, Computern und Ressourcen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Server Active Directory ist ein Verzeichnisdienst, der die zentrale Verwaltung von Benutzern, Computern und Ressourcen in einer Domäne ermöglicht.",
+        "source": {
+          "citation": "Windows Server Active Directory",
+          "pages": "S. 100-105",
+          "chapter": "Verzeichnisdienst"
+        },
+        "tags": ["Active Directory", "Verzeichnisdienst", "Domäne"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q12",
+        "text": "Was ist Windows Server Group Policy?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die zentrale Verwaltung von Systemeinstellungen und -richtlinien",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Server Group Policy ermöglicht die zentrale Verwaltung von Systemeinstellungen, Sicherheitsrichtlinien und Benutzerkonfigurationen.",
+        "source": {
+          "citation": "Windows Server Group Policy",
+          "pages": "S. 110-115",
+          "chapter": "Richtlinien-Management"
+        },
+        "tags": ["Group Policy", "Richtlinien", "Zentrale Verwaltung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist Windows Server DNS?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Namensauflösung und -verwaltung in Netzwerken",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Server DNS (Domain Name System) löst Domänennamen in IP-Adressen auf und verwaltet Namensauflösungen im Netzwerk.",
+        "source": {
+          "citation": "Windows Server DNS",
+          "pages": "S. 120-125",
+          "chapter": "Namensauflösung"
+        },
+        "tags": ["DNS", "Namensauflösung", "Domänennamen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist Windows Server DHCP?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die automatische Zuweisung von IP-Adressen an Clients",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Server DHCP (Dynamic Host Configuration Protocol) weist automatisch IP-Adressen und Netzwerkkonfigurationen an Clients zu.",
+        "source": {
+          "citation": "Windows Server DHCP",
+          "pages": "S. 130-135",
+          "chapter": "IP-Adressverwaltung"
+        },
+        "tags": ["DHCP", "IP-Adressen", "Automatische Zuweisung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist Windows Server File Services?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Bereitstellung und Verwaltung von Dateifreigaben",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Server File Services ermöglicht die Bereitstellung und Verwaltung von Dateifreigaben, Speicher und Backup-Lösungen.",
+        "source": {
+          "citation": "Windows Server File Services",
+          "pages": "S. 140-145",
+          "chapter": "Dateiverwaltung"
+        },
+        "tags": ["File Services", "Dateifreigaben", "Speicher"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Was ist Windows Server Hyper-V?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Hypervisor für die Virtualisierung von Betriebssystemen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Server Hyper-V ist ein Hypervisor, der die Virtualisierung von Betriebssystemen und die Verwaltung virtueller Maschinen ermöglicht.",
+        "source": {
+          "citation": "Windows Server Hyper-V",
+          "pages": "S. 150-155",
+          "chapter": "Virtualisierung"
+        },
+        "tags": ["Hyper-V", "Virtualisierung", "Hypervisor"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist Windows Server Failover Clustering?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Hochverfügbarkeit von Anwendungen und Diensten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Server Failover Clustering ermöglicht die Hochverfügbarkeit von Anwendungen und Diensten durch automatisches Failover zwischen Servern.",
+        "source": {
+          "citation": "Windows Server Failover Clustering",
+          "pages": "S. 160-165",
+          "chapter": "Hochverfügbarkeit"
+        },
+        "tags": ["Failover Clustering", "Hochverfügbarkeit", "Failover"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q18",
+        "text": "Was ist Windows Server Remote Desktop Services?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Bereitstellung von Remote-Desktop-Zugriff und -Anwendungen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Server Remote Desktop Services ermöglicht Remote-Desktop-Zugriff und die Bereitstellung von Anwendungen über das Netzwerk.",
+        "source": {
+          "citation": "Windows Server Remote Desktop Services",
+          "pages": "S. 170-175",
+          "chapter": "Remote-Zugriff"
+        },
+        "tags": ["Remote Desktop Services", "RDS", "Remote-Zugriff"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist Windows Server IIS?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Webserver für die Bereitstellung von Web-Anwendungen und -Services",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Server IIS (Internet Information Services) ist ein Webserver, der Web-Anwendungen, APIs und Services bereitstellt.",
+        "source": {
+          "citation": "Windows Server IIS",
+          "pages": "S. 180-185",
+          "chapter": "Webserver"
+        },
+        "tags": ["IIS", "Webserver", "Web-Anwendungen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist Windows Server Windows Defender?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein integrierter Antivirus- und Sicherheitsservice",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Server Windows Defender ist ein integrierter Antivirus- und Sicherheitsservice, der den Server vor Malware und Bedrohungen schützt.",
+        "source": {
+          "citation": "Windows Server Windows Defender",
+          "pages": "S. 190-195",
+          "chapter": "Sicherheit"
+        },
+        "tags": ["Windows Defender", "Antivirus", "Sicherheit"],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

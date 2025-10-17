@@ -1,0 +1,406 @@
+{
+  "quiz": {
+    "title": "Semantic Kernel",
+    "description": "Teste dein Wissen über Semantic Kernel mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem Semantic Kernel Dokument"
+    },
+    "sourceDocument": {
+      "title": "Semantic Kernel",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "semantic-kernel.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist Semantic Kernel?",
+        "options": [
+          "Ein Betriebssystem",
+          "Ein SDK für die Integration von KI-Services in Anwendungen",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Semantic Kernel ist ein SDK, das die Integration von KI-Services wie OpenAI, Azure OpenAI und anderen in Anwendungen vereinfacht.",
+        "source": {
+          "citation": "Semantic Kernel Einführung",
+          "pages": "S. 1-5",
+          "chapter": "Überblick"
+        },
+        "tags": ["Semantic Kernel", "SDK", "KI-Integration"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Programmiersprachen unterstützt Semantic Kernel?",
+        "options": [
+          "Nur C#",
+          "C#, Python und Java",
+          "Nur Python",
+          "Nur Java"
+        ],
+        "correctIndex": 1,
+        "explanation": "Semantic Kernel unterstützt mehrere Programmiersprachen: C#, Python und Java für plattformübergreifende KI-Integration.",
+        "source": {
+          "citation": "Unterstützte Sprachen",
+          "pages": "S. 10-15",
+          "chapter": "Multi-Language Support"
+        },
+        "tags": ["C#", "Python", "Java", "Multi-Language"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Was sind Plugins in Semantic Kernel?",
+        "options": [
+          "Betriebssysteme",
+          "Wiederverwendbare Komponenten, die KI-Funktionalitäten kapseln",
+          "Programmiersprachen",
+          "Datenbanken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Plugins in Semantic Kernel sind wiederverwendbare Komponenten, die spezifische KI-Funktionalitäten kapseln und modular einsetzbar machen.",
+        "source": {
+          "citation": "Semantic Kernel Plugins",
+          "pages": "S. 20-25",
+          "chapter": "Plugin-Architektur"
+        },
+        "tags": ["Plugins", "Wiederverwendbar", "Modular"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Was sind Skills in Semantic Kernel?",
+        "options": [
+          "Programmiersprachen",
+          "Sammlungen von verwandten Funktionen für spezifische Aufgaben",
+          "Betriebssysteme",
+          "Datenbanken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Skills in Semantic Kernel sind Sammlungen von verwandten Funktionen, die für spezifische Aufgaben oder Domänen organisiert sind.",
+        "source": {
+          "citation": "Semantic Kernel Skills",
+          "pages": "S. 30-35",
+          "chapter": "Skill-Organisation"
+        },
+        "tags": ["Skills", "Funktionen", "Aufgaben"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was ist ein Planner in Semantic Kernel?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Komponente, die automatisch Pläne zur Erreichung von Zielen erstellt",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Planner in Semantic Kernel erstellt automatisch Pläne, indem er verfügbare Skills und Plugins kombiniert, um bestimmte Ziele zu erreichen.",
+        "source": {
+          "citation": "Semantic Kernel Planner",
+          "pages": "S. 40-45",
+          "chapter": "Automatische Planung"
+        },
+        "tags": ["Planner", "Automatisch", "Zielerreichung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q6",
+        "text": "Welche KI-Services unterstützt Semantic Kernel?",
+        "options": [
+          "Nur OpenAI",
+          "OpenAI, Azure OpenAI, Hugging Face und andere LLM-Provider",
+          "Nur Azure OpenAI",
+          "Nur Hugging Face"
+        ],
+        "correctIndex": 1,
+        "explanation": "Semantic Kernel unterstützt verschiedene KI-Services: OpenAI, Azure OpenAI, Hugging Face und andere Large Language Model Provider.",
+        "source": {
+          "citation": "KI-Service-Integration",
+          "pages": "S. 50-55",
+          "chapter": "Provider-Support"
+        },
+        "tags": ["OpenAI", "Azure OpenAI", "Hugging Face", "LLM"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist Prompt Engineering in Semantic Kernel?",
+        "options": [
+          "Ein Backup-Service",
+          "Die Kunst und Wissenschaft der Optimierung von Prompts für bessere KI-Ergebnisse",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Prompt Engineering in Semantic Kernel befasst sich mit der Optimierung von Prompts und Templates für bessere Ergebnisse von KI-Modellen.",
+        "source": {
+          "citation": "Prompt Engineering",
+          "pages": "S. 60-65",
+          "chapter": "Prompt-Optimierung"
+        },
+        "tags": ["Prompt Engineering", "Optimierung", "Templates"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q8",
+        "text": "Was sind Memory und Context in Semantic Kernel?",
+        "options": [
+          "Programmiersprachen",
+          "Mechanismen zur Speicherung und Verwaltung von Kontextinformationen",
+          "Betriebssysteme",
+          "Datenbanken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Memory und Context in Semantic Kernel ermöglichen die Speicherung und Verwaltung von Kontextinformationen für bessere KI-Interaktionen.",
+        "source": {
+          "citation": "Memory und Context",
+          "pages": "S. 70-75",
+          "chapter": "Kontextverwaltung"
+        },
+        "tags": ["Memory", "Context", "Kontextinformationen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist ein Kernel in Semantic Kernel?",
+        "options": [
+          "Ein Backup-Service",
+          "Die zentrale Komponente, die alle KI-Services und Funktionen orchestriert",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Kernel in Semantic Kernel ist die zentrale Komponente, die alle KI-Services, Plugins und Funktionen orchestriert und verwaltet.",
+        "source": {
+          "citation": "Semantic Kernel Core",
+          "pages": "S. 80-85",
+          "chapter": "Kernel-Orchestrierung"
+        },
+        "tags": ["Kernel", "Zentral", "Orchestrierung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Vorteile bietet Semantic Kernel für Entwickler?",
+        "options": [
+          "Nur bessere Performance",
+          "Vereinfachte KI-Integration, Abstraktion von Providern und modulare Architektur",
+          "Nur einfachere Bedienung",
+          "Nur niedrigere Kosten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Semantic Kernel bietet Entwicklern vereinfachte KI-Integration, Abstraktion von verschiedenen Providern und eine modulare, erweiterbare Architektur.",
+        "source": {
+          "citation": "Entwicklervorteile",
+          "pages": "S. 90-95",
+          "chapter": "Entwicklererfahrung"
+        },
+        "tags": ["Vereinfachung", "Abstraktion", "Modular"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist Semantic Kernel Plugins?",
+        "options": [
+          "Ein Backup-Service",
+          "Wiederverwendbare Komponenten für die Erweiterung der KI-Funktionalität",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Semantic Kernel Plugins sind wiederverwendbare Komponenten, die die KI-Funktionalität erweitern und spezielle Aufgaben ausführen können.",
+        "source": {
+          "citation": "Semantic Kernel Plugins",
+          "pages": "S. 100-105",
+          "chapter": "Plugin-System"
+        },
+        "tags": ["Plugins", "Wiederverwendbar", "Erweiterung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q12",
+        "text": "Was ist Semantic Kernel Memory?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Speicherung und Abrufung von Kontext-Informationen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Semantic Kernel Memory ermöglicht die Speicherung und Abrufung von Kontext-Informationen für persistente KI-Gespräche und -Erfahrungen.",
+        "source": {
+          "citation": "Semantic Kernel Memory",
+          "pages": "S. 110-115",
+          "chapter": "Speicher-Management"
+        },
+        "tags": ["Memory", "Kontext", "Persistent"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist Semantic Kernel Functions?",
+        "options": [
+          "Ein Backup-Service",
+          "Wiederverwendbare Funktionen für die Ausführung spezifischer Aufgaben",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Semantic Kernel Functions sind wiederverwendbare Funktionen, die spezifische Aufgaben wie Textverarbeitung, Datenabruf oder Berechnungen ausführen.",
+        "source": {
+          "citation": "Semantic Kernel Functions",
+          "pages": "S. 120-125",
+          "chapter": "Funktions-System"
+        },
+        "tags": ["Functions", "Wiederverwendbar", "Aufgaben"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist Semantic Kernel Prompts?",
+        "options": [
+          "Ein Backup-Service",
+          "Vorlagen für die Strukturierung von Eingaben an KI-Modelle",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Semantic Kernel Prompts sind Vorlagen, die die Strukturierung und Optimierung von Eingaben an KI-Modelle für bessere Ergebnisse ermöglichen.",
+        "source": {
+          "citation": "Semantic Kernel Prompts",
+          "pages": "S. 130-135",
+          "chapter": "Prompt-Engineering"
+        },
+        "tags": ["Prompts", "Vorlagen", "Prompt-Engineering"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist Semantic Kernel Skills?",
+        "options": [
+          "Ein Backup-Service",
+          "Sammlungen verwandter Funktionen für spezifische Domänen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Semantic Kernel Skills sind Sammlungen verwandter Funktionen, die für spezifische Domänen wie E-Mail, Kalender oder Dateiverwaltung organisiert sind.",
+        "source": {
+          "citation": "Semantic Kernel Skills",
+          "pages": "S. 140-145",
+          "chapter": "Skill-System"
+        },
+        "tags": ["Skills", "Domänen", "Funktionen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Was ist Semantic Kernel Connectors?",
+        "options": [
+          "Ein Backup-Service",
+          "Komponenten für die Verbindung mit externen Services und APIs",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Semantic Kernel Connectors ermöglichen die Verbindung mit externen Services, APIs und Datenquellen für erweiterte Funktionalität.",
+        "source": {
+          "citation": "Semantic Kernel Connectors",
+          "pages": "S. 150-155",
+          "chapter": "Integration"
+        },
+        "tags": ["Connectors", "Externe Services", "APIs"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist Semantic Kernel Planning?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die automatische Planung und Ausführung komplexer Aufgaben",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Semantic Kernel Planning ermöglicht die automatische Planung und Ausführung komplexer Aufgaben durch die Kombination verschiedener Funktionen und Skills.",
+        "source": {
+          "citation": "Semantic Kernel Planning",
+          "pages": "S. 160-165",
+          "chapter": "Aufgabenplanung"
+        },
+        "tags": ["Planning", "Automatisch", "Komplexe Aufgaben"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q18",
+        "text": "Welche Programmiersprachen unterstützt Semantic Kernel?",
+        "options": [
+          "Nur C#",
+          "C#, Python, Java und JavaScript",
+          "Nur Python",
+          "Nur Java"
+        ],
+        "correctIndex": 1,
+        "explanation": "Semantic Kernel unterstützt mehrere Programmiersprachen: C#, Python, Java und JavaScript für plattformübergreifende Entwicklung.",
+        "source": {
+          "citation": "Semantic Kernel Programmiersprachen",
+          "pages": "S. 170-175",
+          "chapter": "Sprachunterstützung"
+        },
+        "tags": ["C#", "Python", "Java", "JavaScript"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist Semantic Kernel Orchestration?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Koordinierung und Verwaltung von KI-Workflows",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Semantic Kernel Orchestration koordiniert und verwaltet komplexe KI-Workflows durch die Kombination verschiedener Services und Funktionen.",
+        "source": {
+          "citation": "Semantic Kernel Orchestration",
+          "pages": "S. 180-185",
+          "chapter": "Workflow-Management"
+        },
+        "tags": ["Orchestration", "Koordinierung", "KI-Workflows"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist Semantic Kernel Extensibility?",
+        "options": [
+          "Ein Backup-Service",
+          "Die Fähigkeit, Semantic Kernel mit benutzerdefinierten Komponenten zu erweitern",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Semantic Kernel Extensibility ermöglicht die Erweiterung des Frameworks mit benutzerdefinierten Plugins, Connectors und Funktionen für spezifische Anforderungen.",
+        "source": {
+          "citation": "Semantic Kernel Extensibility",
+          "pages": "S. 190-195",
+          "chapter": "Erweiterbarkeit"
+        },
+        "tags": ["Extensibility", "Erweiterbarkeit", "Benutzerdefiniert"],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}

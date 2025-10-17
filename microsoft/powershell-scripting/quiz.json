@@ -1,0 +1,406 @@
+{
+  "quiz": {
+    "title": "PowerShell Scripting 7.5",
+    "description": "Teste dein Wissen über PowerShell Scripting mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem PowerShell Scripting 7.5 Dokument"
+    },
+    "sourceDocument": {
+      "title": "PowerShell Scripting 7.5",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "powershell-scripting-powershell-7.5.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist PowerShell?",
+        "options": [
+          "Ein Betriebssystem",
+          "Eine plattformübergreifende Skriptsprache und Shell von Microsoft",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell ist eine plattformübergreifende Skriptsprache und Shell, die für die Automatisierung und Verwaltung von Systemen entwickelt wurde.",
+        "source": {
+          "citation": "PowerShell Einführung",
+          "pages": "S. 1-5",
+          "chapter": "Überblick"
+        },
+        "tags": ["PowerShell", "Skriptsprache", "Shell"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Plattformen unterstützt PowerShell 7.5?",
+        "options": [
+          "Nur Windows",
+          "Windows, macOS und Linux",
+          "Nur macOS",
+          "Nur Linux"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell 7.5 ist plattformübergreifend und unterstützt Windows, macOS und Linux-Betriebssysteme.",
+        "source": {
+          "citation": "Plattform-Unterstützung",
+          "pages": "S. 10-15",
+          "chapter": "Cross-Platform"
+        },
+        "tags": ["Cross-Platform", "Windows", "macOS", "Linux"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Was sind PowerShell Cmdlets?",
+        "options": [
+          "Programmiersprachen",
+          "Kleine, spezialisierte Befehle, die spezifische Aufgaben ausführen",
+          "Betriebssysteme",
+          "Datenbanken"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell Cmdlets sind kleine, spezialisierte Befehle, die spezifische Aufgaben ausführen und das Verb-Noun-Namensschema verwenden.",
+        "source": {
+          "citation": "PowerShell Cmdlets",
+          "pages": "S. 20-25",
+          "chapter": "Cmdlet-Grundlagen"
+        },
+        "tags": ["Cmdlets", "Verb-Noun", "Befehle"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Was ist die PowerShell-Pipeline?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Mechanismus zur Verkettung von Cmdlets durch Pipe-Operatoren",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die PowerShell-Pipeline ermöglicht es, die Ausgabe eines Cmdlets als Eingabe für das nächste zu verwenden, wodurch komplexe Datenverarbeitungsketten entstehen.",
+        "source": {
+          "citation": "PowerShell Pipeline",
+          "pages": "S. 30-35",
+          "chapter": "Pipeline-Konzept"
+        },
+        "tags": ["Pipeline", "Verkettung", "Datenverarbeitung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was sind PowerShell-Module?",
+        "options": [
+          "Betriebssysteme",
+          "Pakete von PowerShell-Funktionen, Cmdlets und Ressourcen",
+          "Programmiersprachen",
+          "Datenbanken"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell-Module sind Pakete, die PowerShell-Funktionen, Cmdlets, Provider und andere Ressourcen enthalten und die Wiederverwendung von Code ermöglichen.",
+        "source": {
+          "citation": "PowerShell Module",
+          "pages": "S. 40-45",
+          "chapter": "Modulare Entwicklung"
+        },
+        "tags": ["Module", "Pakete", "Wiederverwendung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q6",
+        "text": "Was ist die PowerShell ISE?",
+        "options": [
+          "Ein Backup-Service",
+          "Die PowerShell Integrated Scripting Environment",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die PowerShell ISE (Integrated Scripting Environment) ist eine Entwicklungsumgebung für PowerShell-Skripte mit Syntax-Highlighting und Debugging-Features.",
+        "source": {
+          "citation": "PowerShell ISE",
+          "pages": "S. 50-55",
+          "chapter": "Entwicklungsumgebung"
+        },
+        "tags": ["ISE", "Entwicklungsumgebung", "Debugging"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Welche Datentypen unterstützt PowerShell?",
+        "options": [
+          "Nur String und Integer",
+          "Verschiedene Datentypen wie String, Integer, Array, Hashtable und .NET-Objekte",
+          "Nur primitive Typen",
+          "Nur .NET-Objekte"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell unterstützt verschiedene Datentypen: primitive Typen wie String und Integer, Arrays, Hashtables und .NET-Objekte.",
+        "source": {
+          "citation": "Datentypen",
+          "pages": "S. 60-65",
+          "chapter": "Typen-System"
+        },
+        "tags": ["Datentypen", "Array", "Hashtable", ".NET"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Was ist PowerShell DSC?",
+        "options": [
+          "Ein Backup-Service",
+          "PowerShell Desired State Configuration für Infrastruktur-Management",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell DSC (Desired State Configuration) ist ein Framework für die deklarative Konfiguration und das Management von Infrastruktur.",
+        "source": {
+          "citation": "PowerShell DSC",
+          "pages": "S. 70-75",
+          "chapter": "Infrastruktur-Management"
+        },
+        "tags": ["DSC", "Konfiguration", "Infrastruktur"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist die PowerShell Execution Policy?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Sicherheitsrichtlinie, die bestimmt, welche Skripte ausgeführt werden dürfen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die PowerShell Execution Policy ist eine Sicherheitsrichtlinie, die bestimmt, welche Skripte und Konfigurationsdateien ausgeführt werden dürfen.",
+        "source": {
+          "citation": "Execution Policy",
+          "pages": "S. 80-85",
+          "chapter": "Sicherheit"
+        },
+        "tags": ["Execution Policy", "Sicherheit", "Richtlinien"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Vorteile bietet PowerShell 7.5 gegenüber älteren Versionen?",
+        "options": [
+          "Nur bessere Performance",
+          "Verbesserte Performance, neue Features, bessere .NET-Integration und erweiterte Plattform-Unterstützung",
+          "Nur neue Features",
+          "Nur bessere .NET-Integration"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell 7.5 bietet verbesserte Performance, neue Features, bessere .NET-Integration und erweiterte Unterstützung für verschiedene Plattformen.",
+        "source": {
+          "citation": "PowerShell 7.5 Verbesserungen",
+          "pages": "S. 90-95",
+          "chapter": "Version-Updates"
+        },
+        "tags": ["Performance", "Features", ".NET-Integration"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Was sind PowerShell-Profile?",
+        "options": [
+          "Ein Backup-Service",
+          "Skriptdateien, die beim Start von PowerShell automatisch ausgeführt werden",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell-Profile sind Skriptdateien, die beim Start von PowerShell automatisch ausgeführt werden und die Umgebung konfigurieren können.",
+        "source": {
+          "citation": "PowerShell Profile",
+          "pages": "S. 100-105",
+          "chapter": "Konfiguration"
+        },
+        "tags": ["Profile", "Konfiguration", "Automatisch"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Was ist PowerShell Remoting?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Technologie zur Ausführung von PowerShell-Befehlen auf Remote-Computern",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell Remoting ermöglicht die Ausführung von PowerShell-Befehlen und -Skripten auf Remote-Computern über das Netzwerk.",
+        "source": {
+          "citation": "PowerShell Remoting",
+          "pages": "S. 110-115",
+          "chapter": "Remote-Verwaltung"
+        },
+        "tags": ["Remoting", "Remote", "Verwaltung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was sind PowerShell Workflows?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Technologie für die Orchestrierung komplexer, langlebiger Aufgaben",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell Workflows ermöglichen die Orchestrierung komplexer, langlebiger Aufgaben mit Fehlerbehandlung und Wiederherstellungsmöglichkeiten.",
+        "source": {
+          "citation": "PowerShell Workflows",
+          "pages": "S. 120-125",
+          "chapter": "Orchestrierung"
+        },
+        "tags": ["Workflows", "Orchestrierung", "Komplex"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Welche PowerShell-Module sind standardmäßig verfügbar?",
+        "options": [
+          "Nur ActiveDirectory",
+          "ActiveDirectory, Exchange, SharePoint, Azure und viele weitere",
+          "Nur Exchange",
+          "Nur SharePoint"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell bietet viele Standard-Module: ActiveDirectory, Exchange, SharePoint, Azure und viele weitere für verschiedene Microsoft-Technologien.",
+        "source": {
+          "citation": "PowerShell Module",
+          "pages": "S. 130-135",
+          "chapter": "Standard-Module"
+        },
+        "tags": ["Module", "ActiveDirectory", "Exchange", "Azure"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist PowerShell Gallery?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Online-Repository für PowerShell-Module, Skripte und DSC-Ressourcen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell Gallery ist ein Online-Repository, das PowerShell-Module, Skripte und DSC-Ressourcen von der Community bereitstellt.",
+        "source": {
+          "citation": "PowerShell Gallery",
+          "pages": "S. 140-145",
+          "chapter": "Repository"
+        },
+        "tags": ["PowerShell Gallery", "Repository", "Community"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Was sind PowerShell-Provider?",
+        "options": [
+          "Programmiersprachen",
+          "Komponenten, die verschiedene Datenquellen als Dateisysteme verfügbar machen",
+          "Betriebssysteme",
+          "Datenbanken"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell-Provider sind Komponenten, die verschiedene Datenquellen wie Registry, Zertifikate oder Umgebungsvariablen als Dateisysteme verfügbar machen.",
+        "source": {
+          "citation": "PowerShell Provider",
+          "pages": "S. 150-155",
+          "chapter": "Datenquellen"
+        },
+        "tags": ["Provider", "Datenquellen", "Dateisystem"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist PowerShell Core?",
+        "options": [
+          "Ein Backup-Service",
+          "Die plattformübergreifende, Open-Source-Version von PowerShell",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell Core ist die plattformübergreifende, Open-Source-Version von PowerShell, die auf Windows, Linux und macOS läuft.",
+        "source": {
+          "citation": "PowerShell Core",
+          "pages": "S. 160-165",
+          "chapter": "Cross-Platform"
+        },
+        "tags": ["PowerShell Core", "Open Source", "Cross-Platform"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q18",
+        "text": "Welche PowerShell-Debugging-Features gibt es?",
+        "options": [
+          "Nur Breakpoints",
+          "Breakpoints, Step-through, Variable-Inspektion und Call-Stack",
+          "Nur Step-through",
+          "Nur Variable-Inspektion"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell bietet umfassende Debugging-Features: Breakpoints, Step-through-Debugging, Variable-Inspektion und Call-Stack-Analyse.",
+        "source": {
+          "citation": "PowerShell Debugging",
+          "pages": "S. 170-175",
+          "chapter": "Debugging"
+        },
+        "tags": ["Debugging", "Breakpoints", "Step-through"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist PowerShell Desired State Configuration (DSC)?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Framework für die deklarative Konfiguration und das Management von Infrastruktur",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell DSC ist ein Framework für die deklarative Konfiguration und das Management von Infrastruktur, das sicherstellt, dass Systeme im gewünschten Zustand bleiben.",
+        "source": {
+          "citation": "PowerShell DSC",
+          "pages": "S. 180-185",
+          "chapter": "Infrastruktur-Management"
+        },
+        "tags": ["DSC", "Konfiguration", "Infrastruktur"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Welche PowerShell-Sicherheitsfeatures gibt es?",
+        "options": [
+          "Nur Execution Policy",
+          "Execution Policy, Code Signing, Constrained Language Mode und JEA",
+          "Nur Code Signing",
+          "Nur JEA"
+        ],
+        "correctIndex": 1,
+        "explanation": "PowerShell bietet verschiedene Sicherheitsfeatures: Execution Policy, Code Signing, Constrained Language Mode und Just Enough Administration (JEA).",
+        "source": {
+          "citation": "PowerShell Sicherheit",
+          "pages": "S. 190-195",
+          "chapter": "Sicherheit"
+        },
+        "tags": ["Sicherheit", "Execution Policy", "Code Signing", "JEA"],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}

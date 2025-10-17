@@ -1,0 +1,406 @@
+{
+  "quiz": {
+    "title": "OData (Open Data Protocol)",
+    "description": "Teste dein Wissen über OData mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem OData Dokument"
+    },
+    "sourceDocument": {
+      "title": "OData (Open Data Protocol)",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "odata.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist OData?",
+        "options": [
+          "Ein Betriebssystem",
+          "Ein offenes Web-Protokoll für das Abfragen und Aktualisieren von Daten",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData (Open Data Protocol) ist ein offenes Web-Protokoll, das standardisierte Möglichkeiten für das Abfragen und Aktualisieren von Daten über HTTP bereitstellt.",
+        "source": {
+          "citation": "OData Einführung",
+          "pages": "S. 1-5",
+          "chapter": "Überblick"
+        },
+        "tags": ["OData", "Web-Protokoll", "HTTP"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Hauptvorteile bietet OData?",
+        "options": [
+          "Nur bessere Performance",
+          "Standardisierung, Interoperabilität und vereinfachte API-Entwicklung",
+          "Nur einfachere Bedienung",
+          "Nur niedrigere Kosten"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData bietet Standardisierung von APIs, Interoperabilität zwischen verschiedenen Systemen und vereinfacht die Entwicklung von Daten-APIs.",
+        "source": {
+          "citation": "OData Vorteile",
+          "pages": "S. 10-15",
+          "chapter": "Vorteile"
+        },
+        "tags": ["Standardisierung", "Interoperabilität", "API-Entwicklung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist ein OData Service?",
+        "options": [
+          "Ein Betriebssystem",
+          "Ein Web-Service, der Daten über OData-Protokoll bereitstellt",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein OData Service ist ein Web-Service, der Daten über das OData-Protokoll bereitstellt und standardisierte CRUD-Operationen ermöglicht.",
+        "source": {
+          "citation": "OData Services",
+          "pages": "S. 20-25",
+          "chapter": "Service-Architektur"
+        },
+        "tags": ["OData Service", "Web-Service", "CRUD"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Welche HTTP-Verben werden von OData unterstützt?",
+        "options": [
+          "Nur GET",
+          "GET, POST, PUT, PATCH und DELETE",
+          "Nur GET und POST",
+          "Nur GET, POST und PUT"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData unterstützt die Standard-HTTP-Verben: GET für Abfragen, POST für Erstellen, PUT/PATCH für Aktualisieren und DELETE für Löschen.",
+        "source": {
+          "citation": "HTTP-Verben",
+          "pages": "S. 30-35",
+          "chapter": "REST-Operationen"
+        },
+        "tags": ["HTTP", "GET", "POST", "PUT", "DELETE"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was ist eine OData Entity?",
+        "options": [
+          "Ein Betriebssystem",
+          "Ein Datenobjekt mit Eigenschaften, das über OData verfügbar gemacht wird",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine OData Entity ist ein Datenobjekt mit Eigenschaften, das über den OData Service verfügbar gemacht wird und eindeutig identifizierbar ist.",
+        "source": {
+          "citation": "OData Entities",
+          "pages": "S. 40-45",
+          "chapter": "Datenmodell"
+        },
+        "tags": ["Entity", "Datenobjekt", "Eigenschaften"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Was ist OData Query Language?",
+        "options": [
+          "Eine Programmiersprache",
+          "Eine Abfragesprache für das Filtern, Sortieren und Paging von OData-Ergebnissen",
+          "Ein Betriebssystem",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData Query Language ermöglicht es, Abfragen mit Filtern, Sortierung, Paging und anderen Operationen zu erstellen, um Daten gezielt abzurufen.",
+        "source": {
+          "citation": "OData Query Language",
+          "pages": "S. 50-55",
+          "chapter": "Abfragesprache"
+        },
+        "tags": ["Query Language", "Filtering", "Sorting", "Paging"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist ein OData Schema?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Metadatenbeschreibung der verfügbaren Entitäten und deren Beziehungen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein OData Schema beschreibt die Metadaten der verfügbaren Entitäten, deren Eigenschaften und Beziehungen in einem OData Service.",
+        "source": {
+          "citation": "OData Schema",
+          "pages": "S. 60-65",
+          "chapter": "Metadaten"
+        },
+        "tags": ["Schema", "Metadaten", "Beschreibung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q8",
+        "text": "Welche Datentypen unterstützt OData?",
+        "options": [
+          "Nur String und Integer",
+          "Primitive Typen wie String, Integer, DateTime, Boolean und komplexe Typen",
+          "Nur primitive Typen",
+          "Nur komplexe Typen"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData unterstützt primitive Datentypen wie String, Integer, DateTime, Boolean sowie komplexe Typen und Sammlungen.",
+        "source": {
+          "citation": "Datentypen",
+          "pages": "S. 70-75",
+          "chapter": "Typen-System"
+        },
+        "tags": ["Datentypen", "Primitive", "Komplexe Typen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist OData Batch?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Möglichkeit, mehrere OData-Operationen in einer einzigen HTTP-Anfrage zu bündeln",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData Batch ermöglicht es, mehrere OData-Operationen in einer einzigen HTTP-Anfrage zu bündeln, um die Performance zu verbessern.",
+        "source": {
+          "citation": "OData Batch",
+          "pages": "S. 80-85",
+          "chapter": "Batch-Operationen"
+        },
+        "tags": ["Batch", "Performance", "Bündelung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Versionen von OData gibt es?",
+        "options": [
+          "Nur Version 1.0",
+          "OData Version 1.0, 2.0, 3.0, 4.0 und 4.01",
+          "Nur Version 4.0",
+          "Nur Version 4.01"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData hat verschiedene Versionen entwickelt: 1.0, 2.0, 3.0, 4.0 und 4.01, wobei Version 4.0/4.01 die aktuellen Standards sind.",
+        "source": {
+          "citation": "OData Versionen",
+          "pages": "S. 90-95",
+          "chapter": "Versionierung"
+        },
+        "tags": ["Versionen", "4.0", "4.01", "Standards"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist OData Metadata?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service-Dokument, das die Struktur und Funktionen eines OData-Services beschreibt",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData Metadata ist ein Service-Dokument, das die Struktur, Entitäten, Beziehungen und Funktionen eines OData-Services beschreibt.",
+        "source": {
+          "citation": "OData Metadata",
+          "pages": "S. 100-105",
+          "chapter": "Service-Dokumentation"
+        },
+        "tags": ["Metadata", "Service-Dokument", "Struktur"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q12",
+        "text": "Was ist OData Entity Data Model (EDM)?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Datenmodell zur Beschreibung der Struktur von OData-Services",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData Entity Data Model (EDM) ist ein Datenmodell, das die Struktur von OData-Services mit Entitäten, Eigenschaften und Beziehungen definiert.",
+        "source": {
+          "citation": "OData Entity Data Model",
+          "pages": "S. 110-115",
+          "chapter": "Datenmodell"
+        },
+        "tags": ["EDM", "Entity Data Model", "Datenmodell"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist OData Query Options?",
+        "options": [
+          "Ein Backup-Service",
+          "URL-Parameter für die Filterung, Sortierung und Paginierung von OData-Ergebnissen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData Query Options sind URL-Parameter wie $filter, $orderby, $top und $skip für die Steuerung von OData-Abfragen.",
+        "source": {
+          "citation": "OData Query Options",
+          "pages": "S. 120-125",
+          "chapter": "Abfrage-Parameter"
+        },
+        "tags": ["Query Options", "Filter", "Sortierung", "Paginierung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist OData Functions?",
+        "options": [
+          "Ein Backup-Service",
+          "Benutzerdefinierte Funktionen in OData-Services für spezielle Operationen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData Functions sind benutzerdefinierte Funktionen, die spezielle Operationen und Berechnungen in OData-Services ermöglichen.",
+        "source": {
+          "citation": "OData Functions",
+          "pages": "S. 130-135",
+          "chapter": "Benutzerdefinierte Funktionen"
+        },
+        "tags": ["Functions", "Benutzerdefiniert", "Operationen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist OData Actions?",
+        "options": [
+          "Ein Backup-Service",
+          "Benutzerdefinierte Aktionen in OData-Services für komplexe Operationen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData Actions sind benutzerdefinierte Aktionen, die komplexe Operationen und Geschäftslogik in OData-Services implementieren.",
+        "source": {
+          "citation": "OData Actions",
+          "pages": "S. 140-145",
+          "chapter": "Benutzerdefinierte Aktionen"
+        },
+        "tags": ["Actions", "Aktionen", "Geschäftslogik"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q16",
+        "text": "Was ist OData Batch Processing?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Verarbeitung mehrerer OData-Anfragen in einer Batch-Operation",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData Batch Processing ermöglicht es, mehrere OData-Anfragen in einer einzigen HTTP-Anfrage zu verarbeiten für bessere Performance.",
+        "source": {
+          "citation": "OData Batch Processing",
+          "pages": "S. 150-155",
+          "chapter": "Batch-Verarbeitung"
+        },
+        "tags": ["Batch Processing", "Batch", "Performance"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist OData Versioning?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Verwaltung verschiedener Versionen von OData-Services",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData Versioning ermöglicht die Verwaltung verschiedener Versionen von OData-Services für Abwärtskompatibilität und Evolution.",
+        "source": {
+          "citation": "OData Versioning",
+          "pages": "S. 160-165",
+          "chapter": "Versionsverwaltung"
+        },
+        "tags": ["Versioning", "Versionen", "Abwärtskompatibilität"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q18",
+        "text": "Was ist OData Security?",
+        "options": [
+          "Ein Backup-Service",
+          "Sicherheitsmechanismen für OData-Services wie Authentifizierung und Autorisierung",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData Security umfasst Authentifizierung, Autorisierung und andere Sicherheitsmechanismen für OData-Services.",
+        "source": {
+          "citation": "OData Security",
+          "pages": "S. 170-175",
+          "chapter": "Sicherheit"
+        },
+        "tags": ["Security", "Authentifizierung", "Autorisierung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Welche OData-Implementierungen gibt es?",
+        "options": [
+          "Nur Microsoft",
+          "Microsoft, Apache Olingo, SAP Gateway und viele weitere",
+          "Nur Apache Olingo",
+          "Nur SAP Gateway"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData wird von verschiedenen Anbietern implementiert: Microsoft, Apache Olingo, SAP Gateway und viele weitere Open-Source- und kommerzielle Lösungen.",
+        "source": {
+          "citation": "OData Implementierungen",
+          "pages": "S. 180-185",
+          "chapter": "Implementierungen"
+        },
+        "tags": ["Microsoft", "Apache Olingo", "SAP Gateway"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist OData Client Libraries?",
+        "options": [
+          "Ein Backup-Service",
+          "Bibliotheken für die Entwicklung von OData-Clients in verschiedenen Programmiersprachen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "OData Client Libraries sind Bibliotheken, die die Entwicklung von OData-Clients in verschiedenen Programmiersprachen wie C#, Java und JavaScript vereinfachen.",
+        "source": {
+          "citation": "OData Client Libraries",
+          "pages": "S. 190-195",
+          "chapter": "Client-Entwicklung"
+        },
+        "tags": ["Client Libraries", "C#", "Java", "JavaScript"],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

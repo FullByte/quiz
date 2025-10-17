@@ -77,6 +77,14 @@ class BannerGenerator:
                         "style": "technisch, mechanisch, präzise",
                         "emoji": "🔓"
                     }
+                elif category == "microsoft":
+                    specs[quiz] = {
+                        "theme": f"{quiz} - Microsoft Technologie",
+                        "colors": ["#0078d4", "#106ebe", "#005a9e", "#ffffff"],
+                        "elements": ["Microsoft Logo", "Cloud", "Server", "Code", "Azure"],
+                        "style": "modern, professionell, technisch",
+                        "emoji": "🪟"
+                    }
         
         return specs
     

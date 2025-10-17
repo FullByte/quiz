@@ -1,0 +1,501 @@
+{
+  "quiz": {
+    "title": "Azure AI Foundry",
+    "description": "Teste dein Wissen über Azure AI Foundry mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem Azure AI Foundry Dokument"
+    },
+    "sourceDocument": {
+      "title": "Azure AI Foundry",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "azure-ai-foundry.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist Azure AI Foundry?",
+        "options": [
+          "Ein Cloud-basierter Service für maschinelles Lernen",
+          "Eine integrierte Plattform für die Entwicklung und Bereitstellung von KI-Anwendungen",
+          "Ein Tool für Datenanalyse",
+          "Eine Datenbank für KI-Modelle"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Foundry ist eine integrierte Plattform, die Entwicklern und Unternehmen dabei hilft, KI-Anwendungen zu entwickeln, zu testen und bereitzustellen.",
+        "source": {
+          "citation": "Azure AI Foundry Dokumentation",
+          "pages": "S. 1-5",
+          "chapter": "Einführung"
+        },
+        "tags": ["Azure", "KI", "Plattform"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Hauptkomponenten gehören zu Azure AI Foundry?",
+        "options": [
+          "Nur Azure Machine Learning",
+          "Azure OpenAI Service, Azure AI Studio und Copilot Studio",
+          "Nur Azure Cognitive Services",
+          "Azure Data Factory und Power BI"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Foundry umfasst Azure OpenAI Service, Azure AI Studio und Copilot Studio als Hauptkomponenten für eine vollständige KI-Entwicklungsplattform.",
+        "source": {
+          "citation": "Azure AI Foundry Architektur",
+          "pages": "S. 10-15",
+          "chapter": "Komponenten"
+        },
+        "tags": ["Azure", "Komponenten", "Architektur"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist der Azure OpenAI Service?",
+        "options": [
+          "Ein Service nur für Textgenerierung",
+          "Ein Service für die Integration von OpenAI-Modellen in Azure",
+          "Ein lokaler Service für KI-Modelle",
+          "Ein Service nur für Bildanalyse"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure OpenAI Service ermöglicht die sichere Integration und Nutzung von OpenAI-Modellen wie GPT und DALL-E innerhalb der Azure-Cloud-Infrastruktur.",
+        "source": {
+          "citation": "Azure OpenAI Service",
+          "pages": "S. 20-25",
+          "chapter": "OpenAI Integration"
+        },
+        "tags": ["OpenAI", "Service", "Integration"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Welche Funktion hat Azure AI Studio?",
+        "options": [
+          "Nur Modelltraining",
+          "Eine benutzerfreundliche Oberfläche für KI-Entwicklung und -experimentierung",
+          "Nur Datenverarbeitung",
+          "Nur Modellbereitstellung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Studio bietet eine intuitive Benutzeroberfläche für die Entwicklung, das Experimentieren und das Management von KI-Anwendungen ohne umfangreiche Programmierkenntnisse.",
+        "source": {
+          "citation": "Azure AI Studio",
+          "pages": "S. 30-35",
+          "chapter": "AI Studio"
+        },
+        "tags": ["AI Studio", "Benutzeroberfläche", "Entwicklung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was ist Copilot Studio?",
+        "options": [
+          "Ein Tool nur für Code-Generierung",
+          "Eine Plattform zur Erstellung von benutzerdefinierten KI-Copilots",
+          "Ein Service nur für Microsoft Office",
+          "Ein Tool für Datenbankmanagement"
+        ],
+        "correctIndex": 1,
+        "explanation": "Copilot Studio ermöglicht es Benutzern, ohne Programmierkenntnisse benutzerdefinierte KI-Copilots zu erstellen und zu konfigurieren.",
+        "source": {
+          "citation": "Copilot Studio",
+          "pages": "S. 40-45",
+          "chapter": "Copilot Entwicklung"
+        },
+        "tags": ["Copilot", "Studio", "Anpassung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Welche Sicherheitsfeatures bietet Azure AI Foundry?",
+        "options": [
+          "Keine speziellen Sicherheitsfeatures",
+          "Enterprise-Sicherheit, Compliance und Datenhoheit",
+          "Nur grundlegende Verschlüsselung",
+          "Nur Benutzerauthentifizierung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Foundry bietet umfassende Enterprise-Sicherheitsfeatures, Compliance-Standards und gewährleistet Datenhoheit für Unternehmen.",
+        "source": {
+          "citation": "Azure AI Foundry Sicherheit",
+          "pages": "S. 50-55",
+          "chapter": "Sicherheit und Compliance"
+        },
+        "tags": ["Sicherheit", "Compliance", "Enterprise"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q7",
+        "text": "Welche Art von KI-Modellen kann in Azure AI Foundry verwendet werden?",
+        "options": [
+          "Nur OpenAI-Modelle",
+          "Nur Microsoft-eigene Modelle",
+          "Verschiedene KI-Modelle einschließlich OpenAI, Microsoft und benutzerdefinierte Modelle",
+          "Nur Open-Source-Modelle"
+        ],
+        "correctIndex": 2,
+        "explanation": "Azure AI Foundry unterstützt eine Vielzahl von KI-Modellen, einschließlich OpenAI-Modelle, Microsoft-eigene Modelle und benutzerdefinierte Modelle.",
+        "source": {
+          "citation": "Modell-Unterstützung",
+          "pages": "S. 60-65",
+          "chapter": "Modell-Typen"
+        },
+        "tags": ["Modelle", "Unterstützung", "Flexibilität"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Was ist ein wichtiger Vorteil der Azure AI Foundry Plattform?",
+        "options": [
+          "Niedrigere Kosten als andere Plattformen",
+          "Vollständige Integration in das Azure-Ökosystem und Skalierbarkeit",
+          "Schnellere Verarbeitung als lokale Lösungen",
+          "Einfachere Bedienung als andere Tools"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein wichtiger Vorteil ist die vollständige Integration in das Azure-Ökosystem sowie die automatische Skalierbarkeit der Cloud-Infrastruktur.",
+        "source": {
+          "citation": "Azure AI Foundry Vorteile",
+          "pages": "S. 70-75",
+          "chapter": "Plattform-Vorteile"
+        },
+        "tags": ["Vorteile", "Integration", "Skalierbarkeit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Welche Zielgruppen adressiert Azure AI Foundry hauptsächlich?",
+        "options": [
+          "Nur große Unternehmen",
+          "Nur Entwickler",
+          "Entwickler, Unternehmen und KI-Praktiker verschiedener Größen",
+          "Nur Forschungseinrichtungen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Azure AI Foundry richtet sich an ein breites Spektrum von Nutzern: von Entwicklern über Unternehmen bis hin zu KI-Praktikern verschiedener Größen.",
+        "source": {
+          "citation": "Zielgruppen",
+          "pages": "S. 80-85",
+          "chapter": "Zielgruppen"
+        },
+        "tags": ["Zielgruppen", "Zugänglichkeit", "Vielfalt"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "Wie unterstützt Azure AI Foundry die Entwicklung von KI-Anwendungen?",
+        "options": [
+          "Nur durch vorgefertigte Modelle",
+          "Durch eine umfassende Entwicklungsplattform mit Tools, APIs und Services",
+          "Nur durch Code-Beispiele",
+          "Nur durch Dokumentation"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Foundry bietet eine umfassende Entwicklungsplattform mit verschiedenen Tools, APIs und Services für den gesamten KI-Entwicklungszyklus.",
+        "source": {
+          "citation": "Entwicklungsunterstützung",
+          "pages": "S. 90-95",
+          "chapter": "Entwicklungsworkflow"
+        },
+        "tags": ["Entwicklung", "Tools", "APIs"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist Azure AI Studio im Detail?",
+        "options": [
+          "Nur ein Code-Editor",
+          "Eine Low-Code/No-Code-Plattform für KI-Entwicklung mit visuellen Tools",
+          "Nur ein Deployment-Tool",
+          "Nur ein Monitoring-Dashboard"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Studio ist eine Low-Code/No-Code-Plattform, die visuelle Tools und Assistenten für die KI-Entwicklung bereitstellt, ohne umfangreiche Programmierkenntnisse zu erfordern.",
+        "source": {
+          "citation": "Azure AI Studio Features",
+          "pages": "S. 100-105",
+          "chapter": "Entwicklungsplattform"
+        },
+        "tags": ["AI Studio", "Low-Code", "Visuelle Tools"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Welche Art von Modellen kann Azure OpenAI Service hosten?",
+        "options": [
+          "Nur Text-Modelle",
+          "Text-Modelle, Code-Generierung, Bildgenerierung und Embedding-Modelle",
+          "Nur Bildgenerierung",
+          "Nur Embedding-Modelle"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure OpenAI Service unterstützt verschiedene Modelltypen: Text-Modelle wie GPT, Code-Generierung, Bildgenerierung mit DALL-E und Embedding-Modelle für Vektorsuche.",
+        "source": {
+          "citation": "Azure OpenAI Modelle",
+          "pages": "S. 110-115",
+          "chapter": "Modelltypen"
+        },
+        "tags": ["OpenAI", "Modelle", "GPT", "DALL-E"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist Prompt Flow in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Tool für die Entwicklung, das Testen und die Optimierung von Prompt-basierten Anwendungen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Prompt Flow ist ein Tool in Azure AI Foundry, das Entwicklern hilft, Prompt-basierte Anwendungen zu entwickeln, zu testen und zu optimieren.",
+        "source": {
+          "citation": "Prompt Flow",
+          "pages": "S. 120-125",
+          "chapter": "Prompt-Entwicklung"
+        },
+        "tags": ["Prompt Flow", "Prompt-Entwicklung", "Optimierung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Welche Deployment-Optionen bietet Azure AI Foundry?",
+        "options": [
+          "Nur lokale Deployment",
+          "Cloud-Deployment, Edge-Deployment und Hybrid-Szenarien",
+          "Nur Edge-Deployment",
+          "Nur Cloud-Deployment"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Foundry bietet flexible Deployment-Optionen: Cloud-Deployment in Azure, Edge-Deployment für lokale Geräte und Hybrid-Szenarien für gemischte Umgebungen.",
+        "source": {
+          "citation": "Deployment-Optionen",
+          "pages": "S. 130-135",
+          "chapter": "Bereitstellung"
+        },
+        "tags": ["Deployment", "Cloud", "Edge", "Hybrid"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist Model-as-a-Service in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service-Modell, bei dem KI-Modelle als verwaltete Services bereitgestellt werden",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Model-as-a-Service ermöglicht es, KI-Modelle als vollständig verwaltete Services zu nutzen, ohne sich um Infrastruktur, Skalierung oder Wartung kümmern zu müssen.",
+        "source": {
+          "citation": "Model-as-a-Service",
+          "pages": "S. 140-145",
+          "chapter": "Service-Modelle"
+        },
+        "tags": ["Model-as-a-Service", "Verwaltet", "Infrastruktur"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q16",
+        "text": "Welche Integrationen unterstützt Azure AI Foundry?",
+        "options": [
+          "Nur Azure-Services",
+          "Azure-Services, GitHub, CI/CD-Pipelines und externe APIs",
+          "Nur GitHub",
+          "Nur externe APIs"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Foundry unterstützt umfassende Integrationen: Azure-Services, GitHub für Versionskontrolle, CI/CD-Pipelines und externe APIs für erweiterte Funktionalität.",
+        "source": {
+          "citation": "Integrationen",
+          "pages": "S. 150-155",
+          "chapter": "Ecosystem"
+        },
+        "tags": ["Integration", "GitHub", "CI/CD", "APIs"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist Responsible AI in Azure AI Foundry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Framework für die Entwicklung ethischer und transparenter KI-Systeme",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Responsible AI ist ein Framework in Azure AI Foundry, das Tools und Richtlinien für die Entwicklung ethischer, transparenter und fairer KI-Systeme bereitstellt.",
+        "source": {
+          "citation": "Responsible AI",
+          "pages": "S. 160-165",
+          "chapter": "Ethik und Transparenz"
+        },
+        "tags": ["Responsible AI", "Ethik", "Transparenz"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q18",
+        "text": "Welche Monitoring-Features bietet Azure AI Foundry?",
+        "options": [
+          "Nur Basis-Monitoring",
+          "Performance-Monitoring, Modell-Drift-Erkennung, Bias-Monitoring und Kosten-Tracking",
+          "Nur Performance-Monitoring",
+          "Nur Kosten-Tracking"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Foundry bietet umfassende Monitoring-Features: Performance-Überwachung, Modell-Drift-Erkennung, Bias-Monitoring und detailliertes Kosten-Tracking.",
+        "source": {
+          "citation": "Monitoring-Features",
+          "pages": "S. 170-175",
+          "chapter": "Überwachung"
+        },
+        "tags": ["Monitoring", "Performance", "Drift", "Bias"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist Azure AI Content Safety?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service zur Erkennung und Filterung schädlicher Inhalte in KI-Anwendungen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Content Safety ist ein Service, der schädliche Inhalte wie Hassrede, Gewalt oder unangemessene Inhalte in KI-Anwendungen erkennt und filtert.",
+        "source": {
+          "citation": "Azure AI Content Safety",
+          "pages": "S. 180-185",
+          "chapter": "Content-Sicherheit"
+        },
+        "tags": ["Content Safety", "Schädliche Inhalte", "Filterung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q20",
+        "text": "Welche Kostenmodelle gibt es für Azure AI Foundry?",
+        "options": [
+          "Nur Pay-per-Use",
+          "Pay-per-Use, Reserved Capacity und Enterprise Agreements",
+          "Nur Reserved Capacity",
+          "Nur Enterprise Agreements"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Foundry bietet verschiedene Kostenmodelle: Pay-per-Use für flexible Nutzung, Reserved Capacity für Kostenvorteile bei vorhersagbarer Nutzung und Enterprise Agreements für große Organisationen.",
+        "source": {
+          "citation": "Kostenmodelle",
+          "pages": "S. 190-195",
+          "chapter": "Preisgestaltung"
+        },
+        "tags": ["Kostenmodelle", "Pay-per-Use", "Reserved Capacity"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Was ist Azure AI Foundry Model Registry?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein zentrales Repository für die Verwaltung und Versionierung von KI-Modellen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Foundry Model Registry ist ein zentrales Repository für die Verwaltung, Versionierung und Governance von KI-Modellen.",
+        "source": {
+          "citation": "Model Registry",
+          "pages": "S. 200-205",
+          "chapter": "Modellverwaltung"
+        },
+        "tags": ["Model Registry", "Modellverwaltung", "Versionierung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q22",
+        "text": "Was ist Azure AI Foundry Responsible AI Dashboard?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Dashboard für die Überwachung und Bewertung der Fairness von KI-Modellen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Foundry Responsible AI Dashboard überwacht und bewertet die Fairness, Transparenz und Verantwortlichkeit von KI-Modellen.",
+        "source": {
+          "citation": "Responsible AI Dashboard",
+          "pages": "S. 210-215",
+          "chapter": "Responsible AI"
+        },
+        "tags": ["Responsible AI", "Fairness", "Transparenz"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q23",
+        "text": "Was ist Azure AI Foundry Data Drift Detection?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service zur Erkennung von Datenänderungen, die die Modellleistung beeinträchtigen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Foundry Data Drift Detection erkennt automatisch Änderungen in den Eingabedaten, die die Leistung von KI-Modellen beeinträchtigen könnten.",
+        "source": {
+          "citation": "Data Drift Detection",
+          "pages": "S. 220-225",
+          "chapter": "Modellüberwachung"
+        },
+        "tags": ["Data Drift", "Modellüberwachung", "Datenänderungen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q24",
+        "text": "Was ist Azure AI Foundry Feature Store?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein zentraler Speicher für wiederverwendbare Features und deren Metadaten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Foundry Feature Store ist ein zentraler Speicher für wiederverwendbare Features, der die Konsistenz und Wiederverwendung von Features über verschiedene Modelle hinweg ermöglicht.",
+        "source": {
+          "citation": "Feature Store",
+          "pages": "S. 230-235",
+          "chapter": "Feature-Management"
+        },
+        "tags": ["Feature Store", "Features", "Wiederverwendung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q25",
+        "text": "Was ist Azure AI Foundry MLOps Pipeline?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine automatisierte Pipeline für Machine Learning Operations und Modellbereitstellung",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AI Foundry MLOps Pipeline automatisiert den gesamten ML-Lebenszyklus von der Datenerfassung bis zur Modellbereitstellung und -überwachung.",
+        "source": {
+          "citation": "MLOps Pipeline",
+          "pages": "S. 240-245",
+          "chapter": "MLOps"
+        },
+        "tags": ["MLOps", "Pipeline", "Automatisierung"],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}

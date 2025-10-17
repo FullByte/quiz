@@ -1,0 +1,406 @@
+{
+  "quiz": {
+    "title": "Microsoft Intune und Configuration Manager",
+    "description": "Teste dein Wissen über Microsoft Intune und Configuration Manager mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem Microsoft Intune und Configuration Manager Dokument"
+    },
+    "sourceDocument": {
+      "title": "Microsoft Intune und Configuration Manager",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "intune-configmgr-core.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist Microsoft Intune?",
+        "options": [
+          "Ein Betriebssystem",
+          "Ein Cloud-basierter Service für Mobile Device Management (MDM) und Mobile Application Management (MAM)",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Intune ist ein Cloud-basierter Service für Mobile Device Management und Mobile Application Management, der die Verwaltung von Geräten und Apps ermöglicht.",
+        "source": {
+          "citation": "Microsoft Intune Einführung",
+          "pages": "S. 1-5",
+          "chapter": "Überblick"
+        },
+        "tags": ["Intune", "MDM", "MAM", "Cloud"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Was ist Microsoft Configuration Manager?",
+        "options": [
+          "Ein Cloud-Service",
+          "Ein lokales System-Management-Tool für die Verwaltung von PCs, Servern und mobilen Geräten",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Configuration Manager ist ein lokales System-Management-Tool, das die Verwaltung von PCs, Servern und mobilen Geräten in Unternehmensumgebungen ermöglicht.",
+        "source": {
+          "citation": "Configuration Manager",
+          "pages": "S. 10-15",
+          "chapter": "On-Premises Management"
+        },
+        "tags": ["Configuration Manager", "SCCM", "On-Premises"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Welche Gerätetypen kann Microsoft Intune verwalten?",
+        "options": [
+          "Nur Windows-Geräte",
+          "Windows, iOS, Android und macOS-Geräte",
+          "Nur mobile Geräte",
+          "Nur Desktop-Computer"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Intune kann verschiedene Gerätetypen verwalten: Windows (Desktop und Mobile), iOS, Android und macOS-Geräte.",
+        "source": {
+          "citation": "Geräteverwaltung",
+          "pages": "S. 20-25",
+          "chapter": "Multi-Platform Support"
+        },
+        "tags": ["Gerätetypen", "Multi-Platform", "Cross-Device"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Was ist Co-Management?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Lösung, die Configuration Manager und Intune kombiniert",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Co-Management ermöglicht es, Windows 10/11-Geräte gleichzeitig mit Configuration Manager und Microsoft Intune zu verwalten.",
+        "source": {
+          "citation": "Co-Management",
+          "pages": "S. 30-35",
+          "chapter": "Hybrid Management"
+        },
+        "tags": ["Co-Management", "Hybrid", "Integration"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q5",
+        "text": "Was sind Compliance-Richtlinien in Intune?",
+        "options": [
+          "Netzwerk-Einstellungen",
+          "Regeln, die definieren, welche Einstellungen ein Gerät haben muss, um als konform zu gelten",
+          "Backup-Richtlinien",
+          "Sicherheits-Updates"
+        ],
+        "correctIndex": 1,
+        "explanation": "Compliance-Richtlinien definieren Regeln und Einstellungen, die ein Gerät erfüllen muss, um als konform und sicher zu gelten.",
+        "source": {
+          "citation": "Compliance-Richtlinien",
+          "pages": "S. 40-45",
+          "chapter": "Sicherheit und Compliance"
+        },
+        "tags": ["Compliance", "Richtlinien", "Sicherheit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Was ist Conditional Access in Intune?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Sicherheitsfeature, das den Zugriff auf Ressourcen basierend auf Geräte-Compliance steuert",
+          "Ein Netzwerk-Monitor",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Conditional Access in Intune steuert den Zugriff auf Unternehmensressourcen basierend auf Geräte-Compliance und anderen Bedingungen.",
+        "source": {
+          "citation": "Conditional Access",
+          "pages": "S. 50-55",
+          "chapter": "Zugriffskontrolle"
+        },
+        "tags": ["Conditional Access", "Sicherheit", "Zugriffskontrolle"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist Mobile Application Management (MAM)?",
+        "options": [
+          "Ein Betriebssystem",
+          "Die Verwaltung und Sicherung von mobilen Anwendungen ohne Geräteverwaltung",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "MAM ermöglicht die Verwaltung und Sicherung von mobilen Anwendungen, ohne das gesamte Gerät verwalten zu müssen.",
+        "source": {
+          "citation": "Mobile Application Management",
+          "pages": "S. 60-65",
+          "chapter": "App-Management"
+        },
+        "tags": ["MAM", "App-Management", "Sicherheit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Welche Bereitstellungsmethoden unterstützt Configuration Manager?",
+        "options": [
+          "Nur manuelle Installation",
+          "Push-Installation, Pull-Installation, Software Center und automatische Bereitstellung",
+          "Nur automatische Bereitstellung",
+          "Nur Software Center"
+        ],
+        "correctIndex": 1,
+        "explanation": "Configuration Manager unterstützt verschiedene Bereitstellungsmethoden: Push-Installation, Pull-Installation, Software Center und automatische Bereitstellung.",
+        "source": {
+          "citation": "Bereitstellungsmethoden",
+          "pages": "S. 70-75",
+          "chapter": "Software-Bereitstellung"
+        },
+        "tags": ["Bereitstellung", "Software Center", "Installation"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist Windows Autopilot?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die automatische Bereitstellung und Konfiguration neuer Windows-Geräte",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Windows Autopilot ermöglicht die automatische Bereitstellung und Konfiguration neuer Windows-Geräte ohne manuelle IT-Intervention.",
+        "source": {
+          "citation": "Windows Autopilot",
+          "pages": "S. 80-85",
+          "chapter": "Gerätebereitstellung"
+        },
+        "tags": ["Windows Autopilot", "Bereitstellung", "Automatisierung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Lizenzierungsoptionen gibt es für Microsoft Intune?",
+        "options": [
+          "Nur kostenpflichtige Lizenzen",
+          "Verschiedene Lizenzierungsstufen als Teil von Microsoft 365 oder als eigenständiger Service",
+          "Nur kostenlose Lizenzen",
+          "Nur Enterprise-Lizenzen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Intune ist als Teil von Microsoft 365-Lizenzen verfügbar oder kann als eigenständiger Service mit verschiedenen Lizenzierungsstufen erworben werden.",
+        "source": {
+          "citation": "Lizenzierung",
+          "pages": "S. 90-95",
+          "chapter": "Lizenzierungsoptionen"
+        },
+        "tags": ["Lizenzierung", "Microsoft 365", "Enterprise"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist Microsoft Intune App Protection?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für den Schutz von Unternehmens-Apps ohne Geräteverwaltung",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Intune App Protection schützt Unternehmensdaten in Apps, ohne das gesamte Gerät verwalten zu müssen.",
+        "source": {
+          "citation": "Intune App Protection",
+          "pages": "S. 100-105",
+          "chapter": "App-Schutz"
+        },
+        "tags": ["App Protection", "App-Schutz", "Daten"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q12",
+        "text": "Was ist Microsoft Intune Device Compliance?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service zur Überprüfung der Konformität von Geräten mit Unternehmensrichtlinien",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Intune Device Compliance überprüft, ob Geräte die definierten Unternehmensrichtlinien und Sicherheitsstandards einhalten.",
+        "source": {
+          "citation": "Intune Device Compliance",
+          "pages": "S. 110-115",
+          "chapter": "Compliance"
+        },
+        "tags": ["Device Compliance", "Konformität", "Richtlinien"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist Microsoft Intune Endpoint Detection and Response (EDR)?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Erkennung und Reaktion auf Bedrohungen an Endpunkten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Intune EDR erkennt und reagiert auf Bedrohungen an Endpunkten durch kontinuierliche Überwachung und automatisierte Reaktionen.",
+        "source": {
+          "citation": "Intune EDR",
+          "pages": "S. 120-125",
+          "chapter": "Bedrohungsschutz"
+        },
+        "tags": ["EDR", "Bedrohungserkennung", "Endpunkte"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist Configuration Manager Software Center?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Self-Service-Anwendung für Benutzer zum Installieren von Software",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Configuration Manager Software Center ist eine Self-Service-Anwendung, die es Benutzern ermöglicht, verfügbare Software selbst zu installieren.",
+        "source": {
+          "citation": "Configuration Manager Software Center",
+          "pages": "S. 130-135",
+          "chapter": "Software-Bereitstellung"
+        },
+        "tags": ["Software Center", "Self-Service", "Software-Installation"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist Configuration Manager Operating System Deployment (OSD)?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die automatisierte Bereitstellung von Betriebssystemen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Configuration Manager OSD ermöglicht die automatisierte Bereitstellung und Konfiguration von Betriebssystemen auf Computern.",
+        "source": {
+          "citation": "Configuration Manager OSD",
+          "pages": "S. 140-145",
+          "chapter": "OS-Bereitstellung"
+        },
+        "tags": ["OSD", "Betriebssystem", "Automatisierung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q16",
+        "text": "Was ist Configuration Manager Inventory?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Sammlung von Hardware- und Software-Informationen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Configuration Manager Inventory sammelt detaillierte Informationen über Hardware und Software in der Umgebung für Asset-Management.",
+        "source": {
+          "citation": "Configuration Manager Inventory",
+          "pages": "S. 150-155",
+          "chapter": "Asset-Management"
+        },
+        "tags": ["Inventory", "Asset-Management", "Hardware", "Software"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist Microsoft Intune Device Enrollment?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Prozess zur Registrierung von Geräten in der Intune-Verwaltung",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Intune Device Enrollment ist der Prozess zur Registrierung von Geräten in der Intune-Verwaltung für MDM/MAM.",
+        "source": {
+          "citation": "Intune Device Enrollment",
+          "pages": "S. 160-165",
+          "chapter": "Geräteregistrierung"
+        },
+        "tags": ["Device Enrollment", "Registrierung", "MDM"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Was ist Configuration Manager Wake on LAN (WOL)?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Technologie zum Aufwecken von Computern über das Netzwerk",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Configuration Manager Wake on LAN ermöglicht es, Computer über das Netzwerk aufzuwecken, um Wartungsaufgaben durchzuführen.",
+        "source": {
+          "citation": "Configuration Manager WOL",
+          "pages": "S. 170-175",
+          "chapter": "Netzwerk-Management"
+        },
+        "tags": ["Wake on LAN", "WOL", "Netzwerk"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Welche Microsoft Intune-Integrationen gibt es?",
+        "options": [
+          "Nur Azure AD",
+          "Azure AD, Microsoft Defender, Microsoft 365 und Configuration Manager",
+          "Nur Microsoft Defender",
+          "Nur Microsoft 365"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Intune integriert sich mit Azure AD, Microsoft Defender, Microsoft 365 und Configuration Manager für umfassende Endpoint-Management.",
+        "source": {
+          "citation": "Intune Integrationen",
+          "pages": "S. 180-185",
+          "chapter": "Ecosystem"
+        },
+        "tags": ["Integration", "Azure AD", "Microsoft Defender"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist Configuration Manager Client Health?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service zur Überwachung und Reparatur der Configuration Manager-Client-Installation",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Configuration Manager Client Health überwacht den Zustand der Client-Installation und repariert automatisch häufige Probleme.",
+        "source": {
+          "citation": "Configuration Manager Client Health",
+          "pages": "S. 190-195",
+          "chapter": "Client-Management"
+        },
+        "tags": ["Client Health", "Überwachung", "Reparatur"],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}

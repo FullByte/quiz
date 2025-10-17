@@ -1,0 +1,406 @@
+{
+  "quiz": {
+    "title": "Azure Developer Introduction",
+    "description": "Teste dein Wissen über Azure-Entwicklung mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem Azure Developer Introduction Dokument"
+    },
+    "sourceDocument": {
+      "title": "Azure Developer Introduction",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "azure-developer-intro.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist Azure für Entwickler?",
+        "options": [
+          "Eine Programmiersprache",
+          "Eine Cloud-Plattform mit Services und Tools für Entwickler",
+          "Ein Betriebssystem",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure ist eine umfassende Cloud-Plattform, die eine Vielzahl von Services und Tools bietet, um Entwicklern bei der Erstellung, Bereitstellung und Verwaltung von Anwendungen zu helfen.",
+        "source": {
+          "citation": "Azure Developer Introduction",
+          "pages": "S. 1-5",
+          "chapter": "Einführung"
+        },
+        "tags": ["Azure", "Cloud", "Entwicklung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Hauptkategorien von Azure-Services gibt es?",
+        "options": [
+          "Nur Compute und Storage",
+          "Compute, Storage, Networking, Security und viele weitere",
+          "Nur Datenbanken",
+          "Nur Web Services"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure bietet Services in vielen Kategorien: Compute, Storage, Networking, Security, Databases, AI/ML, Analytics und viele weitere spezialisierte Bereiche.",
+        "source": {
+          "citation": "Azure Services",
+          "pages": "S. 10-15",
+          "chapter": "Service-Kategorien"
+        },
+        "tags": ["Services", "Kategorien", "Übersicht"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist Azure App Service?",
+        "options": [
+          "Ein Service nur für mobile Apps",
+          "Ein vollständig verwalteter Service für Web-Apps, API-Apps und mobile Backends",
+          "Ein Service nur für Desktop-Anwendungen",
+          "Ein Service nur für Datenbanken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure App Service ist ein vollständig verwalteter Service, der die Entwicklung und Bereitstellung von Web-Apps, API-Apps und mobilen Backends unterstützt.",
+        "source": {
+          "citation": "Azure App Service",
+          "pages": "S. 20-25",
+          "chapter": "Compute Services"
+        },
+        "tags": ["App Service", "Web-Apps", "API"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Welche Programmiersprachen werden von Azure unterstützt?",
+        "options": [
+          "Nur .NET und C#",
+          "Nur Java und Python",
+          "Viele Sprachen wie .NET, Java, Python, Node.js, PHP, Ruby und weitere",
+          "Nur JavaScript"
+        ],
+        "correctIndex": 2,
+        "explanation": "Azure unterstützt eine Vielzahl von Programmiersprachen und Frameworks, darunter .NET, Java, Python, Node.js, PHP, Ruby und viele andere.",
+        "source": {
+          "citation": "Unterstützte Sprachen",
+          "pages": "S. 30-35",
+          "chapter": "Entwicklungssprachen"
+        },
+        "tags": ["Programmiersprachen", "Frameworks", "Unterstützung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Was ist Azure Functions?",
+        "options": [
+          "Eine Datenbank",
+          "Ein Serverless Computing Service für ereignisgesteuerte Anwendungen",
+          "Ein Web-Hosting-Service",
+          "Ein Netzwerk-Service"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure Functions ist ein Serverless Computing Service, der es ermöglicht, Code auszuführen, ohne sich um die Infrastruktur kümmern zu müssen, basierend auf Ereignissen und Triggern.",
+        "source": {
+          "citation": "Azure Functions",
+          "pages": "S. 40-45",
+          "chapter": "Serverless Computing"
+        },
+        "tags": ["Functions", "Serverless", "Events"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Welche Vorteile bietet die Azure-Entwicklung?",
+        "options": [
+          "Nur niedrigere Kosten",
+          "Skalierbarkeit, globale Verfügbarkeit, Sicherheit und Integration",
+          "Nur schnellere Entwicklung",
+          "Nur einfachere Bereitstellung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure bietet viele Vorteile: automatische Skalierbarkeit, globale Verfügbarkeit, robuste Sicherheitsfeatures und nahtlose Integration verschiedener Services.",
+        "source": {
+          "citation": "Azure Vorteile",
+          "pages": "S. 50-55",
+          "chapter": "Entwicklungsvorteile"
+        },
+        "tags": ["Vorteile", "Skalierbarkeit", "Sicherheit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist Azure DevOps?",
+        "options": [
+          "Ein Betriebssystem",
+          "Eine Sammlung von Entwicklungsdiensten für DevOps-Praktiken",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure DevOps ist eine Sammlung von Entwicklungsdiensten, die DevOps-Praktiken unterstützen, einschließlich CI/CD, Projektmanagement und Zusammenarbeit.",
+        "source": {
+          "citation": "Azure DevOps",
+          "pages": "S. 60-65",
+          "chapter": "DevOps"
+        },
+        "tags": ["DevOps", "CI/CD", "Zusammenarbeit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Welche Azure Storage-Optionen gibt es?",
+        "options": [
+          "Nur Blob Storage",
+          "Blob Storage, File Storage, Queue Storage, Table Storage und weitere",
+          "Nur SQL Database",
+          "Nur Cosmos DB"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure bietet verschiedene Storage-Optionen: Blob Storage für unstrukturierte Daten, File Storage für Dateisysteme, Queue Storage für Messaging und Table Storage für NoSQL-Daten.",
+        "source": {
+          "citation": "Azure Storage",
+          "pages": "S. 70-75",
+          "chapter": "Storage Services"
+        },
+        "tags": ["Storage", "Blob", "File", "Queue"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist Azure Key Vault?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service zur sicheren Speicherung und Verwaltung von Geheimnissen, Schlüsseln und Zertifikaten",
+          "Ein Monitoring-Service",
+          "Ein Networking-Service"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure Key Vault ist ein Service zur sicheren Speicherung und Verwaltung von Geheimnissen, API-Schlüsseln, Passwörtern und Zertifikaten.",
+        "source": {
+          "citation": "Azure Key Vault",
+          "pages": "S. 80-85",
+          "chapter": "Security Services"
+        },
+        "tags": ["Key Vault", "Sicherheit", "Geheimnisse"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Wie kann man mit Azure entwickeln?",
+        "options": [
+          "Nur über die Azure-Portal-Website",
+          "Über Azure Portal, Visual Studio, Azure CLI, PowerShell und REST APIs",
+          "Nur über lokale Tools",
+          "Nur über mobile Apps"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure bietet verschiedene Entwicklungsoptionen: das Azure Portal, Visual Studio, Azure CLI, PowerShell und REST APIs für flexible Entwicklungsumgebungen.",
+        "source": {
+          "citation": "Entwicklungstools",
+          "pages": "S. 90-95",
+          "chapter": "Entwicklungsumgebung"
+        },
+        "tags": ["Tools", "Portal", "CLI", "APIs"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist Azure Resource Manager (ARM)?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Deployment- und Verwaltungsservice für Azure-Ressourcen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure Resource Manager ist der Deployment- und Verwaltungsservice von Azure, der die Bereitstellung, Aktualisierung und Löschung von Ressourcen in Azure-Lösungen ermöglicht.",
+        "source": {
+          "citation": "Azure Resource Manager",
+          "pages": "S. 100-105",
+          "chapter": "Ressourcenverwaltung"
+        },
+        "tags": ["ARM", "Resource Manager", "Deployment"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Welche Art von Anwendungen kann Azure App Service hosten?",
+        "options": [
+          "Nur .NET-Anwendungen",
+          ".NET, Java, Python, Node.js, PHP, Ruby und andere Anwendungen",
+          "Nur Java-Anwendungen",
+          "Nur Python-Anwendungen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure App Service kann Anwendungen in verschiedenen Programmiersprachen hosten: .NET, Java, Python, Node.js, PHP, Ruby und viele andere.",
+        "source": {
+          "citation": "App Service Sprachen",
+          "pages": "S. 110-115",
+          "chapter": "Multi-Language Support"
+        },
+        "tags": ["App Service", "Multi-Language", "Hosting"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist Azure Container Instances (ACI)?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Serverless Container-Service für schnelle Container-Bereitstellung",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure Container Instances ist ein Serverless Container-Service, der die schnellste und einfachste Möglichkeit bietet, Container in Azure auszuführen, ohne virtuelle Maschinen verwalten zu müssen.",
+        "source": {
+          "citation": "Azure Container Instances",
+          "pages": "S. 120-125",
+          "chapter": "Container-Technologie"
+        },
+        "tags": ["ACI", "Container", "Serverless"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Welche Azure Storage-Tiers gibt es?",
+        "options": [
+          "Nur Hot Storage",
+          "Hot, Cool, Archive und Premium Storage-Tiers",
+          "Nur Cool Storage",
+          "Nur Archive Storage"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure Storage bietet verschiedene Tiers: Hot für häufig genutzte Daten, Cool für selten genutzte Daten, Archive für langfristige Speicherung und Premium für Hochleistungsanwendungen.",
+        "source": {
+          "citation": "Storage Tiers",
+          "pages": "S. 130-135",
+          "chapter": "Storage-Optimierung"
+        },
+        "tags": ["Storage Tiers", "Hot", "Cool", "Archive"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist Azure Service Bus?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Cloud-basierter Messaging-Service für die Kommunikation zwischen Anwendungen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure Service Bus ist ein Cloud-basierter Messaging-Service, der die Kommunikation zwischen Anwendungen und Services ermöglicht, auch wenn sie nicht gleichzeitig verfügbar sind.",
+        "source": {
+          "citation": "Azure Service Bus",
+          "pages": "S. 140-145",
+          "chapter": "Messaging"
+        },
+        "tags": ["Service Bus", "Messaging", "Kommunikation"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q16",
+        "text": "Welche Azure-Identitätsdienste gibt es?",
+        "options": [
+          "Nur Azure Active Directory",
+          "Azure Active Directory, Azure AD B2C und Azure AD B2B",
+          "Nur Azure AD B2C",
+          "Nur Azure AD B2B"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure bietet verschiedene Identitätsdienste: Azure Active Directory für Unternehmensidentitäten, Azure AD B2C für Konsumenten-Apps und Azure AD B2B für Partnerzusammenarbeit.",
+        "source": {
+          "citation": "Azure Identitätsdienste",
+          "pages": "S. 150-155",
+          "chapter": "Identitätsmanagement"
+        },
+        "tags": ["Azure AD", "B2C", "B2B", "Identität"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist Azure API Management?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Veröffentlichung, Verwaltung und Überwachung von APIs",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure API Management ist ein vollständiger API-Management-Service, der die Veröffentlichung, Verwaltung, Überwachung und Sicherung von APIs ermöglicht.",
+        "source": {
+          "citation": "Azure API Management",
+          "pages": "S. 160-165",
+          "chapter": "API-Management"
+        },
+        "tags": ["API Management", "APIs", "Überwachung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q18",
+        "text": "Welche Azure-Überwachungsdienste gibt es?",
+        "options": [
+          "Nur Azure Monitor",
+          "Azure Monitor, Application Insights und Azure Log Analytics",
+          "Nur Application Insights",
+          "Nur Azure Log Analytics"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure bietet verschiedene Überwachungsdienste: Azure Monitor für Infrastruktur, Application Insights für Anwendungsleistung und Azure Log Analytics für Log-Analyse.",
+        "source": {
+          "citation": "Azure Überwachung",
+          "pages": "S. 170-175",
+          "chapter": "Monitoring"
+        },
+        "tags": ["Azure Monitor", "Application Insights", "Log Analytics"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist Azure Event Grid?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Event-Routing-Service für ereignisgesteuerte Architekturen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure Event Grid ist ein vollständig verwalteter Event-Routing-Service, der eine einfache, zuverlässige und skalierbare Ereignisverarbeitung ermöglicht.",
+        "source": {
+          "citation": "Azure Event Grid",
+          "pages": "S. 180-185",
+          "chapter": "Event-Driven Architecture"
+        },
+        "tags": ["Event Grid", "Events", "Routing"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Welche Azure-Entwicklertools sind verfügbar?",
+        "options": [
+          "Nur Visual Studio",
+          "Visual Studio, VS Code, Azure CLI, Azure PowerShell und Azure SDKs",
+          "Nur VS Code",
+          "Nur Azure CLI"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure bietet eine umfassende Palette von Entwicklertools: Visual Studio, VS Code, Azure CLI, Azure PowerShell und verschiedene Azure SDKs für verschiedene Programmiersprachen.",
+        "source": {
+          "citation": "Azure Entwicklertools",
+          "pages": "S. 190-195",
+          "chapter": "Entwicklungsumgebung"
+        },
+        "tags": ["Visual Studio", "VS Code", "Azure CLI", "SDKs"],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

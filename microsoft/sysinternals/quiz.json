@@ -1,0 +1,406 @@
+{
+  "quiz": {
+    "title": "Microsoft Sysinternals",
+    "description": "Teste dein Wissen über Microsoft Sysinternals mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem Microsoft Sysinternals Dokument"
+    },
+    "sourceDocument": {
+      "title": "Microsoft Sysinternals",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "sysinternals.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was sind Microsoft Sysinternals?",
+        "options": [
+          "Ein Betriebssystem",
+          "Eine Sammlung von erweiterten Systemverwaltungstools für Windows",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Sysinternals sind eine Sammlung von erweiterten Systemverwaltungstools, die von Mark Russinovich entwickelt wurden und tiefe Einblicke in Windows-Systeme bieten.",
+        "source": {
+          "citation": "Microsoft Sysinternals Einführung",
+          "pages": "S. 1-5",
+          "chapter": "Überblick"
+        },
+        "tags": ["Sysinternals", "Systemtools", "Windows"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Wer hat die Sysinternals-Tools ursprünglich entwickelt?",
+        "options": [
+          "Bill Gates",
+          "Mark Russinovich",
+          "Steve Ballmer",
+          "Satya Nadella"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mark Russinovich hat die Sysinternals-Tools ursprünglich entwickelt, bevor Microsoft die Tools und das Team übernommen hat.",
+        "source": {
+          "citation": "Sysinternals Geschichte",
+          "pages": "S. 10-15",
+          "chapter": "Entwicklung"
+        },
+        "tags": ["Mark Russinovich", "Entwicklung", "Geschichte"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist Process Explorer?",
+        "options": [
+          "Ein Backup-Tool",
+          "Ein erweitertes Task-Manager-Tool für die Prozessverwaltung",
+          "Ein Netzwerk-Monitor",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Process Explorer ist ein erweitertes Task-Manager-Tool, das detaillierte Informationen über laufende Prozesse, deren Abhängigkeiten und Ressourcenverbrauch zeigt.",
+        "source": {
+          "citation": "Process Explorer",
+          "pages": "S. 20-25",
+          "chapter": "Prozess-Management"
+        },
+        "tags": ["Process Explorer", "Task Manager", "Prozesse"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Was ist Autoruns?",
+        "options": [
+          "Ein Backup-Tool",
+          "Ein Tool zur Verwaltung von Programmen, die beim Systemstart automatisch geladen werden",
+          "Ein Netzwerk-Monitor",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Autoruns zeigt und verwaltet alle Programme, Services und Treiber, die beim Windows-Start automatisch geladen werden, einschließlich versteckter Einträge.",
+        "source": {
+          "citation": "Autoruns",
+          "pages": "S. 30-35",
+          "chapter": "Startup-Management"
+        },
+        "tags": ["Autoruns", "Startup", "Automatischer Start"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was ist Process Monitor?",
+        "options": [
+          "Ein Backup-Tool",
+          "Ein Tool zur Überwachung von Datei-, Registry- und Prozessaktivitäten in Echtzeit",
+          "Ein Netzwerk-Monitor",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Process Monitor überwacht Datei-, Registry- und Prozessaktivitäten in Echtzeit und hilft bei der Diagnose von Systemproblemen und Malware-Analyse.",
+        "source": {
+          "citation": "Process Monitor",
+          "pages": "S. 40-45",
+          "chapter": "System-Monitoring"
+        },
+        "tags": ["Process Monitor", "Echtzeit", "Monitoring"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q6",
+        "text": "Was ist TCPView?",
+        "options": [
+          "Ein Backup-Tool",
+          "Ein Tool zur Anzeige von TCP- und UDP-Verbindungen und deren Status",
+          "Ein Registry-Editor",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "TCPView zeigt alle aktiven TCP- und UDP-Verbindungen an, inklusive der Prozesse, die diese Verbindungen verwenden, und deren Status.",
+        "source": {
+          "citation": "TCPView",
+          "pages": "S. 50-55",
+          "chapter": "Netzwerk-Monitoring"
+        },
+        "tags": ["TCPView", "TCP", "UDP", "Netzwerk"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist Registry Monitor?",
+        "options": [
+          "Ein Backup-Tool",
+          "Ein Tool zur Überwachung von Registry-Änderungen in Echtzeit",
+          "Ein Netzwerk-Monitor",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Registry Monitor überwacht Registry-Änderungen in Echtzeit und zeigt, welche Prozesse Registry-Schlüssel lesen, schreiben oder löschen.",
+        "source": {
+          "citation": "Registry Monitor",
+          "pages": "S. 60-65",
+          "chapter": "Registry-Monitoring"
+        },
+        "tags": ["Registry Monitor", "Registry", "Änderungen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q8",
+        "text": "Was ist PsExec?",
+        "options": [
+          "Ein Backup-Tool",
+          "Ein Tool zur Ausführung von Prozessen auf Remote-Systemen",
+          "Ein Registry-Editor",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PsExec ermöglicht die Ausführung von Prozessen auf Remote-Systemen über das Netzwerk, ähnlich wie telnet, aber mit vollständiger Konsole.",
+        "source": {
+          "citation": "PsExec",
+          "pages": "S. 70-75",
+          "chapter": "Remote-Ausführung"
+        },
+        "tags": ["PsExec", "Remote", "Ausführung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist DiskMon?",
+        "options": [
+          "Ein Backup-Tool",
+          "Ein Tool zur Überwachung von Festplattenaktivitäten in Echtzeit",
+          "Ein Registry-Editor",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "DiskMon überwacht Festplattenaktivitäten in Echtzeit und zeigt Lese- und Schreibvorgänge auf verschiedenen Laufwerken an.",
+        "source": {
+          "citation": "DiskMon",
+          "pages": "S. 80-85",
+          "chapter": "Festplatten-Monitoring"
+        },
+        "tags": ["DiskMon", "Festplatte", "I/O"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Lizenzierung haben die Sysinternals-Tools?",
+        "options": [
+          "Kommerziell lizenziert",
+          "Kostenlos für persönliche und kommerzielle Nutzung",
+          "Nur für Microsoft-Kunden",
+          "Nur für Bildungszwecke"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Sysinternals-Tools sind kostenlos für persönliche und kommerzielle Nutzung verfügbar, ohne Lizenzkosten oder Einschränkungen.",
+        "source": {
+          "citation": "Sysinternals Lizenzierung",
+          "pages": "S. 90-95",
+          "chapter": "Lizenzierung"
+        },
+        "tags": ["Kostenlos", "Kommerziell", "Lizenzierung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist Process Monitor (ProcMon)?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Tool zur Überwachung von Datei-, Registry- und Prozess-Aktivitäten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Process Monitor (ProcMon) überwacht in Echtzeit Datei-, Registry- und Prozess-Aktivitäten für Troubleshooting und Systemanalyse.",
+        "source": {
+          "citation": "Process Monitor",
+          "pages": "S. 100-105",
+          "chapter": "Systemüberwachung"
+        },
+        "tags": ["Process Monitor", "ProcMon", "Überwachung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q12",
+        "text": "Was ist Autoruns?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Tool zur Verwaltung von Autostart-Programmen und -Diensten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Autoruns zeigt und verwaltet alle Programme und Dienste, die beim Systemstart automatisch geladen werden.",
+        "source": {
+          "citation": "Autoruns",
+          "pages": "S. 110-115",
+          "chapter": "Autostart-Verwaltung"
+        },
+        "tags": ["Autoruns", "Autostart", "Programme"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist Process Explorer?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein erweiterter Task Manager mit detaillierten Prozessinformationen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Process Explorer ist ein erweiterter Task Manager, der detaillierte Informationen über Prozesse, DLLs und Handles anzeigt.",
+        "source": {
+          "citation": "Process Explorer",
+          "pages": "S. 120-125",
+          "chapter": "Prozess-Management"
+        },
+        "tags": ["Process Explorer", "Task Manager", "Prozesse"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist Handle?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Tool zur Anzeige von geöffneten Dateien und Objekten durch Prozesse",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Handle zeigt alle geöffneten Dateien, Registry-Keys und andere Objekte an, die von Prozessen verwendet werden.",
+        "source": {
+          "citation": "Handle",
+          "pages": "S. 130-135",
+          "chapter": "Objekt-Management"
+        },
+        "tags": ["Handle", "Geöffnete Dateien", "Objekte"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist TCPView?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Tool zur Anzeige von TCP- und UDP-Verbindungen in Echtzeit",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "TCPView zeigt alle aktiven TCP- und UDP-Verbindungen in Echtzeit mit den zugehörigen Prozessen an.",
+        "source": {
+          "citation": "TCPView",
+          "pages": "S. 140-145",
+          "chapter": "Netzwerk-Monitoring"
+        },
+        "tags": ["TCPView", "TCP", "UDP", "Netzwerk"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q16",
+        "text": "Was ist PsExec?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Tool zur Ausführung von Programmen auf Remote-Systemen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PsExec ermöglicht die Ausführung von Programmen auf Remote-Systemen über das Netzwerk mit verschiedenen Authentifizierungsoptionen.",
+        "source": {
+          "citation": "PsExec",
+          "pages": "S. 150-155",
+          "chapter": "Remote-Ausführung"
+        },
+        "tags": ["PsExec", "Remote", "Ausführung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist PsInfo?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Tool zur Anzeige detaillierter Systeminformationen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PsInfo zeigt detaillierte Systeminformationen wie Betriebssystem, Hardware und installierte Software an.",
+        "source": {
+          "citation": "PsInfo",
+          "pages": "S. 160-165",
+          "chapter": "Systeminformationen"
+        },
+        "tags": ["PsInfo", "Systeminformationen", "Hardware"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Was ist PsList?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Tool zur Anzeige von Prozess- und Thread-Informationen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PsList zeigt detaillierte Informationen über Prozesse und Threads an, einschließlich CPU- und Speichernutzung.",
+        "source": {
+          "citation": "PsList",
+          "pages": "S. 170-175",
+          "chapter": "Prozess-Informationen"
+        },
+        "tags": ["PsList", "Prozesse", "Threads"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist PsKill?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Tool zum Beenden von Prozessen lokal und remote",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PsKill ermöglicht das Beenden von Prozessen sowohl lokal als auch auf Remote-Systemen mit verschiedenen Optionen.",
+        "source": {
+          "citation": "PsKill",
+          "pages": "S. 180-185",
+          "chapter": "Prozess-Management"
+        },
+        "tags": ["PsKill", "Prozesse beenden", "Remote"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist PsService?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Tool zur Verwaltung von Windows-Diensten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "PsService ermöglicht die Verwaltung von Windows-Diensten, einschließlich Start, Stop und Konfiguration.",
+        "source": {
+          "citation": "PsService",
+          "pages": "S. 190-195",
+          "chapter": "Dienst-Management"
+        },
+        "tags": ["PsService", "Windows-Dienste", "Verwaltung"],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}

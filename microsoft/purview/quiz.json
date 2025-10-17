@@ -1,0 +1,406 @@
+{
+  "quiz": {
+    "title": "Microsoft Purview",
+    "description": "Teste dein Wissen über Microsoft Purview mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem Microsoft Purview Dokument"
+    },
+    "sourceDocument": {
+      "title": "Microsoft Purview",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "purview.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist Microsoft Purview?",
+        "options": [
+          "Ein Betriebssystem",
+          "Eine einheitliche Plattform für Daten-Governance und Compliance",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Purview ist eine einheitliche Plattform für Daten-Governance, Compliance und Datenschutz in Microsoft 365 und Azure-Umgebungen.",
+        "source": {
+          "citation": "Microsoft Purview Einführung",
+          "pages": "S. 1-5",
+          "chapter": "Überblick"
+        },
+        "tags": ["Purview", "Daten-Governance", "Compliance"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Hauptkomponenten gehören zu Microsoft Purview?",
+        "options": [
+          "Nur Data Loss Prevention",
+          "Data Loss Prevention, Information Protection, Insider Risk Management und Data Lifecycle Management",
+          "Nur Information Protection",
+          "Nur Insider Risk Management"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Purview umfasst Data Loss Prevention, Information Protection, Insider Risk Management und Data Lifecycle Management als Hauptkomponenten.",
+        "source": {
+          "citation": "Purview Komponenten",
+          "pages": "S. 10-15",
+          "chapter": "Architektur"
+        },
+        "tags": ["DLP", "Information Protection", "Risk Management"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist Data Loss Prevention (DLP) in Purview?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service zur Erkennung und Verhinderung von Datenverlusten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Data Loss Prevention in Purview erkennt und verhindert ungewollte Freigaben oder Verluste von sensiblen Daten.",
+        "source": {
+          "citation": "Data Loss Prevention",
+          "pages": "S. 20-25",
+          "chapter": "DLP"
+        },
+        "tags": ["DLP", "Datenverlust", "Sicherheit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Was ist Information Protection in Purview?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service zur Klassifizierung und Schutz von Informationen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Information Protection in Purview ermöglicht die automatische Klassifizierung, Kennzeichnung und den Schutz von sensiblen Informationen.",
+        "source": {
+          "citation": "Information Protection",
+          "pages": "S. 30-35",
+          "chapter": "Informationsschutz"
+        },
+        "tags": ["Information Protection", "Klassifizierung", "Kennzeichnung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q5",
+        "text": "Was ist Insider Risk Management?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service zur Erkennung und Verwaltung von Insider-Bedrohungen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Insider Risk Management erkennt potenzielle Insider-Bedrohungen und hilft bei der Verwaltung von Risiken durch Mitarbeiter oder Partner.",
+        "source": {
+          "citation": "Insider Risk Management",
+          "pages": "S. 40-45",
+          "chapter": "Risikomanagement"
+        },
+        "tags": ["Insider Risk", "Bedrohungen", "Risikomanagement"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q6",
+        "text": "Was ist Data Lifecycle Management in Purview?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service zur Verwaltung des Lebenszyklus von Daten von der Erstellung bis zur Löschung",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Data Lifecycle Management verwaltet den gesamten Lebenszyklus von Daten von der Erstellung über Speicherung und Archivierung bis zur Löschung.",
+        "source": {
+          "citation": "Data Lifecycle Management",
+          "pages": "S. 50-55",
+          "chapter": "Datenlebenszyklus"
+        },
+        "tags": ["Lifecycle", "Datenlebenszyklus", "Archivierung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q7",
+        "text": "Welche Compliance-Standards unterstützt Microsoft Purview?",
+        "options": [
+          "Nur GDPR",
+          "GDPR, CCPA, HIPAA, SOX und viele weitere internationale Standards",
+          "Nur CCPA",
+          "Nur HIPAA"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Purview unterstützt eine breite Palette von Compliance-Standards: GDPR, CCPA, HIPAA, SOX und viele weitere internationale Standards.",
+        "source": {
+          "citation": "Compliance-Standards",
+          "pages": "S. 60-65",
+          "chapter": "Compliance"
+        },
+        "tags": ["GDPR", "CCPA", "HIPAA", "SOX"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q8",
+        "text": "Was sind Sensitivity Labels in Purview?",
+        "options": [
+          "Programmiersprachen",
+          "Klassifizierungsetiketten für die Kennzeichnung und den Schutz von Dokumenten",
+          "Betriebssysteme",
+          "Datenbanken"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sensitivity Labels sind Klassifizierungsetiketten, die Dokumenten und E-Mails zugeordnet werden, um deren Schutz und Handhabung zu steuern.",
+        "source": {
+          "citation": "Sensitivity Labels",
+          "pages": "S. 70-75",
+          "chapter": "Klassifizierung"
+        },
+        "tags": ["Sensitivity Labels", "Klassifizierung", "Schutz"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist Microsoft Purview Data Map?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service zur automatischen Erkennung und Katalogisierung von Datenressourcen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Purview Data Map erkennt und katalogisiert automatisch Datenressourcen in verschiedenen Umgebungen für bessere Daten-Governance.",
+        "source": {
+          "citation": "Purview Data Map",
+          "pages": "S. 80-85",
+          "chapter": "Datenkatalog"
+        },
+        "tags": ["Data Map", "Katalogisierung", "Datenressourcen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Lizenzierungsoptionen gibt es für Microsoft Purview?",
+        "options": [
+          "Nur kostenpflichtige Lizenzen",
+          "Verschiedene Lizenzierungsstufen als Teil von Microsoft 365 oder als eigenständiger Service",
+          "Nur kostenlose Lizenzen",
+          "Nur Enterprise-Lizenzen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Purview ist als Teil von Microsoft 365-Lizenzen verfügbar oder kann als eigenständiger Service mit verschiedenen Lizenzierungsstufen erworben werden.",
+        "source": {
+          "citation": "Lizenzierung",
+          "pages": "S. 90-95",
+          "chapter": "Lizenzierungsoptionen"
+        },
+        "tags": ["Lizenzierung", "Microsoft 365", "Enterprise"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist Microsoft Purview Data Catalog?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die automatische Katalogisierung und Entdeckung von Datenassets",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Purview Data Catalog automatisiert die Katalogisierung und Entdeckung von Datenassets in der gesamten Organisation.",
+        "source": {
+          "citation": "Microsoft Purview Data Catalog",
+          "pages": "S. 100-105",
+          "chapter": "Datenkatalog"
+        },
+        "tags": ["Data Catalog", "Katalogisierung", "Entdeckung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q12",
+        "text": "Was ist Microsoft Purview Data Map?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Visualisierung und Verwaltung von Datenlandschaften",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Purview Data Map visualisiert und verwaltet die gesamte Datenlandschaft einer Organisation mit automatischer Scannings.",
+        "source": {
+          "citation": "Microsoft Purview Data Map",
+          "pages": "S. 110-115",
+          "chapter": "Datenlandschaft"
+        },
+        "tags": ["Data Map", "Visualisierung", "Datenlandschaft"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist Microsoft Purview Data Lineage?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Verfolgung der Herkunft und Transformation von Daten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Purview Data Lineage verfolgt die Herkunft, Transformation und Verwendung von Daten durch die gesamte Organisation.",
+        "source": {
+          "citation": "Microsoft Purview Data Lineage",
+          "pages": "S. 120-125",
+          "chapter": "Datenherkunft"
+        },
+        "tags": ["Data Lineage", "Datenherkunft", "Transformation"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist Microsoft Purview Sensitivity Labels?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Klassifizierung und Kennzeichnung sensibler Daten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Purview Sensitivity Labels klassifizieren und kennzeichnen sensible Daten automatisch für bessere Datenschutz-Kontrolle.",
+        "source": {
+          "citation": "Microsoft Purview Sensitivity Labels",
+          "pages": "S. 130-135",
+          "chapter": "Datenschutz"
+        },
+        "tags": ["Sensitivity Labels", "Klassifizierung", "Datenschutz"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist Microsoft Purview Data Policies?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Definition und Durchsetzung von Datenrichtlinien",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Purview Data Policies ermöglichen die Definition und automatische Durchsetzung von Datenrichtlinien in der gesamten Organisation.",
+        "source": {
+          "citation": "Microsoft Purview Data Policies",
+          "pages": "S. 140-145",
+          "chapter": "Richtlinien-Management"
+        },
+        "tags": ["Data Policies", "Richtlinien", "Durchsetzung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q16",
+        "text": "Was ist Microsoft Purview Data Loss Prevention (DLP)?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service zur Verhinderung des versehentlichen Verlusts sensibler Daten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Purview DLP verhindert den versehentlichen Verlust sensibler Daten durch automatische Erkennung und Schutzmaßnahmen.",
+        "source": {
+          "citation": "Microsoft Purview DLP",
+          "pages": "S. 150-155",
+          "chapter": "Datenschutz"
+        },
+        "tags": ["DLP", "Data Loss Prevention", "Datenschutz"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist Microsoft Purview Information Protection?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für den Schutz von Informationen durch Verschlüsselung und Zugriffskontrolle",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Purview Information Protection schützt Informationen durch Verschlüsselung, Zugriffskontrolle und Datenschutz-Maßnahmen.",
+        "source": {
+          "citation": "Microsoft Purview Information Protection",
+          "pages": "S. 160-165",
+          "chapter": "Informationsschutz"
+        },
+        "tags": ["Information Protection", "Verschlüsselung", "Zugriffskontrolle"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q18",
+        "text": "Welche Microsoft Purview-Integrationen gibt es?",
+        "options": [
+          "Nur Azure",
+          "Azure, Microsoft 365, Power BI, SQL Server und viele weitere",
+          "Nur Microsoft 365",
+          "Nur Power BI"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Purview integriert sich mit Azure, Microsoft 365, Power BI, SQL Server und vielen weiteren Microsoft- und Drittanbieter-Services.",
+        "source": {
+          "citation": "Microsoft Purview Integrationen",
+          "pages": "S. 170-175",
+          "chapter": "Ecosystem"
+        },
+        "tags": ["Azure", "Microsoft 365", "Power BI", "SQL Server"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist Microsoft Purview Data Governance?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Framework für die Verwaltung und Kontrolle von Daten in der Organisation",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Purview Data Governance bietet ein umfassendes Framework für die Verwaltung, Kontrolle und Compliance von Daten in der Organisation.",
+        "source": {
+          "citation": "Microsoft Purview Data Governance",
+          "pages": "S. 180-185",
+          "chapter": "Datenverwaltung"
+        },
+        "tags": ["Data Governance", "Verwaltung", "Compliance"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist Microsoft Purview Compliance Manager?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Verwaltung und Überwachung von Compliance-Anforderungen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Purview Compliance Manager hilft bei der Verwaltung und Überwachung von Compliance-Anforderungen wie GDPR, HIPAA und anderen Standards.",
+        "source": {
+          "citation": "Microsoft Purview Compliance Manager",
+          "pages": "S. 190-195",
+          "chapter": "Compliance-Management"
+        },
+        "tags": ["Compliance Manager", "GDPR", "HIPAA", "Standards"],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "quiz": {
+    "title": "Microsoft Entra Fundamentals",
+    "description": "Teste dein Wissen über Microsoft Entra mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem Microsoft Entra Fundamentals Dokument"
+    },
+    "sourceDocument": {
+      "title": "Microsoft Entra Fundamentals",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "entra-fundamentals.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist Microsoft Entra?",
+        "options": [
+          "Ein Betriebssystem",
+          "Eine Identitäts- und Zugriffsverwaltungslösung",
+          "Eine Datenbank",
+          "Eine Programmiersprache"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Entra ist eine umfassende Identitäts- und Zugriffsverwaltungslösung, die früher als Azure Active Directory bekannt war.",
+        "source": {
+          "citation": "Microsoft Entra Einführung",
+          "pages": "S. 1-5",
+          "chapter": "Überblick"
+        },
+        "tags": ["Entra", "Identität", "Zugriffsverwaltung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Hauptfunktionen bietet Microsoft Entra?",
+        "options": [
+          "Nur Benutzerauthentifizierung",
+          "Identitätsverwaltung, Authentifizierung, Autorisierung und Zugriffskontrolle",
+          "Nur Passwort-Management",
+          "Nur Single Sign-On"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Entra bietet umfassende Funktionen für Identitätsverwaltung, Authentifizierung, Autorisierung und Zugriffskontrolle in Cloud- und Hybrid-Umgebungen.",
+        "source": {
+          "citation": "Entra Funktionen",
+          "pages": "S. 10-15",
+          "chapter": "Kernfunktionen"
+        },
+        "tags": ["Authentifizierung", "Autorisierung", "Zugriffskontrolle"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist Single Sign-On (SSO)?",
+        "options": [
+          "Ein Betriebssystem",
+          "Ein Authentifizierungsverfahren, das Benutzern den Zugriff auf mehrere Anwendungen mit einem Satz von Anmeldeinformationen ermöglicht",
+          "Eine Datenbank",
+          "Ein Netzwerk-Protokoll"
+        ],
+        "correctIndex": 1,
+        "explanation": "Single Sign-On ermöglicht es Benutzern, sich einmal anzumelden und dann ohne erneute Authentifizierung auf alle autorisierten Anwendungen und Services zuzugreifen.",
+        "source": {
+          "citation": "Single Sign-On",
+          "pages": "S. 20-25",
+          "chapter": "SSO"
+        },
+        "tags": ["SSO", "Authentifizierung", "Benutzerfreundlichkeit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Was ist Multi-Factor Authentication (MFA)?",
+        "options": [
+          "Ein einfaches Passwort-System",
+          "Ein Sicherheitsverfahren, das mehrere Authentifizierungsmethoden erfordert",
+          "Ein Netzwerk-Service",
+          "Ein Backup-System"
+        ],
+        "correctIndex": 1,
+        "explanation": "MFA ist ein Sicherheitsverfahren, das zwei oder mehr Authentifizierungsfaktoren erfordert, um die Identität eines Benutzers zu verifizieren.",
+        "source": {
+          "citation": "Multi-Factor Authentication",
+          "pages": "S. 30-35",
+          "chapter": "MFA"
+        },
+        "tags": ["MFA", "Sicherheit", "Authentifizierung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was ist Conditional Access?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Sicherheitsfeature, das Zugriffsrichtlinien basierend auf Bedingungen erzwingt",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Conditional Access ermöglicht es, Zugriffsrichtlinien basierend auf verschiedenen Bedingungen wie Gerät, Standort oder Risiko zu definieren und durchzusetzen.",
+        "source": {
+          "citation": "Conditional Access",
+          "pages": "S. 40-45",
+          "chapter": "Zugriffsrichtlinien"
+        },
+        "tags": ["Conditional Access", "Sicherheit", "Richtlinien"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q6",
+        "text": "Welche Arten von Benutzern kann Microsoft Entra verwalten?",
+        "options": [
+          "Nur Cloud-Benutzer",
+          "Cloud-Benutzer, lokale Benutzer und Gastbenutzer",
+          "Nur lokale Benutzer",
+          "Nur Gastbenutzer"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Entra kann verschiedene Benutzertypen verwalten: reine Cloud-Benutzer, synchronisierte lokale Benutzer und externe Gastbenutzer.",
+        "source": {
+          "citation": "Benutzertypen",
+          "pages": "S. 50-55",
+          "chapter": "Benutzerverwaltung"
+        },
+        "tags": ["Benutzertypen", "Cloud", "Lokal", "Gast"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist Azure AD Connect?",
+        "options": [
+          "Ein Backup-Tool",
+          "Ein Tool zur Synchronisation zwischen lokalen Active Directory und Microsoft Entra",
+          "Ein Netzwerk-Monitor",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AD Connect synchronisiert Benutzer, Gruppen und andere Objekte zwischen dem lokalen Active Directory und Microsoft Entra.",
+        "source": {
+          "citation": "Azure AD Connect",
+          "pages": "S. 60-65",
+          "chapter": "Synchronisation"
+        },
+        "tags": ["AD Connect", "Synchronisation", "Hybrid"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q8",
+        "text": "Welche Sicherheitsfeatures bietet Microsoft Entra?",
+        "options": [
+          "Nur Basis-Authentifizierung",
+          "MFA, Conditional Access, Identity Protection und Risikoerkennung",
+          "Nur Passwort-Policies",
+          "Nur Audit-Logs"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Entra bietet umfassende Sicherheitsfeatures wie MFA, Conditional Access, Identity Protection und erweiterte Risikoerkennung.",
+        "source": {
+          "citation": "Sicherheitsfeatures",
+          "pages": "S. 70-75",
+          "chapter": "Sicherheit"
+        },
+        "tags": ["Sicherheit", "Identity Protection", "Risikoerkennung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist Identity Protection?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service zur Erkennung und Abwehr von Identitätsrisiken",
+          "Ein Netzwerk-Monitor",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Identity Protection ist ein Service, der verdächtige Aktivitäten erkennt und automatische Schutzmaßnahmen gegen Identitätsrisiken ergreift.",
+        "source": {
+          "citation": "Identity Protection",
+          "pages": "S. 80-85",
+          "chapter": "Risikomanagement"
+        },
+        "tags": ["Identity Protection", "Risikoerkennung", "Automatisierung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Lizenzierungsoptionen gibt es für Microsoft Entra?",
+        "options": [
+          "Nur kostenpflichtige Lizenzen",
+          "Kostenlose, Basic, Premium P1 und Premium P2 Lizenzen",
+          "Nur kostenlose Lizenzen",
+          "Nur Enterprise-Lizenzen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Entra bietet verschiedene Lizenzierungsstufen: kostenlose Basis-Features, Basic, Premium P1 und Premium P2 mit erweiterten Sicherheitsfeatures.",
+        "source": {
+          "citation": "Lizenzierung",
+          "pages": "S. 90-95",
+          "chapter": "Lizenzierungsoptionen"
+        },
+        "tags": ["Lizenzierung", "Premium", "Enterprise"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist Azure AD Privileged Identity Management (PIM)?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für das Just-in-Time-Zugriff auf privilegierte Rollen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AD Privileged Identity Management (PIM) ermöglicht Just-in-Time-Zugriff auf privilegierte Rollen mit Genehmigung und Zeitbeschränkungen.",
+        "source": {
+          "citation": "Azure AD PIM",
+          "pages": "S. 100-105",
+          "chapter": "Privilegierte Identitäten"
+        },
+        "tags": ["PIM", "Privilegierte Rollen", "Just-in-Time"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q12",
+        "text": "Was ist Azure AD Application Proxy?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für den sicheren Remote-Zugriff auf lokale Anwendungen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AD Application Proxy ermöglicht den sicheren Remote-Zugriff auf lokale Web-Anwendungen ohne VPN.",
+        "source": {
+          "citation": "Azure AD Application Proxy",
+          "pages": "S. 110-115",
+          "chapter": "Remote-Zugriff"
+        },
+        "tags": ["Application Proxy", "Remote-Zugriff", "Lokale Apps"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist Azure AD B2C?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Identity-as-a-Service für Konsumenten-Identitäten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AD B2C ist ein Identity-as-a-Service für Konsumenten-Identitäten in Business-to-Consumer-Anwendungen.",
+        "source": {
+          "citation": "Azure AD B2C",
+          "pages": "S. 120-125",
+          "chapter": "Konsumenten-Identitäten"
+        },
+        "tags": ["Azure AD B2C", "Konsumenten", "Identity-as-a-Service"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist Azure AD B2B?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Zusammenarbeit mit externen Partnern",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AD B2B ermöglicht die sichere Zusammenarbeit mit externen Partnern durch Gast-Zugriff auf Unternehmensressourcen.",
+        "source": {
+          "citation": "Azure AD B2B",
+          "pages": "S. 130-135",
+          "chapter": "Partner-Zusammenarbeit"
+        },
+        "tags": ["Azure AD B2B", "Partner", "Gast-Zugriff"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist Azure AD Identity Protection?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service zur Erkennung und Abwehr von Identitätsrisiken",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AD Identity Protection erkennt verdächtige Aktivitäten und automatische Schutzmaßnahmen gegen Identitätsrisiken.",
+        "source": {
+          "citation": "Azure AD Identity Protection",
+          "pages": "S. 140-145",
+          "chapter": "Identitätsschutz"
+        },
+        "tags": ["Identity Protection", "Risikoerkennung", "Automatisierung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q16",
+        "text": "Welche Azure AD-Verwaltungstools gibt es?",
+        "options": [
+          "Nur Azure-Portal",
+          "Azure-Portal, PowerShell, Graph API und Azure AD Connect Health",
+          "Nur PowerShell",
+          "Nur Graph API"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AD bietet verschiedene Verwaltungstools: Azure-Portal, PowerShell, Microsoft Graph API und Azure AD Connect Health für Monitoring.",
+        "source": {
+          "citation": "Azure AD Verwaltungstools",
+          "pages": "S. 150-155",
+          "chapter": "Verwaltung"
+        },
+        "tags": ["Azure-Portal", "PowerShell", "Graph API"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist Microsoft Graph API?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine REST-API für den Zugriff auf Microsoft 365-Daten und -Services",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Graph API ist eine REST-API, die den Zugriff auf Microsoft 365-Daten und -Services ermöglicht.",
+        "source": {
+          "citation": "Microsoft Graph API",
+          "pages": "S. 160-165",
+          "chapter": "API-Zugriff"
+        },
+        "tags": ["Graph API", "REST-API", "Microsoft 365"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q18",
+        "text": "Was ist Azure AD Domain Services?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein verwalteter Domain-Service für die Integration mit lokalen Workloads",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AD Domain Services ist ein verwalteter Domain-Service, der die Integration von Azure-Workloads mit lokalen Active Directory-Domänen ermöglicht.",
+        "source": {
+          "citation": "Azure AD Domain Services",
+          "pages": "S. 170-175",
+          "chapter": "Domain-Services"
+        },
+        "tags": ["Domain Services", "Verwaltet", "Integration"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Welche Azure AD-Monitoring-Features gibt es?",
+        "options": [
+          "Nur Audit-Logs",
+          "Audit-Logs, Sign-in-Logs, Risiko-Ereignisse und Azure AD Connect Health",
+          "Nur Sign-in-Logs",
+          "Nur Risiko-Ereignisse"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AD bietet umfassende Monitoring-Features: Audit-Logs, Sign-in-Logs, Risiko-Ereignisse und Azure AD Connect Health für Hybrid-Umgebungen.",
+        "source": {
+          "citation": "Azure AD Monitoring",
+          "pages": "S. 180-185",
+          "chapter": "Überwachung"
+        },
+        "tags": ["Audit-Logs", "Sign-in-Logs", "Risiko-Ereignisse"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist Azure AD Self-Service Password Reset?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die selbstständige Passwort-Zurücksetzung durch Benutzer",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Azure AD Self-Service Password Reset ermöglicht es Benutzern, ihre Passwörter selbstständig zurückzusetzen, ohne IT-Support zu benötigen.",
+        "source": {
+          "citation": "Self-Service Password Reset",
+          "pages": "S. 190-195",
+          "chapter": "Passwort-Management"
+        },
+        "tags": ["Self-Service", "Passwort-Reset", "Benutzer-Selbsthilfe"],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

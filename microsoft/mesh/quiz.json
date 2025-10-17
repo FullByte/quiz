@@ -1,0 +1,406 @@
+{
+  "quiz": {
+    "title": "Microsoft Mesh",
+    "description": "Teste dein Wissen über Microsoft Mesh mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem Microsoft Mesh Dokument"
+    },
+    "sourceDocument": {
+      "title": "Microsoft Mesh",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "mesh.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist Microsoft Mesh?",
+        "options": [
+          "Ein Betriebssystem",
+          "Eine Mixed Reality-Plattform für Zusammenarbeit und Kommunikation",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh ist eine Mixed Reality-Plattform, die es Benutzern ermöglicht, in virtuellen und erweiterten Realitätsumgebungen zusammenzuarbeiten.",
+        "source": {
+          "citation": "Microsoft Mesh Einführung",
+          "pages": "S. 1-5",
+          "chapter": "Überblick"
+        },
+        "tags": ["Mesh", "Mixed Reality", "Zusammenarbeit"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Technologien nutzt Microsoft Mesh?",
+        "options": [
+          "Nur Virtual Reality",
+          "Virtual Reality, Augmented Reality und Mixed Reality",
+          "Nur Augmented Reality",
+          "Nur traditionelle Videokonferenzen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh nutzt verschiedene Reality-Technologien: Virtual Reality, Augmented Reality und Mixed Reality für immersive Zusammenarbeit.",
+        "source": {
+          "citation": "Mesh-Technologien",
+          "pages": "S. 10-15",
+          "chapter": "Technologie-Stack"
+        },
+        "tags": ["VR", "AR", "MR", "Technologien"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist Holoportation in Microsoft Mesh?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Technologie zur Übertragung von 3D-Hologrammen von Personen in Echtzeit",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Holoportation ermöglicht die Übertragung von 3D-Hologrammen von Personen in Echtzeit in Mixed Reality-Umgebungen.",
+        "source": {
+          "citation": "Holoportation",
+          "pages": "S. 20-25",
+          "chapter": "Holographische Kommunikation"
+        },
+        "tags": ["Holoportation", "Hologramme", "3D"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q4",
+        "text": "Welche Geräte unterstützt Microsoft Mesh?",
+        "options": [
+          "Nur HoloLens",
+          "HoloLens, VR-Headsets, Smartphones, Tablets und Desktop-Computer",
+          "Nur VR-Headsets",
+          "Nur Desktop-Computer"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh unterstützt eine breite Palette von Geräten: HoloLens, VR-Headsets, Smartphones, Tablets und Desktop-Computer für verschiedene Zugriffsmöglichkeiten.",
+        "source": {
+          "citation": "Unterstützte Geräte",
+          "pages": "S. 30-35",
+          "chapter": "Gerätekompatibilität"
+        },
+        "tags": ["Geräte", "HoloLens", "VR-Headsets", "Multi-Device"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was sind Mesh-Avatare?",
+        "options": [
+          "Programmiersprachen",
+          "Virtuelle Repräsentationen von Benutzern in Mesh-Umgebungen",
+          "Datenbanken",
+          "Netzwerk-Protokolle"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mesh-Avatare sind virtuelle Repräsentationen von Benutzern, die in Mixed Reality-Umgebungen für Zusammenarbeit und Kommunikation verwendet werden.",
+        "source": {
+          "citation": "Mesh-Avatare",
+          "pages": "S. 40-45",
+          "chapter": "Benutzerrepräsentation"
+        },
+        "tags": ["Avatare", "Virtuell", "Benutzerrepräsentation"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Welche Anwendungsbereiche hat Microsoft Mesh?",
+        "options": [
+          "Nur Gaming",
+          "Unternehmenszusammenarbeit, Schulung, Design, Fernwartung und soziale Interaktion",
+          "Nur Unternehmenszusammenarbeit",
+          "Nur Schulung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh findet Anwendung in verschiedenen Bereichen: Unternehmenszusammenarbeit, Schulung, Design, Fernwartung und sozialer Interaktion.",
+        "source": {
+          "citation": "Anwendungsbereiche",
+          "pages": "S. 50-55",
+          "chapter": "Use Cases"
+        },
+        "tags": ["Anwendungsbereiche", "Unternehmen", "Schulung", "Design"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist Microsoft Mesh für Teams?",
+        "options": [
+          "Ein Backup-Service",
+          "Die Integration von Mesh-Funktionen in Microsoft Teams für immersive Meetings",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh für Teams integriert Mixed Reality-Funktionen in Microsoft Teams, um immersive und interaktive Meetings zu ermöglichen.",
+        "source": {
+          "citation": "Mesh für Teams",
+          "pages": "S. 60-65",
+          "chapter": "Teams-Integration"
+        },
+        "tags": ["Teams", "Integration", "Meetings", "Immersiv"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q8",
+        "text": "Welche Sicherheitsfeatures bietet Microsoft Mesh?",
+        "options": [
+          "Keine Sicherheitsfeatures",
+          "Ende-zu-Ende-Verschlüsselung, Identitätsverwaltung und Datenschutz",
+          "Nur Basis-Verschlüsselung",
+          "Nur Identitätsverwaltung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh bietet umfassende Sicherheitsfeatures: Ende-zu-Ende-Verschlüsselung, robuste Identitätsverwaltung und Datenschutz-Maßnahmen.",
+        "source": {
+          "citation": "Sicherheitsfeatures",
+          "pages": "S. 70-75",
+          "chapter": "Sicherheit und Datenschutz"
+        },
+        "tags": ["Sicherheit", "Verschlüsselung", "Datenschutz"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist Spatial Computing in Microsoft Mesh?",
+        "options": [
+          "Ein Backup-Service",
+          "Die Verwendung von 3D-Raum und räumlichen Beziehungen für Computing und Interaktion",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Spatial Computing nutzt 3D-Raum und räumliche Beziehungen für Computing und Benutzerinteraktion in Mixed Reality-Umgebungen.",
+        "source": {
+          "citation": "Spatial Computing",
+          "pages": "S. 80-85",
+          "chapter": "Räumliches Computing"
+        },
+        "tags": ["Spatial Computing", "3D", "Räumlich", "Interaktion"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Lizenzierungsoptionen gibt es für Microsoft Mesh?",
+        "options": [
+          "Nur kostenpflichtige Lizenzen",
+          "Verschiedene Lizenzierungsstufen als Teil von Microsoft 365 oder als eigenständiger Service",
+          "Nur kostenlose Lizenzen",
+          "Nur Enterprise-Lizenzen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh ist als Teil von Microsoft 365-Lizenzen verfügbar oder kann als eigenständiger Service mit verschiedenen Lizenzierungsstufen erworben werden.",
+        "source": {
+          "citation": "Lizenzierung",
+          "pages": "S. 90-95",
+          "chapter": "Lizenzierungsoptionen"
+        },
+        "tags": ["Lizenzierung", "Microsoft 365", "Enterprise"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist Microsoft Mesh Avatars?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Erstellung und Anpassung von 3D-Avataren",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh Avatars ermöglicht die Erstellung und Anpassung von 3D-Avataren für immersive Zusammenarbeit in Mixed Reality-Umgebungen.",
+        "source": {
+          "citation": "Microsoft Mesh Avatars",
+          "pages": "S. 100-105",
+          "chapter": "Avatar-System"
+        },
+        "tags": ["Avatars", "3D", "Anpassung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Was ist Microsoft Mesh Spatial Audio?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Audio-System für räumliche Klangwiedergabe in Mixed Reality",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh Spatial Audio ermöglicht räumliche Klangwiedergabe, bei der Geräusche aus der Richtung kommen, wo sich die Person befindet.",
+        "source": {
+          "citation": "Microsoft Mesh Spatial Audio",
+          "pages": "S. 110-115",
+          "chapter": "Audio-System"
+        },
+        "tags": ["Spatial Audio", "Räumlich", "Audio"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist Microsoft Mesh Hand Tracking?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Technologie zur Erkennung und Verfolgung von Handbewegungen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh Hand Tracking erkennt und verfolgt Handbewegungen für natürliche Interaktionen in Mixed Reality-Umgebungen.",
+        "source": {
+          "citation": "Microsoft Mesh Hand Tracking",
+          "pages": "S. 120-125",
+          "chapter": "Interaktion"
+        },
+        "tags": ["Hand Tracking", "Handbewegungen", "Interaktion"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist Microsoft Mesh Shared Spaces?",
+        "options": [
+          "Ein Backup-Service",
+          "Gemeinsame virtuelle Räume für Zusammenarbeit mehrerer Benutzer",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh Shared Spaces sind gemeinsame virtuelle Räume, in denen mehrere Benutzer gleichzeitig zusammenarbeiten können.",
+        "source": {
+          "citation": "Microsoft Mesh Shared Spaces",
+          "pages": "S. 130-135",
+          "chapter": "Kollaboration"
+        },
+        "tags": ["Shared Spaces", "Virtuelle Räume", "Kollaboration"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist Microsoft Mesh Object Anchoring?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Technologie zum Verankern virtueller Objekte im realen Raum",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh Object Anchoring ermöglicht es, virtuelle Objekte präzise im realen Raum zu verankern und zu positionieren.",
+        "source": {
+          "citation": "Microsoft Mesh Object Anchoring",
+          "pages": "S. 140-145",
+          "chapter": "Spatial Computing"
+        },
+        "tags": ["Object Anchoring", "Virtuelle Objekte", "Verankerung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q16",
+        "text": "Welche Microsoft Mesh-Integrationen gibt es?",
+        "options": [
+          "Nur Microsoft Teams",
+          "Microsoft Teams, Outlook, SharePoint und Dynamics 365",
+          "Nur Outlook",
+          "Nur SharePoint"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh integriert sich mit Microsoft Teams, Outlook, SharePoint und Dynamics 365 für nahtlose Zusammenarbeit.",
+        "source": {
+          "citation": "Microsoft Mesh Integrationen",
+          "pages": "S. 150-155",
+          "chapter": "Ecosystem"
+        },
+        "tags": ["Teams", "Outlook", "SharePoint", "Dynamics 365"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist Microsoft Mesh Spatial Computing?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Technologie für Computing und Interaktion in 3D-Räumen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh Spatial Computing ermöglicht Computing und Interaktion in 3D-Räumen mit natürlichen Gesten und Bewegungen.",
+        "source": {
+          "citation": "Microsoft Mesh Spatial Computing",
+          "pages": "S. 160-165",
+          "chapter": "3D-Computing"
+        },
+        "tags": ["Spatial Computing", "3D", "Computing"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q18",
+        "text": "Was ist Microsoft Mesh Multi-Platform Support?",
+        "options": [
+          "Nur HoloLens",
+          "HoloLens, VR-Headsets, Smartphones, Tablets und Desktop-Computer",
+          "Nur VR-Headsets",
+          "Nur Smartphones"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh unterstützt verschiedene Plattformen: HoloLens, VR-Headsets, Smartphones, Tablets und Desktop-Computer für breite Zugänglichkeit.",
+        "source": {
+          "citation": "Microsoft Mesh Multi-Platform",
+          "pages": "S. 170-175",
+          "chapter": "Plattform-Unterstützung"
+        },
+        "tags": ["Multi-Platform", "HoloLens", "VR-Headsets", "Smartphones"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist Microsoft Mesh Network Optimization?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Technologie zur Optimierung der Netzwerk-Performance für Mixed Reality",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh Network Optimization optimiert die Netzwerk-Performance für Mixed Reality-Anwendungen mit niedriger Latenz und hoher Bandbreite.",
+        "source": {
+          "citation": "Microsoft Mesh Network Optimization",
+          "pages": "S. 180-185",
+          "chapter": "Performance"
+        },
+        "tags": ["Network Optimization", "Performance", "Latenz"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist Microsoft Mesh Developer Platform?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Plattform für Entwickler zur Erstellung von Mixed Reality-Anwendungen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Mesh Developer Platform bietet Tools und APIs für Entwickler zur Erstellung von benutzerdefinierten Mixed Reality-Anwendungen.",
+        "source": {
+          "citation": "Microsoft Mesh Developer Platform",
+          "pages": "S. 190-195",
+          "chapter": "Entwicklung"
+        },
+        "tags": ["Developer Platform", "APIs", "Entwicklung"],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}

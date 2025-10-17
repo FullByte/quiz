@@ -1,0 +1,406 @@
+{
+  "quiz": {
+    "title": "SQL Server 2022 (Version 17)",
+    "description": "Teste dein Wissen über SQL Server 2022 mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem SQL Server 2022 Dokument"
+    },
+    "sourceDocument": {
+      "title": "SQL Server 2022",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "sql-sql-server-ver17.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist SQL Server 2022?",
+        "options": [
+          "Ein Betriebssystem",
+          "Ein relationales Datenbankverwaltungssystem von Microsoft",
+          "Eine Programmiersprache",
+          "Ein Web-Framework"
+        ],
+        "correctIndex": 1,
+        "explanation": "SQL Server 2022 ist ein relationales Datenbankverwaltungssystem (RDBMS) von Microsoft mit erweiterten Features für Performance, Sicherheit und Cloud-Integration.",
+        "source": {
+          "citation": "SQL Server 2022 Einführung",
+          "pages": "S. 1-5",
+          "chapter": "Überblick"
+        },
+        "tags": ["SQL Server", "RDBMS", "Microsoft"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche neuen Features bietet SQL Server 2022?",
+        "options": [
+          "Nur bessere Performance",
+          "Azure-Integration, verbesserte Sicherheit, Query Store und erweiterte Analytics",
+          "Nur Azure-Integration",
+          "Nur verbesserte Sicherheit"
+        ],
+        "correctIndex": 1,
+        "explanation": "SQL Server 2022 bietet neue Features wie Azure-Integration, verbesserte Sicherheitsfeatures, Query Store und erweiterte Analytics-Funktionen.",
+        "source": {
+          "citation": "SQL Server 2022 Features",
+          "pages": "S. 10-15",
+          "chapter": "Neue Features"
+        },
+        "tags": ["Azure-Integration", "Sicherheit", "Query Store", "Analytics"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist Azure SQL Managed Instance Integration in SQL Server 2022?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Funktion zur nahtlosen Integration mit Azure SQL Managed Instance",
+          "Ein Netzwerk-Protokoll",
+          "Eine Programmiersprache"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Azure SQL Managed Instance Integration ermöglicht eine nahtlose Verbindung und Datenreplikation zwischen lokalen SQL Server-Instanzen und Azure SQL Managed Instance.",
+        "source": {
+          "citation": "Azure SQL Integration",
+          "pages": "S. 20-25",
+          "chapter": "Cloud-Integration"
+        },
+        "tags": ["Azure SQL", "Managed Instance", "Hybrid"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q4",
+        "text": "Was ist Query Store in SQL Server?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Feature zur Überwachung und Optimierung von Abfrageleistungen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Query Store ist ein Feature, das Abfrageleistungen überwacht, Performance-Metriken sammelt und bei der Optimierung von Abfragen hilft.",
+        "source": {
+          "citation": "Query Store",
+          "pages": "S. 30-35",
+          "chapter": "Performance-Monitoring"
+        },
+        "tags": ["Query Store", "Performance", "Monitoring"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Welche Sicherheitsfeatures bietet SQL Server 2022?",
+        "options": [
+          "Nur Transparent Data Encryption",
+          "Always Encrypted, Dynamic Data Masking, Row-Level Security und erweiterte Bedrohungsschutz",
+          "Nur Always Encrypted",
+          "Nur Dynamic Data Masking"
+        ],
+        "correctIndex": 1,
+        "explanation": "SQL Server 2022 bietet umfassende Sicherheitsfeatures: Always Encrypted, Dynamic Data Masking, Row-Level Security und erweiterte Bedrohungsschutz-Funktionen.",
+        "source": {
+          "citation": "Sicherheitsfeatures",
+          "pages": "S. 40-45",
+          "chapter": "Sicherheit"
+        },
+        "tags": ["Always Encrypted", "Data Masking", "Row-Level Security"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q6",
+        "text": "Was ist PolyBase in SQL Server 2022?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Technologie zur Abfrage von externen Datenquellen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Programmiersprache"
+        ],
+        "correctIndex": 1,
+        "explanation": "PolyBase ermöglicht es, externe Datenquellen wie Hadoop, Azure Blob Storage und andere Big Data-Systeme direkt aus SQL Server abzufragen.",
+        "source": {
+          "citation": "PolyBase",
+          "pages": "S. 50-55",
+          "chapter": "Big Data-Integration"
+        },
+        "tags": ["PolyBase", "Externe Datenquellen", "Big Data"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q7",
+        "text": "Welche Editionen von SQL Server 2022 gibt es?",
+        "options": [
+          "Nur Enterprise Edition",
+          "Enterprise, Standard, Developer, Express und Web Editionen",
+          "Nur Standard Edition",
+          "Nur Developer Edition"
+        ],
+        "correctIndex": 1,
+        "explanation": "SQL Server 2022 ist in verschiedenen Editionen verfügbar: Enterprise, Standard, Developer, Express und Web, je nach Anwendungsfall und Lizenzierung.",
+        "source": {
+          "citation": "SQL Server Editionen",
+          "pages": "S. 60-65",
+          "chapter": "Lizenzierung"
+        },
+        "tags": ["Enterprise", "Standard", "Developer", "Express"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Was ist In-Memory OLTP in SQL Server 2022?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine In-Memory-Technologie für transaktionale Workloads",
+          "Ein Netzwerk-Protokoll",
+          "Eine Programmiersprache"
+        ],
+        "correctIndex": 1,
+        "explanation": "In-Memory OLTP ist eine Technologie, die Tabellen und gespeicherte Prozeduren im Arbeitsspeicher speichert für extrem schnelle transaktionale Verarbeitung.",
+        "source": {
+          "citation": "In-Memory OLTP",
+          "pages": "S. 70-75",
+          "chapter": "Performance-Technologien"
+        },
+        "tags": ["In-Memory", "OLTP", "Performance"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist Columnstore in SQL Server 2022?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine spaltenbasierte Speichertechnologie für Analytics-Workloads",
+          "Ein Netzwerk-Protokoll",
+          "Eine Programmiersprache"
+        ],
+        "correctIndex": 1,
+        "explanation": "Columnstore ist eine spaltenbasierte Speichertechnologie, die für Analytics-Workloads optimiert ist und erhebliche Performance-Verbesserungen bietet.",
+        "source": {
+          "citation": "Columnstore",
+          "pages": "S. 80-85",
+          "chapter": "Analytics-Optimierung"
+        },
+        "tags": ["Columnstore", "Spaltenbasiert", "Analytics"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Lizenzierungsmodelle gibt es für SQL Server 2022?",
+        "options": [
+          "Nur Core-basierte Lizenzen",
+          "Core-basierte Lizenzen, Server + CAL und Azure SQL Hybrid Benefit",
+          "Nur Server + CAL",
+          "Nur Azure SQL Hybrid Benefit"
+        ],
+        "correctIndex": 1,
+        "explanation": "SQL Server 2022 bietet verschiedene Lizenzierungsmodelle: Core-basierte Lizenzen, Server + Client Access License (CAL) und Azure SQL Hybrid Benefit für Cloud-Migrationen.",
+        "source": {
+          "citation": "Lizenzierungsmodelle",
+          "pages": "S. 90-95",
+          "chapter": "Lizenzierungsoptionen"
+        },
+        "tags": ["Core-basiert", "Server + CAL", "Azure Hybrid Benefit"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist Always On Availability Groups in SQL Server 2022?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Hochverfügbarkeits- und Disaster-Recovery-Lösung",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Always On Availability Groups sind eine Hochverfügbarkeits- und Disaster-Recovery-Lösung, die Failover für eine Gruppe von Datenbanken ermöglicht.",
+        "source": {
+          "citation": "Always On Availability Groups",
+          "pages": "S. 100-105",
+          "chapter": "Hochverfügbarkeit"
+        },
+        "tags": ["Always On", "Availability Groups", "Hochverfügbarkeit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q12",
+        "text": "Welche SQL Server 2022 Performance-Features gibt es?",
+        "options": [
+          "Nur Query Store",
+          "Query Store, Intelligent Query Processing, Automatic Tuning und Accelerated Database Recovery",
+          "Nur Intelligent Query Processing",
+          "Nur Automatic Tuning"
+        ],
+        "correctIndex": 1,
+        "explanation": "SQL Server 2022 bietet umfassende Performance-Features: Query Store, Intelligent Query Processing, Automatic Tuning und Accelerated Database Recovery.",
+        "source": {
+          "citation": "Performance Features",
+          "pages": "S. 110-115",
+          "chapter": "Performance-Optimierung"
+        },
+        "tags": ["Performance", "Query Store", "Intelligent Query Processing"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist SQL Server Integration Services (SSIS)?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Plattform für Datenintegration und ETL-Prozesse",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "SQL Server Integration Services (SSIS) ist eine Plattform für Datenintegration, ETL-Prozesse und Workflow-Anwendungen.",
+        "source": {
+          "citation": "SQL Server Integration Services",
+          "pages": "S. 120-125",
+          "chapter": "Datenintegration"
+        },
+        "tags": ["SSIS", "ETL", "Datenintegration"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist SQL Server Analysis Services (SSAS)?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Plattform für Online Analytical Processing (OLAP) und Data Mining",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "SQL Server Analysis Services (SSAS) ist eine Plattform für Online Analytical Processing (OLAP) und Data Mining für Business Intelligence.",
+        "source": {
+          "citation": "SQL Server Analysis Services",
+          "pages": "S. 130-135",
+          "chapter": "Business Intelligence"
+        },
+        "tags": ["SSAS", "OLAP", "Data Mining", "BI"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist SQL Server Reporting Services (SSRS)?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Plattform für die Erstellung und Bereitstellung von Berichten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "SQL Server Reporting Services (SSRS) ist eine Plattform für die Erstellung, Verwaltung und Bereitstellung von Berichten.",
+        "source": {
+          "citation": "SQL Server Reporting Services",
+          "pages": "S. 140-145",
+          "chapter": "Reporting"
+        },
+        "tags": ["SSRS", "Reporting", "Berichte"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Welche SQL Server 2022 Sicherheitsfeatures gibt es?",
+        "options": [
+          "Nur Transparent Data Encryption",
+          "TDE, Always Encrypted, Dynamic Data Masking, Row-Level Security und Advanced Threat Protection",
+          "Nur Always Encrypted",
+          "Nur Dynamic Data Masking"
+        ],
+        "correctIndex": 1,
+        "explanation": "SQL Server 2022 bietet umfassende Sicherheitsfeatures: TDE, Always Encrypted, Dynamic Data Masking, Row-Level Security und Advanced Threat Protection.",
+        "source": {
+          "citation": "Sicherheitsfeatures",
+          "pages": "S. 150-155",
+          "chapter": "Sicherheit"
+        },
+        "tags": ["TDE", "Always Encrypted", "Dynamic Data Masking"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist SQL Server Machine Learning Services?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Integration von R und Python in SQL Server",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "SQL Server Machine Learning Services ermöglicht die Ausführung von R und Python-Skripten direkt in SQL Server für Machine Learning und Data Science.",
+        "source": {
+          "citation": "Machine Learning Services",
+          "pages": "S. 160-165",
+          "chapter": "Machine Learning"
+        },
+        "tags": ["Machine Learning", "R", "Python", "Data Science"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q18",
+        "text": "Was ist SQL Server Big Data Clusters?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Lösung für Big Data und AI-Workloads mit SQL Server, Spark und HDFS",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "SQL Server Big Data Clusters ist eine Lösung, die SQL Server, Apache Spark und HDFS kombiniert für Big Data und AI-Workloads.",
+        "source": {
+          "citation": "Big Data Clusters",
+          "pages": "S. 170-175",
+          "chapter": "Big Data"
+        },
+        "tags": ["Big Data", "Spark", "HDFS", "AI"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Welche Azure-Integrationen bietet SQL Server 2022?",
+        "options": [
+          "Nur Azure SQL Database",
+          "Azure SQL Database, Azure Backup, Azure Monitor und Azure Arc",
+          "Nur Azure Backup",
+          "Nur Azure Monitor"
+        ],
+        "correctIndex": 1,
+        "explanation": "SQL Server 2022 bietet umfassende Azure-Integrationen: Azure SQL Database, Azure Backup, Azure Monitor und Azure Arc für Hybrid-Cloud-Szenarien.",
+        "source": {
+          "citation": "Azure Integration",
+          "pages": "S. 180-185",
+          "chapter": "Cloud-Integration"
+        },
+        "tags": ["Azure SQL", "Azure Backup", "Azure Arc"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist SQL Server Containers?",
+        "options": [
+          "Ein Backup-Service",
+          "Die Möglichkeit, SQL Server in Docker-Containern auszuführen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "SQL Server unterstützt die Ausführung in Docker-Containern, was die Bereitstellung und Skalierung in modernen Umgebungen vereinfacht.",
+        "source": {
+          "citation": "SQL Server Containers",
+          "pages": "S. 190-195",
+          "chapter": "Containerisierung"
+        },
+        "tags": ["Container", "Docker", "Modernisierung"],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}

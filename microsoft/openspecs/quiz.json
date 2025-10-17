@@ -1,0 +1,406 @@
+{
+  "quiz": {
+    "title": "Microsoft Open Specifications",
+    "description": "Teste dein Wissen über Microsoft Open Specifications mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem Microsoft Open Specifications Dokument"
+    },
+    "sourceDocument": {
+      "title": "Microsoft Open Specifications",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "openspecs.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was sind Microsoft Open Specifications?",
+        "options": [
+          "Ein Betriebssystem",
+          "Technische Dokumentationen von Microsoft-Protokollen und -Formaten",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Open Specifications sind technische Dokumentationen, die Microsoft-Protokolle und -Dateiformate detailliert beschreiben, um Interoperabilität zu ermöglichen.",
+        "source": {
+          "citation": "Open Specifications Einführung",
+          "pages": "S. 1-5",
+          "chapter": "Überblick"
+        },
+        "tags": ["Open Specifications", "Dokumentation", "Protokolle"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welchen Zweck erfüllen Microsoft Open Specifications?",
+        "options": [
+          "Nur Marketing",
+          "Interoperabilität, Transparenz und Unterstützung der Entwicklergemeinde",
+          "Nur Sicherheit",
+          "Nur Performance"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Open Specifications dienen der Interoperabilität zwischen verschiedenen Systemen, bieten Transparenz und unterstützen die Entwicklergemeinde bei der Integration.",
+        "source": {
+          "citation": "Zweck der Specifications",
+          "pages": "S. 10-15",
+          "chapter": "Ziele"
+        },
+        "tags": ["Interoperabilität", "Transparenz", "Entwicklergemeinde"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Welche Arten von Dokumentationen umfassen die Open Specifications?",
+        "options": [
+          "Nur Protokoll-Spezifikationen",
+          "Protokoll-Spezifikationen, Dateiformat-Dokumentationen und API-Referenzen",
+          "Nur Dateiformat-Dokumentationen",
+          "Nur API-Referenzen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Open Specifications umfassen Protokoll-Spezifikationen, Dateiformat-Dokumentationen und API-Referenzen für verschiedene Microsoft-Technologien.",
+        "source": {
+          "citation": "Dokumentationsarten",
+          "pages": "S. 20-25",
+          "chapter": "Kategorien"
+        },
+        "tags": ["Protokolle", "Dateiformate", "APIs"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Was ist das Microsoft Open Specification Promise?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine rechtliche Zusicherung bezüglich der Nutzung von Microsoft-Patenten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Microsoft Open Specification Promise ist eine rechtliche Zusicherung, die die Nutzung von Microsoft-Patenten in Verbindung mit den Open Specifications regelt.",
+        "source": {
+          "citation": "Open Specification Promise",
+          "pages": "S. 30-35",
+          "chapter": "Rechtliche Aspekte"
+        },
+        "tags": ["Promise", "Patente", "Rechtlich"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q5",
+        "text": "Welche Microsoft-Protokolle sind in den Open Specifications dokumentiert?",
+        "options": [
+          "Nur Office-Protokolle",
+          "Office-Protokolle, Windows-Protokolle, Exchange-Protokolle und viele weitere",
+          "Nur Windows-Protokolle",
+          "Nur Exchange-Protokolle"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Open Specifications dokumentieren eine breite Palette von Microsoft-Protokollen: Office, Windows, Exchange und viele weitere Systeme und Services.",
+        "source": {
+          "citation": "Protokoll-Kategorien",
+          "pages": "S. 40-45",
+          "chapter": "Protokoll-Übersicht"
+        },
+        "tags": ["Office", "Windows", "Exchange", "Protokolle"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Was ist das Office Open XML Format?",
+        "options": [
+          "Ein Betriebssystem",
+          "Ein offenes Dateiformat für Office-Dokumente",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Office Open XML ist ein offenes, standardisiertes Dateiformat für Office-Dokumente, das in den Open Specifications dokumentiert ist.",
+        "source": {
+          "citation": "Office Open XML",
+          "pages": "S. 50-55",
+          "chapter": "Dateiformate"
+        },
+        "tags": ["Office Open XML", "Dateiformat", "Standardisiert"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Welche Vorteile bieten die Open Specifications für Entwickler?",
+        "options": [
+          "Nur niedrigere Kosten",
+          "Bessere Integration, Interoperabilität und vereinfachte Entwicklung",
+          "Nur schnellere Entwicklung",
+          "Nur einfachere Bedienung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Open Specifications ermöglichen Entwicklern bessere Integration mit Microsoft-Systemen, verbesserte Interoperabilität und vereinfachte Entwicklung von kompatiblen Anwendungen.",
+        "source": {
+          "citation": "Entwicklervorteile",
+          "pages": "S. 60-65",
+          "chapter": "Entwicklerunterstützung"
+        },
+        "tags": ["Entwicklervorteile", "Integration", "Kompatibilität"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Wo kann man die Microsoft Open Specifications finden?",
+        "options": [
+          "Nur in Microsoft-Office",
+          "Auf der Microsoft-Dokumentationswebsite, GitHub und anderen offiziellen Quellen",
+          "Nur auf GitHub",
+          "Nur in lokalen Dokumentationen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Microsoft Open Specifications sind auf der offiziellen Microsoft-Dokumentationswebsite, GitHub und anderen offiziellen Quellen verfügbar.",
+        "source": {
+          "citation": "Verfügbarkeit",
+          "pages": "S. 70-75",
+          "chapter": "Zugriff"
+        },
+        "tags": ["Verfügbarkeit", "Dokumentationswebsite", "GitHub"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist das Microsoft Interoperability Principles Document?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Dokument, das Microsofts Prinzipien für Interoperabilität beschreibt",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Microsoft Interoperability Principles Document beschreibt Microsofts Prinzipien und Ansätze für Interoperabilität und offene Standards.",
+        "source": {
+          "citation": "Interoperability Principles",
+          "pages": "S. 80-85",
+          "chapter": "Prinzipien"
+        },
+        "tags": ["Interoperability", "Prinzipien", "Offene Standards"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Rolle spielen Open Specifications bei der Cloud-Migration?",
+        "options": [
+          "Keine Rolle",
+          "Sie erleichtern die Migration und Integration von lokalen Systemen in Cloud-Umgebungen",
+          "Sie erschweren die Migration",
+          "Sie sind nur für lokale Systeme relevant"
+        ],
+        "correctIndex": 1,
+        "explanation": "Open Specifications erleichtern die Cloud-Migration, indem sie standardisierte Wege für die Integration und den Datenaustausch zwischen lokalen und Cloud-Systemen bieten.",
+        "source": {
+          "citation": "Cloud-Migration",
+          "pages": "S. 90-95",
+          "chapter": "Cloud-Integration"
+        },
+        "tags": ["Cloud-Migration", "Integration", "Datenaustausch"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q11",
+        "text": "Was sind Microsoft Open Specifications für Office-Dateiformate?",
+        "options": [
+          "Ein Backup-Service",
+          "Spezifikationen für die Interoperabilität mit Microsoft Office-Dateiformaten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Open Specifications für Office-Dateiformate ermöglichen die Interoperabilität mit Word, Excel, PowerPoint und anderen Office-Dateien.",
+        "source": {
+          "citation": "Office-Dateiformate",
+          "pages": "S. 100-105",
+          "chapter": "Office-Interoperabilität"
+        },
+        "tags": ["Office", "Dateiformate", "Interoperabilität"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q12",
+        "text": "Was sind Microsoft Open Specifications für Exchange-Protokolle?",
+        "options": [
+          "Ein Backup-Service",
+          "Spezifikationen für die Interoperabilität mit Microsoft Exchange-Servern",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Open Specifications für Exchange-Protokolle ermöglichen die Interoperabilität mit Microsoft Exchange-Servern für E-Mail und Kalender.",
+        "source": {
+          "citation": "Exchange-Protokolle",
+          "pages": "S. 110-115",
+          "chapter": "Exchange-Interoperabilität"
+        },
+        "tags": ["Exchange", "Protokolle", "E-Mail"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was sind Microsoft Open Specifications für SharePoint-APIs?",
+        "options": [
+          "Ein Backup-Service",
+          "Spezifikationen für die Interoperabilität mit Microsoft SharePoint-Servern",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Open Specifications für SharePoint-APIs ermöglichen die Interoperabilität mit Microsoft SharePoint-Servern für Dokumenten- und Zusammenarbeitsplattformen.",
+        "source": {
+          "citation": "SharePoint-APIs",
+          "pages": "S. 120-125",
+          "chapter": "SharePoint-Interoperabilität"
+        },
+        "tags": ["SharePoint", "APIs", "Zusammenarbeit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Was sind Microsoft Open Specifications für Active Directory?",
+        "options": [
+          "Ein Backup-Service",
+          "Spezifikationen für die Interoperabilität mit Microsoft Active Directory-Diensten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Open Specifications für Active Directory ermöglichen die Interoperabilität mit Microsoft Active Directory-Diensten für Identitäts- und Zugriffsverwaltung.",
+        "source": {
+          "citation": "Active Directory",
+          "pages": "S. 130-135",
+          "chapter": "AD-Interoperabilität"
+        },
+        "tags": ["Active Directory", "Identität", "Zugriffsverwaltung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q15",
+        "text": "Was sind Microsoft Open Specifications für Windows-APIs?",
+        "options": [
+          "Ein Backup-Service",
+          "Spezifikationen für die Interoperabilität mit Microsoft Windows-Betriebssystemen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Open Specifications für Windows-APIs ermöglichen die Interoperabilität mit Microsoft Windows-Betriebssystemen und deren Diensten.",
+        "source": {
+          "citation": "Windows-APIs",
+          "pages": "S. 140-145",
+          "chapter": "Windows-Interoperabilität"
+        },
+        "tags": ["Windows", "APIs", "Betriebssystem"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q16",
+        "text": "Was sind Microsoft Open Specifications für Azure-Services?",
+        "options": [
+          "Ein Backup-Service",
+          "Spezifikationen für die Interoperabilität mit Microsoft Azure-Cloud-Services",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Open Specifications für Azure-Services ermöglichen die Interoperabilität mit Microsoft Azure-Cloud-Services und deren APIs.",
+        "source": {
+          "citation": "Azure-Services",
+          "pages": "S. 150-155",
+          "chapter": "Azure-Interoperabilität"
+        },
+        "tags": ["Azure", "Cloud-Services", "APIs"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q17",
+        "text": "Was sind Microsoft Open Specifications für SQL Server-Protokolle?",
+        "options": [
+          "Ein Backup-Service",
+          "Spezifikationen für die Interoperabilität mit Microsoft SQL Server-Datenbanken",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Open Specifications für SQL Server-Protokolle ermöglichen die Interoperabilität mit Microsoft SQL Server-Datenbanken und deren Abfrage-Protokollen.",
+        "source": {
+          "citation": "SQL Server-Protokolle",
+          "pages": "S. 160-165",
+          "chapter": "SQL-Interoperabilität"
+        },
+        "tags": ["SQL Server", "Datenbanken", "Protokolle"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q18",
+        "text": "Was sind Microsoft Open Specifications für PowerShell?",
+        "options": [
+          "Ein Backup-Service",
+          "Spezifikationen für die Interoperabilität mit Microsoft PowerShell-Befehlen und -Skripten",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Open Specifications für PowerShell ermöglichen die Interoperabilität mit Microsoft PowerShell-Befehlen, -Skripten und -Modulen.",
+        "source": {
+          "citation": "PowerShell",
+          "pages": "S. 170-175",
+          "chapter": "PowerShell-Interoperabilität"
+        },
+        "tags": ["PowerShell", "Befehle", "Skripte"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Was sind Microsoft Open Specifications für .NET-Frameworks?",
+        "options": [
+          "Ein Backup-Service",
+          "Spezifikationen für die Interoperabilität mit Microsoft .NET-Frameworks und -Bibliotheken",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Open Specifications für .NET-Frameworks ermöglichen die Interoperabilität mit Microsoft .NET-Frameworks, -Bibliotheken und -Laufzeiten.",
+        "source": {
+          "citation": ".NET-Frameworks",
+          "pages": "S. 180-185",
+          "chapter": ".NET-Interoperabilität"
+        },
+        "tags": [".NET", "Frameworks", "Bibliotheken"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q20",
+        "text": "Was sind Microsoft Open Specifications für Windows-Protokolle?",
+        "options": [
+          "Ein Backup-Service",
+          "Spezifikationen für die Interoperabilität mit Microsoft Windows-Netzwerk- und System-Protokollen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Microsoft Open Specifications für Windows-Protokolle ermöglichen die Interoperabilität mit Microsoft Windows-Netzwerk- und System-Protokollen.",
+        "source": {
+          "citation": "Windows-Protokolle",
+          "pages": "S. 190-195",
+          "chapter": "Protokoll-Interoperabilität"
+        },
+        "tags": ["Windows", "Protokolle", "Netzwerk"],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "quiz": {
+    "title": "IIS Configuration",
+    "description": "Teste dein Wissen über IIS-Konfiguration mit {questionCount} Fragen aus dem offiziellen Microsoft-Dokument.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-27T12:00:00Z",
+      "notes": "Quiz basierend auf dem IIS Configuration Dokument"
+    },
+    "sourceDocument": {
+      "title": "IIS Configuration",
+      "version": "1.0",
+      "year": 2025,
+      "pdfFilename": "iis-configuration.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist IIS?",
+        "options": [
+          "Ein Betriebssystem",
+          "Internet Information Services - ein Webserver von Microsoft",
+          "Eine Programmiersprache",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS (Internet Information Services) ist ein Webserver von Microsoft, der auf Windows-Servern läuft und Web-Anwendungen hostet.",
+        "source": {
+          "citation": "IIS Einführung",
+          "pages": "S. 1-5",
+          "chapter": "Überblick"
+        },
+        "tags": ["IIS", "Webserver", "Microsoft"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche Hauptkomponenten hat IIS?",
+        "options": [
+          "Nur Web-Sites",
+          "Web-Sites, Anwendungen, Virtuelle Verzeichnisse und Module",
+          "Nur Anwendungen",
+          "Nur Module"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS besteht aus Web-Sites, Anwendungen, virtuellen Verzeichnissen und Modulen als Hauptkomponenten für die Webserver-Funktionalität.",
+        "source": {
+          "citation": "IIS Komponenten",
+          "pages": "S. 10-15",
+          "chapter": "Architektur"
+        },
+        "tags": ["Komponenten", "Web-Sites", "Module"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist eine Web-Site in IIS?",
+        "options": [
+          "Eine HTML-Datei",
+          "Ein Container für Web-Anwendungen mit einer eindeutigen IP-Adresse und Port",
+          "Ein CSS-Stylesheet",
+          "Eine JavaScript-Datei"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Web-Site in IIS ist ein Container, der Web-Anwendungen hostet und durch eine eindeutige Kombination aus IP-Adresse, Port und Host-Header identifiziert wird.",
+        "source": {
+          "citation": "Web-Sites",
+          "pages": "S. 20-25",
+          "chapter": "Site-Management"
+        },
+        "tags": ["Web-Sites", "Container", "Hosting"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Was sind IIS-Module?",
+        "options": [
+          "Programmiersprachen",
+          "Komponenten, die spezifische Funktionen für den Webserver bereitstellen",
+          "Datenbanken",
+          "Betriebssysteme"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS-Module sind Komponenten, die spezifische Funktionen wie Authentifizierung, Kompression oder URL-Rewriting für den Webserver bereitstellen.",
+        "source": {
+          "citation": "IIS Module",
+          "pages": "S. 30-35",
+          "chapter": "Modulare Architektur"
+        },
+        "tags": ["Module", "Funktionen", "Erweiterbarkeit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q5",
+        "text": "Was ist die IIS-Manager-Konsole?",
+        "options": [
+          "Ein Backup-Tool",
+          "Eine grafische Benutzeroberfläche zur Verwaltung von IIS",
+          "Ein Netzwerk-Monitor",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die IIS-Manager-Konsole ist eine grafische Benutzeroberfläche, die Administratoren bei der Konfiguration und Verwaltung von IIS-Webservern unterstützt.",
+        "source": {
+          "citation": "IIS Manager",
+          "pages": "S. 40-45",
+          "chapter": "Verwaltungstools"
+        },
+        "tags": ["IIS Manager", "GUI", "Verwaltung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q6",
+        "text": "Welche Authentifizierungsmethoden unterstützt IIS?",
+        "options": [
+          "Nur anonyme Authentifizierung",
+          "Anonym, Basic, Digest, Windows und Client-Zertifikat-Authentifizierung",
+          "Nur Windows-Authentifizierung",
+          "Nur Basic-Authentifizierung"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS unterstützt verschiedene Authentifizierungsmethoden: anonyme, Basic, Digest, Windows- und Client-Zertifikat-Authentifizierung.",
+        "source": {
+          "citation": "Authentifizierung",
+          "pages": "S. 50-55",
+          "chapter": "Sicherheit"
+        },
+        "tags": ["Authentifizierung", "Sicherheit", "Methoden"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist URL-Rewriting in IIS?",
+        "options": [
+          "Ein Backup-Service",
+          "Eine Funktion zur Umleitung und Neuschreibung von URLs",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "URL-Rewriting ermöglicht es, eingehende URLs zu analysieren und umzuleiten oder zu verändern, bevor sie verarbeitet werden.",
+        "source": {
+          "citation": "URL-Rewriting",
+          "pages": "S. 60-65",
+          "chapter": "URL-Management"
+        },
+        "tags": ["URL-Rewriting", "Umleitung", "URL-Management"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q8",
+        "text": "Welche Protokolle unterstützt IIS?",
+        "options": [
+          "Nur HTTP",
+          "HTTP, HTTPS, FTP und WebDAV",
+          "Nur HTTPS",
+          "Nur FTP"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS unterstützt verschiedene Protokolle: HTTP für Web-Traffic, HTTPS für sichere Verbindungen, FTP für Dateiübertragung und WebDAV für Dateimanagement.",
+        "source": {
+          "citation": "Protokolle",
+          "pages": "S. 70-75",
+          "chapter": "Netzwerkprotokolle"
+        },
+        "tags": ["HTTP", "HTTPS", "FTP", "WebDAV"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist die IIS-Konfigurationsdatei?",
+        "options": [
+          "Eine HTML-Datei",
+          "Die web.config oder applicationHost.config Datei mit IIS-Einstellungen",
+          "Eine CSS-Datei",
+          "Eine JavaScript-Datei"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS verwendet Konfigurationsdateien wie web.config und applicationHost.config, um Einstellungen für Web-Sites und Anwendungen zu speichern.",
+        "source": {
+          "citation": "Konfigurationsdateien",
+          "pages": "S. 80-85",
+          "chapter": "Konfiguration"
+        },
+        "tags": ["web.config", "Konfiguration", "XML"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Monitoring-Features bietet IIS?",
+        "options": [
+          "Nur Log-Dateien",
+          "Logging, Performance-Monitoring, Health-Monitoring und Request-Tracing",
+          "Nur Performance-Monitoring",
+          "Nur Health-Monitoring"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS bietet umfassende Monitoring-Features: Logging, Performance-Monitoring, Health-Monitoring und Request-Tracing für die Überwachung der Webserver-Performance.",
+        "source": {
+          "citation": "Monitoring",
+          "pages": "S. 90-95",
+          "chapter": "Überwachung"
+        },
+        "tags": ["Monitoring", "Logging", "Performance"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist IIS Application Pools?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Container für die Isolation und Verwaltung von Web-Anwendungen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS Application Pools sind Container, die Web-Anwendungen isolieren und deren Lebenszyklus, Identität und Ressourcenverwaltung kontrollieren.",
+        "source": {
+          "citation": "IIS Application Pools",
+          "pages": "S. 100-105",
+          "chapter": "Anwendungsverwaltung"
+        },
+        "tags": ["Application Pools", "Isolation", "Anwendungen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q12",
+        "text": "Was ist IIS Virtual Directories?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Verweis auf physische Verzeichnisse außerhalb der Website-Struktur",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS Virtual Directories sind Verweise auf physische Verzeichnisse außerhalb der Website-Struktur, die als Teil der Website erscheinen.",
+        "source": {
+          "citation": "IIS Virtual Directories",
+          "pages": "S. 110-115",
+          "chapter": "Verzeichnisverwaltung"
+        },
+        "tags": ["Virtual Directories", "Verzeichnisse", "Struktur"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist IIS URL Rewriting?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Umleitung und Neuschreibung von URLs",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS URL Rewriting ermöglicht die Umleitung und Neuschreibung von URLs für bessere SEO und benutzerfreundliche Adressen.",
+        "source": {
+          "citation": "IIS URL Rewriting",
+          "pages": "S. 120-125",
+          "chapter": "URL-Management"
+        },
+        "tags": ["URL Rewriting", "Umleitung", "SEO"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist IIS Compression?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Komprimierung von Inhalten zur Verbesserung der Performance",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS Compression komprimiert statische und dynamische Inhalte, um die Übertragungsgeschwindigkeit und Performance zu verbessern.",
+        "source": {
+          "citation": "IIS Compression",
+          "pages": "S. 130-135",
+          "chapter": "Performance-Optimierung"
+        },
+        "tags": ["Compression", "Komprimierung", "Performance"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist IIS Caching?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Zwischenspeicherung von Inhalten zur Verbesserung der Performance",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS Caching speichert häufig abgerufene Inhalte zwischen, um die Antwortzeiten zu verkürzen und die Serverlast zu reduzieren.",
+        "source": {
+          "citation": "IIS Caching",
+          "pages": "S. 140-145",
+          "chapter": "Performance-Optimierung"
+        },
+        "tags": ["Caching", "Zwischenspeicherung", "Performance"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q16",
+        "text": "Was ist IIS SSL/TLS?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Verschlüsselung von Web-Kommunikation",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS SSL/TLS ermöglicht die Verschlüsselung von Web-Kommunikation für sichere HTTPS-Verbindungen.",
+        "source": {
+          "citation": "IIS SSL/TLS",
+          "pages": "S. 150-155",
+          "chapter": "Sicherheit"
+        },
+        "tags": ["SSL", "TLS", "Verschlüsselung", "HTTPS"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist IIS Authentication?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Authentifizierung von Benutzern und Anwendungen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS Authentication bietet verschiedene Authentifizierungsmethoden wie Windows Authentication, Forms Authentication und OAuth.",
+        "source": {
+          "citation": "IIS Authentication",
+          "pages": "S. 160-165",
+          "chapter": "Sicherheit"
+        },
+        "tags": ["Authentication", "Authentifizierung", "Sicherheit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q18",
+        "text": "Was ist IIS Request Filtering?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Filterung und Blockierung von HTTP-Anfragen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS Request Filtering filtert und blockiert HTTP-Anfragen basierend auf verschiedenen Kriterien wie Dateierweiterungen, URLs und Headers.",
+        "source": {
+          "citation": "IIS Request Filtering",
+          "pages": "S. 170-175",
+          "chapter": "Sicherheit"
+        },
+        "tags": ["Request Filtering", "Filterung", "HTTP-Anfragen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist IIS Logging?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Protokollierung von Website-Aktivitäten und -Ereignissen",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS Logging protokolliert Website-Aktivitäten, HTTP-Anfragen und Server-Ereignisse für Analyse und Troubleshooting.",
+        "source": {
+          "citation": "IIS Logging",
+          "pages": "S. 180-185",
+          "chapter": "Überwachung"
+        },
+        "tags": ["Logging", "Protokollierung", "Überwachung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist IIS Health Monitoring?",
+        "options": [
+          "Ein Backup-Service",
+          "Ein Service für die Überwachung der Gesundheit und Performance von IIS",
+          "Ein Netzwerk-Protokoll",
+          "Eine Datenbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "IIS Health Monitoring überwacht die Gesundheit, Performance und Verfügbarkeit von IIS-Servern und -Anwendungen.",
+        "source": {
+          "citation": "IIS Health Monitoring",
+          "pages": "S. 190-195",
+          "chapter": "Überwachung"
+        },
+        "tags": ["Health Monitoring", "Überwachung", "Performance"],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}
