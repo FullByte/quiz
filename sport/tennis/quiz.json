@@ -26,9 +26,9 @@
         "text": "Wie lang ist das Spielfeld für Einzelspiele laut Regel 1 der ITF-Tennisregeln?",
         "options": [
           "23,77 m",
-          "Eine ähnliche Sporttechnik",
-          "Eine verwandte Regelung",
-          "Ein vergleichbares Fachverfahren"
+          "24,00 m (wie bei Doppelspielen)",
+          "22,50 m (wie bei Jugendspielen)",
+          "25,00 m (wie bei Profispielen)"
         ],
         "correctIndex": 0,
         "explanation": "Das Spielfeld für Einzelspiele ist 23,77 m lang. Andere Längen sind nicht in den offiziellen Regeln vorgesehen.",
@@ -48,9 +48,9 @@
         "text": "Welche Höhe hat das Netz in der Mitte des Spielfelds?",
         "options": [
           "91,4 cm",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "90,0 cm (wie bei Jugendspielen)",
+          "95,0 cm (wie bei Seniorenspielen)",
+          "88,0 cm (wie bei Damenspielen)"
         ],
         "correctIndex": 0,
         "explanation": "Das Netz ist in der Mitte 91,4 cm hoch. 107 cm ist die Höhe an den Netzpfosten.",

@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was sind Microsoft Sysinternals?",
         "options": [
-          "Ein Google Cloud Service",
+          "Ein einfaches Tool nur für die Verwaltung von Windows-Updates",
           "Eine Sammlung von erweiterten Systemverwaltungstools für Windows",
-          "Eine AWS Funktion",
-          "Ein Open Source Tool"
+          "Ein Service nur für die Überwachung von Netzwerkverbindungen",
+          "Ein lokales Tool nur für die Datensicherung"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Sysinternals sind eine Sammlung von erweiterten Systemverwaltungstools, die von Mark Russinovich entwickelt wurden und tiefe Einblicke in Windows-Systeme bieten.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Wer hat die Sysinternals-Tools ursprünglich entwickelt?",
         "options": [
-          "Ein Google Service",
+          "Microsoft Corporation direkt",
           "Mark Russinovich",
-          "Eine AWS Lösung",
-          "Ein Open Source Framework"
+          "Ein Team von Microsoft-Mitarbeitern",
+          "Die Windows-Entwicklungsabteilung von Microsoft"
         ],
         "correctIndex": 1,
         "explanation": "Mark Russinovich hat die Sysinternals-Tools ursprünglich entwickelt, bevor Microsoft die Tools und das Team übernommen hat.",

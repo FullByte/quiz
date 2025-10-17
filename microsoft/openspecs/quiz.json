@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was sind Microsoft Open Specifications?",
         "options": [
-          "Ein Google Cloud Service",
+          "Kostenlose Microsoft-Software für Entwickler",
           "Technische Dokumentationen von Microsoft-Protokollen und -Formaten",
-          "Eine AWS Funktion",
-          "Ein Open Source Tool"
+          "Offene Quellcodes von Microsoft-Produkten",
+          "Microsoft-spezifische Programmiersprachen"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Open Specifications sind technische Dokumentationen, die Microsoft-Protokolle und -Dateiformate detailliert beschreiben, um Interoperabilität zu ermöglichen.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welchen Zweck erfüllen Microsoft Open Specifications?",
         "options": [
-          "Ein Google Cloud Service",
+          "Nur die Bereitstellung von kostenlosen Software-Tools",
           "Interoperabilität, Transparenz und Unterstützung der Entwicklergemeinde",
-          "Eine AWS Funktion",
-          "Ein Open Source Tool"
+          "Nur die Dokumentation von Microsoft-spezifischen Features",
+          "Nur die Unterstützung von Microsoft-Partnern"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Open Specifications dienen der Interoperabilität zwischen verschiedenen Systemen, bieten Transparenz und unterstützen die Entwicklergemeinde bei der Integration.",

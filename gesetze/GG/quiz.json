@@ -90,10 +90,10 @@
         "id": "q4",
         "text": "Welche Freiheit wird in Artikel 4 Absatz 1 GG garantiert?",
         "options": [
-          "Eine ähnliche rechtliche Bestimmung",
+          "Freiheit der Meinungsäußerung",
           "Freiheit des Glaubens und des Gewissens",
-          "Ein verwandtes Rechtsprinzip",
-          "Eine vergleichbare gesetzliche Regelung"
+          "Freiheit der Presse",
+          "Freiheit der Versammlung"
         ],
         "correctIndex": 1,
         "explanation": "Artikel 4 Abs. 1 GG schützt Glaubens- und Gewissensfreiheit. Meinungsfreiheit steht in Art. 5, Pressefreiheit in Art. 5, Versammlungsfreiheit in Art. 8.",
@@ -111,10 +111,10 @@
         "id": "q5",
         "text": "Welche Schranken gelten laut Artikel 5 Absatz 2 GG für die Meinungsfreiheit?",
         "options": [
-          "Eine ähnliche rechtliche Bestimmung",
+          "Nur die öffentliche Ordnung und Sicherheit",
           "Die Vorschriften der allgemeinen Gesetze, Jugendschutz und persönliche Ehre",
-          "Ein verwandtes Rechtsprinzip",
-          "Eine vergleichbare gesetzliche Regelung"
+          "Nur die Staatsräson und nationale Sicherheit",
+          "Nur religiöse und moralische Grenzen"
         ],
         "correctIndex": 1,
         "explanation": "Art. 5 Abs. 2 GG nennt als Schranken allgemeine Gesetze, Jugendschutz und persönliche Ehre. Andere Optionen sind nicht im Grundgesetz verankert.",

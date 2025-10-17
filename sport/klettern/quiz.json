@@ -26,9 +26,9 @@
         "text": "Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "Eine ähnliche Sporttechnik",
-          "Eine verwandte Regelung",
-          "Ein vergleichbares Fachverfahren"
+          "An natürlichen Felsen im Freien",
+          "In speziellen Kletterhallen mit gemischten Strukturen",
+          "An jeder beliebigen Kletterwand"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",
@@ -49,9 +49,9 @@
         "text": "Welche maximale Anzahl an Handgriffen darf ein Boulder nach den Regeln haben?",
         "options": [
           "12 Handgriffe als maximal erlaubte Anzahl nach den Regeln",
-          "8 Handgriffe für mittlere Schwierigkeit",
-          "10 Handgriffe für fortgeschrittene Routen",
-          "15 Handgriffe für sehr anspruchsvolle Routen"
+          "8 Handgriffe (wie bei Jugendwettkämpfen)",
+          "10 Handgriffe (wie bei Seniorenwettkämpfen)",
+          "15 Handgriffe (wie bei Profiwettkämpfen)"
         ],
         "correctIndex": 0,
         "explanation": "Ein Boulder darf höchstens 12 Handgriffe haben (§1.10). Durchschnittlich sollen 4–8 Griffe pro Boulder genutzt werden.",
@@ -72,9 +72,9 @@
         "text": "Frage 3: Wo müssen Wettbewerbe nach den IFSC-Regeln durchgeführt werden?",
         "options": [
           "Auf künstlichen Kletterstrukturen",
-          "Eine ähnliche Sporttechnik",
-          "Eine verwandte Regelung",
-          "Ein vergleichbares Fachverfahren"
+          "An natürlichen Felsen im Freien",
+          "In speziellen Kletterhallen mit gemischten Strukturen",
+          "An jeder beliebigen Kletterwand"
         ],
         "correctIndex": 0,
         "explanation": "Nach §1.1 dürfen Wettbewerbe nur auf künstlichen Kletterstrukturen stattfinden, nicht an natürlichen Felsen.",

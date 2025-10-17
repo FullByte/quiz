@@ -22,9 +22,9 @@
         "text": "Was gilt laut Regelwerk zur Teilnahme bei Krankheit oder Verletzung?",
         "options": [
           "Die Teilnahme ist nicht gestattet.",
-          "Eine ähnliche Sporttechnik",
-          "Eine verwandte Regelung",
-          "Ein vergleichbares Fachverfahren"
+          "Teilnahme nur mit ärztlichem Attest möglich",
+          "Teilnahme nur bei leichten Verletzungen erlaubt",
+          "Teilnahme nur nach Genehmigung der Jury möglich"
         ],
         "correctIndex": 0,
         "explanation": "Teilnehmende müssen körperlich fit sein; bei Krankheit oder Verletzung ist eine Teilnahme untersagt.",
@@ -45,9 +45,9 @@
         "text": "Welche mentale Anforderung stellt das Regelwerk an Teilnehmende?",
         "options": [
           "Sie sollen mental in der Lage sein, die Herausforderungen der Prüfungen und den Wettbewerbsdruck zu bewältigen.",
-          "Eine ähnliche Sporttechnik",
-          "Eine verwandte Regelung",
-          "Ein vergleichbares Fachverfahren"
+          "Ein ärztliches Gutachten zur mentalen Gesundheit ist erforderlich",
+          "Nur Teilnahme bei nachgewiesener psychischer Stabilität",
+          "Teilnahme nur mit psychologischem Test möglich"
         ],
         "correctIndex": 0,
         "explanation": "Es wird ausdrücklich gefordert, dass Teilnehmende mental in der Lage sind, die Herausforderungen zu bewältigen; ein Gutachten ist nicht gefordert.",

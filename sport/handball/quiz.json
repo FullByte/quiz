@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Wie groß ist die Spielfläche beim Hallenhandball laut Regelwerk?",
         "options": [
-          "Eine ähnliche Sporttechnik",
-          "Eine verwandte Regelung",
+          "44 x 22 Meter (wie beim Fußball)",
+          "38 x 18 Meter (wie beim Basketball)",
           "40 x 20 Meter",
-          "Ein vergleichbares Fachverfahren"
+          "42 x 21 Meter (wie beim Wasserball)"
         ],
         "correctIndex": 2,
         "explanation": "Die Spielfläche ist ein Rechteck von 40 x 20 Metern. Alle anderen Maße sind falsch.",
@@ -47,10 +47,10 @@
         "id": "q2",
         "text": "Wie lang ist die Torlinie zwischen den Torpfosten?",
         "options": [
-          "Eine andere Möglichkeit",
+          "6 cm (wie beim Fußball)",
           "8 cm",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "10 cm (wie beim Basketball)",
+          "12 cm (wie beim Hockey)"
         ],
         "correctIndex": 1,
         "explanation": "Die Torlinie zwischen den Pfosten ist 8 cm breit, alle anderen Linien sind 5 cm breit.",

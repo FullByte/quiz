@@ -26,9 +26,9 @@
         "text": "Wer gilt nach dem HGB grundsätzlich als Kaufmann?",
         "options": [
           "Jeder, der ein Handelsgewerbe betreibt",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Jeder Selbstständige mit Gewerbeanmeldung",
+          "Jeder, der ins Handelsregister eingetragen ist",
+          "Jeder, der eine GmbH oder AG gründet"
         ],
         "correctIndex": 0,
         "explanation": "Nach § 1 HGB ist Kaufmann, wer ein Handelsgewerbe betreibt. Nicht jeder Selbstständige oder jede Gesellschaft ist automatisch Kaufmann.",
@@ -49,9 +49,9 @@
         "text": "Wann gilt ein Gewerbebetrieb trotz geringem Umfangs als Handelsgewerbe?",
         "options": [
           "Wenn er ins Handelsregister eingetragen ist",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Wenn er einen Jahresumsatz von über 50.000 Euro hat",
+          "Wenn er mehr als 5 Mitarbeiter beschäftigt",
+          "Wenn er eine bestimmte Gewinnschwelle überschreitet"
         ],
         "correctIndex": 0,
         "explanation": "Nach § 2 HGB wird ein Gewerbebetrieb durch Eintragung ins Handelsregister zum Handelsgewerbe, auch wenn er nach Art und Umfang keinen kaufmännischen Betrieb erfordert.",

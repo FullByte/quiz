@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist Microsoft Intune?",
         "options": [
-          "Ein Google Cloud Service",
+          "Ein lokales Tool nur für Windows Server",
           "Ein Cloud-basierter Service für Mobile Device Management (MDM) und Mobile Application Management (MAM)",
-          "Eine AWS Funktion",
-          "Ein Open Source Tool"
+          "Ein Service nur für die Verwaltung von iPhones",
+          "Ein Tool nur für die Installation von Software"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Intune ist ein Cloud-basierter Service für Mobile Device Management und Mobile Application Management, der die Verwaltung von Geräten und Apps ermöglicht.",
@@ -49,9 +49,9 @@
         "id": "q2",
         "text": "Was ist Microsoft Configuration Manager?",
         "options": [
-          "Ein Google Cloud Service",
+          "Ein Cloud-Service nur für die Verwaltung von mobilen Geräten",
           "Ein lokales System-Management-Tool für die Verwaltung von PCs, Servern und mobilen Geräten",
-          "Eine AWS Funktion",
+          "Ein Tool nur für die Verwaltung von Windows-Updates",
           "Ein Open Source Tool"
         ],
         "correctIndex": 1,

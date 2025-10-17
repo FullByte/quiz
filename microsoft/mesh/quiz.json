@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist Microsoft Mesh?",
         "options": [
-          "Ein Google Cloud Service",
+          "Ein einfaches Tool nur für Videokonferenzen",
           "Eine Mixed Reality-Plattform für Zusammenarbeit und Kommunikation",
-          "Eine AWS Funktion",
-          "Ein Open Source Tool"
+          "Ein Service nur für die Verwaltung von 3D-Modellen",
+          "Ein lokales Tool nur für Windows Mixed Reality Headsets"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh ist eine Mixed Reality-Plattform, die es Benutzern ermöglicht, in virtuellen und erweiterten Realitätsumgebungen zusammenzuarbeiten.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Technologien nutzt Microsoft Mesh?",
         "options": [
-          "Ein Google Cloud Service",
+          "Nur Virtual Reality für Gaming",
           "Virtual Reality, Augmented Reality und Mixed Reality",
-          "Eine AWS Funktion",
-          "Ein Open Source Tool"
+          "Nur Augmented Reality für Smartphones",
+          "Nur traditionelle 2D-Videokonferenzen"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Mesh nutzt verschiedene Reality-Technologien: Virtual Reality, Augmented Reality und Mixed Reality für immersive Zusammenarbeit.",

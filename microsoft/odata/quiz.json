@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist die Hauptfunktion von OData?",
         "options": [
-          "Ein Google Service",
+          "Ein einfaches Tool nur für die Datenbankverwaltung",
           "Ein offenes Web-Protokoll für das Abfragen und Aktualisieren von Daten",
-          "Eine AWS Lösung",
-          "Ein Open Source Framework"
+          "Ein Service nur für die Integration mit Microsoft-Produkten",
+          "Ein lokales Tool nur für Windows-Anwendungen"
         ],
         "correctIndex": 1,
         "explanation": "OData (Open Data Protocol) ist ein offenes Web-Protokoll, das standardisierte Möglichkeiten für das Abfragen und Aktualisieren von Daten über HTTP bereitstellt.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Hauptvorteile bietet OData?",
         "options": [
-          "Ein Google Service",
+          "Nur bessere Performance bei Datenbankabfragen",
           "Standardisierung, Interoperabilität und vereinfachte API-Entwicklung",
-          "Eine AWS Lösung",
-          "Ein Open Source Framework"
+          "Nur einfachere Integration mit Microsoft-Produkten",
+          "Nur bessere Sicherheit für Web-APIs"
         ],
         "correctIndex": 1,
         "explanation": "OData bietet Standardisierung von APIs, Interoperabilität zwischen verschiedenen Systemen und vereinfacht die Entwicklung von Daten-APIs.",

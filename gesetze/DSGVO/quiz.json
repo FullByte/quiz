@@ -21,9 +21,9 @@
         "id": "q1",
         "text": "Wann ist die DSGVO in Kraft getreten?",
         "options": [
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren",
+          "24. Mai 2016 (wie das Inkrafttreten)",
+          "1. Januar 2018 (wie bei anderen EU-Verordnungen)",
+          "1. Mai 2018 (wie bei der ursprünglichen Planung)",
           "25. Mai 2018"
         ],
         "correctIndex": 3,
@@ -43,10 +43,10 @@
         "id": "q2",
         "text": "Was sind 'personenbezogene Daten' nach der DSGVO?",
         "options": [
-          "Ein verwandter KI-Algorithmus",
+          "Nur Name, Adresse und Geburtsdatum",
           "Alle Informationen, die sich auf eine identifizierte oder identifizierbare Person beziehen",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Nur Daten, die direkt von der Person stammen",
+          "Nur Daten, die in Datenbanken gespeichert sind"
         ],
         "correctIndex": 1,
         "explanation": "Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen, wie Name, Kennnummer, Standortdaten, Online-Kennung oder besondere Merkmale.",

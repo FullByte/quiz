@@ -26,10 +26,10 @@
         "id": "q1",
         "text": "Wie viele Spieler dürfen maximal gleichzeitig pro Team auf dem Eis sein (einschließlich Torwart)?",
         "options": [
-          "Eine andere Möglichkeit",
+          "5 Spieler (wie beim Basketball)",
           "6 Spieler",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "7 Spieler (wie beim Handball)",
+          "11 Spieler (wie beim Fußball)"
         ],
         "correctIndex": 1,
         "explanation": "Laut IIHF-Regelwerk dürfen maximal 6 Spieler (5 Feldspieler + 1 Torwart) gleichzeitig pro Team auf dem Eis sein.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Was geschieht, wenn ein Spieler eine Spieldauer-Disziplinarstrafe erhält?",
         "options": [
-          "Eine andere Möglichkeit",
+          "Der Spieler wird für 2 Minuten ausgeschlossen",
           "Der Spieler wird für den Rest des Spiels ausgeschlossen.",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Der Spieler wird für 5 Minuten ausgeschlossen",
+          "Der Spieler wird für 10 Minuten ausgeschlossen"
         ],
         "correctIndex": 1,
         "explanation": "Eine Spieldauer-Disziplinarstrafe führt zum Ausschluss des Spielers für den Rest des Spiels. Ersatz durch einen anderen Spieler ist erlaubt.",

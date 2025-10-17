@@ -27,9 +27,9 @@
         "text": "Was ist das Hauptziel Formaler Methoden bei KI-Systemen?",
         "options": [
           "Mathematischer Nachweis der Stabilität und Zuverlässigkeit von Computersystemen",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Verbesserung der Performance von KI-Systemen",
+          "Reduzierung der Trainingszeit von Modellen",
+          "Automatisierung der Datenverarbeitung"
         ],
         "correctIndex": 0,
         "explanation": "Formale Methoden fassen die Techniken der Modellierung und mathematischer, rigoroser Überprüfung von Computersystemen zusammen, um deren Stabilität und Zuverlässigkeit mathematisch nachweisen zu können.",
@@ -50,8 +50,9 @@
         "text": "Was versteht man unter dem Begriff 'Explainable AI' (XAI)?",
         "options": [
           "KI-Systeme, die ihre Entscheidungsgrundlagen nachvollziehbar machen",
-          "8 Handgriffe für mittlere Schwierigkeit",
-          "10 Handgriffe für fortgeschrittene Routen",
+          "KI-Systeme, die besonders schnell arbeiten",
+          "KI-Systeme, die besonders genaue Vorhersagen machen",
+          "KI-Systeme, die besonders wenig Daten benötigen"
           "15 Handgriffe für sehr anspruchsvolle Routen"
         ],
         "correctIndex": 0,

@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Beispielfrage 1: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
         "options": [
-          "Eine andere Möglichkeit",
+          "Die Staatsanwaltschaft",
           "Das Gericht selbst",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Das Justizministerium",
+          "Die Anwälte der Parteien"
         ],
         "correctIndex": 1,
         "explanation": "Die sachliche Zuständigkeit der Gerichte bestimmt sich nach dem Gerichtsverfassungsgesetz, das Gericht prüft seine Zuständigkeit von Amts wegen.",
@@ -49,9 +49,9 @@
         "id": "q2",
         "text": "Beispielfrage 2: Wer entscheidet über die sachliche Zuständigkeit der Gerichte?",
         "options": [
-          "Eine andere Möglichkeit",
+          "Die Staatsanwaltschaft",
           "Das Gericht selbst",
-          "Ein verwandtes Fachkonzept",
+          "Das Justizministerium",
           "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 1,

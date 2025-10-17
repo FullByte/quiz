@@ -72,10 +72,10 @@
         "id": "q3",
         "text": "Was sind PowerShell Cmdlets?",
         "options": [
-          "Eine Linux Shell-Umgebung",
+          "Einfache DOS-Befehle mit neuer Syntax",
           "Kleine, spezialisierte Befehle, die spezifische Aufgaben ausführen",
-          "Ein Windows Command Prompt",
-          "Ein Python Scripting Framework"
+          "Nur vordefinierte Funktionen ohne Erweiterbarkeit",
+          "Kompilierte Programme wie .exe-Dateien"
         ],
         "correctIndex": 1,
         "explanation": "PowerShell Cmdlets sind kleine, spezialisierte Befehle, die spezifische Aufgaben ausführen und das Verb-Noun-Namensschema verwenden.",
@@ -95,10 +95,10 @@
         "id": "q4",
         "text": "Was ist die PowerShell-Pipeline?",
         "options": [
-          "Eine Linux Shell-Umgebung",
+          "Ein Tool nur für die Übertragung von Dateien",
           "Ein Mechanismus zur Verkettung von Cmdlets durch Pipe-Operatoren",
-          "Ein Windows Command Prompt",
-          "Ein Python Scripting Framework"
+          "Ein Service für Netzwerkverbindungen",
+          "Ein Feature nur für Windows Server"
         ],
         "correctIndex": 1,
         "explanation": "Die PowerShell-Pipeline ermöglicht es, die Ausgabe eines Cmdlets als Eingabe für das nächste zu verwenden, wodurch komplexe Datenverarbeitungsketten entstehen.",

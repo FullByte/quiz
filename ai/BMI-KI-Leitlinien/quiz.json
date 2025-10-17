@@ -22,9 +22,9 @@
         "text": "Wie wird ein KI-System gemäß Artikel 3 Absatz 1 der EU-KI-Verordnung definiert?",
         "options": [
           "Ein maschinengestütztes System, das für einen autonomen Betrieb ausgelegt ist und Ausgaben wie Vorhersagen erstellt",
-          "Eine ähnliche rechtliche Bestimmung",
-          "Ein verwandtes Rechtsprinzip",
-          "Eine vergleichbare gesetzliche Regelung"
+          "Ein System, das nur mit neuronalen Netzen arbeitet",
+          "Ein System, das nur Machine Learning verwendet",
+          "Ein System, das nur für die Automatisierung von Prozessen eingesetzt wird"
         ],
         "correctIndex": 0,
         "explanation": "Laut KI-VO ist ein KI-System ein maschinengestütztes System, das für einen in unterschiedlichem Grade autonomen Betrieb ausgelegt ist, anpassungsfähig sein kann und Ausgaben wie Vorhersagen, Inhalte oder Entscheidungen erstellt.",
@@ -44,10 +44,10 @@
         "id": "q2",
         "text": "Welches der folgenden Leitprinzipien ist NICHT Teil der fünf übergeordneten Leitprinzipien der Bundesverwaltung?",
         "options": [
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
+          "Chancenorientiert und verantwortungsvoll",
+          "Wertebasiert und menschenzentriert",
           "Maximierung des wirtschaftlichen Gewinns durch KI",
-          "Ein vergleichbares Fachverfahren"
+          "Vertrauenswürdig und kompetenzstärkend"
         ],
         "correctIndex": 2,
         "explanation": "Die fünf Leitprinzipien sind: chancenorientiert und verantwortungsvoll, wertebasiert und menschenzentriert, vertrauenswürdig, Kompetenzstärkung und nachhaltiger gemeinsamer Einsatz. Gewinnmaximierung ist kein Leitprinzip.",

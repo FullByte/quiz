@@ -94,10 +94,10 @@
         "id": "q4",
         "text": "Welche Funktion hat Azure AI Studio?",
         "options": [
-          "Ein Service für traditionelle Datenbankabfragen",
+          "Ein Tool nur für die Verwaltung von OpenAI API-Schlüsseln",
           "Eine benutzerfreundliche Oberfläche für KI-Entwicklung und -experimentierung",
-          "Eine Windows-Funktion für Systemoptimierung",
-          "Ein Google Cloud Machine Learning Service"
+          "Ein Service nur für das Training von Machine Learning Modellen",
+          "Eine reine Code-Entwicklungsumgebung ohne grafische Oberfläche"
         ],
         "correctIndex": 1,
         "explanation": "Azure AI Studio bietet eine intuitive Benutzeroberfläche für die Entwicklung, das Experimentieren und das Management von KI-Anwendungen ohne umfangreiche Programmierkenntnisse.",
@@ -117,10 +117,10 @@
         "id": "q5",
         "text": "Was ist Copilot Studio?",
         "options": [
-          "Ein Visual Studio Code Plugin",
+          "Ein Tool nur für GitHub Copilot Verwaltung",
           "Eine Plattform zur Erstellung von benutzerdefinierten KI-Copilots",
-          "Eine Azure Data Factory Komponente",
-          "Ein Microsoft Teams Add-on"
+          "Ein Service nur für Microsoft 365 Copilot",
+          "Eine lokale Entwicklungsumgebung ohne Cloud-Features"
         ],
         "correctIndex": 1,
         "explanation": "Copilot Studio ermöglicht es Benutzern, ohne Programmierkenntnisse benutzerdefinierte KI-Copilots zu erstellen und zu konfigurieren.",

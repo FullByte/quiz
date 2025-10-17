@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist Microsoft Entra?",
         "options": [
-          "Ein Google Cloud Service",
+          "Eine einfache Benutzerverwaltung nur für Office 365",
           "Eine Identitäts- und Zugriffsverwaltungslösung",
-          "Eine AWS Funktion",
-          "Ein Open Source Tool"
+          "Ein Tool nur für die Verwaltung von Windows-Computern",
+          "Ein Service nur für die Authentifizierung von Webanwendungen"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Entra ist eine umfassende Identitäts- und Zugriffsverwaltungslösung, die früher als Azure Active Directory bekannt war.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Hauptfunktionen bietet Microsoft Entra?",
         "options": [
-          "Ein Google Cloud Service",
+          "Nur die Verwaltung von Benutzernamen und Passwörtern",
           "Identitätsverwaltung, Authentifizierung, Autorisierung und Zugriffskontrolle",
-          "Eine AWS Funktion",
-          "Ein Open Source Tool"
+          "Nur die Synchronisation mit lokalen Active Directory",
+          "Nur die Verwaltung von Microsoft 365-Lizenzen"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Entra bietet umfassende Funktionen für Identitätsverwaltung, Authentifizierung, Autorisierung und Zugriffskontrolle in Cloud- und Hybrid-Umgebungen.",

@@ -22,9 +22,9 @@
         "text": "Was ist der Digital Services Act (DSA)?",
         "options": [
           "Ein Gesetz zur Regulierung digitaler Plattformen",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Ein Gesetz zur Regulierung digitaler Märkte",
+          "Ein Gesetz zur Regulierung von Datenschutz",
+          "Ein Gesetz zur Regulierung von KI-Systemen"
         ],
         "correctIndex": 0,
         "explanation": "Der DSA ist ein EU-Gesetz zur Regulierung digitaler Plattformen und Online-Dienste, das neue Verpflichtungen für Anbieter digitaler Dienste einführt.",
@@ -43,10 +43,10 @@
         "id": "q2",
         "text": "Wann ist der DSA in Kraft getreten?",
         "options": [
-          "Eine andere Möglichkeit",
+          "1. Januar 2024 (wie bei anderen EU-Verordnungen)",
           "17. Februar 2024",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "1. Mai 2024 (wie bei der ursprünglichen Planung)",
+          "1. September 2024 (wie bei der DSGVO)"
         ],
         "correctIndex": 1,
         "explanation": "Der DSA ist am 17. Februar 2024 in Kraft getreten und gilt für alle Anbieter digitaler Dienste in der EU.",

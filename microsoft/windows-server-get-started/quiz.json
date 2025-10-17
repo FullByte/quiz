@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist Windows Server?",
         "options": [
-          "Ein Linux Server Distribution",
+          "Eine einfache Version von Windows für Heimcomputer",
           "Ein Server-Betriebssystem von Microsoft für Unternehmensnetzwerke",
-          "Ein macOS Server System",
-          "Ein FreeBSD Server"
+          "Ein kostenloses Open-Source Betriebssystem",
+          "Ein spezialisiertes System nur für Gaming-Server"
         ],
         "correctIndex": 1,
         "explanation": "Windows Server ist ein Server-Betriebssystem von Microsoft, das speziell für den Einsatz in Unternehmensnetzwerken und Rechenzentren entwickelt wurde.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Editionen von Windows Server gibt es?",
         "options": [
-          "Ein Linux Server Distribution",
+          "Nur eine einzige Standard-Edition",
           "Datacenter, Standard, Essentials und Foundation Editionen",
-          "Ein macOS Server System",
-          "Ein FreeBSD Server"
+          "Nur Home und Professional Editionen",
+          "Nur Enterprise und Ultimate Editionen"
         ],
         "correctIndex": 1,
         "explanation": "Windows Server ist in verschiedenen Editionen verfügbar: Datacenter (für große Rechenzentren), Standard (für kleine bis mittlere Unternehmen), Essentials und Foundation.",

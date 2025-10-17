@@ -21,10 +21,10 @@
         "id": "q1",
         "text": "Wann wurde die EU-KI-Verordnung (AI Act) im Amtsblatt veröffentlicht?",
         "options": [
-          "Ein verwandter KI-Algorithmus",
+          "1. Januar 2024 (wie ursprünglich geplant)",
           "12. Juli 2024",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "1. Januar 2025 (wie bei anderen EU-Verordnungen üblich)",
+          "1. Mai 2024 (wie bei der DSGVO)"
         ],
         "correctIndex": 1,
         "explanation": "Die KI-Verordnung (EU) 2024/1689 wurde am 12. Juli 2024 im Amtsblatt der Europäischen Union veröffentlicht.",
@@ -43,10 +43,10 @@
         "id": "q2",
         "text": "Ab wann gilt die KI-Verordnung vollständig?",
         "options": [
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
+          "Sofort nach Veröffentlichung (12. Juli 2024)",
+          "12 Monate nach Inkrafttreten (wie bei der DSGVO)",
           "24 Monate nach Inkrafttreten (2. August 2026)",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "36 Monate nach Inkrafttreten (wie bei komplexen Verordnungen)"
         ],
         "correctIndex": 2,
         "explanation": "Die Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung in Kraft und gilt ab dem 2. August 2026, mit einigen Ausnahmen für frühere Anwendung.",

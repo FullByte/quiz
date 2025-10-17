@@ -21,10 +21,10 @@
         "id": "q1",
         "text": "Was ist Cybersicherheit?",
         "options": [
-          "Eine andere Möglichkeit",
+          "Nur der Schutz von Computern vor Viren",
           "Der Schutz von IT-Systemen vor Cyber-Bedrohungen",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Nur der Schutz von Netzwerken vor Hackern",
+          "Nur der Schutz von Daten vor Diebstahl"
         ],
         "correctIndex": 1,
         "explanation": "Cybersicherheit umfasst alle Maßnahmen zum Schutz von IT-Systemen, Netzwerken und Daten vor Cyber-Bedrohungen und -Angriffen.",
@@ -43,10 +43,10 @@
         "id": "q2",
         "text": "Was sind 'kritische Infrastrukturen' im Cybersicherheitskontext?",
         "options": [
-          "Eine andere Möglichkeit",
+          "Nur Regierungsgebäude und Behörden",
           "Einrichtungen, deren Ausfall erhebliche Auswirkungen auf die öffentliche Sicherheit hätte",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Nur Krankenhäuser und Rettungsdienste",
+          "Nur Energieversorger und Telekommunikationsunternehmen"
         ],
         "correctIndex": 1,
         "explanation": "Kritische Infrastrukturen sind Einrichtungen, deren Ausfall oder Beeinträchtigung erhebliche Auswirkungen auf die öffentliche Sicherheit, die Versorgung der Bevölkerung oder die Funktionsfähigkeit des Staates hätte.",

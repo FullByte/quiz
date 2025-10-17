@@ -21,10 +21,10 @@
         "id": "q1",
         "text": "Wie lange dauert ein reguläres Basketballspiel ohne Verlängerung?",
         "options": [
-          "Eine andere Möglichkeit",
+          "2 Halbzeiten à 20 Minuten (wie in der NBA)",
           "4 Viertel à 10 Minuten",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "2 Halbzeiten à 15 Minuten (wie bei Jugendspielen)",
+          "4 Viertel à 12 Minuten (wie in der NBA)"
         ],
         "correctIndex": 1,
         "explanation": "FIBA-Spiele bestehen aus vier Vierteln zu je 10 Minuten Nettospielzeit (Regel IV, Artikel 8.1, S. 20).",
@@ -43,10 +43,10 @@
         "id": "q2",
         "text": "Wie viele Spieler müssen pro Team auf dem Spielfeld sein, damit das Spiel beginnen kann?",
         "options": [
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
+          "4 (wie bei Jugendspielen)",
+          "6 (wie beim Handball)",
           "5",
-          "Ein vergleichbares Fachverfahren"
+          "7 (wie bei besonderen Umständen)"
         ],
         "correctIndex": 2,
         "explanation": "Das Spiel kann nicht beginnen, wenn eine oder beide Mannschaften nicht mit fünf Spielern antreten (Regel IV, Artikel 9.3, S. 20).",

@@ -26,9 +26,9 @@
         "text": "Was ist nach dem StGB unter Notwehr zu verstehen?",
         "options": [
           "Die Verteidigung, die erforderlich ist, um einen gegenwärtigen rechtswidrigen Angriff abzuwehren.",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Jede Form der Selbstverteidigung ohne zeitliche Begrenzung",
+          "Nur die Verteidigung gegen körperliche Angriffe",
+          "Die Verteidigung auch gegen vergangene Angriffe"
         ],
         "correctIndex": 0,
         "explanation": "§ 32 Abs. 2 definiert Notwehr als erforderliche Verteidigung gegen einen gegenwärtigen rechtswidrigen Angriff; Vergeltung oder vergangene Taten sind nicht umfasst.",
@@ -47,10 +47,10 @@
         "id": "q2",
         "text": "Welche Rechtsfolge hat eine Tat, die durch Notwehr geboten ist?",
         "options": [
-          "Eine ähnliche rechtliche Bestimmung",
+          "Sie ist strafbar, aber mildernd zu berücksichtigen",
           "Sie ist nicht rechtswidrig.",
-          "Ein verwandtes Rechtsprinzip",
-          "Eine vergleichbare gesetzliche Regelung"
+          "Sie ist rechtswidrig, aber entschuldigt",
+          "Sie ist nur bei schweren Angriffen gerechtfertigt"
         ],
         "correctIndex": 1,
         "explanation": "§ 32 Abs. 1 stellt klar: Wer eine Tat begeht, die durch Notwehr geboten ist, handelt nicht rechtswidrig.",

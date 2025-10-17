@@ -26,9 +26,9 @@
         "text": "Was ist die Hauptfunktion eines Teleskops?",
         "options": [
           "Licht zu sammeln und zu bündeln",
-          "Ein Refraktor mit großer Objektivlinse",
-          "Ein Radioteleskop für verschiedene Wellenlängen",
-          "Ein Infrarotteleskop für Wärmestrahlung"
+          "Sterne zu erzeugen und neue Himmelskörper zu formen",
+          "Planeten zu bewegen und deren Umlaufbahnen zu verändern",
+          "Mondphasen zu verursachen und die Gezeiten zu kontrollieren"
         ],
         "correctIndex": 0,
         "explanation": "Ein Teleskop sammelt Licht von Himmelsobjekten und bündelt es, um entfernte Objekte heller und größer erscheinen zu lassen. Es erzeugt keine Objekte, sondern macht sie nur sichtbarer.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welcher Planet ist der Sonne am nächsten?",
         "options": [
-          "Venus als 2. Planet des Sonnensystems",
+          "Venus als zweitinnerster Planet des Sonnensystems",
           "Merkur",
-          "Venus mit seinen charakteristischen Eigenschaften",
-          "Erde mit seinen charakteristischen Eigenschaften"
+          "Erde als drittinnerster Planet mit lebensfreundlichen Bedingungen",
+          "Mars als vierter Planet mit rötlicher Färbung"
         ],
         "correctIndex": 1,
         "explanation": "Merkur ist der sonnennächste Planet in unserem Sonnensystem. Er umkreist die Sonne in nur 88 Tagen und hat keine Atmosphäre.",
@@ -71,10 +71,10 @@
         "id": "q3",
         "text": "Was ist eine Supernova?",
         "options": [
-          "Ein verwandtes astronomisches Phänomen",
+          "Ein besonders heller Stern am Nachthimmel",
           "Die Explosion eines massereichen Sterns",
-          "Ein ähnlicher Himmelskörper",
-          "Ein vergleichbares Objekt im Weltraum"
+          "Ein neuer Planet der entdeckt wird",
+          "Eine besondere Art von Komet mit langem Schweif"
         ],
         "correctIndex": 1,
         "explanation": "Eine Supernova ist die gewaltige Explosion eines massereichen Sterns am Ende seines Lebens. Dabei wird enorm viel Energie freigesetzt und der Stern kann für kurze Zeit heller als eine ganze Galaxie leuchten.",

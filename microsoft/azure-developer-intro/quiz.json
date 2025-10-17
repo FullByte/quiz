@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist Azure für Entwickler?",
         "options": [
-          "Ein AWS Cloud Service",
+          "Nur ein virtueller Desktop-Service",
           "Eine Cloud-Plattform mit Services und Tools für Entwickler",
-          "Eine Google Cloud Platform Funktion",
-          "Ein lokales Windows-Tool"
+          "Ein einfaches Hosting-Service für Websites",
+          "Ein Microsoft-spezifisches Tool nur für Windows-Anwendungen"
         ],
         "correctIndex": 1,
         "explanation": "Azure ist eine umfassende Cloud-Plattform, die eine Vielzahl von Services und Tools bietet, um Entwicklern bei der Erstellung, Bereitstellung und Verwaltung von Anwendungen zu helfen.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Hauptkategorien von Azure-Services gibt es?",
         "options": [
-          "Ein AWS Cloud Service",
+          "Nur Compute und Storage Services",
           "Compute, Storage, Networking, Security und viele weitere",
-          "Eine Google Cloud Platform Funktion",
-          "Ein lokales Windows-Tool"
+          "Nur Web- und Datenbank-Services",
+          "Nur Microsoft-spezifische Services"
         ],
         "correctIndex": 1,
         "explanation": "Azure bietet Services in vielen Kategorien: Compute, Storage, Networking, Security, Databases, AI/ML, Analytics und viele weitere spezialisierte Bereiche.",

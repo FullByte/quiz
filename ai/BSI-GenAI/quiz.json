@@ -26,9 +26,9 @@
         "text": "Was ist der Hauptunterschied zwischen diskriminativen und generativen Modellen?",
         "options": [
           "Diskriminative Modelle klassifizieren, generative Modelle erzeugen neue Daten",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Diskriminative Modelle sind schneller, generative Modelle sind genauer",
+          "Diskriminative Modelle brauchen weniger Daten, generative Modelle brauchen mehr Daten",
+          "Diskriminative Modelle sind für Text, generative Modelle sind für Bilder"
         ],
         "correctIndex": 0,
         "explanation": "Diskriminative Modelle lernen Grenzen zwischen Klassen und machen Vorhersagen (z.B. Klassifikation). Generative Modelle lernen die Datenverteilung und können neue, realistische Beispiele erzeugen (z.B. Texte, Bilder generieren).",
@@ -49,9 +49,9 @@
         "text": "Was sind 'Large Language Models' (LLMs)?",
         "options": [
           "Neuronale Netze mit Milliarden Parametern, trainiert auf riesigen Textkorpora",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Kleine neuronale Netze mit wenigen Parametern für spezielle Aufgaben",
+          "Traditionelle Machine Learning Modelle ohne neuronale Netze",
+          "Einfache statistische Modelle für Textverarbeitung"
         ],
         "correctIndex": 0,
         "explanation": "LLMs wie GPT, BERT oder LLaMA sind sehr große neuronale Netze (oft mit Milliarden Parametern), die auf enormen Mengen an Textdaten trainiert wurden und vielfältige Sprachaufgaben bewältigen können.",

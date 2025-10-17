@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Welche maximale Länge darf das Spielfeld im Rugby Union laut den offiziellen Regeln haben?",
         "options": [
-          "Eine ähnliche Sporttechnik",
-          "Eine verwandte Regelung",
+          "94 Meter (wie die Mindestlänge)",
+          "96 Meter (wie bei Jugendspielen)",
           "100 Meter",
-          "Ein vergleichbares Fachverfahren"
+          "105 Meter (wie beim American Football)"
         ],
         "correctIndex": 2,
         "explanation": "Das Spielfeld darf maximal 100 Meter lang sein. 94 Meter ist die Mindestlänge, 96 und 105 Meter sind nicht vorgesehen.",
@@ -47,10 +47,10 @@
         "id": "q2",
         "text": "Wie viele Panels hat ein offizieller Rugby-Ball laut den Regeln?",
         "options": [
-          "Eine ähnliche Sporttechnik",
-          "Eine verwandte Regelung",
+          "sechs (wie beim Fußball)",
+          "acht (wie beim Volleyball)",
           "vier",
-          "Ein vergleichbares Fachverfahren"
+          "zwölf (wie beim Basketball)"
         ],
         "correctIndex": 2,
         "explanation": "Ein Rugby-Ball besteht aus vier Panels. Zwei oder drei Panels sind falsch, fünf Panels gibt es nicht.",

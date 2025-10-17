@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Ab welchem Mindestalter darf man grundsätzlich an Rennen von Downhill Deutschland teilnehmen?",
         "options": [
-          "Eine andere Möglichkeit",
+          "12 Jahre (wie beim Skifahren)",
           "14 Jahre",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "16 Jahre (wie beim Motorsport)",
+          "18 Jahre (wie bei Extremsportarten)"
         ],
         "correctIndex": 1,
         "explanation": "Das Mindestalter beträgt 14 Jahre, Ausnahmen können nur in Absprache mit Rennleitung, Eventorganisation und Erziehungsberechtigten vereinbart werden. Jüngere dürfen nicht teilnehmen.",
@@ -47,10 +47,10 @@
         "id": "q2",
         "text": "Welche maximale Länge ist für ein Downhill-Skateboard zugelassen?",
         "options": [
-          "Eine andere Möglichkeit",
+          "100 cm (wie bei normalen Skateboards)",
           "122 cm",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "130 cm (wie bei Longboards)",
+          "140 cm (wie bei Freestyle-Boards)"
         ],
         "correctIndex": 1,
         "explanation": "Ein Skateboard darf maximal 122 cm lang sein. Andere Angaben wie 135 cm oder 150 cm überschreiten die zulässigen Maße.",

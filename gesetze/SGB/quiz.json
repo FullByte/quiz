@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Welches Ziel verfolgt das Sozialgesetzbuch laut § 1 Abs. 1 SGB I?",
         "options": [
-          "Ein verwandter Paragraph aus dem Gesetz",
+          "Es soll die freie Marktwirtschaft fördern und Wettbewerb stärken",
           "Es soll soziale Gerechtigkeit und soziale Sicherheit verwirklichen.",
-          "Ein ähnlicher Paragraph mit anderen Regelungen",
-          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
+          "Es soll die europäische Integration sicherstellen",
+          "Es soll ausschließlich den Arbeitsmarkt regulieren"
         ],
         "correctIndex": 1,
         "explanation": "Richtig ist Antwort 2: Nach § 1 Abs. 1 SGB I soll das Sozialgesetzbuch zur Verwirklichung sozialer Gerechtigkeit und sozialer Sicherheit beitragen. Die anderen Optionen sind nicht Bestandteil der Zielsetzung.",
@@ -47,10 +47,10 @@
         "id": "q2",
         "text": "Welche sozialen Rechte werden nach § 2 Abs. 2 SGB I besonders hervorgehoben?",
         "options": [
+          "Sie sind nur bei besonderen Härtefällen anzuwenden",
           "Sie sind bei der Auslegung der Vorschriften und bei der Ausübung von Ermessen zu beachten.",
-          "Ein verwandter Paragraph aus dem Gesetz",
-          "Ein ähnlicher Paragraph mit anderen Regelungen",
-          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
+          "Sie sind nur für bestimmte Personengruppen gültig",
+          "Sie sind nur Empfehlungen ohne rechtliche Verbindlichkeit"
         ],
         "correctIndex": 0,
         "explanation": "Richtig ist Antwort 1: Nach § 2 Abs. 2 SGB I sind soziale Rechte bei der Auslegung und der Ermessensausübung zu berücksichtigen. Die übrigen Antworten widersprechen dem Gesetzestext.",
@@ -70,9 +70,9 @@
         "text": "Welches Recht steht nach § 3 Abs. 1 SGB I Auszubildenden zu, wenn ihnen die erforderlichen Mittel fehlen?",
         "options": [
           "Ein Recht auf individuelle Förderung ihrer Ausbildung.",
-          "Ein verwandter Paragraph aus dem Gesetz",
-          "Ein ähnlicher Paragraph mit anderen Regelungen",
-          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
+          "Ein Recht auf kostenlose Ausbildung in jedem Beruf",
+          "Ein Recht auf staatliche Übernahme aller Ausbildungskosten",
+          "Ein Recht auf Ausbildungsplatzgarantie"
         ],
         "correctIndex": 0,
         "explanation": "Richtig ist Antwort 1: Nach § 3 Abs. 1 SGB I haben Auszubildende ein Recht auf individuelle Förderung ihrer Ausbildung, wenn die Mittel fehlen. Die anderen Optionen finden sich nicht im Gesetz.",

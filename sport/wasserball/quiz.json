@@ -27,9 +27,9 @@
         "text": "Wie viele Spieler sind pro Team im Wasser während eines Wasserballspiels?",
         "options": [
           "7 Spieler (6 Feldspieler + 1 Torwart)",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "6 Spieler (wie beim Eishockey)",
+          "8 Spieler (wie beim Handball)",
+          "11 Spieler (wie beim Fußball)"
         ],
         "correctIndex": 0,
         "explanation": "Ein Wasserball-Team besteht aus 7 Spielern im Wasser: 6 Feldspielern und 1 Torwart. Insgesamt darf ein Team bis zu 13 Spieler (7 aktive + 6 Auswechselspieler) registrieren.",
@@ -50,8 +50,9 @@
         "text": "Wie lange dauert ein offizielles Wasserballspiel?",
         "options": [
           "4 x 8 Minuten (32 Minuten netto Spielzeit)",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
+          "2 x 15 Minuten (wie beim Handball)",
+          "4 x 10 Minuten (wie beim Basketball)",
+          "2 x 25 Minuten (wie beim Handball früher)"
           "Ein vergleichbares Fachverfahren"
         ],
         "correctIndex": 0,

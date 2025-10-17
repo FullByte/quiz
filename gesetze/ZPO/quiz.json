@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Welche gesetzliche Grundlage bestimmt die sachliche Zuständigkeit der Gerichte?",
         "options": [
-          "Eine ähnliche rechtliche Bestimmung",
-          "Ein verwandtes Rechtsprinzip",
+          "Die Zivilprozessordnung (ZPO)",
+          "Das Bürgerliche Gesetzbuch (BGB)",
           "Das Gerichtsverfassungsgesetz",
-          "Eine vergleichbare gesetzliche Regelung"
+          "Die Strafprozessordnung (StPO)"
         ],
         "correctIndex": 2,
         "explanation": "Die sachliche Zuständigkeit richtet sich nach dem Gerichtsverfassungsgesetz, nicht nach der ZPO oder dem BGB.",
@@ -47,10 +47,10 @@
         "id": "q2",
         "text": "Nach welchem Maßstab wird der Wert eines Streitgegenstandes vom Gericht festgesetzt?",
         "options": [
-          "Eine ähnliche rechtliche Bestimmung",
+          "Nach dem objektiven Verkehrswert",
+          "Nach dem subjektiven Wert der Parteien",
           "Nach freiem Ermessen",
-          "Ein verwandtes Rechtsprinzip",
-          "Eine vergleichbare gesetzliche Regelung"
+          "Nach dem durchschnittlichen Marktpreis"
         ],
         "correctIndex": 1,
         "explanation": "Das Gericht setzt den Wert nach freiem Ermessen fest (§ 3 ZPO). Eine feste Tabelle gibt es nicht.",

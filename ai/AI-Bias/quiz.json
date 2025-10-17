@@ -26,9 +26,9 @@
         "text": "Was versteht man unter 'Bias' in KI-Systemen?",
         "options": [
           "Systematische Verzerrungen, die zu unfairen oder diskriminierenden Ergebnissen führen",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Einfach nur Fehler in der Programmierung",
+          "Die natürliche Voreingenommenheit von Entwicklern",
+          "Technische Probleme mit der Hardware"
         ],
         "correctIndex": 0,
         "explanation": "Bias bezeichnet systematische Verzerrungen in KI-Systemen, die dazu führen, dass bestimmte Gruppen unfair behandelt oder diskriminiert werden. Dies kann aus verzerrten Trainingsdaten, algorithmischen Entscheidungen oder gesellschaftlichen Vorurteilen resultieren.",
@@ -49,9 +49,9 @@
         "text": "Welche Art von Bias entsteht durch unausgewogene Trainingsdaten?",
         "options": [
           "Selection Bias",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Algorithmic Bias",
+          "Confirmation Bias",
+          "Cognitive Bias"
         ],
         "correctIndex": 0,
         "explanation": "Selection Bias entsteht, wenn die Trainingsdaten nicht repräsentativ für die Population sind, auf die das Modell angewendet werden soll. Beispiel: Ein Gesichtserkennungssystem, das hauptsächlich mit Bildern weißer Menschen trainiert wurde.",
@@ -72,9 +72,9 @@
         "text": "Was ist 'Historical Bias'?",
         "options": [
           "Vorurteile aus vergangenen gesellschaftlichen Diskriminierungen, die in Daten kodiert sind",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Veraltete Algorithmen aus früheren KI-Generationen",
+          "Bias durch alte Hardware und veraltete Rechenleistung",
+          "Historische Dokumentation von KI-Entwicklungen"
         ],
         "correctIndex": 0,
         "explanation": "Historical Bias bezieht sich auf gesellschaftliche Vorurteile und Diskriminierungen aus der Vergangenheit, die in historischen Daten enthalten sind und somit in ML-Modelle übernommen werden. Beispiel: Geschlechterungleichheit in historischen Einstellungsdaten.",

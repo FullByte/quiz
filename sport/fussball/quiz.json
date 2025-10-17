@@ -69,10 +69,10 @@
         "id": "q3",
         "text": "Welche maximale Anzahl an Auswechslungen ist bei offiziellen Wettbewerben zulässig?",
         "options": [
-          "Eine andere Möglichkeit",
+          "drei (wie früher üblich)",
           "fünf",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "sieben (wie im Amateurbereich)",
+          "unbegrenzt (wie bei Testspielen)"
         ],
         "correctIndex": 1,
         "explanation": "Bei offiziellen Wettbewerben sind maximal fünf Auswechslungen erlaubt. Mehr Auswechslungen sind nur im Amateur- oder Jugendbereich möglich.",
@@ -91,10 +91,10 @@
         "id": "q4",
         "text": "Wie lang darf die Halbzeitpause maximal sein?",
         "options": [
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
+          "10 Minuten (wie beim Basketball)",
+          "20 Minuten (wie beim American Football)",
           "15 Minuten",
-          "Ein vergleichbares Fachverfahren"
+          "30 Minuten (wie bei besonderen Umständen)"
         ],
         "correctIndex": 2,
         "explanation": "Die Halbzeitpause darf maximal 15 Minuten betragen. Kürzere Pausen sind erlaubt, wenn beide Teams und der Schiedsrichter zustimmen.",

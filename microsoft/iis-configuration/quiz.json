@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist die Hauptfunktion von IIS?",
         "options": [
-          "Ein Apache Web Server",
+          "Ein einfaches Tool nur für die Dateiverwaltung",
           "Internet Information Services - ein Webserver von Microsoft",
-          "Ein Nginx Reverse Proxy",
-          "Ein Node.js Server"
+          "Ein Service nur für die Verwaltung von Datenbanken",
+          "Ein Tool nur für die Installation von Windows-Updates"
         ],
         "correctIndex": 1,
         "explanation": "IIS (Internet Information Services) ist ein Webserver von Microsoft, der auf Windows-Servern läuft und Web-Anwendungen hostet.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Hauptkomponenten hat IIS?",
         "options": [
-          "Ein Apache Web Server",
+          "Nur Web-Sites und einfache Konfiguration",
           "Web-Sites, Anwendungen, Virtuelle Verzeichnisse und Module",
-          "Ein Nginx Reverse Proxy",
-          "Ein Node.js Server"
+          "Nur Module für die Sicherheit",
+          "Nur Anwendungen für ASP.NET"
         ],
         "correctIndex": 1,
         "explanation": "IIS besteht aus Web-Sites, Anwendungen, virtuellen Verzeichnissen und Modulen als Hauptkomponenten für die Webserver-Funktionalität.",

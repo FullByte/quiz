@@ -26,9 +26,9 @@
         "text": "Was ist Lockpicking?",
         "options": [
           "Das Öffnen von Schlössern ohne Schlüssel",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Das Reparieren von defekten Schlössern",
+          "Das Herstellen von neuen Schlüsseln",
+          "Das Austauschen von Schlossmechanismen"
         ],
         "correctIndex": 0,
         "explanation": "Lockpicking ist die Kunst und Technik, Schlösser ohne den ursprünglichen Schlüssel zu öffnen, indem die inneren Mechanismen des Schlosses manipuliert werden.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche zwei Hauptwerkzeuge werden beim Lockpicking verwendet?",
         "options": [
-          "Ein verwandter KI-Algorithmus",
+          "Schlüssel und Schraubendreher",
           "Pick und Tension Wrench",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Hammer und Meißel",
+          "Bohrer und Feile"
         ],
         "correctIndex": 1,
         "explanation": "Die beiden wichtigsten Werkzeuge sind der Pick (zum Manipulieren der Stifte) und der Tension Wrench (zum Aufbringen von Drehmoment auf den Zylinder).",
@@ -71,10 +71,10 @@
         "id": "q3",
         "text": "Was ist der Zweck des Tension Wrench?",
         "options": [
-          "Eine andere Möglichkeit",
+          "Die Stifte im Schloss zu bewegen",
           "Drehmoment auf den Zylinder auszuüben",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Das Schloss zu öffnen durch Kraft",
+          "Die Stifte zu reparieren"
         ],
         "correctIndex": 1,
         "explanation": "Der Tension Wrench wird verwendet, um Drehmoment (Tension) auf den Zylinder auszuüben und die Shear Line zu schaffen, an der die Stifte getrennt werden.",
@@ -95,9 +95,9 @@
         "text": "Was ist die Shear Line?",
         "options": [
           "Die Linie zwischen Kern und Gehäuse",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Die Linie zwischen Stift und Feder",
+          "Die Linie zwischen Schlüssel und Schloss",
+          "Die Linie zwischen Pick und Tension Wrench"
         ],
         "correctIndex": 0,
         "explanation": "Die Shear Line ist die Trennlinie zwischen dem inneren Kern (Plug) und dem äußeren Gehäuse (Housing) des Schlosses. Wenn alle Stifte korrekt ausgerichtet sind, kann der Zylinder gedreht werden.",
@@ -117,10 +117,10 @@
         "id": "q5",
         "text": "Welcher Stifttyp ist am schwierigsten zu setzen?",
         "options": [
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
+          "Ein normaler Stift",
+          "Ein untergesetzter Stift",
           "Ein übergesetzter Stift",
-          "Ein vergleichbares Fachverfahren"
+          "Ein defekter Stift"
         ],
         "correctIndex": 2,
         "explanation": "Ein übergesetzter Stift ist der schwierigste, da er zu weit nach oben gedrückt wurde und unter der Shear Line klemmt. Er muss erst gelöst werden, bevor er korrekt gesetzt werden kann.",
@@ -140,10 +140,10 @@
         "id": "q6",
         "text": "Was ist Raking?",
         "options": [
-          "Ein verwandter KI-Algorithmus",
+          "Das Reinigen von Schlössern",
           "Eine schnelle Methode zum Öffnen von Schlössern",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Das Reparieren von defekten Stiften",
+          "Das Herstellen von neuen Picks"
         ],
         "correctIndex": 1,
         "explanation": "Raking ist eine schnelle Methode, bei der der Pick schnell durch alle Stifte gezogen wird, um mehrere Stifte gleichzeitig zu setzen.",
@@ -163,10 +163,10 @@
         "id": "q7",
         "text": "Welche Art von Pick eignet sich am besten für Raking?",
         "options": [
-          "Ein verwandter KI-Algorithmus",
+          "Ein schmaler Hook-Pick",
           "Ein breiter Rake-Pick",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Ein langer Diamond-Pick",
+          "Ein kurzer Half-Diamond-Pick"
         ],
         "correctIndex": 1,
         "explanation": "Breite Rake-Picks wie der Snake-Rake oder der Bogota-Rake eignen sich am besten für Raking-Techniken, da sie mehrere Stifte gleichzeitig erreichen können.",
@@ -186,10 +186,10 @@
         "id": "q8",
         "text": "Was ist Single Pin Picking?",
         "options": [
-          "Ein verwandter KI-Algorithmus",
+          "Das Setzen mehrerer Stifte gleichzeitig",
           "Das Setzen jedes Stifts einzeln",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Das schnelle Durchziehen des Picks",
+          "Das Öffnen mit nur einem Werkzeug"
         ],
         "correctIndex": 1,
         "explanation": "Single Pin Picking ist eine präzise Methode, bei der jeder Stift einzeln und bewusst gesetzt wird, was mehr Kontrolle und Verständnis erfordert.",
@@ -209,10 +209,10 @@
         "id": "q9",
         "text": "Welcher Pick-Typ eignet sich am besten für Single Pin Picking?",
         "options": [
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
+          "Breiter Rake-Pick",
+          "Langer Diamond-Pick",
           "Hook-Pick",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Kurzer Half-Diamond-Pick"
         ],
         "correctIndex": 2,
         "explanation": "Hook-Picks sind ideal für Single Pin Picking, da sie präzise auf einzelne Stifte zielen können und eine gute Kontrolle ermöglichen.",
@@ -232,10 +232,10 @@
         "id": "q10",
         "text": "Was ist ein Driver Pin?",
         "options": [
-          "Eine andere Möglichkeit",
+          "Der untere Stift im Schloss",
           "Der obere Stift im Schloss",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Der mittlere Stift im Schloss",
+          "Ein spezieller Sicherheitsstift"
         ],
         "correctIndex": 1,
         "explanation": "Der Driver Pin ist der obere Stift, der sich zwischen dem Key Pin und der Shear Line befindet. Er wird vom Schlüssel nach oben gedrückt.",
@@ -255,10 +255,10 @@
         "id": "q11",
         "text": "Was ist ein Key Pin?",
         "options": [
-          "Eine andere Möglichkeit",
+          "Der obere Stift im Schloss",
           "Der untere Stift im Schloss",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Der mittlere Stift im Schloss",
+          "Ein spezieller Sicherheitsstift"
         ],
         "correctIndex": 1,
         "explanation": "Der Key Pin ist der untere Stift, der direkt vom Schlüssel berührt wird und die unterschiedlichen Längen hat, die dem Schlüssel-Profil entsprechen.",
@@ -278,10 +278,10 @@
         "id": "q12",
         "text": "Was passiert, wenn zu viel Tension angewendet wird?",
         "options": [
-          "Eine andere Möglichkeit",
+          "Das Schloss öffnet sich schneller",
           "Die Stifte können übergesetzt werden",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Die Stifte bewegen sich leichter",
+          "Das Schloss wird beschädigt"
         ],
         "correctIndex": 1,
         "explanation": "Zu viel Tension kann dazu führen, dass Stifte übergesetzt werden, was das Lockpicking erschwert, da die Stifte dann unter der Shear Line kleben.",
@@ -301,10 +301,10 @@
         "id": "q13",
         "text": "Was ist ein Binding Pin?",
         "options": [
-          "Eine andere Möglichkeit",
+          "Ein Stift, der sich frei bewegt",
           "Ein Stift, der unter Tension klebt",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Ein Stift, der übergesetzt wurde",
+          "Ein Stift, der defekt ist"
         ],
         "correctIndex": 1,
         "explanation": "Ein Binding Pin ist ein Stift, der unter der angewendeten Tension klebt und sich nicht frei bewegen kann. Diese Stifte müssen zuerst gesetzt werden.",
@@ -324,10 +324,10 @@
         "id": "q14",
         "text": "Welche Richtung wird für Tension normalerweise verwendet?",
         "options": [
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
+          "Immer im Uhrzeigersinn",
+          "Immer gegen den Uhrzeigersinn",
           "Abhängig vom Schloss",
-          "Ein vergleichbares Fachverfahren"
+          "Immer abwechselnd"
         ],
         "correctIndex": 2,
         "explanation": "Die Tension-Richtung hängt vom spezifischen Schloss ab. Die meisten Schlösser öffnen sich in eine bestimmte Richtung, die ausprobiert werden muss.",
@@ -347,10 +347,10 @@
         "id": "q15",
         "text": "Was ist ein False Set?",
         "options": [
-          "Eine andere Möglichkeit",
+          "Ein Stift, der komplett falsch gesetzt ist",
           "Ein Stift, der fast richtig gesetzt ist",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Ein Stift, der übergesetzt wurde",
+          "Ein Stift, der gar nicht gesetzt werden kann"
         ],
         "correctIndex": 1,
         "explanation": "Ein False Set tritt auf, wenn ein Stift fast richtig gesetzt ist, aber noch nicht ganz an der Shear Line ausgerichtet ist. Der Zylinder bewegt sich etwas, aber nicht genug.",
@@ -370,10 +370,10 @@
         "id": "q16",
         "text": "Welche Pick-Form eignet sich am besten für enge Schlösser?",
         "options": [
-          "Eine andere Möglichkeit",
+          "Breite Rake-Picks",
           "Schmale Hook-Picks",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Lange Diamond-Picks",
+          "Kurze Half-Diamond-Picks"
         ],
         "correctIndex": 1,
         "explanation": "Schmale Hook-Picks eignen sich am besten für enge Schlösser, da sie in begrenzten Räumen präzise arbeiten können.",
@@ -393,10 +393,10 @@
         "id": "q17",
         "text": "Was ist ein Mushroom Pin?",
         "options": [
-          "Eine andere Möglichkeit",
+          "Ein Stift mit runder Spitze",
           "Ein Stift mit pilzförmiger Spitze",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Ein Stift mit spitzer Spitze",
+          "Ein Stift mit flacher Spitze"
         ],
         "correctIndex": 1,
         "explanation": "Ein Mushroom Pin ist ein Driver Pin mit einer pilzförmigen Spitze, der als Sicherheitsmerkmal dient und das Lockpicking erschweren soll.",

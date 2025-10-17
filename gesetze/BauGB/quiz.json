@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Welche Aufgabe hat die Bauleitplanung nach § 1 BauGB?",
         "options": [
-          "Ein verwandter Paragraph aus dem Gesetz",
+          "Die Kontrolle der Baugenehmigungen",
           "Die Vorbereitung und Lenkung der baulichen und sonstigen Nutzung der Grundstücke in der Gemeinde",
-          "Ein ähnlicher Paragraph mit anderen Regelungen",
-          "Ein benachbarter Paragraph mit vergleichbaren Inhalten"
+          "Die Festsetzung von Grundstückspreisen",
+          "Die Überwachung der Bauausführung"
         ],
         "correctIndex": 1,
         "explanation": "Nach § 1 Abs. 1 BauGB ist die Aufgabe der Bauleitplanung, die bauliche und sonstige Nutzung der Grundstücke in der Gemeinde vorzubereiten und zu leiten. Die anderen Optionen betreffen nicht die Bauleitplanung.",
@@ -48,9 +48,9 @@
         "text": "Welche Bauleitpläne kennt das BauGB?",
         "options": [
           "Flächennutzungsplan und Bebauungsplan",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Nur Bebauungspläne",
+          "Nur Flächennutzungspläne",
+          "Bebauungsplan, Flächennutzungsplan und Landschaftsplan"
         ],
         "correctIndex": 0,
         "explanation": "Nach § 1 Abs. 2 BauGB gibt es zwei Bauleitpläne: den vorbereitenden Flächennutzungsplan und den verbindlichen Bebauungsplan.",

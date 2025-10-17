@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist Semantic Kernel?",
         "options": [
-          "Ein Google Service",
+          "Ein einfaches Tool nur für die Verwaltung von OpenAI API-Schlüsseln",
           "Ein SDK für die Integration von KI-Services in Anwendungen",
-          "Eine AWS Lösung",
-          "Ein Open Source Framework"
+          "Ein Service nur für die Integration mit ChatGPT",
+          "Ein lokales Tool ohne Cloud-Integration"
         ],
         "correctIndex": 1,
         "explanation": "Semantic Kernel ist ein SDK, das die Integration von KI-Services wie OpenAI, Azure OpenAI und anderen in Anwendungen vereinfacht.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Programmiersprachen unterstützt Semantic Kernel?",
         "options": [
-          "Ein Google Service",
+          "Nur C# als Microsoft-spezifische Sprache",
           "C#, Python und Java",
-          "Eine AWS Lösung",
-          "Ein Open Source Framework"
+          "Nur Python für Machine Learning",
+          "Nur JavaScript für Webanwendungen"
         ],
         "correctIndex": 1,
         "explanation": "Semantic Kernel unterstützt mehrere Programmiersprachen: C#, Python und Java für plattformübergreifende KI-Integration.",

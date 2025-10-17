@@ -72,10 +72,10 @@
         "id": "q3",
         "text": "Was ist Azure SQL Managed Instance Integration in SQL Server 2022?",
         "options": [
-          "Ein NoSQL Document Store",
+          "Eine Funktion nur für die Migration zu Azure SQL Database",
           "Eine Funktion zur nahtlosen Integration mit Azure SQL Managed Instance",
-          "Ein Graph Database System",
-          "Ein In-Memory Cache"
+          "Ein Tool nur für Backup und Wiederherstellung in die Cloud",
+          "Ein Service nur für die Überwachung von Cloud-Datenbanken"
         ],
         "correctIndex": 1,
         "explanation": "Die Azure SQL Managed Instance Integration ermöglicht eine nahtlose Verbindung und Datenreplikation zwischen lokalen SQL Server-Instanzen und Azure SQL Managed Instance.",

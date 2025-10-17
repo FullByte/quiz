@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist Microsoft Fabric?",
         "options": [
-          "Ein Google Cloud Service",
+          "Ein einfaches Tool nur für Excel-Tabellen",
           "Eine einheitliche Plattform für Datenanalyse und -verarbeitung",
-          "Eine AWS Funktion",
-          "Ein Open Source Tool"
+          "Ein Service nur für Power BI-Berichte",
+          "Ein lokales Tool nur für Windows-Server"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Fabric ist eine einheitliche Plattform für Datenanalyse, die verschiedene Daten- und Analytics-Services in einer integrierten Lösung vereint.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Hauptkomponenten gehören zu Microsoft Fabric?",
         "options": [
-          "Ein Google Cloud Service",
+          "Nur Power BI und Excel-Integration",
           "Data Engineering, Data Science, Data Warehouse, Real-Time Analytics und Power BI",
-          "Eine AWS Funktion",
-          "Ein Open Source Tool"
+          "Nur Data Warehouse und Reporting-Tools",
+          "Nur Machine Learning und KI-Services"
         ],
         "correctIndex": 1,
         "explanation": "Microsoft Fabric umfasst Data Engineering, Data Science, Data Warehouse, Real-Time Analytics und Power BI als Hauptkomponenten einer integrierten Datenplattform.",

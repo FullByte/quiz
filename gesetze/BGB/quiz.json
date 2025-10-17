@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Wann beginnt nach dem BGB die Rechtsfähigkeit eines Menschen?",
         "options": [
-          "Eine ähnliche rechtliche Bestimmung",
+          "Mit der Empfängnis (wie bei Erbrecht)",
           "Mit der Vollendung der Geburt",
-          "Ein verwandtes Rechtsprinzip",
-          "Eine vergleichbare gesetzliche Regelung"
+          "Mit der Volljährigkeit (18 Jahre)",
+          "Mit dem 21. Lebensjahr (wie früher)"
         ],
         "correctIndex": 1,
         "explanation": "Die Rechtsfähigkeit beginnt mit der Vollendung der Geburt (§ 1 BGB). Empfängnis, Volljährigkeit oder 21. Lebensjahr sind unzutreffend.",
@@ -47,10 +47,10 @@
         "id": "q2",
         "text": "Ab welchem Alter tritt nach dem BGB die Volljährigkeit ein?",
         "options": [
-          "Eine andere Möglichkeit",
+          "Mit 16 Jahren (wie bei Jugendlichen)",
           "Mit 18 Jahren",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Mit 21 Jahren (wie früher üblich)",
+          "Mit 25 Jahren (wie bei besonderen Rechtsgeschäften)"
         ],
         "correctIndex": 1,
         "explanation": "Die Volljährigkeit tritt mit Vollendung des 18. Lebensjahres ein (§ 2 BGB).",

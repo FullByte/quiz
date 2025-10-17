@@ -25,10 +25,10 @@
         "id": "q1",
         "text": "Was ist die Hauptfunktion von .NET?",
         "options": [
-          "Ein Java Runtime Environment",
+          "Nur eine Programmiersprache wie C#",
           "Eine plattformübergreifende Entwicklungsplattform",
-          "Ein Python Package Manager",
-          "Ein Node.js Framework"
+          "Ein einfaches Tool nur für Webentwicklung",
+          "Ein Microsoft-spezifisches Framework nur für Windows"
         ],
         "correctIndex": 1,
         "explanation": ".NET ist eine plattformübergreifende, kostenlose und quelloffene Entwicklungsplattform für verschiedene Anwendungstypen.",
@@ -48,10 +48,10 @@
         "id": "q2",
         "text": "Welche Programmiersprachen werden von .NET unterstützt?",
         "options": [
-          "Ein Java Runtime Environment",
+          "Nur C# als einzige Sprache",
           "C#, F#, VB.NET und andere",
-          "Ein Python Package Manager",
-          "Ein Node.js Framework"
+          "Nur Microsoft-spezifische Sprachen",
+          "Nur objektorientierte Programmiersprachen"
         ],
         "correctIndex": 1,
         "explanation": ".NET unterstützt mehrere Programmiersprachen, wobei C#, F# und VB.NET die Hauptsprachen sind, aber auch andere Sprachen integriert werden können.",

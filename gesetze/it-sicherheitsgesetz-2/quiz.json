@@ -22,9 +22,9 @@
         "text": "Was ist das IT-Sicherheitsgesetz 2.0?",
         "options": [
           "Ein Gesetz zur IT-Sicherheit in Deutschland",
-          "Eine ähnliche rechtliche Bestimmung",
-          "Ein verwandtes Rechtsprinzip",
-          "Eine vergleichbare gesetzliche Regelung"
+          "Ein Gesetz zur IT-Sicherheit in der EU",
+          "Ein Gesetz zur IT-Sicherheit in der Wirtschaft",
+          "Ein Gesetz zur IT-Sicherheit in der Bundesverwaltung"
         ],
         "correctIndex": 0,
         "explanation": "Das IT-Sicherheitsgesetz 2.0 ist ein deutsches Gesetz zur Stärkung der IT-Sicherheit in Deutschland und zur Umsetzung der EU-Cybersicherheitsrichtlinie.",
@@ -44,9 +44,9 @@
         "text": "Wann ist das IT-Sicherheitsgesetz 2.0 in Kraft getreten?",
         "options": [
           "1. Mai 2021",
-          "Eine ähnliche rechtliche Bestimmung",
-          "Ein verwandtes Rechtsprinzip",
-          "Eine vergleichbare gesetzliche Regelung"
+          "1. Januar 2021 (wie bei anderen Gesetzen üblich)",
+          "1. September 2021 (wie bei IT-Sicherheitsgesetzen)",
+          "1. Januar 2022 (wie bei der ursprünglichen Planung)"
         ],
         "correctIndex": 0,
         "explanation": "Das IT-Sicherheitsgesetz 2.0 ist am 1. Mai 2021 in Kraft getreten und hat das bisherige IT-Sicherheitsgesetz abgelöst.",
