@@ -1,0 +1,1926 @@
+{
+  "quiz": {
+    "title": "Lockpicking Quiz - MIT Handbuch",
+    "description": "Ein umfassendes Quiz mit 100 Fragen zum Lockpicking basierend auf dem MIT Lockpicking Guide.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-16T15:00:00Z",
+      "notes": "Quiz basierend auf dem MIT Lockpicking Guide"
+    },
+    "sourceDocument": {
+      "title": "MIT Lockpicking Guide",
+      "version": "MIT",
+      "year": 2025,
+      "pdfFilename": "MIT-Handbuch.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist Lockpicking?",
+        "options": [
+          "Das Öffnen von Schlössern ohne Schlüssel",
+          "Das Herstellen von Schlüsseln",
+          "Das Reparieren von Schlössern",
+          "Das Reinigen von Schlössern"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lockpicking ist die Kunst und Technik, Schlösser ohne den ursprünglichen Schlüssel zu öffnen, indem die inneren Mechanismen des Schlosses manipuliert werden.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 1-5",
+          "chapter": "Einführung"
+        },
+        "tags": ["Definition", "Grundlagen", "Lockpicking"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welche zwei Hauptwerkzeuge werden beim Lockpicking verwendet?",
+        "options": [
+          "Hammer und Meißel",
+          "Pick und Tension Wrench",
+          "Schraubendreher und Zange",
+          "Bohrer und Säge"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die beiden wichtigsten Werkzeuge sind der Pick (zum Manipulieren der Stifte) und der Tension Wrench (zum Aufbringen von Drehmoment auf den Zylinder).",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 6-10",
+          "chapter": "Werkzeuge"
+        },
+        "tags": ["Werkzeuge", "Pick", "Tension Wrench"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist der Zweck des Tension Wrench?",
+        "options": [
+          "Die Stifte zu bewegen",
+          "Drehmoment auf den Zylinder auszuüben",
+          "Das Schloss zu ölen",
+          "Die Stifte zu zählen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Tension Wrench wird verwendet, um Drehmoment (Tension) auf den Zylinder auszuüben und die Shear Line zu schaffen, an der die Stifte getrennt werden.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 11-15",
+          "chapter": "Tension Wrench"
+        },
+        "tags": ["Tension Wrench", "Drehmoment", "Shear Line"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Was ist die Shear Line?",
+        "options": [
+          "Die Linie zwischen Kern und Gehäuse",
+          "Eine Linie auf dem Pick",
+          "Eine Markierung am Schlüssel",
+          "Die Öffnung im Schloss"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Shear Line ist die Trennlinie zwischen dem inneren Kern (Plug) und dem äußeren Gehäuse (Housing) des Schlosses. Wenn alle Stifte korrekt ausgerichtet sind, kann der Zylinder gedreht werden.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 16-20",
+          "chapter": "Schloss-Mechanismus"
+        },
+        "tags": ["Shear Line", "Kern", "Gehäuse"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Welcher Stifttyp ist am schwierigsten zu setzen?",
+        "options": [
+          "Der erste Stift",
+          "Der letzte Stift",
+          "Ein übergesetzter Stift",
+          "Ein falsch gesetzter Stift"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein übergesetzter Stift ist der schwierigste, da er zu weit nach oben gedrückt wurde und unter der Shear Line klemmt. Er muss erst gelöst werden, bevor er korrekt gesetzt werden kann.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 21-25",
+          "chapter": "Stift-Setting"
+        },
+        "tags": ["Übergesetzter Stift", "Schwierig", "Setting"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q6",
+        "text": "Was ist Raking?",
+        "options": [
+          "Das Reinigen des Schlosses",
+          "Eine schnelle Methode zum Öffnen von Schlössern",
+          "Das Markieren der Stifte",
+          "Das Messen der Stiftlängen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Raking ist eine schnelle Methode, bei der der Pick schnell durch alle Stifte gezogen wird, um mehrere Stifte gleichzeitig zu setzen.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 26-30",
+          "chapter": "Raking-Techniken"
+        },
+        "tags": ["Raking", "Schnell", "Methode"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Welche Art von Pick eignet sich am besten für Raking?",
+        "options": [
+          "Ein schmaler Hook-Pick",
+          "Ein breiter Rake-Pick",
+          "Ein diamond-Pick",
+          "Ein ball-Pick"
+        ],
+        "correctIndex": 1,
+        "explanation": "Breite Rake-Picks wie der Snake-Rake oder der Bogota-Rake eignen sich am besten für Raking-Techniken, da sie mehrere Stifte gleichzeitig erreichen können.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 31-35",
+          "chapter": "Pick-Arten"
+        },
+        "tags": ["Rake-Pick", "Breit", "Snake-Rake"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q8",
+        "text": "Was ist Single Pin Picking?",
+        "options": [
+          "Das Arbeiten mit nur einem Stift",
+          "Das Setzen jedes Stifts einzeln",
+          "Das Verwenden nur eines Picks",
+          "Das Arbeiten mit einem Stift-Typ"
+        ],
+        "correctIndex": 1,
+        "explanation": "Single Pin Picking ist eine präzise Methode, bei der jeder Stift einzeln und bewusst gesetzt wird, was mehr Kontrolle und Verständnis erfordert.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 36-40",
+          "chapter": "Single Pin Picking"
+        },
+        "tags": ["Single Pin Picking", "Präzise", "Einzeln"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Welcher Pick-Typ eignet sich am besten für Single Pin Picking?",
+        "options": [
+          "Snake-Rake",
+          "Bogota-Rake",
+          "Hook-Pick",
+          "Ball-Pick"
+        ],
+        "correctIndex": 2,
+        "explanation": "Hook-Picks sind ideal für Single Pin Picking, da sie präzise auf einzelne Stifte zielen können und eine gute Kontrolle ermöglichen.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 41-45",
+          "chapter": "Pick-Auswahl"
+        },
+        "tags": ["Hook-Pick", "Präzise", "Einzelne Stifte"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q10",
+        "text": "Was ist ein Driver Pin?",
+        "options": [
+          "Der untere Stift im Schloss",
+          "Der obere Stift im Schloss",
+          "Ein Werkzeug zum Öffnen",
+          "Ein Teil des Schlüssels"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Driver Pin ist der obere Stift, der sich zwischen dem Key Pin und der Shear Line befindet. Er wird vom Schlüssel nach oben gedrückt.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 46-50",
+          "chapter": "Schloss-Komponenten"
+        },
+        "tags": ["Driver Pin", "Oberer Stift", "Key Pin"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist ein Key Pin?",
+        "options": [
+          "Der obere Stift im Schloss",
+          "Der untere Stift im Schloss",
+          "Ein Werkzeug",
+          "Ein Teil des Gehäuses"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Key Pin ist der untere Stift, der direkt vom Schlüssel berührt wird und die unterschiedlichen Längen hat, die dem Schlüssel-Profil entsprechen.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 51-55",
+          "chapter": "Key Pin"
+        },
+        "tags": ["Key Pin", "Unterer Stift", "Schlüssel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q12",
+        "text": "Was passiert, wenn zu viel Tension angewendet wird?",
+        "options": [
+          "Das Schloss öffnet sich schneller",
+          "Die Stifte können übergesetzt werden",
+          "Der Pick bricht",
+          "Nichts passiert"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zu viel Tension kann dazu führen, dass Stifte übergesetzt werden, was das Lockpicking erschwert, da die Stifte dann unter der Shear Line kleben.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 56-60",
+          "chapter": "Tension-Kontrolle"
+        },
+        "tags": ["Tension", "Übergesetzt", "Kontrolle"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist ein Binding Pin?",
+        "options": [
+          "Ein kaputter Stift",
+          "Ein Stift, der unter Tension klebt",
+          "Ein Stift, der sich nicht bewegt",
+          "Ein Stift mit falscher Länge"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Binding Pin ist ein Stift, der unter der angewendeten Tension klebt und sich nicht frei bewegen kann. Diese Stifte müssen zuerst gesetzt werden.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 61-65",
+          "chapter": "Binding Pins"
+        },
+        "tags": ["Binding Pin", "Klebt", "Tension"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Welche Richtung wird für Tension normalerweise verwendet?",
+        "options": [
+          "Immer im Uhrzeigersinn",
+          "Immer gegen den Uhrzeigersinn",
+          "Abhängig vom Schloss",
+          "Es spielt keine Rolle"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Tension-Richtung hängt vom spezifischen Schloss ab. Die meisten Schlösser öffnen sich in eine bestimmte Richtung, die ausprobiert werden muss.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 66-70",
+          "chapter": "Tension-Richtung"
+        },
+        "tags": ["Tension-Richtung", "Schloss-abhängig", "Uhrzeigersinn"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist ein False Set?",
+        "options": [
+          "Ein kaputtes Schloss",
+          "Ein Stift, der fast richtig gesetzt ist",
+          "Ein falscher Schlüssel",
+          "Ein übergesetzter Stift"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein False Set tritt auf, wenn ein Stift fast richtig gesetzt ist, aber noch nicht ganz an der Shear Line ausgerichtet ist. Der Zylinder bewegt sich etwas, aber nicht genug.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 71-75",
+          "chapter": "False Set"
+        },
+        "tags": ["False Set", "Fast richtig", "Shear Line"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q16",
+        "text": "Welche Pick-Form eignet sich am besten für enge Schlösser?",
+        "options": [
+          "Breite Rake-Picks",
+          "Schmale Hook-Picks",
+          "Ball-Picks",
+          "Diamond-Picks"
+        ],
+        "correctIndex": 1,
+        "explanation": "Schmale Hook-Picks eignen sich am besten für enge Schlösser, da sie in begrenzten Räumen präzise arbeiten können.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 76-80",
+          "chapter": "Enge Schlösser"
+        },
+        "tags": ["Enge Schlösser", "Schmale Picks", "Hook-Pick"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist ein Mushroom Pin?",
+        "options": [
+          "Ein kaputter Stift",
+          "Ein Stift mit pilzförmiger Spitze",
+          "Ein sehr langer Stift",
+          "Ein Stift aus Pilzmaterial"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Mushroom Pin ist ein Driver Pin mit einer pilzförmigen Spitze, der als Sicherheitsmerkmal dient und das Lockpicking erschweren soll.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 81-85",
+          "chapter": "Sicherheitsstifte"
+        },
+        "tags": ["Mushroom Pin", "Sicherheit", "Pilzförmig"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q18",
+        "text": "Was ist ein Spool Pin?",
+        "options": [
+          "Ein runder Stift",
+          "Ein Stift mit spulenförmiger Mitte",
+          "Ein sehr dünner Stift",
+          "Ein Stift mit Gewinde"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Spool Pin ist ein Driver Pin mit einer eingezogenen Mitte (spulenförmig), der False Sets verursacht und das Lockpicking erschweren soll.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 86-90",
+          "chapter": "Spool Pins"
+        },
+        "tags": ["Spool Pin", "Spulenförmig", "False Set"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q19",
+        "text": "Welche Technik ist am besten für Anfänger?",
+        "options": [
+          "Single Pin Picking",
+          "Raking",
+          "Bumping",
+          "Impressioning"
+        ],
+        "correctIndex": 1,
+        "explanation": "Raking ist für Anfänger am besten geeignet, da es einfacher zu erlernen ist und schneller zu Ergebnissen führt als Single Pin Picking.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 91-95",
+          "chapter": "Anfänger-Techniken"
+        },
+        "tags": ["Anfänger", "Raking", "Einfach"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist ein Tumbler?",
+        "options": [
+          "Ein anderes Wort für Stift",
+          "Ein Teil des Schlüssels",
+          "Ein Werkzeug",
+          "Ein kaputtes Schloss"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tumbler ist ein anderes Wort für Stift im Schloss. Es bezeichnet die beweglichen Teile, die das Schloss verriegeln.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 96-100",
+          "chapter": "Terminologie"
+        },
+        "tags": ["Tumbler", "Stift", "Terminologie"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q21",
+        "text": "Was ist der Plug?",
+        "options": [
+          "Das äußere Gehäuse",
+          "Der innere Zylinder",
+          "Ein Werkzeug",
+          "Ein Stift"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Plug ist der innere Zylinder des Schlosses, der sich dreht, wenn alle Stifte korrekt ausgerichtet sind. Der Schlüssel wird in den Plug eingeführt.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 101-105",
+          "chapter": "Plug"
+        },
+        "tags": ["Plug", "Innerer Zylinder", "Drehen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q22",
+        "text": "Was ist das Housing?",
+        "options": [
+          "Der innere Zylinder",
+          "Das äußere Gehäuse",
+          "Ein Werkzeug",
+          "Ein Stift"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Housing ist das äußere Gehäuse des Schlosses, das den Plug umschließt und die Driver Pins enthält.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 106-110",
+          "chapter": "Housing"
+        },
+        "tags": ["Housing", "Äußeres Gehäuse", "Driver Pins"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q23",
+        "text": "Was ist ein Security Pin?",
+        "options": [
+          "Ein normaler Stift",
+          "Ein Stift mit Sicherheitsmerkmalen",
+          "Ein kaputter Stift",
+          "Ein sehr langer Stift"
+        ],
+        "correctIndex": 1,
+        "explanation": "Security Pins sind Stifte mit speziellen Formen (wie Mushroom oder Spool), die das Lockpicking erschweren sollen, indem sie False Sets verursachen.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 111-115",
+          "chapter": "Security Pins"
+        },
+        "tags": ["Security Pin", "Sicherheitsmerkmale", "Spezielle Form"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q24",
+        "text": "Welche Pick-Technik wird für sehr enge Schlösser verwendet?",
+        "options": [
+          "Raking",
+          "Bouncing",
+          "Sneaking",
+          "Rocking"
+        ],
+        "correctIndex": 3,
+        "explanation": "Rocking ist eine Technik, bei der der Pick in einer schaukelnden Bewegung durch die Stifte bewegt wird, besonders nützlich für enge Schlösser.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 116-120",
+          "chapter": "Rocking-Technik"
+        },
+        "tags": ["Rocking", "Schaukelnd", "Enge Schlösser"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q25",
+        "text": "Was ist ein Bump Key?",
+        "options": [
+          "Ein spezieller Pick",
+          "Ein Schlüssel, der zum Bumping verwendet wird",
+          "Ein Werkzeug zum Bohren",
+          "Ein kaputter Schlüssel"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Bump Key ist ein speziell geformter Schlüssel, der beim Bumping (einer anderen Öffnungstechnik) verwendet wird, um das Schloss durch Schläge zu öffnen.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 121-125",
+          "chapter": "Bump Key"
+        },
+        "tags": ["Bump Key", "Bumping", "Schläge"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q26",
+        "text": "Was ist die beste Position für den Tension Wrench?",
+        "options": [
+          "Oben im Schloss",
+          "Unten im Schloss",
+          "Es spielt keine Rolle",
+          "In der Mitte"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Tension Wrench wird normalerweise unten im Schloss positioniert, um den Pick oben genug Platz zu lassen, um die Stifte zu erreichen.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 126-130",
+          "chapter": "Tension Wrench Position"
+        },
+        "tags": ["Tension Wrench", "Position", "Unten"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Was ist ein Serrated Pin?",
+        "options": [
+          "Ein kaputter Stift",
+          "Ein Stift mit gezackter Oberfläche",
+          "Ein sehr langer Stift",
+          "Ein Stift mit Gewinde"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Serrated Pin ist ein Driver Pin mit gezackter oder geriffelter Oberfläche, der das Lockpicking erschweren soll, indem er zusätzliche Reibung erzeugt.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 131-135",
+          "chapter": "Serrated Pins"
+        },
+        "tags": ["Serrated Pin", "Gezackt", "Reibung"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q28",
+        "text": "Welche Pick-Form eignet sich am besten für sehr flache Schlösser?",
+        "options": [
+          "Hook-Pick",
+          "Ball-Pick",
+          "Diamond-Pick",
+          "Rake-Pick"
+        ],
+        "correctIndex": 2,
+        "explanation": "Diamond-Picks eignen sich gut für sehr flache Schlösser, da sie eine kompakte Form haben und in begrenzten Räumen arbeiten können.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 136-140",
+          "chapter": "Flache Schlösser"
+        },
+        "tags": ["Diamond-Pick", "Flache Schlösser", "Kompakt"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Was ist ein Master Key?",
+        "options": [
+          "Ein besonders guter Schlüssel",
+          "Ein Schlüssel, der mehrere Schlösser öffnet",
+          "Ein sehr großer Schlüssel",
+          "Ein Schlüssel für Meister"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Master Key ist ein Schlüssel, der mehrere verschiedene Schlösser in einem System öffnen kann, indem er verschiedene Stift-Kombinationen umgeht.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 141-145",
+          "chapter": "Master Key System"
+        },
+        "tags": ["Master Key", "Mehrere Schlösser", "System"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Was ist ein Change Key?",
+        "options": [
+          "Ein Schlüssel zum Wechseln",
+          "Ein Schlüssel für ein einzelnes Schloss",
+          "Ein kaputter Schlüssel",
+          "Ein Werkzeug"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Change Key ist ein Schlüssel, der nur ein einzelnes Schloss in einem Master Key System öffnet, im Gegensatz zum Master Key.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 146-150",
+          "chapter": "Change Key"
+        },
+        "tags": ["Change Key", "Einzelnes Schloss", "Master Key System"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q31",
+        "text": "Was ist ein Wafer Lock?",
+        "options": [
+          "Ein Schloss mit Stiften",
+          "Ein Schloss mit Scheiben",
+          "Ein Schloss mit Riegeln",
+          "Ein Schloss mit Federn"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Wafer Lock ist ein Schloss, das Scheiben (Wafer) anstelle von Stiften verwendet. Diese Scheiben müssen alle auf die gleiche Höhe ausgerichtet werden.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 151-155",
+          "chapter": "Wafer Locks"
+        },
+        "tags": ["Wafer Lock", "Scheiben", "Wafer"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q32",
+        "text": "Was ist ein Disc Detainer Lock?",
+        "options": [
+          "Ein Schloss mit Stiften",
+          "Ein Schloss mit Scheiben und Riegeln",
+          "Ein Schloss mit Federn",
+          "Ein Schloss mit Kugeln"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Disc Detainer Lock ist ein komplexeres Schloss mit Scheiben und Riegeln, das schwieriger zu öffnen ist als herkömmliche Stiftschlösser.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 156-160",
+          "chapter": "Disc Detainer Locks"
+        },
+        "tags": ["Disc Detainer", "Scheiben", "Riegel"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q33",
+        "text": "Was ist ein Tubular Lock?",
+        "options": [
+          "Ein röhrenförmiges Schloss",
+          "Ein Schloss mit Stiften",
+          "Ein Schloss mit Scheiben",
+          "Ein Schloss mit Riegeln"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Tubular Lock ist ein röhrenförmiges Schloss, das oft in Getränkeautomaten und ähnlichen Geräten verwendet wird und spezielle Werkzeuge zum Öffnen benötigt.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 161-165",
+          "chapter": "Tubular Locks"
+        },
+        "tags": ["Tubular Lock", "Röhrenförmig", "Getränkeautomaten"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q34",
+        "text": "Was ist ein Latch?",
+        "options": [
+          "Ein Stift",
+          "Ein Riegel",
+          "Ein Werkzeug",
+          "Ein Schlüssel"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Latch ist ein Riegel oder Bolzen, der das Schloss verriegelt und sich bewegt, wenn der Schlüssel gedreht wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 166-170",
+          "chapter": "Latch"
+        },
+        "tags": ["Latch", "Riegel", "Bolzen"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q35",
+        "text": "Was ist ein Deadbolt?",
+        "options": [
+          "Ein kaputter Riegel",
+          "Ein Riegel ohne Feder",
+          "Ein sehr starker Riegel",
+          "Ein Riegel mit Feder"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Deadbolt ist ein Riegel ohne Feder, der manuell verriegelt und entriegelt werden muss und nicht automatisch zurückspringt.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 171-175",
+          "chapter": "Deadbolt"
+        },
+        "tags": ["Deadbolt", "Ohne Feder", "Manuell"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Was ist ein Spring Latch?",
+        "options": [
+          "Ein Riegel mit Feder",
+          "Ein kaputter Riegel",
+          "Ein sehr starker Riegel",
+          "Ein Riegel ohne Feder"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Spring Latch ist ein Riegel mit einer Feder, der automatisch zurückspringt und das Schloss schließt, wenn der Schlüssel entfernt wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 176-180",
+          "chapter": "Spring Latch"
+        },
+        "tags": ["Spring Latch", "Mit Feder", "Automatisch"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Was ist ein Lever Lock?",
+        "options": [
+          "Ein Schloss mit Hebeln",
+          "Ein Schloss mit Stiften",
+          "Ein Schloss mit Scheiben",
+          "Ein Schloss mit Riegeln"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Lever Lock ist ein Schloss, das Hebel anstelle von Stiften verwendet. Die Hebel müssen alle in die richtige Position gebracht werden.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 181-185",
+          "chapter": "Lever Locks"
+        },
+        "tags": ["Lever Lock", "Hebel", "Position"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q38",
+        "text": "Was ist ein Combination Lock?",
+        "options": [
+          "Ein Schloss mit Zahlenkombination",
+          "Ein Schloss mit Stiften",
+          "Ein Schloss mit Scheiben",
+          "Ein Schloss mit Riegeln"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Combination Lock ist ein Schloss, das durch das Eingeben einer Zahlenkombination geöffnet wird, anstatt durch einen Schlüssel.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 186-190",
+          "chapter": "Combination Locks"
+        },
+        "tags": ["Combination Lock", "Zahlenkombination", "Ohne Schlüssel"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Was ist ein Warded Lock?",
+        "options": [
+          "Ein Schloss mit Stiften",
+          "Ein Schloss mit Barrieren",
+          "Ein Schloss mit Scheiben",
+          "Ein Schloss mit Riegeln"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Warded Lock ist ein einfaches Schloss mit Barrieren (Wards), die verhindern, dass der falsche Schlüssel gedreht werden kann.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 191-195",
+          "chapter": "Warded Locks"
+        },
+        "tags": ["Warded Lock", "Barrieren", "Wards"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q40",
+        "text": "Was ist ein Dimple Lock?",
+        "options": [
+          "Ein Schloss mit Stiften",
+          "Ein Schloss mit Mulden",
+          "Ein Schloss mit Scheiben",
+          "Ein Schloss mit Riegeln"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Dimple Lock ist ein Schloss, bei dem der Schlüssel Mulden (Dimples) hat, die die Stifte von der Seite her drücken, anstatt von oben.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 196-200",
+          "chapter": "Dimple Locks"
+        },
+        "tags": ["Dimple Lock", "Mulden", "Seitlich"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q41",
+        "text": "Was ist ein Magnetic Lock?",
+        "options": [
+          "Ein Schloss mit Stiften",
+          "Ein Schloss mit Magneten",
+          "Ein Schloss mit Scheiben",
+          "Ein Schloss mit Riegeln"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Magnetic Lock ist ein Schloss, das Magnete verwendet, um sich zu verriegeln. Es kann durch starke Magnete oder spezielle Werkzeuge geöffnet werden.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 201-205",
+          "chapter": "Magnetic Locks"
+        },
+        "tags": ["Magnetic Lock", "Magnete", "Magnetisch"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q42",
+        "text": "Was ist ein Sidebar?",
+        "options": [
+          "Ein Stift",
+          "Ein seitlicher Riegel",
+          "Ein Werkzeug",
+          "Ein Schlüssel"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Sidebar ist ein seitlicher Riegel in einem Schloss, der zusätzliche Sicherheit bietet und alle Stifte korrekt ausgerichtet sein müssen, damit er freigegeben wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 206-210",
+          "chapter": "Sidebar"
+        },
+        "tags": ["Sidebar", "Seitlicher Riegel", "Zusätzliche Sicherheit"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q43",
+        "text": "Was ist ein Anti-Pick Pin?",
+        "options": [
+          "Ein normaler Stift",
+          "Ein Stift, der das Lockpicking verhindert",
+          "Ein kaputter Stift",
+          "Ein sehr langer Stift"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Anti-Pick Pin ist ein speziell geformter Stift, der das Lockpicking erschweren soll, indem er False Sets verursacht oder das Setzen anderer Stifte blockiert.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 211-215",
+          "chapter": "Anti-Pick Pins"
+        },
+        "tags": ["Anti-Pick Pin", "Verhindert Lockpicking", "False Sets"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q44",
+        "text": "Was ist ein Torque Wrench?",
+        "options": [
+          "Ein anderes Wort für Tension Wrench",
+          "Ein Werkzeug zum Messen",
+          "Ein kaputter Wrench",
+          "Ein sehr starker Wrench"
+        ],
+        "correctIndex": 0,
+        "explanation": "Torque Wrench ist ein anderes Wort für Tension Wrench. Beide Begriffe bezeichnen das Werkzeug, das zum Aufbringen von Drehmoment auf den Zylinder verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 216-220",
+          "chapter": "Terminologie"
+        },
+        "tags": ["Torque Wrench", "Tension Wrench", "Synonym"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q45",
+        "text": "Was ist ein Tension Tool?",
+        "options": [
+          "Ein anderes Wort für Tension Wrench",
+          "Ein Werkzeug zum Messen",
+          "Ein kaputter Wrench",
+          "Ein sehr starker Wrench"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tension Tool ist ein weiteres Synonym für Tension Wrench. Alle diese Begriffe bezeichnen das Werkzeug zum Aufbringen von Drehmoment.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 221-225",
+          "chapter": "Terminologie"
+        },
+        "tags": ["Tension Tool", "Tension Wrench", "Synonym"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q46",
+        "text": "Was ist ein Pick Gun?",
+        "options": [
+          "Ein Werkzeug, das Stifte automatisch setzt",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Pick Gun ist ein elektrisches oder mechanisches Werkzeug, das die Stifte automatisch setzt, indem es sie schnell vibriert oder schlägt.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 226-230",
+          "chapter": "Pick Gun"
+        },
+        "tags": ["Pick Gun", "Automatisch", "Vibriert"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q47",
+        "text": "Was ist ein Bump Gun?",
+        "options": [
+          "Ein Werkzeug zum Bumping",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Bump Gun ist ein Werkzeug, das speziell für das Bumping entwickelt wurde und die Bump Keys automatisch schlägt, um das Schloss zu öffnen.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 231-235",
+          "chapter": "Bump Gun"
+        },
+        "tags": ["Bump Gun", "Bumping", "Automatisch"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q48",
+        "text": "Was ist ein Impressioning Tool?",
+        "options": [
+          "Ein Werkzeug zum Eindrucken",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Impressioning Tool ist ein Werkzeug, das verwendet wird, um Abdrücke auf einem Schlüssel zu erzeugen, um die richtige Form zu bestimmen.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 236-240",
+          "chapter": "Impressioning"
+        },
+        "tags": ["Impressioning Tool", "Eindrucken", "Abdrücke"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q49",
+        "text": "Was ist ein Decoder?",
+        "options": [
+          "Ein Werkzeug zum Dekodieren",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Decoder ist ein Werkzeug, das verwendet wird, um die Stiftlängen oder Kombinationen eines Schlosses zu bestimmen, ohne es zu öffnen.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 241-245",
+          "chapter": "Decoding"
+        },
+        "tags": ["Decoder", "Dekodieren", "Stiftlängen"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q50",
+        "text": "Was ist ein Shimming Tool?",
+        "options": [
+          "Ein Werkzeug zum Shimmen",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Shimming Tool ist ein dünnes Werkzeug, das zwischen den Stiften eingeführt wird, um sie zu umgehen oder zu manipulieren.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 246-250",
+          "chapter": "Shimming"
+        },
+        "tags": ["Shimming Tool", "Shimmen", "Dünnes Werkzeug"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q51",
+        "text": "Was ist ein Bypass Tool?",
+        "options": [
+          "Ein Werkzeug zum Umgehen",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Bypass Tool ist ein Werkzeug, das das Schloss umgeht, anstatt es zu öffnen, indem es andere Teile des Mechanismus manipuliert.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 251-255",
+          "chapter": "Bypass Tools"
+        },
+        "tags": ["Bypass Tool", "Umgehen", "Mechanismus"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q52",
+        "text": "Was ist ein Tubular Pick?",
+        "options": [
+          "Ein Pick für Tubular Locks",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Tubular Pick ist ein spezieller Pick, der für Tubular Locks entwickelt wurde und eine röhrenförmige Form hat, die in das Schloss passt.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 256-260",
+          "chapter": "Tubular Picks"
+        },
+        "tags": ["Tubular Pick", "Tubular Locks", "Röhrenförmig"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q53",
+        "text": "Was ist ein Wafer Pick?",
+        "options": [
+          "Ein Pick für Wafer Locks",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Wafer Pick ist ein spezieller Pick, der für Wafer Locks entwickelt wurde und flach genug ist, um zwischen die Wafer zu gelangen.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 261-265",
+          "chapter": "Wafer Picks"
+        },
+        "tags": ["Wafer Pick", "Wafer Locks", "Flach"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q54",
+        "text": "Was ist ein Dimple Pick?",
+        "options": [
+          "Ein Pick für Dimple Locks",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Dimple Pick ist ein spezieller Pick, der für Dimple Locks entwickelt wurde und seitlich arbeitet, um die Stifte zu erreichen.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 266-270",
+          "chapter": "Dimple Picks"
+        },
+        "tags": ["Dimple Pick", "Dimple Locks", "Seitlich"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q55",
+        "text": "Was ist ein Lever Pick?",
+        "options": [
+          "Ein Pick für Lever Locks",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Lever Pick ist ein spezieller Pick, der für Lever Locks entwickelt wurde und die Hebel in die richtige Position bringt.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 271-275",
+          "chapter": "Lever Picks"
+        },
+        "tags": ["Lever Pick", "Lever Locks", "Hebel"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q56",
+        "text": "Was ist ein Disc Pick?",
+        "options": [
+          "Ein Pick für Disc Detainer Locks",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Disc Pick ist ein spezieller Pick, der für Disc Detainer Locks entwickelt wurde und die Scheiben manipuliert.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 276-280",
+          "chapter": "Disc Picks"
+        },
+        "tags": ["Disc Pick", "Disc Detainer", "Scheiben"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q57",
+        "text": "Was ist ein Magnetic Pick?",
+        "options": [
+          "Ein Pick für Magnetic Locks",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Magnetic Pick ist ein spezieller Pick, der für Magnetic Locks entwickelt wurde und Magnete verwendet, um das Schloss zu öffnen.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 281-285",
+          "chapter": "Magnetic Picks"
+        },
+        "tags": ["Magnetic Pick", "Magnetic Locks", "Magnete"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q58",
+        "text": "Was ist ein Comb Pick?",
+        "options": [
+          "Ein Pick mit Kammform",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Comb Pick ist ein Pick mit Kammform, der alle Stifte gleichzeitig auf die gleiche Höhe setzt, um das Schloss zu öffnen.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 286-290",
+          "chapter": "Comb Picks"
+        },
+        "tags": ["Comb Pick", "Kammform", "Gleichzeitig"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q59",
+        "text": "Was ist ein Rake Pick?",
+        "options": [
+          "Ein Pick für Raking",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Rake Pick ist ein Pick, der speziell für Raking-Techniken entwickelt wurde und mehrere Stifte gleichzeitig erreichen kann.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 291-295",
+          "chapter": "Rake Picks"
+        },
+        "tags": ["Rake Pick", "Raking", "Mehrere Stifte"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q60",
+        "text": "Was ist ein Hook Pick?",
+        "options": [
+          "Ein Pick mit Hakenform",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Hook Pick ist ein Pick mit Hakenform, der ideal für Single Pin Picking ist, da er präzise auf einzelne Stifte zielen kann.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 296-300",
+          "chapter": "Hook Picks"
+        },
+        "tags": ["Hook Pick", "Hakenform", "Single Pin Picking"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q61",
+        "text": "Was ist ein Ball Pick?",
+        "options": [
+          "Ein Pick mit Kugelform",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Ball Pick ist ein Pick mit kugelförmiger Spitze, der für bestimmte Schloss-Typen und -Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 301-305",
+          "chapter": "Ball Picks"
+        },
+        "tags": ["Ball Pick", "Kugelform", "Spitze"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q62",
+        "text": "Was ist ein Diamond Pick?",
+        "options": [
+          "Ein Pick mit Diamantform",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Diamond Pick ist ein Pick mit Diamantform, der vielseitig einsetzbar ist und für verschiedene Techniken verwendet werden kann.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 306-310",
+          "chapter": "Diamond Picks"
+        },
+        "tags": ["Diamond Pick", "Diamantform", "Vielseitig"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q63",
+        "text": "Was ist ein Snake Rake?",
+        "options": [
+          "Ein Pick mit Schlangenform",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Snake Rake ist ein Pick mit schlangenförmiger Form, der besonders gut für Raking-Techniken geeignet ist.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 311-315",
+          "chapter": "Snake Rake"
+        },
+        "tags": ["Snake Rake", "Schlangenform", "Raking"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q64",
+        "text": "Was ist ein Bogota Rake?",
+        "options": [
+          "Ein Pick mit spezieller Form",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Bogota Rake ist ein Pick mit einer speziellen Form, die mehrere Spitzen hat und sehr effektiv für Raking ist.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 316-320",
+          "chapter": "Bogota Rake"
+        },
+        "tags": ["Bogota Rake", "Spezielle Form", "Effektiv"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q65",
+        "text": "Was ist ein L-Rake?",
+        "options": [
+          "Ein Pick mit L-Form",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein L-Rake ist ein Pick mit L-förmiger Form, der für bestimmte Raking-Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 321-325",
+          "chapter": "L-Rake"
+        },
+        "tags": ["L-Rake", "L-Form", "Raking"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q66",
+        "text": "Was ist ein City Rake?",
+        "options": [
+          "Ein Pick mit Stadtform",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein City Rake ist ein Pick mit einer Form, die an eine Stadt-Silhouette erinnert und für Raking verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 326-330",
+          "chapter": "City Rake"
+        },
+        "tags": ["City Rake", "Stadtform", "Silhouette"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q67",
+        "text": "Was ist ein S-Rake?",
+        "options": [
+          "Ein Pick mit S-Form",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein S-Rake ist ein Pick mit S-förmiger Form, der für bestimmte Raking-Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 331-335",
+          "chapter": "S-Rake"
+        },
+        "tags": ["S-Rake", "S-Form", "Raking"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q68",
+        "text": "Was ist ein W-Rake?",
+        "options": [
+          "Ein Pick mit W-Form",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein W-Rake ist ein Pick mit W-förmiger Form, der für bestimmte Raking-Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 336-340",
+          "chapter": "W-Rake"
+        },
+        "tags": ["W-Rake", "W-Form", "Raking"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q69",
+        "text": "Was ist ein Half Diamond?",
+        "options": [
+          "Ein Pick mit halber Diamantform",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Half Diamond ist ein Pick mit halber Diamantform, der vielseitig einsetzbar ist und für verschiedene Techniken verwendet werden kann.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 341-345",
+          "chapter": "Half Diamond"
+        },
+        "tags": ["Half Diamond", "Halber Diamant", "Vielseitig"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q70",
+        "text": "Was ist ein Triple Peak?",
+        "options": [
+          "Ein Pick mit drei Spitzen",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Triple Peak ist ein Pick mit drei Spitzen, der für bestimmte Raking-Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 346-350",
+          "chapter": "Triple Peak"
+        },
+        "tags": ["Triple Peak", "Drei Spitzen", "Raking"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q71",
+        "text": "Was ist ein Quad Rake?",
+        "options": [
+          "Ein Pick mit vier Spitzen",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Quad Rake ist ein Pick mit vier Spitzen, der für bestimmte Raking-Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 351-355",
+          "chapter": "Quad Rake"
+        },
+        "tags": ["Quad Rake", "Vier Spitzen", "Raking"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q72",
+        "text": "Was ist ein Double Ball?",
+        "options": [
+          "Ein Pick mit zwei Kugeln",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Double Ball ist ein Pick mit zwei kugelförmigen Spitzen, der für bestimmte Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 356-360",
+          "chapter": "Double Ball"
+        },
+        "tags": ["Double Ball", "Zwei Kugeln", "Kugelförmig"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q73",
+        "text": "Was ist ein Offset Hybrid?",
+        "options": [
+          "Ein Pick mit versetzter Hybridform",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Offset Hybrid ist ein Pick mit versetzter Hybridform, der verschiedene Techniken kombiniert.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 361-365",
+          "chapter": "Offset Hybrid"
+        },
+        "tags": ["Offset Hybrid", "Versetzt", "Hybridform"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q74",
+        "text": "Was ist ein Short Hook?",
+        "options": [
+          "Ein kurzer Haken-Pick",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Short Hook ist ein kurzer Haken-Pick, der für enge Schlösser oder präzise Arbeit verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 366-370",
+          "chapter": "Short Hook"
+        },
+        "tags": ["Short Hook", "Kurz", "Präzise"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q75",
+        "text": "Was ist ein Long Hook?",
+        "options": [
+          "Ein langer Haken-Pick",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Long Hook ist ein langer Haken-Pick, der für tiefe Schlösser oder Stifte verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 371-375",
+          "chapter": "Long Hook"
+        },
+        "tags": ["Long Hook", "Lang", "Tief"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q76",
+        "text": "Was ist ein Deep Hook?",
+        "options": [
+          "Ein tiefer Haken-Pick",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Deep Hook ist ein tiefer Haken-Pick, der für sehr tiefe Schlösser oder Stifte verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 376-380",
+          "chapter": "Deep Hook"
+        },
+        "tags": ["Deep Hook", "Tief", "Sehr tief"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q77",
+        "text": "Was ist ein Steep Hook?",
+        "options": [
+          "Ein steiler Haken-Pick",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Steep Hook ist ein steiler Haken-Pick, der für bestimmte Schloss-Typen oder -Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 381-385",
+          "chapter": "Steep Hook"
+        },
+        "tags": ["Steep Hook", "Steil", "Bestimmte Typen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q78",
+        "text": "Was ist ein Shallow Hook?",
+        "options": [
+          "Ein flacher Haken-Pick",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Shallow Hook ist ein flacher Haken-Pick, der für flache Schlösser oder Stifte verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 386-390",
+          "chapter": "Shallow Hook"
+        },
+        "tags": ["Shallow Hook", "Flach", "Flache Schlösser"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q79",
+        "text": "Was ist ein Curved Hook?",
+        "options": [
+          "Ein gebogener Haken-Pick",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Curved Hook ist ein gebogener Haken-Pick, der für bestimmte Schloss-Typen oder -Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 391-395",
+          "chapter": "Curved Hook"
+        },
+        "tags": ["Curved Hook", "Gebogen", "Bestimmte Typen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q80",
+        "text": "Was ist ein Straight Hook?",
+        "options": [
+          "Ein gerader Haken-Pick",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Straight Hook ist ein gerader Haken-Pick, der für Standard-Schlösser oder -Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 396-400",
+          "chapter": "Straight Hook"
+        },
+        "tags": ["Straight Hook", "Gerade", "Standard"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q81",
+        "text": "Was ist ein Offset Diamond?",
+        "options": [
+          "Ein versetzter Diamant-Pick",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Offset Diamond ist ein versetzter Diamant-Pick, der für bestimmte Schloss-Typen oder -Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 401-405",
+          "chapter": "Offset Diamond"
+        },
+        "tags": ["Offset Diamond", "Versetzt", "Diamant"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q82",
+        "text": "Was ist ein Euro Hook?",
+        "options": [
+          "Ein europäischer Haken-Pick",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Euro Hook ist ein europäischer Haken-Pick, der für europäische Schloss-Typen entwickelt wurde.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 406-410",
+          "chapter": "Euro Hook"
+        },
+        "tags": ["Euro Hook", "Europäisch", "Europäische Typen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q83",
+        "text": "Was ist ein Gem?",
+        "options": [
+          "Ein Pick mit Edelsteinform",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Gem ist ein Pick mit Edelsteinform, der für bestimmte Techniken oder Schloss-Typen verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 411-415",
+          "chapter": "Gem"
+        },
+        "tags": ["Gem", "Edelsteinform", "Bestimmte Techniken"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q84",
+        "text": "Was ist ein Pagoda?",
+        "options": [
+          "Ein Pick mit Pagodenform",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Pagoda ist ein Pick mit Pagodenform, der für bestimmte Techniken oder Schloss-Typen verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 416-420",
+          "chapter": "Pagoda"
+        },
+        "tags": ["Pagoda", "Pagodenform", "Bestimmte Techniken"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q85",
+        "text": "Was ist ein Half Snowman?",
+        "options": [
+          "Ein Pick mit halber Schneemannform",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Half Snowman ist ein Pick mit halber Schneemannform, der für bestimmte Techniken oder Schloss-Typen verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 421-425",
+          "chapter": "Half Snowman"
+        },
+        "tags": ["Half Snowman", "Halbe Schneemannform", "Bestimmte Techniken"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q86",
+        "text": "Was ist ein Snowman?",
+        "options": [
+          "Ein Pick mit Schneemannform",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Snowman ist ein Pick mit Schneemannform, der für bestimmte Techniken oder Schloss-Typen verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 426-430",
+          "chapter": "Snowman"
+        },
+        "tags": ["Snowman", "Schneemannform", "Bestimmte Techniken"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q87",
+        "text": "Was ist ein Worm?",
+        "options": [
+          "Ein Pick mit Wurmform",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Worm ist ein Pick mit Wurmform, der für bestimmte Techniken oder Schloss-Typen verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 431-435",
+          "chapter": "Worm"
+        },
+        "tags": ["Worm", "Wurmform", "Bestimmte Techniken"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q88",
+        "text": "Was ist ein Twisted Wire?",
+        "options": [
+          "Ein Pick mit verdrahteter Form",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Twisted Wire ist ein Pick mit verdrahteter Form, der für bestimmte Techniken oder Schloss-Typen verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 436-440",
+          "chapter": "Twisted Wire"
+        },
+        "tags": ["Twisted Wire", "Verdrahtet", "Bestimmte Techniken"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q89",
+        "text": "Was ist ein Peterson Pry Bar?",
+        "options": [
+          "Ein spezieller Tension Wrench",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Peterson Pry Bar ist ein spezieller Tension Wrench, der von Peterson Tools hergestellt wird und für bestimmte Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 441-445",
+          "chapter": "Peterson Pry Bar"
+        },
+        "tags": ["Peterson Pry Bar", "Spezieller Tension Wrench", "Peterson Tools"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q90",
+        "text": "Was ist ein Sparrows Tension Wrench?",
+        "options": [
+          "Ein Tension Wrench von Sparrows",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Sparrows Tension Wrench ist ein Tension Wrench, der von Sparrows Lock Picks hergestellt wird und für bestimmte Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 446-450",
+          "chapter": "Sparrows Tension Wrench"
+        },
+        "tags": ["Sparrows Tension Wrench", "Sparrows", "Lock Picks"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q91",
+        "text": "Was ist ein Southord Tension Wrench?",
+        "options": [
+          "Ein Tension Wrench von Southord",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Southord Tension Wrench ist ein Tension Wrench, der von Southord hergestellt wird und für bestimmte Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 451-455",
+          "chapter": "Southord Tension Wrench"
+        },
+        "tags": ["Southord Tension Wrench", "Southord", "Bestimmte Techniken"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q92",
+        "text": "Was ist ein HPC Tension Wrench?",
+        "options": [
+          "Ein Tension Wrench von HPC",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein HPC Tension Wrench ist ein Tension Wrench, der von HPC hergestellt wird und für bestimmte Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 456-460",
+          "chapter": "HPC Tension Wrench"
+        },
+        "tags": ["HPC Tension Wrench", "HPC", "Bestimmte Techniken"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q93",
+        "text": "Was ist ein Peterson Tension Wrench?",
+        "options": [
+          "Ein Tension Wrench von Peterson",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Peterson Tension Wrench ist ein Tension Wrench, der von Peterson Tools hergestellt wird und für bestimmte Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 461-465",
+          "chapter": "Peterson Tension Wrench"
+        },
+        "tags": ["Peterson Tension Wrench", "Peterson Tools", "Bestimmte Techniken"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q94",
+        "text": "Was ist ein Sparrows Pick?",
+        "options": [
+          "Ein Pick von Sparrows",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Sparrows Pick ist ein Pick, der von Sparrows Lock Picks hergestellt wird und für bestimmte Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 466-470",
+          "chapter": "Sparrows Picks"
+        },
+        "tags": ["Sparrows Pick", "Sparrows Lock Picks", "Bestimmte Techniken"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q95",
+        "text": "Was ist ein Southord Pick?",
+        "options": [
+          "Ein Pick von Southord",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Southord Pick ist ein Pick, der von Southord hergestellt wird und für bestimmte Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 471-475",
+          "chapter": "Southord Picks"
+        },
+        "tags": ["Southord Pick", "Southord", "Bestimmte Techniken"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q96",
+        "text": "Was ist ein HPC Pick?",
+        "options": [
+          "Ein Pick von HPC",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein HPC Pick ist ein Pick, der von HPC hergestellt wird und für bestimmte Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 476-480",
+          "chapter": "HPC Picks"
+        },
+        "tags": ["HPC Pick", "HPC", "Bestimmte Techniken"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q97",
+        "text": "Was ist ein Peterson Pick?",
+        "options": [
+          "Ein Pick von Peterson",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Peterson Pick ist ein Pick, der von Peterson Tools hergestellt wird und für bestimmte Techniken verwendet wird.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 481-485",
+          "chapter": "Peterson Picks"
+        },
+        "tags": ["Peterson Pick", "Peterson Tools", "Bestimmte Techniken"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q98",
+        "text": "Was ist ein Sparrows Set?",
+        "options": [
+          "Ein Pick-Set von Sparrows",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Sparrows Set ist ein Pick-Set, das von Sparrows Lock Picks hergestellt wird und verschiedene Picks und Tension Wrenches enthält.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 486-490",
+          "chapter": "Sparrows Sets"
+        },
+        "tags": ["Sparrows Set", "Pick-Set", "Verschiedene Picks"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q99",
+        "text": "Was ist ein Southord Set?",
+        "options": [
+          "Ein Pick-Set von Southord",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Southord Set ist ein Pick-Set, das von Southord hergestellt wird und verschiedene Picks und Tension Wrenches enthält.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 491-495",
+          "chapter": "Southord Sets"
+        },
+        "tags": ["Southord Set", "Pick-Set", "Verschiedene Picks"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q100",
+        "text": "Was ist ein HPC Set?",
+        "options": [
+          "Ein Pick-Set von HPC",
+          "Ein Werkzeug zum Bohren",
+          "Ein sehr starker Pick",
+          "Ein kaputter Pick"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein HPC Set ist ein Pick-Set, das von HPC hergestellt wird und verschiedene Picks und Tension Wrenches enthält.",
+        "source": {
+          "citation": "MIT Lockpicking Guide",
+          "pages": "S. 496-500",
+          "chapter": "HPC Sets"
+        },
+        "tags": ["HPC Set", "Pick-Set", "Verschiedene Picks"],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}

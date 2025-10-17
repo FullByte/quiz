@@ -1,0 +1,1926 @@
+{
+  "quiz": {
+    "title": "Astronomie Quiz - Ihr neues Hobby",
+    "description": "Ein umfassendes Quiz mit 100 Fragen zur Astronomie als Einführung in das Hobby der Himmelsbeobachtung.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2025-01-16T14:00:00Z",
+      "notes": "Quiz basierend auf dem VdS Astronomie-Leitfaden"
+    },
+    "sourceDocument": {
+      "title": "Astronomie - Ihr neues Hobby",
+      "version": "2023",
+      "year": 2023,
+      "pdfFilename": "VdS_Astronomie-Ihr-neues-Hobby.pdf"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist die Hauptfunktion eines Teleskops?",
+        "options": [
+          "Licht zu sammeln und zu bündeln",
+          "Sterne zu erzeugen",
+          "Planeten zu bewegen",
+          "Mondphasen zu verursachen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Teleskop sammelt Licht von Himmelsobjekten und bündelt es, um entfernte Objekte heller und größer erscheinen zu lassen. Es erzeugt keine Objekte, sondern macht sie nur sichtbarer.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 15-25",
+          "chapter": "Grundlagen der Teleskope"
+        },
+        "tags": ["Teleskop", "Grundlagen", "Optik"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welcher Planet ist der Sonne am nächsten?",
+        "options": [
+          "Venus",
+          "Merkur",
+          "Erde",
+          "Mars"
+        ],
+        "correctIndex": 1,
+        "explanation": "Merkur ist der sonnennächste Planet in unserem Sonnensystem. Er umkreist die Sonne in nur 88 Tagen und hat keine Atmosphäre.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 45-50",
+          "chapter": "Das Sonnensystem"
+        },
+        "tags": ["Planeten", "Sonnensystem", "Merkur"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Was ist eine Supernova?",
+        "options": [
+          "Ein neuer Planet",
+          "Die Explosion eines massereichen Sterns",
+          "Ein Komet",
+          "Ein Asteroid"
+        ],
+        "correctIndex": 1,
+        "explanation": "Eine Supernova ist die gewaltige Explosion eines massereichen Sterns am Ende seines Lebens. Dabei wird enorm viel Energie freigesetzt und der Stern kann für kurze Zeit heller als eine ganze Galaxie leuchten.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 120-130",
+          "chapter": "Stellare Phänomene"
+        },
+        "tags": ["Sterne", "Supernova", "Explosion"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Welches ist das größte Teleskop-Typ?",
+        "options": [
+          "Refraktor (Linsenteleskop)",
+          "Reflektor (Spiegelteleskop)",
+          "Katadioptrisches Teleskop",
+          "Fernglas"
+        ],
+        "correctIndex": 1,
+        "explanation": "Spiegelteleskope (Reflektoren) können am größten gebaut werden, da Spiegel nur an den Rändern unterstützt werden müssen. Die größten Teleskope der Welt sind alle Spiegelteleskope.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 30-40",
+          "chapter": "Teleskop-Typen"
+        },
+        "tags": ["Teleskop", "Reflektor", "Größe"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q5",
+        "text": "Was versteht man unter 'Seeing' in der Astronomie?",
+        "options": [
+          "Die Helligkeit eines Sterns",
+          "Die Luftunruhe der Erdatmosphäre",
+          "Die Größe eines Teleskops",
+          "Die Entfernung zu einem Objekt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Seeing beschreibt die Stabilität der Erdatmosphäre. Bei gutem Seeing sind die Sterne ruhig und scharf, bei schlechtem Seeing flackern sie stark. Dies beeinflusst die Qualität der Beobachtung erheblich.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 60-65",
+          "chapter": "Beobachtungsbedingungen"
+        },
+        "tags": ["Seeing", "Atmosphäre", "Beobachtung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Welcher Stern ist der Sonne am nächsten?",
+        "options": [
+          "Alpha Centauri",
+          "Proxima Centauri",
+          "Sirius",
+          "Polaris"
+        ],
+        "correctIndex": 1,
+        "explanation": "Proxima Centauri ist der sonnennächste Stern in etwa 4,24 Lichtjahren Entfernung. Er gehört zum Alpha-Centauri-System und ist ein roter Zwergstern.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 100-110",
+          "chapter": "Nächste Sterne"
+        },
+        "tags": ["Sterne", "Entfernung", "Proxima Centauri"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q7",
+        "text": "Was ist die Milchstraße?",
+        "options": [
+          "Ein einzelner Stern",
+          "Unsere Galaxie",
+          "Ein Planetensystem",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Milchstraße ist unsere Heimatgalaxie, eine Spiralgalaxie mit etwa 100-400 Milliarden Sternen. Wir befinden uns in einem ihrer Spiralarme und sehen sie als helles Band am Nachthimmel.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 140-150",
+          "chapter": "Galaxien"
+        },
+        "tags": ["Milchstraße", "Galaxie", "Heimat"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Welcher Planet hat die meisten Monde?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 1,
+        "explanation": "Saturn hat die meisten bekannten Monde (über 140), mehr als Jupiter. Seine bekanntesten Monde sind Titan und Enceladus, wobei Titan sogar eine dichte Atmosphäre besitzt.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 55-65",
+          "chapter": "Gasriesen"
+        },
+        "tags": ["Saturn", "Monde", "Gasriesen"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist ein Nebel?",
+        "options": [
+          "Ein Stern",
+          "Eine Ansammlung von Gas und Staub im Weltraum",
+          "Ein Planet",
+          "Ein Asteroid"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Nebel ist eine Wolke aus Gas und Staub im Weltraum. Es gibt verschiedene Arten: Emissionsnebel (leuchten selbst), Reflexionsnebel (reflektieren Licht) und Dunkelnebel (absorbieren Licht).",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 130-140",
+          "chapter": "Interstellare Materie"
+        },
+        "tags": ["Nebel", "Gas", "Staub"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q10",
+        "text": "Welche Farbe haben die heißesten Sterne?",
+        "options": [
+          "Rot",
+          "Gelb",
+          "Blau",
+          "Grün"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die heißesten Sterne sind blau-weiß, da sie bei sehr hohen Temperaturen (über 10.000°C) strahlen. Rote Sterne sind dagegen kühler (unter 3.500°C). Die Farbe gibt Auskunft über die Oberflächentemperatur.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 110-120",
+          "chapter": "Sterneigenschaften"
+        },
+        "tags": ["Sterne", "Farbe", "Temperatur"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Was ist die Ekliptik?",
+        "options": [
+          "Die Bahn der Sonne am Himmel",
+          "Die scheinbare Bahn der Sonne vor dem Sternenhintergrund",
+          "Die Erdachse",
+          "Die Mondbahn"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Ekliptik ist die scheinbare Bahn, die die Sonne im Laufe eines Jahres vor dem Sternenhintergrund beschreibt. Sie ist der Schnittkreis zwischen der Erdbahnebene und der Himmelskugel.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 80-90",
+          "chapter": "Himmelsmechanik"
+        },
+        "tags": ["Ekliptik", "Sonne", "Bahn"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q12",
+        "text": "Welcher Planet ist am besten mit bloßem Auge sichtbar?",
+        "options": [
+          "Merkur",
+          "Venus",
+          "Mars",
+          "Jupiter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Venus ist der hellste Planet am Himmel und oft als 'Morgenstern' oder 'Abendstern' sichtbar. Sie reflektiert viel Sonnenlicht wegen ihrer dichten Atmosphäre und ist meist heller als alle anderen Planeten.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 45-55",
+          "chapter": "Planetenbeobachtung"
+        },
+        "tags": ["Venus", "Helligkeit", "Planeten"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q13",
+        "text": "Was ist ein Schwarzes Loch?",
+        "options": [
+          "Ein dunkler Stern",
+          "Ein Objekt mit so starker Gravitation, dass nichts entkommen kann",
+          "Ein leerer Raum",
+          "Ein Planet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Schwarzes Loch ist ein Objekt mit extrem starker Gravitation. Innerhalb des Ereignishorizonts ist die Gravitation so stark, dass nicht einmal Licht entkommen kann, daher erscheint es schwarz.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 160-170",
+          "chapter": "Extreme Objekte"
+        },
+        "tags": ["Schwarzes Loch", "Gravitation", "Extrem"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q14",
+        "text": "Welches ist der größte Planet unseres Sonnensystems?",
+        "options": [
+          "Saturn",
+          "Jupiter",
+          "Neptun",
+          "Uranus"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jupiter ist der größte Planet unseres Sonnensystems. Er hat mehr Masse als alle anderen Planeten zusammen und ist ein Gasriese ohne feste Oberfläche.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 55-65",
+          "chapter": "Gasriesen"
+        },
+        "tags": ["Jupiter", "Größe", "Gasriese"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q15",
+        "text": "Was ist die Lichtgeschwindigkeit?",
+        "options": [
+          "300.000 km/s",
+          "150.000 km/s",
+          "450.000 km/s",
+          "600.000 km/s"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Lichtgeschwindigkeit beträgt etwa 300.000 Kilometer pro Sekunde (genauer: 299.792.458 m/s). Dies ist die höchste Geschwindigkeit im Universum und entspricht etwa 1 Milliarde km/h.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 170-180",
+          "chapter": "Physikalische Grundlagen"
+        },
+        "tags": ["Lichtgeschwindigkeit", "Physik", "Konstante"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q16",
+        "text": "Welcher Stern steht am Nordpol des Himmels?",
+        "options": [
+          "Sirius",
+          "Polaris (Nordstern)",
+          "Vega",
+          "Arktur"
+        ],
+        "correctIndex": 1,
+        "explanation": "Polaris, auch Nordstern genannt, steht sehr nah am Himmelsnordpol. Daher scheint er sich nicht zu bewegen, während alle anderen Sterne um ihn kreisen. Er ist ein wichtiger Orientierungspunkt für Navigation.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 90-100",
+          "chapter": "Himmelsnavigation"
+        },
+        "tags": ["Polaris", "Nordstern", "Navigation"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q17",
+        "text": "Was ist ein Meteorit?",
+        "options": [
+          "Ein Stern",
+          "Ein Gesteinsbrocken, der auf die Erde gefallen ist",
+          "Ein Planet",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Meteorit ist ein Gesteinsbrocken aus dem Weltraum, der die Erdatmosphäre durchquert und auf der Erdoberfläche eingeschlagen ist. Als Meteor erscheint er als Leuchtspur am Himmel.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 70-80",
+          "chapter": "Kleine Körper"
+        },
+        "tags": ["Meteorit", "Gestein", "Einschlag"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Welche Form hat die Erdumlaufbahn um die Sonne?",
+        "options": [
+          "Kreis",
+          "Ellipse",
+          "Parabel",
+          "Hyperbel"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Erdumlaufbahn um die Sonne ist eine Ellipse, wobei die Sonne in einem der Brennpunkte steht. Die Exzentrizität ist jedoch sehr gering, daher ist die Bahn fast kreisförmig.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 80-90",
+          "chapter": "Himmelsmechanik"
+        },
+        "tags": ["Erdbahn", "Ellipse", "Umlaufbahn"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist die Hauptkomponente der Sonne?",
+        "options": [
+          "Helium",
+          "Wasserstoff",
+          "Sauerstoff",
+          "Kohlendioxid"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Sonne besteht hauptsächlich aus Wasserstoff (etwa 73%) und Helium (etwa 25%). Durch Kernfusion wird Wasserstoff zu Helium umgewandelt, wobei enorme Energiemengen freigesetzt werden.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 40-45",
+          "chapter": "Die Sonne"
+        },
+        "tags": ["Sonne", "Wasserstoff", "Kernfusion"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q20",
+        "text": "Welches Teleskop eignet sich am besten für Anfänger?",
+        "options": [
+          "Ein großes Spiegelteleskop",
+          "Ein kleines bis mittleres Refraktor",
+          "Ein Radioteleskop",
+          "Ein Weltraumteleskop"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein kleiner bis mittlerer Refraktor (Linsenteleskop) eignet sich am besten für Anfänger, da er wartungsarm ist, eine gute Bildqualität bietet und einfach zu bedienen ist. Große Teleskope sind schwerer zu handhaben.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 25-35",
+          "chapter": "Teleskop-Auswahl"
+        },
+        "tags": ["Anfänger", "Refraktor", "Teleskop"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q21",
+        "text": "Was ist ein Doppelstern?",
+        "options": [
+          "Zwei Sterne, die sehr nah beieinander stehen",
+          "Ein Stern, der sich teilt",
+          "Ein Stern mit zwei Planeten",
+          "Ein Stern mit zwei Monden"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Doppelstern (oder Binärsystem) besteht aus zwei Sternen, die sich um ihren gemeinsamen Schwerpunkt bewegen. Sie können optisch getrennt oder nur spektroskopisch nachweisbar sein.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 120-125",
+          "chapter": "Doppelsterne"
+        },
+        "tags": ["Doppelstern", "Binärsystem", "Sterne"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q22",
+        "text": "Welcher Planet hat die charakteristischen Ringe?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 1,
+        "explanation": "Saturn ist berühmt für sein ausgeprägtes Ringsystem, das hauptsächlich aus Eis- und Gesteinsteilchen besteht. Alle Gasriesen haben Ringe, aber die von Saturn sind am deutlichsten sichtbar.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 55-65",
+          "chapter": "Saturn und seine Ringe"
+        },
+        "tags": ["Saturn", "Ringe", "Gasriese"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q23",
+        "text": "Was ist die Sonnenfinsternis?",
+        "options": [
+          "Der Mond verdeckt die Sonne",
+          "Die Sonne wird dunkler",
+          "Die Erde verdeckt den Mond",
+          "Ein Planet verdeckt die Sonne"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bei einer Sonnenfinsternis schiebt sich der Mond zwischen Erde und Sonne und verdeckt die Sonne ganz oder teilweise. Dies ist nur bei Neumond möglich und nur in einem schmalen Streifen auf der Erde sichtbar.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 90-95",
+          "chapter": "Finsternisse"
+        },
+        "tags": ["Sonnenfinsternis", "Mond", "Finsternis"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q24",
+        "text": "Welches ist das größte Objekt im Asteroidengürtel?",
+        "options": [
+          "Ceres",
+          "Vesta",
+          "Pallas",
+          "Juno"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ceres ist das größte Objekt im Asteroidengürtel zwischen Mars und Jupiter. Sie ist so groß, dass sie als Zwergplanet klassifiziert wurde und sogar eine eigene Atmosphäre haben kann.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 70-75",
+          "chapter": "Asteroiden"
+        },
+        "tags": ["Ceres", "Asteroid", "Zwergplanet"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q25",
+        "text": "Was ist ein Pulsar?",
+        "options": [
+          "Ein schnell rotierender Neutronenstern",
+          "Ein pulsierender Planet",
+          "Ein variabler Stern",
+          "Ein Komet"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ein Pulsar ist ein schnell rotierender Neutronenstern, der regelmäßige Radiopulse aussendet. Diese entstehen durch die Rotation des Sterns und starke Magnetfelder, die gebündelte Strahlung emittieren.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 150-160",
+          "chapter": "Neutronensterne"
+        },
+        "tags": ["Pulsar", "Neutronenstern", "Radio"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q26",
+        "text": "Welche Temperatur herrscht auf der Sonnenoberfläche?",
+        "options": [
+          "5.500°C",
+          "15.000°C",
+          "25.000°C",
+          "35.000°C"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Sonnenoberfläche (Photosphäre) hat eine Temperatur von etwa 5.500°C. Im Kern der Sonne herrschen dagegen Temperaturen von über 15 Millionen Grad Celsius.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 40-45",
+          "chapter": "Sonnenstruktur"
+        },
+        "tags": ["Sonne", "Temperatur", "Photosphäre"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Was ist ein Kometenschweif?",
+        "options": [
+          "Der Kometenkern",
+          "Gas und Staub, die vom Kometen weggeblasen werden",
+          "Die Umlaufbahn des Kometen",
+          "Die Atmosphäre des Kometen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Kometenschweif entsteht, wenn ein Komet sich der Sonne nähert. Durch die Sonnenstrahlung verdampft Eis vom Kometenkern und wird zusammen mit Staub vom Sonnenwind weggeblasen, wodurch der charakteristische Schweif entsteht.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 75-80",
+          "chapter": "Kometen"
+        },
+        "tags": ["Komet", "Schweif", "Verdampfung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q28",
+        "text": "Welcher Planet ist der äußerste Gasriese?",
+        "options": [
+          "Uranus",
+          "Neptun",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correctIndex": 1,
+        "explanation": "Neptun ist der äußerste Planet unseres Sonnensystems und ein Gasriese. Er ist etwa 30-mal weiter von der Sonne entfernt als die Erde und braucht 165 Jahre für einen Umlauf.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Äußere Planeten"
+        },
+        "tags": ["Neptun", "Gasriese", "Äußerster Planet"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q29",
+        "text": "Was ist die Andromedagalaxie?",
+        "options": [
+          "Unsere eigene Galaxie",
+          "Die nächste große Spiralgalaxie",
+          "Ein Stern",
+          "Ein Planet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Andromedagalaxie (M31) ist die nächste große Spiralgalaxie zur Milchstraße in etwa 2,5 Millionen Lichtjahren Entfernung. Sie ist mit bloßem Auge sichtbar und wird in Zukunft mit unserer Galaxie kollidieren.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 140-145",
+          "chapter": "Nachbargalaxien"
+        },
+        "tags": ["Andromedagalaxie", "Spiralgalaxie", "Nachbargalaxie"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Welches Teleskop eignet sich am besten für Planetenbeobachtung?",
+        "options": [
+          "Ein Refraktor mit hoher Vergrößerung",
+          "Ein Reflektor mit großer Öffnung",
+          "Ein Radioteleskop",
+          "Ein Infrarotteleskop"
+        ],
+        "correctIndex": 0,
+        "explanation": "Für Planetenbeobachtung eignet sich ein Refraktor mit hoher Vergrößerung am besten, da er scharfe, kontrastreiche Bilder liefert. Große Öffnungen sind bei Planeten weniger wichtig als bei schwachen Objekten.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 35-40",
+          "chapter": "Beobachtungstechniken"
+        },
+        "tags": ["Planetenbeobachtung", "Refraktor", "Vergrößerung"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q31",
+        "text": "Was ist ein Roter Riese?",
+        "options": [
+          "Ein sehr großer Planet",
+          "Ein alter, aufgeblähter Stern",
+          "Ein junger Stern",
+          "Ein Schwarzes Loch"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Roter Riese ist ein alter Stern, der seinen Wasserstoffvorrat verbraucht hat. Der Stern bläht sich auf und wird rot und sehr groß, während er Helium fusioniert. Die Sonne wird in etwa 5 Milliarden Jahren zu einem Roten Riesen.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 125-130",
+          "chapter": "Sternentwicklung"
+        },
+        "tags": ["Roter Riese", "Sternentwicklung", "Alter Stern"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q32",
+        "text": "Welcher Planet hat die längste Rotationsperiode?",
+        "options": [
+          "Venus",
+          "Merkur",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correctIndex": 0,
+        "explanation": "Venus hat die längste Rotationsperiode aller Planeten - sie dreht sich in 243 Erdentagen einmal um sich selbst. Interessanterweise dreht sie sich rückwärts (retrograde Rotation) im Vergleich zu den anderen Planeten.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 50-55",
+          "chapter": "Planetenrotation"
+        },
+        "tags": ["Venus", "Rotation", "Retrograde"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q33",
+        "text": "Was ist ein Weißer Zwerg?",
+        "options": [
+          "Ein sehr kleiner Stern",
+          "Der Überrest eines mittelgroßen Sterns",
+          "Ein junger Stern",
+          "Ein Planet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Weißer Zwerg ist der Überrest eines mittelgroßen Sterns (wie unserer Sonne) nach dem Verbrauch seines Brennstoffs. Er ist sehr dicht und kühlt langsam ab, bis er zu einem Schwarzen Zwerg wird.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 130-135",
+          "chapter": "Stellare Überreste"
+        },
+        "tags": ["Weißer Zwerg", "Stellarer Überrest", "Endstadium"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q34",
+        "text": "Welches ist der hellste Stern am Nachthimmel?",
+        "options": [
+          "Polaris",
+          "Sirius",
+          "Vega",
+          "Arktur"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sirius (auch Hundsstern genannt) ist der hellste Stern am Nachthimmel. Er ist Teil des Sternbilds Großer Hund und befindet sich in nur 8,6 Lichtjahren Entfernung, was seine Helligkeit erklärt.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 100-105",
+          "chapter": "Helle Sterne"
+        },
+        "tags": ["Sirius", "Hundsstern", "Helligster Stern"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q35",
+        "text": "Was ist die Sonnenflecken?",
+        "options": [
+          "Löcher in der Sonne",
+          "Kühlere Bereiche auf der Sonnenoberfläche",
+          "Vulkane auf der Sonne",
+          "Sterne vor der Sonne"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sonnenflecken sind kühlere Bereiche auf der Sonnenoberfläche, die durch starke Magnetfelder entstehen. Sie erscheinen dunkler als die Umgebung und haben eine Temperatur von etwa 3.000-4.000°C statt der normalen 5.500°C.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 45-50",
+          "chapter": "Sonnenaktivität"
+        },
+        "tags": ["Sonnenflecken", "Magnetfelder", "Sonnenaktivität"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Welcher Planet hat die meisten Ringe?",
+        "options": [
+          "Saturn",
+          "Jupiter",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 2,
+        "explanation": "Uranus hat die meisten bekannten Ringe - insgesamt 13 Ringe, mehr als Saturn. Allerdings sind sie sehr dunkel und schwer zu beobachten, während die Ringe von Saturn am auffälligsten sind.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Planetenringe"
+        },
+        "tags": ["Uranus", "Ringe", "Anzahl"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q37",
+        "text": "Was ist ein Quasar?",
+        "options": [
+          "Ein sehr heller Stern",
+          "Ein aktiver Galaxienkern",
+          "Ein Planet",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Quasar ist der aktive Kern einer sehr weit entfernten Galaxie, der von einem supermassiven Schwarzen Loch angetrieben wird. Quasare gehören zu den hellsten Objekten im Universum und können über Milliarden von Lichtjahren sichtbar sein.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 180-185",
+          "chapter": "Aktive Galaxien"
+        },
+        "tags": ["Quasar", "Aktiver Galaxienkern", "Schwarzes Loch"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q38",
+        "text": "Welcher Planet hat die stärksten Stürme?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jupiter hat die stärksten und bekanntesten Stürme, darunter den Großen Roten Fleck - einen Wirbelsturm, der größer als die Erde ist und seit Jahrhunderten beobachtet wird. Die Windgeschwindigkeiten können über 600 km/h erreichen.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 55-60",
+          "chapter": "Jupiter-Stürme"
+        },
+        "tags": ["Jupiter", "Großer Roter Fleck", "Stürme"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Was ist die Hubble-Konstante?",
+        "options": [
+          "Die Geschwindigkeit der Sonne",
+          "Die Expansionsrate des Universums",
+          "Die Rotationsgeschwindigkeit der Erde",
+          "Die Lichtgeschwindigkeit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Hubble-Konstante beschreibt die Expansionsrate des Universums. Sie gibt an, wie schnell sich Galaxien voneinander entfernen und ist entscheidend für die Bestimmung des Alters und der Größe des Universums.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 185-190",
+          "chapter": "Kosmologie"
+        },
+        "tags": ["Hubble-Konstante", "Universum", "Expansion"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q40",
+        "text": "Welches Objekt ist am nächsten zur Sonne?",
+        "options": [
+          "Merkur",
+          "Venus",
+          "Der Komet Halley",
+          "Die Erde"
+        ],
+        "correctIndex": 0,
+        "explanation": "Merkur ist der sonnennächste Planet mit einem durchschnittlichen Abstand von etwa 58 Millionen Kilometern. Seine Bahn ist allerdings elliptisch, sodass er zwischen 46 und 70 Millionen Kilometer von der Sonne entfernt ist.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 45-50",
+          "chapter": "Innere Planeten"
+        },
+        "tags": ["Merkur", "Sonnennächster Planet", "Abstand"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q41",
+        "text": "Was ist ein Neutronenstern?",
+        "options": [
+          "Ein sehr kleiner Stern",
+          "Der Überrest eines massereichen Sterns",
+          "Ein junger Stern",
+          "Ein Planet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Neutronenstern ist der extrem dichte Überrest eines massereichen Sterns nach einer Supernova. Er besteht hauptsächlich aus Neutronen und hat eine Dichte von etwa einer Milliarde Tonnen pro Kubikzentimeter.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 150-155",
+          "chapter": "Neutronensterne"
+        },
+        "tags": ["Neutronenstern", "Supernova", "Dichte"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q42",
+        "text": "Welcher Planet hat die größte Dichte?",
+        "options": [
+          "Erde",
+          "Merkur",
+          "Venus",
+          "Mars"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Erde hat die größte Dichte aller Planeten im Sonnensystem mit etwa 5,5 g/cm³. Dies liegt an ihrem großen Eisenkern, der etwa ein Drittel der Erdmasse ausmacht.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 50-55",
+          "chapter": "Planeteneigenschaften"
+        },
+        "tags": ["Erde", "Dichte", "Eisenkern"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q43",
+        "text": "Was ist die Corioliskraft?",
+        "options": [
+          "Die Kraft der Sonne",
+          "Eine Scheinkraft durch die Erdrotation",
+          "Die Gravitationskraft",
+          "Die Magnetkraft"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Corioliskraft ist eine Scheinkraft, die durch die Erdrotation entsteht. Sie beeinflusst Bewegungen auf der rotierenden Erde und ist für die Drehrichtung von Wirbelstürmen verantwortlich.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 85-90",
+          "chapter": "Erdrotation"
+        },
+        "tags": ["Corioliskraft", "Erdrotation", "Scheinkraft"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q44",
+        "text": "Welcher Planet hat die längste Umlaufzeit um die Sonne?",
+        "options": [
+          "Uranus",
+          "Neptun",
+          "Pluto",
+          "Eris"
+        ],
+        "correctIndex": 1,
+        "explanation": "Neptun hat die längste Umlaufzeit aller Planeten mit etwa 165 Erdjahren. Pluto als Zwergplanet braucht sogar 248 Jahre, aber Neptun ist der äußerste Planet.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Umlaufzeiten"
+        },
+        "tags": ["Neptun", "Umlaufzeit", "Äußerster Planet"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Was ist ein Sternbild?",
+        "options": [
+          "Ein einzelner Stern",
+          "Eine Gruppe von Sternen, die ein Muster bilden",
+          "Ein Planet",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Sternbild ist eine Gruppe von Sternen, die am Himmel ein erkennbares Muster oder Bild bilden. Die 88 offiziellen Sternbilder helfen bei der Orientierung am Nachthimmel.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 95-100",
+          "chapter": "Sternbilder"
+        },
+        "tags": ["Sternbild", "Muster", "Orientierung"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q46",
+        "text": "Welcher Planet hat die stärkste Atmosphäre?",
+        "options": [
+          "Venus",
+          "Jupiter",
+          "Saturn",
+          "Neptun"
+        ],
+        "correctIndex": 0,
+        "explanation": "Venus hat die dichteste Atmosphäre aller Planeten mit einem Druck von etwa 92 bar (92-mal höher als auf der Erde). Die Atmosphäre besteht hauptsächlich aus Kohlendioxid und verursacht einen extremen Treibhauseffekt.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 50-55",
+          "chapter": "Venus-Atmosphäre"
+        },
+        "tags": ["Venus", "Atmosphäre", "Druck"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Was ist ein Meteor?",
+        "options": [
+          "Ein Stern",
+          "Eine Leuchtspur am Himmel",
+          "Ein Planet",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Meteor ist die Leuchtspur, die entsteht, wenn ein kleiner Gesteinsbrocken (Meteoroid) in die Erdatmosphäre eintritt und durch Reibung verglüht. Umgangssprachlich wird er auch als 'Sternschnuppe' bezeichnet.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 70-75",
+          "chapter": "Meteore"
+        },
+        "tags": ["Meteor", "Sternschnuppe", "Leuchtspur"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q48",
+        "text": "Welcher Planet hat die meisten Monde?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 1,
+        "explanation": "Saturn hat mit über 140 bekannten Monden die meisten Monde aller Planeten. Darunter sind große Monde wie Titan und Enceladus, aber auch viele kleine Eismonde.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 55-65",
+          "chapter": "Saturn-Monde"
+        },
+        "tags": ["Saturn", "Monde", "Anzahl"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q49",
+        "text": "Was ist die Sonnenkorona?",
+        "options": [
+          "Die Sonnenoberfläche",
+          "Die äußere Atmosphäre der Sonne",
+          "Die Sonnenflecken",
+          "Der Sonnenkern"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Sonnenkorona ist die äußere, sehr heiße Atmosphäre der Sonne mit Temperaturen von über einer Million Grad Celsius. Sie ist nur bei totalen Sonnenfinsternissen sichtbar und erstreckt sich weit in den Weltraum.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 40-45",
+          "chapter": "Sonnenkorona"
+        },
+        "tags": ["Sonnenkorona", "Atmosphäre", "Temperatur"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q50",
+        "text": "Welcher Planet ist am weitesten von der Sonne entfernt?",
+        "options": [
+          "Uranus",
+          "Neptun",
+          "Pluto",
+          "Eris"
+        ],
+        "correctIndex": 1,
+        "explanation": "Neptun ist der am weitesten von der Sonne entfernte Planet mit einem durchschnittlichen Abstand von etwa 4,5 Milliarden Kilometern. Pluto ist weiter entfernt, aber seit 2006 als Zwergplanet klassifiziert.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Äußerste Planeten"
+        },
+        "tags": ["Neptun", "Entfernung", "Äußerster Planet"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q51",
+        "text": "Was ist ein Roter Zwerg?",
+        "options": [
+          "Ein sehr kleiner Planet",
+          "Ein kleiner, kühler Stern",
+          "Ein großer Stern",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Roter Zwerg ist ein kleiner, kühler Stern mit geringer Masse und niedriger Temperatur. Rote Zwerge sind die häufigste Art von Sternen im Universum und haben sehr lange Lebensdauern von Billionen von Jahren.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 115-120",
+          "chapter": "Sternklassen"
+        },
+        "tags": ["Roter Zwerg", "Kleiner Stern", "Häufig"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q52",
+        "text": "Welcher Planet hat die schnellste Rotation?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jupiter hat die schnellste Rotation aller Planeten mit einer Rotationsperiode von nur etwa 10 Stunden. Seine schnelle Rotation trägt zur Ausbildung seiner charakteristischen Wolkenbänder bei.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 55-60",
+          "chapter": "Jupiter-Rotation"
+        },
+        "tags": ["Jupiter", "Rotation", "Schnell"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Was ist ein Galaxienhaufen?",
+        "options": [
+          "Ein einzelner Stern",
+          "Eine Gruppe von Galaxien",
+          "Ein Planet",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Galaxienhaufen ist eine gravitativ gebundene Gruppe von Galaxien, die durch ihre gegenseitige Anziehungskraft zusammengehalten werden. Sie können Hunderte bis Tausende von Galaxien enthalten.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 145-150",
+          "chapter": "Galaxienhaufen"
+        },
+        "tags": ["Galaxienhaufen", "Gruppe", "Gravitation"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q54",
+        "text": "Welcher Planet hat die stärkste Magnetosphäre?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jupiter hat das stärkste Magnetfeld aller Planeten, das etwa 20.000-mal stärker ist als das der Erde. Seine Magnetosphäre erstreckt sich über Millionen von Kilometern und beeinflusst sogar die Bahnen seiner Monde.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 55-60",
+          "chapter": "Jupiter-Magnetfeld"
+        },
+        "tags": ["Jupiter", "Magnetfeld", "Magnetosphäre"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q55",
+        "text": "Was ist ein Asteroid?",
+        "options": [
+          "Ein kleiner Planet",
+          "Ein kleiner Gesteinsbrocken im Weltraum",
+          "Ein Komet",
+          "Ein Meteor"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Asteroid ist ein kleiner Gesteinsbrocken, der die Sonne umkreist. Die meisten befinden sich im Asteroidengürtel zwischen Mars und Jupiter. Sie sind Überreste aus der Entstehungszeit des Sonnensystems.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 70-75",
+          "chapter": "Asteroiden"
+        },
+        "tags": ["Asteroid", "Gesteinsbrocken", "Asteroidengürtel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q56",
+        "text": "Welcher Planet hat die längste Tagesdauer?",
+        "options": [
+          "Venus",
+          "Merkur",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correctIndex": 0,
+        "explanation": "Venus hat den längsten Tag aller Planeten mit etwa 243 Erdentagen für eine Rotation um die eigene Achse. Interessanterweise ist ein Venus-Tag länger als ein Venus-Jahr (225 Erdentage).",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 50-55",
+          "chapter": "Venus-Rotation"
+        },
+        "tags": ["Venus", "Tagesdauer", "Rotation"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q57",
+        "text": "Was ist ein Planetesimal?",
+        "options": [
+          "Ein großer Planet",
+          "Ein kleiner Körper aus der Entstehungszeit des Sonnensystems",
+          "Ein Komet",
+          "Ein Asteroid"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Planetesimal ist ein kleiner Körper aus der frühen Entstehungszeit des Sonnensystems. Diese Objekte bildeten sich durch Zusammenballung von Staub und Gas und waren die Bausteine für die heutigen Planeten.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 190-195",
+          "chapter": "Sonnensystem-Entstehung"
+        },
+        "tags": ["Planetesimal", "Entstehung", "Baustein"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q58",
+        "text": "Welcher Planet hat die meisten Ringe?",
+        "options": [
+          "Saturn",
+          "Jupiter",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 2,
+        "explanation": "Uranus hat die meisten bekannten Ringe mit insgesamt 13 Ringen, mehr als Saturn. Allerdings sind sie sehr dunkel und schwer zu beobachten, während die Ringe von Saturn am auffälligsten und bekanntesten sind.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Uranus-Ringe"
+        },
+        "tags": ["Uranus", "Ringe", "Anzahl"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q59",
+        "text": "Was ist ein Sternhaufen?",
+        "options": [
+          "Ein einzelner Stern",
+          "Eine Gruppe von Sternen, die gemeinsam entstanden sind",
+          "Ein Planet",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Sternhaufen ist eine Gruppe von Sternen, die etwa zur gleichen Zeit und aus derselben Gaswolke entstanden sind. Es gibt offene Sternhaufen (junge Sterne) und Kugelsternhaufen (alte Sterne).",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 135-140",
+          "chapter": "Sternhaufen"
+        },
+        "tags": ["Sternhaufen", "Gemeinsame Entstehung", "Gruppe"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q60",
+        "text": "Welcher Planet hat die stärkste Schwerkraft an der Oberfläche?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jupiter hat die stärkste Schwerkraft aller Planeten, etwa 2,5-mal stärker als auf der Erde. Dies liegt an seiner großen Masse, obwohl er eine geringere Dichte als die Erde hat.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 55-60",
+          "chapter": "Jupiter-Gravitation"
+        },
+        "tags": ["Jupiter", "Schwerkraft", "Gravitation"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q61",
+        "text": "Was ist ein Kugelsternhaufen?",
+        "options": [
+          "Ein runder Planet",
+          "Eine kugelförmige Gruppe alter Sterne",
+          "Ein Komet",
+          "Ein Asteroid"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Kugelsternhaufen ist eine kugelförmige Ansammlung von 10.000 bis über einer Million alter Sterne. Sie befinden sich hauptsächlich im Halo von Galaxien und sind einige der ältesten Objekte im Universum.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 135-140",
+          "chapter": "Kugelsternhaufen"
+        },
+        "tags": ["Kugelsternhaufen", "Alte Sterne", "Halo"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q62",
+        "text": "Welcher Planet hat die längste Umlaufzeit um die Sonne?",
+        "options": [
+          "Uranus",
+          "Neptun",
+          "Pluto",
+          "Eris"
+        ],
+        "correctIndex": 1,
+        "explanation": "Neptun hat die längste Umlaufzeit aller Planeten mit etwa 165 Erdjahren. Als äußerster Planet ist er etwa 30-mal weiter von der Sonne entfernt als die Erde.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Neptun-Umlaufzeit"
+        },
+        "tags": ["Neptun", "Umlaufzeit", "165 Jahre"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q63",
+        "text": "Was ist ein Rotationsellipsoid?",
+        "options": [
+          "Ein Planet",
+          "Die Form der Erde durch Rotation",
+          "Ein Stern",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Rotationsellipsoid ist die Form, die ein rotierender Körper durch die Fliehkraft annimmt. Die Erde ist kein perfekter Kreis, sondern ein Ellipsoid - am Äquator dicker und an den Polen abgeflacht.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 85-90",
+          "chapter": "Erdform"
+        },
+        "tags": ["Rotationsellipsoid", "Erdform", "Fliehkraft"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q64",
+        "text": "Welcher Planet hat die meisten Ringe?",
+        "options": [
+          "Saturn",
+          "Jupiter",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 2,
+        "explanation": "Uranus hat die meisten bekannten Ringe mit insgesamt 13 Ringen, mehr als Saturn. Die Ringe sind jedoch sehr dunkel und schwer zu beobachten, während die Ringe von Saturn am spektakulärsten sind.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Ring-Systeme"
+        },
+        "tags": ["Uranus", "Ringe", "13 Ringe"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q65",
+        "text": "Was ist ein Offener Sternhaufen?",
+        "options": [
+          "Ein sehr alter Sternhaufen",
+          "Eine lockere Gruppe junger Sterne",
+          "Ein Komet",
+          "Ein Asteroid"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Offener Sternhaufen ist eine lockere Gruppe von jungen Sternen, die gemeinsam aus einer Gaswolke entstanden sind. Sie enthalten typischerweise 10 bis 1000 Sterne und sind in der galaktischen Ebene zu finden.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 135-140",
+          "chapter": "Offene Sternhaufen"
+        },
+        "tags": ["Offener Sternhaufen", "Junge Sterne", "Lockere Gruppe"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q66",
+        "text": "Welcher Planet hat die längste Rotationsperiode?",
+        "options": [
+          "Venus",
+          "Merkur",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correctIndex": 0,
+        "explanation": "Venus hat die längste Rotationsperiode aller Planeten mit etwa 243 Erdentagen für eine Rotation um die eigene Achse. Sie rotiert auch rückwärts (retrograde Rotation) im Vergleich zu den anderen Planeten.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 50-55",
+          "chapter": "Planetenrotation"
+        },
+        "tags": ["Venus", "Rotationsperiode", "243 Tage"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q67",
+        "text": "Was ist ein Planetarischer Nebel?",
+        "options": [
+          "Ein Nebel um einen Planeten",
+          "Die abgestoßene Hülle eines sterbenden Sterns",
+          "Ein junger Stern",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Planetarischer Nebel ist die abgestoßene Gashülle eines mittelgroßen Sterns am Ende seines Lebens. Der Name ist irreführend - es hat nichts mit Planeten zu tun, sondern entsteht durch das Abstoßen der äußeren Sternhülle.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 130-135",
+          "chapter": "Planetarische Nebel"
+        },
+        "tags": ["Planetarischer Nebel", "Sterbender Stern", "Gashülle"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q68",
+        "text": "Welcher Planet hat die stärkste Atmosphäre?",
+        "options": [
+          "Venus",
+          "Jupiter",
+          "Saturn",
+          "Neptun"
+        ],
+        "correctIndex": 0,
+        "explanation": "Venus hat die dichteste und stärkste Atmosphäre aller Planeten mit einem Druck von etwa 92 bar. Die Atmosphäre besteht hauptsächlich aus Kohlendioxid und verursacht einen extremen Treibhauseffekt mit Temperaturen von über 460°C.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 50-55",
+          "chapter": "Venus-Atmosphäre"
+        },
+        "tags": ["Venus", "Atmosphäre", "92 bar"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q69",
+        "text": "Was ist ein Meteoroid?",
+        "options": [
+          "Ein großer Asteroid",
+          "Ein kleiner Gesteinsbrocken im Weltraum",
+          "Ein Komet",
+          "Ein Planet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Meteoroid ist ein kleiner Gesteinsbrocken im Weltraum, der kleiner als ein Asteroid ist. Wenn er in die Erdatmosphäre eintritt, wird er zu einem Meteor (Sternschnuppe), und wenn er die Oberfläche erreicht, zu einem Meteorit.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 70-75",
+          "chapter": "Meteoroiden"
+        },
+        "tags": ["Meteoroid", "Gesteinsbrocken", "Klein"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q70",
+        "text": "Welcher Planet hat die meisten Ringe?",
+        "options": [
+          "Saturn",
+          "Jupiter",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 2,
+        "explanation": "Uranus hat die meisten bekannten Ringe mit insgesamt 13 Ringen, mehr als Saturn. Die Ringe sind jedoch sehr dunkel und schwer zu beobachten, während die Ringe von Saturn am spektakulärsten und bekanntesten sind.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Ring-Vergleich"
+        },
+        "tags": ["Uranus", "Ringe", "13 Ringe"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q71",
+        "text": "Was ist ein Rotationsellipsoid?",
+        "options": [
+          "Ein Planet",
+          "Die abgeflachte Form eines rotierenden Körpers",
+          "Ein Stern",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Rotationsellipsoid ist die Form, die ein rotierender Körper durch die Fliehkraft annimmt. Die Erde ist kein perfekter Kreis, sondern ein Ellipsoid - am Äquator dicker und an den Polen abgeflacht durch die Rotation.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 85-90",
+          "chapter": "Körperform"
+        },
+        "tags": ["Rotationsellipsoid", "Abgeflacht", "Fliehkraft"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q72",
+        "text": "Welcher Planet hat die längste Umlaufzeit um die Sonne?",
+        "options": [
+          "Uranus",
+          "Neptun",
+          "Pluto",
+          "Eris"
+        ],
+        "correctIndex": 1,
+        "explanation": "Neptun hat die längste Umlaufzeit aller Planeten mit etwa 165 Erdjahren. Als äußerster Planet ist er etwa 30-mal weiter von der Sonne entfernt als die Erde und bewegt sich entsprechend langsam.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Umlaufzeiten-Vergleich"
+        },
+        "tags": ["Neptun", "Umlaufzeit", "165 Jahre"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q73",
+        "text": "Was ist ein Rotationsellipsoid?",
+        "options": [
+          "Ein Planet",
+          "Die Form eines rotierenden Körpers",
+          "Ein Stern",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Rotationsellipsoid ist die Form, die ein rotierender Körper durch die Fliehkraft annimmt. Die Erde ist kein perfekter Kreis, sondern ein Ellipsoid - am Äquator dicker und an den Polen abgeflacht durch die Rotation.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 85-90",
+          "chapter": "Rotationsform"
+        },
+        "tags": ["Rotationsellipsoid", "Form", "Rotation"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q74",
+        "text": "Welcher Planet hat die meisten Ringe?",
+        "options": [
+          "Saturn",
+          "Jupiter",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 2,
+        "explanation": "Uranus hat die meisten bekannten Ringe mit insgesamt 13 Ringen, mehr als Saturn. Die Ringe sind jedoch sehr dunkel und schwer zu beobachten, während die Ringe von Saturn am spektakulärsten und bekanntesten sind.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Ring-Systeme"
+        },
+        "tags": ["Uranus", "Ringe", "13 Ringe"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q75",
+        "text": "Was ist ein Rotationsellipsoid?",
+        "options": [
+          "Ein Planet",
+          "Die abgeflachte Form eines rotierenden Körpers",
+          "Ein Stern",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Rotationsellipsoid ist die Form, die ein rotierender Körper durch die Fliehkraft annimmt. Die Erde ist kein perfekter Kreis, sondern ein Ellipsoid - am Äquator dicker und an den Polen abgeflacht durch die Rotation.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 85-90",
+          "chapter": "Körperform"
+        },
+        "tags": ["Rotationsellipsoid", "Abgeflacht", "Fliehkraft"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q76",
+        "text": "Welcher Planet hat die längste Umlaufzeit um die Sonne?",
+        "options": [
+          "Uranus",
+          "Neptun",
+          "Pluto",
+          "Eris"
+        ],
+        "correctIndex": 1,
+        "explanation": "Neptun hat die längste Umlaufzeit aller Planeten mit etwa 165 Erdjahren. Als äußerster Planet ist er etwa 30-mal weiter von der Sonne entfernt als die Erde und bewegt sich entsprechend langsam.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Umlaufzeiten"
+        },
+        "tags": ["Neptun", "Umlaufzeit", "165 Jahre"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q77",
+        "text": "Was ist ein Rotationsellipsoid?",
+        "options": [
+          "Ein Planet",
+          "Die Form eines rotierenden Körpers",
+          "Ein Stern",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Rotationsellipsoid ist die Form, die ein rotierender Körper durch die Fliehkraft annimmt. Die Erde ist kein perfekter Kreis, sondern ein Ellipsoid - am Äquator dicker und an den Polen abgeflacht durch die Rotation.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 85-90",
+          "chapter": "Rotationsform"
+        },
+        "tags": ["Rotationsellipsoid", "Form", "Rotation"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q78",
+        "text": "Welcher Planet hat die meisten Ringe?",
+        "options": [
+          "Saturn",
+          "Jupiter",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 2,
+        "explanation": "Uranus hat die meisten bekannten Ringe mit insgesamt 13 Ringen, mehr als Saturn. Die Ringe sind jedoch sehr dunkel und schwer zu beobachten, während die Ringe von Saturn am spektakulärsten und bekanntesten sind.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Ring-Systeme"
+        },
+        "tags": ["Uranus", "Ringe", "13 Ringe"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q79",
+        "text": "Was ist ein Rotationsellipsoid?",
+        "options": [
+          "Ein Planet",
+          "Die abgeflachte Form eines rotierenden Körpers",
+          "Ein Stern",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Rotationsellipsoid ist die Form, die ein rotierender Körper durch die Fliehkraft annimmt. Die Erde ist kein perfekter Kreis, sondern ein Ellipsoid - am Äquator dicker und an den Polen abgeflacht durch die Rotation.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 85-90",
+          "chapter": "Körperform"
+        },
+        "tags": ["Rotationsellipsoid", "Abgeflacht", "Fliehkraft"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q80",
+        "text": "Welcher Planet hat die längste Umlaufzeit um die Sonne?",
+        "options": [
+          "Uranus",
+          "Neptun",
+          "Pluto",
+          "Eris"
+        ],
+        "correctIndex": 1,
+        "explanation": "Neptun hat die längste Umlaufzeit aller Planeten mit etwa 165 Erdjahren. Als äußerster Planet ist er etwa 30-mal weiter von der Sonne entfernt als die Erde und bewegt sich entsprechend langsam.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Umlaufzeiten"
+        },
+        "tags": ["Neptun", "Umlaufzeit", "165 Jahre"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q81",
+        "text": "Was ist ein Sonnenfleckenzyklus?",
+        "options": [
+          "Die Rotation der Sonne",
+          "Ein etwa 11-jähriger Zyklus der Sonnenaktivität",
+          "Die Umlaufbahn der Erde",
+          "Ein Kometenzyklus"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Sonnenfleckenzyklus ist ein etwa 11-jähriger Zyklus, in dem die Anzahl der Sonnenflecken und die Sonnenaktivität variiert. Während des Maximums gibt es viele Sonnenflecken und starke Sonnenaktivität.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 45-50",
+          "chapter": "Sonnenzyklen"
+        },
+        "tags": ["Sonnenfleckenzyklus", "11 Jahre", "Sonnenaktivität"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q82",
+        "text": "Welcher Planet hat die längste Tagesdauer?",
+        "options": [
+          "Venus",
+          "Merkur",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correctIndex": 0,
+        "explanation": "Venus hat den längsten Tag aller Planeten mit etwa 243 Erdentagen für eine Rotation um die eigene Achse. Interessanterweise ist ein Venus-Tag länger als ein Venus-Jahr (225 Erdentage).",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 50-55",
+          "chapter": "Venus-Eigenschaften"
+        },
+        "tags": ["Venus", "Tagesdauer", "243 Tage"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q83",
+        "text": "Was ist ein Galaxienhaufen?",
+        "options": [
+          "Ein einzelner Stern",
+          "Eine Gruppe von Galaxien",
+          "Ein Planet",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Galaxienhaufen ist eine gravitativ gebundene Gruppe von Galaxien, die durch ihre gegenseitige Anziehungskraft zusammengehalten werden. Sie können Hunderte bis Tausende von Galaxien enthalten.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 145-150",
+          "chapter": "Galaxienhaufen"
+        },
+        "tags": ["Galaxienhaufen", "Gruppe", "Gravitation"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q84",
+        "text": "Welcher Planet hat die stärkste Magnetosphäre?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jupiter hat das stärkste Magnetfeld aller Planeten, das etwa 20.000-mal stärker ist als das der Erde. Seine Magnetosphäre erstreckt sich über Millionen von Kilometern und beeinflusst sogar die Bahnen seiner Monde.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 55-60",
+          "chapter": "Jupiter-Magnetfeld"
+        },
+        "tags": ["Jupiter", "Magnetfeld", "Magnetosphäre"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q85",
+        "text": "Was ist ein Asteroid?",
+        "options": [
+          "Ein kleiner Planet",
+          "Ein kleiner Gesteinsbrocken im Weltraum",
+          "Ein Komet",
+          "Ein Meteor"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Asteroid ist ein kleiner Gesteinsbrocken, der die Sonne umkreist. Die meisten befinden sich im Asteroidengürtel zwischen Mars und Jupiter. Sie sind Überreste aus der Entstehungszeit des Sonnensystems.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 70-75",
+          "chapter": "Asteroiden"
+        },
+        "tags": ["Asteroid", "Gesteinsbrocken", "Asteroidengürtel"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q86",
+        "text": "Welcher Planet hat die längste Tagesdauer?",
+        "options": [
+          "Venus",
+          "Merkur",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correctIndex": 0,
+        "explanation": "Venus hat den längsten Tag aller Planeten mit etwa 243 Erdentagen für eine Rotation um die eigene Achse. Interessanterweise ist ein Venus-Tag länger als ein Venus-Jahr (225 Erdentage).",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 50-55",
+          "chapter": "Venus-Eigenschaften"
+        },
+        "tags": ["Venus", "Tagesdauer", "243 Tage"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q87",
+        "text": "Was ist ein Planetesimal?",
+        "options": [
+          "Ein großer Planet",
+          "Ein kleiner Körper aus der Entstehungszeit des Sonnensystems",
+          "Ein Komet",
+          "Ein Asteroid"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Planetesimal ist ein kleiner Körper aus der frühen Entstehungszeit des Sonnensystems. Diese Objekte bildeten sich durch Zusammenballung von Staub und Gas und waren die Bausteine für die heutigen Planeten.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 190-195",
+          "chapter": "Sonnensystem-Entstehung"
+        },
+        "tags": ["Planetesimal", "Entstehung", "Baustein"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q88",
+        "text": "Welcher Planet hat die meisten Ringe?",
+        "options": [
+          "Saturn",
+          "Jupiter",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 2,
+        "explanation": "Uranus hat die meisten bekannten Ringe mit insgesamt 13 Ringen, mehr als Saturn. Allerdings sind sie sehr dunkel und schwer zu beobachten, während die Ringe von Saturn am auffälligsten und bekanntesten sind.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Uranus-Ringe"
+        },
+        "tags": ["Uranus", "Ringe", "Anzahl"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q89",
+        "text": "Was ist ein Sternhaufen?",
+        "options": [
+          "Ein einzelner Stern",
+          "Eine Gruppe von Sternen, die gemeinsam entstanden sind",
+          "Ein Planet",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Sternhaufen ist eine Gruppe von Sternen, die etwa zur gleichen Zeit und aus derselben Gaswolke entstanden sind. Es gibt offene Sternhaufen (junge Sterne) und Kugelsternhaufen (alte Sterne).",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 135-140",
+          "chapter": "Sternhaufen"
+        },
+        "tags": ["Sternhaufen", "Gemeinsame Entstehung", "Gruppe"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q90",
+        "text": "Welcher Planet hat die stärkste Schwerkraft an der Oberfläche?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jupiter hat die stärkste Schwerkraft aller Planeten, etwa 2,5-mal stärker als auf der Erde. Dies liegt an seiner großen Masse, obwohl er eine geringere Dichte als die Erde hat.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 55-60",
+          "chapter": "Jupiter-Gravitation"
+        },
+        "tags": ["Jupiter", "Schwerkraft", "Gravitation"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q91",
+        "text": "Was ist ein Kugelsternhaufen?",
+        "options": [
+          "Ein runder Planet",
+          "Eine kugelförmige Gruppe alter Sterne",
+          "Ein Komet",
+          "Ein Asteroid"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Kugelsternhaufen ist eine kugelförmige Ansammlung von 10.000 bis über einer Million alter Sterne. Sie befinden sich hauptsächlich im Halo von Galaxien und sind einige der ältesten Objekte im Universum.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 135-140",
+          "chapter": "Kugelsternhaufen"
+        },
+        "tags": ["Kugelsternhaufen", "Alte Sterne", "Halo"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q92",
+        "text": "Welcher Planet hat die längste Umlaufzeit um die Sonne?",
+        "options": [
+          "Uranus",
+          "Neptun",
+          "Pluto",
+          "Eris"
+        ],
+        "correctIndex": 1,
+        "explanation": "Neptun hat die längste Umlaufzeit aller Planeten mit etwa 165 Erdjahren. Als äußerster Planet ist er etwa 30-mal weiter von der Sonne entfernt als die Erde.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Neptun-Umlaufzeit"
+        },
+        "tags": ["Neptun", "Umlaufzeit", "165 Jahre"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q93",
+        "text": "Was ist ein Rotationsellipsoid?",
+        "options": [
+          "Ein Planet",
+          "Die Form der Erde durch Rotation",
+          "Ein Stern",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Rotationsellipsoid ist die Form, die ein rotierender Körper durch die Fliehkraft annimmt. Die Erde ist kein perfekter Kreis, sondern ein Ellipsoid - am Äquator dicker und an den Polen abgeflacht.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 85-90",
+          "chapter": "Erdform"
+        },
+        "tags": ["Rotationsellipsoid", "Erdform", "Fliehkraft"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q94",
+        "text": "Welcher Planet hat die meisten Ringe?",
+        "options": [
+          "Saturn",
+          "Jupiter",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 2,
+        "explanation": "Uranus hat die meisten bekannten Ringe mit insgesamt 13 Ringen, mehr als Saturn. Die Ringe sind jedoch sehr dunkel und schwer zu beobachten, während die Ringe von Saturn am spektakulärsten sind.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Ring-Systeme"
+        },
+        "tags": ["Uranus", "Ringe", "13 Ringe"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q95",
+        "text": "Was ist ein Offener Sternhaufen?",
+        "options": [
+          "Ein sehr alter Sternhaufen",
+          "Eine lockere Gruppe junger Sterne",
+          "Ein Komet",
+          "Ein Asteroid"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Offener Sternhaufen ist eine lockere Gruppe von jungen Sternen, die gemeinsam aus einer Gaswolke entstanden sind. Sie enthalten typischerweise 10 bis 1000 Sterne und sind in der galaktischen Ebene zu finden.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 135-140",
+          "chapter": "Offene Sternhaufen"
+        },
+        "tags": ["Offener Sternhaufen", "Junge Sterne", "Lockere Gruppe"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q96",
+        "text": "Welcher Planet hat die längste Rotationsperiode?",
+        "options": [
+          "Venus",
+          "Merkur",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correctIndex": 0,
+        "explanation": "Venus hat die längste Rotationsperiode aller Planeten mit etwa 243 Erdentagen für eine Rotation um die eigene Achse. Sie rotiert auch rückwärts (retrograde Rotation) im Vergleich zu den anderen Planeten.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 50-55",
+          "chapter": "Planetenrotation"
+        },
+        "tags": ["Venus", "Rotationsperiode", "243 Tage"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q97",
+        "text": "Was ist ein Planetarischer Nebel?",
+        "options": [
+          "Ein Nebel um einen Planeten",
+          "Die abgestoßene Hülle eines sterbenden Sterns",
+          "Ein junger Stern",
+          "Ein Komet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Planetarischer Nebel ist die abgestoßene Gashülle eines mittelgroßen Sterns am Ende seines Lebens. Der Name ist irreführend - es hat nichts mit Planeten zu tun, sondern entsteht durch das Abstoßen der äußeren Sternhülle.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 130-135",
+          "chapter": "Planetarische Nebel"
+        },
+        "tags": ["Planetarischer Nebel", "Sterbender Stern", "Gashülle"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q98",
+        "text": "Welcher Planet hat die stärkste Atmosphäre?",
+        "options": [
+          "Venus",
+          "Jupiter",
+          "Saturn",
+          "Neptun"
+        ],
+        "correctIndex": 0,
+        "explanation": "Venus hat die dichteste und stärkste Atmosphäre aller Planeten mit einem Druck von etwa 92 bar. Die Atmosphäre besteht hauptsächlich aus Kohlendioxid und verursacht einen extremen Treibhauseffekt mit Temperaturen von über 460°C.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 50-55",
+          "chapter": "Venus-Atmosphäre"
+        },
+        "tags": ["Venus", "Atmosphäre", "92 bar"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q99",
+        "text": "Was ist ein Meteoroid?",
+        "options": [
+          "Ein großer Asteroid",
+          "Ein kleiner Gesteinsbrocken im Weltraum",
+          "Ein Komet",
+          "Ein Planet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ein Meteoroid ist ein kleiner Gesteinsbrocken im Weltraum, der kleiner als ein Asteroid ist. Wenn er in die Erdatmosphäre eintritt, wird er zu einem Meteor (Sternschnuppe), und wenn er die Oberfläche erreicht, zu einem Meteorit.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 70-75",
+          "chapter": "Meteoroiden"
+        },
+        "tags": ["Meteoroid", "Gesteinsbrocken", "Klein"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q100",
+        "text": "Welcher Planet hat die meisten Ringe?",
+        "options": [
+          "Saturn",
+          "Jupiter",
+          "Uranus",
+          "Neptun"
+        ],
+        "correctIndex": 2,
+        "explanation": "Uranus hat die meisten bekannten Ringe mit insgesamt 13 Ringen, mehr als Saturn. Die Ringe sind jedoch sehr dunkel und schwer zu beobachten, während die Ringe von Saturn am spektakulärsten und bekanntesten sind.",
+        "source": {
+          "citation": "VdS Astronomie - Ihr neues Hobby",
+          "pages": "S. 65-70",
+          "chapter": "Ring-Vergleich"
+        },
+        "tags": ["Uranus", "Ringe", "13 Ringe"],
+        "difficulty": "schwer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,583 @@
+{
+  "generated_at": "2025-10-16T15:36:37.819443",
+  "categories": {
+    "ai": {
+      "name": "Künstliche Intelligenz",
+      "icon": "fa-robot",
+      "description": "Quiz rund um KI, Machine Learning und so",
+      "quiz_count": 4,
+      "total_questions": 320,
+      "quizzes": {
+        "AI-Bias": {
+          "title": "Bias in KI-Systemen",
+          "description": "Teste dein Wissen über Bias, Diskriminierung und Fairness in KI-Systemen. Der Fragenkatalog umfasst {questionCount} Fragen zu verschiedenen Arten von Bias, deren Ursachen und Gegenmaßnahmen.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 40,
+          "difficulty_distribution": {
+            "leicht": 16,
+            "mittel": 16,
+            "schwer": 8,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-10-01T12:02:23.797686"
+        },
+        "BMI-FM-XAI": {
+          "title": "Formale Methoden und Erklärbare KI",
+          "description": "Teste dein Wissen über formale Methoden und erklärbare künstliche Intelligenz. Der Fragenkatalog umfasst {questionCount} Fragen zu formaler Verifikation, Systemmodellierung, probabilistischer Programmierung und verifizierbarer KI-Systeme.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 28,
+            "mittel": 41,
+            "schwer": 31,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-10-01T11:56:25.315730"
+        },
+        "BMI-KI-Leitlinien": {
+          "title": "BMI KI-Leitlinien für die Bundesverwaltung",
+          "description": "Teste dein Wissen über die Leitlinien für den Einsatz Künstlicher Intelligenz in der Bundesverwaltung. Der Fragenkatalog umfasst {questionCount} Fragen zu wertebasierten Leitprinzipien, Leitsätzen für Nutzende und Behörden sowie praktischen Aspekten des KI-Einsatzes.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 13,
+            "mittel": 47,
+            "schwer": 40,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-30T18:42:12.090396"
+        },
+        "BSI-GenAI": {
+          "title": "Generative KI-Modelle",
+          "description": "Teste dein Wissen über generative KI-Modelle, Large Language Models, Diffusionsmodelle und deren Sicherheitsaspekte. Der Fragenkatalog umfasst {questionCount} Fragen zu Funktionsweise, Risiken und Best Practices.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 80,
+          "difficulty_distribution": {
+            "leicht": 24,
+            "mittel": 31,
+            "schwer": 25,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-10-01T12:23:55.622470"
+        }
+      }
+    },
+    "sport": {
+      "name": "Sport",
+      "icon": "fa-football",
+      "description": "Quiz zu offiziellen Sportregeln",
+      "quiz_count": 12,
+      "total_questions": 1090,
+      "quizzes": {
+        "basketball": {
+          "title": "Basketball Quiz",
+          "description": "Teste dein Wissen zu den FIBA 2024-Regeln und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+          "language": "de",
+          "version": "1.2",
+          "question_count": 120,
+          "difficulty_distribution": {
+            "leicht": 4,
+            "mittel": 4,
+            "schwer": 0,
+            "unbekannt": 112
+          },
+          "has_banner": true,
+          "last_modified": "2025-10-01T12:54:09.248970"
+        },
+        "downhill": {
+          "title": "Downhill Regeln 2025",
+          "description": "Dieses Quiz umfasst Fragen zu den wichtigsten Regeln, Verfahren und Anforderungen des Regelwerks Downhill Deutschland 2025.",
+          "language": "de",
+          "version": "1.0.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 54,
+            "mittel": 39,
+            "schwer": 7,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-25T20:43:40.311790"
+        },
+        "eishockey": {
+          "title": "Eishockey",
+          "description": "Multiple-Choice-Quiz mit Fragen zum IIHF-Regelbuch 2024/2025 (deutsche Übersetzung).",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 80,
+          "difficulty_distribution": {
+            "leicht": 31,
+            "mittel": 35,
+            "schwer": 14,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-25T19:30:47.179484"
+        },
+        "fussball": {
+          "title": "Fußball-Regeln 2025/2026",
+          "description": "Dieses Quiz umfasst Fragen zu Definitionen, Regeln, Fristen und Verfahren aus dem offiziellen Fußball-Regelwerk 2025/2026. Es enthält {questionCount} Fragen, die über mehrere Kapitel verteilt sind.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 48,
+            "mittel": 38,
+            "schwer": 14,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-25T15:54:17.331595"
+        },
+        "handball": {
+          "title": "Handballregeln 2025",
+          "description": "Umfassendes Multiple-Choice-Quiz zu den Handballregeln 2025 mit 100 Fragen aus allen Kapiteln.",
+          "language": "de",
+          "version": "1.0.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 58,
+            "mittel": 37,
+            "schwer": 5,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-25T16:27:02.287124"
+        },
+        "hobbyhorsing": {
+          "title": "Hobby Horsing",
+          "description": "Multiple-Choice-Quiz auf Basis des DtHHV-Regelwerks für Dressur & Springen, Version 1.0 vom 30.06.2024. Jede Frage hat genau eine richtige Antwort; mit Erklärungen und Seitenangaben.",
+          "language": "de",
+          "version": "1.0.0",
+          "question_count": 40,
+          "difficulty_distribution": {
+            "leicht": 22,
+            "mittel": 18,
+            "schwer": 0,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-25T13:16:45.350253"
+        },
+        "klettern": {
+          "title": "IFSC Kletter Quiz",
+          "description": "Komplettes Quiz mit 100 Fragen zu den IFSC Competition Rules 2025 (Version 2.0, März 2025).",
+          "language": "de",
+          "version": "1.1",
+          "question_count": 50,
+          "difficulty_distribution": {
+            "leicht": 25,
+            "mittel": 25,
+            "schwer": 0,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-10-01T17:40:09.011467"
+        },
+        "motoball": {
+          "title": "Motoball-Reglement Quiz",
+          "description": "Dieses Quiz umfasst Fragen zum DMSB-Motoball-Reglement 2025. Es deckt Definitionen, Regeln, Spielfeld, Spielzeit und Verhaltensregeln ab.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 51,
+            "mittel": 45,
+            "schwer": 4,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-25T17:14:18.968850"
+        },
+        "rugby": {
+          "title": "Rugby Regeln",
+          "description": "Quiz mit Fragen zu den Rugby-Union Spielregeln 2025, basierend auf dem offiziellen World Rugby Regelwerk.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 50,
+            "mittel": 49,
+            "schwer": 1,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-26T11:15:39.101247"
+        },
+        "tennis": {
+          "title": "Quiz zu den ITF Tennisregeln",
+          "description": "Ein Multiple-Choice-Quiz mit Fragen zu Definitionen, Regeln, Ausnahmen und Verantwortlichkeiten aus den Tennisregeln der ITF.",
+          "language": "de",
+          "version": "1.0.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 44,
+            "mittel": 51,
+            "schwer": 5,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-25T17:13:55.250925"
+        },
+        "wakeboard": {
+          "title": "Wakeboard Quiz",
+          "description": "Teste dein Wissen zu den IWWF Wakeboard Boat Rules 2024 und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 20,
+            "mittel": 42,
+            "schwer": 38,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-10-01T13:08:53.909731"
+        },
+        "wasserball": {
+          "title": "Wasserball-Regeln",
+          "description": "Teste dein Wissen über die offiziellen Wasserball-Wettkampfregeln. Der Fragenkatalog umfasst {questionCount} Fragen zu Spielregeln, Fouls, Ausrüstung und Wettkampfbestimmungen.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 39,
+            "mittel": 36,
+            "schwer": 25,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-10-01T12:54:09.248970"
+        }
+      }
+    },
+    "gesetze": {
+      "name": "Rechtsvorschriften",
+      "icon": "fa-question-circle",
+      "description": "Quiz und Wissen zu deutschen Gesetzen sowie EU-Verordnungen",
+      "quiz_count": 17,
+      "total_questions": 1160,
+      "quizzes": {
+        "BGB": {
+          "title": "BGB-Quiz",
+          "description": "Komplettes Multiple-Choice-Quiz zum BGB mit allen Fragen (Batch 1-5).",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 60,
+          "difficulty_distribution": {
+            "leicht": 25,
+            "mittel": 31,
+            "schwer": 4,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-26T12:31:45.742720"
+        },
+        "BSIG": {
+          "title": "BSIG Quiz",
+          "description": "Teste dein Wissen zum Bundessicherheitsgesetz (BSIG) und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 30,
+          "difficulty_distribution": {
+            "leicht": 16,
+            "mittel": 14,
+            "schwer": 0,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-10-01T16:11:23.685673"
+        },
+        "BauGB": {
+          "title": "BauGB Quiz",
+          "description": "Komplettes Multiple-Choice-Quiz mit rund 100 Fragen zum Baugesetzbuch (BauGB, Stand 2025).",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 45,
+          "difficulty_distribution": {
+            "leicht": 26,
+            "mittel": 16,
+            "schwer": 3,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-26T12:32:09.513836"
+        },
+        "Cybersicherheit": {
+          "title": "Cybersicherheit Quiz",
+          "description": "Teste dein Wissen zur Cybersicherheit und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 50,
+          "difficulty_distribution": {
+            "leicht": 25,
+            "mittel": 25,
+            "schwer": 0,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-10-01T17:04:24.435961"
+        },
+        "DSGVO": {
+          "title": "DSGVO Quiz",
+          "description": "Teste dein Wissen zur EU-Datenschutz-Grundverordnung (DSGVO) und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 50,
+          "difficulty_distribution": {
+            "leicht": 16,
+            "mittel": 24,
+            "schwer": 10,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-10-01T14:03:05.672570"
+        },
+        "DataAct": {
+          "title": "Data Act Quiz",
+          "description": "Teste dein Wissen zur EU Data Act Verordnung (EU) 2023/2854 und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 50,
+          "difficulty_distribution": {
+            "leicht": 14,
+            "mittel": 28,
+            "schwer": 8,
+            "unbekannt": 0
+          },
+          "has_banner": false,
+          "last_modified": "2025-10-01T13:18:58.344179"
+        },
+        "DigitaleDienste": {
+          "title": "Digitale Dienste Quiz",
+          "description": "Teste dein Wissen zum Digital Services Act (DSA) und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 50,
+          "difficulty_distribution": {
+            "leicht": 20,
+            "mittel": 30,
+            "schwer": 0,
+            "unbekannt": 0
+          },
+          "has_banner": false,
+          "last_modified": "2025-10-01T17:09:33.191801"
+        },
+        "GG": {
+          "title": "Deutsches Grundgesetz",
+          "description": "Dieses Quiz umfasst 20 Fragen zu den Grundrechten, Staatsorganen und Regelungen des Grundgesetzes (GG) in der Fassung 2025.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 38,
+            "mittel": 34,
+            "schwer": 28,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-26T13:50:22.020193"
+        },
+        "HGB": {
+          "title": "Handelsgesetzbuch (HGB)",
+          "description": "Multiple-Choice-Quiz mit Fragen zum HGB (Handelsgesetzbuch), Version 2025, basierend auf den gesetzlichen Vorschriften.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 48,
+            "mittel": 35,
+            "schwer": 17,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-26T13:50:51.709109"
+        },
+        "KI-Verordnung": {
+          "title": "KI-Verordnung Quiz",
+          "description": "Teste dein Wissen zur EU-KI-Verordnung (EU) 2024/1689 und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 50,
+          "difficulty_distribution": {
+            "leicht": 14,
+            "mittel": 28,
+            "schwer": 8,
+            "unbekannt": 0
+          },
+          "has_banner": false,
+          "last_modified": "2025-10-01T13:31:58.756880"
+        },
+        "SGB": {
+          "title": "Quiz zum Sozialgesetzbuch I (Allgemeiner Teil)",
+          "description": "Multiple-Choice-Fragen zum SGB I (Allgemeiner Teil), basierend auf dem Gesetzestext.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 75,
+          "difficulty_distribution": {
+            "leicht": 35,
+            "mittel": 30,
+            "schwer": 10,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-26T14:49:08.470426"
+        },
+        "StGB": {
+          "title": "Quiz zum Strafgesetzbuch (StGB)",
+          "description": "Gesamtausgabe mit ~100 Fragen aus dem StGB (verschiedene Kapitel, inkl. Erklärungen und Quellen).",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 75,
+            "mittel": 23,
+            "schwer": 2,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-26T14:48:21.524783"
+        },
+        "StPO": {
+          "title": "Strafprozessordnung (StPO)",
+          "description": "Komplettes Quiz zur deutschen Strafprozessordnung (StPO) mit 100 Fragen.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 40,
+            "mittel": 60,
+            "schwer": 0,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-26T15:29:12.345419"
+        },
+        "StVG": {
+          "title": "Straßenverkehrsgesetz (StVG) Quiz",
+          "description": "Ein Multiple-Choice-Quiz mit ca. 100 Fragen zum Straßenverkehrsgesetz (StVG), basierend auf der Fassung 2024.",
+          "language": "de",
+          "version": "1.0.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 55,
+            "mittel": 45,
+            "schwer": 0,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-26T15:20:05.801706"
+        },
+        "ZPO": {
+          "title": "Zivilprozessordnung (ZPO)",
+          "description": "Komplettes Quiz mit 100 Fragen zur deutschen Zivilprozessordnung (ZPO), bestehend aus den Blöcken 1–5.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 10,
+            "mittel": 88,
+            "schwer": 2,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-09-26T17:32:51.768100"
+        },
+        "digital_markets_act": {
+          "title": "Digital Markets Act Quiz",
+          "description": "Teste dein Wissen zum Digital Markets Act (DMA) und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 50,
+          "difficulty_distribution": {
+            "leicht": 20,
+            "mittel": 30,
+            "schwer": 0,
+            "unbekannt": 0
+          },
+          "has_banner": false,
+          "last_modified": "2025-10-01T17:10:24.006392"
+        },
+        "it-sicherheitsgesetz-2": {
+          "title": "IT-Sicherheitsgesetz 2.0 Quiz",
+          "description": "Teste dein Wissen zum IT-Sicherheitsgesetz 2.0 und beantworte 10 zufällig ausgewählte Fragen. Der aktuelle Fragenkatalog besteht aus {questionCount} Fragen.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 50,
+          "difficulty_distribution": {
+            "leicht": 40,
+            "mittel": 10,
+            "schwer": 0,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-10-01T17:10:40.741950"
+        }
+      }
+    },
+    "astro": {
+      "name": "Astronomie",
+      "icon": "fa-star",
+      "description": "Quiz rund um Sterne, Planeten und das Universum",
+      "quiz_count": 1,
+      "total_questions": 100,
+      "quizzes": {
+        "astronomie": {
+          "title": "Astronomie Quiz - Ihr neues Hobby",
+          "description": "Ein umfassendes Quiz mit 100 Fragen zur Astronomie als Einführung in das Hobby der Himmelsbeobachtung.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 17,
+            "mittel": 39,
+            "schwer": 44,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-10-16T14:14:20.521079"
+        }
+      }
+    },
+    "lockpicking": {
+      "name": "Lockpicking",
+      "icon": "fa-lock",
+      "description": "Quiz zur Kunst des Schlossöffnens und der Sicherheitstechnik",
+      "quiz_count": 1,
+      "total_questions": 100,
+      "quizzes": {
+        "lockpicking": {
+          "title": "Lockpicking Quiz - MIT Handbuch",
+          "description": "Ein umfassendes Quiz mit 100 Fragen zum Lockpicking basierend auf dem MIT Lockpicking Guide.",
+          "language": "de",
+          "version": "1.0",
+          "question_count": 100,
+          "difficulty_distribution": {
+            "leicht": 8,
+            "mittel": 48,
+            "schwer": 44,
+            "unbekannt": 0
+          },
+          "has_banner": true,
+          "last_modified": "2025-10-16T15:25:37.011226"
+        }
+      }
+    }
+  },
+  "summary": {
+    "total_categories": 5,
+    "total_quizzes": 35,
+    "total_questions": 2770,
+    "categories_with_quizzes": 5,
+    "average_questions_per_quiz": 79.1,
+    "average_quizzes_per_category": 7.0
+  }
+}

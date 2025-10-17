@@ -69,6 +69,22 @@
         "digital_markets_act",
         "it-sicherheitsgesetz-2"
       ]
+    },
+    "astro": {
+      "name": "Astronomie",
+      "icon": "fa-star",
+      "description": "Quiz rund um Sterne, Planeten und das Universum",
+      "quiz": [
+        "astronomie"
+      ]
+    },
+    "lockpicking": {
+      "name": "Lockpicking",
+      "icon": "fa-lock",
+      "description": "Quiz zur Kunst des Schlossöffnens und der Sicherheitstechnik",
+      "quiz": [
+        "lockpicking"
+      ]
     }
   },
   "categoryIcons": {
@@ -92,7 +108,9 @@
     "medicine": "fa-stethoscope",
     "chemistry": "fa-flask",
     "physics": "fa-atom",
-    "biology": "fa-dna"
+    "biology": "fa-dna",
+    "astro": "fa-star",
+    "lockpicking": "fa-lock"
   },
   "categoryNames": {
     "ai": "Künstliche Intelligenz",
@@ -114,6 +132,8 @@
     "medicine": "Medizin",
     "chemistry": "Chemie",
     "physics": "Physik",
-    "biology": "Biologie"
+    "biology": "Biologie",
+    "astro": "Astronomie",
+    "lockpicking": "Lockpicking"
   }
 }

@@ -86,3 +86,4 @@ htmlcov/
 # Local configuration overrides
 config.local.json
 *.local.*
+*.pdf

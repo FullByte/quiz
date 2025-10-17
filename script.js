@@ -4,6 +4,7 @@ class QuizCenter {
     constructor() {
         this.categories = new Map();
         this.config = null;
+        this.stats = null;
         
         this.init();
     }
@@ -11,6 +12,7 @@ class QuizCenter {
     async init() {
         try {
             await this.loadConfig();
+            await this.loadStats();
             await this.loadAllQuiz();
             this.renderCategories();
             this.hideLoading();
@@ -60,6 +62,24 @@ class QuizCenter {
         } catch (error) {
             console.error('Fehler beim Laden der Konfiguration:', error);
             throw new Error('Konfigurationsdatei (config.json) konnte nicht geladen werden.');
+        }
+    }
+
+    async loadStats() {
+        try {
+            const response = await fetch('stats.json');
+            if (!response.ok) {
+                console.warn('Stats-Datei nicht gefunden, verwende Fallback-Berechnung');
+                this.stats = null;
+                return;
+            }
+            
+            this.stats = await response.json();
+            console.log('✅ Statistiken geladen:', this.stats.summary);
+            
+        } catch (error) {
+            console.warn('Fehler beim Laden der Statistiken:', error);
+            this.stats = null;
         }
     }
 
@@ -158,21 +178,40 @@ class QuizCenter {
         
         if (!categoriesContainer) return;
 
+        // Verwende vorgefertigte Statistiken falls verfügbar
         let totalQuizCount = 0;
         let totalQuestionCount = 0;
         let categoriesHTML = '';
 
-        for (const [categoryKey, categoryData] of this.categories) {
-            if (categoryData.quiz.size === 0) continue; // Zeige nur Kategorien mit Quiz
-            
-            totalQuizCount += categoryData.quiz.size;
-            
-            // Fragen in dieser Kategorie zählen
-            for (const [quizKey, quizData] of categoryData.quiz) {
-                if (quizData.questionCount) {
-                    totalQuestionCount += quizData.questionCount;
+        if (this.stats && this.stats.summary) {
+            // Verwende vorgefertigte Statistiken
+            totalQuizCount = this.stats.summary.total_quizzes;
+            totalQuestionCount = this.stats.summary.total_questions;
+            categoryCountElement.textContent = this.stats.summary.total_categories;
+            quizCountElement.textContent = totalQuizCount;
+            questionCountElement.textContent = totalQuestionCount;
+        } else {
+            // Fallback: Berechne Statistiken selbst
+            for (const [categoryKey, categoryData] of this.categories) {
+                if (categoryData.quiz.size === 0) continue;
+                
+                totalQuizCount += categoryData.quiz.size;
+                
+                for (const [quizKey, quizData] of categoryData.quiz) {
+                    if (quizData.questionCount) {
+                        totalQuestionCount += quizData.questionCount;
+                    }
                 }
             }
+            
+            categoryCountElement.textContent = this.categories.size;
+            quizCountElement.textContent = totalQuizCount;
+            questionCountElement.textContent = totalQuestionCount;
+        }
+
+        // Generiere Kategorien-HTML
+        for (const [categoryKey, categoryData] of this.categories) {
+            if (categoryData.quiz.size === 0) continue; // Zeige nur Kategorien mit Quiz
             
             categoriesHTML += `
                 <div class="category-accordion">
@@ -201,9 +240,6 @@ class QuizCenter {
         }
 
         categoriesContainer.innerHTML = categoriesHTML;
-        categoryCountElement.textContent = this.categories.size;
-        quizCountElement.textContent = totalQuizCount;
-        questionCountElement.textContent = totalQuestionCount;
 
         // Event Listener für Quiz-Karten und Akkordeon hinzufügen
         this.attachQuizCardListeners();
