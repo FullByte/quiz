@@ -21,10 +21,10 @@
         "id": "q1",
         "text": "Was ist ein Dohyō im Sumo?",
         "options": [
-          "Der Ring, in dem Sumo-Ringer ihre Kämpfe austragen",
-          "Ein traditioneller Sumo-Kampfanzug",
-          "Eine spezielle Kampftechnik",
-          "Der Schiedsrichter beim Sumo"
+          "Der Ring aus speziellem Lehm und Sand, in dem Sumo-Wrestler ihre Kämpfe austragen",
+          "Die traditionelle zeremonieller Kleidung mit schwer dekorierten Schürzen der Sekitori",
+          "Eine spezielle Kampftechnik zum Greifen des gegnerischen Mawashi am Rücken",
+          "Der oberste Ringrichter, der die wichtigsten Kämpfe des Tages leitet"
         ],
         "correctIndex": 0,
         "explanation": "Dohyō (土俵) ist der Ring aus speziellem Lehm und Sand, in dem die Sumo-Wrestler ihre Kämpfe austragen. Vor jedem Turnier wird ein neuer Dohyō gebaut.",
@@ -40,10 +40,10 @@
         "id": "q2",
         "text": "Welcher Rang ist der höchste im Sumo?",
         "options": [
-          "Ōzeki",
-          "Sekiwake",
-          "Yokozuna",
-          "Komusubi"
+          "Ōzeki - der zweithöchste Rang, bekannt als 'Große Barriere'",
+          "Sekiwake - der dritthöchste Rang, 'neben der Barriere' stehend", 
+          "Yokozuna - der höchste Rang, 'Horizontales Seil' tragend",
+          "Komusubi - der vierthöchste Rang, 'Kleiner Knoten' bedeutend"
         ],
         "correctIndex": 2,
         "explanation": "Yokozuna (横綱) ist der höchste Rang im Sumo, normalerweise als 'Großer Meister' übersetzt. Der Name kommt von dem Seil, das ein Yokozuna für die Dohyō-iri trägt.",
@@ -59,10 +59,10 @@
         "id": "q3",
         "text": "Was bedeutet Mawashi?",
         "options": [
-          "Ein Sumo-Schiedsrichter",
-          "Der dicke Lendenschurz, der beim Sumo-Training und -Wettkampf getragen wird",
-          "Eine Gewinnbewegung im Sumo",
-          "Ein Sumo-Stall"
+          "Der oberste Ringrichter mit traditionellem Kriegsfächer zur Kampfleitung",
+          "Der dicke Lendenschurz aus Baumwolle oder Seide für Training und Wettkampf",
+          "Eine spezielle Wurftechnik durch Greifen des gegnerischen Gürtels von hinten",
+          "Der traditionelle Übungsraum eines Sumo-Stalls mit erhöhtem Lehmboden"
         ],
         "correctIndex": 1,
         "explanation": "Mawashi (廻し) ist der dicke Lendenschurz, der für Sumo-Training und Wettkampf getragen wird. Sekitori-Wrestler tragen weiße Baumwolle zum Training und farbige Seide für Wettkämpfe.",
@@ -78,10 +78,10 @@
         "id": "q4",
         "text": "Was ist ein Gyōji?",
         "options": [
-          "Ein Sumo-Wrestler",
-          "Ein Sumo-Schiedsrichter",
-          "Ein Sumo-Trainer",
-          "Ein Sumo-Fan"
+          "Ein professioneller Sumo-Wrestler der oberen Ränge mit Gehaltsberechtigung",
+          "Ein Sumo-Schiedsrichter mit traditionellem Kriegsfächer zur Kampfleitung und Entscheidung",
+          "Ein erfahrener Sumo-Trainer und Besitzer einer der 105 wertvollen Trainer-Lizenzen",
+          "Ein begeisterter Sumo-Anhänger und Connaisseur mit umfassendem Fachwissen"
         ],
         "correctIndex": 1,
         "explanation": "Gyōji (行司) ist ein Sumo-Schiedsrichter, der die Kämpfe leitet und mit seinem Gunbai (Kriegsfächer) die Entscheidungen signalisiert.",
@@ -97,10 +97,10 @@
         "id": "q5",
         "text": "Was bedeutet Kachi-koshi?",
         "options": [
-          "Ein Kampf ohne Entscheidung",
-          "Abschluss mit einem Gewinnrekord in einem Turnier",
-          "Eine verbotene Bewegung",
-          "Der erste Tag eines Turniers"
+          "Ein Kampf ohne klare Entscheidung, der zur Wiederholung führt",
+          "Abschluss mit mehr Siegen als Niederlagen in einem 15-tägigen Turnier",
+          "Eine verbotene Kampfbewegung, die zur sofortigen Disqualifikation führt",
+          "Der feierliche erste Turniertag mit zeremoniellen Ring-Einzügen"
         ],
         "correctIndex": 1,
         "explanation": "Kachi-koshi (勝ち越し) bedeutet einen Abschluss mit mehr Siegen als Niederlagen in einem Turnier. Für Sekitori mit 15 Kämpfen sind das 8-7 oder besser.",
@@ -116,10 +116,10 @@
         "id": "q6",
         "text": "Was ist ein Basho?",
         "options": [
-          "Ein Sumo-Turnier",
-          "Ein Sumo-Ring",
-          "Eine Kampftechnik",
-          "Ein Sumo-Rang"
+          "Ein offizielles oder inoffizielles Sumo-Turnier an verschiedenen Veranstaltungsorten",
+          "Der traditionelle Ring aus Lehm und Sand mit vergrabenem Reisstroh-Rand",
+          "Eine klassische Kampftechnik zum Werfen des Gegners über die Schulter",
+          "Ein hoher Sumo-Rang zwischen Sekiwake und Maegashira in der Hierarchie"
         ],
         "correctIndex": 0,
         "explanation": "Basho (場所) bedeutet 'Veranstaltungsort' und bezeichnet jedes Sumo-Turnier. Vergleiche mit Honbasho für offizielle professionelle Turniere.",
@@ -154,10 +154,10 @@
         "id": "q8",
         "text": "Was bedeutet Henka im Sumo?",
         "options": [
-          "Ein direkter Frontalangriff",
-          "Ein Seitschritt beim Tachi-ai, um einem Angriff auszuweichen",
-          "Ein Griff am Mawashi",
-          "Eine Zeremonie vor dem Kampf"
+          "Ein kraftvoller direkter Frontalangriff mit beiden Händen an der Brust",
+          "Ein Seitschritt beim Kampfbeginn zur Vermeidung des gegnerischen Angriffs",
+          "Ein fester doppelter Griff am Mawashi-Gürtel des Gegners von beiden Seiten",
+          "Eine traditionelle Reinigungszeremonie mit Salzwurf vor dem Kampfeintritt"
         ],
         "correctIndex": 1,
         "explanation": "Henka (変化) ist ein Seitschritt beim Tachi-ai, um einem Angriff auszuweichen und eine Niederschlagstechnik aufzubauen, wird aber oft als unsportlich betrachtet.",
@@ -230,10 +230,10 @@
         "id": "q12",
         "text": "Was ist Chankonabe?",
         "options": [
-          "Eine Kampftechnik",
-          "Ein Eintopf, der in großen Mengen von Sumo-Wrestlern als Teil einer Gewichtszunahme-Diät gegessen wird",
-          "Ein Sumo-Rang",
-          "Eine Zeremonie"
+          "Eine traditionelle Kampftechnik zum Packen des Gegners an beiden Schultern",
+          "Ein proteinreicher Eintopf zur Gewichtszunahme mit Fleisch, Fisch und Gemüse",
+          "Ein prestigeträchtiger Sumo-Rang zwischen Komusubi und Sekiwake in der Hierarchie",
+          "Eine feierliche Zeremonie zur Reinigung des Rings vor wichtigen Turnieren"
         ],
         "correctIndex": 1,
         "explanation": "Chankonabe (ちゃんこ鍋) ist ein Eintopf, der in großen Mengen von Sumo-Wrestlern als Teil einer Gewichtszunahme-Diät gegessen wird. Er enthält viel Protein und Gemüse.",
@@ -249,10 +249,10 @@
         "id": "q13",
         "text": "Welche zwei Hauptstile gibt es im Sumo?",
         "options": [
-          "Oshi-zumō und Yotsu-zumō",
-          "Henka-zumō und Tachi-zumō",
-          "Mawashi-zumō und Gunbai-zumō",
-          "Dohyō-zumō und Basho-zumō"
+          "Oshi-zumō (Schiebe-Sumo) und Yotsu-zumō (Gürtel-Sumo) als grundlegende Kampfstile",
+          "Henka-zumō (Ausweich-Sumo) und Tachi-zumō (Direkt-Angriff-Sumo) für Taktiken",
+          "Mawashi-zumō (Gürtel-Kampf) und Gunbai-zumō (Fächer-geleiteter Kampf) für Techniken",
+          "Dohyō-zumō (Ring-Sumo) und Basho-zumō (Turnier-Sumo) für Wettkampf-Arten"
         ],
         "correctIndex": 0,
         "explanation": "Es gibt zwei Haupttypen des Wrestlings im Sumo: Oshi-zumō (Schiebe-Sumo) und Yotsu-zumō (Gürtel-Sumo). Oshi-zumō bevorzugt Schieben und Stoßen, Yotsu-zumō das Greifen des Gürtels.",
@@ -458,10 +458,10 @@
         "id": "q24",
         "text": "Was bedeutet Shiroboshi?",
         "options": [
-          "Schwarzer Stern - eine Niederlage",
-          "Weißer Stern - ein Sieg in einem Sumo-Kampf",
-          "Roter Stern - ein Unentschieden",
-          "Blauer Stern - keine Wertung"
+          "Schwarzer Stern - eine Niederlage, aufgezeichnet mit schwarzem Kreis in der Statistik",
+          "Weißer Stern - ein Sieg, dokumentiert mit weißem Kreis in den offiziellen Aufzeichnungen", 
+          "Roter Stern - ein Unentschieden nach Wiederholung, markiert mit rotem Dreieck",
+          "Blauer Stern - keine Wertung bei Kampfabbruch, vermerkt mit blauem Quadrat"
         ],
         "correctIndex": 1,
         "explanation": "Shiroboshi (白星) bedeutet 'Weißer Stern' und bezeichnet einen Sieg in einem Sumo-Kampf, der mit einem weißen Kreis aufgezeichnet wird.",
@@ -1009,10 +1009,10 @@
         "id": "q53",
         "text": "Was ist ein Tsukebito?",
         "options": [
-          "Ein Rikishi der unteren Divisionen, der als persönlicher Begleiter eines Sekitori-Wrestlers dient",
-          "Ein Schiedsrichter",
-          "Ein Trainer",
-          "Ein Zuschauer"
+          "Ein rangniedrigerer Wrestler, der als persönlicher Diener eines Sekitori fungiert",
+          "Ein erfahrener Ringrichter mit traditionellem Gewand und Kriegsfächer zur Kampfleitung",
+          "Ein lizensierter Sumo-Trainer und Besitzer eines wertvollen Toshiyori-Namensrechts",  
+          "Ein enthusiastischer Sumo-Kenner und Unterstützer mit eigenem Supporters-Club"
         ],
         "correctIndex": 0,
         "explanation": "Tsukebito (付け人) ist ein Rikishi der unteren Divisionen, der als persönlicher Begleiter eines Sekitori-Wrestlers dient und verschiedene Aufgaben für ihn erledigt.",
@@ -1085,10 +1085,10 @@
         "id": "q57",
         "text": "Was ist ein Keshō-mawashi?",
         "options": [
-          "Ein normaler Mawashi",
-          "Der Lendenschurz mit schwer dekorierter Schürze, den Sekitori für die Dohyō-iri tragen",
-          "Ein Trainingsanzug",
-          "Eine Art Schuhe"
+          "Ein schlichter weißer Baumwoll-Mawashi für das tägliche Training im Stall",
+          "Ein prachtvoller Seiden-Mawashi mit kunstvoller Schürze für Ring-Zeremonien",
+          "Ein spezieller schwarzer Trainingsanzug für Übungskämpfe zwischen den Ställen",
+          "Traditionelle Holzsandalen mit erhöhter Sohle für zeremonielle Auftritte"
         ],
         "correctIndex": 1,
         "explanation": "Keshō-mawashi (化粧廻し) ist der Lendenschurz mit einer schwer dekorierten Schürze, den Sekitori-Wrestler für die Dohyō-iri tragen. Diese sind sehr teuer und werden meist von Unterstützern oder kommerziellen Sponsoren bezahlt.",
