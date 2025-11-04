@@ -1,0 +1,1922 @@
+{
+  "quiz": {
+    "title": "Sumo Terminologie Quiz",
+    "description": "Teste dein Wissen über traditionelle Sumo-Begriffe, Zeremonien und Regeln. Mit {questionCount} Fragen zu allen Aspekten des japanischen Ringkampfs.",
+    "language": "de",
+    "version": "1.0",
+    "sourceDocument": {
+      "title": "Sumo Terms and Terminology",
+      "version": "2024.1",
+      "year": 2024,
+      "pdfFilename": "terms.md"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 45
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Was ist ein Dohyō im Sumo?",
+        "options": [
+          "Der Ring, in dem Sumo-Ringer ihre Kämpfe austragen",
+          "Ein traditioneller Sumo-Kampfanzug",
+          "Eine spezielle Kampftechnik",
+          "Der Schiedsrichter beim Sumo"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dohyō (土俵) ist der Ring aus speziellem Lehm und Sand, in dem die Sumo-Wrestler ihre Kämpfe austragen. Vor jedem Turnier wird ein neuer Dohyō gebaut.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Basic Terms"
+        },
+        "tags": ["ring", "basic", "equipment"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Welcher Rang ist der höchste im Sumo?",
+        "options": [
+          "Ōzeki",
+          "Sekiwake",
+          "Yokozuna",
+          "Komusubi"
+        ],
+        "correctIndex": 2,
+        "explanation": "Yokozuna (横綱) ist der höchste Rang im Sumo, normalerweise als 'Großer Meister' übersetzt. Der Name kommt von dem Seil, das ein Yokozuna für die Dohyō-iri trägt.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Ranks"
+        },
+        "tags": ["ranks", "yokozuna", "hierarchy"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Was bedeutet Mawashi?",
+        "options": [
+          "Ein Sumo-Schiedsrichter",
+          "Der dicke Lendenschurz, der beim Sumo-Training und -Wettkampf getragen wird",
+          "Eine Gewinnbewegung im Sumo",
+          "Ein Sumo-Stall"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mawashi (廻し) ist der dicke Lendenschurz, der für Sumo-Training und Wettkampf getragen wird. Sekitori-Wrestler tragen weiße Baumwolle zum Training und farbige Seide für Wettkämpfe.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Equipment"
+        },
+        "tags": ["equipment", "mawashi", "clothing"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q4",
+        "text": "Was ist ein Gyōji?",
+        "options": [
+          "Ein Sumo-Wrestler",
+          "Ein Sumo-Schiedsrichter",
+          "Ein Sumo-Trainer",
+          "Ein Sumo-Fan"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gyōji (行司) ist ein Sumo-Schiedsrichter, der die Kämpfe leitet und mit seinem Gunbai (Kriegsfächer) die Entscheidungen signalisiert.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Officials"
+        },
+        "tags": ["officials", "referee", "gyoji"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Was bedeutet Kachi-koshi?",
+        "options": [
+          "Ein Kampf ohne Entscheidung",
+          "Abschluss mit einem Gewinnrekord in einem Turnier",
+          "Eine verbotene Bewegung",
+          "Der erste Tag eines Turniers"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kachi-koshi (勝ち越し) bedeutet einen Abschluss mit mehr Siegen als Niederlagen in einem Turnier. Für Sekitori mit 15 Kämpfen sind das 8-7 oder besser.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Results"
+        },
+        "tags": ["results", "winning", "tournament"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q6",
+        "text": "Was ist ein Basho?",
+        "options": [
+          "Ein Sumo-Turnier",
+          "Ein Sumo-Ring",
+          "Eine Kampftechnik",
+          "Ein Sumo-Rang"
+        ],
+        "correctIndex": 0,
+        "explanation": "Basho (場所) bedeutet 'Veranstaltungsort' und bezeichnet jedes Sumo-Turnier. Vergleiche mit Honbasho für offizielle professionelle Turniere.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Tournaments"
+        },
+        "tags": ["tournament", "basho", "competition"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q7",
+        "text": "Welche Bedeutung hat das Wort Rikishi?",
+        "options": [
+          "Kraftvoller Mann - gebräuchlichster Begriff für einen professionellen Sumo-Wrestler",
+          "Schneller Kämpfer",
+          "Weiser Meister",
+          "Starker Griff"
+        ],
+        "correctIndex": 0,
+        "explanation": "Rikishi (力士) bedeutet wörtlich 'kraftvoller Mann' und ist der gebräuchlichste Begriff für einen professionellen Sumo-Wrestler, obwohl manchmal auch Sumōtori verwendet wird.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Wrestlers"
+        },
+        "tags": ["wrestler", "terminology", "rikishi"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Was bedeutet Henka im Sumo?",
+        "options": [
+          "Ein direkter Frontalangriff",
+          "Ein Seitschritt beim Tachi-ai, um einem Angriff auszuweichen",
+          "Ein Griff am Mawashi",
+          "Eine Zeremonie vor dem Kampf"
+        ],
+        "correctIndex": 1,
+        "explanation": "Henka (変化) ist ein Seitschritt beim Tachi-ai, um einem Angriff auszuweichen und eine Niederschlagstechnik aufzubauen, wird aber oft als unsportlich betrachtet.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Techniques"
+        },
+        "tags": ["techniques", "henka", "tactics"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Was ist ein Gunbai?",
+        "options": [
+          "Ein Kriegsfächer aus Holz, der vom Gyōji verwendet wird",
+          "Ein spezieller Sumo-Griff",
+          "Ein traditioneller Gesang",
+          "Eine Art von Mawashi"
+        ],
+        "correctIndex": 0,
+        "explanation": "Gunbai (軍配) ist ein Kriegsfächer, meist aus Holz, der vom Gyōji benutzt wird, um seine Anweisungen und endgültige Entscheidung während eines Kampfes zu signalisieren.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Equipment"
+        },
+        "tags": ["equipment", "referee", "gunbai"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q10",
+        "text": "Welcher Begriff bezeichnet die Eingangszeremonie der Wrestler?",
+        "options": [
+          "Tachi-ai",
+          "Dohyō-iri",
+          "Shiko",
+          "Chirichōzu"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dohyō-iri (土俵入り) ist die Ring-Eingangszeremonie, die nur von Wrestlern der Jūryō- und Makuuchi-Divisionen durchgeführt wird. Yokozuna haben ihre eigene individuelle Dohyō-iri.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Ceremonies"
+        },
+        "tags": ["ceremony", "dohyo-iri", "ritual"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Was bedeutet Make-koshi?",
+        "options": [
+          "Ein perfektes Turnier",
+          "Mehr Niederlagen als Siege in einem Turnier",
+          "Ein Unentschieden",
+          "Ein Kampf ohne Wertung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Make-koshi (負け越し) bedeutet mehr Niederlagen als Siege für einen Wrestler in einem Turnier. Make-koshi führt in der Regel zum Abstieg. Das Gegenteil ist Kachi-koshi.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Results"
+        },
+        "tags": ["results", "losing", "tournament"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q12",
+        "text": "Was ist Chankonabe?",
+        "options": [
+          "Eine Kampftechnik",
+          "Ein Eintopf, der in großen Mengen von Sumo-Wrestlern als Teil einer Gewichtszunahme-Diät gegessen wird",
+          "Ein Sumo-Rang",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 1,
+        "explanation": "Chankonabe (ちゃんこ鍋) ist ein Eintopf, der in großen Mengen von Sumo-Wrestlern als Teil einer Gewichtszunahme-Diät gegessen wird. Er enthält viel Protein und Gemüse.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Food"
+        },
+        "tags": ["food", "chankonabe", "diet"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q13",
+        "text": "Welche zwei Hauptstile gibt es im Sumo?",
+        "options": [
+          "Oshi-zumō und Yotsu-zumō",
+          "Henka-zumō und Tachi-zumō",
+          "Mawashi-zumō und Gunbai-zumō",
+          "Dohyō-zumō und Basho-zumō"
+        ],
+        "correctIndex": 0,
+        "explanation": "Es gibt zwei Haupttypen des Wrestlings im Sumo: Oshi-zumō (Schiebe-Sumo) und Yotsu-zumō (Gürtel-Sumo). Oshi-zumō bevorzugt Schieben und Stoßen, Yotsu-zumō das Greifen des Gürtels.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Styles"
+        },
+        "tags": ["styles", "oshi-zumo", "yotsu-zumo"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q14",
+        "text": "Was ist ein Kimarite?",
+        "options": [
+          "Ein Sumo-Schiedsrichter",
+          "Gewinntechniken in einem Sumo-Kampf",
+          "Ein Rang im Sumo",
+          "Eine Art von Mawashi"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kimarite (決まり手) sind die Gewinntechniken in einem Sumo-Kampf, die vom Schiedsrichter bei der Verkündung des Siegers angekündigt werden. Die Japan Sumo Association erkennt 82 verschiedene Kimarite an.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Techniques"
+        },
+        "tags": ["techniques", "kimarite", "winning"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Was bedeutet Tachi-ai?",
+        "options": [
+          "Der Schlussstrich eines Kampfes",
+          "Der erste Angriff zu Beginn eines Kampfes",
+          "Ein Unentschieden",
+          "Eine Strafe"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tachi-ai (立ち合い) ist der erste Angriff zu Beginn eines Kampfes, wenn sich beide Wrestler gleichzeitig vom Hocken aus aufeinander zu bewegen.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Combat"
+        },
+        "tags": ["combat", "tachi-ai", "start"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q16",
+        "text": "Was ist ein Heya im Sumo?",
+        "options": [
+          "Ein Kampfring",
+          "Ein Stall - die Einrichtung, wo ein Wrestler trainiert und lebt",
+          "Eine Gewinnprämie",
+          "Ein Schiedsrichter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Heya (部屋) bedeutet wörtlich 'Raum', wird aber meist als 'Stall' übersetzt. Es ist die Einrichtung, wo ein Wrestler trainiert und auch lebt, während er in den unteren Divisionen ist.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Organization"
+        },
+        "tags": ["organization", "heya", "stable"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q17",
+        "text": "Welche Bedeutung hat Kinboshi?",
+        "options": [
+          "Goldstern - vergeben an einen Maegashira, der einen Yokozuna besiegt",
+          "Silberstern für einen guten Kampf",
+          "Bronzestern für Anstrengung",
+          "Schwarzstern für eine Niederlage"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kinboshi (金星) bedeutet 'Goldstern' und wird einem Maegashira verliehen, der während eines Honbasho einen Yokozuna besiegt. Es stellt einen dauerhaften Gehaltsbonus dar.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Awards"
+        },
+        "tags": ["awards", "kinboshi", "yokozuna"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Was bedeutet Shiko im Sumo?",
+        "options": [
+          "Eine Grifftechnik",
+          "Die Sumo-Übung, bei der jedes Bein nacheinander so hoch und gerade wie möglich gehoben wird",
+          "Ein Sumo-Rang",
+          "Eine Art Mawashi"
+        ],
+        "correctIndex": 1,
+        "explanation": "Shiko (四股) ist die Sumo-Übung, bei der jedes Bein nacheinander so hoch und gerade wie möglich gehoben und dann mit beträchtlicher Kraft auf den Boden gestampft wird. Es wird auch rituell vor jedem Kampf durchgeführt.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Exercises"
+        },
+        "tags": ["exercises", "shiko", "ritual"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q19",
+        "text": "Was ist ein Banzuke?",
+        "options": [
+          "Liste der Sumo-Wrestler nach Rang für ein bestimmtes Großturnier",
+          "Ein Sumo-Kampf",
+          "Ein Trainingsgerät",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Banzuke (番付) ist die Liste der Sumo-Wrestler nach Rang für ein bestimmtes Großturnier, die die Rangänderungen aufgrund der Ergebnisse des vorherigen Turniers widerspiegelt. Sie wird in spezieller Kalligrafie geschrieben.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Rankings"
+        },
+        "tags": ["rankings", "banzuke", "tournament"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Welche Abteilung ist die zweithöchste im Sumo?",
+        "options": [
+          "Makuuchi",
+          "Jūryō",
+          "Makushita",
+          "Sandanme"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jūryō (十両) ist die zweithöchste Division der Sumo-Wrestler, unter Makuuchi und über Makushita. Es ist die niedrigste Division, in der die Wrestler ein Gehalt und volle Privilegien erhalten.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Divisions"
+        },
+        "tags": ["divisions", "juryo", "ranking"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q21",
+        "text": "Was bedeutet Hakkeyoi?",
+        "options": [
+          "Der Ruf des Schiedsrichters während eines Kampfes, wenn die Aktion stockt",
+          "Ein Siegesruf",
+          "Eine Begrüßung",
+          "Ein Abschiedsgruß"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hakkeyoi (はっけよい) ist der Ruf des Sumo-Schiedsrichters während eines Kampfes, speziell wenn die Aktion stockt und die Wrestler eine Pattsituation erreicht haben. 'Bringt etwas Schwung rein!' ist eine weitverbreitete Übersetzung.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Referee Calls"
+        },
+        "tags": ["referee", "calls", "hakkeyoi"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q22",
+        "text": "Was ist ein Yokozuna Dohyō-iri?",
+        "options": [
+          "Ein normaler Kampf",
+          "Die individuelle Ring-Eingangszeremonie eines Yokozuna",
+          "Ein Trainingsritual",
+          "Eine Siegesfeier"
+        ],
+        "correctIndex": 1,
+        "explanation": "Yokozuna haben ihre eigene individuelle Dohyō-iri (Ring-Eingangszeremonie), die separat von den anderen Wrestlern durchgeführt wird. Die Hauptstile sind Unryū und Shiranui.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Ceremonies"
+        },
+        "tags": ["ceremony", "yokozuna", "dohyo-iri"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q23",
+        "text": "Welche Farbe hat ein Kuroboshi?",
+        "options": [
+          "Weiß",
+          "Schwarz",
+          "Rot",
+          "Blau"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kuroboshi (黒星) bedeutet 'Schwarzer Stern' und bezeichnet eine Niederlage in einem Sumo-Kampf, die mit einem schwarzen Kreis aufgezeichnet wird.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Results"
+        },
+        "tags": ["results", "kuroboshi", "loss"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q24",
+        "text": "Was bedeutet Shiroboshi?",
+        "options": [
+          "Schwarzer Stern - eine Niederlage",
+          "Weißer Stern - ein Sieg in einem Sumo-Kampf",
+          "Roter Stern - ein Unentschieden",
+          "Blauer Stern - keine Wertung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Shiroboshi (白星) bedeutet 'Weißer Stern' und bezeichnet einen Sieg in einem Sumo-Kampf, der mit einem weißen Kreis aufgezeichnet wird.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Results"
+        },
+        "tags": ["results", "shiroboshi", "victory"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q25",
+        "text": "Was ist Chikara-mizu?",
+        "options": [
+          "Kraft-Wasser - das zeremonielle Wasser zum Mundspülen vor einem Kampf",
+          "Krafttraining",
+          "Eine Kampftechnik",
+          "Ein Sumo-Rang"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chikara-mizu (力水) ist das 'Kraft-Wasser', mit dem sich ein Wrestler der Jūryō-Klasse oder höher zeremoniell den Mund spült, um sich vor einem Kampf zu reinigen.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Rituals"
+        },
+        "tags": ["rituals", "chikara-mizu", "purification"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Welcher Rang ist Ōzeki?",
+        "options": [
+          "Der höchste Rang",
+          "Der zweithöchste Rang der Sumo-Wrestler",
+          "Der dritthöchste Rang",
+          "Der niedrigste Rang"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ōzeki (大関) bedeutet 'Große Barriere' und ist der zweithöchste Rang der Sumo-Wrestler, direkt unter Yokozuna.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Ranks"
+        },
+        "tags": ["ranks", "ozeki", "hierarchy"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q27",
+        "text": "Was bedeutet Sekiwake?",
+        "options": [
+          "Neben der Barriere - der dritthöchste Rang der Sumo-Wrestler",
+          "Unter der Barriere",
+          "Über der Barriere",
+          "Ohne Barriere"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sekiwake (関脇) bedeutet wörtlich 'neben der Barriere' und ist der dritthöchste Rang der Sumo-Wrestler.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Ranks"
+        },
+        "tags": ["ranks", "sekiwake", "hierarchy"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q28",
+        "text": "Was ist Komusubi?",
+        "options": [
+          "Großer Knoten",
+          "Kleiner Knoten - der vierthöchste Rang der Sumo-Wrestler",
+          "Starker Knoten",
+          "Loser Knoten"
+        ],
+        "correctIndex": 1,
+        "explanation": "Komusubi (小結) bedeutet 'Kleiner Knoten' und ist der vierthöchste Rang der Sumo-Wrestler sowie der niedrigste San'yaku-Rang.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Ranks"
+        },
+        "tags": ["ranks", "komusubi", "sanyaku"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q29",
+        "text": "Was sind San'yaku?",
+        "options": [
+          "Drei Ränge - die Titelträger-Ränge an der Spitze des Sumo",
+          "Drei Kämpfe",
+          "Drei Preise",
+          "Drei Stile"
+        ],
+        "correctIndex": 0,
+        "explanation": "San'yaku (三役) bedeutet 'Drei Ränge' und bezeichnet die Titelträger-Ränge an der Spitze des Sumo: Yokozuna, Ōzeki, Sekiwake und Komusubi (eigentlich vier Ränge).",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Ranks"
+        },
+        "tags": ["ranks", "sanyaku", "elite"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Was bedeutet Maegashira?",
+        "options": [
+          "Die Vorangehenden - der fünfthöchste Rang der Sumo-Wrestler",
+          "Die Nachfolgenden",
+          "Die Seitlichen",
+          "Die Wartenden"
+        ],
+        "correctIndex": 0,
+        "explanation": "Maegashira (前頭) bedeutet 'Die Vorangehenden' und ist der fünfthöchste Rang der Sumo-Wrestler sowie der niedrigste Makuuchi-Rang.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Ranks"
+        },
+        "tags": ["ranks", "maegashira", "makuuchi"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q31",
+        "text": "Was ist ein Honbasho?",
+        "options": [
+          "Ein Trainingsturnier",
+          "Ein professionelles Sumo-Turnier, das sechsmal jährlich stattfindet",
+          "Eine Zeremonie",
+          "Ein Sumo-Stall"
+        ],
+        "correctIndex": 1,
+        "explanation": "Honbasho (本場所) ist ein professionelles Sumo-Turnier, das seit 1958 sechsmal im Jahr stattfindet, wobei die Ergebnisse die Ranglistenplätze der Wrestler beeinflussen.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Tournaments"
+        },
+        "tags": ["tournament", "honbasho", "professional"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q32",
+        "text": "Welche Art von Fächer verwendet ein Gyōji?",
+        "options": [
+          "Papierfächer",
+          "Bambusfächer",
+          "Gunbai - ein Kriegsfächer aus Holz",
+          "Seidenfächer"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ein Gyōji verwendet einen Gunbai (軍配), einen Kriegsfächer meist aus Holz, um seine Anweisungen und endgültige Entscheidung während eines Kampfes zu signalisieren. Historisch wurde er von Samurai-Offizieren verwendet.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Equipment"
+        },
+        "tags": ["equipment", "gunbai", "referee"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q33",
+        "text": "Was ist ein Matta?",
+        "options": [
+          "Ein Fehlstart im Sumo",
+          "Ein perfekter Start",
+          "Ein Unentschieden",
+          "Eine Siegestechnik"
+        ],
+        "correctIndex": 0,
+        "explanation": "Matta (待った) ist ein Fehlstart, wenn die Wrestler nicht gegenseitigen Konsens beim Kampfbeginn haben und einer anfängt, bevor der andere bereit ist. Das erste Kanji bedeutet 'warten'.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Rules"
+        },
+        "tags": ["rules", "matta", "false start"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Was bedeutet Shiomaki?",
+        "options": [
+          "Das Salzwerfen vor dem Betreten des Dohyō als Reinigungsritual",
+          "Eine Kampftechnik",
+          "Ein Sumo-Rang",
+          "Eine Art Training"
+        ],
+        "correctIndex": 0,
+        "explanation": "Shiomaki (塩撒き) ist eines der vielen Rituale vor einem Sumo-Kampf, bei dem die Wrestler Handvoll Salz werfen, bevor sie den Dohyō betreten. Nach Shinto-Glauben besitzt Salz reinigende Eigenschaften.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Rituals"
+        },
+        "tags": ["rituals", "shiomaki", "salt"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Was ist eine Tsuna?",
+        "options": [
+          "Ein schweres Seil, das vom Yokozuna getragen wird",
+          "Eine Kampftechnik",
+          "Ein Trainingsgerät",
+          "Ein Sumo-Stall"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tsuna (綱) ist das schwere Seil, das vom Yokozuna getragen wird und von dem dieser Rang seinen Namen hat. Es wiegt etwa 15 kg und ist vorne viel dicker als hinten, wo es gebunden wird.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Equipment"
+        },
+        "tags": ["equipment", "tsuna", "yokozuna"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q36",
+        "text": "Was sind Kinjite?",
+        "options": [
+          "Erlaubte Bewegungen",
+          "Verbotene Hand - Foulspiele während eines Kampfes",
+          "Gewinnbewegungen",
+          "Zeremonienbewegungen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kinjite (禁じ手) bedeutet 'Verbotene Hand' und sind Foulspiele während eines Kampfes, die zur Disqualifikation führen. Beispiele sind Schlagen, Treten und Augenstechen.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Rules"
+        },
+        "tags": ["rules", "kinjite", "fouls"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Was ist ein Chonmage?",
+        "options": [
+          "Ein Sumo-Ring",
+          "Traditionelle japanische Frisur mit Haarknoten",
+          "Eine Kampftechnik",
+          "Ein Trainingsgerät"
+        ],
+        "correctIndex": 1,
+        "explanation": "Chonmage (丁髷) ist eine traditionelle japanische Frisur mit einem Haarknoten, die heutzutage hauptsächlich nur noch von Sumo-Wrestlern getragen wird, so dass man leicht erkennen kann, dass ein Mann im Sumo-Beruf tätig ist.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Appearance"
+        },
+        "tags": ["appearance", "chonmage", "hair"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Was sind Shimpan?",
+        "options": [
+          "Sumo-Wrestler",
+          "Ringrichter, die endgültige Entscheidungen bei umstrittenen Kämpfen treffen können",
+          "Trainer",
+          "Fans"
+        ],
+        "correctIndex": 1,
+        "explanation": "Shimpan (審判) sind Ringrichter, die endgültige Entscheidungen bei umstrittenen Kämpfen treffen können. Es gibt fünf Shimpan für jeden Kampf, die traditionelle formelle Kimono tragen.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Officials"
+        },
+        "tags": ["officials", "shimpan", "judges"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Was bedeutet Yūshō?",
+        "options": [
+          "Eine Niederlage",
+          "Eine Turnier-Meisterschaft in jeder Division",
+          "Ein Unentschieden",
+          "Ein Fehlstart"
+        ],
+        "correctIndex": 1,
+        "explanation": "Yūshō (優勝) ist eine Turnier-Meisterschaft in jeder Division, die dem Wrestler verliehen wird, der die meisten Kämpfe gewinnt.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Championships"
+        },
+        "tags": ["championship", "yusho", "victory"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q40",
+        "text": "Was ist ein Mono-ii?",
+        "options": [
+          "Ein Kampf",
+          "Die Diskussion der Shimpan, wenn die Entscheidung des Gyōji in Frage gestellt wird",
+          "Ein Rang",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mono-ii (物言い) ist die Diskussion der Shimpan, wenn die Entscheidung des Gyōji für einen Kampf in Frage gestellt wird. Technisch bezieht sich der Begriff auf das Hinterfragen der Entscheidung.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Judging"
+        },
+        "tags": ["judging", "mono-ii", "dispute"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q41",
+        "text": "Welche Division ist Makuuchi?",
+        "options": [
+          "Die niedrigste Division",
+          "Die höchste Division im Sumo",
+          "Die zweithöchste Division",
+          "Die mittlere Division"
+        ],
+        "correctIndex": 1,
+        "explanation": "Makuuchi (幕内) oder maku-no-uchi bedeutet 'Innerhalb des Vorhangs' und ist die höchste Division im Sumo. Sie umfasst 42 Wrestler.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Divisions"
+        },
+        "tags": ["divisions", "makuuchi", "top"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q42",
+        "text": "Was ist ein Torinaoshi?",
+        "options": [
+          "Ein Wiederholungskampf",
+          "Ein perfekter Kampf",
+          "Ein abgebrochener Kampf",
+          "Ein Foulspiel"
+        ],
+        "correctIndex": 0,
+        "explanation": "Torinaoshi (取り直し) ist ein Wiederholungskampf. Wenn das Ergebnis eines Kampfes zu knapp ist, um es auch nach einem Mono-ii zu entscheiden, können die Shimpan anordnen, dass der Kampf vom Tachi-ai an wiederholt wird.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Rules"
+        },
+        "tags": ["rules", "torinaoshi", "rematch"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q43",
+        "text": "Was ist die Bedeutung von Keiko?",
+        "options": [
+          "Ein Kampf",
+          "Training oder Übung im Sumo",
+          "Ein Rang",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 1,
+        "explanation": "Keiko (稽古) ist der Begriff, der sich auf Training oder Übung im Sumo bezieht.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Training"
+        },
+        "tags": ["training", "keiko", "practice"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q44",
+        "text": "Was ist ein Oyakata?",
+        "options": [
+          "Ein Sumo-Trainer, fast immer der Besitzer einer der 105 Namenslizensen",
+          "Ein Wrestler",
+          "Ein Fan",
+          "Ein Schiedsrichter"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oyakata (親方) ist ein Sumo-Trainer, fast immer der Besitzer einer der 105 Namenslizensen (Toshiyori kabu). Wird auch als Suffix als persönliche Ehrenbezeichnung verwendet.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Organization"
+        },
+        "tags": ["organization", "oyakata", "trainer"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Was bedeutet Sekitori?",
+        "options": [
+          "Hat die Barriere genommen - Sumo-Wrestler der Jūryō-Klasse oder höher",
+          "Unter der Barriere",
+          "Neben der Barriere",
+          "Ohne Barriere"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sekitori (関取) bedeutet wörtlich 'hat die Barriere genommen' und bezeichnet Sumo-Wrestler der Jūryō-Klasse oder höher, die ein Gehalt erhalten.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Status"
+        },
+        "tags": ["status", "sekitori", "professional"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q46",
+        "text": "Was sind Sanshō?",
+        "options": [
+          "Drei Preise - Sonderpreise für außergewöhnliche Leistung",
+          "Drei Kämpfe",
+          "Drei Ränge",
+          "Drei Techniken"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sanshō (三賞) bedeutet 'Drei Preise' und sind Sonderpreise, die Makuuchi-Wrestlern für außergewöhnliche Leistung verliehen werden: Ginō-shō (Technikpreis), Kantō-shō (Kampfgeistpreis) und Shukun-shō (Herausragende Leistung).",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Awards"
+        },
+        "tags": ["awards", "sansho", "prizes"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Was ist ein Fusenshō?",
+        "options": [
+          "Eine Niederlage durch Nichterscheinen",
+          "Ein Sieg kampflos wegen Abwesenheit des Gegners",
+          "Ein Unentschieden",
+          "Ein perfekter Kampf"
+        ],
+        "correctIndex": 1,
+        "explanation": "Fusenshō (不戦勝) ist ein Sieg kampflos wegen Abwesenheit des Gegners. Das System wurde für die Honbasho im Mai-Turnier 1927 eingeführt. Wird mit einem weißen Quadrat aufgezeichnet.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Results"
+        },
+        "tags": ["results", "fusensho", "default"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q48",
+        "text": "Was bedeutet Senshūraku?",
+        "options": [
+          "Der erste Tag eines Turniers",
+          "Der letzte Tag eines Sumo-Turniers",
+          "Der mittlere Tag",
+          "Ein freier Tag"
+        ],
+        "correctIndex": 1,
+        "explanation": "Senshūraku (千秋楽) ist der letzte Tag eines Sumo-Turniers. Senshūraku bedeutet wörtlich 'viele Jahre des Komforts' und stammt aus der traditionellen japanischen Hofmusik.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Tournament"
+        },
+        "tags": ["tournament", "senshuraku", "final day"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q49",
+        "text": "Was ist ein Yobidashi?",
+        "options": [
+          "Ein Wrestler",
+          "Platzanweiser oder Ansager - allgemeine Assistenten bei Turnieren",
+          "Ein Trainer",
+          "Ein Richter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Yobidashi (呼出 oder 呼び出し) sind Platzanweiser oder Ansager, die als allgemeine Assistenten bei Turnieren fungieren. Sie rufen die Wrestler zum Dohyō und erledigen verschiedene andere Aufgaben.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Staff"
+        },
+        "tags": ["staff", "yobidashi", "announcer"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q50",
+        "text": "Was bedeutet Intai?",
+        "options": [
+          "Beförderung",
+          "Rücktritt - die Entscheidung eines aktiven Sumo-Wrestlers, endgültig aufzuhören",
+          "Training",
+          "Sieg"
+        ],
+        "correctIndex": 1,
+        "explanation": "Intai (引退) bedeutet 'Rücktritt' und ist die Entscheidung eines aktiven Sumo-Wrestlers, endgültig mit dem Wettkampf aufzuhören. Die erfolgreichsten Wrestler erhalten oft das Recht, Toshiyori zu werden.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Career"
+        },
+        "tags": ["career", "intai", "retirement"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q51",
+        "text": "Was sind Tawara?",
+        "options": [
+          "Reisstrohballen, die im Lehm des Dohyō vergraben sind, um die Grenzen zu markieren",
+          "Sumo-Wrestler",
+          "Kampftechniken",
+          "Trainingsgeräte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tawara (俵) sind Reisstrohballen, die halb im Lehm des Dohyō vergraben sind, um seine Grenzen zu markieren. Vier der Ballen, genannt Tokudawara, sind etwas weiter vom Zentrum entfernt platziert.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Ring Construction"
+        },
+        "tags": ["ring", "tawara", "boundaries"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q52",
+        "text": "Was bedeutet Chirichōzu?",
+        "options": [
+          "Eine Kampftechnik",
+          "Hände waschen - ein Ritual vor dem Kampf",
+          "Ein Sumo-Rang",
+          "Ein Trainingsgerät"
+        ],
+        "correctIndex": 1,
+        "explanation": "Chirichōzu (塵手水) bedeutet 'Hände waschen' und ist eines der vielen Rituale vor einem Sumo-Kampf, bei dem beide Wrestler hockend einander zugewandt ihre offenen Hände zeigen, klatschen und die Arme ausstrecken.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Rituals"
+        },
+        "tags": ["rituals", "chirichozu", "purification"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Was ist ein Tsukebito?",
+        "options": [
+          "Ein Rikishi der unteren Divisionen, der als persönlicher Begleiter eines Sekitori-Wrestlers dient",
+          "Ein Schiedsrichter",
+          "Ein Trainer",
+          "Ein Zuschauer"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tsukebito (付け人) ist ein Rikishi der unteren Divisionen, der als persönlicher Begleiter eines Sekitori-Wrestlers dient und verschiedene Aufgaben für ihn erledigt.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Hierarchy"
+        },
+        "tags": ["hierarchy", "tsukebito", "service"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q54",
+        "text": "Was bedeutet Nokotta?",
+        "options": [
+          "Verloren",
+          "Verblieben - was der Schiedsrichter ruft, um anzuzeigen, dass ein Wrestler noch im Ring ist",
+          "Gewonnen",
+          "Unentschieden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nokotta (残った) bedeutet 'verblieben' und ist etwas, was der Schiedsrichter während des Kampfes ruft, um dem verteidigenden Wrestler anzuzeigen, dass er noch im Ring ist.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Referee Calls"
+        },
+        "tags": ["referee", "calls", "nokotta"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q55",
+        "text": "Was ist ein Danpatsu-shiki?",
+        "options": [
+          "Eine Kampftechnik",
+          "Abschiedszeremonie mit dem Abschneiden des Chonmage",
+          "Eine Siegesfeier",
+          "Ein Trainingsritual"
+        ],
+        "correctIndex": 1,
+        "explanation": "Danpatsu-shiki (断髪式) ist eine Abschiedszeremonie für einen Spitzenwrestler im Ryōgoku Kokugikan, bei der sein Chonmage (Haarknoten) abgeschnitten wird. Ein Wrestler muss mindestens 30 Turniere als Sekitori gekämpft haben, um sich zu qualifizieren.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Ceremonies"
+        },
+        "tags": ["ceremony", "retirement", "danpatsu"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q56",
+        "text": "Welche Bedeutung hat Butsukari?",
+        "options": [
+          "Kollision - eine Trainingsübung zum Kraftaufbau",
+          "Eine Siegestechnik",
+          "Eine Zeremonie",
+          "Ein Sumo-Rang"
+        ],
+        "correctIndex": 0,
+        "explanation": "Butsukari (ぶつかり) bedeutet 'Kollision' und ist eine Übung, bei der ein jüngerer Wrestler einen älteren Wrestler mit Kraft über den Dohyō schiebt, um Kraft aufzubauen und Handplatzierung zu lernen.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Training"
+        },
+        "tags": ["training", "butsukari", "exercise"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q57",
+        "text": "Was ist ein Keshō-mawashi?",
+        "options": [
+          "Ein normaler Mawashi",
+          "Der Lendenschurz mit schwer dekorierter Schürze, den Sekitori für die Dohyō-iri tragen",
+          "Ein Trainingsanzug",
+          "Eine Art Schuhe"
+        ],
+        "correctIndex": 1,
+        "explanation": "Keshō-mawashi (化粧廻し) ist der Lendenschurz mit einer schwer dekorierten Schürze, den Sekitori-Wrestler für die Dohyō-iri tragen. Diese sind sehr teuer und werden meist von Unterstützern oder kommerziellen Sponsoren bezahlt.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Ceremonial Dress"
+        },
+        "tags": ["clothing", "kesho-mawashi", "ceremony"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q58",
+        "text": "Was bedeutet Zenshō?",
+        "options": [
+          "Ein perfektes Turnier mit allen Siegen",
+          "Ein Turnier mit allen Niederlagen",
+          "Ein durchschnittliches Turnier",
+          "Ein abgebrochenes Turnier"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zenshō (全勝) ist ein perfektes Turnier, in dem ein Wrestler je nach Division 15-0 oder 7-0 abschließt - alle Kämpfe gewinnt.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Results"
+        },
+        "tags": ["results", "zensho", "perfect"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q59",
+        "text": "Was ist ein Teppō?",
+        "options": [
+          "Gewehr oder Kanone - ein Holzpfahl für Schlag- und Tachi-ai-Training",
+          "Eine Kampftechnik",
+          "Ein Sumo-Ring",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Teppō (鉄炮) bedeutet 'Gewehr' oder 'Kanone' und ist ein Holzpfahl, der für Schlag- und Tachi-ai-Training verwendet wird, um die Handgelenke, Arme und Schultern der Wrestler zu stärken.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Training Equipment"
+        },
+        "tags": ["training", "teppo", "equipment"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q60",
+        "text": "Was bedeutet Mizu-iri?",
+        "options": [
+          "Wasserpause - wenn ein Kampf etwa vier Minuten dauert",
+          "Wassertrinken",
+          "Wasserfall",
+          "Wassersport"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mizu-iri (水入り) ist eine Wasserpause. Wenn ein Kampf etwa vier Minuten dauert, stoppt der Gyōji den Kampf für eine Wasserpause zur Sicherheit der Wrestler und setzt sie dann in exakt derselben Position fort.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Rules"
+        },
+        "tags": ["rules", "mizu-iri", "break"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q61",
+        "text": "Welcher Begriff bezeichnet die Amateur-Sumo?",
+        "options": [
+          "Honbasho",
+          "Amazumo",
+          "Ōzumō",
+          "Jungyo"
+        ],
+        "correctIndex": 1,
+        "explanation": "Amazumo (アマ相撲) ist Amateur-Sumo, bestehend aus Kämpfen zwischen Nicht-Profis, Ex-Profis oder Personen, die nicht berechtigt sind, professionell zu kämpfen, wie Frauen und Minderjährige.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Types of Sumo"
+        },
+        "tags": ["amateur", "amazumo", "competition"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q62",
+        "text": "Was ist ein Tegata?",
+        "options": [
+          "Handabdruck - ein Andenken mit dem roten oder schwarzen Handabdruck eines Wrestlers",
+          "Ein Kampfhandschuh",
+          "Eine Zeremonie",
+          "Ein Trainingsgerät"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tegata (手形) bedeutet 'Handabdruck' und ist ein Andenken bestehend aus dem Handabdruck eines Wrestlers in roter oder schwarzer Tinte und seinem in Kalligrafie geschriebenen Shikona. Nur Sekitori-Wrestler dürfen Handabdrücke machen.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Memorabilia"
+        },
+        "tags": ["memorabilia", "tegata", "handprint"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q63",
+        "text": "Was bedeutet Ankogata?",
+        "options": [
+          "Ein dünner Wrestler",
+          "Ein Wrestler mit großem Bauch im Sumo-Slang",
+          "Ein starker Wrestler",
+          "Ein schneller Wrestler"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ankogata (アンコ型) ist im Sumo-Slang ein Wrestler mit großem Bauch. Das Gegenteil von Soppugata (dünner Wrestler).",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Body Types"
+        },
+        "tags": ["body types", "ankogata", "slang"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q64",
+        "text": "Was ist ein Kettei-sen?",
+        "options": [
+          "Ein Playoff zwischen zwei oder mehr Wrestlern, die am letzten Tag gleichauf liegen",
+          "Ein perfekter Kampf",
+          "Eine Zeremonie",
+          "Ein Trainingstag"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kettei-sen (決定戦) ist ein Playoff zwischen zwei oder mehr Wrestlern einer Division, die am letzten Tag des Turniers in der Führung gleichauf liegen.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Playoffs"
+        },
+        "tags": ["playoff", "kettei-sen", "championship"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q65",
+        "text": "Was bedeutet Kyūjō?",
+        "options": [
+          "Ein Sieg",
+          "Abwesenheit eines Wrestlers von einem Kampf oder Turnier, meist wegen Verletzung",
+          "Eine Niederlage",
+          "Ein Unentschieden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kyūjō (休場) ist die Abwesenheit eines Wrestlers von einem Kampf oder Turnier, meist aufgrund einer Verletzung.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Absence"
+        },
+        "tags": ["absence", "kyujo", "injury"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q66",
+        "text": "Was ist Nekodamashi?",
+        "options": [
+          "Katzentäuschung - Händeklatschen beim Tachi-ai zur Ablenkung",
+          "Eine Wurftechnik",
+          "Ein Sumo-Rang",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nekodamashi (猫騙し) bedeutet 'Katzentäuschung' und ist das Händeklatschen beim Tachi-ai, um den Gegner abzulenken.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Tactics"
+        },
+        "tags": ["tactics", "nekodamashi", "distraction"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q67",
+        "text": "Was bedeutet Shikona?",
+        "options": [
+          "Kampfname oder Ringname eines Wrestlers",
+          "Eine Kampftechnik",
+          "Ein Sumo-Stall",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Shikona (四股名) ist der 'Kampfname' oder 'Ringname' eines Wrestlers, oft ein poetischer Ausdruck, der Elemente des Heya des Wrestlers enthalten kann. Japanische Wrestler nehmen oft erst einen Shikona an, wenn sie Makushita oder Jūryō erreichen.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Names"
+        },
+        "tags": ["names", "shikona", "identity"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q68",
+        "text": "Was sind Tokoyama?",
+        "options": [
+          "Friseure, die von der Sumo Association angestellt sind",
+          "Wrestler",
+          "Richter",
+          "Trainer"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tokoyama (床山) sind Friseure, die von der Sumo Association angestellt sind, um die Haare der Wrestler zu stylen und die aufwendige Ōichōmage der Sekitori für offizielle Turniere und öffentliche Auftritte zu gestalten.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Staff"
+        },
+        "tags": ["staff", "tokoyama", "hairdresser"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q69",
+        "text": "Was bedeutet Yumitori-shiki?",
+        "options": [
+          "Die Bogen-Wirbel-Zeremonie am Ende jedes Honbasho-Tages",
+          "Eine Kampftechnik",
+          "Ein Sumo-Rang",
+          "Ein Trainingsritual"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yumitori-shiki (弓取式) ist die Bogen-Wirbel-Zeremonie, die am Ende jedes Honbasho-Tages von einem bestimmten Wrestler durchgeführt wird, der meist aus der Makushita-Division oder darunter stammt.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Ceremonies"
+        },
+        "tags": ["ceremony", "yumitori", "bow"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q70",
+        "text": "Was ist ein Hanamichi?",
+        "options": [
+          "Die beiden Haupt-Ost- und West-'Pfade' von den Vorbereitungsräumen zum Dohyō",
+          "Ein Sumo-Ring",
+          "Eine Kampftechnik",
+          "Ein Trainingsgerät"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hanamichi (花道) sind die beiden Haupt-Ost- und West-'Pfade', die von den Vorbereitungsräumen zum Dohyō führen.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Arena"
+        },
+        "tags": ["arena", "hanamichi", "walkway"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q71",
+        "text": "Was bedeutet Niramiai?",
+        "options": [
+          "Der Blickduell zwischen Sumo-Wrestlern vor einem Kampf",
+          "Eine Kampftechnik",
+          "Ein Sumo-Rang",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Niramiai (睨み合い) ist der Blickduell zwischen Sumo-Wrestlern vor einem Kampf, Teil der psychologischen Vorbereitung.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Pre-bout"
+        },
+        "tags": ["pre-bout", "niramiai", "staredown"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q72",
+        "text": "Was ist ein Makikae?",
+        "options": [
+          "Wechsel von einem Überarm- zu einem Unterarmgriff am Gürtel des Gegners",
+          "Eine Wurftechnik",
+          "Ein Sumo-Rang",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Makikae (巻き替え) ist der Wechsel von einem Überarm- zu einem Unterarmgriff am Gürtel des Gegners. Wenn richtig ausgeführt, kann es zu einem schnellen Sieg führen, wenn nicht richtig ausgeführt, oft zu einer schnellen Niederlage.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Techniques"
+        },
+        "tags": ["techniques", "makikae", "grip"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q73",
+        "text": "Was bedeutet Hassetobi?",
+        "options": [
+          "Acht-Boot-Sprung - eine Art Henka mit vertikalem Sprung",
+          "Eine normale Kampftechnik",
+          "Ein Sumo-Rang",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hassetobi (八艘飛び) bedeut 'Acht-Boot-Sprung' und ist eine Art Henka, bei dem ein Wrestler beim Tachi-ai vertikal springt, um dem Angriff des Gegners auszuweichen. Der Name stammt aus dem japanischen Epos 'Das Märchen der Heike'.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Evasive Techniques"
+        },
+        "tags": ["evasive", "hassetobi", "jump"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q74",
+        "text": "Was ist ein Toshiyori?",
+        "options": [
+          "Ein Sumo-Ältester",
+          "Ein junger Wrestler",
+          "Ein Schiedsrichter",
+          "Ein Zuschauer"
+        ],
+        "correctIndex": 0,
+        "explanation": "Toshiyori (年寄) ist ein Sumo-Ältester, ein Trainer oder Funktionär der Japan Sumo Association. Es gibt 105 Toshiyori-Lizenzen.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Elders"
+        },
+        "tags": ["elders", "toshiyori", "management"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q75",
+        "text": "Was bedeutet Ottsuke?",
+        "options": [
+          "Technik, den Arm des Gegners zu halten, um zu verhindern, dass er den Gürtel greift",
+          "Eine Wurftechnik",
+          "Ein Sumo-Rang",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ottsuke (押っ付け) ist die Technik, den Arm des Gegners zu halten, um zu verhindern, dass er den Gürtel greift. Wörtlich 'schieben und befestigen', wie den Arm des Gegners am Körper zu befestigen.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Defensive Techniques"
+        },
+        "tags": ["defensive", "ottsuke", "arm control"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q76",
+        "text": "Was ist Moro-zashi?",
+        "options": [
+          "Tiefer doppelter Unterarmgriff, der den Gegner daran hindert, den Gürtel zu greifen",
+          "Eine Wurftechnik",
+          "Ein Sumo-Rang",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Moro-zashi (両差し) ist ein tiefer doppelter Unterarmgriff, der den Gegner daran hindert, den Gürtel zu greifen. Eine sehr starke Position im Sumo.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Grips"
+        },
+        "tags": ["grips", "moro-zashi", "technique"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q77",
+        "text": "Was bedeutet Tsuppari?",
+        "options": [
+          "Schnelle Abgabe von offenen Handschlägen an den Gegner",
+          "Eine Gürtelwurftechnik",
+          "Ein Sumo-Rang",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tsuppari (突っ張り) bedeutet die schnelle Abgabe von Harite (張り手) oder 'offenen Handschlägen' an den Gegner. Diese Technik wird häufig von Oshi-zumō-Wrestlern eingesetzt.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Striking Techniques"
+        },
+        "tags": ["striking", "tsuppari", "oshi-zumo"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q78",
+        "text": "Was ist ein Nodowa?",
+        "options": [
+          "Stoß an die Kehle des Gegners",
+          "Eine Gürtelwurftechnik",
+          "Ein Sumo-Rang",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nodowa (喉輪) ist ein Stoß an die Kehle des Gegners, eine aggressive Angriffstechnik im Sumo.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Attack Techniques"
+        },
+        "tags": ["attack", "nodowa", "throat"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q79",
+        "text": "Was bedeutet Binzuke?",
+        "options": [
+          "Eine japanische Pomade für Sumo-Wrestler-Haare",
+          "Ein Kampfanzug",
+          "Eine Kampftechnik",
+          "Ein Sumo-Rang"
+        ],
+        "correctIndex": 0,
+        "explanation": "Binzuke (鬢付け) oder Binzuke-Abura ist eine japanische Pomade aus Wachs und gehärtetem Kamillenöl, die verwendet wird, um das Haar der Sumo-Wrestler zu stylen und ihm den charakteristischen Geruch und Glanz zu verleihen.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Hair Products"
+        },
+        "tags": ["hair", "binzuke", "pomade"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q80",
+        "text": "Was ist ein Shini-tai?",
+        "options": [
+          "Toter Körper - ein Wrestler in einer nicht wiederherstellbaren Position",
+          "Ein lebender Körper",
+          "Eine Siegestechnik",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Shini-tai (死に体) bedeutet 'toter Körper' und bezeichnet einen Wrestler, der technisch nicht als Erster den Ring berührte, aber trotzdem als Verlierer gewertet wird, weil sein Gegner ihn in eine nicht wiederherstellbare Position gebracht hat.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Judging"
+        },
+        "tags": ["judging", "shini-tai", "position"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q81",
+        "text": "Was bedeutet Kadoban?",
+        "options": [
+          "Ein Ōzeki, der im vorherigen Turnier Make-koshi hatte und bei erneutem Versagen absteigt",
+          "Ein erfolgreicher Ōzeki",
+          "Ein neuer Ōzeki",
+          "Ein zurückgetretener Ōzeki"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kadoban (角番) ist ein Ōzeki, der im vorherigen Turnier Make-koshi erlitten hat und daher absteigt, wenn er nicht mindestens acht Siege schafft. Die aktuellen Regeln gelten seit Juli 1969.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Ozeki Status"
+        },
+        "tags": ["ozeki", "kadoban", "demotion"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q82",
+        "text": "Was sind Sagari?",
+        "options": [
+          "Die Schnüre, die in die Vorderseite des Mawashi für den Wettkampf eingesetzt werden",
+          "Eine Kampftechnik",
+          "Ein Sumo-Rang",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sagari (下がり) sind die Schnüre, die in die Vorderseite des Mawashi für den Wettkampf eingesetzt werden. Die Sagari der Sekitori-Wrestler sind mit einem algenbasierten Kleber versteift.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Mawashi Details"
+        },
+        "tags": ["mawashi", "sagari", "strings"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q83",
+        "text": "Was bedeutet Degeiko?",
+        "options": [
+          "Herauskommen zum Üben - eine Übungssitzung zwischen Wrestlern konkurrierender Ställe",
+          "Inneres Training",
+          "Einzeltraining",
+          "Wettkampftraining"
+        ],
+        "correctIndex": 0,
+        "explanation": "Degeiko (出稽古) bedeutet 'herauskommen zum Üben' und ist eine Übungssitzung zwischen Wrestlern konkurrierender Ställe. Wird normalerweise zwischen Ställen desselben Ichimon organisiert.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Inter-stable Training"
+        },
+        "tags": ["training", "degeiko", "inter-stable"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q84",
+        "text": "Was ist ein Ichimon?",
+        "options": [
+          "Eine Gruppe verwandter Ställe",
+          "Ein einzelner Stall",
+          "Ein Wrestler",
+          "Ein Wettkampf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ichimon (一門) ist eine Gruppe verwandter Ställe. Es gibt fünf Gruppen: Dewanoumi, Nishonoseki, Takasago, Tokitsukaze und Isegahama. Diese Gruppen kooperieren eng beim Inter-Stall-Training.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Stable Groups"
+        },
+        "tags": ["stable", "ichimon", "groups"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q85",
+        "text": "Was bedeutet Suriashi?",
+        "options": [
+          "Gleitende Füße - eine der grundlegenden Sumo-Übungen",
+          "Schnelle Füße",
+          "Starke Füße",
+          "Flexible Füße"
+        ],
+        "correctIndex": 0,
+        "explanation": "Suriashi (摺り足) bedeutet 'gleitende Füße' und ist eine der grundlegenden Sumo-Übungen, bei der ein Wrestler eine Übungszone überquert, während er in der Hocke bleibt und seine Füße über den Boden gleitet.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Basic Exercises"
+        },
+        "tags": ["exercise", "suriashi", "footwork"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q86",
+        "text": "Was ist ein Matawari?",
+        "options": [
+          "Spagat - eine Übung zur Flexibilitätsverbesserung",
+          "Eine Kampftechnik",
+          "Ein Sumo-Rang",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Matawari (股割り) bedeutet 'Spagat' und ist eine Übung, bei der ein Wrestler mit weit gespreizten Beinen auf dem Boden sitzt und dann seinen Oberkörper senkt, um den Boden zwischen seinen Beinen zu berühren.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Flexibility"
+        },
+        "tags": ["flexibility", "matawari", "stretch"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q87",
+        "text": "Was bedeutet Hansoku?",
+        "options": [
+          "Foul oder Regelverstoß bei der Verwendung verbotener Bewegungen",
+          "Ein perfekter Kampf",
+          "Eine Siegestechnik",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hansoku (反則) bedeutet 'Foul' oder 'Regelverstoß' und wird in offiziellen Aufzeichnungen vermerkt, wenn eine verbotene Bewegung in einem Sumo-Wettkampf verwendet wird (siehe Kinjite).",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Rule Violations"
+        },
+        "tags": ["rules", "hansoku", "violation"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q88",
+        "text": "Was ist ein Jungyō?",
+        "options": [
+          "Regionale Touren zwischen Honbasho mit Ausstellungskämpfen",
+          "Ein offizielles Turnier",
+          "Eine Zeremonie",
+          "Ein Trainingscamp"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jungyō (巡業) sind regionale Touren in Japan und manchmal im Ausland, die zwischen Honbasho unternommen werden und bei denen die Wrestler Ausstellungskämpfe geben.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Tours"
+        },
+        "tags": ["tours", "jungyo", "exhibition"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q89",
+        "text": "Was bedeutet Kachi-age?",
+        "options": [
+          "Technik, bei der der Wrestler die Arme verschränkt und vorwärts stürmt",
+          "Eine Gürtelwurftechnik",
+          "Ein Sumo-Rang",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kachi-age (搗ち上げ) ist eine Technik, bei der der Wrestler die Arme verschränkt und vorwärts stürmt, um die Brust oder das Kinn des Gegners zu treffen und dessen Haltung aufrecht zu machen. Wird meist beim Tachi-ai eingesetzt.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Impact Techniques"
+        },
+        "tags": ["impact", "kachi-age", "tachi-ai"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q90",
+        "text": "Was ist ein Yurufun?",
+        "options": [
+          "Ein locker gebundener Mawashi",
+          "Ein fest gebundener Mawashi",
+          "Ein zeremonieller Mawashi",
+          "Ein Trainings-Mawashi"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yurufun (ゆるふん) ist ein locker gebundener Mawashi. Kann absichtlich verwendet werden, um Wrestler zu behindern, die sich auf Yotsu-zumō spezialisiert haben. Fun ist eine Abkürzung von Fundoshi.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Mawashi Tactics"
+        },
+        "tags": ["mawashi", "yurufun", "tactics"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q91",
+        "text": "Was bedeutet Deshi?",
+        "options": [
+          "Ein Lehrling - verwendet für jeden rangniedrigeren Wrestler in einem Stall",
+          "Ein Meister",
+          "Ein Richter",
+          "Ein Zuschauer"
+        ],
+        "correctIndex": 0,
+        "explanation": "Deshi (弟子) ist ein Lehrling. Wird allgemein verwendet, um jeden rangniedrigeren Wrestler (Makushita und darunter) in einem Stall zu beschreiben. Wird auch für jeden vom Shishō oder einem ranghöheren Wrestler trainierten Wrestler verwendet.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Apprentice System"
+        },
+        "tags": ["apprentice", "deshi", "hierarchy"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q92",
+        "text": "Was ist ein Kenshō-kin?",
+        "options": [
+          "Preisgeld basierend auf der Sponsorschaft des Kampfes",
+          "Ein Gehalt",
+          "Eine Strafe",
+          "Eine Zeremonie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kenshō-kin (懸賞金) ist Preisgeld basierend auf der Sponsorschaft des Kampfes, das dem Sieger nach dem Gunbai des Gyōji verliehen wird. Die Banner der Sponsoren werden vor dem Kampf um den Dohyō getragen.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Prize Money"
+        },
+        "tags": ["prize", "kensho-kin", "sponsorship"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q93",
+        "text": "Was bedeutet Shingitai?",
+        "options": [
+          "Herz, Technik und Körper - die drei Qualitäten eines Wrestlers",
+          "Drei Kämpfe",
+          "Drei Ränge",
+          "Drei Preise"
+        ],
+        "correctIndex": 0,
+        "explanation": "Shingitai (心技体) bedeutet 'Herz, Technik und Körper' und sind die drei Qualitäten eines Wrestlers. Die erfolgreichsten Wrestler sind in allen drei Kategorien stark.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Wrestler Qualities"
+        },
+        "tags": ["qualities", "shingitai", "philosophy"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q94",
+        "text": "Was ist ein Fusenpai?",
+        "options": [
+          "Eine Niederlage durch Nichterscheinen bei einem geplanten Kampf",
+          "Ein Sieg durch Erscheinen",
+          "Ein Unentschieden",
+          "Ein perfekter Kampf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Fusenpai (不戦敗) ist eine Niederlage durch Nichterscheinen bei einem geplanten Kampf. Wenn ein Wrestler vom Turnier zurücktritt, wird am folgenden Tag eine Niederlage durch Nichterscheinen gegen ihn aufgezeichnet. Wird mit einem schwarzen Quadrat aufgezeichnet.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 1",
+          "chapter": "Default Results"
+        },
+        "tags": ["results", "fusenpai", "default loss"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q95",
+        "text": "Was bedeutet Shonichi?",
+        "options": [
+          "Erster Tag - der erste Tag eines Turniers oder der erste Sieg nach einer Niederlagenserie",
+          "Letzter Tag",
+          "Mittlerer Tag",
+          "Freier Tag"
+        ],
+        "correctIndex": 0,
+        "explanation": "Shonichi (初日) bedeutet 'Erster Tag' und bezeichnet den ersten Tag eines Turniers oder den ersten Sieg nach einer Serie von Niederlagen.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Tournament Days"
+        },
+        "tags": ["tournament", "shonichi", "first day"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q96",
+        "text": "Was ist ein Nakabi?",
+        "options": [
+          "Mittlerer Tag - der achte Tag eines Honbasho, immer ein Sonntag",
+          "Erster Tag",
+          "Letzter Tag",
+          "Freier Tag"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nakabi (中日) bedeutet 'Mittlerer Tag' und ist der achte Tag eines Honbasho, immer ein Sonntag.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Tournament Schedule"
+        },
+        "tags": ["tournament", "nakabi", "middle day"],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q97",
+        "text": "Was bedeutet Musubi no ichiban?",
+        "options": [
+          "Der finale Kampf des Tages",
+          "Der erste Kampf des Tages",
+          "Der mittlere Kampf des Tages",
+          "Ein Playoff-Kampf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Musubi no ichiban (結びの一番) ist der finale Kampf des Tages, der wichtigste und am meisten erwartete Kampf eines Turniertages.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Daily Schedule"
+        },
+        "tags": ["schedule", "musubi", "final bout"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q98",
+        "text": "Was ist ein Tennō-hai?",
+        "options": [
+          "Kaiser-Pokal, verliehen an den Gewinner der Makuuchi-Division seit 1925",
+          "Ein Trainingspokal",
+          "Ein Freundschaftspokal",
+          "Ein regionaler Pokal"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tennō-hai (天皇杯) ist der Kaiser-Pokal, der seit 1925 an den Gewinner der Makuuchi-Division-Turnier-Meisterschaft verliehen wird.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Imperial Awards"
+        },
+        "tags": ["awards", "tenno-hai", "emperor"],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q99",
+        "text": "Was bedeutet Zanbara?",
+        "options": [
+          "Lockeres und zerzaustes Haar vor dem Chonmage-Stil",
+          "Perfekt gestyltes Haar",
+          "Rasiertes Haar",
+          "Geflochtenes Haar"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zanbara (ざんばら) ist lockeres und zerzaustes Haar. Begriff für den Haarstil, bevor das Haar eines Wrestlers lang genug ist, um in einem Chonmage-Stil gebunden zu werden. In höheren Divisionen ist es ein Zeichen eines Wrestlers, der schnell aufgestiegen ist.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Hair Styles"
+        },
+        "tags": ["hair", "zanbara", "disheveled"],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q100",
+        "text": "Was ist ein Ōichōmage?",
+        "options": [
+          "Große Ginkgo-Blatt-Haarknoten für Jūryō- und Makuuchi-Wrestler",
+          "Ein normaler Haarknoten",
+          "Eine Glatze",
+          "Offenes Haar"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ōichōmage (大銀杏髷) bedeutet wörtlich 'großer Ginkgo-Blatt-Haarknoten' und ist der Haarstil, der bei Turnieren von Jūryō- und Makuuchi-Wrestlern getragen wird. Er ist so benannt, weil der Haarknoten auf dem Kopf zu einer ginkgoblattähnlichen Form gefächert wird.",
+        "source": {
+          "citation": "Sumo Terms and Terminology",
+          "pages": "S. 2",
+          "chapter": "Formal Hair Styles"
+        },
+        "tags": ["hair", "oichomage", "formal"],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

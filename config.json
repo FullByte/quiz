@@ -108,6 +108,14 @@
         "sysinternals",
         "windows-server-get-started"
       ]
+    },
+    "culture": {
+      "name": "Culture",
+      "icon": "fa-question-circle",
+      "description": "Quiz und Wissen rund um culture",
+      "quiz": [
+        "sumo"
+      ]
     }
   },
   "categoryIcons": {
