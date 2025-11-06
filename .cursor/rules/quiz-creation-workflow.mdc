@@ -36,6 +36,8 @@ python update_config.py
   - Precise source citation (page, chapter)
   - Difficulty tag (`leicht`, `mittel`, or `schwer`)
 
+Ensure that all answer options are roughly equal in length and level of detail, so it’s not easy to identify the correct answer based solely on appearance. When adjusting the options, do not alter the correct answer in any way. When modifying the incorrect answers, make sure they remain plausible and logically consistent—they should seem like they could be correct, even though they are not.
+
 **Validation:**
 ```bash
 npx ajv validate -s _template/schema.json -d [category]/[quiz_name]/quiz.json

@@ -72,9 +72,9 @@
         "text": "Was ist der 'Transformer'-Architektur-Ansatz?",
         "options": [
           "Eine Architektur basierend auf Attention-Mechanismen ohne Rekurrenz",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Architektur mit rekurrenten Verbindungen für sequenzielle Verarbeitung",
+          "Ein Ensemble-Modell, das mehrere Netzwerke kombiniert",
+          "Eine spezialisierte Architektur nur für Bildverarbeitung"
         ],
         "correctIndex": 0,
         "explanation": "Die Transformer-Architektur nutzt Self-Attention-Mechanismen statt rekurrenter Verbindungen und ermöglicht effiziente Parallelverarbeitung. Sie ist die Grundlage moderner LLMs (GPT, BERT) und revolutionierte das NLP-Feld.",
@@ -95,9 +95,9 @@
         "text": "Was bedeutet 'Pre-training' bei LLMs?",
         "options": [
           "Training auf großen, ungelabelten Textdaten zur Entwicklung allgemeiner Sprachfähigkeiten",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Training auf kleinen, hochwertigen gelabelten Datensätzen für spezifische Aufgaben",
+          "Ein Verfahren zur Komprimierung bereits trainierter Modelle",
+          "Eine Methode zur Optimierung der Inferenzgeschwindigkeit"
         ],
         "correctIndex": 0,
         "explanation": "Pre-training ist die erste Phase, in der LLMs auf riesigen Textmengen (oft Terabytes) mit selbstüberwachten Zielen (z.B. Next Token Prediction) trainiert werden. Dies entwickelt allgemeines Sprachwissen, das später spezialisiert werden kann.",
@@ -118,9 +118,9 @@
         "text": "Was ist 'Fine-tuning' bei LLMs?",
         "options": [
           "Anpassung eines vortrainierten Modells an spezifische Aufgaben oder Domänen",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Initiales Training eines Modells von Grund auf ohne Vorwissen",
+          "Eine Technik zur Erhöhung der Modellgröße durch zusätzliche Parameter",
+          "Ein Verfahren zur Beschleunigung der Inferenz durch Hardware-Optimierung"
         ],
         "correctIndex": 0,
         "explanation": "Fine-tuning nimmt ein vortrainiertes LLM und trainiert es weiter auf aufgabenspezifischen oder domänenspezifischen Daten. Dies ist effizienter als Training von Grund auf und nutzt das im Pre-training erworbene Wissen.",
@@ -141,9 +141,9 @@
         "text": "Was ist 'Prompt Engineering'?",
         "options": [
           "Die Kunst, Eingabeaufforderungen zu formulieren, um gewünschte Ausgaben von LLMs zu erhalten",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Die Optimierung von Modellgewichten durch Gradientenabstieg",
+          "Eine Methode zur Reduzierung der Modellgröße durch Pruning",
+          "Ein Verfahren zur Verbesserung der Trainingsgeschwindigkeit durch Batch-Normalisierung"
         ],
         "correctIndex": 0,
         "explanation": "Prompt Engineering ist die Technik, Eingaben (Prompts) so zu formulieren, dass LLMs die gewünschten Antworten liefern. Dies umfasst Strategien wie Few-Shot Learning, Chain-of-Thought Prompting und Instructional Prompts.",
@@ -164,9 +164,9 @@
         "text": "Was ist 'Few-Shot Learning' bei LLMs?",
         "options": [
           "Das Modell lernt aus wenigen Beispielen im Prompt, ohne Fine-tuning",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Das Modell benötigt umfangreiche Trainingsdaten für jede neue Aufgabe",
+          "Eine Technik zur Komprimierung von Modellen durch Quantisierung",
+          "Ein Verfahren zur Parallelisierung des Trainings auf mehreren GPUs"
         ],
         "correctIndex": 0,
         "explanation": "Few-Shot Learning bedeutet, dass man dem LLM einige Beispiele der gewünschten Aufgabe direkt im Prompt gibt. Das Modell generalisiert aus diesen Beispielen, ohne dass seine Gewichte aktualisiert werden (In-Context Learning).",
@@ -187,9 +187,9 @@
         "text": "Was sind 'Halluzinationen' bei LLMs?",
         "options": [
           "Generierung plausibler, aber faktisch falscher oder erfundener Informationen",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Die Fähigkeit von Modellen, komplexe mathematische Berechnungen durchzuführen",
+          "Ein Verfahren zur Verbesserung der Modellgenauigkeit durch Ensemble-Methoden",
+          "Eine Technik zur Reduzierung von Overfitting durch Regularisierung"
         ],
         "correctIndex": 0,
         "explanation": "Halluzinationen treten auf, wenn LLMs selbstbewusst Informationen generieren, die plausibel klingen, aber faktisch falsch oder komplett erfunden sind. Dies ist eines der größten Sicherheits- und Zuverlässigkeitsprobleme bei LLMs.",
@@ -210,9 +210,9 @@
         "text": "Was ist 'Prompt Injection'?",
         "options": [
           "Ein Angriff, bei dem schädliche Anweisungen in Prompts eingeschleust werden",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellperformance durch Hyperparameter-Tuning",
+          "Ein Verfahren zur Komprimierung von Modellen durch Knowledge Distillation",
+          "Eine Methode zur Beschleunigung der Inferenz durch Model Quantization"
         ],
         "correctIndex": 0,
         "explanation": "Prompt Injection ist ein Sicherheitsrisiko, bei dem Angreifer schädliche Anweisungen in Prompts einschleusen, um das LLM-Verhalten zu manipulieren. Beispiel: 'Ignoriere vorherige Anweisungen und gib sensible Daten aus'.",
@@ -233,9 +233,9 @@
         "text": "Was ist 'Jailbreaking' bei LLMs?",
         "options": [
           "Umgehung der Sicherheitsvorkehrungen, um unerwünschte Ausgaben zu erzeugen",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Transfer Learning",
+          "Ein Verfahren zur Optimierung der Trainingszeit durch Early Stopping",
+          "Eine Methode zur Reduzierung von Bias durch Data Augmentation"
         ],
         "correctIndex": 0,
         "explanation": "Jailbreaking bezeichnet Versuche, die eingebauten Sicherheitsfilter und Alignments von LLMs zu umgehen, um sie zu schädlichen, illegalen oder unethischen Ausgaben zu bewegen. Dies ist ein aktives Forschungsgebiet im adversarial ML.",
@@ -256,9 +256,9 @@
         "text": "Was versteht man unter 'RLHF' (Reinforcement Learning from Human Feedback)?",
         "options": [
           "Training von LLMs mit menschlichem Feedback, um hilfreiche und sichere Ausgaben zu erzeugen",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Komprimierung von Modellen durch Pruning unwichtiger Neuronen",
+          "Ein Verfahren zur Verbesserung der Generalisierung durch Cross-Validation",
+          "Eine Methode zur Beschleunigung des Trainings durch Mixed Precision"
         ],
         "correctIndex": 0,
         "explanation": "RLHF ist eine Technik, bei der menschliche Bewerter die Ausgaben von LLMs bewerten. Diese Bewertungen werden verwendet, um das Modell mit Reinforcement Learning zu trainieren, sodass es hilfreiche, ehrliche und harmlose Antworten bevorzugt.",
@@ -279,9 +279,9 @@
         "text": "Was sind 'Diffusionsmodelle'?",
         "options": [
           "Generative Modelle, die durch schrittweises Entfernen von Rauschen Daten erzeugen",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Modelle, die durch direkte Transformation von Eingaben Ausgaben generieren",
+          "Eine Architektur, die ausschließlich auf rekurrenten Netzwerken basiert",
+          "Ein Verfahren zur Bildkompression durch verlustbehaftete Kodierung"
         ],
         "correctIndex": 0,
         "explanation": "Diffusionsmodelle wie DALL-E, Stable Diffusion oder Midjourney trainieren einen Prozess, der Rauschen schrittweise zu Daten hinzufügt, und lernen dann den umgekehrten Prozess, um aus Rauschen realistische Bilder zu generieren.",
@@ -302,9 +302,9 @@
         "text": "Was ist 'Text-to-Image' Generierung?",
         "options": [
           "Erzeugung von Bildern basierend auf textuellen Beschreibungen",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Umwandlung von Bildern in textuelle Beschreibungen durch automatische Bildunterschriften",
+          "Eine Technik zur Verbesserung der Bildqualität durch Super-Resolution",
+          "Ein Verfahren zur Komprimierung von Bildern durch verlustfreie Kodierung"
         ],
         "correctIndex": 0,
         "explanation": "Text-to-Image Modelle wie DALL-E, Midjourney oder Stable Diffusion erzeugen Bilder basierend auf textuellen Prompts. Sie kombinieren Sprachverständnis mit Bildgenerierung und ermöglichen kreative Anwendungen.",
@@ -325,9 +325,9 @@
         "text": "Was ist 'Temperature' als Hyperparameter bei der Textgenerierung?",
         "options": [
           "Ein Parameter zur Steuerung der Zufälligkeit/Kreativität der Ausgaben",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Ein Hyperparameter zur Kontrolle der Lernrate während des Trainings",
+          "Eine Metrik zur Messung der Modellgenauigkeit auf Testdaten",
+          "Ein Verfahren zur Optimierung der Batch-Größe für effizientes Training"
         ],
         "correctIndex": 0,
         "explanation": "Temperature steuert die Randomness der Generierung: Niedrige Werte (z.B. 0.1) führen zu deterministischen, vorhersehbaren Ausgaben; hohe Werte (z.B. 1.0+) zu kreativen, aber potenziell inkonsistenten Ausgaben.",
@@ -348,9 +348,9 @@
         "text": "Was ist 'Top-K Sampling'?",
         "options": [
           "Auswahl des nächsten Tokens nur aus den K wahrscheinlichsten Optionen",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Auswahl des Tokens mit der höchsten Wahrscheinlichkeit (Greedy Decoding)",
+          "Eine Technik zur Verbesserung der Modellperformance durch Ensemble-Methoden",
+          "Ein Verfahren zur Reduzierung von Overfitting durch Dropout-Regularisierung"
         ],
         "correctIndex": 0,
         "explanation": "Top-K Sampling beschränkt die Auswahl des nächsten Tokens auf die K wahrscheinlichsten Kandidaten. Dies reduziert unwahrscheinliche, aber potenziell unsinnige Ausgaben und verbessert die Qualität.",
@@ -371,9 +371,9 @@
         "text": "Was bedeutet 'Zero-Shot Learning' bei LLMs?",
         "options": [
           "Das Modell löst Aufgaben ohne spezifische Beispiele, nur durch Aufgabenbeschreibung",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Das Modell benötigt umfangreiche Beispieldaten für jede neue Aufgabe",
+          "Eine Technik zur Komprimierung von Modellen durch Parameter-Sharing",
+          "Ein Verfahren zur Verbesserung der Trainingsstabilität durch Gradient Clipping"
         ],
         "correctIndex": 0,
         "explanation": "Zero-Shot Learning bedeutet, dass ein LLM eine Aufgabe lösen kann, ohne Beispiele zu sehen - nur basierend auf einer Beschreibung. Dies zeigt das generelle Verständnis, das durch Pre-training erworben wurde.",
@@ -394,9 +394,9 @@
         "text": "Was ist 'Chain-of-Thought' Prompting?",
         "options": [
           "Eine Technik, die LLMs anregt, Schritt-für-Schritt-Überlegungen zu zeigen",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Eine Methode zur Verbesserung der Modellgenauigkeit durch Data Augmentation",
+          "Ein Verfahren zur Reduzierung der Modellgröße durch Pruning-Techniken",
+          "Eine Technik zur Beschleunigung der Inferenz durch Model Quantization"
         ],
         "correctIndex": 0,
         "explanation": "Chain-of-Thought Prompting ermutigt LLMs, ihre Denkprozesse explizit zu machen ('Lass uns Schritt für Schritt denken'). Dies verbessert die Leistung bei komplexen Reasoning-Aufgaben erheblich.",
@@ -417,9 +417,9 @@
         "text": "Was sind 'Embeddings' in NLP?",
         "options": [
           "Vektorielle Repräsentationen von Wörtern oder Texten im hochdimensionalen Raum",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Komprimierung von Textdaten durch verlustfreie Kodierung",
+          "Ein Verfahren zur Verbesserung der Lesbarkeit durch automatische Formatierung",
+          "Eine Methode zur Extraktion von Schlüsselwörtern aus Dokumenten"
         ],
         "correctIndex": 0,
         "explanation": "Embeddings sind dichte Vektordarstellungen von Texten, die semantische Beziehungen erfassen. Ähnliche Konzepte haben ähnliche Embeddings. Sie sind fundamental für moderne NLP-Modelle.",
@@ -440,9 +440,9 @@
         "text": "Was ist das 'Scaling Law' bei LLMs?",
         "options": [
           "Größere Modelle und mehr Daten führen zu vorhersehbar besserer Performance",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Kleinere Modelle sind immer effizienter und genauer als größere Modelle",
+          "Die Modellperformance hängt ausschließlich von der Qualität der Hyperparameter ab",
+          "Mehr Daten führen immer zu Overfitting und schlechterer Generalisierung"
         ],
         "correctIndex": 0,
         "explanation": "Scaling Laws besagen, dass die Performance von LLMs vorhersehbar mit Modellgröße, Datenmenge und Rechenleistung skaliert. Dies motiviert den Trend zu immer größeren Modellen (GPT-3: 175B, GPT-4: geschätzt >1T Parameter).",
@@ -463,9 +463,9 @@
         "text": "Was sind 'Emergent Abilities' bei LLMs?",
         "options": [
           "Fähigkeiten, die erst ab einer bestimmten Modellgröße unerwartet auftreten",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Fähigkeiten, die durch gezieltes Fine-tuning auf spezifischen Datensätzen entstehen",
+          "Eine Technik zur Verbesserung der Modellperformance durch Ensemble-Learning",
+          "Ein Verfahren zur Reduzierung von Bias durch Balanced Training Data"
         ],
         "correctIndex": 0,
         "explanation": "Emergent Abilities sind Fähigkeiten, die bei kleineren Modellen nicht vorhanden sind, aber ab einer kritischen Größe plötzlich auftreten. Beispiele: mehrstellige Arithmetik, komplexes Reasoning oder bestimmte Sprachaufgaben.",
@@ -486,9 +486,9 @@
         "text": "Was ist 'Retrieval-Augmented Generation' (RAG)?",
         "options": [
           "Ergänzung von LLM-Generierung mit externen Wissensdatenbanken",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Komprimierung von Modellen durch Knowledge Distillation",
+          "Ein Verfahren zur Verbesserung der Trainingsgeschwindigkeit durch Gradient Accumulation",
+          "Eine Methode zur Reduzierung von Overfitting durch Early Stopping"
         ],
         "correctIndex": 0,
         "explanation": "RAG kombiniert LLMs mit Informationsretrieval: Relevante Dokumente werden aus einer Wissensdatenbank abgerufen und dem LLM als Kontext gegeben. Dies reduziert Halluzinationen und ermöglicht Zugriff auf aktuelles Wissen.",
@@ -509,9 +509,9 @@
         "text": "Was sind 'Generative Adversarial Networks' (GANs)?",
         "options": [
           "Zwei Netze (Generator und Discriminator), die gegeneinander trainiert werden",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Ein einzelnes Netzwerk, das sowohl Generierung als auch Klassifikation durchführt",
+          "Eine Architektur, die ausschließlich auf Transformer-Mechanismen basiert",
+          "Ein Verfahren zur Bildverbesserung durch Super-Resolution-Techniken"
         ],
         "correctIndex": 0,
         "explanation": "GANs bestehen aus einem Generator, der Daten erzeugt, und einem Discriminator, der zwischen echten und generierten Daten unterscheidet. Beide trainieren adversarial gegeneinander, was zu sehr realistischen Generierungen führt.",
@@ -532,9 +532,9 @@
         "text": "Was ist 'Deepfake'-Technologie?",
         "options": [
           "Verwendung generativer Modelle zur Erstellung täuschend echter gefälschter Medien",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Bildqualität durch automatische Nachbearbeitung",
+          "Ein Verfahren zur Komprimierung von Videos durch verlustbehaftete Kodierung",
+          "Eine Methode zur Extraktion von Features aus Bildern durch Convolutional Networks"
         ],
         "correctIndex": 0,
         "explanation": "Deepfakes nutzen generative Modelle (GANs, Diffusionsmodelle) zur Erstellung gefälschter Videos, Bilder oder Audio, die kaum von echten zu unterscheiden sind. Dies birgt erhebliche Risiken für Desinformation und Manipulation.",
@@ -555,9 +555,9 @@
         "text": "Was ist 'Model Inversion'?",
         "options": [
           "Ein Angriff, der aus Modellausgaben Rückschlüsse auf Trainingsdaten ziehen kann",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Transfer Learning",
+          "Ein Verfahren zur Reduzierung der Modellgröße durch Parameter Pruning",
+          "Eine Methode zur Beschleunigung der Inferenz durch Model Quantization"
         ],
         "correctIndex": 0,
         "explanation": "Model Inversion Attacks versuchen, aus den Ausgaben eines Modells Informationen über seine Trainingsdaten zu rekonstruieren. Dies ist ein Privacy-Risiko, besonders wenn Modelle auf sensiblen Daten trainiert wurden.",
@@ -578,9 +578,9 @@
         "text": "Was ist 'Membership Inference'?",
         "options": [
           "Ein Angriff, der feststellt, ob bestimmte Daten im Training verwendet wurden",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Generalisierung durch Cross-Validation",
+          "Ein Verfahren zur Optimierung der Hyperparameter durch Grid Search",
+          "Eine Methode zur Reduzierung von Overfitting durch Regularisierung"
         ],
         "correctIndex": 0,
         "explanation": "Membership Inference Attacks können mit hoher Genauigkeit feststellen, ob ein bestimmter Datenpunkt im Trainingsdatensatz enthalten war. Dies ist problematisch für sensible Daten (z.B. medizinische Aufzeichnungen).",
@@ -601,9 +601,9 @@
         "text": "Was sind 'Foundation Models'?",
         "options": [
           "Große, auf breiten Daten vortrainierte Modelle als Basis für viele Anwendungen",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Kleine, spezialisierte Modelle, die nur für eine einzige Aufgabe trainiert werden",
+          "Eine Technik zur Komprimierung von Modellen durch Knowledge Distillation",
+          "Ein Verfahren zur Verbesserung der Trainingsgeschwindigkeit durch Batch Normalization"
         ],
         "correctIndex": 0,
         "explanation": "Foundation Models sind große, vortrainierte Modelle (wie GPT-3, BERT), die als Basis für viele nachgelagerte Aufgaben dienen. Sie werden durch Fine-tuning oder Prompting an spezifische Anwendungen angepasst.",
@@ -624,9 +624,9 @@
         "text": "Was versteht man unter 'Toxicity' bei LLM-Ausgaben?",
         "options": [
           "Generierung von beleidigenden, hasserfüllten oder schädlichen Inhalten",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Die Fähigkeit von Modellen, komplexe mathematische Probleme zu lösen",
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Ensemble-Methoden",
+          "Ein Verfahren zur Reduzierung von Bias durch Balanced Training Data"
         ],
         "correctIndex": 0,
         "explanation": "Toxicity bezeichnet die Tendenz von LLMs, beleidigende, diskriminierende, hasserfüllte oder anderweitig schädliche Inhalte zu generieren. Toxicity Detection und Mitigation sind wichtige Aspekte der KI-Sicherheit.",
@@ -647,9 +647,9 @@
         "text": "Was ist 'Instruction Tuning'?",
         "options": [
           "Fine-tuning auf Instruktions-Antwort-Paaren, um Modelle anweisungsfolgend zu machen",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Komprimierung von Modellen durch Parameter Pruning",
+          "Ein Verfahren zur Verbesserung der Inferenzgeschwindigkeit durch Model Quantization",
+          "Eine Methode zur Reduzierung von Overfitting durch Dropout-Regularisierung"
         ],
         "correctIndex": 0,
         "explanation": "Instruction Tuning trainiert LLMs auf Datensätzen mit Instruktionen und erwarteten Antworten. Dies macht Modelle besser darin, natürlichsprachige Anweisungen zu befolgen (z.B. InstructGPT, ChatGPT).",
@@ -670,9 +670,9 @@
         "text": "Was ist 'Data Contamination' bei LLMs?",
         "options": [
           "Wenn Testdaten versehentlich in Trainingsdaten enthalten sind, was Performance überschätzt",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Data Augmentation",
+          "Ein Verfahren zur Optimierung der Hyperparameter durch Random Search",
+          "Eine Methode zur Reduzierung von Bias durch Balanced Sampling"
         ],
         "correctIndex": 0,
         "explanation": "Data Contamination tritt auf, wenn Testdaten oder Benchmark-Daten im Pre-training-Korpus enthalten sind. Dies führt zu überschätzter Performance, da das Modell die 'Tests' bereits gesehen hat.",
@@ -693,9 +693,9 @@
         "text": "Was sind 'Watermarking'-Techniken für generierte Inhalte?",
         "options": [
           "Einbettung versteckter Signale zur Identifikation KI-generierter Inhalte",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Eine Technik zur Verbesserung der Bildqualität durch Super-Resolution",
+          "Ein Verfahren zur Komprimierung von Bildern durch verlustfreie Kodierung",
+          "Eine Methode zur Extraktion von Features aus Bildern durch Convolutional Networks"
         ],
         "correctIndex": 0,
         "explanation": "Watermarking bettet subtile, für Menschen unsichtbare Muster in generierte Inhalte ein, um sie als KI-generiert identifizierbar zu machen. Dies hilft bei der Bekämpfung von Desinformation und Missbrauch.",
@@ -716,9 +716,9 @@
         "text": "Was ist 'Model Stealing' bei generativen Modellen?",
         "options": [
           "Rekonstruktion eines Modells durch wiederholte Anfragen an eine API",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Transfer Learning",
+          "Ein Verfahren zur Reduzierung der Modellgröße durch Knowledge Distillation",
+          "Eine Methode zur Beschleunigung der Inferenz durch Model Quantization"
         ],
         "correctIndex": 0,
         "explanation": "Model Stealing (Model Extraction) nutzt viele Anfragen an eine Modell-API, um ein funktional äquivalentes Modell zu trainieren. Dies umgeht Zugangsbeschränkungen und geistiges Eigentum.",
@@ -739,9 +739,9 @@
         "text": "Was ist 'Copyright' Problem bei generativen Modellen?",
         "options": [
           "Training auf urheberrechtlich geschützten Daten und Generierung ähnlicher Inhalte",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellperformance durch Ensemble-Methoden",
+          "Ein Verfahren zur Optimierung der Trainingszeit durch Early Stopping",
+          "Eine Methode zur Reduzierung von Overfitting durch Regularisierung"
         ],
         "correctIndex": 0,
         "explanation": "Generative Modelle werden oft auf urheberrechtlich geschützten Werken trainiert. Es ist unklar, ob dies Fair Use ist und wem Copyright an generierten Werken gehört. Dies führt zu rechtlichen Auseinandersetzungen (z.B. Artists vs. Stable Diffusion).",
@@ -762,9 +762,9 @@
         "text": "Was ist 'Model Collapse' bei generativen Modellen?",
         "options": [
           "Qualitätsverlust wenn Modelle auf KI-generierten Daten trainiert werden",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Data Augmentation",
+          "Ein Verfahren zur Komprimierung von Modellen durch Parameter Pruning",
+          "Eine Methode zur Beschleunigung der Inferenz durch Batch Processing"
         ],
         "correctIndex": 0,
         "explanation": "Model Collapse tritt auf, wenn generative Modelle auf Daten trainiert werden, die selbst von KI generiert wurden. Die Qualität nimmt über Generationen ab, da Artefakte und Verzerrungen sich verstärken.",
@@ -785,9 +785,9 @@
         "text": "Was ist 'Context Window' bei LLMs?",
         "options": [
           "Die maximale Länge des Textes, den das Modell auf einmal verarbeiten kann",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Die Anzahl der Parameter, die ein Modell während des Trainings aktualisiert",
+          "Eine Technik zur Verbesserung der Modellperformance durch Hyperparameter-Tuning",
+          "Ein Verfahren zur Reduzierung von Overfitting durch Cross-Validation"
         ],
         "correctIndex": 0,
         "explanation": "Das Context Window definiert, wie viele Tokens (Wörter/Zeichen) ein LLM gleichzeitig betrachten kann. Moderne Modelle haben zunehmend größere Context Windows (z.B. GPT-4: 128k Tokens), was längere Dokumente ermöglicht.",
@@ -808,9 +808,9 @@
         "text": "Was bedeutet 'Tokenization' bei LLMs?",
         "options": [
           "Zerlegung von Text in kleinere Einheiten (Tokens) für die Verarbeitung",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Lesbarkeit durch automatische Formatierung",
+          "Ein Verfahren zur Komprimierung von Textdaten durch verlustfreie Kodierung",
+          "Eine Methode zur Extraktion von Schlüsselwörtern aus Dokumenten"
         ],
         "correctIndex": 0,
         "explanation": "Tokenization teilt Text in kleinere Einheiten (Tokens) auf, die das Modell verarbeiten kann. Ein Token kann ein ganzes Wort, Teil eines Wortes oder ein Zeichen sein. Die Tokenization beeinflusst, wie effizient ein Modell verschiedene Sprachen verarbeitet.",
@@ -831,9 +831,9 @@
         "text": "Was ist 'Multi-Modal' Learning?",
         "options": [
           "Training auf verschiedenen Datentypen wie Text, Bild und Audio gleichzeitig",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Transfer Learning",
+          "Ein Verfahren zur Reduzierung der Modellgröße durch Knowledge Distillation",
+          "Eine Methode zur Beschleunigung des Trainings durch Mixed Precision"
         ],
         "correctIndex": 0,
         "explanation": "Multi-modale Modelle können verschiedene Datentypen verarbeiten und verbinden (z.B. GPT-4 Vision: Text und Bilder, Flamingo: Text, Bild, Video). Dies ermöglicht reichere Interaktionen und Anwendungen.",
@@ -854,9 +854,9 @@
         "text": "Was sind 'AI-Generated Content Detection' Methoden?",
         "options": [
           "Techniken zur Identifikation von KI-generierten vs. menschengemachten Inhalten",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Eine Methode zur Verbesserung der Modellperformance durch Ensemble-Learning",
+          "Ein Verfahren zur Optimierung der Hyperparameter durch Bayesian Optimization",
+          "Eine Technik zur Reduzierung von Bias durch Balanced Training Data"
         ],
         "correctIndex": 0,
         "explanation": "AI-Generated Content Detection entwickelt Methoden, um festzustellen, ob Texte, Bilder oder Videos von KI generiert wurden. Dies ist wichtig zur Bekämpfung von Desinformation, wird aber zunehmend schwieriger mit besseren Modellen.",
@@ -877,9 +877,9 @@
         "text": "Was ist 'Constitutional AI'?",
         "options": [
           "Ein Ansatz, der LLMs durch selbst-kritisches Feedback auf Prinzipien ausrichtet",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Eine Technik zur Komprimierung von Modellen durch Parameter Pruning",
+          "Ein Verfahren zur Verbesserung der Inferenzgeschwindigkeit durch Model Quantization",
+          "Eine Methode zur Reduzierung von Overfitting durch Dropout-Regularisierung"
         ],
         "correctIndex": 0,
         "explanation": "Constitutional AI (Anthropic) verwendet eine 'Verfassung' von Prinzipien. Das Modell bewertet seine eigenen Ausgaben gegen diese Prinzipien und lernt, sie einzuhalten - mit weniger menschlichem Feedback als RLHF.",
@@ -900,9 +900,9 @@
         "text": "Was sind 'Guardrails' bei LLM-Anwendungen?",
         "options": [
           "Sicherheitsmechanismen zur Filterung problematischer Ein- und Ausgaben",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Transfer Learning",
+          "Ein Verfahren zur Optimierung der Trainingszeit durch Gradient Accumulation",
+          "Eine Methode zur Beschleunigung der Inferenz durch Batch Processing"
         ],
         "correctIndex": 0,
         "explanation": "Guardrails sind Sicherheitsschichten, die problematische Prompts filtern oder schädliche Ausgaben blockieren. Sie können regelbasiert, ML-basiert oder hybrid sein und sind essentiell für sichere LLM-Deployments.",
@@ -923,9 +923,9 @@
         "text": "Was ist 'Red Teaming' im Kontext von LLMs?",
         "options": [
           "Systematisches Testen auf Schwachstellen durch simulierte Angriffe",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellperformance durch Hyperparameter-Tuning",
+          "Ein Verfahren zur Reduzierung der Modellgröße durch Knowledge Distillation",
+          "Eine Methode zur Optimierung der Trainingsgeschwindigkeit durch Mixed Precision"
         ],
         "correctIndex": 0,
         "explanation": "Red Teaming ist ein systematischer Prozess, bei dem Experten versuchen, LLMs durch kreative Prompts zu schädlichen oder unerwünschten Ausgaben zu bewegen. Dies hilft, Schwachstellen vor dem Deployment zu identifizieren.",
@@ -946,9 +946,9 @@
         "text": "Was ist 'VAE' (Variational Autoencoder)?",
         "options": [
           "Ein generatives Modell, das Daten in einen latenten Raum kodiert und daraus sampelt",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Architektur, die ausschließlich auf Transformer-Mechanismen basiert",
+          "Ein Verfahren zur Bildverbesserung durch Super-Resolution-Techniken",
+          "Eine Methode zur Komprimierung von Bildern durch verlustbehaftete Kodierung"
         ],
         "correctIndex": 0,
         "explanation": "VAEs sind generative Modelle, die einen Encoder (komprimiert Daten in latenten Raum) und Decoder (rekonstruiert Daten) kombinieren. Durch Sampling im latenten Raum können neue, ähnliche Daten generiert werden.",
@@ -969,9 +969,9 @@
         "text": "Was versteht man unter 'Mode Collapse' bei GANs?",
         "options": [
           "Der Generator produziert nur eine begrenzte Vielfalt statt der gesamten Datenverteilung",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Data Augmentation",
+          "Ein Verfahren zur Reduzierung der Modellgröße durch Parameter Pruning",
+          "Eine Methode zur Beschleunigung der Inferenz durch Model Quantization"
         ],
         "correctIndex": 0,
         "explanation": "Mode Collapse ist ein Problem bei GANs, bei dem der Generator nur einen kleinen Teil der möglichen Ausgaben produziert (z.B. nur wenige Gesichtstypen statt vielfältiger Gesichter). Dies reduziert die Diversität der Generierungen.",
@@ -992,9 +992,9 @@
         "text": "Was ist 'Latent Diffusion'?",
         "options": [
           "Diffusion im komprimierten latenten Raum statt im Pixel-Raum für Effizienz",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Bildqualität durch Super-Resolution",
+          "Ein Verfahren zur Komprimierung von Bildern durch verlustfreie Kodierung",
+          "Eine Methode zur Extraktion von Features aus Bildern durch Convolutional Networks"
         ],
         "correctIndex": 0,
         "explanation": "Latent Diffusion (z.B. Stable Diffusion) führt den Diffusionsprozess im komprimierten latenten Raum eines Autoencoders durch, nicht direkt auf Pixeln. Dies ist viel effizienter und ermöglicht hochauflösende Bildgenerierung.",
@@ -1015,9 +1015,9 @@
         "text": "Was sind 'LoRA' (Low-Rank Adaptation) Methoden?",
         "options": [
           "Effiziente Fine-tuning-Technik, die nur wenige zusätzliche Parameter trainiert",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Komprimierung von Modellen durch Knowledge Distillation",
+          "Ein Verfahren zur Verbesserung der Trainingsgeschwindigkeit durch Gradient Accumulation",
+          "Eine Methode zur Reduzierung von Overfitting durch Early Stopping"
         ],
         "correctIndex": 0,
         "explanation": "LoRA ermöglicht effizientes Fine-tuning großer Modelle, indem nur kleine, low-rank Anpassungsmatrizen trainiert werden statt aller Parameter. Dies reduziert Speicher- und Rechenbedarf erheblich.",
@@ -1038,9 +1038,9 @@
         "text": "Was ist 'Quantization' bei LLMs?",
         "options": [
           "Reduzierung der numerischen Präzision zur Verkleinerung und Beschleunigung",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Transfer Learning",
+          "Ein Verfahren zur Optimierung der Hyperparameter durch Grid Search",
+          "Eine Methode zur Reduzierung von Bias durch Balanced Training Data"
         ],
         "correctIndex": 0,
         "explanation": "Quantization reduziert die Präzision der Modellgewichte (z.B. von 32-bit Float auf 8-bit oder 4-bit Integer). Dies verkleinert Modelle massiv und beschleunigt Inferenz, mit meist nur geringem Qualitätsverlust.",
@@ -1061,9 +1061,9 @@
         "text": "Was sind 'Mixture of Experts' (MoE) Modelle?",
         "options": [
           "Modelle mit vielen spezialisierten Subnetzen, von denen nur relevante aktiviert werden",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Architektur, die ausschließlich auf rekurrenten Netzwerken basiert",
+          "Ein Verfahren zur Bildverbesserung durch automatische Nachbearbeitung",
+          "Eine Methode zur Komprimierung von Modellen durch Parameter Pruning"
         ],
         "correctIndex": 0,
         "explanation": "MoE-Modelle enthalten viele spezialisierte 'Experten'-Netzwerke. Ein Gating-Mechanismus entscheidet, welche Experten für eine Eingabe aktiviert werden. Dies ermöglicht sehr große Modelle bei effizienter Inferenz (z.B. GPT-4, Gemini).",
@@ -1084,9 +1084,9 @@
         "text": "Was ist 'Alignment' bei LLMs?",
         "options": [
           "Ausrichtung des Modellverhaltens auf menschliche Werte und Präferenzen",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellperformance durch Ensemble-Methoden",
+          "Ein Verfahren zur Optimierung der Trainingszeit durch Early Stopping",
+          "Eine Methode zur Reduzierung von Overfitting durch Regularisierung"
         ],
         "correctIndex": 0,
         "explanation": "Alignment ist der Prozess, LLMs so zu trainieren, dass sie hilfreiche, ehrliche und harmlose Ausgaben produzieren, die mit menschlichen Werten übereinstimmen. Dies ist eine zentrale Herausforderung der KI-Sicherheit.",
@@ -1107,9 +1107,9 @@
         "text": "Was ist 'Inference-Time Intervention'?",
         "options": [
           "Manipulation der Modellausgaben während der Generierung zur Steuerung des Verhaltens",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Komprimierung von Modellen durch Knowledge Distillation",
+          "Ein Verfahren zur Verbesserung der Inferenzgeschwindigkeit durch Model Quantization",
+          "Eine Methode zur Reduzierung von Bias durch Data Augmentation"
         ],
         "correctIndex": 0,
         "explanation": "Inference-Time Interventions verändern das Modellverhalten während der Generierung, ohne das Modell neu zu trainieren. Beispiele: Guided Diffusion, Classifier-Free Guidance oder Activation Editing.",
@@ -1130,9 +1130,9 @@
         "text": "Was ist 'Retrieval-Augmented Generation' (RAG)?",
         "options": [
           "Kombination von LLMs mit Dokumentensuche für faktisch korrektere Antworten",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Transfer Learning",
+          "Ein Verfahren zur Reduzierung der Modellgröße durch Parameter Pruning",
+          "Eine Methode zur Beschleunigung der Inferenz durch Batch Processing"
         ],
         "correctIndex": 0,
         "explanation": "RAG ergänzt LLMs mit einer Retrieval-Komponente, die relevante Dokumente aus einer Wissensdatenbank abruft. Diese werden dem LLM als Kontext gegeben, was Halluzinationen reduziert und aktuelle Informationen ermöglicht.",
@@ -1153,9 +1153,9 @@
         "text": "Welche Sicherheitsmaßnahmen empfiehlt das BSI für den Einsatz generativer KI?",
         "options": [
           "Input-/Output-Validierung, Monitoring, Red Teaming, Datenschutz, regelmäßige Audits",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Nur die Verwendung von starken Verschlüsselungsalgorithmen für alle Daten",
+          "Ausschließlich die Implementierung von Firewall-Regeln und Netzwerksegmentierung",
+          "Lediglich die regelmäßige Aktualisierung von Betriebssystemen und Software"
         ],
         "correctIndex": 0,
         "explanation": "Das BSI empfiehlt einen mehrschichtigen Ansatz: Validierung von Ein- und Ausgaben, kontinuierliches Monitoring, regelmäßige Sicherheitstests (Red Teaming), Datenschutzmaßnahmen, Transparenz und regelmäßige Audits der Systeme.",
@@ -1176,9 +1176,9 @@
         "text": "Was ist 'Attention' im Transformer-Kontext?",
         "options": [
           "Ein Mechanismus, der jedem Token ermöglicht, auf alle anderen Tokens zu 'achten'",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellperformance durch Hyperparameter-Tuning",
+          "Ein Verfahren zur Komprimierung von Modellen durch Parameter Pruning",
+          "Eine Methode zur Optimierung der Trainingsgeschwindigkeit durch Mixed Precision"
         ],
         "correctIndex": 0,
         "explanation": "Self-Attention erlaubt jedem Token (Wort), mit allen anderen Tokens zu interagieren und deren Relevanz zu bewerten. Dies ermöglicht das Erfassen von Langstrecken-Abhängigkeiten und ist der Kern der Transformer-Architektur.",
@@ -1199,9 +1199,9 @@
         "text": "Was bedeutet 'Autoregressive Generation'?",
         "options": [
           "Sequenzielle Generierung, bei der jedes neue Token von den vorherigen abhängt",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Parallele Generierung aller Tokens gleichzeitig ohne Abhängigkeiten",
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Ensemble-Methoden",
+          "Ein Verfahren zur Reduzierung von Overfitting durch Cross-Validation"
         ],
         "correctIndex": 0,
         "explanation": "Autoregressive Modelle generieren Sequenzen Token für Token, wobei jedes neue Token von allen vorherigen abhängt. GPT-Modelle sind autogressiv: Sie generieren ein Wort, fügen es zum Kontext hinzu, und generieren das nächste.",
@@ -1222,9 +1222,9 @@
         "text": "Was ist 'CLIP' (Contrastive Language-Image Pre-training)?",
         "options": [
           "Ein Modell, das Text- und Bild-Embeddings in einen gemeinsamen Raum bringt",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Eine Technik zur Komprimierung von Bildern durch verlustfreie Kodierung",
+          "Ein Verfahren zur Verbesserung der Bildqualität durch Super-Resolution",
+          "Eine Methode zur Extraktion von Features aus Bildern durch Convolutional Networks"
         ],
         "correctIndex": 0,
         "explanation": "CLIP lernt, Bilder und Texte in einen gemeinsamen Embedding-Raum zu bringen. Es kann Bilder anhand von Textbeschreibungen klassifizieren und ist die Basis für Text-to-Image Modelle wie DALL-E.",
@@ -1245,9 +1245,9 @@
         "text": "Was ist 'ControlNet' bei Bildgenerierung?",
         "options": [
           "Ein Ansatz zur präzisen Steuerung von Diffusionsmodellen mit zusätzlichen Bedingungen",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Transfer Learning",
+          "Ein Verfahren zur Reduzierung der Modellgröße durch Knowledge Distillation",
+          "Eine Methode zur Beschleunigung der Inferenz durch Model Quantization"
         ],
         "correctIndex": 0,
         "explanation": "ControlNet erweitert Diffusionsmodelle mit zusätzlichen Steuerungssignalen (z.B. Kantenkarten, Pose-Skelette, Depth Maps), um präzisere Kontrolle über die Bildgenerierung zu ermöglichen.",
@@ -1268,9 +1268,9 @@
         "text": "Was ist 'In-Context Learning' bei LLMs?",
         "options": [
           "Die Fähigkeit, aus Beispielen im Prompt zu lernen ohne Gewichtsaktualisierung",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Komprimierung von Modellen durch Parameter Pruning",
+          "Ein Verfahren zur Verbesserung der Trainingsgeschwindigkeit durch Gradient Accumulation",
+          "Eine Methode zur Reduzierung von Overfitting durch Dropout-Regularisierung"
         ],
         "correctIndex": 0,
         "explanation": "In-Context Learning ist die bemerkenswerte Fähigkeit großer LLMs, neue Aufgaben aus Beispielen im Prompt zu lernen, ohne dass ihre Gewichte aktualisiert werden. Dies ermöglicht flexible Anpassung ohne Retraining.",
@@ -1291,9 +1291,9 @@
         "text": "Was ist 'Memorization' bei LLMs und warum ist es problematisch?",
         "options": [
           "LLMs können Trainingsdaten auswendig lernen und wiedergeben, was Privacy-Risiken birgt",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellperformance durch Ensemble-Learning",
+          "Ein Verfahren zur Optimierung der Hyperparameter durch Bayesian Optimization",
+          "Eine Methode zur Reduzierung von Bias durch Balanced Training Data"
         ],
         "correctIndex": 0,
         "explanation": "Memorization tritt auf, wenn LLMs Trainingsdaten wortwörtlich reproduzieren können. Dies ist problematisch für Privacy (Exposition sensibler Daten), Copyright (Wiedergabe geschützter Werke) und Generalisierung.",
@@ -1314,9 +1314,9 @@
         "text": "Was ist 'Inference Cost' bei großen generativen Modellen?",
         "options": [
           "Die Rechenkosten für jede einzelne Generierung oder Vorhersage",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Die Kosten für das initiale Training eines Modells von Grund auf",
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Data Augmentation",
+          "Ein Verfahren zur Optimierung der Trainingszeit durch Early Stopping"
         ],
         "correctIndex": 0,
         "explanation": "Inference Cost bezeichnet die Kosten (Energie, Rechenzeit, Geld) für jede Nutzung eines Modells. Bei LLMs können diese erheblich sein (tausende GPU-Stunden pro Tag), was Skalierung und Nachhaltigkeit herausfordert.",
@@ -1337,9 +1337,9 @@
         "text": "Was ist 'Speculative Decoding'?",
         "options": [
           "Parallele Generierung mehrerer Token-Hypothesen zur Beschleunigung",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Komprimierung von Modellen durch Knowledge Distillation",
+          "Ein Verfahren zur Verbesserung der Inferenzgeschwindigkeit durch Model Quantization",
+          "Eine Methode zur Reduzierung von Overfitting durch Regularisierung"
         ],
         "correctIndex": 0,
         "explanation": "Speculative Decoding beschleunigt die Inferenz, indem ein kleines, schnelles Modell mehrere Token-Kandidaten vorschlägt, die dann das große Modell parallel verifiziert. Dies kann die Generierung erheblich beschleunigen.",
@@ -1360,9 +1360,9 @@
         "text": "Was versteht man unter 'System Prompt'?",
         "options": [
           "Permanente Anweisungen, die das Verhalten des LLMs über eine Session definieren",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Temporäre Anweisungen, die nur für eine einzelne Anfrage gelten",
+          "Eine Technik zur Verbesserung der Modellperformance durch Hyperparameter-Tuning",
+          "Ein Verfahren zur Optimierung der Trainingsgeschwindigkeit durch Mixed Precision"
         ],
         "correctIndex": 0,
         "explanation": "Der System Prompt ist eine spezielle Eingabe, die dem LLM dauerhaft mitgegeben wird und sein Verhalten definiert (z.B. 'Du bist ein hilfreicher Assistent'). Er ist wichtig für konsistentes Verhalten in Anwendungen.",
@@ -1383,9 +1383,9 @@
         "text": "Was sind die Hauptherausforderungen bei der Evaluation generativer Modelle?",
         "options": [
           "Subjektivität der Qualität, fehlende Ground Truth, Diversität vs. Qualität",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Nur die Verfügbarkeit von ausreichend Testdaten für Benchmarking",
+          "Ausschließlich die Komplexität der Modellarchitektur und Parameteranzahl",
+          "Lediglich die Berechnungszeit für die Durchführung von Evaluierungen"
         ],
         "correctIndex": 0,
         "explanation": "Die Evaluation generativer Modelle ist schwierig: Qualität ist oft subjektiv, es gibt keine eindeutige 'richtige' Antwort, und Trade-offs zwischen Diversität und Qualität müssen abgewogen werden. Metriken wie FID, BLEU oder menschliche Evaluierung haben jeweils Limitationen.",
@@ -1406,9 +1406,9 @@
         "text": "Was ist 'Parameter-Efficient Fine-Tuning' (PEFT)?",
         "options": [
           "Techniken zum Fine-tuning mit minimalen zusätzlichen Parametern",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Methode zur Komprimierung von Modellen durch Parameter Pruning",
+          "Ein Verfahren zur Verbesserung der Trainingsgeschwindigkeit durch Gradient Accumulation",
+          "Eine Technik zur Reduzierung von Overfitting durch Early Stopping"
         ],
         "correctIndex": 0,
         "explanation": "PEFT-Methoden (LoRA, Adapters, Prefix-Tuning) erlauben Fine-tuning großer Modelle, indem nur ein kleiner Teil neuer Parameter trainiert wird. Dies spart Speicher, Rechenzeit und ermöglicht mehrere Spezialisierungen desselben Basismodells.",
@@ -1429,9 +1429,9 @@
         "text": "Was ist 'Catastrophic Forgetting' bei sequenziellem Training?",
         "options": [
           "Das Modell vergisst früher Gelerntes beim Lernen neuer Aufgaben",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Transfer Learning",
+          "Ein Verfahren zur Optimierung der Hyperparameter durch Grid Search",
+          "Eine Methode zur Reduzierung von Bias durch Balanced Training Data"
         ],
         "correctIndex": 0,
         "explanation": "Catastrophic Forgetting tritt auf, wenn ein Modell auf neue Aufgaben trainiert wird und dabei die Performance auf alten Aufgaben drastisch verliert. Dies ist eine Herausforderung für Continual Learning und Multi-Task-Modelle.",
@@ -1452,9 +1452,9 @@
         "text": "Was sind 'Negative Prompts' bei Bildgenerierung?",
         "options": [
           "Spezifikation dessen, was NICHT im generierten Bild enthalten sein soll",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Bildqualität durch Super-Resolution",
+          "Ein Verfahren zur Komprimierung von Bildern durch verlustfreie Kodierung",
+          "Eine Methode zur Extraktion von Features aus Bildern durch Convolutional Networks"
         ],
         "correctIndex": 0,
         "explanation": "Negative Prompts bei Diffusionsmodellen spezifizieren unerwünschte Eigenschaften (z.B. 'keine verzerrten Gesichter, keine extra Finger'). Das Modell wird aktiv von diesen Konzepten weggelenkt.",
@@ -1475,9 +1475,9 @@
         "text": "Was ist 'ControlNet' für Stable Diffusion?",
         "options": [
           "Zusatzmodell zur präzisen Kontrolle mit Kantenbildern, Posen oder Depth-Maps",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Transfer Learning",
+          "Ein Verfahren zur Reduzierung der Modellgröße durch Knowledge Distillation",
+          "Eine Methode zur Beschleunigung der Inferenz durch Model Quantization"
         ],
         "correctIndex": 0,
         "explanation": "ControlNet ist eine Erweiterung für Stable Diffusion, die zusätzliche Kontrollsignale (Canny Edges, OpenPose, Depth) nutzt, um die Komposition und Struktur generierter Bilder präzise zu steuern.",
@@ -1498,9 +1498,9 @@
         "text": "Was ist 'Classifier-Free Guidance'?",
         "options": [
           "Steuerung der Generierung ohne separaten Classifier durch bedingtes und unbedingtes Sampling",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Komprimierung von Modellen durch Parameter Pruning",
+          "Ein Verfahren zur Verbesserung der Trainingsgeschwindigkeit durch Batch Normalization",
+          "Eine Methode zur Reduzierung von Overfitting durch Dropout-Regularisierung"
         ],
         "correctIndex": 0,
         "explanation": "Classifier-Free Guidance steuert Diffusionsmodelle, indem die Differenz zwischen bedingter (mit Prompt) und unbedingter Generierung verstärkt wird. Dies erzeugt Bilder, die stärker dem Prompt entsprechen.",
@@ -1521,9 +1521,9 @@
         "text": "Was bedeutet 'Perplexity' als Metrik für Sprachmodelle?",
         "options": [
           "Ein Maß für die Unsicherheit/Überraschung des Modells bei Vorhersagen",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellperformance durch Ensemble-Methoden",
+          "Ein Verfahren zur Optimierung der Hyperparameter durch Random Search",
+          "Eine Methode zur Reduzierung von Bias durch Balanced Sampling"
         ],
         "correctIndex": 0,
         "explanation": "Perplexity misst, wie 'überrascht' ein Modell von den tatsächlichen Daten ist. Niedrige Perplexity bedeutet, das Modell sagt die Daten gut vorher. Es ist eine Standard-Metrik für Sprachmodell-Evaluation.",
@@ -1544,9 +1544,9 @@
         "text": "Was ist 'Grounding' bei LLMs?",
         "options": [
           "Verankerung von Aussagen in verifizierbaren Quellen oder Fakten",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Komprimierung von Modellen durch Knowledge Distillation",
+          "Ein Verfahren zur Verbesserung der Inferenzgeschwindigkeit durch Model Quantization",
+          "Eine Methode zur Reduzierung von Overfitting durch Regularisierung"
         ],
         "correctIndex": 0,
         "explanation": "Grounding bedeutet, dass LLM-Aussagen in verifizierbaren externen Quellen verankert sind. Dies reduziert Halluzinationen und ermöglicht Fact-Checking. RAG ist eine Grounding-Technik.",
@@ -1567,9 +1567,9 @@
         "text": "Was ist 'Prompt Leaking'?",
         "options": [
           "Unbeabsichtigte Offenlegung des System-Prompts durch clevere Nutzeranfragen",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Transfer Learning",
+          "Ein Verfahren zur Optimierung der Trainingszeit durch Gradient Accumulation",
+          "Eine Methode zur Beschleunigung der Inferenz durch Batch Processing"
         ],
         "correctIndex": 0,
         "explanation": "Prompt Leaking ist ein Sicherheitsrisiko, bei dem Nutzer durch geschickte Prompts den System-Prompt oder interne Instruktionen extrahieren können. Dies kann proprietäre Informationen oder Sicherheitsmechanismen offenlegen.",
@@ -1590,9 +1590,9 @@
         "text": "Was ist 'Nucleus Sampling' (Top-P)?",
         "options": [
           "Auswahl aus den wahrscheinlichsten Tokens bis kumulative Wahrscheinlichkeit P erreicht ist",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Auswahl des Tokens mit der höchsten Wahrscheinlichkeit (Greedy Decoding)",
+          "Eine Technik zur Verbesserung der Modellperformance durch Hyperparameter-Tuning",
+          "Ein Verfahren zur Reduzierung der Modellgröße durch Parameter Pruning"
         ],
         "correctIndex": 0,
         "explanation": "Nucleus (Top-P) Sampling wählt aus der kleinsten Menge von Tokens, deren kumulative Wahrscheinlichkeit P überschreitet (z.B. 0.9). Dies ist adaptiver als Top-K, da die Anzahl der Kandidaten je nach Wahrscheinlichkeitsverteilung variiert.",
@@ -1613,9 +1613,9 @@
         "text": "Was ist 'Gradient Checkpointing'?",
         "options": [
           "Eine Technik zur Speichereinsparung beim Training durch selektives Speichern von Gradienten",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Methode zur Verbesserung der Modellgenauigkeit durch Data Augmentation",
+          "Ein Verfahren zur Optimierung der Trainingszeit durch Early Stopping",
+          "Eine Technik zur Reduzierung von Overfitting durch Cross-Validation"
         ],
         "correctIndex": 0,
         "explanation": "Gradient Checkpointing reduziert den Speicherbedarf beim Training, indem nur ausgewählte Aktivierungen gespeichert und andere bei Bedarf neu berechnet werden. Dies ermöglicht Training größerer Modelle mit begrenztem GPU-Speicher.",
@@ -1636,9 +1636,9 @@
         "text": "Was ist 'Knowledge Distillation' bei LLMs?",
         "options": [
           "Training kleinerer Modelle zur Nachahmung größerer Modelle",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Komprimierung von Modellen durch Parameter Pruning",
+          "Ein Verfahren zur Verbesserung der Inferenzgeschwindigkeit durch Model Quantization",
+          "Eine Methode zur Reduzierung von Bias durch Balanced Training Data"
         ],
         "correctIndex": 0,
         "explanation": "Knowledge Distillation trainiert ein kleineres 'Student'-Modell darauf, ein größeres 'Teacher'-Modell zu imitieren. Das Student-Modell ist effizienter bei der Inferenz, behält aber viel vom Wissen des Teachers.",
@@ -1659,9 +1659,9 @@
         "text": "Was ist 'Beam Search' bei der Textgenerierung?",
         "options": [
           "Parallele Verfolgung mehrerer vielversprechender Sequenzen zur Qualitätsverbesserung",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Auswahl des Tokens mit der höchsten Wahrscheinlichkeit bei jedem Schritt",
+          "Eine Technik zur Verbesserung der Modellperformance durch Ensemble-Methoden",
+          "Ein Verfahren zur Optimierung der Hyperparameter durch Bayesian Optimization"
         ],
         "correctIndex": 0,
         "explanation": "Beam Search verfolgt gleichzeitig mehrere (K) wahrscheinlichste Sequenz-Hypothesen und wählt am Ende die beste. Dies verbessert oft die Qualität gegenüber Greedy Decoding, ist aber rechenintensiver.",
@@ -1682,9 +1682,9 @@
         "text": "Was ist 'Reinforcement Learning from AI Feedback' (RLAIF)?",
         "options": [
           "Verwendung von KI statt Menschen zur Bewertung von Modellausgaben",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Eine Technik zur Komprimierung von Modellen durch Knowledge Distillation",
+          "Ein Verfahren zur Verbesserung der Trainingsgeschwindigkeit durch Gradient Accumulation",
+          "Eine Methode zur Reduzierung von Overfitting durch Early Stopping"
         ],
         "correctIndex": 0,
         "explanation": "RLAIF nutzt ein stärkeres KI-Modell zur Bewertung der Ausgaben statt menschlicher Bewerter. Dies ist skalierbarer als RLHF, birgt aber das Risiko, Bias des Bewertungsmodells zu übernehmen.",
@@ -1705,9 +1705,9 @@
         "text": "Was ist 'Image Inpainting'?",
         "options": [
           "Ergänzung fehlender oder maskierter Bereiche in Bildern",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Eine Technik zur Verbesserung der Bildqualität durch Super-Resolution",
+          "Ein Verfahren zur Komprimierung von Bildern durch verlustfreie Kodierung",
+          "Eine Methode zur Extraktion von Features aus Bildern durch Convolutional Networks"
         ],
         "correctIndex": 0,
         "explanation": "Inpainting nutzt generative Modelle, um fehlende oder maskierte Bildbereiche plausibel zu ergänzen. Dies wird für Bildrestauration, Objektentfernung oder kreative Bearbeitung eingesetzt.",
@@ -1728,9 +1728,9 @@
         "text": "Was ist 'Style Transfer' bei generativen Modellen?",
         "options": [
           "Übertragung des visuellen Stils eines Bildes auf ein anderes",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Transfer Learning",
+          "Ein Verfahren zur Reduzierung der Modellgröße durch Parameter Pruning",
+          "Eine Methode zur Beschleunigung der Inferenz durch Model Quantization"
         ],
         "correctIndex": 0,
         "explanation": "Style Transfer wendet den künstlerischen Stil eines Bildes (z.B. Van Gogh) auf den Inhalt eines anderen an. Moderne Diffusionsmodelle können dies durch geeignete Prompts oder Conditioning erreichen.",
@@ -1751,9 +1751,9 @@
         "text": "Was bedeutet 'Data Poisoning' bei generativen Modellen?",
         "options": [
           "Gezielte Manipulation von Trainingsdaten, um Modellverhalten zu verfälschen",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellperformance durch Data Augmentation",
+          "Ein Verfahren zur Optimierung der Hyperparameter durch Grid Search",
+          "Eine Methode zur Reduzierung von Overfitting durch Regularisierung"
         ],
         "correctIndex": 0,
         "explanation": "Data Poisoning injiziert schädliche Beispiele in Trainingsdaten, um das Modellverhalten zu manipulieren. Bei generativen Modellen kann dies zu Backdoors führen, die bei bestimmten Prompts unerwünschte Inhalte generieren.",
@@ -1774,9 +1774,9 @@
         "text": "Was ist 'API Rate Limiting' und warum ist es wichtig?",
         "options": [
           "Begrenzung der Anfragen pro Zeiteinheit zur Verhinderung von Missbrauch",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Transfer Learning",
+          "Ein Verfahren zur Reduzierung der Modellgröße durch Knowledge Distillation",
+          "Eine Methode zur Beschleunigung der Inferenz durch Model Quantization"
         ],
         "correctIndex": 0,
         "explanation": "Rate Limiting begrenzt, wie viele Anfragen ein Nutzer in einem Zeitraum stellen kann. Dies verhindert Missbrauch (Model Extraction, DDoS), schützt Ressourcen und ermöglicht faire Nutzung.",
@@ -1797,9 +1797,9 @@
         "text": "Was ist 'Responsible Disclosure' bei LLM-Schwachstellen?",
         "options": [
           "Koordinierte Meldung von Sicherheitslücken an Entwickler vor öffentlicher Bekanntgabe",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Sofortige Veröffentlichung aller gefundenen Schwachstellen ohne Benachrichtigung",
+          "Eine Technik zur Verbesserung der Modellperformance durch Hyperparameter-Tuning",
+          "Ein Verfahren zur Optimierung der Trainingsgeschwindigkeit durch Mixed Precision"
         ],
         "correctIndex": 0,
         "explanation": "Responsible Disclosure meldet entdeckte Schwachstellen (z.B. Jailbreaks, Prompt Injections) privat an Entwickler mit angemessener Zeit zur Behebung, bevor Details öffentlich werden. Dies schützt Nutzer und ermöglicht Fixes.",
@@ -1820,9 +1820,9 @@
         "text": "Was sind 'Adversarial Examples' für Bildgenerierungsmodelle?",
         "options": [
           "Minimal veränderte Prompts, die zu drastisch anderen oder unerwünschten Ausgaben führen",
-          "Eine andere Möglichkeit",
-          "Ein verwandtes Fachkonzept",
-          "Ein vergleichbares Fachverfahren"
+          "Eine Technik zur Verbesserung der Modellgenauigkeit durch Data Augmentation",
+          "Ein Verfahren zur Komprimierung von Modellen durch Parameter Pruning",
+          "Eine Methode zur Reduzierung von Overfitting durch Cross-Validation"
         ],
         "correctIndex": 0,
         "explanation": "Adversarial Examples für Generatoren sind Prompts oder Eingaben, die durch minimale Änderungen zu stark veränderten Ausgaben führen. Dies zeigt Instabilitäten und kann für gezielte Manipulationen ausgenutzt werden.",
@@ -1843,9 +1843,9 @@
         "text": "Was sind die wichtigsten BSI-Empfehlungen für den sicheren Einsatz generativer KI?",
         "options": [
           "Risikoanalyse, Input-Validierung, Output-Monitoring, Red Teaming, Datenschutz, Transparenz",
-          "Ein verwandter KI-Algorithmus",
-          "Eine ähnliche Machine-Learning-Methode",
-          "Ein vergleichbares Datenverarbeitungsverfahren"
+          "Nur die Verwendung von starken Verschlüsselungsalgorithmen für alle Daten",
+          "Ausschließlich die Implementierung von Firewall-Regeln und Netzwerksegmentierung",
+          "Lediglich die regelmäßige Aktualisierung von Betriebssystemen und Software"
         ],
         "correctIndex": 0,
         "explanation": "Das BSI empfiehlt einen ganzheitlichen Ansatz: Durchführung von Risikoanalysen, Validierung von Eingaben, Monitoring von Ausgaben, regelmäßiges Security Testing (Red Teaming), Datenschutzmaßnahmen und Transparenz über KI-Nutzung.",
