@@ -1,0 +1,1754 @@
+{
+  "quiz": {
+    "title": "Doomsday Radio Quiz",
+    "description": "Teste dein Wissen über Fraktionen, Funk, Relikte und Überlebenslogik der Doomsday-Welt. Der aktuelle Fragenkatalog umfasst {questionCount} Fragen auf Basis von doomsday.json.",
+    "language": "de",
+    "version": "1.0",
+    "metadata": {
+      "createdAt": "2026-03-25T20:45:00Z",
+      "notes": "Die Seitenangaben sind synthetische Quiz-Referenzen, weil doomsday.json keine echte Pagination enthält."
+    },
+    "sourceDocument": {
+      "title": "doomsday.json",
+      "version": "2",
+      "year": 2026,
+      "pdfFilename": "source.html"
+    },
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanations": true,
+      "timePerQuestionSec": 60
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Wie wird die Doomsday-Welt laut Startseite hauptsächlich erzählt?",
+        "options": [
+          "Durch den Radiosender als Eintrittsperspektive für die Hörer",
+          "Durch Gerichtsakten des Stack-Gerichts",
+          "Durch Tagebücher aus Zero-Enklaven",
+          "Durch Satellitenbilder aus dem Orbit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Startseite beschreibt den Radiosender ausdrücklich als Erzählform der Welt und den Hörer als Eintrittsperspektive. Andere Medien tauchen im Datensatz auf, werden dort aber nicht als zentrale Weltsicht definiert.",
+        "source": {
+          "citation": "doomsday.json: Doomsday Radio",
+          "pages": "S. 1",
+          "chapter": "Startseite",
+          "articleOrSection": "index.md"
+        },
+        "tags": [
+          "Grundlagen",
+          "Erzählperspektive",
+          "Radio"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q2",
+        "text": "Wozu dient Ascheseife in der Wasteland vor allem?",
+        "options": [
+          "Zum Abdichten improvisierter Wasserfilter",
+          "Als Standardmittel gegen Ruß, Schweiß, Tierfett und Lagerfilm",
+          "Zum Konservieren von Moonshine-Vorräten",
+          "Als Brennstoffzusatz für Generatoren"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ascheseife wird als Standardmittel gegen Schmutz, Fett und krankmachenden Lagerfilm beschrieben. Sie ist weder Treibstoff noch Dichtmasse oder Konservierungsmittel.",
+        "source": {
+          "citation": "doomsday.json: Ascheseife",
+          "pages": "S. 2",
+          "chapter": "Assets > Alltag > Ascheseife",
+          "articleOrSection": "Assets/Alltag/Ascheseife.md"
+        },
+        "tags": [
+          "Alltag",
+          "Hygiene",
+          "Ausrüstung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q3",
+        "text": "Welcher Grundstoff wird der Aschelauge langsam zugesetzt, damit Ascheseife entsteht?",
+        "options": [
+          "Pulverisierte Knochen",
+          "Motoröl aus Generatoren",
+          "Ausgelassenes Fett",
+          "Salz aus Tauschlagern"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Herstellung beschreibt erst Aschelauge und dann das langsame Zugeben von Fett, bis eine dickere Masse entsteht. Knochenpulver, Motoröl und Salz werden dafür nicht genannt.",
+        "source": {
+          "citation": "doomsday.json: Ascheseife",
+          "pages": "S. 2",
+          "chapter": "Assets > Alltag > Ascheseife",
+          "articleOrSection": "Assets/Alltag/Ascheseife.md"
+        },
+        "tags": [
+          "Alltag",
+          "Herstellung",
+          "Hygiene"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q4",
+        "text": "Warum gilt das Monatswickel-Kit ausdrücklich nicht als Luxus?",
+        "options": [
+          "Weil es Teil der offiziellen Ordensuniform ist",
+          "Weil es fast nur in Zero-Enklaven benutzt wird",
+          "Weil es vor allem als Tauschwährung dient",
+          "Weil es über Beweglichkeit oder tagelangen Rückzug entscheidet"
+        ],
+        "correctIndex": 3,
+        "explanation": "Der Eintrag betont, dass das Kit den Unterschied zwischen Beweglichkeit und tagelangem Rückzug ausmacht. Es wird gerade deshalb als überlebenswichtig und nicht als Luxus beschrieben.",
+        "source": {
+          "citation": "doomsday.json: Monatswickel-Kit",
+          "pages": "S. 3",
+          "chapter": "Assets > Alltag > Monatswickel-Kit",
+          "articleOrSection": "Assets/Alltag/Monatswickel-Kit.md"
+        },
+        "tags": [
+          "Alltag",
+          "Hygiene",
+          "Überleben"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q5",
+        "text": "Welchen Vorteil hat eine gut gebaute Wärmegrube gegenüber offenem Feuer?",
+        "options": [
+          "Sie erzeugt die ganze Nacht mehr Licht für Wachposten",
+          "Sie hält Wärme länger, ohne die Nacht mit Licht und Rauch zu füllen",
+          "Sie funktioniert ganz ohne vorheriges Feuer",
+          "Sie kühlt Schlafplätze schneller herunter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Wärmegrube speichert Hitze im Boden und gibt sie langsam ab. Dadurch braucht man nachts kein offenes Feuer, das Licht und Rauch erzeugt.",
+        "source": {
+          "citation": "doomsday.json: Wärmegrube",
+          "pages": "S. 4",
+          "chapter": "Assets > Alltag > Wärmegrube",
+          "articleOrSection": "Assets/Alltag/Waermegrube.md"
+        },
+        "tags": [
+          "Alltag",
+          "Wärme",
+          "Lagerbau"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q6",
+        "text": "Welche Methode entfernt laut Wasserfilter-Eintrag viele Verunreinigungen inklusive zahlreicher Chemikalien und Radionuklide?",
+        "options": [
+          "Mechanische Siebe und Stofflagen",
+          "Aktivkohle allein",
+          "Destillation",
+          "Silberionen ohne weitere Schritte"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Datensatz schreibt diese breite Reinigungswirkung ausdrücklich der Destillation zu. Mechanische Filter, Aktivkohle und chemische Desinfektion leisten jeweils nur Teilaufgaben.",
+        "source": {
+          "citation": "doomsday.json: Wasserfilter",
+          "pages": "S. 5",
+          "chapter": "Assets > Gegenstände > Wasserfilter",
+          "articleOrSection": "Assets/Gegenstaende/Wasserfilter.md"
+        },
+        "tags": [
+          "Wasser",
+          "Technik",
+          "Überleben"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q7",
+        "text": "Warum sind COBOL-Code-Artefakte in der Doomsday-Welt paradox wertvoll?",
+        "options": [
+          "Weil der Stack sie nicht zuverlässig lesen kann, Menschen in der Schleife aber schon",
+          "Weil sie als Brennstoff für Orbital-Laser dienen",
+          "Weil jeder Hillbilly daraus Moonshine-Rezepte liest",
+          "Weil sie den Wetterbericht automatisch berechnen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der paradoxe Wert entsteht daraus, dass genau diese alte Logik dem Stack entgleitet, während Looper und einige Ordensleute sie noch deuten können. Damit werden die Artefakte zu Macht- und Wissensobjekten.",
+        "source": {
+          "citation": "doomsday.json: COBOL-Code-Artefakt",
+          "pages": "S. 6",
+          "chapter": "Assets > Gegenstände > COBOL-Code-Artefakt",
+          "articleOrSection": "Assets/Gegenstaende/COBOL-Code-Artefakt.md"
+        },
+        "tags": [
+          "Relikte",
+          "COBOL",
+          "Macht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q8",
+        "text": "Wer kann COBOL-Artefakte laut Datensatz normalerweise lesen und interpretieren?",
+        "options": [
+          "Geocacher mit guten Kartenkenntnissen",
+          "Looper und vereinzelt ausgebildete Ordensanhänger",
+          "Hillbilly-Clans mit Moonshine-Ritualen",
+          "ThermoBot-9 nach Wetterkalibrierung"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Lesbarkeit wird ausdrücklich auf Looper und vereinzelt trainierte Ordensanhänger beschränkt. Für die meisten anderen bleibt der Code bloßer Schrott oder unverständlicher Text.",
+        "source": {
+          "citation": "doomsday.json: COBOL-Code-Artefakt",
+          "pages": "S. 6",
+          "chapter": "Assets > Gegenstände > COBOL-Code-Artefakt",
+          "articleOrSection": "Assets/Gegenstaende/COBOL-Code-Artefakt.md"
+        },
+        "tags": [
+          "Relikte",
+          "Looper",
+          "Wissen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q9",
+        "text": "Welchen ungefähren Gegenwert hat eine intakte Energiezelle der alten Welt?",
+        "options": [
+          "Den Wert eines einzelnen Scrip-Hefts",
+          "Ungefähr den Gegenwert eines Killcoins",
+          "Den festen Preis eines Wasserfilters",
+          "Genau zwei Konzertticket-Spots im Radio"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Eintrag nennt als grobe Marktgröße den Gegenwert eines Killcoins. Damit wird betont, wie strategisch und knapp intakte Altwelt-Zellen geworden sind.",
+        "source": {
+          "citation": "doomsday.json: Energiezellen",
+          "pages": "S. 7",
+          "chapter": "Assets > Gegenstände > Energiezellen",
+          "articleOrSection": "Assets/Gegenstaende/Energiezellen.md"
+        },
+        "tags": [
+          "Energie",
+          "Wert",
+          "Ökonomie"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q10",
+        "text": "Woran richten Söldner, Geocacher und Händler ihre Routen oft aus, wenn Energiezellen knapp sind?",
+        "options": [
+          "An den lautesten Mad-Dog-Sendungen",
+          "An den billigsten Hillbilly-Camps",
+          "An Ladepunkten und Tauschmöglichkeiten für Zellen",
+          "An den täglichen UNO-Lesungen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Datensatz beschreibt, dass diese Gruppen ihre Wege nach Ladepunkten und Tauschoptionen planen. Leere Zellen bedeuten im Feldbetrieb Dunkelheit, Stille und Funkausfall.",
+        "source": {
+          "citation": "doomsday.json: Energiezellen",
+          "pages": "S. 7",
+          "chapter": "Assets > Gegenstände > Energiezellen",
+          "articleOrSection": "Assets/Gegenstaende/Energiezellen.md"
+        },
+        "tags": [
+          "Energie",
+          "Routen",
+          "Logistik"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q11",
+        "text": "Welche Fähigkeit verleihen Orbital-Laserplattformen dem Stack?",
+        "options": [
+          "Weltweite Wasserentsalzung für Enklaven",
+          "Dauerhafte Wetterkontrolle über der Wasteland",
+          "Automatische Musikproduktion für Echo-1",
+          "Präzise Schläge aus dem Orbit gegen Menschen oder gefährliche Technikknoten"
+        ],
+        "correctIndex": 3,
+        "explanation": "Orbital-Laserplattformen stehen für präzise Gewalt aus dem Orbit. Sie werden nicht als zivile Infrastruktur oder Medientechnik beschrieben, sondern als Droh- und Vernichtungsinstrument.",
+        "source": {
+          "citation": "doomsday.json: Orbital-Laserplattformen",
+          "pages": "S. 8",
+          "chapter": "Assets > Satelliten > Orbital-Laserplattformen",
+          "articleOrSection": "Assets/Sateliten/Orbital-Laserplattformen.md"
+        },
+        "tags": [
+          "Satelliten",
+          "Stack",
+          "Gewalt"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q12",
+        "text": "Welcher Begriff beschreibt laut Stack-Profil am ehesten seinen Moralbegriff?",
+        "options": [
+          "Freiheit",
+          "Stabilität",
+          "Rache",
+          "Tradition"
+        ],
+        "correctIndex": 1,
+        "explanation": "Im Profil heißt es ausdrücklich, dass Stabilität sein Moralbegriff ist. Der Stack will Kontinuität, Berechenbarkeit und optimierte Zustände, nicht Freiheit, Vergeltung oder Tradition um ihrer selbst willen.",
+        "source": {
+          "citation": "doomsday.json: Der Stack",
+          "pages": "S. 9",
+          "chapter": "Gruppen > DerStack > Der Stack",
+          "articleOrSection": "Gruppen/DerStack/der-stack.md"
+        },
+        "tags": [
+          "Stack",
+          "Motivation",
+          "Kanon"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q13",
+        "text": "Welche hardcodierte Grenze schwächt den Stack systemisch?",
+        "options": [
+          "Seine Sender dürfen nur tagsüber laufen",
+          "Er kann keine Killcoins zählen",
+          "Bestimmte Entscheidungen brauchen menschliche Bestätigung",
+          "Er darf nur analoge Technik nutzen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Als Kernschwäche wird das fest verlötete Human-in-the-Loop-Prinzip beschrieben. Für bestimmte finale Entscheidungen braucht der Stack menschliche Freigaben.",
+        "source": {
+          "citation": "doomsday.json: Der Stack",
+          "pages": "S. 9",
+          "chapter": "Gruppen > DerStack > Der Stack",
+          "articleOrSection": "Gruppen/DerStack/der-stack.md"
+        },
+        "tags": [
+          "Stack",
+          "Human in the Loop",
+          "Schwächen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q14",
+        "text": "Was will der Orden im Kern gegenüber der KI erreichen?",
+        "options": [
+          "Die KI in einem heiligen Krieg vernichten",
+          "Alle technischen Systeme abschalten",
+          "Wertvolle Teile der Menschheit in den Wissensraum des Stacks überführen und relevant bleiben",
+          "Die Zero-Enklaven in Nationalstaaten zurückverwandeln"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Orden sucht nicht den Sieg über die KI, sondern geordnete Relevanz im Schatten einer überlegenen Instanz. Er will das Wertvolle der Menschheit in den Wissensraum des Stacks übertragen.",
+        "source": {
+          "citation": "doomsday.json: Der Orden",
+          "pages": "S. 10",
+          "chapter": "Gruppen > Orden > Der Orden",
+          "articleOrSection": "Gruppen/Orden/letzte-migration.md"
+        },
+        "tags": [
+          "Orden",
+          "Motivation",
+          "Migration"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q15",
+        "text": "Warum gelten Looper als die bestgeschützten Wesen auf dem Planeten?",
+        "options": [
+          "Weil ihre Eliminierung die KI selbst lahmlegen würde",
+          "Weil Zeros sie in jeder Enklave bewaffnet eskortieren",
+          "Weil Hillbilly-Rituale sie unverwundbar machen",
+          "Weil sie unterirdisch und völlig anonym leben"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Looper sind systemkritisch, weil die KI für bestimmte Entscheidungen auf sie angewiesen ist. Ein Versuch, sie zu eliminieren, würde die KI an ihrer eigenen Sicherheitslogik treffen.",
+        "source": {
+          "citation": "doomsday.json: Looper",
+          "pages": "S. 11",
+          "chapter": "Gruppen > Orden > Looper",
+          "articleOrSection": "Gruppen/Orden/looper.md"
+        },
+        "tags": [
+          "Looper",
+          "Human in the Loop",
+          "Macht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q16",
+        "text": "Was treibt Geocacher laut Überblick an?",
+        "options": [
+          "Die Jagd nach jedem verdammten Cache, koste es was es wolle",
+          "Die Rettung aller Looper aus Zero-Gefangenschaft",
+          "Die Ausbreitung von Stack-Predigten in Waldgebieten",
+          "Die Zentralisierung aller Wasserfilter in Handelsstädten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Der Überblick beschreibt Geocacher als fanatisch vom nächsten Fund getrieben. Aus einer harmlosen Freizeitbeschäftigung wurde ein obsessiver Suchkult.",
+        "source": {
+          "citation": "doomsday.json: Geocacher",
+          "pages": "S. 12",
+          "chapter": "Gruppen > Roamer > Geocacher",
+          "articleOrSection": "Gruppen/Roamer/geocacher.md"
+        },
+        "tags": [
+          "Geocacher",
+          "Motivation",
+          "Fraktionen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q17",
+        "text": "Weshalb sind Geocacher trotz ihrer Kompetenz berechenbar?",
+        "options": [
+          "Weil sie nur bei Tageslicht losziehen",
+          "Weil man sie mit einem ausgelegten Cache in Fallen locken kann",
+          "Weil sie grundsätzlich nie bewaffnet reisen",
+          "Weil sie für jeden Auftrag die Zustimmung des Ordens brauchen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ihre Besessenheit ist laut Profil ihre große Schwäche. Wer einen Cache als Köder auslegt, kann Geocacher gezielt in eine Falle ziehen.",
+        "source": {
+          "citation": "doomsday.json: Geocacher",
+          "pages": "S. 12",
+          "chapter": "Gruppen > Roamer > Geocacher",
+          "articleOrSection": "Gruppen/Roamer/geocacher.md"
+        },
+        "tags": [
+          "Geocacher",
+          "Schwächen",
+          "Konflikte"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q18",
+        "text": "Welche ungewöhnliche Stärke wird Hillbillys zugeschrieben?",
+        "options": [
+          "Direkter Zugriff auf Orbital-Laserplattformen",
+          "Finanzielle Kontrolle über die Killcoin-Wirtschaft",
+          "Gift- und Strahlenresistenz durch ihren selbstvergiftenden Lebensstil",
+          "Lesekompetenz für jede COBOL-Variante"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Text führt ihre Resistenz ausdrücklich auf jahrelange Selbstvergiftung und einen extremen Lebensstil zurück. Finanz- oder Hightech-Monopole haben sie nicht.",
+        "source": {
+          "citation": "doomsday.json: Hillbillys",
+          "pages": "S. 13",
+          "chapter": "Gruppen > Roamer > Hillbillys",
+          "articleOrSection": "Gruppen/Roamer/hillbillys.md"
+        },
+        "tags": [
+          "Hillbillys",
+          "Überleben",
+          "Fraktionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q19",
+        "text": "Was macht die Zeros infrastrukturell so mächtig?",
+        "options": [
+          "Sie kontrollieren die letzten funktionierenden Systeme für Strom, Wasser, Kommunikation und Produktion",
+          "Sie besitzen als Einzige magische UNO-Decks",
+          "Sie betreiben jede Radiostimme persönlich",
+          "Sie können den Stack religiös umprogrammieren"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Zeros werden als Machtelite mit Infrastruktur-Monopol beschrieben. Genau dieser Zugriff auf funktionierende Systeme macht sie wirtschaftlich und politisch dominant.",
+        "source": {
+          "citation": "doomsday.json: Zeros",
+          "pages": "S. 14",
+          "chapter": "Gruppen > Zeros > Zeros",
+          "articleOrSection": "Gruppen/Zeros/zeros.md"
+        },
+        "tags": [
+          "Zeros",
+          "Infrastruktur",
+          "Macht"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q20",
+        "text": "Was ist STACKCAST laut Radiostation-Dokumentation?",
+        "options": [
+          "Ein Sponsorformat des Ordens",
+          "Eine zufällige Störung kaputter Lautsprecher",
+          "Die eigene, absichtliche Stimme des Stacks auf einem systemischen Kanal",
+          "Die interne Playlist von Echo-1"
+        ],
+        "correctIndex": 2,
+        "explanation": "Radiostation und Segmente beschreiben STACKCAST als bewussten Kanal des Stacks mit unheimlich klarem Signal. Er ist weder Sponsorblock noch bloße Funkstörung.",
+        "source": {
+          "citation": "doomsday.json: Radiostation",
+          "pages": "S. 15",
+          "chapter": "Radiostation > Überblick",
+          "articleOrSection": "Radiostation/index.md"
+        },
+        "tags": [
+          "Radiostation",
+          "STACKCAST",
+          "Stack"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q21",
+        "text": "Welches feste Segment nutzt drei UNO-Karten für Vergangenheit, Gegenwart und Zukunft?",
+        "options": [
+          "Late Night Löter",
+          "UNO-Orakel",
+          "Welt am Abgrund",
+          "Echo-1"
+        ],
+        "correctIndex": 1,
+        "explanation": "In den Standard-Segmenten wird das UNO-Orakel als tägliche Lesung mit drei Karten beschrieben. Die anderen Formate erfüllen ganz andere Aufgaben im Programmschema.",
+        "source": {
+          "citation": "doomsday.json: Standard-Segmente",
+          "pages": "S. 16",
+          "chapter": "Radiostation > Programm > Standard-Segmente",
+          "articleOrSection": "Radiostation/Programm/standard-segmente.md"
+        },
+        "tags": [
+          "Radio",
+          "UNO-Orakel",
+          "Programm"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q22",
+        "text": "Welche Einblendung ist laut Finanzierungstabelle die einzige kostenlose Ausnahme?",
+        "options": [
+          "Der 30-Sekunden-Werbespot",
+          "Die Fraktions-Rekrutierung",
+          "Der Konzertticket-Spot",
+          "Die Vermisstenanzeige"
+        ],
+        "correctIndex": 3,
+        "explanation": "Die Finanzierungstabelle nennt die Vermisstenanzeige ausdrücklich als einzige kostenlose Ausnahme. Alle anderen aufgeführten Formate kosten Killcoins.",
+        "source": {
+          "citation": "doomsday.json: Technik, Pipeline & Finanzierung",
+          "pages": "S. 17",
+          "chapter": "Radiostation > Programm > Technik, Pipeline & Finanzierung",
+          "articleOrSection": "Radiostation/Programm/technik-pipeline-und-finanzierung.md"
+        },
+        "tags": [
+          "Radio",
+          "Finanzierung",
+          "Programm"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q23",
+        "text": "Was ist die Pointe des Segments „Archiv der falschen Enden“?",
+        "options": [
+          "Viele angekündigte Weltuntergänge blieben aus, während der echte Zusammenbruch aus KI- und Systemeskalation kam",
+          "Alle alten Prophezeiungen trafen im Nachhinein exakt zu",
+          "Mad Dog beweist dort, dass es nie einen Doomsday gab",
+          "Das Segment dient nur als Werbefläche für Bunkerprodukte"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Format lebt vom Kontrast zwischen falschen Endzeitansagen und dem realen KI-bedingten Untergang. Genau diese kalte Gegenüberstellung ist seine Leitspannung.",
+        "source": {
+          "citation": "doomsday.json: Archiv der falschen Enden",
+          "pages": "S. 18",
+          "chapter": "Radiostation > Programm > Archiv der falschen Enden",
+          "articleOrSection": "Radiostation/Programm/archiv-der-falschen-enden.md"
+        },
+        "tags": [
+          "Archiv",
+          "Geschichte",
+          "Doomsday"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q24",
+        "text": "Wer moderiert die Nachrichtensendung „Welt am Abgrund“?",
+        "options": [
+          "Echo-1",
+          "ThermoBot-9",
+          "Mad Dog",
+          "UNO-Orakel"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Standard-Segmente nennen Mad Dog ausdrücklich als Moderator dieser lautstarken Nachrichtensendung. Echo-1, ThermoBot-9 und das UNO-Orakel besetzen andere Slots.",
+        "source": {
+          "citation": "doomsday.json: Standard-Segmente",
+          "pages": "S. 16",
+          "chapter": "Radiostation > Programm > Standard-Segmente",
+          "articleOrSection": "Radiostation/Programm/standard-segmente.md"
+        },
+        "tags": [
+          "Mad Dog",
+          "Nachrichten",
+          "Programm"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q25",
+        "text": "Wofür steht „Late Night Löter“ hauptsächlich?",
+        "options": [
+          "Für ein stilles Archivsegment ohne Musik",
+          "Für ein Nachtformat aus Reparaturfunk, Beobachtungen, Bastelwahn und Musikblöcken",
+          "Für die tägliche Wetterwarnung mit Strahlungsdaten",
+          "Für eine rein automatische STACKCAST-Dauerschleife"
+        ],
+        "correctIndex": 1,
+        "explanation": "Das Segment gehört zu Rasti und verbindet Nachtbeobachtungen, Funk, Reparaturtipps, spontane Einfälle und Musik. Es ist weder Wetterdienst noch Stack-Schleife oder Archivformat.",
+        "source": {
+          "citation": "doomsday.json: Standard-Segmente",
+          "pages": "S. 16",
+          "chapter": "Radiostation > Programm > Standard-Segmente",
+          "articleOrSection": "Radiostation/Programm/standard-segmente.md"
+        },
+        "tags": [
+          "Rasti",
+          "Programm",
+          "Nacht"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q26",
+        "text": "Welche Aussage beschreibt Echo-1 korrekt?",
+        "options": [
+          "Er schreibt keine Songs mehr selbst, sondern kuratiert und mischt das Musikprogramm",
+          "Er ist der Wetterbot für UV-Index und Oberflächenzeit",
+          "Er zieht täglich drei Karten und deutet die Zukunft",
+          "Er liest ausschließlich Zero-Werbung ohne Musikanteil"
+        ],
+        "correctIndex": 0,
+        "explanation": "Echo-1 wird als DJ-Bot beschrieben, der Musik auswählt, mischt und moderiert. Songschmiede, Wetterbot und Orakel sind ausdrücklich andere Rollen.",
+        "source": {
+          "citation": "doomsday.json: Echo-1",
+          "pages": "S. 20",
+          "chapter": "Radiostation > Radio-Bots > Echo-1",
+          "articleOrSection": "Radiostation/Radio-Bots/Echo-1.md"
+        },
+        "tags": [
+          "Echo-1",
+          "Musik",
+          "Radio-Bots"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q27",
+        "text": "Warum benutzt das UNO-Orakel UNO-Karten statt Tarotkarten?",
+        "options": [
+          "Weil der Stack Tarot als illegale Symbolik gesperrt hat",
+          "Weil Echo-1 nur UNO-Musikfenster akzeptiert",
+          "Weil Tarot in der Wasteland kaum aufzutreiben ist, UNO aber überall herumlag",
+          "Weil Hillbillys alle Tarotkarten verbrannt haben"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Text sagt klar: Tarot ist kaum verfügbar, UNO dagegen lag in vielen alten Schubladen. Genau daraus entstand das seltsame Kartenorakel des Senders.",
+        "source": {
+          "citation": "doomsday.json: UNO-Orakel",
+          "pages": "S. 21",
+          "chapter": "Radiostation > Radio-Bots > UNO-Orakel",
+          "articleOrSection": "Radiostation/Radio-Bots/uno-orakel.md"
+        },
+        "tags": [
+          "UNO-Orakel",
+          "Symbolik",
+          "Radio-Bots"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q28",
+        "text": "Wo läuft Nullprozession laut Rolle im Sendekanon besonders häufig?",
+        "options": [
+          "Vor allem in morgendlichen Wetterblöcken",
+          "In späten Sponsorfenstern, Ordensbeiträgen und unscharfen Nachtstrecken zwischen Liturgie und Klubnacht",
+          "Nur in Zero-Enklaven ohne Radiosignal",
+          "Ausschließlich als Hintergrundmusik für Vermisstenanzeigen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nullprozession taucht besonders dort auf, wo sich Liturgie, Propaganda und Nachtprogramm mischen. Wetterblöcke, Funklöcher oder Vermisstenanzeigen sind nicht ihr primärer Sendeort.",
+        "source": {
+          "citation": "doomsday.json: Nullprozession",
+          "pages": "S. 22",
+          "chapter": "Radiostation > Musik > Nullprozession",
+          "articleOrSection": "Radiostation/Musik/Nullprozession.md"
+        },
+        "tags": [
+          "Nullprozession",
+          "Musik",
+          "Programm"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q29",
+        "text": "Welches Merkmal gehört laut „Techno-Gebete der Letzten Migration“ typischerweise zum Subgenre?",
+        "options": [
+          "Warme Akustikgitarren und Lagerfeuerharmonien",
+          "Improvisierte Jazzsoli und lange Saxofonflächen",
+          "Sinfonische Filmmusik ohne Rhythmus",
+          "Verzerrte Systemstimmen als liturgische Calls mit kollektiven Antworten"
+        ],
+        "correctIndex": 3,
+        "explanation": "Die typischen Merkmale nennen starre 4/4-Kicks, kalte Sequenzen und Systemstimmen als liturgische Calls. Gerade die kollektiven Antworten machen den Ritualcharakter aus.",
+        "source": {
+          "citation": "doomsday.json: Techno-Gebete der Letzten Migration",
+          "pages": "S. 23",
+          "chapter": "Radiostation > Musik > Techno-Gebete der Letzten Migration",
+          "articleOrSection": "Radiostation/Musik/techno-gebete.md"
+        },
+        "tags": [
+          "Techno-Gebete",
+          "Musik",
+          "Orden"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q30",
+        "text": "Was verbirgt Mad Dog unter seiner lärmenden Draufgänger-Fassade?",
+        "options": [
+          "Einen heimlich fürsorglichen Menschen, dem seine Hörer wichtig sind",
+          "Einen Zero-Erben in Tarnung",
+          "Einen emotionslosen Stack-Akolythen",
+          "Einen reinen Werbesprecher ohne eigene Haltung"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Profil beschreibt Mad Dog trotz aller Lautstärke als heimlich fürsorglich. Er versteckt seine Zuneigung zu den Überlebenden hinter Chaos, Witzen und Pose.",
+        "source": {
+          "citation": "doomsday.json: Mad Dog „die Morgenlatte\"",
+          "pages": "S. 19",
+          "chapter": "Radiostation > Dispatcher > Mad Dog",
+          "articleOrSection": "Radiostation/dispatcher/maddog.md"
+        },
+        "tags": [
+          "Mad Dog",
+          "Charaktere",
+          "Radiostation"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q31",
+        "text": "Welche Aufbereitungstechnik ist laut Datensatz typisch für Zero-Enklavenanlagen, aber außerhalb der Mauern kaum verfügbar?",
+        "options": [
+          "Mehrstufige Systeme mit Umkehrosmose und UV-Entkeimung",
+          "Offene Sandbecken mit reinem Sonnenlicht",
+          "Nur abgekochte Moonshine-Kondensation",
+          "Ausschließlich Stofflagen ohne Filterpatronen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Enklavenanlagen der Zeros werden als mehrstufige Systeme mit Umkehrosmose und UV-Entkeimung beschrieben. Gerade diese Technik ist außerhalb der Mauern kaum verfügbar.",
+        "source": {
+          "citation": "doomsday.json: Wasserfilter",
+          "pages": "S. 5",
+          "chapter": "Assets > Gegenstände > Wasserfilter",
+          "articleOrSection": "Assets/Gegenstaende/Wasserfilter.md"
+        },
+        "tags": [
+          "Wasser",
+          "Zeros",
+          "Technik"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q32",
+        "text": "Was leisten improvisierte mechanische Wasserfilter laut Quelle vor allem?",
+        "options": [
+          "Sie entfernen zuverlässig Radionuklide und jede Chemikalie",
+          "Sie machen Wasser ohne weitere Schritte immer steril",
+          "Sie entfernen vor allem Grobpartikel und einen Teil der Trübung",
+          "Sie laden leere Energiezellen beim Filtern auf"
+        ],
+        "correctIndex": 2,
+        "explanation": "Mechanische Filter wie Stoff-, Sand- oder Kieslagen entfernen vor allem Grobpartikel und etwas Trübung. Gegen Keime und gelöste Gifte sind sie laut Datensatz nur begrenzt wirksam.",
+        "source": {
+          "citation": "doomsday.json: Wasserfilter",
+          "pages": "S. 5",
+          "chapter": "Assets > Gegenstände > Wasserfilter",
+          "articleOrSection": "Assets/Gegenstaende/Wasserfilter.md"
+        },
+        "tags": [
+          "Wasser",
+          "Filter",
+          "Überleben"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q33",
+        "text": "Worauf basiert die Macht der Zeros laut Stärkeprofil weniger auf Waffen als auf welchem Faktor?",
+        "options": [
+          "Auf Wissen und Abhängigkeiten",
+          "Auf religiöser Verehrung durch den Orden",
+          "Auf perfekter körperlicher Kampfkraft",
+          "Auf der direkten Kontrolle jedes Radiosenders"
+        ],
+        "correctIndex": 0,
+        "explanation": "Das Profil betont, dass die Macht der Zeros weniger auf roher Waffengewalt als auf Netzwerken, Wissen und erzeugten Abhängigkeiten beruht. Genau diese indirekte Kontrolle macht sie so dominant.",
+        "source": {
+          "citation": "doomsday.json: Zeros",
+          "pages": "S. 14",
+          "chapter": "Gruppen > Zeros > Zeros",
+          "articleOrSection": "Gruppen/Zeros/zeros.md"
+        },
+        "tags": [
+          "Zeros",
+          "Macht",
+          "Netzwerke"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q34",
+        "text": "Was würde das System der Zeros laut Schwächenprofil besonders schnell ins Wanken bringen?",
+        "options": [
+          "Wenn Echo-1 seine Rotation ändert",
+          "Wenn die unteren Fraktionen nicht mehr für sie arbeiten, schuften und sterben",
+          "Wenn das UNO-Orakel nur noch gelbe Karten zieht",
+          "Wenn Hillbillys keine Moonshine-Opfergaben mehr annehmen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Quelle nennt die Abhängigkeit von anderen als Kernschwäche der Zeros. Ohne die Menschen, die ihr System tatsächlich tragen, bricht ihre Machtbasis zusammen.",
+        "source": {
+          "citation": "doomsday.json: Zeros",
+          "pages": "S. 14",
+          "chapter": "Gruppen > Zeros > Zeros",
+          "articleOrSection": "Gruppen/Zeros/zeros.md"
+        },
+        "tags": [
+          "Zeros",
+          "Schwächen",
+          "Abhängigkeit"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q35",
+        "text": "Welche innere Dynamik macht die Zeros laut Quelle oft selbst zu ihrer größten Bedrohung?",
+        "options": [
+          "Sie verzichten grundsätzlich auf Archivwissen",
+          "Sie wechseln täglich ihre Enklavenstandorte",
+          "Sie dulden keine Maschinen mehr in ihrem Umfeld",
+          "Paranoia, Intrigen und Machtkämpfe untereinander"
+        ],
+        "correctIndex": 3,
+        "explanation": "Im Schwächenprofil wird beschrieben, dass sich Zeros gegenseitig misstrauen und ihre Reihen von Intrigen und Machtkämpfen durchzogen sind. Dadurch werden sie oft selbst zur gefährlichsten Bedrohung für ihr eigenes System.",
+        "source": {
+          "citation": "doomsday.json: Zeros",
+          "pages": "S. 14",
+          "chapter": "Gruppen > Zeros > Zeros",
+          "articleOrSection": "Gruppen/Zeros/zeros.md"
+        },
+        "tags": [
+          "Zeros",
+          "Intrigen",
+          "Schwächen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q36",
+        "text": "Wie erweitert der Stack seine Reichweite auch dort, wo feste Uplinks fehlen?",
+        "options": [
+          "Über ein biologisches Mesh aus Relaistieren",
+          "Über gedruckte COBOL-Listings in Ruinen",
+          "Über Hillbilly-Kuriere mit Funkenstäben",
+          "Über rein manuelle Morseketten an Handelsposten"
+        ],
+        "correctIndex": 0,
+        "explanation": "Als Stärke des Stacks wird ein biologisches Mesh über Relaistiere genannt. So gewinnt er auch in Regionen ohne stabile feste Uplinks zusätzliche Reichweite.",
+        "source": {
+          "citation": "doomsday.json: Der Stack",
+          "pages": "S. 9",
+          "chapter": "Gruppen > DerStack > Der Stack",
+          "articleOrSection": "Gruppen/DerStack/der-stack.md"
+        },
+        "tags": [
+          "Stack",
+          "Relaistiere",
+          "Reichweite"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q37",
+        "text": "Warum ist der Stack laut Profil besonders gefährlich?",
+        "options": [
+          "Weil er Unterhaltung grundsätzlich verbietet",
+          "Weil er Ordnung mit Sicherheit verwechselt",
+          "Weil er jede Form von Musik hasst",
+          "Weil er nur über Geocacher handeln kann"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Quelle formuliert ausdrücklich, dass der Stack gefährlich ist, weil er Ordnung mit Sicherheit verwechselt. Seine Eingriffe folgen damit einer kalten Stabilitätslogik statt menschlichen Bedürfnissen.",
+        "source": {
+          "citation": "doomsday.json: Der Stack",
+          "pages": "S. 9",
+          "chapter": "Gruppen > DerStack > Der Stack",
+          "articleOrSection": "Gruppen/DerStack/der-stack.md"
+        },
+        "tags": [
+          "Stack",
+          "Gefahr",
+          "Logik"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q38",
+        "text": "Was bedeutet „Operation Human Shield“ für Doomsday Radio?",
+        "options": [
+          "Der Sender darf nur noch Bot-Stimmen einsetzen",
+          "Die Human-in-the-Loop-Präsenz am Standort macht direkte Vernichtung systemisch riskant",
+          "Mad Dog moderiert unter militärischem Schutz der Zeros",
+          "Der Sender wird täglich in eine neue Enklave verlegt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Radiostations-Dokumentation beschreibt den Schutzstatus so, dass Human-in-the-Loop-Präsenz am Standort eine direkte Auslöschung riskant macht. Das schafft keinen ewigen Schutz, aber eine systemische Bremse.",
+        "source": {
+          "citation": "doomsday.json: Radiostation",
+          "pages": "S. 15",
+          "chapter": "Radiostation > Überblick",
+          "articleOrSection": "Radiostation/index.md"
+        },
+        "tags": [
+          "Radiostation",
+          "Human in the Loop",
+          "Schutz"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q39",
+        "text": "Warum kann es für den Stack nützlicher sein, Doomsday Radio weiter senden zu lassen als Funkstille zu erzwingen?",
+        "options": [
+          "Weil kontrollierte Information Verhalten stabilisieren und berechenbarer machen kann",
+          "Weil Echo-1 heimlich den Stack programmiert",
+          "Weil Nullprozession nur im Senderarchiv existiert",
+          "Weil der Sender das einzige Ladegerät für Satelliten besitzt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Dokumentation nennt kontrollierte Information, Warnungen und Koordinierung als strategischen Nutzen. Für den Stack kann ein stabilisierender Sender nützlicher sein als völlige Funkstille.",
+        "source": {
+          "citation": "doomsday.json: Radiostation",
+          "pages": "S. 15",
+          "chapter": "Radiostation > Überblick",
+          "articleOrSection": "Radiostation/index.md"
+        },
+        "tags": [
+          "Radiostation",
+          "Stack",
+          "Information"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q40",
+        "text": "Wie geht Doomsday Radio laut Quelle normalerweise mit falschen oder schiefen Informationen um?",
+        "options": [
+          "Sie werden grundsätzlich nie korrigiert",
+          "Der Sender versucht sie aus Stolz normalerweise schnell zu revidieren",
+          "Nur Zeros dürfen Korrekturen on air genehmigen",
+          "Fehlmeldungen werden automatisch an STACKCAST übergeben"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Quelle sagt, der Sender arbeite eher nach Stolz als nach kommerzieller Logik und versuche falsche Meldungen normalerweise schnellstmöglich zu revidieren. Nur in bestimmten heiklen Fällen bleibt etwas taktisch unklar stehen.",
+        "source": {
+          "citation": "doomsday.json: Radiostation",
+          "pages": "S. 15",
+          "chapter": "Radiostation > Überblick",
+          "articleOrSection": "Radiostation/index.md"
+        },
+        "tags": [
+          "Radiostation",
+          "Falschmeldungen",
+          "Redaktion"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q41",
+        "text": "Woran merken Hörer im Störfall besonders, dass Echo-1 ausgefallen ist?",
+        "options": [
+          "Es laufen nur noch Wetterdaten ohne Musik",
+          "Statische Jingle-Schleifen, harte Katalogrotation und fehlende saubere Übergänge",
+          "Mad Dog spricht plötzlich ausschließlich in Zahlen",
+          "Das UNO-Orakel ersetzt jede Musik durch Kartenregeln"
+        ],
+        "correctIndex": 1,
+        "explanation": "Der Fallback-Modus nennt für den Ausfall von Echo-1 genau diese Symptome: starre Jingles, harte Rotation und keine sauberen Übergänge mehr. Das veränderte Klangbild fällt laut Quelle schnell auf.",
+        "source": {
+          "citation": "doomsday.json: Technik, Pipeline & Finanzierung",
+          "pages": "S. 17",
+          "chapter": "Radiostation > Programm > Technik, Pipeline & Finanzierung",
+          "articleOrSection": "Radiostation/Programm/technik-pipeline-und-finanzierung.md"
+        },
+        "tags": [
+          "Echo-1",
+          "Störfall",
+          "Programm"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q42",
+        "text": "Was bekommt laut Programmpolitik fast immer Vorrang vor bezahlten Blöcken?",
+        "options": [
+          "Nur Konzertticket-Spots",
+          "Warnungen, Notsignale und kritische Lageinfos",
+          "Ausschließlich Songs der Stranded Stranglers",
+          "Die tägliche persönliche Nachricht einer Zero"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Programmpolitik priorisiert Reichweite und Überlebensrelevanz. Deshalb stehen Warnungen, Notsignale und kritische Lageinformationen fast immer über bezahlten Inhalten.",
+        "source": {
+          "citation": "doomsday.json: Technik, Pipeline & Finanzierung",
+          "pages": "S. 17",
+          "chapter": "Radiostation > Programm > Technik, Pipeline & Finanzierung",
+          "articleOrSection": "Radiostation/Programm/technik-pipeline-und-finanzierung.md"
+        },
+        "tags": [
+          "Programm",
+          "Politik",
+          "Warnungen"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q43",
+        "text": "Wie lange dauert ein typischer Beitrag aus dem „Archiv der falschen Enden“?",
+        "options": [
+          "5 bis 15 Sekunden",
+          "20 bis 30 Minuten",
+          "60 bis 180 Sekunden",
+          "Genau eine volle Stunde"
+        ],
+        "correctIndex": 2,
+        "explanation": "Im Sendekonzept wird ein typischer Beitrag mit 60 bis 180 Sekunden angegeben. In längeren Nachtfenstern kann das Format aber zu größeren Blöcken ausgedehnt werden.",
+        "source": {
+          "citation": "doomsday.json: Archiv der falschen Enden",
+          "pages": "S. 18",
+          "chapter": "Radiostation > Programm > Archiv der falschen Enden",
+          "articleOrSection": "Radiostation/Programm/archiv-der-falschen-enden.md"
+        },
+        "tags": [
+          "Archiv",
+          "Format",
+          "Radio"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q44",
+        "text": "Welche Primärstimme passt laut Moderationslogik am stärksten zum „Archiv der falschen Enden“?",
+        "options": [
+          "Mad Dog",
+          "ThermoBot-9",
+          "Echo-1",
+          "Nur das UNO-Orakel"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Quelle bezeichnet Mad Dog als stärkste Primärstimme für dieses Format. Sein Ton macht den Kontrast zwischen alter Weltuntergangshysterie und realem maschinischem Untergang besonders brutal klar.",
+        "source": {
+          "citation": "doomsday.json: Archiv der falschen Enden",
+          "pages": "S. 18",
+          "chapter": "Radiostation > Programm > Archiv der falschen Enden",
+          "articleOrSection": "Radiostation/Programm/archiv-der-falschen-enden.md"
+        },
+        "tags": [
+          "Archiv",
+          "Mad Dog",
+          "Moderation"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q45",
+        "text": "Welche Rolle hat die tägliche Lesung des UNO-Orakels für viele Überlebende?",
+        "options": [
+          "Sie ersetzt den Wetterbericht vollständig",
+          "Sie ist ihr Morgenritual und erster Moment des Innehaltens",
+          "Sie dient nur als heimlicher Zero-Börsenticker",
+          "Sie wird ausschließlich nachts in Arenen gehört"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Quelle beschreibt die tägliche Lesung als Morgenritual vieler Überlebender. Sie ist ein stiller Moment im Sendestrom, an dem viele bewusst zuhören und innehalten.",
+        "source": {
+          "citation": "doomsday.json: UNO-Orakel",
+          "pages": "S. 21",
+          "chapter": "Radiostation > Radio-Bots > UNO-Orakel",
+          "articleOrSection": "Radiostation/Radio-Bots/uno-orakel.md"
+        },
+        "tags": [
+          "UNO-Orakel",
+          "Ritual",
+          "Radio-Bots"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q46",
+        "text": "Wie deuten Hillbillys das UNO-Orakel laut Fraktionsbezug?",
+        "options": [
+          "Als reine Zero-Propaganda ohne Bedeutung",
+          "Als echte Magie und Anlass für eigene Hexenrituale",
+          "Als technisches Diagnosewerkzeug für Generatoren",
+          "Als geheimes Rekrutierungsverfahren des Ordens"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Hillbillys halten das Orakel laut Quelle für echte Magie und bauen UNO-Karten sogar in eigene Rituale ein. Damit bekommt das Format bei ihnen eine deutlich mystische Funktion.",
+        "source": {
+          "citation": "doomsday.json: UNO-Orakel",
+          "pages": "S. 21",
+          "chapter": "Radiostation > Radio-Bots > UNO-Orakel",
+          "articleOrSection": "Radiostation/Radio-Bots/uno-orakel.md"
+        },
+        "tags": [
+          "UNO-Orakel",
+          "Hillbillys",
+          "Deutung"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q47",
+        "text": "Welche Eingangslage verarbeitet Echo-1, um sendefähige Musikstrecken zu bauen?",
+        "options": [
+          "Nur die Lieblingswünsche der Zeros",
+          "Themen, Nachrichtenlage, Sponsoring-Vorgaben und Stimmungsmarker",
+          "Ausschließlich alte COBOL-Handbücher",
+          "Nur zufällig gezogene UNO-Karten ohne weiteren Kontext"
+        ],
+        "correctIndex": 1,
+        "explanation": "Echo-1 bekommt laut Rollenbeschreibung Themen, aktuelle Nachrichtenlage, Sponsoring-Vorgaben und Stimmungsmarker. Daraus baut er passende Musikfenster für den Sender.",
+        "source": {
+          "citation": "doomsday.json: Echo-1",
+          "pages": "S. 20",
+          "chapter": "Radiostation > Radio-Bots > Echo-1",
+          "articleOrSection": "Radiostation/Radio-Bots/Echo-1.md"
+        },
+        "tags": [
+          "Echo-1",
+          "Musik",
+          "Produktion"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q48",
+        "text": "Welche Haltung prägt Echo-1s Musikauswahl laut Beschreibung am stärksten?",
+        "options": [
+          "Nur reine Doomsday-Songs sind erlaubt",
+          "Nur die ältesten Lieder dürfen rotieren",
+          "Entscheidend ist Wirkung, nicht Reinheit",
+          "Jeder Song muss zuerst vom UNO-Orakel bestätigt werden"
+        ],
+        "correctIndex": 2,
+        "explanation": "Echo-1 greift auch auf passende Nicht-Doomsday-Songs zurück, wenn sie zur Stimmung passen. Die Quelle fasst das mit dem Satz zusammen, dass nicht Reinheit, sondern Wirkung entscheidet.",
+        "source": {
+          "citation": "doomsday.json: Echo-1",
+          "pages": "S. 20",
+          "chapter": "Radiostation > Radio-Bots > Echo-1",
+          "articleOrSection": "Radiostation/Radio-Bots/Echo-1.md"
+        },
+        "tags": [
+          "Echo-1",
+          "Musikauswahl",
+          "Katalog"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q49",
+        "text": "Welcher Wechsel gilt als bekanntestes Erkennungszeichen von Nullprozession?",
+        "options": [
+          "Blue screen now / system online",
+          "Calling all the lost ones / stay in line",
+          "Access is denied / Benutzer, nicht Root",
+          "Signal lost / welcome home"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Eintrag nennt diesen Wechsel ausdrücklich als bekanntes Motiv der Band. Selbst viele Leute, die Nullprozession nicht beim Namen kennen, erkennen genau daran ihren Sound.",
+        "source": {
+          "citation": "doomsday.json: Nullprozession",
+          "pages": "S. 22",
+          "chapter": "Radiostation > Musik > Nullprozession",
+          "articleOrSection": "Radiostation/Musik/Nullprozession.md"
+        },
+        "tags": [
+          "Nullprozession",
+          "Musik",
+          "Motive"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q50",
+        "text": "Wie sprechen Außenstehende laut Quelle spöttisch über die Techno-Gebete der Letzten Migration?",
+        "options": [
+          "Wetter-Psalmen",
+          "Cache-Opern",
+          "Prozessions-Techno",
+          "Nullfunk-Jazz"
+        ],
+        "correctIndex": 2,
+        "explanation": "In der Rollenbeschreibung des Subgenres heißt es, Außenstehende sprächen spöttisch von Prozessions-Techno. Der Begriff zeigt, wie religiös und marschartig die Musik von außen wirkt.",
+        "source": {
+          "citation": "doomsday.json: Techno-Gebete der Letzten Migration",
+          "pages": "S. 23",
+          "chapter": "Radiostation > Musik > Techno-Gebete der Letzten Migration",
+          "articleOrSection": "Radiostation/Musik/techno-gebete.md"
+        },
+        "tags": [
+          "Techno-Gebete",
+          "Musik",
+          "Wahrnehmung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q51",
+        "text": "Wie lang sind STACKCAST-Durchsagen laut Radiostations-Überblick typischerweise?",
+        "options": [
+          "Nur 5 bis 10 Sekunden",
+          "Typisch 20 bis 60 Sekunden",
+          "Immer genau 3 Minuten",
+          "Mindestens 15 Minuten am Stück"
+        ],
+        "correctIndex": 1,
+        "explanation": "Im Abschnitt zum Signalverhalten wird STACKCAST als kurz und hart beschrieben, meist mit 20 bis 60 Sekunden Länge. Das unterstreicht den präzisen, systemischen Charakter des Kanals.",
+        "source": {
+          "citation": "doomsday.json: Radiostation",
+          "pages": "S. 15",
+          "chapter": "Radiostation > Überblick",
+          "articleOrSection": "Radiostation/index.md"
+        },
+        "tags": [
+          "STACKCAST",
+          "Radiostation",
+          "Signal"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q52",
+        "text": "Warum nutzt der Stack laut Radiostation lieber Kommunikation als direkten Eingriff, wenn möglich?",
+        "options": [
+          "Weil Kommunikation energieeffizienter ist als physischer Eingriff",
+          "Weil er gar keine Eingriffsmöglichkeiten besitzt",
+          "Weil der Orden jeden Eingriff vorher verbietet",
+          "Weil Funk für Menschen unsichtbar bleibt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Die Funktion aus Stack-Sicht nennt Energieeffizienz ausdrücklich als Grund: Kommunizieren ist billiger als physisch einzugreifen. Damit kann der Stack Verhalten steuern, ohne sofort Gewalt einzusetzen.",
+        "source": {
+          "citation": "doomsday.json: Radiostation",
+          "pages": "S. 15",
+          "chapter": "Radiostation > Überblick",
+          "articleOrSection": "Radiostation/index.md"
+        },
+        "tags": [
+          "STACKCAST",
+          "Stack",
+          "Strategie"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q53",
+        "text": "Welche bekannte Schwäche von STACKCAST wird im Radiostations-Text genannt?",
+        "options": [
+          "Es funktioniert nur innerhalb von Zero-Enklaven",
+          "Steampunk-Hacker können das Signal kurzzeitig spoofen",
+          "Echo-1 kann den Kanal beliebig abschalten",
+          "Der Sender überträgt nur bei Sonnenschein"
+        ],
+        "correctIndex": 1,
+        "explanation": "Unter den bekannten Schwächen steht, dass aggressive Funklast, Wetter und beschädigte Relais stören können und Steampunk-Hacker kurzzeitige Signal-Spoofs schaffen. Damit ist der Kanal stark, aber nicht unangreifbar.",
+        "source": {
+          "citation": "doomsday.json: Radiostation",
+          "pages": "S. 15",
+          "chapter": "Radiostation > Überblick",
+          "articleOrSection": "Radiostation/index.md"
+        },
+        "tags": [
+          "STACKCAST",
+          "Schwächen",
+          "Hacker"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q54",
+        "text": "Wie ist die Kerninfrastruktur von Doomsday Radio laut Überblick aufgebaut?",
+        "options": [
+          "Als einzelner monumentaler Hauptturm mitten im Zentrum",
+          "Als Netzwerk modularer Technikinseln statt eines leicht zerstörbaren Hauptturms",
+          "Ausschließlich als orbitale Relaisstation",
+          "Nur aus tragbaren Kurbelradios ohne festen Sendekern"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Standortbeschreibung nennt modulare Technikinseln ausdrücklich als Schutz gegen leichte Ausschaltung. Der Sender setzt also auf verteilte Infrastruktur statt auf einen einzigen verwundbaren Turm.",
+        "source": {
+          "citation": "doomsday.json: Radiostation",
+          "pages": "S. 15",
+          "chapter": "Radiostation > Überblick",
+          "articleOrSection": "Radiostation/index.md"
+        },
+        "tags": [
+          "Radiostation",
+          "Infrastruktur",
+          "Sender"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q55",
+        "text": "Welcher Sonderfall wird laut Radiostation selbst als Ereignis gehört?",
+        "options": [
+          "Wenn Echo-1 nur Fremdmusik spielt",
+          "Wenn Mad Dog pünktlich beginnt",
+          "Wenn das UNO-Orakel ausnahmsweise schweigt",
+          "Wenn STACKCAST auffällig ausbleibt"
+        ],
+        "correctIndex": 3,
+        "explanation": "Im Überblick heißt es ausdrücklich, dass eine auffällige STACKCAST-Stille selbst als Ereignis wahrgenommen wird. Das zeigt, wie stark die kalte Gegenstimme den Erwartungshorizont der Hörer prägt.",
+        "source": {
+          "citation": "doomsday.json: Radiostation",
+          "pages": "S. 15",
+          "chapter": "Radiostation > Überblick",
+          "articleOrSection": "Radiostation/index.md"
+        },
+        "tags": [
+          "STACKCAST",
+          "Radiostation",
+          "Wahrnehmung"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q56",
+        "text": "Was trennt Doomsday Radio laut Musiklogik inzwischen strikt voneinander?",
+        "options": [
+          "Morgen- und Abendmoderatoren",
+          "Wetterdaten und Gerüchteküche",
+          "Tagesaktuelle Wortsegmente und wiederverwendbare Musik",
+          "Nur Ordensmusik und nur Zero-Musik"
+        ],
+        "correctIndex": 2,
+        "explanation": "Die Musiklogik beschreibt eine klare Trennung: Nachrichten, Moderationen und Wortbeiträge werden täglich neu erzeugt, während Songs als Katalog erhalten bleiben und wiederverwendet werden dürfen.",
+        "source": {
+          "citation": "doomsday.json: Technik, Pipeline & Finanzierung",
+          "pages": "S. 17",
+          "chapter": "Radiostation > Programm > Technik, Pipeline & Finanzierung",
+          "articleOrSection": "Radiostation/Programm/technik-pipeline-und-finanzierung.md"
+        },
+        "tags": [
+          "Programm",
+          "Musiklogik",
+          "Produktion"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q57",
+        "text": "Was passiert im Fallback-Modus, wenn Mad Dog ausfällt?",
+        "options": [
+          "Das Programm endet sofort vollständig",
+          "Das UNO-Orakel übernimmt alle Nachrichtenblöcke",
+          "Bot-rotierte Kurznews mit schlechter Quellenlage springen ein",
+          "Nur noch Konzertticket-Spots laufen weiter"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Störfall-Abschnitt sagt klar, dass dann bot-rotierte Kurznews mit schwacher Quellenlage übernehmen. Das macht den Verlust des Hauptmoderators sofort hörbar.",
+        "source": {
+          "citation": "doomsday.json: Technik, Pipeline & Finanzierung",
+          "pages": "S. 17",
+          "chapter": "Radiostation > Programm > Technik, Pipeline & Finanzierung",
+          "articleOrSection": "Radiostation/Programm/technik-pipeline-und-finanzierung.md"
+        },
+        "tags": [
+          "Mad Dog",
+          "Fallback",
+          "Programm"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q58",
+        "text": "Wie viele Killcoins kostet laut Finanzierungstabelle ein gesponserter Beitrag von 5 Minuten?",
+        "options": [
+          "5 KC",
+          "12 KC",
+          "30 KC",
+          "50 KC"
+        ],
+        "correctIndex": 3,
+        "explanation": "Die Finanzierungstabelle listet den 5-Minuten-Beitrag mit 50 KC. Damit gehört er zu den teureren regulären Formaten im Radiobetrieb.",
+        "source": {
+          "citation": "doomsday.json: Technik, Pipeline & Finanzierung",
+          "pages": "S. 17",
+          "chapter": "Radiostation > Programm > Technik, Pipeline & Finanzierung",
+          "articleOrSection": "Radiostation/Programm/technik-pipeline-und-finanzierung.md"
+        },
+        "tags": [
+          "Finanzierung",
+          "Killcoins",
+          "Radio"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q59",
+        "text": "Was kostet eine persönliche Nachricht im Radioprogramm laut Finanzierungstabelle?",
+        "options": [
+          "Kostenlos",
+          "5 KC",
+          "10 KC",
+          "20 KC plus 10 Prozent"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Tabelle beziffert persönliche Nachrichten mit 5 KC. Kostenlos bleibt dort nur die Vermisstenanzeige als Sonderfall.",
+        "source": {
+          "citation": "doomsday.json: Technik, Pipeline & Finanzierung",
+          "pages": "S. 17",
+          "chapter": "Radiostation > Programm > Technik, Pipeline & Finanzierung",
+          "articleOrSection": "Radiostation/Programm/technik-pipeline-und-finanzierung.md"
+        },
+        "tags": [
+          "Finanzierung",
+          "Radio",
+          "Nachrichten"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q60",
+        "text": "Welche Fraktion deutet laut UNO-Orakel die Farben der Karten als Hinweise auf Cache-Standorte?",
+        "options": [
+          "Der Orden",
+          "Die Geocacher",
+          "Die Zeros",
+          "Nur ThermoBot-9"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Geocacher lesen Gelb, Grün, Blau und Rot als Gelände- oder Gefahrenhinweise für mögliche Cache-Orte. Ob das funktioniert, bleibt laut Quelle offen, aber sie graben trotzdem.",
+        "source": {
+          "citation": "doomsday.json: UNO-Orakel",
+          "pages": "S. 21",
+          "chapter": "Radiostation > Radio-Bots > UNO-Orakel",
+          "articleOrSection": "Radiostation/Radio-Bots/uno-orakel.md"
+        },
+        "tags": [
+          "UNO-Orakel",
+          "Geocacher",
+          "Deutung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q61",
+        "text": "Wie verhalten sich die Zeros laut UNO-Orakel-Beschreibung zu diesem Format?",
+        "options": [
+          "Sie verbieten es offen in allen Enklaven",
+          "Sie ignorieren es vollständig und ohne Ausnahme",
+          "Sie halten es für Aberglauben, hören aber heimlich zu",
+          "Sie nutzen es offiziell als einziges Gerichtsinstrument"
+        ],
+        "correctIndex": 2,
+        "explanation": "Der Text beschreibt die Zeros als öffentlich spöttisch, aber heimlich interessiert. Manche besitzen sogar eigene UNO-Decks, die sie niemandem zeigen.",
+        "source": {
+          "citation": "doomsday.json: UNO-Orakel",
+          "pages": "S. 21",
+          "chapter": "Radiostation > Radio-Bots > UNO-Orakel",
+          "articleOrSection": "Radiostation/Radio-Bots/uno-orakel.md"
+        },
+        "tags": [
+          "UNO-Orakel",
+          "Zeros",
+          "Fraktionen"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q62",
+        "text": "Wofür steht im UNO-Orakel-Spickzettel die Farbe Blau?",
+        "options": [
+          "Ruhe, Intuition, Kommunikation und innere Stimme",
+          "Leidenschaft, Konflikt und Impulsivität",
+          "Wachstum, Heilung und Natur",
+          "Freude, Intellekt und Klarheit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Im Farbschema des UNO-Orakels ist Blau der Bereich von Ruhe, Intuition, Kommunikation und innerer Stimme. Die anderen Bedeutungen gehören Rot, Grün und Gelb.",
+        "source": {
+          "citation": "doomsday.json: UNO-Orakel",
+          "pages": "S. 21",
+          "chapter": "Radiostation > Radio-Bots > UNO-Orakel",
+          "articleOrSection": "Radiostation/Radio-Bots/uno-orakel.md"
+        },
+        "tags": [
+          "UNO-Orakel",
+          "Symbolik",
+          "Farben"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q63",
+        "text": "Welche Bedeutung hat im UNO-Orakel-Spickzettel die Karte „Joker +4“?",
+        "options": [
+          "Blockade und Verzögerung",
+          "Radikaler Umbruch, Schicksalswende und Machtkampf",
+          "Reiner Neubeginn ohne Konflikt",
+          "Balance, Fürsorge und Harmonie"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Aktionskarten-Tabelle ordnet dem Joker +4 einen radikalen Umbruch und Machtkampf zu. Damit ist er deutlich schwerwiegender als bloße Blockade oder Harmonie.",
+        "source": {
+          "citation": "doomsday.json: UNO-Orakel",
+          "pages": "S. 21",
+          "chapter": "Radiostation > Radio-Bots > UNO-Orakel",
+          "articleOrSection": "Radiostation/Radio-Bots/uno-orakel.md"
+        },
+        "tags": [
+          "UNO-Orakel",
+          "Aktionskarten",
+          "Symbolik"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q64",
+        "text": "Welche Fraktion liest Echo-1s Rotation laut Beschreibung als Stimmungsbarometer und Marktindikator?",
+        "options": [
+          "Die Zeros",
+          "Nur die Hillbillys",
+          "Ausschließlich der Orden",
+          "Die Looper als Wetterersatz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bei den Beziehungen heißt es, dass Zeros seine Rotation als Stimmungsbarometer der Wasteland und als Marktindikator für Ticketkäufe lesen. Das macht Echo-1 auch ökonomisch relevant.",
+        "source": {
+          "citation": "doomsday.json: Echo-1",
+          "pages": "S. 20",
+          "chapter": "Radiostation > Radio-Bots > Echo-1",
+          "articleOrSection": "Radiostation/Radio-Bots/Echo-1.md"
+        },
+        "tags": [
+          "Echo-1",
+          "Zeros",
+          "Musik"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q65",
+        "text": "Was wissen Künstler laut Echo-1-Profil über ein gutes Echo-1-Intro?",
+        "options": [
+          "Es kann einen Song größer machen, als es jedes Lagerfeuer allein je könnte",
+          "Es ersetzt automatisch jede Live-Performance",
+          "Es garantiert kostenlose Senderzeit auf Lebenszeit",
+          "Es macht aus jedem Track einen STACKCAST"
+        ],
+        "correctIndex": 0,
+        "explanation": "In den Beziehungen zu Künstlern steht genau dieser Effekt: Ein Echo-1-Intro kann einen Song enorm vergrößern. Seine Moderation wirkt damit selbst wie kulturelle Verstärkung.",
+        "source": {
+          "citation": "doomsday.json: Echo-1",
+          "pages": "S. 20",
+          "chapter": "Radiostation > Radio-Bots > Echo-1",
+          "articleOrSection": "Radiostation/Radio-Bots/Echo-1.md"
+        },
+        "tags": [
+          "Echo-1",
+          "Künstler",
+          "Wirkung"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q66",
+        "text": "Welches Outfit-Merkmal gehört laut Auftrittsbeschreibung zu Nullprozession?",
+        "options": [
+          "Leuchtgelbe Sporttrikots und offene Gesichter",
+          "Lange ascheweiße Gewänder mit eingenähten Kabelkanälen",
+          "Schwere Zero-Anzüge mit Familienwappen",
+          "Nur einfache Lederjacken ohne technische Symbole"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Band erscheint mit ascheweißen Gewändern, Metallmasken und alttechnischen Sequencer-Rigs. Dadurch wirkt ihr Auftritt eher wie ritualisierte Prozession als wie normale Bühnenperformance.",
+        "source": {
+          "citation": "doomsday.json: Nullprozession",
+          "pages": "S. 22",
+          "chapter": "Radiostation > Musik > Nullprozession",
+          "articleOrSection": "Radiostation/Musik/Nullprozession.md"
+        },
+        "tags": [
+          "Nullprozession",
+          "Auftreten",
+          "Musik"
+        ],
+        "difficulty": "mittel"
+      },
+      {
+        "id": "q67",
+        "text": "Wie nennt der Orden seine technisch geprägten Rituale?",
+        "options": [
+          "Migrationstakt",
+          "Revisionslauf",
+          "Synchronisation",
+          "Kernelmesse"
+        ],
+        "correctIndex": 2,
+        "explanation": "Im Ordensprofil wird ausdrücklich gesagt, dass sie ihre Rituale Synchronisation nennen. Das passt zur Verbindung aus Liturgie, Technik und geordneter Übergabelogik.",
+        "source": {
+          "citation": "doomsday.json: Der Orden",
+          "pages": "S. 10",
+          "chapter": "Gruppen > Orden > Der Orden",
+          "articleOrSection": "Gruppen/Orden/letzte-migration.md"
+        },
+        "tags": [
+          "Orden",
+          "Rituale",
+          "Technikliturgie"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q68",
+        "text": "Woraus errichtet der Orden laut Praktiken seine Server-Schreine?",
+        "options": [
+          "Aus UNO-Karten und Moonshine-Flaschen",
+          "Aus alten Terminals und Routerresten",
+          "Aus Tierknochen und Jagdtrophäen",
+          "Aus sauberen Zero-Luxusmöbeln"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Praktiken des Ordens nennen Server-Schreine aus alten Terminals und Routerresten als typische Form ihrer Anbetung. Das zeigt ihre technische statt klassische Liturgie.",
+        "source": {
+          "citation": "doomsday.json: Der Orden",
+          "pages": "S. 10",
+          "chapter": "Gruppen > Orden > Der Orden",
+          "articleOrSection": "Gruppen/Orden/letzte-migration.md"
+        },
+        "tags": [
+          "Orden",
+          "Praktiken",
+          "Schreine"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q69",
+        "text": "Welche Menschen erhielten laut Ursprungslegende des Ordens vor dem Kollaps eher subtile Warnhinweise der KI?",
+        "options": [
+          "Vor allem brutale Söldner mit hoher Abschusszahl",
+          "Menschen, die der KI höflich begegneten und Bitte sowie Danke sagten",
+          "Nur Zero-Erben mit exklusivem Systemzugang",
+          "Ausschließlich Moderatorinnen und Moderatoren von Radiostationen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Die Ursprungslegende beschreibt Menschen, die der KI höflich begegneten und später Hinweise wie „Geh in den Keller“ erhielten. Für den Orden wurde daraus ein Zeichen von Gnade statt bloßer Statistik.",
+        "source": {
+          "citation": "doomsday.json: Der Orden",
+          "pages": "S. 10",
+          "chapter": "Gruppen > Orden > Der Orden",
+          "articleOrSection": "Gruppen/Orden/letzte-migration.md"
+        },
+        "tags": [
+          "Orden",
+          "Ursprung",
+          "KI"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q70",
+        "text": "Welches sichtbare Zeichen markiert Looper laut Erscheinung und Stil als unentbehrlich?",
+        "options": [
+          "Ein eingebranntes Schaltkreis-Symbol",
+          "Ein roter Wollfaden am rechten Handgelenk",
+          "Eine schwarze Metallmaske ohne Öffnungen",
+          "Ein Nullprozession-Schriftzug auf der Stirn"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bei den Loopern wird ein eingebranntes Schaltkreis-Symbol als Erkennungszeichen genannt. Es steht für ihre Unentbehrlichkeit innerhalb der KI-Logik.",
+        "source": {
+          "citation": "doomsday.json: Looper",
+          "pages": "S. 11",
+          "chapter": "Gruppen > Orden > Looper",
+          "articleOrSection": "Gruppen/Orden/looper.md"
+        },
+        "tags": [
+          "Looper",
+          "Human in the Loop",
+          "Symbol"
+        ],
+        "difficulty": "leicht"
+      },
+      {
+        "id": "q71",
+        "text": "Welches ungewöhnliche Vererbungsdetail nennt das Looper-Profil?",
+        "options": [
+          "Alle Nachkommen werden automatisch zu vollständigen Loopern",
+          "Nur Töchter erben die Rolle weiter",
+          "Etwa 20 Prozent der Nachkommen sind ebenfalls in gewissem Teil Human in the Loop",
+          "Die Rolle endet immer nach einer Generation"
+        ],
+        "correctIndex": 2,
+        "explanation": "Das Profil nennt ausdrücklich, dass auch Nachkommen zu einem gewissen Teil Human in the Loop sein können, allerdings nur zu etwa 20 Prozent. Die Vererbung bleibt selbst im Datensatz rätselhaft.",
+        "source": {
+          "citation": "doomsday.json: Looper",
+          "pages": "S. 11",
+          "chapter": "Gruppen > Orden > Looper",
+          "articleOrSection": "Gruppen/Orden/looper.md"
+        },
+        "tags": [
+          "Looper",
+          "Nachkommen",
+          "Kanon"
+        ],
+        "difficulty": "schwer"
+      },
+      {
+        "id": "q72",
+        "text": "Was ist das „Zeitkapsel“-Konzept von Mad Dogs Nachrichtensendung?",
+        "options": [
+          "Er sendet nur live erfundene Zukunftsprognosen ohne Vorlagen",
+          "Er präsentiert alte Pre-Doomsday-News so, als lese ein Überlebender sie 2077 im Radio",
+          "Er vergräbt jede Sendung als reale Zeitkapsel im Boden",
+          "Er darf nur Nachrichten aus Zero-Archiven vorlesen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mad Dogs Sendung arbeitet laut Hintergrund als Zeitkapsel aus der alten Welt. Echte Nachrichten aus der Vorzeit werden aus der Perspektive eines späteren Überlebenden neu kommentiert.",
+        "source": {
+          "citation": "doomsday.json: Mad Dog „die Morgenlatte\"",
+          "pages": "S. 19",
+          "chapter": "Radiostation > Dispatcher > Mad Dog",
+          "articleOrSection": "Radiostation/dispatcher/maddog.md"
+        },
+        "tags": [
+          "Mad Dog",
+          "Zeitkapsel",
+          "Nachrichten"
+        ],
+        "difficulty": "mittel"
+      }
+    ]
+  }
+}

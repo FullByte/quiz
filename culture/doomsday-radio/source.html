@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Doomsday Radio Quellenindex</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #111418;
+      --panel: #1a2027;
+      --panel-2: #222b35;
+      --text: #f4ede3;
+      --muted: #c7b8a0;
+      --line: #3c4652;
+      --accent: #d66a3d;
+      --accent-2: #efb366;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: radial-gradient(circle at top, #3d241b 0%, #181c22 45%, #101216 100%);
+      color: var(--text);
+      line-height: 1.55;
+    }
+    main {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 32px 20px 56px;
+    }
+    .hero {
+      background: linear-gradient(135deg, rgba(214, 106, 61, 0.2), rgba(239, 179, 102, 0.08));
+      border: 1px solid rgba(239, 179, 102, 0.2);
+      border-radius: 20px;
+      padding: 24px;
+      margin-bottom: 24px;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
+    }
+    h1 { margin: 0 0 12px; font-size: 2.1rem; }
+    p { margin: 0 0 14px; }
+    a { color: #ffd39e; }
+    .panel {
+      background: rgba(26, 32, 39, 0.92);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 20px;
+    }
+    table { width: 100%; border-collapse: collapse; margin-top: 16px; }
+    th, td { text-align: left; padding: 12px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+    th { color: var(--accent-2); font-weight: 700; }
+    code { color: #ffe2b7; font-family: Consolas, monospace; }
+    .badge {
+      display: inline-block;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: rgba(214, 106, 61, 0.16);
+      border: 1px solid rgba(214, 106, 61, 0.28);
+      color: #ffd6b5;
+      margin-right: 8px;
+      margin-bottom: 8px;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="hero">
+      <h1>Doomsday Radio Quellenindex</h1>
+      <p>Dieses Quiz basiert auf dem lokalen Datensatz <code>doomsday.json</code>. Da die Datei keine echte Seitennummerierung besitzt, nutzt das Quiz synthetische Referenzen im Format <strong>S. n</strong>.</p>
+      <p>Die Tabelle unten zeigt, welche Quiz-Seite welchem Eintrag im Datensatz entspricht. Für Rohdaten kannst du die Originaldatei direkt öffnen oder herunterladen.</p>
+      <a class="badge" href="../../doomsday.json">Rohdatei öffnen</a>
+      <a class="badge" href="../../doomsday.json" download>Rohdatei herunterladen</a>
+    </section>
+    <section class="panel">
+      <h2>Seitenzuordnung</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Seite</th>
+            <th>Titel</th>
+            <th>Kapitel</th>
+            <th>Pfad im Datensatz</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>S. 1</td><td>Doomsday Radio</td><td>Startseite</td><td><code>index.md</code></td></tr><tr><td>S. 2</td><td>Ascheseife</td><td>Assets &gt; Alltag &gt; Ascheseife</td><td><code>Assets/Alltag/Ascheseife.md</code></td></tr><tr><td>S. 3</td><td>Monatswickel-Kit</td><td>Assets &gt; Alltag &gt; Monatswickel-Kit</td><td><code>Assets/Alltag/Monatswickel-Kit.md</code></td></tr><tr><td>S. 4</td><td>Wärmegrube</td><td>Assets &gt; Alltag &gt; Wärmegrube</td><td><code>Assets/Alltag/Waermegrube.md</code></td></tr><tr><td>S. 5</td><td>Wasserfilter</td><td>Assets &gt; Gegenstände &gt; Wasserfilter</td><td><code>Assets/Gegenstaende/Wasserfilter.md</code></td></tr><tr><td>S. 6</td><td>COBOL-Code-Artefakt</td><td>Assets &gt; Gegenstände &gt; COBOL-Code-Artefakt</td><td><code>Assets/Gegenstaende/COBOL-Code-Artefakt.md</code></td></tr><tr><td>S. 7</td><td>Energiezellen</td><td>Assets &gt; Gegenstände &gt; Energiezellen</td><td><code>Assets/Gegenstaende/Energiezellen.md</code></td></tr><tr><td>S. 8</td><td>Orbital-Laserplattformen</td><td>Assets &gt; Satelliten &gt; Orbital-Laserplattformen</td><td><code>Assets/Sateliten/Orbital-Laserplattformen.md</code></td></tr><tr><td>S. 9</td><td>Der Stack</td><td>Gruppen &gt; DerStack &gt; Der Stack</td><td><code>Gruppen/DerStack/der-stack.md</code></td></tr><tr><td>S. 10</td><td>Der Orden</td><td>Gruppen &gt; Orden &gt; Der Orden</td><td><code>Gruppen/Orden/letzte-migration.md</code></td></tr><tr><td>S. 11</td><td>Looper</td><td>Gruppen &gt; Orden &gt; Looper</td><td><code>Gruppen/Orden/looper.md</code></td></tr><tr><td>S. 12</td><td>Geocacher</td><td>Gruppen &gt; Roamer &gt; Geocacher</td><td><code>Gruppen/Roamer/geocacher.md</code></td></tr><tr><td>S. 13</td><td>Hillbillys</td><td>Gruppen &gt; Roamer &gt; Hillbillys</td><td><code>Gruppen/Roamer/hillbillys.md</code></td></tr><tr><td>S. 14</td><td>Zeros</td><td>Gruppen &gt; Zeros &gt; Zeros</td><td><code>Gruppen/Zeros/zeros.md</code></td></tr><tr><td>S. 15</td><td>Radiostation</td><td>Radiostation &gt; Überblick</td><td><code>Radiostation/index.md</code></td></tr><tr><td>S. 16</td><td>Standard-Segmente</td><td>Radiostation &gt; Programm &gt; Standard-Segmente</td><td><code>Radiostation/Programm/standard-segmente.md</code></td></tr><tr><td>S. 17</td><td>Technik, Pipeline &amp; Finanzierung</td><td>Radiostation &gt; Programm &gt; Technik, Pipeline &amp; Finanzierung</td><td><code>Radiostation/Programm/technik-pipeline-und-finanzierung.md</code></td></tr><tr><td>S. 18</td><td>Archiv der falschen Enden</td><td>Radiostation &gt; Programm &gt; Archiv der falschen Enden</td><td><code>Radiostation/Programm/archiv-der-falschen-enden.md</code></td></tr><tr><td>S. 19</td><td>Mad Dog „die Morgenlatte&quot;</td><td>Radiostation &gt; Dispatcher &gt; Mad Dog</td><td><code>Radiostation/dispatcher/maddog.md</code></td></tr><tr><td>S. 20</td><td>Echo-1</td><td>Radiostation &gt; Radio-Bots &gt; Echo-1</td><td><code>Radiostation/Radio-Bots/Echo-1.md</code></td></tr><tr><td>S. 21</td><td>UNO-Orakel</td><td>Radiostation &gt; Radio-Bots &gt; UNO-Orakel</td><td><code>Radiostation/Radio-Bots/uno-orakel.md</code></td></tr><tr><td>S. 22</td><td>Nullprozession</td><td>Radiostation &gt; Musik &gt; Nullprozession</td><td><code>Radiostation/Musik/Nullprozession.md</code></td></tr><tr><td>S. 23</td><td>Techno-Gebete der Letzten Migration</td><td>Radiostation &gt; Musik &gt; Techno-Gebete der Letzten Migration</td><td><code>Radiostation/Musik/techno-gebete.md</code></td></tr>
+        </tbody>
+      </table>
+    </section>
+  </main>
+</body>
+</html>

@@ -114,6 +114,7 @@
       "icon": "fa-question-circle",
       "description": "Quiz und Wissen rund um culture",
       "quiz": [
+        "doomsday-radio",
         "sumo"
       ]
     }
